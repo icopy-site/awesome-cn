@@ -797,6 +797,9 @@ metadata in media files, including video, audio, and photo formats
 * [ShapeCrawler](https://github.com/ShapeCrawler/ShapeCrawler) - A fluent API for the processing of PowerPoint presentations without Microsoft Office installed.
 * [MiniExcel](https://github.com/shps951023/MiniExcel) - A micro Excel helper avoids OOM and high performance to create/mapping/template-fill-data.
 * [Toxy](https://github.com/nissl-lab/toxy) - .NET text extraction framework supports a few file formats
+* [Syncfusion .NET Word Framework](https://www.syncfusion.com/document-processing/word-framework/net) - A high-performance .NET Word framework without Microsoft Office or interop dependencies. Create, read, and edit Word documents seamlessly. Utilize advanced editor components for easy viewing, editing, and printing. Effortlessly convert Word documents to PDF, HTML, RTF, ODT, and EPUB formats with powerful conversion APIs. **[$]** **[[Free for Individuals and Small Businesses](https://www.syncfusion.com/products/communitylicense)]**
+* [Syncfusion .NET Excel Framework](https://www.syncfusion.com/document-processing/excel-framework/net) - A high-performance .NET Excel framework without Microsoft Office or interop dependencies. Create, read, and edit Excel documents seamlessly. Utilize Spreadsheet controls for creating, editing, and viewing easily. Effortlessly convert Excel files to PDF, images, and more with powerful conversion APIs. **[$]** **[[Free for Individuals and Small Businesses](https://www.syncfusion.com/products/communitylicense)]**
+* [Syncfusion .NET PowerPoint Framework](https://www.syncfusion.com/document-processing/powerpoint-framework/net) - A high-performance .NET PowerPoint framework without Microsoft Office or interop dependencies. Create, read, and edit PowerPoint files seamlessly. Effortlessly convert PowerPoint files to PDFs and images with powerful conversion APIs. **[$]** **[[Free for Individuals and Small Businesses](https://www.syncfusion.com/products/communitylicense)]**
 
 ## OpenAI
 
@@ -852,6 +855,7 @@ metadata in media files, including video, audio, and photo formats
 * [Pdfium.Net SDK](https://pdfium.patagames.com/) - Advanced C# PDF library for render, create, edit, merge, split, print, and view PDFs. Open source PDF Viewer is available on [GitHub](https://github.com/patagames). A [NuGet package](https://www.nuget.org/packages/Pdfium.Net.SDK/) is also available for easy inclusion into your projects.**[$]**
 * [QuestPDF](https://www.questpdf.com/) - QuestPDF is an open-source, modern and battle-tested library that can help you with generating PDF documents by offering friendly, discoverable and predictable C# fluent API.
 * [Kevsoft.PDFtk](https://github.com/kevbite/Kevsoft.PDFtk) - A wrapper to drive the awesome pdftk binary, which can fill PDF forms, get field information, concatenate multiple documents or pages, split documents, add or replace stamps, and can attach files to or download files from pages.
+* [Syncfusion .NET PDF Framework](https://www.syncfusion.com/document-processing/pdf-framework/net)  - A high-performance .NET PDF framework with no Adobe dependencies. Create, read, and edit PDF files seamlessly. Utilize PDF viewer controls for easy viewing, reviewing, and printing. Effortlessly convert HTML, Word, Excel, PowerPoint files, and images to PDF with powerful conversion APIs. **[$]** **[[Free for Individuals and Small Businesses](https://www.syncfusion.com/products/communitylicense)]**
 
 ## Profiler
 

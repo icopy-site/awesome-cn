@@ -622,6 +622,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [When and how to develop domain-specific languages](https://dl.acm.org/doi/abs/10.1145/1118890.1118892) - ***ACM Computing Surveys***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=8598236436890577027&hl=en&as_sdt=0,5)]. [[Preprint](https://john.cs.olemiss.edu/~hcc/csci658/notes/localcopy/WhenDSL.pdf)]. A survey on patterns in the decision, analysis, design, and implementation phases of DSL development.
 
+* [Design Guidelines for Domain Specific Languages](https://arxiv.org/abs/1409.2378) - ***OOPSLA Workshop on Domain-Specific Modeling (DSM' 09)***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=1962567819031018744&hl=en&as_sdt=0,5)]. Guidelines to support a DSL developer to achieve better quality of the language design and a better acceptance among its users.
+
 
 
 ### Problem Solving
