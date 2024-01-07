@@ -1328,6 +1328,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Sutter’s Mill](https://herbsutter.com/gotw/)
 * [Vorbrodt's C++ Blog](https://vorbrodt.blog/)
 * [foonathan::blog()](https://foonathan.net/index.html)
+* [C++ Team Blog](https://devblogs.microsoft.com/cppblog/) - Dev blog from the Microsoft Visual C++ team
 
 ## Other Awesome Projects
 *Collection of useful codes, snippets, ...*
