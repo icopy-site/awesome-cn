@@ -42,7 +42,6 @@ Company      | Openness Pledge | Open Product  | Statement     | Open Finance
 ![Balsamiq favicon](http://www.google.com/s2/favicons?domain=balsamiq.com) [**Balsamiq**](https://balsamiq.com/) | [Company — Balsamiq](https://balsamiq.com/company/#goodcitizen) | N/A |  |
 ![Bevry favicon](http://www.google.com/s2/favicons?domain=bevry.me) [**Bevry**](https://bevry.me) | [Bevry](https://bevry.me) | [DocPad](https://github.com/docpad/docpad) |  |
 ![Buffer favicon](http://www.google.com/s2/favicons?domain=buffer.com) [**Buffer**](https://buffer.com/) | [Buffer's transparency dashboard: Public salaries, equity and more](https://buffer.com/transparency) | :octocat:[Misc](https://github.com/bufferapp/) |*[Why we have a core value of transparency at our startup](http://joel.is/why-we-have-a-core-value-of-transparency-at-our-startup/)*| [Revenue](https://open.buffer.com/buffer-public-revenue-dashboard/)
-![Clarify favicon](http://www.google.com/s2/favicons?domain=clarifyhq.com) [**Clarify**](https://clarifyhq.com/) | [Clarify - Launch and manage your career](https://clarifyhq.com/open) | N/A |  |
 ![CodeCombat favicon](http://www.google.com/s2/favicons?domain=codecombat.com/) [**CodeCombat**](http://codecombat.com/) | [CodeCombat - Learn how to code by playing a game](http://codecombat.com/legal) | :octocat:[CodeCombat](https://github.com/codecombat/codecombat) |*[Why you should open-source your startup](http://blog.codecombat.com/why-you-should-open-source-your-startup)*|
 ![Couchbase favicon](http://www.google.com/s2/favicons?domain=couchbase.com) [**Couchbase**](http://www.couchbase.com/) | [Open Source Projects](http://www.couchbase.com/open-source) | :octocat:[All Products](https://github.com/couchbase) |  |
 ![Dangerous Prototypes favicon](http://www.google.com/s2/favicons?domain=dangerousprototypes.com) [**Dangerous Prototypes**](http://dangerousprototypes.com/) | [About - DP](http://dangerousprototypes.com/docs/About) | [Projects](https://code.google.com/archive/p/dangerous-prototypes-open-hardware/) |  |
@@ -68,6 +67,12 @@ Company      | Openness Pledge | Open Product  | Statement     | Open Finance
 ![Transloadit favicon](https://www.google.com/s2/favicons?domain=transloadit.com) [**Transloadit**](https://transloadit.com/) | [Open Source](https://transloadit.com/open-source/) | :octocat:[Uppy](https://uppy.io) | [Jobs & Culture](https://transloadit.com/jobs/) |
 ![wemake.services favicon](https://www.google.com/s2/favicons?domain=wemake.services) [**wemake.services**](https://wemake.services/) | [wemake-services/meta § Purpose](https://github.com/wemake-services/meta/blob/master/README.md#purpose) | :octocat:[wemake.services](https://github.com/wemake-services) |
 ![watermelon favicon](https://www.google.com/s2/favicons?domain=watermelontools.com) [**Watermelon**](https://www.watermelontools.com/) | [Promoting Openness, Starting With the Codebase](https://www.watermelontools.com/post/promoting-openness-starting-with-the-codebase) | :octocat:[Watermelon](https://github.com/watermelontools/watermelon) |
+
+### Pioneers
+
+Company      | Openness Pledge | Open Product  | Statement     | Open Finance
+------------ | --------------- | ------------- | ------------- | ------------
+[**Clarify**](https://web.archive.org/web/20201130045805/https://www.clarify.so/) | [Clarify - Launch and manage your career](https://clarifyhq.com/open) | N/A |  |
 
 ## Resources
 

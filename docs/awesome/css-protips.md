@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="AllThingsSmitty/css-protips"></div>
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/AllThingsSmitty/css-protips/master/./assets/img/bulb.svg?sanitize=true" width="200" alt="light bulb icon">
-</p>
+</div>
 
 ## CSS Protips [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -20,7 +20,7 @@ A collection of tips to help take your CSS skills pro.
 
 ### Use a CSS Reset
 
-CSS resets help enforce style consistency across different browsers with a clean slate for styling elements. You can use a CSS reset library like [Normalize](http://necolas.github.io/normalize.css/), _et al._, or you can use a more simplified reset approach:
+CSS resets help enforce style consistency across different browsers with a clean slate for styling elements. There are plenty of reset patterns to find, or you can use a more simplified reset approach:
 
 ```css
 *,
@@ -199,12 +199,12 @@ No, it's not black magic, you really can center elements vertically. You can do 
 html,
 body {
   height: 100%;
-  margin: 0;
 }
 
 body {
   align-items: center;
   display: flex;
+  justify-content: center;
 }
 ```
 
@@ -214,8 +214,7 @@ body {
 body {
   display: grid;
   height: 100vh;
-  margin: 0;
-  place-items: center center;
+  place-items: center;
 }
 ```
 
@@ -238,7 +237,6 @@ img {
   object-fit: cover;
 }
 ```
-
 
 Learn more about the `aspect-ratio` property in this [web.dev post](https://web.dev/articles/aspect-ratio).
 
