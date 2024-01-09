@@ -614,7 +614,7 @@ Books:
 
 > The Wheel of Time turns and Ages come and go, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth returns again. In the Third Age, an Age of Prophecy, the World and Time themselves hang in the balance. What was, what will be, and what is, may yet fall under the Shadow.
 
-#### [Thorn of Glass Series](https://www.goodreads.com/book/show/7896527-throne-of-glass) (2012) _by [Saraah J. Maas](https://en.wikipedia.org/wiki/Sarah_J._Maas)_ [4.21] 🔥
+#### [Thorn of Glass Series](https://www.goodreads.com/book/show/7896527-throne-of-glass) (2012) _by [Sarah J. Maas](https://en.wikipedia.org/wiki/Sarah_J._Maas)_ [4.21] 🔥
 
 This is gorgeous, dark and ridiculously epic. Fast-paced, action-packed and High-fantasy goodness lovers! People-who-don't-love-any-of-those-things-but-want-to-try-something-new lovers! - I definitely recommend this book! - [@gayatripalkar](https://github.com/gayatripalkar)
 

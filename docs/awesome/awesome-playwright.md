@@ -51,7 +51,7 @@
 - [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage) - Plugin to collect code coverage from running Playwright tests.
 - [Playwright Test for VSCode](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright) - Official Playwright test extension for VS Code.
 - [Maestro for IntelliJ](https://plugins.jetbrains.com/plugin/18100-maestro) - Playwright plugin for IntelliJ.
-- [playwright-elements](https://www.npmjs.com/package/playwright-elements) - Playwright test extension for more powerful page object implementation.
+- [playwright-elements](https://danteukraine.github.io/playwright-elements) - Playwright test extension for creatation of reusable components with ability to add child elements, methods and call them in chain. Reduce amount of your code in page object, or even use elements without page object.
 - [Playwright-cleanup](https://www.npmjs.com/package/playwright-cleanup) - A Playwright cleanup tool that simplifies test cleanup by undoing any changes to the testing environment.
 - [Playwright-performance](https://www.npmjs.com/package/playwright-performance) - A plugin that helps you optimize the speed and efficiency of web applications by measuring and analyzing the performance of ANY tested flow using Playwright.
 - [playwright-python-language-injection](https://github.com/Mattwmaster58/playwright-python-language-injection) - Language injection definitions for CSS/JS syntax highlighting when using `python-playwright` in PyCharm.

@@ -45,7 +45,6 @@ By _awesome hackathon platforms_, we mean web or mobile applications that are sp
 - [Ninjathon](https://github.com/shilomagen/hackathon-matching-platform) - Hackathon managing platform.
 - [VersusVirus App](https://github.com/VersusVirus-Hackathons/VersusVirus-App) - For managing teams at large online hackathons.
 
-
 ### Organisations
 
 > Companies that provide products and services for, or regularly organise, hackathons.
@@ -63,7 +62,7 @@ By _awesome hackathon platforms_, we mean web or mobile applications that are sp
 
 ## Tooling
 
-> These are frameworks, utilities and online tools for solving a variety of issues that hackathon organizers commonly face. They often have some way of integrating with the platforms above.  
+> These are frameworks, utilities and online tools for solving a variety of issues that hackathon organizers commonly face. They often have some way of integrating with the platforms above. See also the [Guides](#guides) listed further down, which cover many of the same topics.
 
 ### Organizing
 
@@ -82,7 +81,9 @@ By _awesome hackathon platforms_, we mean web or mobile applications that are sp
 ### Teambuilding
 
 - [Dridbot](https://github.com/dribdat/dridbot) - Multiplatform chatbot, for pepping up the experience for participants and organizers of hackathons.
+- [Steps to Building an Effective Team](https://hr.berkeley.edu/hr-network/central-guide-managing-hr/managing-hr/interaction/team-building/steps) - A bullet-point list from UC Berkley.
 - [Team Builder for MS Teams](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/hackathon-team-builder-a-teams-tab-application/ba-p/3334437) - Sample app that allows hackathon participants to form a team based on challenges they want to tackle.
+- [Team building activities](https://www.sessionlab.com/blog/team-building-activities/) - 64 fun ideas from SessionLab.
 
 ### Coaching
 
@@ -94,6 +95,7 @@ By _awesome hackathon platforms_, we mean web or mobile applications that are sp
 ### Evaluating
 
 - [@CivicWhitaker Anthology](https://smartchicagocollaborative.org/launch-the-civicwhitaker-anthology/) - Evaluates three years of organizing hackathons in Chicago civic tech.
+- [Eventflare's Journal](https://eventflare.io/journal/crafting-effective-hackathon-judging-criteria-a-step-by-step-guide) - Strategies for determining criteria & [recruiting judges](https://eventflare.io/journal/how-to-select-the-right-hackathon-judges-for-your-event).
 - [Expo Table app](https://github.com/nealrs/expo#fork-destination-box) - Create a Devpost Expo table frontend.
 - [Gavel](https://github.com/anishathalye/gavel) - A project expo judging system by HackMIT that uses fancy math to get good results.
 
@@ -107,6 +109,7 @@ By _awesome hackathon platforms_, we mean web or mobile applications that are sp
 - [Hackathon Hackers Guide](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) - Collection of high quality hackathon resources. See also [Etiquette](https://medium.com/hackathon-hackers/hackathon-hackers-etiquette-cbcb9d1cda54#.dmgz1wp4y) and [Subgroups](https://github.com/HackathonHackers/groups).
 - [Hackathon.guide](https://github.com/JoshData/hackathon.guide) - A step-by-step guide by seasoned organizer Joshua Tauberer.
 - [Hackathon Leitfaden](https://github.com/okfde/hackathon-leitfaden) - (In German) Printed guide for municipalities.
+- [Hackday Manifesto](https://github.com/hackdaymanifesto/site) - How to make your event a success, and avoid common pitfalls.
 - [hack.athon.uk](https://hack.athon.uk/) - A wiki for helping hackers get into hackathons and organise them! 
 - [Handbuch Jugend-Hackathons](https://handbuch.jugendhackt.de/) - (In German) An in-depth guide to organizing youth events.
 - [Mattermost Handbook](https://handbook.mattermost.com/contributors/contributors/how-to-run-a-hackathon) - Practical guidelines from the open source Mattermost chat server.
@@ -118,7 +121,7 @@ By _awesome hackathon platforms_, we mean web or mobile applications that are sp
 
 ## Contributing
 
-Contributions welcome! Please only suggest tools if they are actively maintained. Read the [contribution guidelines](https://github.com/dribdat/awesome-hackathon/blob/master/contributing.md) first for other details. Make sure to provide a name, link, description, in alphabetical order. There is a strong preference on open source and open access, but please mark any _awesome_ yet closed-source tools or articles behind paywalls with a lock icon (🔒).
+Contributions welcome! Please read the [guidelines](https://github.com/dribdat/awesome-hackathon/blob/master/contributing.md) first. Make sure to provide a name, link, description, in alphabetical order, in the appropriate section. Don't worry about making a mistake: your [Pull Request](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/) will be an opportunity to discuss and make amends.
 
 ## Footnotes
 

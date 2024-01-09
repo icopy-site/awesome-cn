@@ -20,6 +20,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 ### Localization and translation platforms
 
 - [Crowdin](https://crowdin.com/) - Closed source cloud-based localization technology and services company.
+- [Inlang](https://inlang.com/) - The globalization ecosystem for software companies.
 - [LocaleApp](https://www.localeapp.com/) - App for localization and translation.
 - [Transifex](https://www.transifex.com/) - Proprietary, web-based translation platform, globalization management system (GMS).
 - [Weblate](https://weblate.org/) - Copylefted libre web-based continuous translation platform.
@@ -51,6 +52,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 ### Translation software
 - [OmegaT](https://omegat.org/) - Free translation memory / CAT software that works on Windows, macOS and Linux.
 - [Argos Translate](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
+- [Fink](https://inlang.com/m/tdozzpar) - Translation editor / CAT software with no-code setup and repository-based operation.
 - [Project Fluent](https://projectfluent.org) - Asymetric translations (eg. gender variations) for localization.
 
 ## Tools
@@ -83,7 +85,8 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Polyglot](https://github.com/untra/polyglot) - A fast, painless, open-source internationalization plugin for Jekyll blogs.
 - [ICU - International Components for Unicode](https://icu.unicode.org/) - A mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications.
 - [Django docs - i18n](https://docs.djangoproject.com/en/4.1/topics/i18n/) - Part of the Django docs, focused on internationalization and localization.
-  [Localizejs](https://localizejs.com/) - Translations for websites and applications to new languages and streamline translation workflow.
+- [Localizejs](https://localizejs.com/) - Translations for websites and applications to new languages and streamline translation workflow.
+- [ParaglideJS](https://inlang.com/m/gerre34r) - Synchronous, typesafe and lightweight i18n library.
 
 ### Machine translation for developers
 - [SwiftGoogleTranslate](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use cloud translation API by Google in Swift.

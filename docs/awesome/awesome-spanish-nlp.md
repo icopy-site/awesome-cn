@@ -2,7 +2,7 @@
 ## Awesome Linguistics Resources for Spanish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-用于执行西班牙语 NLP 和 CL 的精选语言资源列表.
+Curated list of Linguistic Resources for doing Spanish NLP & CL.
 
 ## Clustering
 - [Multilingual Latent Dirichlet Allocation LDA](https://github.com/ArtificiAI/Multilingual-Latent-Dirichlet-Allocation-LDA)
@@ -69,6 +69,7 @@
 - [COW(Corpora From the Web) Ngram/Annotated People's Name Corpora ](http://hpsg.fu-berlin.de/cow/)
 - [Wikicorpus- Portion of 2006's wikipedia annotated with WordNet Synsets and POS](http://www.cs.upc.edu/~nlp/wikicorpus/)
 - [Spanish Billion Words Corpus with word2vec Embeddings](http://crscardellino.me/SBWCE/)
+- [OSCAR or Open Super-large Crawled ALMAnaCH coRpus Spanish subset](https://traces1.inria.fr/oscar/) 
 
 
 ## Misc
@@ -80,10 +81,10 @@
 
 ## Contribute
 
-欢迎投稿！ 阅读 [contribution guidelines](https://github.com/dav009/awesome-spanish-nlp/blob/master/contributing.md) 第一的.
+Contributions welcome! Read the [contribution guidelines](https://github.com/dav009/awesome-spanish-nlp/blob/master/contributing.md) first.
 
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [David Przybilla](http://alejandro.pictures) 已放弃该作品的所有版权和相关或邻接权.
+To the extent possible under law, [David Przybilla](http://alejandro.pictures) has waived all copyright and related or neighboring rights to this work.
