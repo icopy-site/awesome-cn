@@ -16,6 +16,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Security](#security) 
 - [SEO](#seo) 
 - [Serialization](#serialization) 
+- [Sitecore Search](#sitecore-search) 
 - [Sitecore Send](#sitecore-send) 
 - [WebApi](#webapi) 
 
@@ -370,6 +371,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Sitecore Host Plugins](https://github.com/JuliusAngwenyi/SitecoreHostPlugins) - Sitecore Host Plugins for extending Sitecore Identity Server.
 - [Basic Sitecore Host Application](https://github.com/georgechang/schost-basic) - A basic Sitecore Host application that displays a demo web page.
 
+
+## Sitecore Search
+
+- [Sitecore Search Starter Kit](https://github.com/Sitecore/Sitecore-Search-TS-SDK-Starter-Kit) - A website example This repository has an example implementation of a content website using the Sitecore Search JS SDK integrating with Sitecore Search services with the supports of event tracking.
+  
 ## Sitecore Send
 
 - [Sitecore Send Postman Collection](https://github.com/neilkillen/SitecoreSendPostmanCollection) - A postman collection derived from converting the Sitecore Send API Blueprint specification to Open API for use within Postman.

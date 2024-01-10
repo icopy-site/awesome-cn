@@ -83,6 +83,7 @@
 
 ### Serialization
 
+- [ini-v](https://github.com/ldedev/ini-v) - Simple and practical module for manipulating ini/cfg file.
 - [v-toxml](https://github.com/radare/v-toxml) - XML Serialization library for V.
 - [vgura](https://github.com/gura-conf/vgura) - Official Gura parser for V.
 - [vlang-yaml](https://github.com/jdonnerstag/vlang-yaml) - A V-native YAML reader, incl. YAML-to-JSON converter.
@@ -185,6 +186,7 @@
 - [clipboard](https://github.com/vlang/v/tree/master/vlib/clipboard) - V module for interacting with the OS clipboard. Fully cross-platform.
 - [mmap](https://github.com/jdonnerstag/vlang-mmap) - Provide native V-lang support for memory-mapping on Linux and Windows.
 - [vlipboard](https://github.com/asvvvad/vlipboard) - An easy to use wrapper of clipboard with Wayland and Termux support.
+- [winreg](https://github.com/ldedev/WindowsRegistry) - MS Windows Registry API. (WIP)
 
 ### Scientific computing
 
@@ -238,6 +240,7 @@
 ### Utility
 
 - [dialog](https://github.com/ttytm/dialog) - A cross-platform utility library to open system dialogs - open files, message boxes, color-pickers etc.
+- [json2v](https://github.com/ldedev/Json2V) - Convert a json to a struct in Vlang.
 - [objc](https://github.com/magic003/objc) - V bindings to Objective-C runtime.
 - [range](https://github.com/Delta456/range) - Functionality of Python's range() in V.
 - [ssh-config](https://github.com/walkingdevel/ssh-config) - A V library for parsing SSH config files.
