@@ -223,9 +223,4 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 
 If you find this project helpful and would like to show your appreciation, consider making a donation. Your contributions helps me dedicate more time working on Free and open-source projects :heart:
 
-- Monero([QR](https://zolagonano.github.io/assets/qrcodes/monero.png)): `8AF4Lybz7QwiucdYW2szsgiqTHdBp5kjZSSRm6ddzd5363S6n4jixpkACGMLx5JWZnUR5MnGF7cMoidjppruAvLvMe2ovHZ`
-- Tron([QR](https://zolagonano.github.io/assets/qrcodes/tron.png)): `TR82BiMVpZuYXG9f1B49fk3RimKXgYE3i3`
-- DogeCoin([QR](https://zolagonano.github.io/assets/qrcodes/dogecoin.png)): `DBU9L12oZRmJMyLBB9H6ZF8e5M2cPYqqZL`
-- Bitcoin([QR](https://zolagonano.github.io/assets/qrcodes/bitcoin.png)): `bc1qtya7nc42xff4w8rw6xa9zeqhdk4s3telvklcgy`
-- Litecoin([QR](https://zolagonano.github.io/assets/qrcodes/litecoin.png)): `ltc1qc3unssu58qjrqdnnl8pxep9259khfwz46un2cd`
-- BitcoinCash([QR](https://zolagonano.github.io/assets/qrcodes/bitcoincash.png)): `qq9gvne3p7sa678j9y3y32ersju83elumclvknqm9h`
+[https://zolagonano.github.io/support](https://zolagonano.github.io/support)

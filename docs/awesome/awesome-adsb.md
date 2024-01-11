@@ -78,6 +78,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [PlaneSpotters.net](https://www.planespotters.net) - A civil aviation database and aggregator with a large collection of aircraft photos and information.
 - [Plane.watch](https://plane.watch) - A community hosted flight tracker.
 - [www.live-military-mode-s.eu](https://www.live-military-mode-s.eu) - A community driven flight tracker that is focused at tracking military aircraft.
+- [adsb.chaos-consulting.de](https://adsb.chaos-consulting.de) - A non-commercial tracker for flights, ships, and radiosondes managed by enthusiasts. Focuses on the contributions of individual feeding stations.
 
 ### Non-profits
 

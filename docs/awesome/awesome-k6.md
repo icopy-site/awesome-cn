@@ -48,6 +48,7 @@ A collection of resources by the community, on (testing with) <a href="https://k
 - [Real-time stress:
 AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-time-stress-anycable-k6-websockets-and-yabeda) - Evil Martians adding "real-time stress" with k6 and WebSockets.
 - [Scaling Confidently with the Load and Fault Team](https://robinhood.engineering/scaling-confidently-with-the-load-and-fault-team-122978333d9) - Robinhood on load testing a Kubernetes system with k6.
+- [Streamlining Performance Testing with K6 and ChatGPT](https://medium.com/@monish.correia/streamlining-performance-testing-with-k6-and-chatgpt-206c6c7db82b) - Monish Correia writes k6 tests using GitHub co-pilot.
 
 ## Videos
 
@@ -63,24 +64,21 @@ AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-t
   - [Performance Testing your web app with k6](https://www.youtube.com/watch?v=Hu1K2ZGJ_K4) - A walkthrough of the open-source load and performance regression testing tool, k6, and how to load test your APIs and websites, by Chris James.
   - [Application Load Testing with k6](https://www.youtube.com/watch?v=iQmItkazLOk) - Daniel Knittl-Frank @TechTalk Days 2021, Intro to k6. 
   - [Performance testing: from zero to hero with k6 & Azure](https://www.youtube.com/watch?v=5G6zYLX9qvM) - Jose Luis Latorre Millas at Cloud Summit 2021.
-  - [Write load tests with co-pilot](https://twitter.com/yusuftayman/status/1456972872853852165) - Yusuf writing k6 tests using GitHub co-pilot.
+  - [AI-Powered K6 Testing: No Code, No Hassle, Just ChatGPT! 🦾🚀](https://www.youtube.com/watch?v=RYyPduBqGM4) - In this video, Karthik K.K. demonstrates how ChatGPT can create k6 tests without writing a single line of code.
 
-## Examples
+## Examples/Templates
 
 - [k6 examples](https://k6.io/docs/examples/) - A list of common examples on the k6 documentation.
-- [k6-circleci-example](https://github.com/li-clutter-org/k6-circleci-example) - Running k6 load tests as part of a CircleCI build.
-- [k6-jenkins-example](https://github.com/li-clutter-org/k6-jenkins-example) - Running k6 load tests as part of a Jenkins build.
-- [k6-github-actions-example](https://github.com/grafana/k6-example-github-actions) - Running k6 load tests as part of a GitHub Actions build.
-- [k6-azure-pipelines-example](https://github.com/grafana/k6-example-azure-pipelines) - Running k6 load tests as part of an Azure DevOps Pipeline.
-- [k6-bitbucket-pipelines-example](https://github.com/poponuts/k6-boilerplate) - Running k6 load tests as part of a Bitbucket Pipeline build.
-- [k6-performance-test-websocket](https://github.com/Julianhm9612/k6-performance-test-websocket) - Example of performance test for websocket with k6.
 - [k6-template-es6](https://github.com/grafana/k6-template-es6) - Template repository for bundling test projects into single test scripts runnable by k6.
-- [k6 templates](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
 - [k6-typescript-template](https://github.com/grafana/k6-template-typescript) - Template to use TypeScript with k6.
-- [example-data-generation](https://github.com/grafana/k6-example-data-generation) - Generate realistic data for k6 using faker.
-- [continuous-k6k8s](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
-- [k6-multiscenario-template](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - Use K6 to implement a Multi Scenario template.
-- [docker-k6-grafana-influxdb](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
+- [tom-miseur/k6-templates](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
+- [SwissLife-OSS/k6-multiscenario-template](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - Use K6 to implement a Multi Scenario template.
+- [Im5tu/template-k6](https://github.com/Im5tu/template-k6) - A K6 Performance Test Suite Template.
+- [mohsenny/k6-test-template](https://github.com/mohsenny/k6-test-template) - Load testing framework.
+- [kwidera/k6_framework](https://github.com/kwidera/k6_framework) - Another k6 framework example.
+- [Sahanipe/pet_store](https://github.com/Sahanipe/pet_store) - Modularized scripts for the Swagger PetStore APIs.
+- [lreimer/continuous-k6k8s](https://github.com/lreimer/continuous-k6k8s) - Continuously run k6 tests in Kubernetes using cronjobs.
+- [luketn/docker-k6-grafana-influxdb](https://github.com/luketn/docker-k6-grafana-influxdb) - Demonstrates how to run load tests with containerised instances of K6, Grafana and InfluxDB.
 
 ## Tools
 
@@ -98,16 +96,25 @@ AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-t
 - [k6-junit](https://github.com/simbadltd/k6-junit) - k6 JUnit summary exporter libray.
 - [k6-expect](https://github.com/simbadltd/k6-expect) - k6 library that simplifies writing tests in a functional way by providing a jest-like syntax for expectations.
 
-## CI
-- [k6 for GitHub actions](https://github.com/marketplace/actions/k6-load-test) - Marketplace action for running k6 in GitHub Actions.
-- [k6 for Azure DevOps Pipelines](https://marketplace.visualstudio.com/items?itemName=k6.k6-load-test) - Marketplace Extension for running k6 in an Azure Devops Pipeline.
-- [k6 CircleCI Orb](https://circleci.com/developer/orbs/orb/k6io/test) - k6 Orb for running k6 in CircleCI. Supports running tests both on the CircleCI runner and in the k6 cloud SaaS service.
-- [k6 for Atlassian Bamboo](https://k6.io/blog/integrating-k6-with-bamboo/)
+## CI/CD
+
 - [k6 for AWS CodeBuild](https://k6.io/blog/integrating-k6-with-aws-codebuild/)
+- [k6 for Azure Pipelines](https://k6.io/blog/integrating-load-testing-with-azure-pipelines/)
+- [k6 for Bamboo](https://k6.io/blog/integrating-k6-with-bamboo/)
+- [k6 for Buddy](https://k6.io/blog/integrating-k6-with-buddy-devops/)
+- [k6 for CircleCI](https://k6.io/blog/integrating-load-testing-with-circleci/)
+- [k6 for Flagger](https://grafana.com/blog/2022/04/28/deployment-time-testing-with-grafana-k6-and-flagger/)
+- [k6 for GitHub Actions](https://k6.io/blog/load-testing-using-github-actions/)
+- [k6 for GitLab](https://k6.io/blog/integrating-load-testing-with-gitlab/)
 - [k6 for Google Cloud Build](https://k6.io/blog/integrating-k6-with-google-cloud-build/)
-- [k6 for Buddy CI/CD](https://k6.io/blog/integrating-k6-with-buddy-devops/)
+- [k6 for Jenkins](https://k6.io/blog/integrating-load-testing-with-jenkins/)
+- [k6 for Keptn](https://k6.io/blog/performance-testing-in-keptn-using-k6/)
+- [k6 for TeamCity](https://k6.io/blog/load-testing-using-teamcity-and-k6/)
+
+ 
 
 ## Extensions
+
 - [k6 Extensions](https://k6.io/docs/extensions/)
 - [GitHub Topic: xk6](https://github.com/topics/xk6) - Explore k6 extensions tagged with the xk6 label.
 

@@ -1,98 +1,120 @@
 <div class="github-widget" data-repo="mdbootstrap/awesome-mdbootstrap"></div>
 
-&gt; MDBootstrap 社区中精选的最佳资源列表.
+> A curated list of the best resources in the MDBootstrap community.
 
-[MDBootstrap](https://github.com/mdbootstrap/mdb-ui-kit) 是一组灵活、响应迅速的页面模板、布局、组件和小部件，可快速构建网页.
+[MDBootstrap](https://github.com/mdbootstrap/mdb-ui-kit) is a set of slick, responsive page templates, layouts, components, and widgets to rapidly build web pages.
 
 
 
 ## Resources
 
-MDBootstrap 的官方项目和资源.
+Official projects and resources of MDBootstrap.
 
 Free
 
-- [MDB Standard Free](https://mdbootstrap.com/docs/standard/) - 免费下载，开源 Bootstrap 5 UI 工具包.
-- [MDB Angular Free](https://mdbootstrap.com/docs/angular/) - Bootstrap 5 和 Angular 11 免费 UI 套件，采用 Material Design.
-- [MDB React Free](https://mdbootstrap.com/docs/react/) - Bootstrap 5 和 React 17 免费 UI 套件，采用 Material Design.
-- [MDB Vue Free](https://mdbootstrap.com/docs/vue/) - Bootstrap 5 和 Vue 3 免费 UI 套件，采用 Material Design.
+- [MDB Standard Free](https://mdbootstrap.com/docs/standard/) - Free to download, open-source Bootstrap 5 UI Kit.
+- [MDB Angular Free](https://mdbootstrap.com/docs/angular/) - Bootstrap 5 & Angular 11 Free UI KIT with Material Design.
+- [MDB React Free](https://mdbootstrap.com/docs/react/) - Bootstrap 5 & React 17 Free UI KIT with Material Design.
+- [MDB Vue Free](https://mdbootstrap.com/docs/vue/) - Bootstrap 5 & Vue 3 Free UI KIT with Material Design.
 
 Pro
 
-- [MDB Standard Pro](https://mdbootstrap.com/docs/standard/pro/) - 最新 Bootstrap 5 的高级 UI 套件.终身使用 5000 多个高级组件、数千个模板、插件、设计块.
-- [MDB Angular Pro](https://mdbootstrap.com/docs/angular/pro/) - 带 Angular 的 Bootstrap 5 材料设计.
-- [MDB React Pro](https://mdbootstrap.com/docs/react/pro/) - 使用 React 的 Bootstrap 5 材料设计.
-- [MDB Vue Pro](https://mdbootstrap.com/docs/vue/pro/) - 使用 Vue 的 Bootstrap 5 材料设计.
+- [MDB Standard Pro](https://mdbootstrap.com/docs/standard/pro/) - Premium UI Kit for the latest Bootstrap 5. Lifetime usage of 5000+ premium components, thousands of templates, plugins, design blocks.
+- [MDB Angular Pro](https://mdbootstrap.com/docs/angular/pro/) - Material Design for Bootstrap 5 with Angular.
+- [MDB React Pro](https://mdbootstrap.com/docs/react/pro/) - Material Design for Bootstrap 5 with React.
+- [MDB Vue Pro](https://mdbootstrap.com/docs/vue/pro/) - Material Design for Bootstrap 5 with Vue.
 
 
 ## Community
 
-- [Snippets](https://mdbootstrap.com/snippets/?tag=community) - 使用 MDBootstrap 创建的项目.
-- [Support](https://mdbootstrap.com/support/) - 可以解决技术问题的地方.
+- [Snippets](https://mdbootstrap.com/snippets/?tag=community) - Projects created with MDBootstrap.
+- [Support](https://mdbootstrap.com/support/) - Place where you can solve your technical problems.
 
 ## Useful Links
 
-MDBootstrap 的官方项目和资源.
+Official projects and resources of MDBootstrap.
 
-- [Snippets](https://mdbootstrap.com/snippets/) - Bootstrap 代码示例和插件的最佳来源.
-- [LAB](https://mdbootstrap.com/docs/standard/lab/) - 由 MDB 社区创建的鼓舞人心的概念和实验.
-- [UI/UX Tips](https://mdbootstrap.com/docs/standard/customization/ui-ux-tips/) - 快速且易于实施的技巧，以改进您的设计.
-- [Services](https://mdbootstrap.com/services/)  - 我们将所有这些都整合到我们自己的产品中，因此我们的开发人员对这些工具有着独特的经验. 我们还使用各种其他解决方案.
-- [Visual Studio Code snippets](https://github.com/mdbootstrap/MDB-VSCode-snippets) - 一个扩展，允许您将最流行的 MDB 5 组件的有用片段添加到 Visual Studio Code.
-- [Angular Visual Studio Code snippets](https://github.com/mdbootstrap/mdb-angular-vscode-snippets) - 此扩展为 MDB Angular - Angular Bootstrap UI KIT 添加了片段.
-- [Webpack starter](https://github.com/mdbootstrap/mdb-webpack-starter) - 本指南详细描述了 Webpack Starter 的功能.
-- [Reviews](https://www.g2.com/products/material-design-for-bootstrap/reviews) - 用户对 mdbootstrap 的反馈.
+- [Snippets](https://mdbootstrap.com/snippets/) - Best source of Bootstrap code examples & plugins.
+- [LAB](https://mdbootstrap.com/docs/standard/lab/) - Inspirational concepts & experiments created by the community of MDB.
+- [UI/UX Tips](https://mdbootstrap.com/docs/standard/customization/ui-ux-tips/) - Quick and easy-to-implement tips to improve your design.
+- [Services](https://mdbootstrap.com/services/) - We incorporate all of them in our own products, so our developers are uniquely experienced with these tools. We also use a variety of other solutions.
+- [Visual Studio Code snippets](https://github.com/mdbootstrap/MDB-VSCode-snippets) - An extension that allows you to add useful snippets of the most popular MDB 5 components to Visual Studio Code.
+- [Angular Visual Studio Code snippets](https://github.com/mdbootstrap/mdb-angular-vscode-snippets) - This extension adds snippets for MDB Angular - Angular Bootstrap UI KIT.
+- [Webpack starter](https://github.com/mdbootstrap/mdb-webpack-starter) - This guide describes in detail the capabilities of Webpack Starter.
+- [Reviews](https://www.g2.com/products/material-design-for-bootstrap/reviews) - User feedback on mdbootstrap.
 
 ## Articles
 
-为社区做贡献并分享您的技术知识 - 或者只是阅读其他人撰写的文章.
+Contribute to the community and share your technical knowledge - or just read the articles written by others.
 
-- [Technology comparision](https://mdbootstrap.com/docs/technology-comparison/) - 2022 年最好的 JavaScript 框架是什么？
-- [Articles](https://mdbootstrap.com/articles/) - 为社区做贡献并分享您的技术知识 - 或者只是阅读其他人撰写的文章.
+- [Technology comparision](https://mdbootstrap.com/docs/technology-comparison/) - What will be the best JavaScript framework in 2022?
+- [Articles](https://mdbootstrap.com/articles/) - Contribute to the community and share your technical knowledge - or just read the articles written by others.
 
 ## Rankings
 
-- [UI Kits & Themes](https://mdbootstrap.com/publications/ui-kits/) - Bootstrap、Angular、React、Vue UI 套件.
-- [Free Bootstrap Templates & Themes](https://mdbootstrap.com/publications/free-templates/) - 令人惊叹的响应式材料设计主题.
-- [Premium Bootstrap Templates & Themes](https://mdbootstrap.com/publications/templates/) - 博客、作品集、电子商务、杂志、管理 Angular &amp; React &amp; Vue 模板.
-- [Backend Bootstrap Templates & Themes](https://mdbootstrap.com/publications/backend/) - Jamstack、PHP、MySQL、Python、NodeJS、Tailwind、Laravel 后端集成 UI 套件.
+- [UI Kits & Themes](https://mdbootstrap.com/publications/ui-kits/) - Bootstrap, Angular, React, Vue UI Kits.
+- [Free Bootstrap Templates & Themes](https://mdbootstrap.com/publications/free-templates/) - Stunning, Responsive Material Design Themes.
+- [Premium Bootstrap Templates & Themes](https://mdbootstrap.com/publications/templates/) - Blog, Portfolio, eCommerce, Magazine, Admin Angular & React & Vue Templates.
+- [Backend Bootstrap Templates & Themes](https://mdbootstrap.com/publications/backend/) - Jamstack, PHP, MySQL, Python, NodeJS, Tailwind, Laravel Backend Integrations UI Kits.
 
 ## Tools
 
-帮助使用 MDBootstrap 构建应用程序的工具和实用程序.
+Tools and utilities to help build apps using MDBootstrap.
 
-- [Logo generator](https://mdbootstrap.com/docs/standard/tools/design/logo-generator/) - 在 5 分钟内创建优雅时尚的徽标.
-- [CSS Masks & Glassmorphism Generator](https://mdbootstrap.com/docs/standard/tools/design/masks/) - 为您的设计生成完美的面具.
-- [Instagram filters CSS generator](https://mdbootstrap.com/docs/standard/tools/design/instagram-filters/) - 通过 CSS 使用著名的 Instagram 滤镜并将它们应用到您的项目中.
-- [CSS gradients generator](https://mdbootstrap.com/docs/standard/tools/design/gradients/) - 为您的设计生成完美的渐变.
-- [Fancy border radius generator](https://mdbootstrap.com/docs/standard/tools/design/fancy-border-radius/) - 使用我们的边界半径生成器生成不寻常的形状.
-- [Meta tags generator](https://mdbootstrap.com/docs/standard/tools/builders/meta-tags/) - 关注您的 SEO 为 Google 和社交媒体生成最准确的元数据.
-- [Cards generator](https://mdbootstrap.com/docs/standard/tools/builders/cards/) - 创建具有自定义形状、按钮、颜色和大小的引导卡.
-- [Buttons generator](https://mdbootstrap.com/docs/standard/tools/builders/buttons/) - 使用自定义图标、文本、形状、颜色、大小创建引导按钮.
-- [Charts creator](https://mdbootstrap.com/docs/standard/tools/builders/charts/) - 易于使用的图表生成器（饼图、折线图、条形图）.
-- [Shadows generator](https://mdbootstrap.com/docs/standard/tools/design/shadows/) - 为您的设计生成完美的阴影.
-- [SVG waves generator](https://mdbootstrap.com/docs/standard/tools/design/waves/) - 轻松生成精美的 SVG 形状并将其应用到您的设计中.
-- [Datatables builder](https://mdbootstrap.com/docs/standard/tools/builders/datatables/) - 在 5 分钟内创建优雅时尚的徽标.
-- [Alerts generator](https://mdbootstrap.com/docs/standard/tools/builders/alerts/) - 使用自定义形状、按钮、颜色、大小创建引导警报.
-- [Modals generator](https://mdbootstrap.com/docs/standard/tools/builders/modals/) - 创建具有自定义形状、大小和动画的引导模态.
-- [Icons generator](https://mdbootstrap.com/docs/standard/tools/builders/icons/)  - 1600 多个图标. 创建自定义大小、颜色、动画的引导程序图标.
-- [Table generator](https://mdbootstrap.com/docs/standard/tools/builders/table/) - 创建具有大小、颜色、动画的自定义引导程序表.
-- [Flexbox generator](https://mdbootstrap.com/docs/standard/tools/builders/flexbox/) - 在 Bootstrap 5 中创建和测试 flexbox 的最简单和最快的方法.
-- [Footer generator](https://mdbootstrap.com/docs/standard/tools/builders/footer/) - 使用自定义版权、按钮、表单、链接颜色、大小创建引导页脚.
-- [Navbar generator](https://mdbootstrap.com/docs/standard/tools/builders/navbar/) - 使用自定义颜色、品牌、图标、表单、位置创建引导导航栏.
+- [Logo generator](https://mdbootstrap.com/docs/standard/tools/design/logo-generator/) - Create an elegant and stylish logo in 5 minutes.
+- [CSS Masks & Glassmorphism Generator](https://mdbootstrap.com/docs/standard/tools/design/masks/) - Generate the perfect masks for your design.
+- [Instagram filters CSS generator](https://mdbootstrap.com/docs/standard/tools/design/instagram-filters/) - Use famous Instagram filters via CSS and apply them to your project.
+- [CSS gradients generator](https://mdbootstrap.com/docs/standard/tools/design/gradients/) - Generate the perfect gradient for your design.
+- [Fancy border radius generator](https://mdbootstrap.com/docs/standard/tools/design/fancy-border-radius/) - Generate unusual shapes with our border-radius generator.
+- [Meta tags generator](https://mdbootstrap.com/docs/standard/tools/builders/meta-tags/) - Take care of your SEO generate the most accurate meta data for Google and social media.
+- [Cards generator](https://mdbootstrap.com/docs/standard/tools/builders/cards/) - Create bootstrap cards with custom shapes, buttons, colors, sizes.
+- [Buttons generator](https://mdbootstrap.com/docs/standard/tools/builders/buttons/) - Create bootstrap buttons with custom icons, text, shapes, colors, sizes.
+- [Charts creator](https://mdbootstrap.com/docs/standard/tools/builders/charts/) - Easy to use chart builder (pie charts, line charts, bar charts).
+- [Shadows generator](https://mdbootstrap.com/docs/standard/tools/design/shadows/) - Generate the perfect shadow for your design.
+- [SVG waves generator](https://mdbootstrap.com/docs/standard/tools/design/waves/) - Easily generate beautiful SVG shapes and apply them to your design.
+- [Datatables builder](https://mdbootstrap.com/docs/standard/tools/builders/datatables/) - Create an elegant and stylish logo in 5 minutes.
+- [Alerts generator](https://mdbootstrap.com/docs/standard/tools/builders/alerts/) - Create bootstrap alerts with custom shapes, buttons, colors, sizes.
+- [Modals generator](https://mdbootstrap.com/docs/standard/tools/builders/modals/) - Create bootstrap modals with custom shapes, sizes, animations.
+- [Icons generator](https://mdbootstrap.com/docs/standard/tools/builders/icons/) - 1600+ icons. Create bootstrap icons custom with sizes, colors, animations.
+- [Table generator](https://mdbootstrap.com/docs/standard/tools/builders/table/) - Create bootstrap table custom with sizes, colors, animations.
+- [Flexbox generator](https://mdbootstrap.com/docs/standard/tools/builders/flexbox/) - The easiest and fastest way to create and test flexbox in Bootstrap 5.
+- [Footer generator](https://mdbootstrap.com/docs/standard/tools/builders/footer/) - Create bootstrap footer with custom coprytight, buttons, forms, links colors, sizes.
+- [Navbar generator](https://mdbootstrap.com/docs/standard/tools/builders/navbar/) - Create bootstrap navbar with custom colors, brand, icons, forms, placement.
 
 ## CLI & hosting
 
-强大的工具，可让您创建不同的项目. 不再需要困难的配置和部署.
+Powerful tool which allows you to create different projects. No more difficult configuration and deployment.
 
-- [MDB CLI](https://mdbgo.com/) - 使用单个命令创建、部署和托管您的项目.
-- [Quick Start](https://mdbgo.com/docs/getting-started/quick-start/) - 轻松快速地开始使用 MDB CLI 以及如何充分发挥其潜力.
-- [Getting Started](https://mdbgo.com/docs/getting-started/installation/) - 逐步介绍如何创建项目和部署.
-- [Overview](https://mdbgo.com/docs/getting-started/overview/) - 指导您如何执行不同的操作.
+- [MDB CLI](https://mdbgo.com/) - Create, deploy and host your project with a single command.
+- [Quick Start](https://mdbgo.com/docs/getting-started/quick-start/) - Get started with MDB CLI easily and quickly and how to use its full potential.
+- [Getting Started](https://mdbgo.com/docs/getting-started/installation/) - Step by step on how to create your project and deploy.
+- [Overview](https://mdbgo.com/docs/getting-started/overview/) - Guide which will take you on how to perform different actions.
+
+## TW Elements useful links (Tailwind CSS)
+
+An open-source collection of components, templates and plugins for Tailwind CSS. Easily customizable & optimized for performance.
+
+- [UI Kit](https://tw-elements.com/) - Bootstrap components recreated with Tailwind CSS, but with better design and more functionalities
+
+[TW Elements integrations](https://tw-elements.com/docs/standard/integrations/) with popular technologies.
+
+- [Django Integration](https://tw-elements.com/docs/standard/integrations/django-integration/)
+- [Angular Integration](https://tw-elements.com/docs/standard/integrations/angular-integration/)
+- [Express Integration](https://tw-elements.com/docs/standard/integrations/express-integration/)
+- [Laravel Integration](https://tw-elements.com/docs/standard/integrations/laravel-integration/)
+- [Next Integration](https://tw-elements.com/docs/standard/integrations/next-integration/)
+- [Nuxt Integration](https://tw-elements.com/docs/standard/integrations/nuxt-integration/)
+- [Django Integration](https://tw-elements.com/docs/standard/integrations/react-integration/)
+- [Remix Integration](https://tw-elements.com/docs/standard/integrations/remix-integration/)
+- [Solid Integration](https://tw-elements.com/docs/standard/integrations/solid-integration/)
+- [Svelte Integration](https://tw-elements.com/docs/standard/integrations/svelte-integration/)
+- [Sveltekit Integration](https://tw-elements.com/docs/standard/integrations/sveltekit-integration/)
+- [Vue Integration](https://tw-elements.com/docs/standard/integrations/vue-integration/)
+
 
 ## Education
 
-针对最新的 Bootstrap、Material Design、HTML、CSS、JavaScript 的组织良好的最新系列教程.
+Well-organized, up-to-date series of tutorials for the latest Bootstrap, Material Design, HTML, CSS, JavaScript.
 
 - [Video Tutorials](https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA)
 - [Written Tutorials](https://mdbootstrap.com/learn/mdb-foundations/basics/introduction/)
