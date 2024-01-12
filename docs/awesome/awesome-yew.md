@@ -124,6 +124,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [tailyew](https://github.com/fuzzycloud/tailyew) - Yew wrapper around DaisyUI (tailwindcss based) components.
 - [yew-duskmoon-ui](https://github.com/gsmlg-dev/yew-duskmoon-ui) - Duskmoon UI Component Library. This package use `stylist` to embbed css in components, so no extra CSS file is needed. [Live Demo](https://gsmlg-dev.github.io/yew-duskmoon-ui/).
 - [yew-bootstrap](https://github.com/isosphere/yew-bootstrap) - A Yew wrapper for the Bootstrap 5 component library.
+- [Zu](https://github.com/RustVis/zu) - Yew web components, implementing Material Design.
 
 ### Components
 
