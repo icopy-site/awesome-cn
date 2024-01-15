@@ -321,6 +321,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Dynatrace and JMeter integration](https://docs.dynatrace.com/docs/platform-modules/automations/cloud-automation/test-automation/dynatrace-and-jmeter-integration)
 - [JMeter integration with AppDynamics](https://docplayer.net/62851982-Jmeter-integration-with-appdynamics.html) - APM & EUM solution with JMeter integration.
 - Performance Remediation using New Relic and JMeter: [part 1](https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-1-3/), [part 2](https://moduscreate.com/blog/performance-remediation-using-new-relic-jmeter-part-2-3/)
+- [jmeter-elk-apm tool](https://github.com/vdaburon/jmeter-elk-apm) - Manages the integration of ElasticSearch Application Performance Monitoring API in the Apache JMeter.
 
 ## JMeter Performance
 

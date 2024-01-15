@@ -77,6 +77,7 @@ scripts to manage dotfiles and plugins.
 | [sobolevn's dotfiles](https://github.com/sobolevn/dotfiles)   | Dotfiles for the developer happiness                                     | macOS, zsh, brew, vscode, codespaces, python, node, elixir                                                                  |
 | [yutkat's dotfiles](https://github.com/yutkat/dotfiles)       | Well-maintained dotfiles that use CI to test and measure startup speeds. | Zsh, Neovim, Wezterm, swaywm working on Arch/Ubuntu/Fedora Linux.                                                           |
 | [Luke's voidrice](https://github.com/LukeSmithxyz/voidrice)   | My dotfiles (deployed by LARBS)                                          | Zsh, vim/nvim, zsf                                                                                                          |
+| [2KAbhishek's dots2k](https://github.com/2KAbhishek/dots2k)   | Passionately crafted, extensible dotfiles with multi platform support    | CLI tools at core, with extensions for different platforms (windows/mac/android), editors and window managers               |
 
 ### Fish
 
@@ -112,12 +113,14 @@ scripts to manage dotfiles and plugins.
 - [homeshick](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
 - [mackup](https://github.com/lra/mackup) - Keep your application settings in sync (macOS/Linux).
 - [Pearl](https://github.com/pearl-core/pearl) - Package manager that allows to control, sync, share dotfiles as
-  packages automatically activated during shells or editors startup. There is a wide range of packages already available.
-  in the [Official Pearl Hub](https://github.com/pearl-hub) (for Linux and OSX).
+  packages automatically activated during shells or editors startup. There is a wide range of packages already
+  available. in the [Official Pearl Hub](https://github.com/pearl-hub) (for Linux and OSX).
 - [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management.
 - [themer](https://github.com/themerdev/themer) - Manage and generate themes across your development tools from within
   your dotfiles.
 - [toml-bombadil](https://github.com/oknozor/toml-bombadil) - Templatize and manage your dotfiles.
+- [xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and
+  directories.
 - [yadm](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers,
   using a shared Git repository and some additional features.
 
@@ -132,9 +135,10 @@ scripts to manage dotfiles and plugins.
 - [dotfiles.github.io](https://dotfiles.github.io/) - Your unofficial guide to dotfiles on GitHub.
 - [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) - Directory structure and
   directory contents in Linux distributions.
-- [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html) - [Summary](https://wiki.archlinux.org/title/XDG_Base_Directory)
-- [A lesson in shortcuts](https://www.reddit.com/r/linux/comments/at05xh/comment/egyj6lr/) - How the idea of "hidden" or
-  "dot" files was born, by Rob Pike (originally posted on Google+).
+- [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html) -
+  [Summary](https://wiki.archlinux.org/title/XDG_Base_Directory)
+- [A lesson in shortcuts](https://web.archive.org/web/20180827160401/https://plus.google.com/+RobPikeTheHuman/posts/R58WgWwN9jp) -
+  How the idea of "hidden" or "dot" files was born, by Rob Pike (originally posted on Google+).
 
 ## Related Lists
 
