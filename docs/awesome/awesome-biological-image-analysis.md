@@ -42,6 +42,7 @@ Biological image analysis aims to increase our understanding of biology through 
 - [DeepSlide](https://github.com/BMIRDS/deepslide) - A sliding window framework for classification of high resolution microscopy images.
 - [EBImage](https://github.com/aoles/EBImage) - Image processing toolbox for R.
 - [GPim](https://github.com/ziatdinovmax/GPim) - Gaussian processes and Bayesian optimization for images and hyperspectral data.
+- [MAPS](https://github.com/mahmoodlab/MAPS) - MAPS (Machine learning for Analysis of Proteomics in Spatial biology) is a machine learning approach facilitating rapid and precise cell type identification with human-level accuracy from spatial proteomics data.
 - [MorpholibJ](https://github.com/ijpb/MorphoLibJ) - Collection of mathematical morphology methods and plugins for ImageJ.
 - [PartSeg](https://github.com/4DNucleome/PartSeg) - A GUI and a library for segmentation algorithms.
 - [PyImSegm](https://github.com/Borda/pyImSegm) - Image segmentation - general superpixel segmentation and center detection and region growing.

@@ -73,6 +73,7 @@ AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-t
 - [k6-typescript-template](https://github.com/grafana/k6-template-typescript) - Template to use TypeScript with k6.
 - [tom-miseur/k6-templates](https://github.com/tom-miseur/k6-templates/) - Opinionated starter templates for k6 projects.
 - [SwissLife-OSS/k6-multiscenario-template](https://github.com/SwissLife-OSS/K6-MultiScenario-template) - Use K6 to implement a Multi Scenario template.
+- [agilob/multiscenario-tests](https://b.agilob.net/programming/k6/multiscenario-tests/) - Running multiple scenarios at once.
 - [Im5tu/template-k6](https://github.com/Im5tu/template-k6) - A K6 Performance Test Suite Template.
 - [mohsenny/k6-test-template](https://github.com/mohsenny/k6-test-template) - Load testing framework.
 - [kwidera/k6_framework](https://github.com/kwidera/k6_framework) - Another k6 framework example.
