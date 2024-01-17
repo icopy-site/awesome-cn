@@ -42,6 +42,7 @@
 * [Designing Open Hardware for 21st century science](https://www.youtube.com/watch?v=Od_9yJqc098) - Presentation by Andre Maia Chagas.
 * [Why open source hardware is(n't) working](https://www.youtube.com/watch?v=7ifGu22bhd4) - Presentation by David Cuartielles.
 * [Open source and the future of hardware](https://www.youtube.com/watch?v=_EZT57dtWHM) - Talk by Neil Gershenfeld.
+* [On behalf of mankind: thank you for sharing!](https://www.youtube.com/watch?v=HBS8sS138GE) - TEDx talk by Jerry de Vos
 
 ## Papers
 
