@@ -44,6 +44,7 @@
 - [Foliate](https://github.com/johnfactotum/foliate) - Simple and modern eBook reader.
 - [Marker](https://github.com/fabiocolacio/Marker) - Markdown editor with an integrated previewer.
 - [Paper Clip](https://github.com/Diego-Ivan/Paper-Clip) - PDF metadata editor.
+- [RNote](https://github.com/flxzt/rnote) - Sketch and take handwritten notes.
 
 ### Productivity and Time
 
@@ -99,6 +100,8 @@
 ### Scientific Tooling
 
 - [Plots](https://apps.gnome.org/app/com.github.alexhuntley.Plots/) - Simple graph plotting. ![GNOME Circle][GNOME Circle]
+- [Graphs](https://apps.gnome.org/Graphs/) - Plot and manipulate data. ![GNOME Circle][GNOME Circle]
+
 
 ### Gaming
 
@@ -149,6 +152,7 @@
 - [Authenticator](https://apps.gnome.org/app/com.belmoussaoui.Authenticator/) - Generate Two-Factor Codes. ![GNOME Circle][GNOME Circle]
 - [Collisions](https://apps.gnome.org/en/app/dev.geopjr.Collision/) - Check hashes for your files. ![GNOME Circle][GNOME Circle]
 - [File Shredder](https://apps.gnome.org/app/com.github.ADBeveridge.Raider/) - Securely delete your files. ![GNOME Circle][GNOME Circle]
+- [Key Rack](https://gitlab.gnome.org/sophie-h/key-rack) - Tool that allows to view and edit keys, like passwords or tokens, stored by apps.
 
 ### Development and Design
 
@@ -269,10 +273,10 @@
 
 ### Themes for non-GTK apps
 
-
 - [Adwaita for Steam](https://github.com/tkashkin/Adwaita-for-Steam) - Skin to make Steam look more like a native GNOME app.
 - [Adwaita theme for VS Code](https://github.com/piousdeer/vscode-adwaita) - Dark and light themes for VS Code based on GNOME's look and GNOME Builder's syntax highlighting.
 - [Firefox GNOME Theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - Integrate Firefox into GNOME-based desktop using Adwaita.
+- [Thunderbird GNOME Theme](https://github.com/rafaelmardojai/thunderbird-gnome-theme) - Integrate Thunderbird into GNOME-based desktop using Adwaita.
 - [Obsidian Adwaita Theme](https://github.com/birneee/obsidian-adwaita-theme) - [Obsidian](https://obsidian.md) theme in the style of GNOME Adwaita.
 
 ## Community

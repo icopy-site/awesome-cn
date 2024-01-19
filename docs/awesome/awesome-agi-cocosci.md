@@ -1295,9 +1295,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [Cell Culture: Implementing robotics and artificial intelligence](https://elifesciences.org/articles/80609) - ***eLife***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=10725537391648003592&hl=en&as_sdt=0,5)].
 
-* [Emergent autonomous scientific research capabilities of large language models](https://arxiv.org/abs/2304.05332) - 2023. [[All Versions](https://scholar.google.com/scholar?cluster=14553083883464125776&hl=en&as_sdt=0,5)].
-
-* [ChemCrow: Augmenting large-language models with chemistry tools](https://arxiv.org/abs/2304.05376) - 2023. [[All Versions](https://scholar.google.com/scholar?cluster=8711939262720486725&hl=en&as_sdt=0,5)].
+* [ChemCrow: Augmenting large-language models with chemistry tools](https://openreview.net/forum?id=wdGIL6lx3l) - ***NeurIPS AI for Science Workshop***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=8711939262720486725&hl=en&as_sdt=0,5)]. [[Preprint](https://arxiv.org/abs/2304.05376)].
 
 * [LEGAL-BERT: The Muppets straight out of Law School](https://aclanthology.org/2020.findings-emnlp.261/) - ***EMNLP'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=11254432523766039890&hl=en&as_sdt=0,5)]. Generating answers to legal questions, analyze contracts, and summarizing legal documents, making legal knowledge more accessible to non-experts.
 
