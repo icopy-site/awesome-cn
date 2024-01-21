@@ -1545,7 +1545,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [Human-like property induction is a challenge for large language models](http://www.charleskemp.com/papers/hanrpk_humanlikepropertyinductionisachallengeforlargelanguagemodels.pdf) - ***CogSci'22***, 2022. 
 
-* [SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks](https://arxiv.org/abs/2305.17390) - 2023.
+* [SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks](https://arxiv.org/abs/2305.17390) - ***NeurIPS'23***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=3844178012869500706&hl=en&as_sdt=0,5)]. [[Project](https://swiftsage.github.io/)].
 
 
 #### Commonsense Knowledgebase
