@@ -260,6 +260,7 @@ As the ecosystem grows, so does the content. DYOR and follow the projects you fi
 * [How to connect your frontend to Cosmos blockchain](https://dev.to/kikiding/how-to-connect-your-frontend-to-cosmos-blockchain-5fcn)
 * [(Not So) Smart Cosmos, examples of common Cosmos app vulnerabilities](https://github.com/crytic/building-secure-contracts/tree/master/not-so-smart-contracts/cosmos)
 * [Go coding guide](https://cyber.orijtech.com/scsec/cosmos-go-coding-guide)
+* [The Cosmos Security Handbook - Part 1](https://www.faulttolerant.xyz/2024-01-16-cosmos-security-1)
 
 ## Related
 

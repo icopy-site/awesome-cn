@@ -334,11 +334,11 @@ The Chronicles of Prydain encapsulates what I deem to be a perfect fantasy serie
 
 Books:
 
--[The Book of Three](https://www.goodreads.com/book/show/24780.The_Book_of_Three)
--[The Black Cauldron](https://www.goodreads.com/book/show/24784.The_Black_Cauldron)
--[The Castle of Llyr](https://www.goodreads.com/book/show/24779.The_Castle_of_Llyr)
--[Taran Wanderer](https://www.goodreads.com/book/show/24782.Taran_Wanderer)
--[The High King](https://www.goodreads.com/book/show/24781.The_High_King)
+- [The Book of Three](https://www.goodreads.com/book/show/24780.The_Book_of_Three)
+- [The Black Cauldron](https://www.goodreads.com/book/show/24784.The_Black_Cauldron)
+- [The Castle of Llyr](https://www.goodreads.com/book/show/24779.The_Castle_of_Llyr)
+- [Taran Wanderer](https://www.goodreads.com/book/show/24782.Taran_Wanderer)
+- [The High King](https://www.goodreads.com/book/show/24781.The_High_King)
 
 > The five novels take place in Prydain, a fictional country ruled by a High King who oversees several minor kingdoms. The setting is based on Wales and inhabited by creatures and characters inspired by Welsh mythology and folklore. The series follows the protagonist Taran, a youth of unknown parentage living on a farm with an old enchanter named Dallben and a farmer named Coll. Taran, who dreams of being a great hero, is named "Assistant Pig-Keeper" and tasked with helping to care for and protect Hen Wen, a white oracular pig magically empowered with clairvoyance. Taran has a series of adventures wherein he helps protect the land of Prydain from various threats, chief among them the evil Arawn, whose forces include an undead army known as the Cauldron-Born. Throughout the novels, Taran's major companions are the Princess Eilonwy, the bard Fflewddur Fflam, the wild beast-man Gurgi, and the dwarf Doli. The heroes frequently work alongside the Fair Folk (a society of elves and similar beings) and the warriors known as the Sons of Don. Along with various battles against forces of evil, the novels focus on Taran's journey of maturity.
 
@@ -350,9 +350,9 @@ One of my favorite parts of the books was the unique perspective brought by each
 
 Books:
 
--[The City of Brass](https://www.goodreads.com/book/show/32718027-the-city-of-brass)
--[The Kingdom of Copper](https://www.goodreads.com/book/show/39988431-the-kingdom-of-copper)
--[The Empire of Gold](https://www.goodreads.com/book/show/52166786-the-empire-of-gold)
+- [The City of Brass](https://www.goodreads.com/book/show/32718027-the-city-of-brass)
+- [The Kingdom of Copper](https://www.goodreads.com/book/show/39988431-the-kingdom-of-copper)
+- [The Empire of Gold](https://www.goodreads.com/book/show/52166786-the-empire-of-gold)
 
 >In the Daevabad Trilogy, S. A. Chakraborty builds an astounding world full of magic and conflict. Nahri begins as a grifter in Egypt, but accidentally summons a djinn who unwillingly introduces her to a world of magic and the city he once called home. Its history is dark and its future uncertain as Nahri discovers who she really is and how she can change the world of the djinn.
 
@@ -1184,7 +1184,7 @@ It's a Romantic Dark Fantasy. Watch it when you have a good mood. The movie is f
 
 ## TV Series
 
-#### [Avatar: The Last Airbender](http://www.imdb.com/title/tt0417299/) (2005-2008) [9.2]
+#### [Avatar: The Last Airbender](http://www.imdb.com/title/tt0417299/) (2005-2008) [9.3]
 
 Uhm, the best. It's awesome. Stop what you're doing and go watch it. Now. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -1232,6 +1232,12 @@ Supernatural is somewhat endearing in that the main characters (the only ones wh
 
 > Two brothers follow their father's footsteps as hunters, fighting evil supernatural beings of many kinds, including monsters, demons, and gods that roam the earth.
 
+#### [The Legend of Korra](https://www.imdb.com/title/tt1695360/) (2012-2014) [8.3]
+
+The phenomenal sequel to *Avatar: The Last Airbender*, has just as good if not better storytelling, world building and lovable characters as the first entry in the franchise. Revolves around Korra, who's the new Avatar and you have to deal with it! - [@elvybean](https://github.com/elvybean)
+
+> Avatar Korra fights to keep Republic City safe from the evil forces of both the physical and spiritual worlds.
+
 #### [The Originals](https://www.imdb.com/title/tt2632424) (2013-2018) [8.2]
 
 The Originals may overwhelm casual viewers with its myriad twists and bevy of supernatural beings, but this a sleek, atmospheric Vampire Diaries spinoff with potential. - [@TREXXX27](https://github.com/TREXXX27)
@@ -1247,6 +1253,8 @@ If you are looking for romance, teenagers figuring out life and guys removing th
 #### [The Witcher](https://www.imdb.com/title/tt5180504/) (2019-ongoing) [8.3]
 
 The natural choice for those who read the Witcher book series, The Witcher tv adaption is mostly faithful to the books, in theme if not in actual screenplaying, with Henry Cavill in the main role, great acting and a tone similar to Game of Thrones. Bonus point for the captivating soundtrack. [@Donearm](https://github.com/Donearm)
+
+Not as good as the source material but still an incredible show nonetheless. And yes the soundtrack is amazing! - [@elvybean](https://github.com/elvybean)
 
 > Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.
 
