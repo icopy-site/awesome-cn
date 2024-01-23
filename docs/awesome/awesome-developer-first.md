@@ -3,7 +3,7 @@
 
 
 A curated list of awesome developer-first products.  
-(Shameless plug) You might like [unzip.dev](https://unzip.dev?ref=github-adf) (developer trends newsletter I created).  
+(👀 Shameless plug) You might like [unzip.dev](https://unzip.dev?ref=github-adf) (developer trends newsletter I created).  
 You can follow [Agam](https://twitter.com/agammore) and [flo](https://twitter.com/fmerian) for more dev related content :) 
 
 The definition of developer-first for this repo is:
@@ -44,6 +44,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Firebase Auth](https://firebase.google.com/products/auth) - Google Firebase's take on authentication.
 * [FusionAuth](https://fusionauth.io/) - Security-centric authentication as a Service, including self-hosting.
 * [Hanko](https://www.hanko.io/) - Passwordless (WebAuthn API) PSD2, eIDAS, and GDPR compliant. ![Hanko](https://img.shields.io/github/contributors-anon/teamhanko/hanko?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [Kinde](https://kinde.com/) - Authentification and user management as a service.
 * [LoginRadius](https://www.loginradius.com/) - Managed user authentication service with SSO.
 * [Magic.link](https://magic.link) - Passwordless (email-based) log in as a service.
 * [Okta](https://developer.okta.com/) - Embeddable authentication with SSO.
@@ -58,6 +59,11 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 *Automate workflows via APIs and SDKs.*
 * [n8n](http://n8n.io/) - Free and source-available fair-code licensed workflow automation tool. ![n8n](https://img.shields.io/github/contributors-anon/n8n-io/n8n?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [Trigger.dev](http://trigger.dev/) - Open-source platform to create workflows from APIs, on a schedule or on demand. ![trigger.dev](https://img.shields.io/github/contributors-anon/triggerdotdev/trigger.dev?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+
+## Backend-as-a-Service
+*Abstract away all the backend hassles with an out-of-the-box suite of backend solutions.*
+* [Appwrite](https://appwrite.io/) - End-to-end backend server for frontend and mobile developers. ![Appwrite](https://img.shields.io/github/contributors-anon/appwrite/appwrite?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
+* [Supabase](https://supabase.io/) - Hosted and open source managed Postgres DB like Firebase. ![Supabase](https://img.shields.io/github/contributors-anon/supabase/supabase?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 
 ## CI/CD
 *Continuous Integration/Delivery.*
@@ -91,7 +97,6 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [CrateDB](https://crate.io/) - Distributed open-source SQL database for real-time analytics. ![Crate](https://img.shields.io/github/contributors-anon/crate/crate?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [Neuledge](https://neuledge.com/) - Abstract ORM with a universal schema language for any kind of database.
 * [PlanetScale](https://planetscale.com/) - Hosted managed MySQL database, CI integration & auto scaling.
-* [Supabase](https://supabase.io/) - Hosted and open source managed postgres DB like firebase. ![Supabase](https://img.shields.io/github/contributors-anon/supabase/supabase?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)
 * [Upstash](https://upstash.com/) - Serverless tailored redis provider.
 
 ## Debugging 
