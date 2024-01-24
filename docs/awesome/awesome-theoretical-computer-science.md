@@ -80,19 +80,36 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ### Books<a name=logic_computational_complexity_books></a>
 - [Pudlák. Logical Foundations of Mathematics and Computational Complexity: A Gentle Introduction](https://www.springer.com/gp/book/9783319001180) - Presents a wide range of results in logic and computational complexity.
 ## Algorithms<a name=algorithms></a>
-## Lecture Videos Playlists<a name=algorithms_lecture_videos_playlists></a>
+## General<a name=algorithms_general></a>
+### Lecture Notes<a name=algorithms_general_lecture_notes></a>
+- [Arora. Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall15/cos521/) - Notably uses ideas such as randomness, approximation, high dimensional geometry. Faces uncertainty, approaches to handle big data, handling intractability, heuristic approaches, ..etc.
+### Books<a name=algorithms_general_books></a>
+- [Knuth. The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) - A legendary series by Donald Knuth on design and analysis of algorithms.
+## Lower Bounds<a name=algorithms_lower_bounds></a>
+### Lecture Videos Playlists<a name=algorithms_lower_bounds_lecture_videos_playlists></a>
 - [Demaine. Algorithmic Lower Bounds: Fun with Hardness Proofs](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/) - A class taking a practical approach to proving problems can't be solved efficient.
-## Lecture Notes<a name=algorithms_lecture_notes></a>
+### Books<a name=algorithms_lower_bounds_books></a>
+- [Demaine, Gasarch & Hajiaghayi. Computers and Intractability: A Guide to Algorithmic Lower Bounds](https://hardness.mit.edu/) - A sequel to Garey and Johnson's Computers and Intractability: A Guide to NP-Completeness. New topics include Parameterized Complexity, Lower bounds on approximation, Other hardness assumptions (ETH, 3SUM-conjecture, APSP-conjecture, UGC, Others), Online Algorithms, Streaming Algorithms, Polynomial Parity Arguments, and Parallelism.
+- [Demaine. Games, Puzzles, and Computation](https://www.routledge.com/Games-Puzzles-and-Computation/Hearn-Demaine/p/book/9781568813226) - It shows that games and puzzles can serve as powerful models of computation, Offering a new way of thinking about computation.
+## Randomization & Probability<a name=algorithms_randomization__probability></a>
+### Lecture Notes<a name=algorithms_randomization__probability_lecture_notes></a>
 - [Mary Wootters. Randomized Algorithms and Probabilistic Analysis. Stanford](https://web.stanford.edu/class/archive/cs/cs265/cs265.1232/) - Key tools of probabilistic analysis, and application of these tools to understand the behaviors of random processes and algorithms. Emphasis is on theoretical foundations, though applications will be discussed in machine learning and data analysis, networking, and systems. Topics include tail bounds, the probabilistic method, Markov chains, and martingales, with applications to analyzing random graphs, metric embeddings, and random walks.
 - [Koutsoupias. Probability and Computing. Oxford](https://www.cs.ox.ac.uk/people/elias.koutsoupias/pc2018-19/) - Introduction to probabilistic methods in computer science.
 - Harvey. [First](https://www.cs.ubc.ca/~nickhar/Book1.pdf) and [Second](https://www.cs.ubc.ca/~nickhar/Book2.pdf) Course in Randomized Algorithms. Columbia. - Respectively, undergrad and grad courses for probabilistic methods in algorithms.
 - [Lee. Randomized Algorithms and Probabilistic Analysis. Washington.](https://homes.cs.washington.edu/~jrl/teaching/cse525sp19/) - Topics include Discrete probability, High-dimensional geometry and statistics, Information and entropy, and Markov chains and convergence to equilibrium.
 - [Aspnes. Notes on Randomized Algorithms](https://www.cs.yale.edu/homes/aspnes/classes/469/notes.pdf) - Supplemental notes to the standard books by Mitzenmacher & Upfals, and Motwani & Raghavan.
-- [Arora. Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall15/cos521/) - Notably uses ideas such as randomness, approximation, high dimensional geometry. Faces uncertainty, approaches to handle big data, handling intractability, heuristic approaches, ..etc.
-## Books<a name=algorithms_books></a>
-- [Demaine, Gasarch & Hajiaghayi. Computers and Intractability: A Guide to Algorithmic Lower Bounds](https://hardness.mit.edu/) - A sequel to Garey and Johnson's Computers and Intractability: A Guide to NP-Completeness. New topics include Parameterized Complexity, Lower bounds on approximation, Other hardness assumptions (ETH, 3SUM-conjecture, APSP-conjecture, UGC, Others), Online Algorithms, Streaming Algorithms, Polynomial Parity Arguments, and Parallelism.
-- [Demaine. Games, Puzzles, and Computation](https://www.routledge.com/Games-Puzzles-and-Computation/Hearn-Demaine/p/book/9781568813226) - It shows that games and puzzles can serve as powerful models of computation, Offering a new way of thinking about computation.
-- [Knuth. The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) - A legendary series by Donald Knuth on design and analysis of algorithms.
+## Approximation<a name=algorithms_approximation></a>
+### Lecture Notes<a name=algorithms_approximation_lecture_notes></a>
+- [Chekuri. Approximation Algorithmis Illinois](https://courses.engr.illinois.edu/cs583/fa2021/) - A broad introduction to results and techniques with an emphasis on fundamental problems and widely applicable tools. Also more advanced and specialized topics.
+- [Dinitz. Approximation Algorithms. Johns Hopkins](https://www.cs.jhu.edu/~mdinitz/classes/ApproxAlgorithms/Spring2021/) - It includes greedy, local search, dynamic programming, randomized rounding, tree embeddings, and semidefinite programming.
+- [Gupta & Ravi. Approximation Algorithms. CMU](http://www.cs.cmu.edu/afs/cs/academic/class/15854-f05/www/) - It includes convex programming-based, randomness, and metric methods.
+### Books<a name=algorithms_approximation_books></a>
+- [Williamson & Shmoys. The Design of Approximation Algorithms](https://www.designofapproxalgs.com/) - It includes greedy, local search algorithms, dynamic programming, linear and semidefinite programming, and randomization.
+- [Du & Ko. Design and Analysis of Approximation Algorithms](https://u.pcloud.link/publink/show?code=XZpzNWXZSCkVs6BKd5RzyNhoRzfJCJoaqSok) - A technique-oriented approach provides a unified view. It includes detailed algorithms, proofs, analyses, examples, and applications from research papers.
+- [Vijay Vazirani. Approximation Algorithms](https://u.pcloud.link/publink/show?code=XZgHNWXZkdvT8L18drSSgLP9vqBIDmbPreD7)
+## Parameterized<a name=algorithms_parameterized></a>
+### Books<a name=algorithms_parameterized_books></a>
+- Fedor Fomin. Parametrized Algorithms - Modern comprehensive explanation of recent tools and techniques with exercises, for graduate students.
 ## Information/Coding Theory<a name=informationcoding_theory></a>
 ## Lecture Notes<a name=informationcoding_theory_lecture_notes></a>
 - [Madhu Sudan. Essential Coding Theory](http://people.seas.harvard.edu/~madhusudan/courses/Spring2020/) - Some elements of Algorithmic tasks of encoding and decoding and its connections with error-correction; These codes are now tools in the design and analysis of algorithms, and also in many aspects of computational complexity. The focus is on constructions of algorithmic and asymptotic importance. Requires only basic mathematical maturity.

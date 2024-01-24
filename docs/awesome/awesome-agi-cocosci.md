@@ -1737,7 +1737,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [Unsupervised Structure Learning of Stochastic And-Or Grammars](http://www.stat.ucla.edu/~sczhu/papers/Conf_2013/Learning_AoG_NeurIPS_2013.pdf) - ***NeurIPS'13***, 2013. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=4354984630817844670)].
 
-* [Algorithms of Adaptation in Inductive Inference](https://psyarxiv.com/ysndt) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=16222039361294164246&hl=en&as_sdt=0,5)].
+* [Algorithms of Adaptation in Inductive Inference](https://psyarxiv.com/ysndt) - ***Cognitive Psychology***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=16222039361294164246&hl=en&as_sdt=0,5)].
 
 * [A representational analysis of numeration systems](https://www.sciencedirect.com/science/article/pii/0010027795006743) - ***Cognition***, 1995. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=8852566070856662412)].
 
