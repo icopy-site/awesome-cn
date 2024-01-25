@@ -228,7 +228,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Codeception](https://github.com/Codeception/Codeception) - A full stack testing framework.
 * [Faker](https://github.com/fakerphp/faker) - A fake data generator library.
 * [Foundry](https://github.com/zenstruck/foundry) - A fixture factory generation library for Doctrine.
-* [HTTP Mock](https://github.com/InterNations/http-mock) - A library for mocking HTTP requests in unit tests.
 * [Infection](https://github.com/infection/infection) - An AST-based PHP Mutation testing framework.
 * [Kahlan](https://github.com/kahlan/kahlan) - Full stack Unit/BDD testing framework with built-in stub, mock and code-coverage support.
 * [Mink](https://mink.behat.org/en/latest/) - Web acceptance testing.
@@ -236,9 +235,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Nette Tester](https://github.com/nette/tester) - A productive and enjoyable parallel unit testing framework.
 * [ParaTest](https://github.com/paratestphp/paratest) - A parallel testing library for PHPUnit.
 * [Pest](https://pestphp.com/) - A testing framework with a focus on simplicity.
-* [Peridot](https://github.com/peridot-php/peridot) - An event-driven test framework.
 * [Phake](https://github.com/phake/phake) - Another mock object library for testing.
-* [Pho](https://github.com/danielstjules/pho) - Another behavior-driven development testing framework.
 * [PHP-Mock](https://github.com/php-mock/php-mock) - A mock library for built-in PHP functions (e.g. time()).
 * [PHP MySQL Engine](https://github.com/vimeo/php-mysql-engine) -  A MySQL engine written in pure PHP.
 * [PHPSpec](https://github.com/phpspec/phpspec) - A design by specification unit testing library.
