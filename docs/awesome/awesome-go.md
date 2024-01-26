@@ -518,6 +518,7 @@ _Data stores with expiring records, in-memory distributed data stores, or in-mem
 - [groupcache](https://github.com/golang/groupcache) - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [imcache](https://github.com/erni27/imcache) - A generic in-memory cache Go library. It supports expiration, sliding expiration, max entries limit, eviction callbacks and sharding.
 - [nscache](https://github.com/no-src/nscache) - A Go caching framework that supports multiple data source drivers.
+- [otter](https://github.com/maypok86/otter) - A high performance lockless cache for Go. Many times faster than Ristretto and friends.
 - [remember-go](https://github.com/rocketlaunchr/remember-go) - A universal interface for caching slow database queries (backed by redis, memcached, ristretto, or in-memory).
 - [theine](https://github.com/Yiling-J/theine-go) - High performance, near optimal in-memory cache with proactive TTL expiration and generics.
 - [timedmap](https://github.com/zekroTJA/timedmap) - Map with expiring key-value pairs.
@@ -751,6 +752,7 @@ _Libraries for working with dates and times._
 _Packages that help with building Distributed Systems._
 
 - [arpc](https://github.com/lesismal/arpc) - More effective network communication, support two-way-calling, notify, broadcast.
+- [bedrock](https://github.com/z5labs/bedrock) - Provides a minimal, modular and composable foundation for quickly developing services and more use case specific frameworks in Go.
 - [celeriac](https://github.com/svcavallar/celeriac.v1) - Library for adding support for interacting and monitoring Celery workers, tasks and events in Go.
 - [consistent](https://github.com/buraksezer/consistent) - Consistent hashing with bounded loads.
 - [consistenthash](https://github.com/mbrostami/consistenthash) - Consistent hashing with configurable replicas.
@@ -801,6 +803,7 @@ _Packages that help with building Distributed Systems._
 - [rpcx](https://github.com/smallnest/rpcx) - Distributed pluggable RPC service framework like alibaba Dubbo.
 - [Semaphore](https://github.com/jexia/semaphore) - A straightforward (micro) service orchestrator.
 - [sleuth](https://github.com/ursiform/sleuth) - Library for master-less p2p auto-discovery and RPC between HTTP services (using [ZeroMQ](https://github.com/zeromq/libzmq)).
+- [sponge](https://github.com/zhufuyi/sponge) - A distributed development framework that integrates automatic code generation, gin and grpc frameworks, base development frameworks.
 - [Temporal](https://github.com/temporalio/sdk-go) - Durable execution system for making code fault-tolerant and simple.
 - [torrent](https://github.com/anacrolix/torrent) - BitTorrent client package.
 - [trpc-go](https://github.com/trpc-group/trpc-go) - The Go language implementation of tRPC, which is a pluggable, high-performance RPC framework.
@@ -2693,6 +2696,7 @@ _Full stack web frameworks._
 - [Hertz](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
 - [hiboot](https://github.com/hidevopsio/hiboot) - hiboot is a high performance web application framework with auto configuration and dependency injection support.
 - [Huma](https://github.com/danielgtaylor/huma/) - Framework for modern REST/GraphQL APIs with built-in OpenAPI 3, generated documentation, and a CLI.
+- [Lit](https://github.com/jvcoutinho/lit) - Highly performant declarative web framework for Golang, aiming for simplicity and quality of life.
 - [Macaron](https://github.com/go-macaron/macaron) - Macaron is a high productive and modular design web framework in Go.
 - [mango](https://github.com/paulbellamy/mango) - Mango is a modular web-application framework for Go, inspired by Rack, and PEP333.
 - [Microservice](https://github.com/claygod/microservice) - The framework for the creation of microservices, written in Golang.
@@ -3227,7 +3231,6 @@ _Where to discover new Go libraries._
 - [Golang Lyon](https://www.meetup.com/Golang-Lyon/)
 - [Golang Marseille](https://www.meetup.com/fr-FR/Golang-Marseille/)
 - [Golang Melbourne](https://www.meetup.com/golang-mel/)
-- [Golang Mountain View](https://www.meetup.com/Golang-Mountain-View/)
 - [Golang North East](https://www.meetup.com/en-AU/Golang-North-East/)
 - [Golang Paris](https://www.meetup.com/Golang-Paris/)
 - [Golang Poland](https://www.meetup.com/Golang-Poland/)

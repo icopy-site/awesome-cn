@@ -1555,13 +1555,15 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 #### Commonsense Knowledgebase
 
+* [wikiHow](https://www.wikihow.com/Main-Page) - ***wikiHow.com***. wikiHow is on website hosting step-by-step "How-to" procedural instructions across various domains and topics.
+
 * [CYC: A Large-Scale Investment in Knowledge Infrastructure](https://faculty.cc.gatech.edu/~isbell/classes/reading/papers/lenat95cyc.pdf) - ***Communications of the ACM***, 1995. [[All Versions](https://scholar.google.com/scholar?cluster=6505009388871605141&hl=en&as_sdt=0,5)]. The first attempt to build large-scale commonse knoweldgebase from human knowledge.
 
 * [ConceptNet 5.5: An Open Multilingual Graph of General Knowledge](https://arxiv.org/pdf/1612.03975.pdf) - ***AAAI'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=7089916805257737701&hl=en&as_sdt=0,5)]. Latest version of ConceptNet. 
 
 * [The Public Acquisition of Commonsense Knowledge](https://www.aaai.org/Library/Symposia/Spring/2002/ss02-09-011.php) - ***Proceedings of AAAI Spring Symposium on Acquiring (and Using) Linguistic (and World) Knowledge for Information Access***, 2002. [[All Versions](https://scholar.google.com/scholar?cluster=12533779219524472080&hl=en&as_sdt=0,5)]. The first attempt for acquring commonsense knowlege from humans' activities on the internet.
 
-* [Open Mind Common Sense: Knowledge Acquisition from the General Public](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.472.914&rep=rep1&type=pdf) - ***OTM Confederated International Conferences'02***, 2002. [[All Versions](https://scholar.google.com/scholar?cluster=11431785236825227404&hl=en&as_sdt=0,5)].
+* [Open Mind Common Sense: Knowledge Acquisition from the General Public](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.472.914&rep=rep1&type=pdf) - ***OTM Confederated International Conferences'02***, 2002. [[All Versions](https://scholar.google.com/scholar?cluster=11431785236825227404&hl=en&as_sdt=0,5)]..
 
 * [Verbosity: A Game for Collecting Common-Sense Facts](http://www.aladdin.cs.cmu.edu/papers/pdfs/y2006/verbosity.pdf) - ***CHI'06***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=7793704394155465847&hl=en&as_sdt=0,5)].
 
