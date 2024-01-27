@@ -26,6 +26,9 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Data Pseudonymisation: Advanced Techniques and Use Cases](https://www.enisa.europa.eu/publications/data-pseudonymisation-advanced-techniques-and-use-cases/) - Report on pseudonymisation techniques from ENISA.
 * [Anonymisation, pseudonymisation and privacy enhancing technologies guidance - ICO](https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/ico-call-for-views-anonymisation-pseudonymisation-and-privacy-enhancing-technologies-guidance/)
 
+## Records of Processing (art. 30)
+* [Iubenda - Register of data processing activities](https://www.iubenda.com/en/internal-privacy-management)
+
 ## Security (art. 32)
 * [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Top 10 Web Application Security Risks.
 * [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) - Concise collection of high value information on specific application security topics.

@@ -1745,6 +1745,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 * [A representational analysis of numeration systems](https://www.sciencedirect.com/science/article/pii/0010027795006743) - ***Cognition***, 1995. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=8852566070856662412)].
 
 
+* [Reasoning about Procedures with Natural Language Processing: A Tutorial](https://arxiv.org/abs/2205.07455) - 2023. [[All Versions](https://scholar.google.com/scholar?cluster=11364086808527515615&hl=en&as_sdt=0,5)].
+
 
 
 ### Cognitive Development
