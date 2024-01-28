@@ -410,11 +410,11 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 #### Bayesian Optimization
 
-* [A Tutorial on Bayesian Optimization](https://arxiv.org/abs/1807.02811) - 2018. [[All Versions](https://scholar.google.com/scholar?cluster=7971934771645047583&hl=en&as_sdt=0,5)]. 
+* [Taking the Human Out of the Loop: A Review of Bayesian Optimization](https://www.cs.princeton.edu/~rpa/pubs/shahriari2016loop.pdf) - ***Proceedings of the IEEE***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=2039456143890648437&hl=en&as_sdt=0,5)].
 
 * [Practical Bayesian Optimization of Machine Learning Algorithms](https://proceedings.neurips.cc/paper/2012/file/05311655a15b75fab86956663e1819cd-Paper.pdf) - ***NeurIPS'12***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=14442949298925775705&hl=en&as_sdt=0,5)]. The original paper for applying Bayesian optimization to machine learning hyperparameter selection.
 
-* [Taking the Human Out of the Loop: A Review of Bayesian Optimization](https://www.cs.princeton.edu/~rpa/pubs/shahriari2016loop.pdf) - ***Proceedings of the IEEE***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=2039456143890648437&hl=en&as_sdt=0,5)].
+* [A Tutorial on Bayesian Optimization](https://arxiv.org/abs/1807.02811) - 2018. [[All Versions](https://scholar.google.com/scholar?cluster=7971934771645047583&hl=en&as_sdt=0,5)]. 
 
 
 

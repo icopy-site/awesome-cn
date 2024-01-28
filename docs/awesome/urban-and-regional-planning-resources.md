@@ -184,7 +184,7 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 
 - [Mapillary](https://www.mapillary.com/) - Access street-level imagery and AI-derived map data from all over the world. Fill in the gaps by requesting new coverage or capturing your own with an easy to use mobile app.
 - [Ecopia](https://www.ecopiatech.com/) - Ecopia AI leverages AI to convert high resolution images of the earth into HD Vector Maps and to digitize infrastructure assets in a geospatial format.
-- [Geomate](https://geomate.ca/en/) - Geomate provides HD vector maps from high-resoluation aerial imagery to support autonmous vehicles and urban planning use cases.  
+- [Geomate](https://geomate.ca/en/) - Geomate provides HD vector maps from high-resolution aerial imagery to support autonomous vehicles and urban planning use cases.
 - [Cyclomedia](https://www.cyclomedia.com/us) - Cyclomedia captures accurate visual data including imagery and LIDAR at street level and transforms it into valuable insights.
 
 ### Land Use and Land Cover

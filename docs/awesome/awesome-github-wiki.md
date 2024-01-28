@@ -1,5 +1,5 @@
 <div class="github-widget" data-repo="MyHoneyBadger/awesome-github-wiki"></div>
-## Awesome GitHub Wikis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Awesome Lint](https://github.com/MyHoneyBadger/awesome-github-wiki/actions/workflows/action.yml/badge.svg?branch=main) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/)
+## Awesome GitHub Wikis [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Awesome Lint](https://github.com/MyHoneyBadger/awesome-github-wiki/actions/workflows/action.yml/badge.svg?branch=main)](https://github.com/MyHoneyBadger/awesome-github-wiki/actions/workflows/action.yml?query=branch%3Amain) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/MyHoneyBadger/awesome-github-wiki/)
 > A curated list of awesome GitHub Wikis
 
 Every repository on [GitHub.com](https://github.com/) comes equipped with a section for hosting documentation, called a [Wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis). Repository's Wiki shares long-form content about project, such as how to use it, how you designed it, or its core principles. A README file quickly tells what project can do, while use a Wiki to provide additional documentation.
