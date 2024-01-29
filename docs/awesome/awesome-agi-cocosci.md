@@ -900,6 +900,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [CoCoX: Generating Conceptual and Counterfactual Explanations via Fault-Lines](https://ojs.aaai.org/index.php/AAAI/article/view/5643) - ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=17443137068166403183&hl=en&as_sdt=0,5)].
 
+* [CX-ToM: Counterfactual explanations with theory-of-mind for enhancing human trust in image recognition models](https://www.sciencedirect.com/science/article/pii/S2589004221015510) - ***iScience***, 2022. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=17526041764295337444)].
+
 
 #### Strong Machine Learning
 
