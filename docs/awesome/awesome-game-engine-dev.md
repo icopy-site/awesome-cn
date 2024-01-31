@@ -94,6 +94,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [Physically-Based Rendering](https://www.pbrt.org) - From the Academy Award winning authority on PBR.
 - Education Portals
     - 📚 [Game Art Tricks](http://simonschreibt.de/game-art-tricks/) - Articles exploring different graphics techniques.
+    - 📚 [Lighthouse3d.com](http://www.lighthouse3d.com/tutorials/) - Collection of tutorials on OpenGL, GLSL and other graphics topics.
     - 📚 [Scratchapixel](https://www.scratchapixel.com) - In depth coverage of computer graphics topics.
 - Graphics API: DirectX
     - 🌎 [DirectX](https://docs.microsoft.com/en-us/windows/win32/directx) - Microsoft API used to create 2D/3D games and apps. [[Blog](https://devblogs.microsoft.com/directx/) | [Samples](https://github.com/microsoft/DirectX-Graphics-Samples)]
@@ -240,7 +241,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [NanoVG](https://github.com/memononen/nanovg) - OpenGL-based 2D vector drawing library for UI and visualizations.
     - 🎉 [Tilengine](https://github.com/megamarc/Tilengine) - 2D graphics with raster effects for retro style game development.
 - C: Graphics - 3D
-    - 🎉 [Sokol Gfx](https://github.com/floooh/sokol/blob/master/sokol_gfx.h) - Cross-platform, single-file graphics. [[Examples](https://floooh.github.io/sokol-html5/) | [LearnOpenGL](https://www.geertarien.com/learnopengl-examples-html5/)]
+    - 🎉 [Sokol Gfx](https://github.com/floooh/sokol/blob/master/sokol_gfx.h) - Cross-platform, single-file graphics. [[Examples](https://floooh.github.io/sokol-html5/)]
     - 🎉 [Sokol Graphics Painter](https://github.com/edubart/sokol_gp) - 2D graphics painter implemented with Sokol.
 - C: Gui
     - 🎉 [cImgui](https://github.com/cimgui/cimgui) - Thin C wrapper generated for Dear ImGui.
@@ -495,6 +496,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C#: Entity Component System
     - 🎉 [Arch](https://github.com/genaray/Arch) - High-performance ECS with optional multithreading.
     - 🎉 [DefaultEcs](https://github.com/Doraku/DefaultEcs) - ECS framework designed for game development.
+    - 🔒 [Friflo.Engine.ECS](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - Archetype based ECS with focus 🎯 on performance, cache locality and DX.
     - 🎉 [LeoECS](https://github.com/Leopotam/ecs) - ECS framework powered by C# with optional integration to Unity.
 - C#: Game Engine w/Editor
     - 🎉 [Duality](https://github.com/AdamsLair/duality) - Modular 2D engine, editor built with _OpenTK_.
@@ -1117,6 +1119,8 @@ _Exploring specialty game engine / game development topics and features._
 - Upscaling
     - 📚 [How do I perform an xBR or hqx filter in XNA?](https://gamedev.stackexchange.com/questions/87275/how-do-i-perform-an-xbr-or-hqx-filter-in-xna/87821#87821) - Upscaling shader code.
     - 📚 [hqx](https://en.wikipedia.org/wiki/Hqx) - Wikipedia article about the hqx pixel art upscaling algorithm developed by Maxim Stepin.
+- Water / Refraction
+    - 📚 [2D Water Shader](https://rotatingcanvas.com/fragment-shader-to-simulate-water-surface-in-libgdx/) - GLSL fragment shader to simulate 2D water surface in libGDX.
 - Wireframe
     - 📚 [Flat and Wireframe Shading](https://catlikecoding.com/unity/tutorials/advanced-rendering/flat-and-wireframe-shading/) - Flat shading / wireframes using Barycentric Coordinates.
 
@@ -1131,7 +1135,6 @@ _Exploring specialty game engine / game development topics and features._
 
 ### Tiling
 - 📚 [Auto-Tile](https://gamedevelopment.tutsplus.com/tutorials/how-to-use-tile-bitmasking-to-auto-tile-your-level-layouts--cms-25673) - How to use tile bitmasking to auto-tile your level layouts.
-- 📚 [Blob Tileset](http://www.cr31.co.uk/stagecast/wang/blob.html) - Tutorial on 2D edge and corner matched tilesets.
 - 📚 [List of Eucliden Uniform Tilings](https://en.wikipedia.org/wiki/List_of_Euclidean_uniform_tilings) - Wikipedia article on uniform tiling, space-filling polygons.
 - 📚 [Space-Filling Polyhedron](https://mathworld.wolfram.com/Space-FillingPolyhedron.html) - [Polyhedra](https://en.wikipedia.org/wiki/Category:Space-filling_polyhedra), 3D polygons that fill space. [[5 Space-Filling Polyhedra](https://www.steelpillow.com/polyhedra/five_sf/five.html)]
 
@@ -1322,6 +1325,6 @@ _The meaning behind the emoji._
 
 ## Contributing
 
-_See [Contribution Guide](https://github.com/stevinz/awesome-game-engine-dev/blob/master/CONTRIBUTING.md)_
+_See [Contribution Guide](https://github.com/stevinz/awesome-game-engine-dev/blob/master/CONTRIBUTING.md)._
 
 <br />

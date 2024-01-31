@@ -82,7 +82,7 @@ The dynamic scheme for elastic resources.
 
 - [A Survey of Profit Optimization Techniques for Cloud Providers](https://dl.acm.org/doi/fullHtml/10.1145/3376917) - “The strategy of improving user service quality is discussed first, followed by the pricing strategy for cloud resources to maximize revenue.”
 
-- “Billing is not complex on purpose: it's the price to pay for elasticity.” ([source](https://twitter.com/kdeldycke/status/1214160678363246592)) - Or why you're likely to get an endless stream of complaining users if choosing utility pricing scheme: while accurate to the (milli-)cent, this model is frustrating for customers not ready to invest time grasping the underlaying concepts.
+- “Billing is not complex on purpose: it's the price to pay for elasticity.” ([source](https://twitter.com/kdeldycke/status/1214160678363246592)) - Or why you're likely to get an endless stream of complaining users if choosing utility pricing scheme: while accurate to the (milli-)cent, this model is frustrating for customers not ready to invest time grasping the underlying concepts.
 
 - [Octane's Meter Types](https://docs.getoctane.io/data-types-reporting-types-and-aggregations#Wggma) - Nice illustrations of the quantization applied to time and value quantums on variable usages.
 
@@ -134,7 +134,7 @@ Theory and practical insight to help you choose the right pricing tactics.
 
 ### Market Research
 
-Survey methods and price discovery technics to find the right price point.
+Survey methods and price discovery techniques to find the right price point.
 
 - [Jeremy Howard - From Predictive Modelling to Optimization](https://youtu.be/vYrWTDxoeGg?t=542) - “In insurance, the price is the product. (…) How do I change price to make shitload of money?” Or how to deliver results (optimal price for a customer) instead of delivering data (calculating a customer's risk, which had been the standard approach used by actuaries previously).
 
@@ -182,7 +182,7 @@ Help your customers predict their upcoming and future consumption based on their
 
 - [Time Series Prediction - A short introduction for pragmatists](https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices) - Great introduction on how time series can be used to evaluate business problems.
 
-- [Forecasting with sktime](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) - A more detailed tutorial on how to use past data to make temporal forward predictions. And be aware of the [differences between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861) mentionned in the article above.
+- [Forecasting with sktime](https://github.com/alan-turing-institute/sktime/blob/master/examples/01_forecasting.ipynb) - A more detailed tutorial on how to use past data to make temporal forward predictions. And be aware of the [differences between sktime and the Prophet project](https://news.ycombinator.com/item?id=24543861) mentioned in the article above.
 
 - [Darts](https://github.com/unit8co/darts) - Python library for user-friendly forecasting and anomaly detection on time series. It wraps a huge number of models, including [Prophet](https://facebook.github.io/prophet/). Great for experiments, but bear in mind that all the [models in Darts expects](https://news.ycombinator.com/item?id=37665435) that your data comes at a very regular interval, and make a lot of assumptions about their shape.
 
@@ -414,7 +414,7 @@ Once issued, an invoice must be immutable.
 
 - [Refact](http://en.userstudio.fr/projects/refact/) - A design project trying to revamp a phone bill with infographics.
 
-### Extrators
+### Extractors
 
 - [InvoiceNet](https://github.com/naiveHobo/InvoiceNet) - Deep neural network to extract intelligent information from invoice documents.
 
@@ -490,7 +490,7 @@ The usual money transfer services.
 
 - [UPI 101: The Basics](https://the-other-side.blog/upi-the-basics/) - “In this article, we will learn about India's Unified Payments Interface. A four-year-old payment scheme that has been accounting for 40-45% of digital payments across India.”
 
-- [20 years of payment processing problems](https://kaimi.io/en/2022/07/20-years-of-payment-processing-problems-en/) - A huge collection of everythings that went wrong, and still is, with payment APIs from the past 2 decades. Any issue exposed in this article that gets unaddressed will end up as stolen money.
+- [20 years of payment processing problems](https://kaimi.io/en/2022/07/20-years-of-payment-processing-problems-en/) - A huge collection of everything that went wrong, and still is, with payment APIs from the past 2 decades. Any issue exposed in this article that gets unaddressed will end up as stolen money.
 
 - [The untold story of Stripe](https://www.wired.co.uk/article/stripe-payments-apple-amazon-facebook) - In which we learn that “once turnover hit a certain level, Paypal automatically put the business on a 21 to 60 day rolling reserve, meaning that up to 30 per cent of a company's revenue could be locked up for up to two months.”
 
@@ -530,7 +530,7 @@ The majority of fraud is exploiting the most common popular payment device: cred
 
 - [Credit Card Fraud Detection using Autoencoders in Keras](https://medium.com/@curiousily/credit-card-fraud-detection-using-autoencoders-in-keras-tensorflow-for-hackers-part-vii-20e0c85301bd) - Tutorial on how to rely on anomaly detection to implement suspicious card transactions.
 
-- [Training an ML model to score chargebacks](https://twitter.com/patio11/status/1315452323330621440) - An example of a platform's network effect, which allows to predict the likelyhood of winning a dispute.
+- [Training an ML model to score chargebacks](https://twitter.com/patio11/status/1315452323330621440) - An example of a platform's network effect, which allows to predict the likelihood of winning a dispute.
 
 - [How credit card thieves use free-to-play apps to launder gains](https://kromtech.com/blog/security-center/digital-laundry) - To prevent abuses, service provider must strengthen both credit card verification and the account creation process.
 
@@ -544,7 +544,7 @@ Synthetic score based on a collection of signals are often the best proxy of use
 
 - [Digital Ocean's Update on Customer Shutdown Incident](https://blog.digitalocean.com/an-update-on-last-weeks-customer-shutdown-incident/) - Aggressively shutting down user servers is good from a business point of view to prevent fraudster abusing free resources, until it's not.
 
-- [Awesome Credit Modeling](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and reasearch papers there to improve general scoring.
+- [Awesome Credit Modeling](https://github.com/mourarthur/awesome-credit-modeling#readme) - How to use statistical methods to classify applicants into categories to reduce risks. Lots of inspiration and research papers there to improve general scoring.
 
 ### Statistics
 
@@ -596,7 +596,7 @@ Definition and collection of Key Performance Indicators (KPIs) worth monitoring.
 
 - [An Overview of Visa](http://minesafetydisclosures.com/blog/2019/7/23/part-ll-an-overview-of-visa) - Great breakdown of Visa business models and metrics.
 
-- [The SaaS Financial Model You'll Actually Use](https://web.archive.org/web/20230205234207/https://baremetrics.com/blog/saas-financial-model) - A complete tour of the financials of a statup, which gives you extra-context on how the metrics you produce fit into the larger picture.
+- [The SaaS Financial Model You'll Actually Use](https://web.archive.org/web/20230205234207/https://baremetrics.com/blog/saas-financial-model) - A complete tour of the financials of a startup, which gives you extra-context on how the metrics you produce fit into the larger picture.
 
 ### Customer Lifetime Value
 
@@ -654,7 +654,7 @@ Software to build visualizations, dashboards, SQL queries and drill down into da
 
 A bunch of resources to keep track of the current status and progress of all companies operating in the domain.
 
-- [Patents on billing systems of the dot-com era](https://news.ycombinator.com/item?id=34773821) - All of them have been abandonned and constitute prior art. This means there is nothing to prevent anybody to implement or commercialize these concepts.
+- [Patents on billing systems of the dot-com era](https://news.ycombinator.com/item?id=34773821) - All of them have been abandoned and constitute prior art. This means there is nothing to prevent anybody to implement or commercialize these concepts.
 
 - “You need a slightly more sophisticated developer team to cobble together a billing platform” ([source](https://www.techemails.com/i/124009734/google-pms-on-stripe)) - Google's Product Director take on building billing systems: you need a certain kind of engineers to tackle that domain. It is not for everyone.
 

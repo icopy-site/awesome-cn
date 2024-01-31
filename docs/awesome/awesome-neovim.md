@@ -1135,3 +1135,4 @@ You can find them listed on the [Neovim wiki](https://github.com/neovim/neovim/w
 
 - [Neovimcraft](https://neovimcraft.com) - A site dedicated to searching specific plugins and guides for building plugins in Lua.
 - [Dotfyle](https://dotfyle.com) - Dotfyle is a site for sharing and discovering Neovim configs and plugins.
+- [NeoLand](https://neoland.dev) - A beautifully crafted website for Neovim resources.
