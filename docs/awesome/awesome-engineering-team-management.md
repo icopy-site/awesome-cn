@@ -29,9 +29,9 @@ A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sin
 - You're stuck into the day-to-day operations of the job?
 - How can I move up to the next level?
 
-You'll find answers in this guide! It stands out from generic leadership and management literature, by providing uncompromising insights and practical advices to bootstrap your journey into the management career track, from a technical background.
+You'll find answers in this guide! It stands out from generic leadership and management literature, by providing uncompromising insights and practical advices. It will bootstrap your journey into the management career track, from a technical background.
 
-This list provides a progression to help with the transition to management. From general to specifics. It starts with an overview of the role, then describes its requirements, and its position relative to others. Then we delves into the day-to-day tools of the trade, both organizational and behavioral. At last we discuss about some of the dark sides of the job.
+This list helps in the transition to management, with a progression from general to specifics. It starts with an overview of the role, then describes its requirements, and its position relative to others. Then we details the day-to-day tools of the trade, both organizational and behavioral. At last we discuss some of the dark sides of the job.
 
 
 <!-- mdformat-toc start --slug=github --no-anchors --maxlevel=6 --minlevel=2 -->
@@ -41,7 +41,7 @@ This list provides a progression to help with the transition to management. From
 
 ## Engineering to Management Transition
 
-The first step. The hardest: how to requalify oneself from an Individual Contributor (IC) to a front-line manager.
+The first step. The hardest. How to requalify oneself from an Individual Contributor (IC) to a front-line manager.
 
 - You always been a developer. Being offered [a management position is not a promotion. It is a change in career](https://fractio.nl/2014/09/19/not-a-promotion-a-career-change/).
 
@@ -461,7 +461,7 @@ Whatever the technical stack, we are building systems first, and have to manage 
 
 - [Choose Well-known Technology](https://news.ycombinator.com/item?id=23445535) - A rephrasing of the above advice. “Choose the technology: 1. You know in and out, and are immediately productive with; 2. Which is sure to be around in 5-7 years, preferably 10-15; 3. For which you are comfortable hiring the next 15 engineers.”
 
-- [Industry Data Models](http://www.databaseanswers.org/data_models/) - A huge list of database templates to represent any business process.
+- [Industry Data Models](https://web.archive.org/web/20220330034214/http://databaseanswers.org/data_models/) - A huge list of database templates collected over 25 years by Barry Williams to represent any business process.
 
 - [I thought that using loops was cheating…](https://www.facebook.com/spliceofficial/photos/a.555206991212765/679408552125941/?type=1&theater) - How much is too much? Libraries, whether software or audio loops, are tools. A typical case of [NIH syndrome](https://en.wikipedia.org/wiki/Not_invented_here) transposed to music production.
 
