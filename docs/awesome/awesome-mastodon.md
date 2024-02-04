@@ -52,6 +52,7 @@ This list is a collection of the best Mastodon resources.
 - [Mastodon Link](https://github.com/masrly/mastodon-link/) - Adds Mastodon icon links by profile to make following people on other instances easier.
 - [Mastodon Redirector](https://github.com/bramus/mastodon-redirector/) - Adds a button to view profiles from other instances on your profile page.
 - [mastotool](https://github.com/muesli/mastotool/) - Collection of command-line tools for working with Mastodon accounts.
+- [Mastodon Widgets](https://github.com/splitbrain/mastodon-widget) - JavaScript Web Components to embed a Mastodon profile, timeline, follow and share button into any website. Provides an auto-completing instance selector.
 
 ## Desktop Clients
 
