@@ -633,6 +633,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [Domain-specific languages: an annotated bibliography](https://dl.acm.org/doi/abs/10.1145/352029.352035) - ***ACM SIGPLAN Notices***, 2000. [[All Versions](https://scholar.google.com/scholar?cluster=8845429548327315750&hl=en&as_sdt=0,5)]. A survey on the topic of domain-specific languages as used for the construction and maintenance of software systems.
 
+* [No Grammar to Rule Them All: A Survey of JSON-style DSLs for Visualization](https://scholar.google.com/scholar?cluster=17206818917381447796&hl=en&as_sdt=0,5) - ***IEEE Transactions on Visualization and Computer Graphics***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=17206818917381447796&hl=en&as_sdt=0,5)]. A survey on the design and implementation of 57 JSON-style DSLs for a variety of visualization and visual interaction tasks, suggesting that no one DSL will be able to capture all of them without compromising essential parts of its domain design.
+
 
 #### Domain Specified Applications
 

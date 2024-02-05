@@ -215,7 +215,6 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Ruby
 
 - [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of Facebook's GraphQL.
-- [graphql-client](https://github.com/github/graphql-client) - A Ruby library for declaring, composing and executing GraphQL queries.
 - [graphql-batch](https://github.com/Shopify/graphql-batch) - A query batching executor for the graphql gem.
 - [graphql-auth](https://github.com/o2web/graphql-auth) - A JWT auth wrapper working with devise.
 - [agoo](https://github.com/ohler55/agoo) - Ruby web server that implements Facebook's GraphQL.
@@ -790,6 +789,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Securing GraphQL API](https://lab.wallarm.com/securing-graphql-api/)
 - [Security Points to Consider Before Implementing GraphQL](https://nordicapis.com/security-points-to-consider-before-implementing-graphql/)
 - [GraphQL for Pentesters](https://www.acceis.fr/graphql-for-pentesters/) - Introduction to Basic Concepts, Security Considerations & Reconnaissance, Vulnerabilities and Attacks, Offensive Tools.
+- [Authorization Patterns in GraphQL](https://www.osohq.com/post/graphql-authorization) 
 
 <a name="post" />
 
