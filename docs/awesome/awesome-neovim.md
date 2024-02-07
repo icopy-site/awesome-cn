@@ -138,6 +138,7 @@
 - [simaxme/java.nvim](https://github.com/simaxme/java.nvim) - Some utilities regarding Java development (e.g. updating symbol usages when renaming or moving a file in nvim-tree).
 - [chomosuke/typst-preview.nvim](https://github.com/chomosuke/typst-preview.nvim) - Preview typst documents in the browser, instant update on each keystroke, and cross jump between code and preview.
 - [quarto-dev/quarto-nvim](https://github.com/quarto-dev/quarto-nvim) - Tools for working with [Quarto](https://quarto.org/) documents.
+- [iabdelkareem/csharp.nvim](https://github.com/iabdelkareem/csharp.nvim) - Enhances the development experience for .NET developers.
 
 ### Golang
 
@@ -192,6 +193,7 @@
 
 - [potamides/pantran.nvim](https://github.com/potamides/pantran.nvim) - Translate your text with an interactive translation window.
 - [niuiic/translate.nvim](https://github.com/niuiic/translate.nvim) - Invoke any translation engine via shell command.
+- [tanloong/interlaced.nvim](https://github.com/tanloong/interlaced.nvim) - Help align bilingual parallel texts.
 
 ## Syntax
 
