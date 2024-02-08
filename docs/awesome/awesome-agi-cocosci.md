@@ -646,6 +646,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 * [Learning the language of viral evolution and escape](https://www.science.org/doi/full/10.1126/science.abd7331) - ***Science***, 2021. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=13862653184613223515)]. Natural language processing with two components: grammar (or syntax) and meaning (or semantics) for predicting which viral mutations may lead to viral escape.
 
 
+* [iContractML 2.0: A domain-specific language for modeling and deploying smart contracts onto multiple blockchain platforms](https://www.sciencedirect.com/science/article/pii/S0950584921002081) - ***Information and Software Technology***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=1548144959305241494&hl=en&as_sdt=0,5)]. A reference model and platform agnostic language for smart contracts.
+
 
 
 ### Problem Solving
