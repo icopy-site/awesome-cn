@@ -82,6 +82,10 @@
 
 - [Directus Hook Library](https://github.com/formfcw/directus-hook-library) - A collection of customizable hooks for Directus.
 
+### Tools
+
+- [Directus Sync](https://github.com/tractr/directus-sync) - A CLI tool for synchronizing the schema and configuration of Directus across various environments.
+
 ## Articles
 
 ### Educational

@@ -69,6 +69,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 ### Distributed cracking
 - [CrackLord](https://github.com/jmmcatee/cracklord) - Queue and resource system for cracking passwords.
 - [fitcrack](https://github.com/nesfit/fitcrack) - A hashcat-based distributed password cracking system.
+- [Hashstation](https://github.com/hashstation/hashstation) - Hashstation is a BOINC-based distributed password cracking system with a built-in web interface.
 - [Hashtopolis](https://github.com/hashtopolis/server) - A multi-platform client-server tool for distributing hashcat tasks to multiple computers.
 - [HashtopoloCLI](https://github.com/jakewnuk/HashtopoCLI) - CLI tool for Hashtopolis API incorporating some of the API functionality into a dynamic Python wrapper.
 - [Kraken](https://github.com/arcaneiceman/kraken) - A multi-platform distributed brute-force password cracking system.
