@@ -192,7 +192,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Composite C1](https://github.com/Orckestra/C1-CMS-Foundation) - A web CMS that focus on UX and adaptability
 * [N2CMS](https://github.com/n2cms/n2cms) - Open source, lightweight, code-first CMS able to seamlessly integrate into any MVC project.
 * [Orchard ](https://github.com/OrchardCMS/Orchard) - Free, open source, community-focused project aimed at delivering applications and reusable components on the ASP.NET platform
-* [Piranha CMS](https://github.com/PiranhaCMS/Piranha) - Piranha is the fun, fast and lightweight .NET framework for developing cms-based web applications with an extra bite. It's built on ASP.NET MVC and Web Pages and is fully compatible with both Visual Studio and WebMatrix. https://piranhacms.org
+* [Piranha CMS](https://github.com/PiranhaCMS/piranha.core) - Piranha is the fun, fast and lightweight .NET framework for developing cms-based web applications with an extra bite. It's built on ASP.NET MVC and Web Pages and is fully compatible with both Visual Studio and WebMatrix. https://piranhacms.org
 * [DotNetNuke](https://www.dnnsoftware.com/community/download) - DNN Platform is our free, open source web CMS and the foundation of every professional DNN solution. Over 750,000 organizations worldwide have built websites powered by the DNN Platform.
 * [BlogEngine.NET](https://github.com/rxtur/BlogEngine.NET) - Simple but full featured ASP.NET blog
 
@@ -217,6 +217,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 * [.NET Fiddle](https://dotnetfiddle.net/) - Write, compile and run C#, F# and VB code in the browser. The .Net equivalent of JSFiddle.
 * [Sharplab](https://sharplab.io/) - Run C# code using different branches and versions of Roslyn, see the IL that was produced and examine the JIT's output.
+* [Entity Framework Playground](https://efplayground.io) - Examine the generated SQL for migrations and queries by writing `DbContext` and queries using it in the browser. Learn by example, compare different versions of Entity Framework and providers such as MS SQL, PostgreSql and Sqlite.
 
 ## Compilers, Transpilers and Languages
 
@@ -355,7 +356,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Virto Commerce](https://github.com/VirtoCommerce/vc-platform) - Virto Commerce is the second generation release and is the only enterprise level e-commerce product fully available under Open Source license. Virto Commerce is based on .NET 4.5 with extensive use of MVC, IoC, EF, Azure, AngularJS and many other cutting edge technologies. It can be deployed in Microsoft Cloud (Azure), Amazon Web Services (AWS) and on-premise. https://virtocommerce.com
 * [SimplCommerce](https://github.com/simplcommerce/simplcommerce) - Super simple ecommerce system built on .NET Core. Simple to use and easy to customize. Thanks to .NET Core, you can run the SimplCommerce on Windows, Linux. With various RDBMS: Microsoft SQL Server, PostgreSQL, MySQL
 * [GrandNode](https://github.com/grandnode/grandnode2) - Headless, multi-vendor, multi-tenant, the most advanced open source e-commerce platform based on .NET Core 5.0 and MongoDB. 
-* [Square](https://github.com/square/connect-csharp-sdk) - The official SDK for Square payments and other Square APIs.
 * [Adyen](https://github.com/Adyen/adyen-dotnet-api-library) - The official Adyen Payment API Library for .NET
 
 ## Emulators
@@ -413,6 +413,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET Core integration
 * [osu!framework](https://github.com/ppy/osu-framework) - A 2D application/game written with amazing games in mind.
 * [DotRecast](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
+* [Foster](https://github.com/FosterFramework/Foster) - Foster is a small cross-platform 2D game framework in C#.
 
 ## GIS
 

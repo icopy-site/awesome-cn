@@ -1661,6 +1661,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought](https://arxiv.org/abs/2306.12672) - 2023. [[All Versions](https://scholar.google.com/scholar?cluster=13778788929096574993&hl=en&as_sdt=0,5)]. Rational meaning construction, a computational framework for language-informed thinking that combines neural language models with probabilistic models for rational inference. Linguistic meaning is framed as a context-sensitive mapping from natural language into a probabilistic language of thought (PLoT)--a general-purpose symbolic substrate for generative world modeling. 
 
+* [Latent Programmer: Discrete Latent Codes for Program Synthesis](https://proceedings.mlr.press/v139/hong21a.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9789877360194738968&hl=en&as_sdt=0,5)]. Paper introducing the Latent Programmer, a program synthesis method that first predicts a discrete latent code from input/output examples, and then generates the program in the target language.
+
 
 
 ### Knowledge Representation

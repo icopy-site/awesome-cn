@@ -142,7 +142,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 ### Politics
 
-- [OpenPrecincts](https://openprecincts.org/) - OpenPrecincts is a data and software resource to open the redistricting process to all citizens and ensure that district boundaries are fair for all voters.
+- [OpenPrecincts](https://gerrymander.princeton.edu/) - OpenPrecincts is a data and software resource to open the redistricting process to all citizens and ensure that district boundaries are fair for all voters.
 - [MIT Election Lab](https://electionlab.mit.edu/data) - Election Lab is a clearinghouse for data sets that can fuel studies on elections and how they're conducted. Find election data and research tools produced by us and others.
 
 ### Resilience and Natural Hazards
