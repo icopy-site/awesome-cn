@@ -1663,6 +1663,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [Latent Programmer: Discrete Latent Codes for Program Synthesis](https://proceedings.mlr.press/v139/hong21a.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9789877360194738968&hl=en&as_sdt=0,5)]. Paper introducing the Latent Programmer, a program synthesis method that first predicts a discrete latent code from input/output examples, and then generates the program in the target language.
 
+* [PAL: Program-aided Language Models](https://proceedings.mlr.press/v202/gao23f) - ***ICML'23***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=14898051625978777315&hl=en&as_sdt=0,5)]. Paper presenting an approach that uses the LLM to read natural language problems and generate programs as the intermediate reasoning steps, but offloads the solution step to a runtime such as a Python interpreter. With PAL, decomposing the natural language problem into runnable steps remains the only learning task for the LLM, while solving is delegated to the interpreter.
+
 
 
 ### Knowledge Representation
