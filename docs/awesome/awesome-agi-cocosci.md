@@ -1655,7 +1655,7 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [Program Synthesis with Large Language Models](https://arxiv.org/abs/2108.07732) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15213050540818392833&hl=en&as_sdt=0,5)].
 
-* [AutumnSynth: Synthesis of Reactive Programs with Structured Latent State](https://openreview.net/forum?id=Qw8eyl2_N_-) - ***NeurIPS'21 AIPLANS Workshop***, 2021. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=AutumnSynth%3A+Synthesis+of+Reactive+Programs+with+Structured+Latent+State&btnG=)].
+* [Combining Functional and Automata Synthesis to Discover Causal Reactive Programs](https://dl.acm.org/doi/pdf/10.1145/3571249) - ***POPL'23***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=10470162446663474225&hl=en&as_sdt=0,5)]. A new algorithm that synthesizes functional reactive programs from observation data, which iterates between a functional synthesis step, which attempts to generate a transition function over observed states, and an automata synthesis step, which adds any additional latent state necessary to fully account for the observations.
 
 * [Synthesizing theories of human language with Bayesian program induction](http://cap.csail.mit.edu/sites/default/files/research-pdfs/Synthesizing%20theories%20of%20human%20language%20with%20Bayesian%20program%20induction.pdf) - ***Nature Communications***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=8603772394100237159&hl=en&as_sdt=0,5)].
 
