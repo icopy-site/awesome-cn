@@ -31,6 +31,7 @@ A curated list of bitcoin services and tools for software developers
 * [Chainradar API](https://github.com/yasaricli/chainradar-api) - Blockchain Explorer API for Chainradar.
 * [One-Time Address](https://github.com/alexk111/One-Time-Address) A better way to share your Bitcoin address.
 * [Cryptocurrency Alerting](https://cryptocurrencyalerting.com/blockchain-alerts.html) - Bitcoin wallet monitoring and blockchain alerts.
+* [BTC Connect](https://developers.particle.network/reference/introduction-to-btc-connect) - Unified Bitcoin Layer-1 and Layer-2 wallet connection and account abstraction.
 
 ## Market Data API
 * [CoinMetrics.io](https://docs.coinmetrics.io/api/v2/) JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.
@@ -154,7 +155,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## Additional Resources
 * [@lopp / Bitcoin Developers](https://twitter.com/lopp/lists/bitcoin-developers) - Software developers who have experience working on Bitcoin implementations or applications.
-* [@lopp / Lightning Developers](https://twitter.com/lopp/lists/lightning-developers) - Software developers with experience working on LN implementations / applications.
+* [@lopp / Lightning Developers](https://twitter.com/i/lists/981976067551490048) - Software developers with experience working on LN implementations / applications.
 * [Practical Bitcoin Info - Google Sheets](https://docs.google.com/spreadsheets/d/1Z3Ofa4P8097VWV70Z_bMqIMladngvm-Ck24ot9TDNmw/).
 * [A brief history of Bitcoin development...](https://www.youtube.com/watch?v=ZfFNce6CVsE)
 * [bitcoin-resources.com](https://bitcoin-resources.com/) Meta-list of Bitcoin resources, from books, articles, to podcasts.

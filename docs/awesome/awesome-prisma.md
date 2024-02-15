@@ -122,6 +122,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [prisma-next-auth-graphql-starter](https://github.com/wangel13/prisma-next-auth-graphql-starter) - Fullstack starter with Prisma, next-auth, next.js, tailwindcss and graphql-shield
 - [Wasp](https://github.com/wasp-lang/wasp) Wasp is a declarative domain-specific language for developing, building, and deploying modern Javascript full-stack web apps with less code.
 - [Neighborhood Pet Manager](https://github.com/AustinGil/npm)
+- [Dotfyle](https://dotfyle.com) - Discover and share Neovim plugins
 
 ## Prisma 1
 
