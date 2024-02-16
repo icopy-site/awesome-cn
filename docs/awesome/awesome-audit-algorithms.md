@@ -11,9 +11,12 @@ Nowadays, many algorithms (recommendation, scoring, classification) are operated
 
 ## Papers
 ### 2024
+- [Under manipulations, are some AI models harder to audit?](https://grodino.github.io/projects/manipulated-audits/preprint.pdf) - (SATML) *Relates the difficulty of black-box audits
+to the capacity of the targeted models, using the Rademacher complexity.*
 - [Improved Membership Inference Attacks Against Language Classification Models](https://arxiv.org/pdf/2310.07219.pdf) - (ICLR) *Presents a framework for running membership inference attacks against classifier, in audit mode.*
 - [Auditing Fairness by Betting](https://arxiv.org/pdf/2305.17570.pdf) - (Neurips) [[Code]](https://github.com/bchugg/auditing-fairness) *Sequential methods that allows for the continuous monitoring of incoming data from a black-box classifier or regressor.*
 ### 2023
+- [Online Fairness Auditing through Iterative Refinement](https://dl.acm.org/doi/pdf/10.1145/3580305.3599454) - (KDD) *Provides an adaptive process that automates the inference of probabilistic guarantees associated with estimating fairness metrics.*
 - [Stealing the Decoding Algorithms of Language Models](https://people.cs.umass.edu/~amir/papers/CCS23-LM-stealing.pdf) - (CCS) *Steal the type and hyperparameters of the decoding algorithms of a LLM.*
 - [Modeling rabbit‑holes on YouTube](https://link.springer.com/epdf/10.1007/s13278-023-01105-9?sharing_token=h-O-asHI49VUWS9FxN1Gsve4RwlQNchNByi7wbcMAY6I98PKW1PqhFQJ_JqQyk3TrB05qDb3LUzMDmKOgrupccQliViDle-rwKEi2MZ8xBViaAQhyN41oZBKLLeXchoeIW2kklVHC094I5KD8pxja4-if6-iB0uAI1FnqnYoxjU%3D) - (SNAM) *Models the trapping dynamics of users in rabbit holes in YouTube, and provides a measure of this enclosure.*
 - [Auditing YouTube’s Recommendation Algorithm for Misinformation Filter Bubbles](https://dl.acm.org/doi/full/10.1145/3568392) - (Transactions on Recommender Systems) *What it takes to “burst the bubble,” i.e., revert the bubble enclosure from recommendations.*

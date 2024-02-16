@@ -77,7 +77,7 @@ This is a curated list for when naming things is done right.
 - [Clojure](https://clojure.org/) - A functional language making extensive use of **closures** but with a **j** because it's running on the Java virtual machine.
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B#External_links) - Although C was certainly a bad name, C++ was quite clever. The iconic increment operator **++** indicates that **C++** is the successor.
 - [Garbage Collector](https://en.m.wikipedia.org/wiki/Garbage_collection_(computer_science)) - Part of a program that attempts to find and reclaim garbage pieces of memory not used anymore.
-- [Lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation) - An evaluation stategy which suspends evaluation until it's absolutly necessary and then never does it again.
+- [Lazy evaluation](https://en.wikipedia.org/wiki/Lazy_evaluation) - An evaluation stategy which suspends evaluation until it's absolutely necessary and then never does it again.
 - [Syntactic sugar](https://en.wikipedia.org/wiki/Syntactic_sugar) - Syntax that makes the language "sweeter" for human use. Usually a shorthand for common operations that can also be expressed in a more verbose form.
 
 ## User Interface Design
