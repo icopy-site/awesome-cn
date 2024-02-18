@@ -19,6 +19,7 @@
 A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. This awesome collection is also available on [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu).
 - [**Awesome Zsh**][awesome-zsh]&nbsp; [![Awesome][awesome-badge]][awesome-zsh]
 - [**Awesome Fish**][awesome-fish] [![Awesome][awesome-badge]][awesome-fish]
+- [**Awesome Bash**][awesome-bash] [![Awesome][awesome-badge]][awesome-bash]
 
 ## Shells
 
@@ -42,7 +43,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shenv](https://github.com/shenv/shenv) - Simple shell version management
 * [tcsh](https://www.tcsh.org/) - C shell with file name completion and command line editing
 * [xonsh](https://xon.sh) - Python-ish, BASHwards-looking shell language and command prompt
-* [yash](https://yash.osdn.jp/) - A POSIX-compliant command line shell with built-in support for completion and prediction based on command history
+* [yash](https://github.com/magicant/yash) - A POSIX-compliant command line shell with built-in support for completion and prediction based on command history
 * [zsh](https://www.zsh.org) - Powerful shell with scripting language
 
 ## Command-Line Productivity
@@ -100,6 +101,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scot!
 * [modules](http://modules.sourceforge.net/) - Classical Tcl-based Environment Modules managing the shell environment (compare to Lmod, direnv, and autoenv)
 * [nnn](https://github.com/jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
+* [ok-sh](https://github.com/secretGeek/ok-bash) - Do you work on many different projects? And in each project, are there commands you use that are specific to that project? You need a .ok file.
 * [parallel](https://www.gnu.org/software/parallel/) - Build and execute shell command lines from standard input in parallel
 * [pass](https://www.passwordstore.org/) - Manage passwords from the command line with GPG encryption and optional git integration.
 * [pathpicker](https://github.com/facebook/PathPicker) - Accepts inputs like grep, searches, git etc; allows selecting files from the result of the input, which you can then open or provide as argument to a command.
@@ -268,6 +270,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox
 * [httpie](https://github.com/httpie/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
 * [HTTPLab](https://github.com/gchaincl/httplab) - The interactive web server, let you inspect HTTP requests and forge responses.
+* [Kapow!](https://github.com/BBVA/kapow) - If you can script it, you can HTTP it.
 * [ngincat](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat
 * [resty](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines
 * [shell2http](https://github.com/msoap/shell2http) - HTTP-server to execute shell commands. Designed for development, prototyping or remote control
@@ -447,9 +450,11 @@ Other amazingly awesome lists can be found in [awesome-awesome](https://github.c
 * [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
 * [awesome-fish][awesome-fish]
 * [awesome-zsh][awesome-zsh]
+* [awesome-bash][awesome-bash]
 * [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy)
 
 [awesome-badge]: https://raw.githubusercontent.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [awesome-fish]: https://github.com/jorgebucaran/awsm.fish
 [awesome-link]: https://github.com/sindresorhus/awesome
 [awesome-zsh]: https://github.com/unixorn/awesome-zsh-plugins
+[awesome-bash]: https://github.com/awesome-lists/awesome-bash

@@ -188,6 +188,9 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [karlseguin/http.zig](https://github.com/karlseguin/http.zig) - HTTP/1.1 server.
 * [zigzap/zap](https://github.com/zigzap/zap) - blazingly fast, robust HTTP server.
 
+### Messaging
+* [skunkwerks/zamqp](https://github.com/skunkwerks/zamqp) - AMQP client, based on rabbitmq-c.
+* [nine-lives-later/zzmq](https://github.com/nine-lives-later/zzmq) - ZeroMQ library, based on CZMQ.
 
 ## Web
 * [andrewrk/lua-in-the-browser](https://github.com/andrewrk/lua-in-the-browser) - Using Zig to build Lua for WebAssembly.

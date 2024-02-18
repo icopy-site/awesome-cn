@@ -1666,6 +1666,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [PAL: Program-aided Language Models](https://proceedings.mlr.press/v202/gao23f) - ***ICML'23***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=14898051625978777315&hl=en&as_sdt=0,5)]. Paper presenting an approach that uses the LLM to read natural language problems and generate programs as the intermediate reasoning steps, but offloads the solution step to a runtime such as a Python interpreter. With PAL, decomposing the natural language problem into runnable steps remains the only learning task for the LLM, while solving is delegated to the interpreter.
 
+* [Grammar Prompting for Domain-Specific Language Generation with Large Language Models](https://proceedings.neurips.cc/paper_files/paper/2023/hash/cd40d0d65bfebb894ccc9ea822b47fa8-Abstract-Conference.html) - ***NeurIPS'23***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=11694070042468483715&hl=en&as_sdt=0,5)]. Grammar prompting, a simple approach to enable LLMs to use external knowledge and domain-specific constraints, expressed through a grammar in Backus--Naur Form (BNF), during in-context learning.
+
 
 
 ### Knowledge Representation

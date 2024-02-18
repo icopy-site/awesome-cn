@@ -35,6 +35,11 @@ Request it [here](https://github.com/PanXProject/awesome-certificates/issues/new
 Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?assignees=&labels=&template=bug_report.md&title=%5BBUG%5D).
 
 
+<b>Want to contribute to this list?</b>
+<br>
+Fork this [repo](https://github.com/PanXProject/awesome-certificates/fork), make the changes on the `readme.md` file and then open a [new issue](https://github.com/PanXProject/awesome-certificates/compare). Make sure to check out both the [contribution](https://github.com/PanXProject/awesome-certificates/blob/main/pull_request_template.md) and [pull request](https://github.com/PanXProject/awesome-certificates/blob/main/pull_request_template.md) guidelines. 
+
+
 
 
 ## Security
