@@ -146,6 +146,7 @@ _Libraries for building and working with bots._
 - [go-chat-bot](https://github.com/go-chat-bot/bot) - IRC, Slack & Telegram bot written in Go.
 - [go-joe](https://joe-bot.net) - A general-purpose bot library inspired by Hubot but written in Go.
 - [go-sarah](https://github.com/oklahomer/go-sarah) - Framework to build a bot for desired chat services including LINE, Slack, Gitter, and more.
+- [go-tg](https://github.com/mr-linch/go-tg) - Generated from official docs Go client library for accessing Telegram Bot API, with batteries for building complex bots included.
 - [go-tgbot](https://github.com/olebedev/go-tgbot) - Pure Golang Telegram Bot API wrapper, generated from swagger file, session-based router, and middleware.
 - [go-twitch-irc](https://github.com/gempir/go-twitch-irc) - Library to write bots for twitch.tv chat
 - [Golang CryptoTrading Bot](https://github.com/saniales/golang-crypto-trading-bot) - A golang implementation of a console-based trading bot for cryptocurrency exchanges.
@@ -176,6 +177,7 @@ _Libraries and tools help with build automation._
 - [anko](https://github.com/GuilhermeCaruso/anko) - Simple application watcher for multiple programming languages.
 - [gaper](https://github.com/maxcnunes/gaper) - Builds and restarts a Go project when it crashes or some watched file changes.
 - [gilbert](https://go-gilbert.github.io) - Build system and task runner for Go projects.
+- [gob](https://github.com/kcmvp/gob) - [Gradle](https://docs.gradle.org/)/[Maven](https://maven.apache.org/) like build tool for Go projects.
 - [goyek](https://github.com/goyek/goyek) - Create build pipelines in Go.
 - [mage](https://github.com/magefile/mage) - Mage is a make/rake-like build tool using Go.
 - [mmake](https://github.com/tj/mmake) - Modern Make.
@@ -331,6 +333,7 @@ _Libraries for configuration parsing._
 - [joshbetz/config](https://github.com/joshbetz/config) - Small configuration library for Go that parses environment variables, JSON files, and reloads automatically on SIGHUP.
 - [kelseyhightower/envconfig](https://github.com/kelseyhightower/envconfig) - Go library for managing configuration data from environment variables.
 - [koanf](https://github.com/knadh/koanf) - Light weight, extensible library for reading config in Go applications. Built in support for JSON, TOML, YAML, env, command line.
+- [konf](https://github.com/nil-go/konf) - The simplest API for reading/watching config from file, env, flag and clouds (e.g. AWS, Azure, GCP).
 - [konfig](https://github.com/lalamove/konfig) - Composable, observable and performant config handling for Go for the distributed processing era.
 - [kong](https://github.com/alecthomas/kong) - Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (successor to `kingpin`).
 - [mini](https://github.com/sasbury/mini) - Golang package for parsing ini-style configuration files.
@@ -654,6 +657,7 @@ _Libraries for building and using SQL._
 
 - [cayley](https://github.com/google/cayley) - Graph database with support for multiple backends.
 - [dsc](https://github.com/viant/dsc) - Datastore connectivity for SQL, NoSQL, structured files.
+- [dynamo](https://github.com/fogfish/dynamo) - A simple key-value abstraction to store algebraic and linked-data data types at AWS storage services: AWS DynamoDB and AWS S3.
 - [go-transaction-manager](https://github.com/avito-tech/go-transaction-manager) - Transaction manager with multiple adapters (sql, sqlx, gorm, mongo, ...) controls transaction boundaries.
 - [gokv](https://github.com/philippgille/gokv) - Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more).
 
@@ -693,6 +697,7 @@ _Libraries for building and using SQL._
 - [godis](https://github.com/piaohao/godis) - redis client implement by golang, inspired by jedis.
 - [godscache](https://github.com/defcronyke/godscache) - A wrapper for the Google Cloud Platform Go Datastore package that adds caching using memcached.
 - [gomemcache](https://github.com/bradfitz/gomemcache/) - memcache client library for the Go programming language.
+- [gomemcached](https://github.com/aliexpressru/gomemcached) - A binary Memcached client for Go with support for sharding using consistent hashing, along with SASL.
 - [gorethink](https://github.com/dancannon/gorethink) - Go language driver for RethinkDB.
 - [goriak](https://github.com/zegl/goriak) - Go language driver for Riak KV.
 - [Kivik](https://github.com/go-kivik/kivik) - Kivik provides a common Go and GopherJS client library for CouchDB, PouchDB, and similar databases.
@@ -1254,6 +1259,7 @@ _Libraries for scheduling jobs._
 - [cronticker](https://github.com/krayzpipes/cronticker) - A ticker implementation to support cron schedules.
 - [Dagu](https://github.com/dagu-go/dagu) - No-code workflow executor. it executes DAGs defined in a simple YAML format.
 - [go-cron](https://github.com/rk/go-cron) - Simple Cron library for go that can execute closures or functions at varying intervals, from once a second to once a year on a specific date and time. Primarily for web applications and long running daemons.
+- [go-dag](https://github.com/rhosocial/go-dag) - A framework developed in Go that manages the execution of workflows described by directed acyclic graphs.
 - [go-quartz](https://github.com/reugn/go-quartz) - Simple, zero-dependency scheduling library for Go.
 - [gocron](https://github.com/go-co-op/gocron) - Easy and fluent Go job scheduling. This is an actively maintained fork of [jasonlvhit/gocron](https://github.com/jasonlvhit/gocron).
 - [goflow](https://github.com/fieldryand/goflow) - A simple but powerful DAG scheduler and dashboard.
@@ -1521,6 +1527,7 @@ _Libraries for working with dependency injection._
 - [google/wire](https://github.com/google/wire) - Automated Initialization in Go.
 - [HnH/di](https://github.com/HnH/di) - DI container library that is focused on clean API and flexibility.
 - [kinit](https://github.com/go-kata/kinit) - Customizable dependency injection container with the global mode, cascade initialization and panic-safe finalization.
+- [kod](https://github.com/go-kod/kod) - A generics based dependency injection framework for Go.
 - [linker](https://github.com/logrange/linker) - A reflection based dependency injection and inversion of control library with components lifecycle support.
 - [nject](https://github.com/muir/nject) - A type safe, reflective framework for libraries, tests, http endpoints, and service startup.
 - [wire](https://github.com/Fs02/wire) - Strict Runtime Dependency Injection for Golang.
@@ -1551,7 +1558,7 @@ _**Unofficial** set of patterns for structuring projects._
 
 _Libraries for working with strings._
 
-- [bexp](https://github.com/happy-sdk/happy-go/tree/main/strings/bexp) - Go implementation of Brace Expansion mechanism to generate arbitrary strings.
+- [bexp](https://github.com/happy-sdk/happy/tree/main/pkg/strings/bexp) - Go implementation of Brace Expansion mechanism to generate arbitrary strings.
 - [caps](https://github.com/chanced/caps) - A case conversion library.
 - [go-formatter](https://gitlab.com/tymonx/go-formatter) - Implements **replacement fields** surrounded by curly braces `{}` format strings.
 - [gobeam/Stringy](https://github.com/gobeam/Stringy) - String manipulation library to convert string to camel case, snake case, kebab case / slugify etc.
@@ -1973,6 +1980,7 @@ _Libraries that are used to help make your application more secure._
 - [CertMagic](https://github.com/caddyserver/certmagic) - Mature, robust, and powerful ACME client integration for fully-managed TLS certificate issuance and renewal.
 - [Coraza](https://github.com/corazawaf/coraza) - Enterprise-ready, modsecurity and OWASP CRS compatible WAF library.
 - [dongle](https://github.com/golang-module/dongle) - A simple, semantic and developer-friendly golang package for encoding&decoding and encryption&decryption.
+- [encid](https://github.com/bobg/encid) - Encode and decode encrypted integer IDs.
 - [firewalld-rest](https://github.com/prashantgupta24/firewalld-rest) - A rest application to dynamically update firewalld rules on a linux server.
 - [go-generate-password](https://github.com/m1/go-generate-password) - Password generator that can be used on the cli or as a library.
 - [go-htpasswd](https://github.com/tg123/go-htpasswd) - Apache htpasswd Parser for Go.
@@ -2042,7 +2050,7 @@ _Libraries and tools for binary serialization._
 - [Fider](https://github.com/getfider/fider) - Fider is an open platform to collect and organize customer feedback.
 - [Flagr](https://github.com/checkr/flagr) - Flagr is an open-source feature flagging and A/B testing service.
 - [flipt](https://github.com/markphelps/flipt) - A self contained feature flag solution written in Go and Vue.js
-- [go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A feature flag solution, with only a YAML file in the backend (S3, GitHub, HTTP, local file ...), no server to install, just add a file in a central system and refer to it.
+- [go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - A simple, complete and lightweight self-hosted feature flag solution 100% Open Source.
 - [go-proxy-cache](https://github.com/fabiocicerchia/go-proxy-cache) - Simple Reverse Proxy with Caching, written in Go, using Redis.
 - [jackal](https://github.com/ortuman/jackal) - An XMPP server written in Go.
 - [lets-proxy2](https://github.com/rekby/lets-proxy2) - Reverse proxy for handle https with issue certificates in fly from lets-encrypt.
@@ -2077,6 +2085,7 @@ _Libraries and tools for templating and lexing._
 - [ego](https://github.com/benbjohnson/ego) - Lightweight templating language that lets you write templates in Go. Templates are translated into Go and compiled.
 - [extemplate](https://github.com/dannyvankooten/extemplate) - Tiny wrapper around html/template to allow for easy file-based template inheritance.
 - [fasttemplate](https://github.com/valyala/fasttemplate) - Simple and fast template engine. Substitutes template placeholders up to 10x faster than [text/template](https://golang.org/pkg/text/template/).
+- [gomponents](https://www.gomponents.com) - HTML 5 components in pure Go, that look something like this: `func(name string) g.Node { return Div(Class("headline"), g.Textf("Hi %v!", name)) }`.
 - [gospin](https://github.com/m1/gospin) - Article spinning and spintax/spinning syntax engine, useful for A/B, testing pieces of text/articles and creating more natural conversations.
 - [got](https://github.com/goradd/got) - A Go code generator inspired by Hero and Fasttemplate. Has include files, custom tag definitions, injected Go code, language translation, and more.
 - [goview](https://github.com/foolin/goview) - Goview is a lightweight, minimalist and idiomatic template library based on golang html/template for building Go web application.
@@ -2140,7 +2149,6 @@ _Libraries for testing codebases and generating test data._
   - [gomatch](https://github.com/jfilipczyk/gomatch) - library created for testing JSON against patterns.
   - [gomega](https://onsi.github.io/gomega/) - Rspec like matcher/assertion library.
   - [Gont](https://github.com/stv0g/gont) - Go network testing toolkit for testing building complex network topologies using Linux namespaces.
-  - [GoSpec](https://github.com/orfjackal/gospec) - BDD-style testing framework for the Go programming language.
   - [gospecify](https://github.com/stesla/gospecify) - This provides a BDD syntax for testing your Go code. It should be familiar to anybody who has used libraries such as rspec.
   - [gosuite](https://github.com/pavlo/gosuite) - Brings lightweight test suites with setup/teardown facilities to `testing` by leveraging Go1.7's Subtests.
   - [got](https://github.com/ysmood/got) - An enjoyable golang test framework.
@@ -2722,6 +2730,7 @@ _Full stack web frameworks._
 - [vox](https://github.com/aisk/vox) - A golang web framework for humans, inspired by Koa heavily.
 - [WebGo](https://github.com/bnkamalesh/webgo) - A micro-framework to build web apps; with handler chaining, middleware and context injection. With standard library compliant HTTP handlers(i.e. http.HandlerFunc).
 - [YARF](https://github.com/yarf-framework/yarf) - Fast micro-framework designed to build REST APIs and web services in a fast and simple way.
+- [Yokai](https://github.com/ankorstore/yokai) - Simple, modular, and observable Go framework for backend applications.
 
 
 ### Middlewares

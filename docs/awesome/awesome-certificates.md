@@ -1,13 +1,12 @@
 <div class="github-widget" data-repo="PanXProject/awesome-certificates"></div>
-![Awesome Certificates](https://github.com/PanXProject/awesome-certificates/blob/main/media/awesome-certificates.png)
-<p align="center">
-	<a href="awesome-certificates.md">About project</a>&nbsp;&nbsp;&nbsp;
-	<a href="contributing.md">Contribution guidelines</a>&nbsp;&nbsp;&nbsp;
-	<a href="pull_request_template.md">Add certificate/course</a>&nbsp;&nbsp;&nbsp;
-</p>
+<img alt="awesome-certificates.png" src="https://raw.githubusercontent.com/PanXProject/awesome-certificates/blob/main/media/awesome-certificates.png?raw=true" data-hpc="true">
 
 ## Awesome Certificates [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) [![Gitter](https://badges.gitter.im/PanXProject/awesome-certificates.svg)](https://gitter.im/PanXProject/awesome-certificates?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.com/invite/3kSS9dvnPz) 
 <!-- markdown-link-check-disable -->
+
+[Contribution guidelines](https://github.com/PanXProject/awesome-certificates/blob/main/contributing.md) /
+[Add a course/certificate](https://github.com/PanXProject/awesome-certificates/compare)
+
 A curated of list of IT, computer science and business courses with certificates &amp; digital badges to earn upon completion. 
 
 Each course on the list is free to take as well as the badge and certificate. 
@@ -20,6 +19,11 @@ The list is organized as follows:
 	<li>Course/certificate duration in hours</li>
 	<li>Reward(🏅= Digital Badge or 🏆 = Certificate of Completion)</li>
 </ol>
+
+
+<b>Want to contribute to this list?</b>
+<br>
+Fork this [repo](https://github.com/PanXProject/awesome-certificates/fork), make the changes on the `readme.md` file and then open a [new issue](https://github.com/PanXProject/awesome-certificates/compare). Make sure to check out both the [contribution](https://github.com/PanXProject/awesome-certificates/blob/main/pull_request_template.md) and [pull request](https://github.com/PanXProject/awesome-certificates/blob/main/pull_request_template.md) guidelines. 
 
 <b>Have ideas on how to improve this list or features you'd like to see?</b>
 <br>
@@ -35,14 +39,10 @@ Request it [here](https://github.com/PanXProject/awesome-certificates/issues/new
 Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?assignees=&labels=&template=bug_report.md&title=%5BBUG%5D).
 
 
-<b>Want to contribute to this list?</b>
-<br>
-Fork this [repo](https://github.com/PanXProject/awesome-certificates/fork), make the changes on the `readme.md` file and then open a [new issue](https://github.com/PanXProject/awesome-certificates/compare). Make sure to check out both the [contribution](https://github.com/PanXProject/awesome-certificates/blob/main/pull_request_template.md) and [pull request](https://github.com/PanXProject/awesome-certificates/blob/main/pull_request_template.md) guidelines. 
-
-
 
 
 ## Security
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Intro to Cybersecurity](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity)| Cisco Networking Academy | Beginner | 15 | [🏅](https://www.youracclaim.com/org/cisco/badge/introduction-to-cybersecurity)|
@@ -67,6 +67,7 @@ Fork this [repo](https://github.com/PanXProject/awesome-certificates/fork), make
 
 
 ## Front-End
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/) | FreeCodeCamp|Professional|300| 🏆|
@@ -78,6 +79,7 @@ Fork this [repo](https://github.com/PanXProject/awesome-certificates/fork), make
 
 
 ## Back-End
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Back End Development and APIs Certification](https://www.freecodecamp.org/learn/back-end-development-and-apis/) | FreeCodeCamp |Professional|300 | 🏆|
@@ -101,6 +103,7 @@ Fork this [repo](https://github.com/PanXProject/awesome-certificates/fork), make
 
 
 ## Blockchain
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Blockchain Masterclass](https://courses.cfte.education/free-online-blockchain-masterclass/) | Centre for Finance, Technology and Entrepreneurship |Beginner| - | 🏅|
@@ -109,6 +112,7 @@ Fork this [repo](https://github.com/PanXProject/awesome-certificates/fork), make
 
 
 ## Data Analysis and Visualization
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Data Analysis with Python](https://cognitiveclass.ai/courses/data-analysis-python) | IBM / Cognitive Class |Intermediate|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/data-analysis-using-python)|
@@ -123,12 +127,14 @@ Fork this [repo](https://github.com/PanXProject/awesome-certificates/fork), make
 
 
 ## Statistics
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Statistics 101](https://cognitiveclass.ai/courses/statistics-101) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/statistics-101)|
 
 
 ## Data Science
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Data Science Methodologies](https://cognitiveclass.ai/courses/data-science-methodology-2) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/data-science-methodologies)|
@@ -147,6 +153,7 @@ Fork this [repo](https://github.com/PanXProject/awesome-certificates/fork), make
 
 
 ## Big Data
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Big Data Foundations - Level 1](https://cognitiveclass.ai/courses/what-is-big-data) | IBM / Cognitive Class |Beginner|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/big-data-foundations-level-1)|
@@ -155,6 +162,7 @@ Fork this [repo](https://github.com/PanXProject/awesome-certificates/fork), make
 
 
 ## Machine and Deep Learning
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Deep Learning Fundamentals](https://cognitiveclass.ai/courses/introduction-deep-learning) | IBM / Cognitive Class |Intermediate|3 | [🏅](https://www.youracclaim.com/org/ibm/badge/deep-learning-essentials)|
@@ -175,6 +183,7 @@ Fork this [repo](https://github.com/PanXProject/awesome-certificates/fork), make
 
 
 ## Networking
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Networking Essentials](https://www.netacad.com/courses/networking/networking-essentials) | Cisco Networking Academy | Intermediate | 70 | [🏅](https://www.youracclaim.com/org/cisco/badge/networking-essentials)  |
@@ -182,6 +191,7 @@ Fork this [repo](https://github.com/PanXProject/awesome-certificates/fork), make
 
 
 ## Operating Systems
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [NDG Linux Unhatched](https://www.netacad.com/courses/os-it/ndg-linux-unhatched)| Cisco Networking Academy |Beginner| 8 |    🏆 |
@@ -190,6 +200,7 @@ Fork this [repo](https://github.com/PanXProject/awesome-certificates/fork), make
 
 
 ## Electrical Engineering
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Introduction to Electronics](https://www.open.edu/openlearn/science-maths-technology/an-introduction-electronics/)| Open University | Intermediate| 10 |    🏆 |
@@ -199,6 +210,7 @@ Fork this [repo](https://github.com/PanXProject/awesome-certificates/fork), make
 
 
 ## Robotics and IoT
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Introduction to IoT](https://www.netacad.com/courses/iot/introduction-iot) | Cisco Networking Academy | Beginner | 20 | [🏅](https://www.youracclaim.com/org/cisco/badge/introduction-to-iot) |
@@ -206,6 +218,7 @@ Fork this [repo](https://github.com/PanXProject/awesome-certificates/fork), make
 
 
 ## Chatbots
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [How to Build Chatbots](https://cognitiveclass.ai/courses/chatbot-course) | IBM / Cognitive Class |Beginner|5 | 🏅|
@@ -215,6 +228,7 @@ Fork this [repo](https://github.com/PanXProject/awesome-certificates/fork), make
 
 
 ## DevOps
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Containers, K8s and Istio on IBM cloud](https://cognitiveclass.ai/learn/containers-k8s-and-istio-on-ibm-cloud) | IBM / Cognitive Class |Beginner|9 | [🏅](https://www.youracclaim.com/org/ibm/badge/containers-k8s-and-istio-on-ibm-cloud)|
@@ -228,6 +242,7 @@ Fork this [repo](https://github.com/PanXProject/awesome-certificates/fork), make
 ## Programming Languages
 
 ### C
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [CS107: C++ Programming](https://learn.saylor.org/course/view.php?id=65) | Saylor Academy |Professional|40 | 🏆|
@@ -236,18 +251,21 @@ Fork this [repo](https://github.com/PanXProject/awesome-certificates/fork), make
 
 
 ### Cypher
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Cypher Query Language](https://memgraph.com/learn-cypher-query-language) | Memgraph |Beginner|1 | 🏅|
 
 
 ### Java
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Java](https://www.hackerrank.com/skills-verification/java_basic) | HackerRank |Beginner| 1 | 🏆|
 
 
 ### JavaScript
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) | FreeCodeCamp |Professional|300 | 🏆|
@@ -255,6 +273,7 @@ Fork this [repo](https://github.com/PanXProject/awesome-certificates/fork), make
 
 
 ### R
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [R 101](https://cognitiveclass.ai/courses/r-101) | IBM / Cognitive Class |Beginner|3| [🏅](https://www.youracclaim.com/org/ibm/badge/r-essentials)|
@@ -263,6 +282,7 @@ Fork this [repo](https://github.com/PanXProject/awesome-certificates/fork), make
 
 
 ### Python
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Programming Essentials In Python](https://www.netacad.com/courses/programming/pcap-programming-essentials-python) | Cisco Networking Academy |Intermediate| 70 | 🏆 |
@@ -277,6 +297,7 @@ Fork this [repo](https://github.com/PanXProject/awesome-certificates/fork), make
 
 
 ## Theories and Concepts
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Quality Assurance Certification](https://www.freecodecamp.org/learn/quality-assurance/) | FreeCodeCamp |Professional|300 | 🏆|
@@ -294,6 +315,7 @@ Fork this [repo](https://github.com/PanXProject/awesome-certificates/fork), make
 ## Business
 
 ### Marketing
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Digital Marketing](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing) | Google | Beginner | 40 | 🏅 |
@@ -301,6 +323,7 @@ Fork this [repo](https://github.com/PanXProject/awesome-certificates/fork), make
 
 <!-- markdown-link-check-disable -->
 ### Project Management
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [KICKOFF](https://www.pmi.org/kickoff) | Project Management Institute | Beginner | 0.75 | 🏅 |<!-- markdown-link-check-disable-line -->
@@ -309,12 +332,14 @@ Fork this [repo](https://github.com/PanXProject/awesome-certificates/fork), make
 
 
 ### Support
+
 | Course Name | Course Provider | Level | Hour(s) | Reward |
 | :------------- |:-------------|:-------------|:-------------:|:-----:|
 | [Customer Relationship Management](https://www.mygreatlearning.com/academy/learn-for-free/courses/customer-relationship-management) | Great Learning | Beginner | 1 | 🏆 |
 
 
 ## Other Awesome Lists
+
 - [Open Source Society University](https://github.com/ossu/computer-science) - The OSSU curriculum is a complete education in computer science using online materials. It's not merely for career training or professional development.
 - [Awesome Courses](https://github.com/prakhar1989/awesome-courses) - This list is an attempt to bring to light those awesome CS courses which make their high-quality material i.e. assignments, lectures, notes, readings & examinations available online for free.
 - [Books](https://github.com/learn-anything/books) - Learn Anything is collecting all material with focus on Computer Science but you'll find other topics ranging from neuro science to philosophy. 

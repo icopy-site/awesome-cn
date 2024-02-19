@@ -538,11 +538,13 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [A multimodal discourse theory of visual narrative](https://www.sciencedirect.com/science/article/pii/S0378216614001830) - ***Journal of Pragmatics***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=912273653379961242&hl=en&as_sdt=0,5)].
 
-* [Pixelor: A Competitive Sketching AI Agent. So you think you can beat me?](https://ayankumarbhunia.github.io/pixelor/image/pixelor.pdf) - ***ACM SIG Graph***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=6676723059377806081&hl=en&as_sdt=0,5)]. [[Project](http://sketchx.ai/pixelor)]. Rationality in feature sketching.
+* [Pixelor: A Competitive Sketching AI Agent. So you think you can beat me?](https://ayankumarbhunia.github.io/pixelor/image/pixelor.pdf) - ***ACM SIGGraph'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=6676723059377806081&hl=en&as_sdt=0,5)]. [[Project](http://sketchx.ai/pixelor)]. Rationality in feature sketching.
 
 * [Pragmatic Inference and Visual Abstraction Enable Contextual Flexibility During Visual Communication](https://link.springer.com/article/10.1007/s42113-019-00058-7) - ***Computational Brain & Behavior***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=17971107104483505071&hl=en&as_sdt=0,5)]. A computational account on the rational behavior in graphical language games.
 
 * [Emergent Graphical Conventions in a Visual Communication Game](https://arxiv.org/abs/2111.14210) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=6476453985812346727&hl=en&as_sdt=0,5)]. A computational account on the emergence of iconic language.
+
+* [AI Nüshu: An Exploration of Language Emergence in Sisterhood Through the Lens of Computational Linguistics](https://dl.acm.org/doi/abs/10.1145/3610591.3616427) - ***ACM SIGGraph Asia'23***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=6849286654402017109&hl=en&as_sdt=0,5)]. By continually observing their environment and communicating, AI agents trained in the Chinese dictionary and the Nüshu corpus collaborate towards creating a standard writing system to encode Chinese.
 
 
 
@@ -651,6 +653,7 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 
 * [iContractML 2.0: A domain-specific language for modeling and deploying smart contracts onto multiple blockchain platforms](https://www.sciencedirect.com/science/article/pii/S0950584921002081) - ***Information and Software Technology***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=1548144959305241494&hl=en&as_sdt=0,5)]. A reference model and platform agnostic language for smart contracts.
+
 
 
 
