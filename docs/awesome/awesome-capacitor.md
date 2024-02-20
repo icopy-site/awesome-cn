@@ -14,7 +14,9 @@ Capacitor is an open-source native runtime for building Web Native apps. Create 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Friderx%2Fawesome-capacitor&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
 </div>
 <div align="center">
-<h2><a href="https://capgo.app/?ref=awesome-list"> ➡️ ➡️ Get Instant updates for Capacitor App: Capgo 🔔</a></h2>
+<h2><a href="https://capgo.app/?ref=awesome-list"> ➡️ Get Instant updates for Capacitor App: Capgo 🔔</a></h2>
+	
+<h2><a href="https://capgo.app/consulting/"> Hire a Capacitor consultant 💪</a></h2>
 </div>
 <br>
 
@@ -116,7 +118,7 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [Navigation bar](https://github.com/Cap-go/capacitor-navigation-bar) - Set navigation bar color for android lolipop and higher.
 - [Video Player IVS](https://github.com/Cap-go/ivs-player) - Native Ivs player for Capacitor app Android and IOS.
 - [Home indicator](https://github.com/Cap-go/home-indicator) - Hide and show home button indicator in Capacitor app.
-- [Naitve Purchases](https://github.com/Cap-go/native-purchases) - Manage IAP on capacitor with latest libs Android and IOS.
+- [Native Purchases](https://github.com/Cap-go/native-purchases) - Manage IAP on capacitor with latest libs Android and IOS.
 
 
 ## [Capawesome plugins](https://capawesome.io/)
@@ -161,6 +163,7 @@ Independents plugins are listed here.
 
 - [Brother Print](https://github.com/rdlabo-team/capacitor-brotherprint) - A native Brother Print SDK implementation for iOS & Android. 
 - [Biometric](https://github.com/epicshaggy/capacitor-native-biometric) - Use biometrics confirm device owner presence or authenticate users.
+- [capacitor-plugin-camera](https://github.com/xulihang/capacitor-plugin-camera) - A camera plugin that is designed to make it easy to perform image processing tasks like barcode reading and OCR. We can use reflection to get the camera frames in another plugin so that it can enjoy native performance.
 - [Dark mode](https://github.com/micahlt/ionicCapacitorDarkMode) - Monitor the changes made to system's dark mode.
 - [Data Storage SQlite](https://github.com/jepiqueau/capacitor-data-storage-sqlite) - Providing a key-value permanent store for simple data of type string only to SQLite on IOS, Android and Electron platforms and to IndexedDB for the Web platform.
 - [Document Scanner](https://github.com/websitebeaver/capacitor-document-scanner) - Scan documents (notes, homework, business cards, receipts, or anything with a rectangular shape).
@@ -210,6 +213,7 @@ Independents plugins are listed here.
 - [Zalo login](https://github.com/kmasterycsl/capacitor-zalo-login) - Zalo login plugin for Capacitor.
 - [Photo library](https://github.com/diiiary/capacitor-plugin-photo-library) - Get all the images from system album.
 - [Websocket Client](https://github.com/OrdinarySF/capacitor-websocket-client) - Capacitor WebSocket Client Plugin.
+- [Bing Translator](https://github.com/sabereen/capacitor-bing-translator) - A simple and **free** API for using [Bing Translator](https://bing.com/translator).
 
 
 ## Cordova plugins
