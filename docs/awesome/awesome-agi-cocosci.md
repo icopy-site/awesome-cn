@@ -1675,6 +1675,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [Large Language Models Meet NL2Code: A Survey](https://aclanthology.org/2023.acl-long.411/) - ***ACL'23***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=11868015824802341463&hl=en&as_sdt=0,5)]. [[NL2Code Website](https://nl2code.github.io/)]. A paper presenting a comprehensive survey of 27 existing large language models for NL2Code, and also review benchmarks and metrics, suggesting that the key factors contributing to the success of large language models for NL2Code are “Large Size, Premium Data, Expert Tuning”.
 
+* [A Large-Scale Survey on the Usability of AI Programming Assistants: Successes and Challenges](https://dl.acm.org/doi/abs/10.1145/3597503.3608128) - ***ICSE'24***, 2024. [[All Versions](https://scholar.google.com/scholar?cluster=3696356619002071917&hl=en&as_sdt=0,5)]. A survey finding that developers are most motivated to use AI programming assistants because they help developers reduce key-strokes, finish programming tasks quickly, and recall syntax, but resonate less with using them to help brainstorm potential solutions. 
+
 
 
 ### Knowledge Representation

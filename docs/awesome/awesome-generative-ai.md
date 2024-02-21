@@ -46,10 +46,11 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 
 - [ChatGPT](https://chat.openai.com/chat) - ChatGPT by OpenAI is a large language model that interacts in a conversational way.
 - [Bing Chat](https://www.bing.com/chat) - A conversational AI language model powered by Microsoft Bing.
-- [Bard](https://bard.google.com) - An experimental AI chatbot by Google, powered by the LaMDA model.
+- [Gemini](https://gemini.google.com/) - A family of multimodal large language model developed by Google Deepmind.
 - [Character.AI](https://character.ai/) - Character.AI lets you create characters and chat to them.
 - [ChatPDF](https://www.chatpdf.com/) - Chat with any PDF.
 - [ChatSonic](https://writesonic.com/chat) - An AI-powered assistant that enables text and image creation.
+- [Pi](https://pi.ai) - A personalized AI platform available as a digital assistant.
 
 ### Search engines
 
@@ -295,6 +296,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Teleprompter](https://github.com/danielgross/teleprompter) - An on-device AI for your meetings that listens to you and makes charismatic quote suggestions.
 - [FinChat](https://finchat.io/) - Using AI, FinChat generates answers to questions about public companies and investors.
 - [Morpher AI](https://morpher.com/ai) - Morpher AI delivers real-time insights and analysis for any market.
+- [Whimsical AI](https://whimsical.com/ai) - GPT-powered mind mapping, flowcharts, and visual tools for rapid idea development and process organization.
 
 ## Learning resources
 
