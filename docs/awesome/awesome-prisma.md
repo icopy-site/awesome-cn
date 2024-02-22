@@ -54,6 +54,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Prisma Redis Middleware - cache queries in Redis](https://github.com/Asjas/prisma-redis-middleware)
 - [Prisma Yup Generator - Prisma 2+ generator to emit Yup schemas from your Prisma schema](https://github.com/omar-dulaimi/prisma-yup-generator)
 - [Schemix - Generate Prisma Schemas with TypeScript](https://github.com/ridafkih/schemix)
+- [Prismock - Run tests in isolation with an in-memory implementation of Prisma](https://github.com/morintd/prismock)
 
 ### :man_technologist: Prisma Clients
 
@@ -93,6 +94,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Building a sane Docker image for Typescript, Yarn Workspaces and Prisma 2](https://medium.com/@emilefugulin/building-a-sane-docker-image-for-typescript-lerna-and-prisma-2-76d8ff9926e4)
 - [Building a Backend for React with Next.js, Prisma 2, and PostgreSQL](https://www.youtube.com/watch?v=Bqacj0iOL68)
 - [Build A Pet Management System With Remix, Prisma, and Postgres](https://www.youtube.com/watch?v=wqyHGQlZcws&list=PLTnRtjQN5ieYu9SdwLvzKYFVtfqySY7FT)
+- [How To Write Efficient Unit Tests with Prisma ORM](https://medium.com/javascript-in-plain-english/how-to-write-efficient-unit-tests-with-prisma-orm-e9d8fdf43f5f)
 
 ### Tutorials with [Nexus](https://www.nexusjs.org/#/)
 - [Complete Introduction to Fullstack, Type-Safe GraphQL (feat. Next.js, Nexus, Prisma)](https://dev.to/prisma/complete-introduction-to-fullstack-type-safe-graphql-feat-next-js-nexus-prisma-c5)

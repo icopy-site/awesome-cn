@@ -9,6 +9,8 @@
 
 [GameMaker](https://gamemaker.io/) is a user-friendly, cross-platform game engine by YoYo Games that allows both beginner and advanced game developers to create 2D and 3D games for desktop, HTML5, and console platforms.
 
+What kind of games can you make in GameMaker? [Check out this list.](https://steamdb.info/tech/Engine/GameMaker/)
+
 
 
 ## Getting Started
@@ -44,7 +46,6 @@
 - [fuwafuwa](https://github.com/kemonologic/fuwafuwa) - Easy-to-use timer system.
 - [Timer](https://github.com/nommiin/Timers) - Timer methods based on setTimeout and setInterval from JS.
 - [Broadcast](https://github.com/JulianDicken/Broadcast) - Event handling library.
-- [EventGML](https://github.com/Soves/EventGML) - Lightweight and fast Node.js style Events Library.
 - [Polarca](https://github.com/VitorEstevam/polarca) - Interpolation functions.
 - [Twerp](https://pixelatedpope.itch.io/twerp) - Easing function similar to lerp().
 - [Coroutines](https://github.com/JujuAdams/Coroutines) - Asynchronous functions for GameMaker.
@@ -63,7 +64,7 @@
 - [Mathematical Scripts](https://github.com/adam-rumpf/game-maker-scripts) - A collection of math scripts.
 - [Seedpod](https://github.com/daikon-games/gm-seedpod) - A collection of scripts to improve the GML programming experience.
 - [Trixscript](https://trixelized.itch.io/trixscript) - Juices up your game with useful functions.
-- [CoreExtension](https://github.com/blueburncz/CoreExtension) - A collection of CC0 programming libraries.
+- [CoreExtension](https://github.com/blueburncz/CoreExtension) - A collection of CC0 programming libraries. (archived)
 - [Voxeledphoton's FreeGMScripts](https://github.com/vphoton/FreeGMScripts) - Additional GML helper functions. Some may be out of date with 2.3+ syntax.
 - [ForEach](https://github.com/KeeVeeGames/foreach.gml) - Adds a foreach implementation for arrays, ds_lists, ds_maps, ds_stacks, ds_queues, ds_priorities and structs.
 - [DeepCopy](https://github.com/KeeVeeGames/DeepCopy.gml) - Deep clone class instances / constructed structs, anonymous structs and arrays nested in any order!
@@ -132,7 +133,6 @@
 - [GUI Framework](https://niris.itch.io/gui-framework) - GUI implementation from Niris Games.
 - [Menu Tutorial](https://www.youtube.com/watch?v=1ITZOrI2qkA&list=PLSFMekK0JFgx2vmcCnttxxhrNVTjUB8R1) - FriendlyCosmonaut. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [Smart Clickable GUI](https://www.youtube.com/watch?v=RbBgE3cUShc) - Pixelated Pope. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
-- [RTS Selection Tool](https://gentoogames.itch.io/rts-selection-tool) - Mouse dragging feature to select pawns in an real-time strategy game.
 - [zitk](https://github.com/TandyRum1024/zitk) - Another interesting, Dear ImGui-inspired GUI toolkit. In development, but worth keeping an eye on.
 - [gooey](https://manta-ray.itch.io/gooey) - Sprite-based UI Library for GameMaker LTS.
 - [SimpleUI](https://github.com/evolutionleo/SimpleUI) - Minimalistic UI framework.
@@ -160,7 +160,7 @@
 - [AESnips](https://github.com/angelwire/AESnips) - A sprite playback system.
 - [phgen](https://github.com/squircledev/phgen) - Placeholder asset generation.
 - [Disarm](https://github.com/NuxiiGit/disarm) - A spriter skeletal animation at runtime.
-- [Spritely](https://github.com/bscotch/spritely) - Image correction and cleanup for 2D video game sprites.
+- [Spritely](https://github.com/bscotch/stitch/tree/develop/packages/spritely) - Image correction and cleanup for 2D video game sprites.
 - [PixelUpscaler](https://github.com/JujuAdams/Pixel-Art-Upscaling) - Pixel art upscaling shader for awkward resolutions for GameMaker.
 - [ASESync](https://sahaun.itch.io/asesync) - Automatically syncs aesprite files in GameMaker.
 - [conveyorbelt](https://github.com/imissmyfriends/conveyorbelt) - Similar to ASESync. Export Aesprite files to GameMaker sprites.
@@ -187,7 +187,6 @@
 - [Random Dungeon Generator](https://github.com/BlaXun/Random-Dungeon-Generator-GMS-2.3) - Combines user-defined chambers to create a dungeon.
 - [Random Level Generator](https://github.com/GameMakerDiscord/random-level-gen-gms2) - A random level generation example (similar to Nuclear Throne) using GameMaker.
 - [Wave Function Collapse](https://quadolorgames.itch.io/wfc-gml-demo) - Generates a random tile map but not production ready in its current state.
-- [Draw A Dungeon](https://gentoogames.itch.io/draw-a-dungeon-gamemaker) - Converts your room layouts into a randomized dungeon.
 - [Destructible Terrain](https://github.com/niksudan/gms2-destructible-terrain) - An example of collidable, destructible terrain in GameMaker Studio using surfaces and grids.
 - [Cellular Automata Caves](https://alessiogamedev.itch.io/gms-cellular-automata-algorithm) - Generates huge caves in a few hundred milliseconds.
 
@@ -311,7 +310,6 @@
 - [Animated Flag](https://github.com/Grisgram/gml-animated-flag) - Vertex-animated flag.
 - [Video Player Extension](https://forum.yoyogames.com/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/) - Play videos. However, the latest version of GMS has video support.
 - [GMESCAPI](https://marketplace.yoyogames.com/assets/9529/gmescapi) - Webcam capture.
-- [Smile](https://github.com/zbanack/smile) - Sentiment analysis.
 - [Danmaku Project](https://github.com/OmegaX1000/DanmakuProject) - Bullet hell engine.
 - [OrbinautFramework](https://github.com/TrianglyRU/OrbinautFramework) - Accurate framework to make classic Sonic games.
 - [Mouse Trail Effect](https://all-x.itch.io/gms2-mouse-trail-effect) - Shows how to trace a line with primitives to create a colorful trail.
@@ -319,7 +317,6 @@
 - [CleanShapes](https://github.com/JujuAdams/Clean-Shapes) - Antialiased primitives library for GameMaker.
 - [GMLScripts.com](https://www.gmlscripts.com/script/index) - Dozens of helper scripts, organized similarly to the official documentation.
 - [GM48 Resources](https://gm48.net/resources) - Free resources from the community to become better at GameMaker Studio, game development and game jams.
-- [GameMakerHow](https://gamemakerhow.com/) - Another great site that acts as a GameMaker Q&A repository for various questions you might ask in GameMaker.
 - [obj_podcast](https://objpodcast.com/) - Gamedev-centered podcast featuring members of the GameMaker community.
 - [Dracula Theme](https://github.com/dracula/gamemaker-studio) - A dark theme for the IDE.
 - [Gruvbox Theme](https://github.com/heygleeson/Gruvbox-GMTheme) - A retro groove theme for the IDE.
@@ -333,13 +330,11 @@
 - [Setting up a Virtual Machine for GameMaker](https://www.youtube.com/watch?v=cK5k1_zN4eM) - MicahTheManiac. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [Making Attacks Feel Good](https://www.youtube.com/watch?v=RWkMsD2WUz8) - Blobfish. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [vim-GML](https://github.com/JafarDakhan/vim-gml) - High quality Vim syntax highlighting for GameMaker.
-- [List of GameMaker Games](https://steamdb.info/tech/Engine/GameMaker/) - A list of published Steam games using GameMaker.
 - [Rousr Release](https://gitlab.com/rousr-release/) - Unmaintained projects from the Rousr team (in case anyone asks where OutsideTheBox/Dissonance went).
 
 ## Blogs
 
 - [RefresherTowel](https://refreshertowelgames.wordpress.com/category/tutorial/) - Contains several posts on level generation.
-- [Tony Str](https://tonystr.net/articles) - Some great articles on working with JSON, regular expressions *(regex)*, and drawing circles in GML.
 - [Katsaii](https://www.katsaii.com/content/blog/posts.html) - Some articles on more advanced GML topics.
 - [Meseta on Game Dev](https://meseta.dev/) - Seasoned GameMaker dev's thoughts on GameMaker concepts and libraries.
 

@@ -522,6 +522,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [Identifying concept libraries from language about object structure](https://arxiv.org/pdf/2205.05666.pdf) - ***CogSci'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=4019205027627496528&hl=en&as_sdt=0,5)].
 
+* [Show or tell? Exploring when (and why) teaching with language outperforms demonstration](https://www.sciencedirect.com/science/article/pii/S0010027722003158) - ***Cognition***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=11837154580063293174&hl=en&as_sdt=0,5)]. The findings of this paper suggest that language communicates complex concepts by directly transmitting abstract rules. In contrast, demonstrations transmit examples, requiring the learner to infer the rules.
+
 
 
 ### Communications
@@ -626,6 +628,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 * [Domain-Specific Language](https://en.wikipedia.org/wiki/Domain-specific_language) - ***Wikipedia***. Wikipedia encyclopedia entry on Domain Specific Languages.
 
 * [Domain Engineering](https://en.wikipedia.org/wiki/Domain_engineering) - ***Wikipedia***. Wikipedia encyclopedia entry on Domain Engineering.
+
+* [Epigrams on programming](https://dl.acm.org/doi/pdf/10.1145/947955.1083808) - ***ACM SIGPLAN Notices***, 1982. [[All Versions](https://scholar.google.com/scholar?cluster=6439127299132936476&hl=en&as_sdt=0,5)].
 
 * [The complete guide to (external) Domain Specific Languages](https://tomassetti.me/domain-specific-languages/). An introduction to Domain Specific Languages (DSL) based on 19 DSL cases.
 
