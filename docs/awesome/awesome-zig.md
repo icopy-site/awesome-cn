@@ -233,6 +233,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [Himujjal/zig-json5](https://github.com/Himujjal/zig-json5) - JSON5 parser resembling the `std.json` APIs.
 * [chwayne/rem](https://github.com/chwayne/rem) - An HTML parsing library.
 * [goto-bus-stop/ziguid](https://github.com/goto-bus-stop/ziguid) - GUID parsing/stringifying.
+* [00JCIV00/cova](https://github.com/00JCIV00/cova) - Commands, Options, Values, Arguments. A simple yet robust cross-platform command line argument parsing library.
 * [Hejsil/zig-clap](https://github.com/Hejsil/zig-clap) - Simple command line argument parsing library.
 * [sam701/zig-cli](https://github.com/sam701/zig-cli) - Package for building command line apps.
 * [kivikakk/libpcre.zig](https://github.com/kivikakk/libpcre.zig) - Bindings to libpcre for Perl-compatible regular expressions.

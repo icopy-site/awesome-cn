@@ -104,6 +104,7 @@ Premade boilerplates for Fiber.
 - [GalvinGao/gofiber-template](https://github.com/GalvinGao/gofiber-template) - A production-ready, container-first opinionated gofiber project template. Config by envvars, DI by go.uber.org/fx, Database by uptrace/bun, with out-of-the-box MVC folder structure and CI/CD support.
 - [mikhail-bigun/go-app-template](https://github.com/mikhail-bigun/go-app-template) - Clean architecture Go application boilerplate with enriched Fiber implementation.
 - [amrebada/go-modules](https://github.com/amrebada/go-modules) - Nest JS like structure for Go Fiber.
+- [ingeniousambivert/fiber-bootstrapped](https://github.com/ingeniousambivert/fiber-bootstrapped) - A toolkit for Go projects embracing a service-centric architecture, inspired by the principles of FeathersJS. 
 
 
 ## 📁 Recipes
