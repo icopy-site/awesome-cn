@@ -553,6 +553,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 * [Twelve-month-olds communicate helpfully and appropriately for knowledgeable and ignorant partners](https://www.eva.mpg.de/documents/Elsevier/Liszkowski_Twelve_Cognition_2008_1554509.pdf) - ***Cognition***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=8202048572661677635&hl=en&as_sdt=0,5)]. The original paper on child pointing.
 
 
+* [Toward understanding the importance of gesture in distributed scientific collaboration](https://link.springer.com/article/10.1007/s10115-006-0062-2) - ***Knowledge and Information Systems***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=3145646721897130511&as_sdt=0,5)]. 
+
 
 #### Pragmatics
 
