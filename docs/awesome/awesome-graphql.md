@@ -89,6 +89,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [graphqurl](https://github.com/hasura/graphqurl) - curl for GraphQL with autocomplete, subscriptions and GraphiQL. Also a dead-simple universal javascript GraphQL client.
 - [aws-amplify](https://github.com/aws-amplify/amplify-js) - A client library developed by Amazon for caching, analytics and more that includes a way to fetch GraphQL queries.
 - [gqty](https://github.com/gqty-dev/gqty) - A No GraphQL client for TypeScript
+- [genql](https://github.com/remorses/genql) - Type safe TypeScript client for any GraphQL API.
 
 ##### Frontend Framework Integrations
 
@@ -144,8 +145,9 @@ If you want to contribute to this list (please do), send me a pull request.
 - [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator): GraphQL code generator with flexible support for custom plugins and templates like TypeScript (frontend and backend), React Hooks, resolvers signatures and more.
 - [pothos](https://github.com/hayes/pothos) - Pothos is a plugin based GraphQL schema builder for typescript. It makes building graphql schemas in typescript easy, fast and enjoyable.
 - [garph](https://github.com/stepci/garph) - Garph is full-stack framework for building type-safe GraphQL APIs in TypeScript.
-- [fast-graphql](https://github.com/idurar/fast-graphql) - Graphql Tools to Strucutre , Combine Resolvers and Merge Schema Definitions for Node.js, Next.Js and Graphql Apollo server
+- [fast-graphql](https://github.com/idurar/fast-graphql) - Graphql Tools to Structure, Combine Resolvers and Merge Schema Definitions for Node.js, Next.Js and Graphql Apollo server
 - [graphql-to-type](https://github.com/lkster/graphql-to-type) - GraphQL query parser written entirely in TypeScript's type system for creating interfaces based on provided query
+- [gql.tada](https://github.com/0no-co/gql.tada) - GraphQL document authoring library, inferring the result and variables types of GraphQL queries and fragments in the TypeScript type system.
 
 #### Miscellaneous
 
@@ -831,8 +833,6 @@ If you want to contribute to this list (please do), send me a pull request.
 - [GraphQL Subscriptions with Apache Kafka in Ballerina](https://medium.com/ballerina-techblog/graphql-subscriptions-with-apache-kafka-in-ballerina-b3c296d333cd)
 - [How to Test your GraphQL Endpoints](https://escape.tech/blog/8-most-common-graphql-vulnerabilities/)
 - [Why Automatic Persisted Queries Don't Scale](https://blog.tailcall.run/the-truth-about-scaling-automatic-persisted-queries/)
-
-
 
 <a name="tutorials" />
 

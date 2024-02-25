@@ -72,15 +72,12 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [VSCode <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](https://code.visualstudio.com/) - [vscode-R](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r) + [vscode-r-lsp](https://marketplace.visualstudio.com/items?itemName=REditorSupport.r-lsp) VSCode R Langauage Support
 * [RStudio <img class="emoji" alt="heart" src="https://cdn.jsdelivr.net/gh/qinwf/awesome-R@3c66da6e291bcc0520b1649125b0bed750896a9a/heart.png" height="20" align="absmiddle" width="20">](http://www.rstudio.org/) - A powerful and productive user interface for R. Works great on Windows, Mac, and Linux.
 * [Emacs + ESS](http://ess.r-project.org/) - Emacs Speaks Statistics is an add-on package for emacs text editors.
-* [Sublime Text + R-Box](http://github.com/randy3k/R-Box/) - Add-on package for Sublime Text 2/3.
+* [Sublime Text + R-IDE](https://github.com/REditorSupport/sublime-ide-r) - Add-on package for Sublime Text 2/3.
 * [TextMate + r.tmblundle](https://github.com/textmate/r.tmbundle) - Add-on package for TextMate 1/2.
 * [StatET](http://www.walware.de/goto/statet) - An Eclipse based IDE for R.
-* [Microsoft R](https://mran.microsoft.com/) - Revolution R would be offered free to academic users and commercial software would focus on big data, large scale multiprocessor functionality.
 * [R Commander](http://socserv.mcmaster.ca/jfox/Misc/Rcmdr/) - A package that provides a basic graphical user interface.
 * [Deducer](http://www.deducer.org/pmwiki/pmwiki.php?n=Main.DeducerManual?from=Main.HomePage) - A Menu driven data analysis GUI with a spreadsheet like data editor.
 * [Radiant](https://radiant-rstats.github.io/docs) - A platform-independent browser-based interface for business analytics in R, based on the Shiny.
-* [Vim-R](https://github.com/vim-scripts/Vim-R-plugin) - Vim plugin for R.
-* [Nvim-R](https://github.com/jalvesaq/Nvim-R) - Neovim plugin for R.
 * [Jamovi](https://www.jamovi.org/) and [JASP](https://jasp-stats.org/) - Desktop software for both Bayesian and Frequentist methods, using a UI familiar to SPSS users.
 * [Bio7](http://www.bio7.org/) - An IDE contains tools for model creation, scientific image analysis and statistical analysis for ecological modelling.
 * [RTVS](http://microsoft.github.io/RTVS-docs/) - R Tools for Visual Studio.
@@ -492,10 +489,8 @@ Angle Regression
 * [Package Development List](https://github.com/ropensci/PackageDevelopment) - R packages to improve package development.
 * [promises](https://cran.r-project.org/web/packages/promises/index.html) - Abstractions for Promise-Based Asynchronous Programming
 * [lineprof](https://github.com/hadley/lineprof) - Visualise line profiling results in R.
-* [packrat](https://github.com/rstudio/packrat) - Make your R projects more isolated, portable, and reproducible.
 * [installr](https://github.com/talgalili/installr/) - Functions for installing softwares from within R (for Windows).
 * [import](https://github.com/smbache/import/) - An import mechanism for R.
-* [modules](https://github.com/klmr/modules) - An alternative (Python style) module system for R.
 * [RStudio Addins](https://github.com/daattali/rstudio-addins) - List of RStudio addins.
 * [drat](https://github.com/eddelbuettel/drat) - Creation and use of R repositories on GitHub or other repos.
 * [covr](https://github.com/jimhester/covr) - Test coverage for your R package and (optionally) upload the results to [coveralls](https://coveralls.io/) or [codecov](https://codecov.io/).

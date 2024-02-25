@@ -81,7 +81,6 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Frescobaldi](https://github.com/wbsoft/frescobaldi) - a free Lilypond sheet music editor.
 * [Guido](http://guidolib.sourceforge.net/) - a generic, portable library and API for the graphical rendering of musical scores.
 * [Hacklily](https://www.hacklily.org) - online LilyPond-based sheet music editor (with optional GitHub integration).
-* [i-score](http://www.i-score.org) - a software for interactive music notation, with DAW features.
 * [Inknote](https://github.com/MichalPaszkiewicz/inknote) - free, open source, browser based music notation and composition software.
 * [LibMEI](https://github.com/DDMAL/libmei) - a C++ library for reading and writing MEI files.
 * [Lilybin](http://lilybin.com/) - an open source web-based LilyPond editor.
@@ -93,6 +92,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Lyp](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users.
 * [MuseScore](https://github.com/musescore/MuseScore) - free open-source music notation and composition software.
 * [MusicKit](https://github.com/venturemedia/musickit) - Music sheet rendering for iOS and OSX.
+* [neoscore](https://neoscore.org/) - python library for notating music in a graphics-first paradigm.
 * [NOTATIO](http://notat.io/) - a forum devoted to the practice of music notation.
 * [OpenLilyLib](https://github.com/openlilylib/snippets/) - LilyPond tools - snippets, templates, and extensions.
 * [OpenSheetMusicDisplay](https://github.com/opensheetmusicdisplay/opensheetmusicdisplay) - Typescript library for rendering MusicXML in the browser.

@@ -1,6 +1,10 @@
 <div class="github-widget" data-repo="substrate-developer-hub/awesome-substrate"></div>
 ## Awesome Substrate [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+> Please see [`awesome-dot`](https://www.awesome-dot.com/) for a similar list that is more general to the entire Polkadot ecosystem, not just Substrate. 
+
+---
+
 > An awesome list is a list of awesome things curated by the Substrate community.
 
 Substrate is a framework for building upgradable, modular and efficient

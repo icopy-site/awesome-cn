@@ -460,6 +460,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [The Database of Cross-Linguistic Colexifications, reproducible analysis of cross-linguistic polysemies](https://www.nature.com/articles/s41597-019-0341-x) - ***Scientific Data***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=4039754406289857135&hl=en&as_sdt=0,5)]. [[Project](https://clics.clld.org/)]. CLICS tackles interconnected interdisciplinary research questions about the colexifcation of words across semantic categories in the world’s languages, and show-cases best practices for preparing data for cross-linguistic research.
 
+* [Locating what comes to mind in empirically derived representational spaces](https://www.sciencedirect.com/science/article/pii/S001002772300183X) - ***Cognition***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=57834483230365927&hl=en&as_sdt=0,5)]. An evidence-based study concluding that people call category members to mind according to their location in representational space, specifically based on the predicted usefulness of considering category members with particular features.
+
 
 #### AI Concept Representation
 
