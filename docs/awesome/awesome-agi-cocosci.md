@@ -478,6 +478,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [Unit Testing for Concepts in Neural Networks](https://aclanthology.org/2022.tacl-1.69/) - ***Transactions of the Association for Computational Linguistics***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=3036662275506971282&hl=en&as_sdt=0,5)]. Testing the concept representation by neural networks through Fodor's theory of concepts.
 
+* [Do Llamas Work in English? On the Latent Language of Multilingual Transformers](https://arxiv.org/abs/2402.10588) - 2024. [[All Versions](https://scholar.google.com/scholar?cluster=5847238732288003106&hl=en&as_sdt=0,5)]. A preliminary work empirically showing that the intermediate embeddings of multilingual Transformers (1) start far away from output token embeddings; (2) already allow for decoding a semantically correct next token in the middle layers, but give higher probability to its version in English than in the input language; (3) finally move into an input-language-specific region of the embedding space. Also, the embedding of abstract concept space lies closer to English than to other languages.
+
 
 
 ### Complexity & Information Theory

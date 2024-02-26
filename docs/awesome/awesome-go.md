@@ -130,6 +130,7 @@ _Tools for building blockchains._
 - [cometbft](https://github.com/cometbft/cometbft) - A distributed, Byzantine fault-tolerant, deterministic state machine replication engine. It is a fork of Tendermint Core and implements the Tendermint consensus algorithm.
 - [cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - A Framework for Building Public Blockchains in the Cosmos Ecosystem.
 - [go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol.
+- [gosemble](https://github.com/LimeChain/gosemble) - A Go-based framework for building Polkadot/Substrate-compatible runtimes.
 - [gossamer](https://github.com/ChainSafe/gossamer) - A Go implementation of the Polkadot Host.
 - [kubo](https://github.com/ipfs/kubo) - A blockchain framework implemented in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol.
 - [solana-go](https://github.com/gagliardetto/solana-go) - Go library to interface with Solana JSON RPC and WebSocket interfaces.
@@ -738,6 +739,7 @@ _Libraries for working with dates and times._
 - [durafmt](https://github.com/hako/durafmt) - Time duration formatting library for Go.
 - [feiertage](https://github.com/wlbr/feiertage) - Set of functions to calculate public holidays in Germany, incl. specialization on the states of Germany (Bundesländer). Things like Easter, Pentecost, Thanksgiving...
 - [go-anytime](https://github.com/ijt/go-anytime) - Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance.
+- [go-datebin](https://github.com/deatil/go-datebin) - A simple datetime parse pkg.
 - [go-persian-calendar](https://github.com/yaa110/go-persian-calendar) - The implementation of the Persian (Solar Hijri) Calendar in Go (golang).
 - [go-str2duration](https://github.com/xhit/go-str2duration) - Convert string to duration. Support time.Duration returned string and more.
 - [go-sunrise](https://github.com/nathan-osman/go-sunrise) - Calculate the sunrise and sunset times for a given location.
@@ -1283,6 +1285,7 @@ _Libraries for working with JSON._
 - [ej](https://github.com/lucassscaravelli/ej) - Write and read JSON from different sources succinctly.
 - [epoch](https://github.com/vtopc/epoch) - Contains primitives for marshaling/unmarshalling Unix timestamp/epoch to/from build-in time.Time type in JSON.
 - [fastjson](https://github.com/valyala/fastjson) - Fast JSON parser and validator for Go. No custom structs, no code generation, no reflection.
+- [gabs](https://github.com/Jeffail/gabs) - For parsing, creating and editing unknown or dynamic JSON in Go.
 - [gjo](https://github.com/skanehira/gjo) - Small utility to create JSON objects.
 - [GJSON](https://github.com/tidwall/gjson) - Get a JSON value with one line of code.
 - [go-jsonerror](https://github.com/ddymko/go-jsonerror) - Go-JsonError is meant to allow us to easily create json response errors that follow the JsonApi spec.
@@ -1514,6 +1517,7 @@ _Libraries for working with dependency injection._
 
 - [alice](https://github.com/magic003/alice) - Additive dependency injection container for Golang.
 - [boot-go](http://github.com/boot-go/boot) - Component-based development with dependency injection using reflections for Go developers.
+- [cosban/di](https://gitlab.com/cosban/di) - A code generation based dependency injection wiring tool.
 - [di](https://github.com/goava/di) - A dependency injection container for go programming language.
 - [dig](https://github.com/uber-go/dig) - A reflection based dependency injection toolkit for Go.
 - [dingo](https://github.com/i-love-flamingo/dingo) - A dependency injection toolkit for Go, based on Guice.
@@ -1690,6 +1694,7 @@ See also [Text Processing](#text-processing) and [Text Analysis](#text-analysis)
 - [go-localize](https://github.com/m1/go-localize) - Simple and easy to use i18n (Internationalization and localization) engine - used for translating locale strings.
 - [go-mystem](https://github.com/dveselov/mystem) - CGo bindings to Yandex.Mystem - russian morphology analyzer.
 - [go-pinyin](https://github.com/mozillazg/go-pinyin) - CN Hanzi to Hanyu Pinyin converter.
+- [go-words](https://github.com/saleh-rahimzadeh/go-words) - A words table and text resource library for Golang projects.
 - [gotext](https://github.com/leonelquinteros/gotext) - GNU gettext utilities for Go.
 - [icu](https://github.com/goodsign/icu) - Cgo binding for icu4c C library detection and conversion functions. Guaranteed compatibility with version 50.1.
 - [iuliia-go](https://github.com/mehanizm/iuliia-go) - Transliterate Cyrillic → Latin in every possible way.
@@ -1823,6 +1828,7 @@ _Libraries that implement Object-Relational Mapping or datamapping techniques._
 
 - [bun](https://github.com/uptrace/bun) - SQL-first Golang ORM. Successor of go-pg.
 - [cacheme](https://github.com/Yiling-J/cacheme-go) - Schema based, typed Redis caching/memoize framework for Go.
+- [CQL](https://github.com/FrancoLiberali/cql) - Built on top of GORM, adds compile-time verified queries based on auto-generated code.
 - [ent](https://github.com/facebook/ent) - An entity framework for Go. Simple, yet powerful ORM for modeling and querying data.
 - [go-dbw](https://github.com/hashicorp/go-dbw) - A simple package that encapsulates database operations.
 - [go-firestorm](https://github.com/jschoedt/go-firestorm) - A simple ORM for Google/Firebase Cloud Firestore.
@@ -3392,6 +3398,7 @@ _Add the group of your city/country here (send **PR**)_
 - [Saving a Third of Our Memory by Re-ordering Go Struct Fields](https://qvault.io/golang/struct-field-ordering-memory/) - How inefficient field ordering in Go structs.
 - [Scaling Go Applications](https://betterstack.com/community/guides/scaling-go/) - Everything about building, deploying and scaling Go applications in production.
 - [The world’s easiest introduction to WebAssembly with Golang](https://medium.com/@martinolsansky/webassembly-with-golang-is-fun-b243c0e34f02)
+- [Understanding Go in a visual way](https://dev.to/aurelievache/series/26234) - Learn Go visually
 - [W3basic Go Tutorials](https://www.w3basic.com/golang/) - W3Basic provides an in-depth tutorial and well-organized content to learn Golang programming.
 - [Working with Go](https://github.com/mkaz/working-with-go) - Intro to go for experienced programmers.
 - [Your basic Go](https://yourbasic.org/golang) - Huge collection of tutorials and how to's.

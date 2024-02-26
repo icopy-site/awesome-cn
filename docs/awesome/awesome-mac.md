@@ -1145,7 +1145,7 @@ If you come across websites offering pirated software or cracks, please post [HE
 * MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/)
 * Other sites like [MacStories](https://www.macstories.net/), [LifeHacker](http://lifehacker.com/), [ProductHunt](https://www.producthunt.com/topics/mac) are great resources.
 
-### Pirated software download site blacklist
+### Pirated software download site blocklist
 
 *Refuse piracy from me. Software vendors can go to these places rights.*
 
