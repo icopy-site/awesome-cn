@@ -91,6 +91,12 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Catspeak](https://github.com/katsaii/catspeak-lang) - Cross-platform programming language for modding support.
 - [GMBenchmark](https://github.com/DragoniteSpam/GMBenchmark) - A tool to benchmark GML code.
 - [Agenda](https://github.com/benal20/Agenda.gml) - Schedule and delay the execution of callbacks.
+- [GMSnip](https://manta-ray.itch.io/gmsnip) - Experimental tool to define unlimited code snippets in the IDE.
+- [Airkiver](https://github.com/AlubJ/Airkiver) - Game file archive tool.
+- [OKColor](https://github.com/KeeVeeGames/OKColor.gml) - An okay color manager for implementing OKLab/OKLCH colors.
+- [Exception](https://github.com/KeeVeeGames/Exception.gml) - A base class for custom exceptions.
+- [ArrayList](https://github.com/KeeVeeGames/ArrayList.gml) - The most complete list class. Garbage collected, fast sort function, [] accessor and referencing as an array.
+- [GM Sysinfo](https://github.com/SpikeHD/gm-sysinfo) - Cross-platform extension for getting system information and resource usage.
 
 ## Debugging
 
@@ -103,6 +109,8 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Meta](https://github.com/nommiin/meta) - Runtime asset inspector.
 - [FPS Speedometer](https://dragonite.itch.io/fps-speedometer-for-gamemaker) - Pretty framerate display.
 - [Duck](https://github.com/imlazyeye/duck) - A fast GML analyzer to enforce code styling and detect errors.
+- [Gobo](https://github.com/Pizzaandy/Gobo/) - An opinionated code formatter for GML.
+- [Inspectron](https://github.com/shdwcat/Inspectron) - A fluent API for easily creating GameMaker debug views.
 
 ## Input Handling
 
@@ -144,6 +152,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [lexicon](https://github.com/tabularelf/lexicon) - Another localization solution focused on simplifying implementation.
 - [GMLocalize](https://github.com/DragoniteSpam/GMLocalize2) - Not a full localization solution. Extracts text strings for localization from a GameMaker Studio 2 project and saves it to a JSON file.
 - [Small Pentapop Localization Tool](https://github.com/AntonBergaker/small_pp_localization_tool) - Similar export tool to GMLocalize but exports to a csv.
+- [gms2-mofile](https://github.com/pmarincak/gms2-mofile) - Mofile reader used for localization.
 
 ## Physics
 
@@ -195,6 +204,8 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Particle Editor](https://gamemakercasts.itch.io/particle-editor) - Create particles with an easy UI and export into GML code.
 - [Particles Wrapper](https://github.com/GamemakerCasts/particles) - A simplistic particle system wrapper that is designed to make creating particles fun and easy.
 - [Advanced Particles](https://limekys.itch.io/advanced-particle-system) - A particle implementation that comes with it's own delta timing methods.
+- [Pulse](https://github.com/Delfos1/Pulse) - A library to create more complex particle emitters, systems and particles.
+- [Burrn](https://github.com/FoxyOfJungle/Burrn) - Built-in particle system that uses the particle asset built into the IDE.
 
 ## Lighting
 
@@ -290,6 +301,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 - [Sequences Tutorial](https://www.youtube.com/watch?v=WO6gzhrx5b8) - Shaun Spalding. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [Making Splash Screen Sequences](https://www.youtube.com/watch?v=hTh5UpFxx1E) - Mash Arcade. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
+- [DuplicateSequence](https://github.com/KeeVeeGames/DuplicateSequence.gml) - Make a deep copy of sequence assets/structs for editing at runtime.
 
 ## State Machines
 
@@ -298,6 +310,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [wFSM](https://mors-games.itch.io/wfsm) - Another Easy-to-use Finite State Machine library.
 - [True State](https://pixelatedpope.itch.io/truestate) - Feature-rich finite state machine to handle complex objects.
 - [Pinocchio](https://github.com/JujuAdams/Pinocchio) - State-based animation system.
+- [BehaviorTree](https://github.com/Gizmo199/BehaviorTree) - A simple behavior tree system.
 
 ## Pathing
 
@@ -331,12 +344,16 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Making Attacks Feel Good](https://www.youtube.com/watch?v=RWkMsD2WUz8) - Blobfish. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [vim-GML](https://github.com/JafarDakhan/vim-gml) - High quality Vim syntax highlighting for GameMaker.
 - [Rousr Release](https://gitlab.com/rousr-release/) - Unmaintained projects from the Rousr team (in case anyone asks where OutsideTheBox/Dissonance went).
+- [Tome](https://github.com/chesrowe/Tome/) - Automatically generate documentation sites from GameMaker projects.
 
 ## Blogs
 
 - [RefresherTowel](https://refreshertowelgames.wordpress.com/category/tutorial/) - Contains several posts on level generation.
+- [Tony Str](https://tonystr.net/articles) - Some great articles on working with JSON, regular expressions *(regex)*, and drawing circles in GML.
 - [Katsaii](https://www.katsaii.com/content/blog/posts.html) - Some articles on more advanced GML topics.
 - [Meseta on Game Dev](https://meseta.dev/) - Seasoned GameMaker dev's thoughts on GameMaker concepts and libraries.
+- [Thoughts On GameMaker](https://github.com/JujuAdams/ThoughtsOnGameMaker) - Not a traditional blog but has great info on different GML techniques.
+- [ApathyHill](https://apathyhill.com/blog/category/gamemaker) - Some articles on GameMaker 3D, noise, sprite trails, and a few others.
 
 ## YouTube
 

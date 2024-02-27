@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="substrate-developer-hub/awesome-substrate"></div>
 ## Awesome Substrate [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> Please see [`awesome-dot`](https://www.awesome-dot.com/) for a similar list that is more general to the entire Polkadot ecosystem, not just Substrate. 
+> Please see [`awesome-dot`](https://github.com/haquefardeen/awesome-dot) for a similar list that is more general to the entire Polkadot ecosystem, not just Substrate. 
 
 ---
 
