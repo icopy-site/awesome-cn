@@ -105,3 +105,4 @@ ranking and review recommendation systems, with demographic parity, exposure, an
 
 ## Related Events
 * [Workshop on Algorithmic Audits of Algorithms (WAAA)](https://algorithmic-audits.github.io)
+* [Regulatable ML Workshop (RegML'23)](https://regulatableml.github.io/)

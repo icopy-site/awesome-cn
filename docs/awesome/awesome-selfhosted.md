@@ -737,6 +737,7 @@ A [news aggregator](https://en.wikipedia.org/wiki/News_aggregator), also termed 
 
 - [Bubo Reader](https://github.com/georgemandis/bubo-rss) - Open source, "irrationally minimal" RSS feed reader. ([Demo](https://bubo-rss-demo.netlify.app/)) `MIT` `Nodejs`
 - [CommaFeed](https://www.commafeed.com/) - Google Reader inspired self-hosted RSS reader. ([Source Code](https://github.com/Athou/commafeed)) `Apache-2.0` `Java/Docker`
+- [FeedCord](https://github.com/Qolors/FeedCord) `⚠` - A simple, lightweight & customizable RSS News Feed for your Discord Server. `MIT` `Docker`
 - [Feedpushr](https://github.com/ncarlier/feedpushr) - Powerful RSS aggregator, able to transform and send articles to many outputs. Single binary, extensible with plugins. `GPL-3.0` `Go/Docker`
 - [FreshRSS](https://freshrss.org/) - Self-hostable RSS feed aggregator. ([Demo](https://demo.freshrss.org/i/), [Source Code](https://github.com/FreshRSS/FreshRSS), [Clients](https://github.com/Alkarex/EasyRSS)) `AGPL-3.0` `PHP/Docker`
 - [Goeland](https://github.com/slurdge/goeland) - Reads RSS/Atom feeds and filter/digest them to create beautiful emails. `MIT` `Go`
@@ -1253,7 +1254,6 @@ Software that does not fit in another section.
 - [Teleport](https://goteleport.com/) - Certificate authority and access plane for SSH, Kubernetes, web applications, and databases. ([Source Code](https://github.com/gravitational/teleport)) `Apache-2.0` `Go/Docker/K8S`
 - [TeslaMate](https://github.com/adriankumpf/teslamate) - A powerful data logger for Tesla vehicles. `MIT` `Elixir/Docker`
 - [Upsnap](https://github.com/seriousm4x/UpSnap) - A simple Wake on LAN (WOL) dashboard app. Wake up devices on your network and see current status. `MIT` `Go/Docker`
-- [ViMbAdmin](https://www.vimbadmin.net/) - Provides a web based virtual mailbox administration system to allow mail administrators to easily manage domains, mailboxes and aliases. ([Source Code](https://github.com/opensolutions/ViMbAdmin)) `GPL-3.0` `PHP`
 - [Watcharr](https://github.com/sbondCo/Watcharr) - A free and open source content watch list. Add and track all the shows and movies you are watching. Comes with user authentication, modern and clean UI and a very simple setup. ([Demo](https://beta.watcharr.app/)) `MIT` `Docker`
 - [WeeWX](https://weewx.com/) - Open source software for your weather station. ([Demo](https://weewx.com/showcase.html), [Source Code](https://github.com/weewx/weewx)) `GPL-3.0` `Python/deb`
 - [WeTTY](https://butlerx.github.io/wetty/#/) - Terminal in browser over http/https. ([Source Code](https://github.com/butlerx/wetty)) `MIT` `Docker/Nodejs`
@@ -1384,7 +1384,6 @@ A [pastebin](https://en.wikipedia.org/wiki/Pastebin) is a type of online content
 - [Drift](https://github.com/MaxLeiter/drift) - Self-hosted Github Gist clone. ([Demo](https://drift.maxleiter.com/)) `MIT` `Nodejs`
 - [ExBin](https://github.com/m1dnight/exbin) - A pastebin with public/private snippets and netcat server. `MIT` `Docker`
 - [FlashPaper](https://github.com/AndrewPaglusch/FlashPaper) - A one-time encrypted zero-knowledge password/secret sharing application focused on simplicity and security. No database or complicated set-up required. ([Demo](https://flashpaper.io)) `MIT` `Docker/PHP`
-- [Hasty Paste](https://enchantedcode.co.uk/hasty-paste/) - A place to quickly paste some text and share it. Mostly used for sharing debug logs and such to help developers provide tech support. The project aims to be both fast and minimal. ([Source Code](https://github.com/enchant97/hasty-paste)) `AGPL-3.0` `Docker/Python`
 - [Hemmelig](https://hemmelig.app) - Share encrypted secrets cross organizations, or as private persons. ([Source Code](https://github.com/HemmeligOrg/Hemmelig.app)) `MIT` `Docker/Nodejs`
 - [MicroBin](https://github.com/szabodanika/microbin) - Simple, performant, configurable, entirely self-contained pastebin and URL shortener. `BSD-3-Clause` `Rust/Docker`
 - [Opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git. ([Demo](https://opengist.thomice.li)) `AGPL-3.0` `Docker/Go/Nodejs`
@@ -1492,6 +1491,7 @@ _Related: [Web Servers](#web-servers)_
 
 - [imgproxy](https://imgproxy.net/) - Fast and secure standalone server for resizing and converting remote images. It works great when you need to resize multiple images on the fly without preparing a ton of cached resized images or re-doing it every time the design changes. ([Source Code](https://github.com/imgproxy/imgproxy)) `MIT` `Go/Docker/K8S`
 - [iodine](https://code.kryo.se/iodine/) - IPv4 over DNS tunnel solution, enabling you to start up a socks5 proxy listener. ([Source Code](https://github.com/yarrick/iodine)) `ISC` `C/deb`
+- [Jauth](https://github.com/Jipok/Jauth) `⚠` - Lightweight SSL/TLS reverse proxy with authorization (via Telegram and SSH) for self-hosted apps. ([Demo](https://j.ateam.undo.it/)) `GPL-3.0` `Go`
 - [Koblas](https://github.com/ynuwenhof/koblas) - Lightweight SOCKS5 proxy server. `MIT` `Rust/Docker`
 - [Nginx Proxy Manager](https://nginxproxymanager.com/) - Nginx Proxy Manager is an easy way to accomplish reverse proxying hosts with SSL termination. ([Source Code](https://github.com/NginxProxyManager/nginx-proxy-manager)) `MIT` `Nodejs/Docker`
 - [Outline Server](https://getoutline.org/) - A proxy server that runs a Shadowsocks instance for each access key and a REST API to manage the access keys. ([Source Code](https://github.com/Jigsaw-Code/outline-server)) `Apache-2.0` `Docker/Nodejs`
@@ -1868,6 +1868,7 @@ _Related: [Task Management & To-do Lists](#task-management--to-do-lists), [Softw
 [URL shortening](https://en.wikipedia.org/wiki/URL_shortening) is the action of shortening a [URL](https://en.wikipedia.org/wiki/Uniform_Resource_Locator) to make it substantially shorter and still direct to the required page. Before hosting one, please see [shortcomings](https://en.wikipedia.org/wiki/URL_shortening#Shortcomings) of URL shorteners.
 
 - [Blink](https://docs.blink.rest) - Easy-to-host, SSO-integrated, CDN-powered link shortener (+decoupled analytics) for teams. ([Source Code](https://github.com/JaneJeon/blink)) `AGPL-3.0` `Nodejs/Docker`
+- [Chhoto URL](https://github.com/SinTan1729/chhoto-url) - Simple, lightning-fast URL shortener with no bloat (fork of simply-shorten). `MIT` `Rust/Docker`
 - [Easyshortener](https://github.com/easypanel-community/easyshortener) - A simple URL shortener. `MIT` `PHP/Nodejs/Docker`
 - [Just Short It!](https://github.com/miawinter98/just-short-it) - A KISS, single-user URL shortener that runs in just one container. `MIT` `Docker`
 - [liteshort](https://git.ikl.sh/132ikl/liteshort) - User-friendly, actually lightweight, and configurable URL shortener. `MIT` `Python/deb`

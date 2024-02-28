@@ -654,6 +654,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [Quantifying usability of domain-specific languages: An empirical study on software maintenance](https://www.sciencedirect.com/science/article/pii/S0164121214002799) - ***Journal of Systems and Software***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=3450893039446010260&hl=en&as_sdt=0,5)]. A study to compare the usability of textual DSLs under the perspective of software maintenance, suggesting that the proposed metrics were useful: (1) to early identify DSL usability limitations, (2) to reveal specific DSL features favoring maintenance tasks, and (3) to successfully analyze eight critical DSL usability dimensions.
 
+* [Communicating Natural Programs to Humans and Machines](https://proceedings.neurips.cc/paper_files/paper/2022/hash/182aed0379591ebd1d655b2bdc152075-Abstract-Datasets_and_Benchmarks.html) - ***NeurIPS'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=13381039702346039142&as_sdt=0,5)]. While humans readily generate and interpret instructions in a general language, computer systems are shackled to a narrow domain-specific language that they can precisely execute. This makes building intelligent systems that can generalize to novel situations such as ARC difficult. Human-generated instructions are referred as `natural programs'. While they resemble computer programs, they are distinct in two ways: First, they contain a wide range of primitives; Second, they frequently leverage communicative strategies beyond directly executable codes.
+
 
 #### Domain Specified Applications
 

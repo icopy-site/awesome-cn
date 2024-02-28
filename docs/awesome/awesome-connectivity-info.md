@@ -57,6 +57,7 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 - [Hurricane Electric 3D map](http://he.net/3d-map/) -  Interactive 3D map of undersea cables and Hurrican Electric Points of Presence (POPs) and routes.
 - [GSMA Mobile Network Coverage Maps](https://www.mobilecoveragemaps.com) - Currently most accurate mobile coverage maps available, currently covers Benin, Burkina Faso, DRC, Congo Republic, Ghana, Guinea, Guinea-Bissau, Côte d'Ivoire, Lesotho, Liberia, Nigeria, Rwanda, Sierra Leone, South Sudan, Tanzania, Uganda, and Zambia.
 - [nperf Mobile coverage maps](https://www.nperf.com/en/map) - mobile coverage based on data collected from [nperf app](https://www.nperf.com/en/nperf-applications/).
+- [ITU Disaster Connectivity Map](https://dcm.itu.int/) - a map to assist disaster first responders in determining the status of telecommunications network infrastructure, coverage, and performance.
 
 ## Periodic Global Connectivity Reports
 
@@ -103,6 +104,7 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 
 **[`^        back to top        ^`](#)**
 
+- [ITU Data Hub](https://datahub.itu.int/) - a revamp of the ITU World ICT/Telecommunication Indicators Database (WTID), now free for non-commercial use
 - [SpeedChecker Insights](https://insights.speedchecker.com/) - Periodic country-level reports on mobile internet speeds, latency, and coverage
 - [Cloudflare Radar](https://radar.cloudflare.com/) - Invaluable resource on internet traffic, security, routing, outages, DNS, and more.
 - [GSMA - Enabling Rural Coverage](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/02/Enabling_Rural_Coverage_English_February_2018.pdf) - (Feb 2018) Regulatory and policy recommendations to foster mobile broadband coverage in developing countries.
