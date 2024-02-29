@@ -61,3 +61,4 @@
 ## Mock interview platforms
 
 - [Pramp](https://www.pramp.com) - 与朋友和专业人士练习模拟面试.
+- [MeetAPro](https://www.meetapro.com) - 一个开放式的类似于Airbnb的模拟面试网站
