@@ -1267,6 +1267,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [Slowed Canonical Progress in Large Fields of Science](https://www.pnas.org/doi/10.1073/pnas.2021636118) - ***Proceedings of the National Academy of Sciences***, 2021. [[All Verisions](https://scholar.google.com/scholar?cluster=7541922918797308487&hl=zh-CN&as_sdt=0,5)]. An analysis of why too many papers published each year in a field can lead to stagnation rather than advance. 
 
+* [HCI Research as Problem-Solving](https://dl.acm.org/doi/10.1145/2858036.2858283) - ***ACM SIGCHI'16***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=3206201064123443333&as_sdt=0,5)]. This essay contributes a meta-scientific account of human-computer interaction (HCI) research as problem-solving. We build on the philosophy of Larry Laudan, who develops problem and solution as the foundational concepts of science. We argue that most HCI research is about three main types of problem: empirical, conceptual, and constructive.
+
 
 #### Literature Mining
 
