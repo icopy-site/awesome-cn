@@ -108,7 +108,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [acm-sig-ada](https://www.sigada.org/) - The Special Interest Group on Ada.
 - [ada-resource-association](https://www.adaic.org/community/) - Since 1990 the Ada Resource Association's principal mission has been “To ensure continued success of Ada users and promote Ada use in the software industry”.
 - [ada-information-clearinghouse](https://www.adaic.org/) - News and resources for the Ada programming language.
-- [ada-planet](https://www.laeran.pl/adaplanet/i/) - News Aggregator from the Ada programming language world. ([RSS feed via Matrix][ada-planet-via-matrix])
+- [ada-planet](https://ada-planet.blogspot.com/) - News Aggregator from the Ada programming language world (v3) ([Ada-Planet v2 feed via Matrix][ada-planet-via-matrix]).
 
 [ada-planet-via-matrix]: https://matrix.to/#/#ada-lang:matrix.org
 
@@ -217,11 +217,11 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [cxos](https://github.com/ajxs/cxos) - Ada Operating System development example.
 - [havk](https://github.com/RavSS/HAVK) - x86-64 security-focused OS being created with SPARK.
 - [cubit](https://github.com/docandrew/CuBit) - CuBitOS is a multi-processor, 64-bit, (partially) formally-verified, general-purpose operating system, currently for the x86-64 architecture.
-- [ironclad](https://ironclad.cx/) - A kernel for several architectures striving for POSIX compatibility, used on several distributions like [Gloire](https://github.com/streaksu/Gloire).
+- [ironclad](https://ironclad.nongnu.org/) - A kernel for several architectures striving for POSIX compatibility, used on several distributions like [Gloire](https://github.com/streaksu/Gloire).
 - [hirtos](https://github.com/jgrivera67/HiRTOS) - A high-integrity RTOS written in SPARK Ada.
 
 ## Games
-- [steamsky](https://www.laeran.pl/repositories/steamsky) - Roguelike in sky with a steampunk setting.
+- [steamsky](https://github.com/thindil/steamsky) - Roguelike in sky with a steampunk setting.
 - [unity-ada-tetris](https://blog.adacore.com/unity-ada) - Tetris, in Ada, for the Unity game engine.
 - [tictactoe](https://github.com/AdaCore/tictactoe) - A tictactoe game written and proven in SPARK/Ada.
 - [ada-gate](https://github.com/fastrgv/AdaGate) - AdaGate is a first-person 3D sokoban puzzle game within a Stargate / Portal fantasy setting for Windows, OS-X and Linux.

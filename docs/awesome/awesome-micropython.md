@@ -737,6 +737,7 @@ Other places you can look for MicroPython Libraries:
 * [pms5003_micropython](https://github.com/kevinkk525/pms5003_micropython) - Driver for PMS5003 air quality sensor for MicroPython.
 * [micropython-pms5003-minimal](https://github.com/miketeachman/micropython-pms5003-minimal) - Driver for P air quality sensor for MicroPython.
 * [polly](https://github.com/g-sam/polly) - SDS011 pollution sensor + Wemos D1 mini pro + MicroPython.
+* [micropython-SNGCJA5](https://github.com/aleppax/micropython-SNGCJA5) - MicroPython driver for Panasonic SN-GCJA5 particulate matter (PM) sensor.
 
 #### Barometer
 
@@ -1008,6 +1009,10 @@ Other places you can look for MicroPython Libraries:
 
 ### Storage
 
+#### Configuration file
+
+* [uPyftsConf](https://github.com/aleppax/upyftsconf) - MicroPython Far Too Simple Config File. Single file library that writes configurations to itself.
+
 #### Database
 
 * [uPyMySQL](https://github.com/dvrhax/uPyMySQL) - Pure MicroPython MySQL Client.
@@ -1053,6 +1058,10 @@ Other places you can look for MicroPython Libraries:
 ### User Interface
 
 * [upymenu](https://github.com/jplattel/upymenu) - MicroPython Menu for LCD Displays.
+
+### Utilities
+
+* [micropython-hexdump](https://github.com/mattytrentini/micropython-hexdump) - An implementation of Hexdump for MicroPython.
 
 ## Community
 

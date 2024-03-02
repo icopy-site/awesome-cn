@@ -815,7 +815,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [PHP The Right Way](https://phptherightway.com/) - A PHP best practice quick reference guide.
 * [PHP UG](https://php.ug) - A website to help people locate their nearest PHP user group (UG).
 * [PHP Watch](https://php.watch/) - PHP articles, news, upcoming changes, RFCs and more.
-* [PHP Weekly](https://www.phpweekly.com/archive.html) - A weekly PHP newsletter.
 * [Unit Testing Tips](https://testing-tips.sarvendev.com/) - Unit Testing Tips by examples in PHP.
 
 ### PHP Books
@@ -824,14 +823,12 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - Real examples written in PHP showcasing DDD Architectural Styles.
 * [Functional Programming in PHP](https://www.functionalphp.com/) - This book will show you how to leverage these new PHP5.3+ features by understanding functional programming principles
 * [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - A book about unit testing with PHPUnit by Chris Hartjes.
-* [Mastering Object-Orientated PHP](https://brandonsavage.net) - A book about object-orientated PHP by Brandon Savage.
-* [Modern PHP New Features and Good Practices](https://www.oreilly.com/library/view/~/9781491905173/) - A book about new PHP features and best practices by Josh Lockhart.
+* [Mastering Object-Orientated PHP](https://masteringobjectorientedphp.com/) - A book about object-orientated PHP by Brandon Savage.
+* [PHP Cookbook](https://www.oreilly.com/library/view/php-cookbook/9781098121310/) - This cookbook provides code recipes to help you resolve a variety of coding issues.
 * [Modernizing Legacy Applications in PHP](https://leanpub.com/mlaphp) - A book about modernizing legacy PHP applications by Paul M. Jones.
-* [PHP 7 Upgrade Guide](https://leanpub.com/php7) - An ebook covering all of the features and changes in PHP 7 by Colin O'Dell.
 * [Scaling PHP Applications](https://www.scalingphpbook.com) - An ebook about scaling PHP applications by Steve Corona.
 * [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) - A book about common security terms and practices for PHP by Chris Cornutt.
 * [Signaling PHP](https://leanpub.com/signalingphp) - A book about catching PCNTL signals in CLI scripts by Cal Evans.
-* [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) - A book about building testing PHP applications by Chris Hartjes.
 * [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) - This book covers parsing and validating XML documents, leveraging XPath expressions, and working with namespaces as well as how to create and modify XML files programmatically.
 
 ### PHP Videos
@@ -853,18 +850,19 @@ Various resources, such as books, websites and articles, for improving your PHP 
 ### PHP Podcasts
 *Podcasts with a focus on PHP topics.*
 
-* [The Laravel Podcast](https://laravelpodcast.com/) - Laravel and PHP development news and discussion.
 * [Laravel News Podcast](https://podcast.laravel-news.com/) - The Laravel News Podcast brings you all the latest news and events related to the Laravel PHP Framework.
-* [PHP Internals News](https://phpinternals.news) - A podcast about PHP internals.
-* [The PHP Roundtable](https://phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
-* [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
-* [Voices of the ElePHPant](https://voicesoftheelephpant.com/) - Interviews with the people who make the PHP community special.
-* [The Laracasts Snippet](https://laracasts.simplecast.com) - The Laracasts snippet, each episode, offers a single thought on some aspect of web development.
-* [php[podcast] episodes from php[architect]](https://www.phparch.com/podcast/) - The official podcast of php[architect] the industry's leading tech magazine and publisher focused on PHP and web development.
-* [Over Engineered](https://overengineered.fm/) - A podcast in mini-series where we explore unimportant programming questions in extreme detail.
-* [PHPUgly](https://www.phpugly.com/) - The ramblings of a few overworked PHP Developers.
+* [Mostly Technical](https://mostlytechnical.com/) - Hosted by Ian Landsman and Aaron Francis, Mostly Technical is a lively discussion on Laravel, business, and an eclectic mix of related topics.
 * [No Compromises](https://show.nocompromises.io/) - Two seasoned salty programming veterans talk best practices based on years of working with Laravel SaaS teams.
 * [North Meets South Web Podcast](https://www.northmeetssouth.audio/) - Jacob Bennett and Michael Dyrynda conquer a 14.5 hour time difference to talk about life as web developers.
+* [Over Engineered](https://overengineered.fm/) - A podcast in mini-series where we explore unimportant programming questions in extreme detail.
+* [PHP Internals News](https://phpinternals.news) - A podcast about PHP internals.
+* [PHP Town Hall](https://phptownhall.com/) - A casual PHP podcast by Ben Edmunds and Phil Sturgeon.
+* [php[podcast] episodes from php[architect]](https://www.phparch.com/podcast/) - The official podcast of php[architect] the industry's leading tech magazine and publisher focused on PHP and web development.
+* [PHPUgly](https://www.phpugly.com/) - The ramblings of a few overworked PHP Developers.
+* [The Laracasts Snippet](https://laracasts.simplecast.com) - The Laracasts snippet, each episode, offers a single thought on some aspect of web development.
+* [The Laravel Podcast](https://laravelpodcast.com/) - Laravel and PHP development news and discussion.
+* [The PHP Roundtable](https://phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
+* [Voices of the ElePHPant](https://voicesoftheelephpant.com/) - Interviews with the people who make the PHP community special.
 
 ### PHP Newsletters
 *PHP-related news directly to your inbox.*

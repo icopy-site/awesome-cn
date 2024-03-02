@@ -263,6 +263,7 @@
 - [duane9/nvim-rg](https://github.com/duane9/nvim-rg) - Run RipGrep asynchronously and see results in a quickfix window.
 - [FabianWirth/search.nvim](https://github.com/FabianWirth/search.nvim) - Tabs for different Telescope pickers.
 - [backdround/improved-search.nvim](https://github.com/backdround/improved-search.nvim) - Add search abilities.
+- [polirritmico/telescope-lazy-plugins.nvim](https://github.com/polirritmico/telescope-lazy-plugins.nvim) - A Telescope picker to quickly access plugins configurations from the lazy.nvim spec.
 
 ## Fuzzy Finder
 
@@ -332,6 +333,7 @@
 - [Mr-LLLLL/interestingwords.nvim](https://github.com/Mr-LLLLL/interestingwords.nvim) - Highlight multiple word same time and navigate word under cursor with scrolling smoothly, display search count in virualtext.
 - [echasnovski/mini.nvim#mini.hipatterns](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-hipatterns.md) - Module of `mini.nvim` to highlight patterns in text with configurable highlighters. Works asynchronously with configurable debounce delay.
 - [miversen33/sunglasses.nvim](https://github.com/miversen33/sunglasses.nvim) - Dynamic Colorscheme/highlight adjuster on window switching.
+- [rasulomaroff/reactive.nvim](https://github.com/rasulomaroff/reactive.nvim) - Set global and window-specific highlights or trigger callbacks when modes/operators change or windows are switched.
 
 ## Colorscheme
 
@@ -448,6 +450,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 - [HoNamDuong/hybrid.nvim](https://github.com/HoNamDuong/hybrid.nvim) - A dark theme written in Lua.
 - [sxwpb/halfspace.nvim](https://gitlab.com/sxwpb/halfspace.nvim) - A semi-light colorscheme for minimal eye melting.
 - [bartekjaszczak/distinct-nvim](https://gitlab.com/bartekjaszczak/distinct-nvim) - Theme with distinct syntax colours. Supports Tree-sitter and semantic highlighting. For people who love multi-colour syntax highlighting.
+- [samharju/synthweave.nvim](https://github.com/samharju/synthweave.nvim) - Synthwave '84 colorscheme port.
 
 ### Lua Colorscheme
 
@@ -692,6 +695,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [niuiic/terminal.nvim](https://github.com/niuiic/terminal.nvim) - Manage terminal as buffer, multiple terminals support.
 - [RAprogramm/nekifoch](https://github.com/RAprogramm/nekifoch) - Managing Kitty terminal font settings.
 - [2KAbhishek/termim.nvim](https://github.com/2KAbhishek/termim.nvim/) - Neovim Terminal, Improved.
+- [samharju/yeet.nvim](https://github.com/samharju/yeet.nvim) - Run shell commands in terminal buffers or tmux panes.
 
 ## Debugging
 

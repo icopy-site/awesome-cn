@@ -40,7 +40,7 @@ A curated list of podcasts we like to listen to.
 * [BSDNow](http://www.bsdnow.tv/) - A Weekly BSD Podcast - News, Interviews and Tutorials.
 * [BSDTalk](http://bsdtalk.blogspot.com/) - Talking about the BSD family of free operating systems.
 * [Choose Linux](https://chooselinux.show/) - The show that captures the excitement of discovering Linux. (Ceased production 2020)
-* [Citizen Cosmos](https://www.citizencosmos.space/) - A podcast discovering the masterminds of the Cosmos blockchain ecosystem and web3 . 
+* [Citizen Web3](https://www.citizenweb3.com) - Web3-focused podcast, discovering the people that contribute to building the decentralized world.
 * [Cloudcast](http://www.thecloudcast.net/) - Award-winning podcast on all things, Cloud Computing, AWS Ecosystem, OpenSource, DevOps, AppDev, SaaS and SDN.
 * [CMOS](https://code-maven.com/cmos) - The Code-Maven Open Source podcast helps you become familiar with a wide range of projects by interviewing users or developers of these projects.
 * [CodeNewbie Podcast](https://www.codenewbie.org/podcast) - Stories from people on their coding journey.

@@ -117,6 +117,7 @@ This is a curated list for when naming things is done right.
 - [Framework](https://en.wikipedia.org/wiki/Software_framework) - In software architecture (like in actual architecture) frameworks provide basic structure to  build upon that guide and constrain the further development.
 - [Glue Code](https://en.wikipedia.org/wiki/Glue_code) - Jenga and LEGO bricks don't share the same interface but you can always glue them together.
 - [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug) - A bug that seems to disappear or change when one tries to study it. It's a pun on Werner Heisenberg who discovered that the act of observing quantum systems inevitably alters their state.
+- [Hydra](https://computer-dictionary-online.org/definitions-h/hydra-code) - A bug that, when an attempt to fix is made, introduces multiple new bugs. It's a bug that cannot be fixed.
 - [Magic](https://en.wikipedia.org/wiki/Magic_(programming)) - A magic program/piece of code is doing it's job but nobody knows how. Like in reality, magic doesn't actually exist. Once you understand it, it's not magic anymore.
 - [Process starvation](https://en.wikipedia.org/wiki/Starvation_(computer_science)) - A problem where a process is perpetually denied resources to do its work.
 - [Time travel debugging](https://en.wikipedia.org/wiki/Time_travel_debugging) - Stepping back in time through source code to understand execution and sometimes even to change history.

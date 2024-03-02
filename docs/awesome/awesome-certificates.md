@@ -295,7 +295,6 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Python for Machine Leaning and Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/python-for-machine-learning-and-data-science) | Great Leaning |Beginner| 3 | 🏆 |
 
 
-
 ## Theories and Concepts
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
@@ -322,6 +321,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [Email Marketing](https://academy.sendinblue.com/course/email-marketing-course-english) | SendinBlue | Beginner | 4 | 🏅 |
 
 <!-- markdown-link-check-disable -->
+
 ### Project Management
 
 | Course Name | Course Provider | Level | Hour(s) | Reward |
@@ -329,6 +329,7 @@ Report it [here](https://github.com/PanXProject/awesome-certificates/issues/new?
 | [KICKOFF](https://www.pmi.org/kickoff)<!-- markdown-link-check-disable-line --> | Project Management Institute | Beginner | 0.75 | 🏅 |
 | [Project Management Essentials](https://www.msicertified.com/project-management/project-management-essentials-certified/) | Management and Strategy Institute | Beginner | 0.75 | 🏅 |
 | [Project Management Essentials](https://www.disasterready.org/free-certificate-project-management) | Disaster Ready | Beginner | 5 | 🏅 |
+
 <!-- markdown-link-check-enable -->
 
 ### Support
