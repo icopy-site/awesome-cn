@@ -41,6 +41,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [jo](https://github.com/jpmens/jo) - A small utility to create JSON objects
 * [jsoncat](https://github.com/pantuza/jsoncat) - Pretty-print Json in terminal with colors and adjusting tabs size.
 * [jq](https://github.com/jqlang/jq) - A lightweight and flexible command-line JSON processor.
+  * [jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity. Written in Rust.
+  * [gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq. A bit faster and more portable.
 * [livejq](https://github.com/kunalsin9h/livejq) - An alternative `jq` implementation in rust for continuous parsing without crashing on invalid JSON
 * [json](http://trentm.com/json/) - A "json" command for massaging JSON on your Unix command line.
 * [json-search](https://github.com/cosmo-ray/json-search) - A small tool to search for objects/values in json files.

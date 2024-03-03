@@ -519,6 +519,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [Visual complexity: a review](https://www.researchgate.net/profile/Don-Donderi-2/publication/7337589_Visual_Complexity_A_Review/links/5f0875ed45851550509a3a7a/Visual-Complexity-A-Review.pdf) - ***Psychological Bulletin***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=10747901143387624939&hl=en&as_sdt=0,5)]. [[APA](https://psycnet.apa.org/record/2006-00818-005)]. A psychological account on visual complexity.
 
+* [Compressed File Length Predicts Search Time and Errors on Visual Displays](https://www.sciencedirect.com/science/article/pii/S0141938205000120) - ***Displays***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=15600966633648834042&as_sdt=0,5)]. Compressed file size, an objective, easily obtained measure of display complexity, predicts both subjective complexity judgments and objective search performance. It is analogous to algorithmic complexity, a theoretical but impractical measure of bit string complexity. The data suggest that it may be possible to use the compressed file size measure to predict display performance in applied tasks.
+
 * [Image complexity and spatial information](https://stefan.winklerbros.net/Publications/qomex2013si.pdf) - ***International Workshop on Quality of Multimedia Experience***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=16011036229039693102&hl=en&as_sdt=0,5)].
 
 * [Seeing and speaking: How verbal “description length” encodes visual complexity](https://perception.jhu.edu/files/PDFs/21_Complexity_Speaking/SunFirestone_SpeakingSeeing_2021_JEPG.pdf) - ***Journal of Experimental Psychology***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=246820603191585233&hl=en&as_sdt=0,5)]. [[APA](https://psycnet.apa.org/record/2021-83037-001)]. Empirical evidencs showing the relation between visual complexity and description length.
@@ -671,6 +673,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 #### DSL Program Synthesis
 
 * [pix2code: Generating Code from a Graphical User Interface Screenshot](https://dl.acm.org/doi/abs/10.1145/3220134.3220135) - ***ACM SIGCHI Symposium on Engineering Interactive Computing Systems***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=8296741513177971931&as_sdt=0,5)]. [[Code](https://github.com/tonybeltramelli/pix2code)]. [[Website](https://uizard.io/research/)]. This paper shows that deep learning methods can be leveraged to train a model end-to-end to automatically reverse engineer user interfaces and generate code from a single input image with over 77% of accuracy for three different platforms (i.e. iOS, Android and web-based technologies).
+
+* [Learning to Infer Graphics Programs from Hand-Drawn Images](https://proceedings.neurips.cc/paper/2018/hash/6788076842014c83cedadbe6b0ba0314-Abstract.html) - ***NeurIPS'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=14065112485794121024&as_sdt=0,5)]. The method learns a model that uses program synthesis techniques to recover a graphics program from drawing primitives. These programs have constructs like variable bindings, iterative loops, or simple kinds of conditionals. With a graphics program in hand, we can correct errors made by the deep network and extrapolate drawings.
 
 
 
