@@ -176,6 +176,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * [JSON 3](https://bestiejs.github.io/json3/) - A modern implementation.
 * [oboe.js](https://github.com/jimhigson/oboe.js) - A streaming approach, speeds up web applications by providing parsed objects before the response completes.
 * [FracturedJsonJs](https://www.npmjs.com/package/fracturedjsonjs) - A JSON formatter that produces human-readable but fairly compact output.
+* [JsonHilo](https://github.com/xtao-org/jsonhilo) - Minimal lossless parse event streaming, akin to SAX.
 
 **Objective-C**
 * [JSONKit](https://github.com/johnezang/JSONKit) - Objective-C library.
