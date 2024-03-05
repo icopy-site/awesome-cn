@@ -1700,6 +1700,9 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [A Large-Scale Survey on the Usability of AI Programming Assistants: Successes and Challenges](https://dl.acm.org/doi/abs/10.1145/3597503.3608128) - ***ICSE'24***, 2024. [[All Versions](https://scholar.google.com/scholar?cluster=3696356619002071917&hl=en&as_sdt=0,5)]. A survey finding that developers are most motivated to use AI programming assistants because they help developers reduce key-strokes, finish programming tasks quickly, and recall syntax, but resonate less with using them to help brainstorm potential solutions. 
 
+* [Large Language Models for Software Engineering: A
+Systematic Literature Review](https://arxiv.org/abs/2308.10620) - 2023. [[All Versions](https://scholar.google.com/scholar?cluster=10466731638053452642&as_sdt=0,5)]. A systematic literature review on LLM4SE, with a particular focus on understanding how LLMs can be exploited to optimize processes and outcomes.  
+
 
 
 ### Knowledge Representation

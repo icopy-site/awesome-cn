@@ -455,6 +455,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 
 ### Web Servers
 
+* [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 * [emanuele-em/proxelar](https://github.com/emanuele-em/proxelar) — A MITM Proxy 🦀! Toolkit for HTTP/1, HTTP/2, and WebSockets with SSL/TLS Capabilities [![Rust](https://github.com/emanuele-em/proxelar/actions/workflows/rust.yml/badge.svg)](https://github.com/emanuele-em/proxelar/actions/workflows/rust.yml)
 * [mu-arch/skyfolder](https://github.com/mu-arch/skyfolder) - 🪂 Beautiful HTTP/Bittorrent server without the hassle. Secure - GUI - Pretty - Fast
 * [mufeedvh/binserve](https://github.com/mufeedvh/binserve) — A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code [![build badge](https://github.com/mufeedvh/binserve/workflows/CICD/badge.svg?branch=master)](https://github.com/mufeedvh/binserve/actions)
@@ -513,7 +514,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
   * [cargo-graph](https://crates.io/crates/cargo-graph) — updated fork of `cargo-dot` with additional features. Unmaintained, see `cargo-deps`
   * [cargo-info](https://crates.io/crates/cargo-info) — queries crates.io for crates details from command line
   * [cargo-license](https://crates.io/crates/cargo-license) — A cargo subcommand to quickly view the licenses of all dependencies.
-  * [cargo-limit](https://crates.io/crates/cargo-limit) — Cargo with less noise: warnings are skipped until errors are fixed, Neovim integration, etc. [![build badge](https://github.com/alopatindev/cargo-limit/actions/workflows/rust.yml/badge.svg)](https://github.com/alopatindev/cargo-limit/actions)
+  * [cargo-limit](https://crates.io/crates/cargo-limit) — Cargo with less noise: warnings are skipped until errors are fixed, Neovim integration, etc. [![build badge](https://github.com/cargo-limit//cargo-limit/actions/workflows/rust.yml/badge.svg)](https://github.com/cargo-limit//cargo-limit/actions)
   * [cargo-make](https://crates.io/crates/cargo-make) — Task runner and build tool. [![build badge](https://github.com/sagiegurari/cargo-make/workflows/CI/badge.svg?branch=master)](https://github.com/sagiegurari/cargo-make/actions)
   * [cargo-modules](https://crates.io/crates/cargo-modules) — A cargo plugin for showing a tree-like overview of a crate's modules.
   * [cargo-multi](https://crates.io/crates/cargo-multi) — runs specified cargo command on multiple crates
@@ -1341,6 +1342,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
   * [Kiss3d](http://kiss3d.org) — draw simple geometric figures and play with them with one-liners
   * [PistonDevelopers/glfw-rs](https://github.com/PistonDevelopers/glfw-rs) —
 * PDF
+  * [bastibense/libharu_ng](https://github.com/bastibense/libharu_ng) [[libharu_ng](https://crates.io/crates/libharu_ng)] - Easily generate PDFs from your Rust app.
   * [fschutt/printpdf](https://github.com/fschutt/printpdf) — PDF writing library
   * [J-F-Liu/lopdf](https://github.com/J-F-Liu/lopdf) — PDF document manipulation
   * [kaj/rust-pdf](https://github.com/kaj/rust-pdf) —
@@ -1647,7 +1649,7 @@ See also [Are we web yet?](https://www.arewewebyet.org) and [Rust web framework 
   * [cargo-web](https://crates.io/crates/cargo-web) — A Cargo subcommand for the client-side Web
   * [leptos](https://github.com/leptos-rs/leptos) — Leptos is a full-stack, isomorphic web framework leveraging fine-grained reactivity to build declarative user interfaces.[![crate](https://img.shields.io/crates/v/create-rust-app.svg)](https://crates.io/crates/leptos)
   * [sauron](https://github.com/ivanceras/sauron) - Client side web framework which closely adheres to The Elm Architecture.
-  * [seed](https://seed-rs.org/) — A framework for creating web apps
+  * [seed](https://github.com/seed-rs/seed) — A framework for creating web apps
   * [stdweb](https://crates.io/crates/stdweb) — A standard library for the client-side Web
   * [yew](https://crates.io/crates/yew) — A framework for making client web apps
 * HTTP Client

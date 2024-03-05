@@ -82,6 +82,7 @@ A curated list of resources related to complex systems, the scientific field stu
 - [Repast](https://repast.github.io/) - Agent-based modeling and simulation platforms, models coded in C++ and Java.
 - [MASON](https://cs.gmu.edu/~eclab/projects/mason/) - Multiagent simulation library core in Java.
 - [HASH](https://hash.ai/) - Graph and agent simulation platform.
+- [Hybrid Automata Library](https://github.com/MathOnco/HAL) - Java library for hybrid modeling combining agent-based and partial-differential equation components. 
 
 ### Proprietary
 
