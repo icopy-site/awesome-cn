@@ -60,6 +60,7 @@ HPGL is a serial/text-based protocol used by most old pen plotters, and even man
 - [HPGL Viewer](https://github.com/drskullster/HPGLViewer) - An HPGL Viewer using JavaScript and HTML5 canvas.
 - [HPGL Sender](https://github.com/LgHS/hpgl-sender) - A web interface for previewing HPGL and sending it to your plotter.
 - [HPGLGraphics](https://github.com/ciaron/HPGLGraphics) - A Processing library for writing HPGL files.
+- [processing2hpgl](https://github.com/awdriggs/processing2hpgl) - A Processing library that allows for direct communication with HPGL pen plotters from within a Processing sketch.
 
 ### G-code
 
@@ -152,6 +153,7 @@ Single-line vector fonts or "engraving fonts".
 - [hershey-fonts](https://github.com/kamalmostafa/hershey-fonts) - C library and original font data for the Hershey fonts.
 - [svg-fonts](https://gitlab.com/oskay/svg-fonts) - Single-line fonts in an SVG format, mainly for use with the [Hershey Text](https://gitlab.com/oskay/hershey-text) Inkscape plugin.
 - [CNC Text Tool](https://msurguy.github.io/cnc-text-tool/) - Browser-based Hershey Text tool with export to SVG.
+- [hf2gcode](https://github.com/Andy1978/hf2gcode) - Generates G-code from text with a Hershey font.
 
 ## Inspiration, Instruction, and Research
 

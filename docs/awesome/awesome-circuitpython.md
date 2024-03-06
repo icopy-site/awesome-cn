@@ -20,7 +20,7 @@
 
 ## CircuitPython.org
 
-[CircuitPython.org](https://circuitpython.org/) is the first stop on the information snake highway. Here you can see all the [supported boards and download](https://circuitpython.org/downloads) the specific firmware for each one, including beta, latest, and previous versions. Downloads can be sorted by: maker, features, name, and more. At this time there are over 80 boards supported in the CircuitPython family!
+[CircuitPython.org](https://circuitpython.org/) is the first stop on the information snake highway. Here you can see all the [supported boards and download](https://circuitpython.org/downloads) the specific firmware for each one, including beta, latest, and previous versions. Downloads can be sorted by: maker, features, name, and more. At this time there are approaching 500 boards supported in the CircuitPython family!
 
 ## Guides
 
@@ -76,7 +76,7 @@
 - [Slappy.io, a browser-based IDE and REPL for CircuitPython](https://slappy.io/) - An in-browser editor designed especially for Chromebooks. Works on almost any computer that can run a Chromium-based browser.
 - [CircuitPython extension for VS Code](https://marketplace.visualstudio.com/items?itemName=joedevivo.vscode-circuitpython) - A full featured extension for VS Code that downloads the latest CircuitPython bundle automatically, includes access to the serial console, and auto complete.
 - [PewPew workshops](https://pewpew.rtfd.io) - Materials, examples, libraries and hardware for running Python game programming and electronics workshops with a minimum of problems.
-- [CircuitPython Online IDE](https://urfdvw.github.io/CircuitPython-online-IDE/) - A browser based IDE for CircuitPython by River Wang
+- The CircuitPython Online IDE [Version 1](https://urfdvw.github.io/CircuitPython-online-IDE/) and [Version 2](https://urfdvw.github.io/CircuitPython-online-IDE2/) - A browser based IDE for CircuitPython by River Wang
 
 ## Hardware
 
@@ -95,7 +95,7 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 
 ## Newsletter
 
-- [Adafruit Daily, Python for microcontrollers](https://www.adafruitdaily.com/) - A weekly newsletter on MicroPython and CircuitPython, a spam-free list.
+- [Adafruit Daily, Python for Microcontrollers](https://www.adafruitdaily.com/) - A weekly newsletter on MicroPython, CircuitPython, and Python on single-board computers (SBC). A spam-free list.
 - [Contribute to newsletter](https://github.com/adafruit/circuitpython-weekly-newsletter) - Guidelines on contributing to the newsletter.
 - [Archives of all newsletters](https://www.adafruitdaily.com/category/circuitpython/) - List of every newsletter published from the start, November 2016.
 - [Python on Hardware weekly Videocast](http://adafru.it/pohepisodes) - Ladyada and PT review the highlights of the newsletter every week in this video series. The broadcast is also on [iTunes](https://podcasts.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2), [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev), [IGTV (Instagram TV](https://www.instagram.com/adafruit/channel/)), and [XML](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2).
@@ -171,6 +171,7 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 
 ## Swag
 
+- [CircuitPython 9 release poster](https://www.adafruit.com/product/5873) - CircuitPython release version 9 poster.
 - [CircuitPython 8 release poster](https://www.adafruit.com/product/5513) - CircuitPython release version 8 poster.
 - [CircuitPython 7 release poster](https://www.adafruit.com/product/5067) - CircuitPython release version 7 poster.
 - [CircuitPython 6 release poster](https://www.adafruit.com/product/4713) - CircuitPython release version 6 poster.
@@ -229,4 +230,4 @@ Questions? We're happy to [help you to contribute on Discord](https://discord.co
 
 To the extent possible under law, the authors have waived all copyright and related or neighbouring rights to this work.
 
-Last updated: November 2, 2022
+Last updated: March 6, 2024
