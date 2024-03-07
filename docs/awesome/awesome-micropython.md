@@ -590,6 +590,7 @@ Other places you can look for MicroPython Libraries:
 #### IO-Expander
 
 * [micropython-mcp230xx](https://github.com/ShrimpingIt/micropython-mcp230xx) - Driver for MCP23017 and MCP23008 GPIO expanders.
+* [micropython-mcp230xx](https://github.com/dsiggi/micropython-mcp230xx) - Driver for MCP23017 and MCP23008 GPIO expanders, extended with interrupt handling.
 * [micropython-mcp23017](https://github.com/mcauser/micropython-mcp23017) - MicroPython driver for MCP23017 16-bit I/O Expander.
 * [micropython-pcf8574](https://github.com/mcauser/micropython-pcf8574) - MicroPython driver for PCF8574 8-Bit I2C I/O Expander with Interrupt.
 * [micropython-pcf8575](https://github.com/mcauser/micropython-pcf8575) - MicroPython driver for PCF8575 16-Bit I2C I/O Expander with Interrupt.
@@ -818,6 +819,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython-hcsr04](https://github.com/rsc1975/micropython-hcsr04) - Driver for HC-SR04 ultrasonic distance sensors.
 * [micropython-us100](https://github.com/kfricke/micropython-us100) - MicroPython driver for the US-100 sonar distance sensor.
 * [micropython-i2c-ultrasonic](https://github.com/HowManyOliversAreThere/micropython-i2c-ultrasonic) - MicroPython driver for the RCWL-9620-based M5 I2C Ultrasonic Distance Unit.
+* [micropython-grove-ultrasonic-ranger](https://github.com/mores/TheMissingLink/tree/main/Seeed_MicroPython_UltrasonicRanger) - Driver for SeeedStudio's Grove Ultrasonic Ranger.
 
 #### Dust
 

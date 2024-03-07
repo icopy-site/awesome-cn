@@ -658,6 +658,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [Communicating Natural Programs to Humans and Machines](https://proceedings.neurips.cc/paper_files/paper/2022/hash/182aed0379591ebd1d655b2bdc152075-Abstract-Datasets_and_Benchmarks.html) - ***NeurIPS'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=13381039702346039142&as_sdt=0,5)]. While humans readily generate and interpret instructions in a general language, computer systems are shackled to a narrow domain-specific language that they can precisely execute. This makes building intelligent systems that can generalize to novel situations such as ARC difficult. Human-generated instructions are referred as `natural programs'. While they resemble computer programs, they are distinct in two ways: First, they contain a wide range of primitives; Second, they frequently leverage communicative strategies beyond directly executable codes.
 
+* [How Domain Experts Use an Embedded DSL](https://dl.acm.org/doi/abs/10.1145/3622851) - ***OOPSLA'23***, 2023. This work conducts a thematic analysis identified five key themes, including: the interaction between the eDSL and the host language has significant and sometimes unexpected impacts on eDSL user experience, and users preferentially engage with domain-specific communities and code templates rather than host language resources.
+
 
 #### Domain Specified Applications
 

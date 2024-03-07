@@ -122,7 +122,8 @@ Choose what you find more suitable for you:
 
 ## Plugin
 - [Decky Loader](https://github.com/SteamDeckHomebrew/decky-loader) - Plugin launcher.
-- [Deckbrew Plugins](https://plugins.deckbrew.xyz/) - List of Deckbrew plugins.
+- [Deckbrew Plugins](https://plugins.deckbrew.xyz) - List of Deckbrew plugins.
+- [MagicPods](https://magicpods.app/steamdeck) - A magic plugin for Decky Loader that lets you control your AirPods and Beats headphones in a comfortable way.
 
 ## Website
 - [Steam Deck](https://www.steamdeck.com/) - Official Steam Deck website.

@@ -1076,7 +1076,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
   * [iron.io](https://www.iron.io/) — Async task processing (like AWS Lambda) with free tier and 1-month free trial
   * [nhost.io](https://nhost.io) - Serverless backend for web and mobile apps. The free plan includes PostgreSQL, GraphQL (Hasura), Authentication, Storage, and Serverless Functions.
   * [nudge-hook.net](https://nudge-hook.net/client) — Job Scheduling API (with swagger/openapi client). Allows you to schedule as many ad-hoc/cron/periodic webhook deliveries as possible. Free for everyone (no signup required), but infinite schedules are limited to 500 'nudges' max. Accepts donations.
-  * [onesignal.com](https://onesignal.com/) — Unlimited free push notifications
+  * [onesignal.com](https://onesignal.com/) — Unlimited free push notifications. 10,000 email sends per month, with unlimited contacts and access to Auto Warm Up.
   * [paraio.com](https://paraio.com) — Backend service API with flexible authentication, full-text search and caching. Free for one app, 1GB of app data.
   * [progress.com](https://www.progress.com/kinvey) — Mobile backend, starter plan has unlimited requests/second, with 1 GB of data storage. Enterprise application support
   * [pubnub.com](https://www.pubnub.com/) — Free push notifications for up to 1 million messages/month and 100 active daily devices
@@ -1224,7 +1224,6 @@ Update Time, five active automations, webhooks.
    * [Tinybird](https://tinybird.co) - A serverless managed ClickHouse with connection-less data ingest over HTTP and lets you publish SQL queries as managed HTTP APIs. There is no time limit on free-tier, 10GB storage + 1000 API requests per day.
    * [TigerGraph Cloud](https://www.tigergraph.com/cloud/) — Managed native Graph DBMS / analytics platform with a SQL-like graph query language and a REST API. One free instance with two vCPU, 8GB Memory, and 50GB storage that sleeps after 1 hour of inactivity.
    * [TerminusCMS](https://terminusdb.com/pricing) — Managed free service for TerminusDB, a document and graph database written in Prolog and Rust. Free for dev, paid service for enterprise deployments and support.
-   * [Planetscale](https://planetscale.com/) - PlanetScale is a MySQL-compatible, serverless database platform powered by Vitess, one database for free with 1 Production branch and 1 Development branch, 5GB storage, 1 Billion rows read/mo per database, and 10 Million rows written/mo per database.
    * [YugabyteDB](https://cloud.yugabyte.com) - YugabyteDB is a distributed SQL database compatible with PostgreSQL. The cloud-free tier includes two vCPU, 4GB RAM, and 10GB Disk.
    * [filess.io](https://filess.io) - filess.io is a platform where you can create one database of the following DBMS for free: MySQL, MariaDB, MongoDB, and PostgreSQL.
    * [xata.io](https://xata.io) - Xata is a serverless database with built-in powerful search and analytics. One API, multiple type-safe client libraries, and optimized for your development workflow. The free-forever tier is sufficient for hobby developers which comes with three units of Xata, please refer to the website for unit definition.

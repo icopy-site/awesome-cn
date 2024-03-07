@@ -197,6 +197,8 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 ## Developer Tools
 
 - [Try OCaml](https://try.ocamlpro.com/) – Try OCaml in your web browser.
+- [learn-ocaml](https://github.com/ocaml-sf/learn-ocaml). Web app (written in OCaml) underlying the learn-ocaml-corpus. Can be customized to serve lectures (with Markdown slides), playgrounds (with a toplevel prelude), and interactive exercises (with OCaml tests). MIT License.
+- [learn-ocaml.el](https://github.com/pfitaxel/learn-ocaml.el). Minor mode for Emacs that can display exercise topics and grade exercise solutions, after logging to a Learn-OCaml instance. MIT License.
 - [BetterOCaml](https://betterocaml.ml) – An efficient, intuitive, and cross-platform web IDE with your OCaml code interpreted and running in your browser!
 - [codingground](https://www.tutorialspoint.com/compile_ocaml_online.php) – Compile and execute OCaml code online.
 - [OCaml: Learn & Code iOS app](https://apps.apple.com/app/ocaml-learn-code/id1547506826) - Learn and execute OCaml code from your iPhone/iPad/Mac.
@@ -214,8 +216,9 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
   - [Py.ml](https://github.com/thierry-martinez/pyml) - OCaml bindings for Python.
 - **Editor Integration**:
   - [ocaml-lsp](https://github.com/ocaml/ocaml-lsp) - An LSP language server for OCaml that integrates with any editor that understands LSP like [VSCode](https://github.com/microsoft/vscode), Vim and Emacs.
-  - [merlin](https://github.com/ocaml/merlin) – Context sensitive completion for Ocaml in Vim and Emacs.
+  - [merlin](https://github.com/ocaml/merlin) – Context sensitive completion for OCaml in Vim and Emacs.
   - [tuareg](https://github.com/ocaml/tuareg) - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs.
+  - [opam-switch-mode](https://github.com/ProofGeneral/opam-switch-mode) - Minor mode for Emacs that extends Tuareg and Merlin with menus to change or reset the opam switch in the ambient Emacs session.
   - [merlin-eldoc](https://github.com/Khady/merlin-eldoc) – Emacs package to provide merlin's features through eldoc.
   - [vscode-ocaml](https://github.com/hackwaly/vscode-ocaml) – extension that provides OCaml language support for [VSCode](https://github.com/microsoft/vscode)
   - [OCaml Debugger](https://github.com/hackwaly/ocamlearlybird) – extension that provides OCaml Debugger for [VSCode](https://github.com/microsoft/vscode)
@@ -234,6 +237,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 ## Exercises and Short Examples
 
 - [99 problems](https://ocaml.org/learn/tutorials/99problems.html). 99% of the solutions are [here](https://github.com/MassD/99).
+- [learn-ocaml-corpus](https://ocaml-sf.org/learn-ocaml-public/#activity=exercises). Corpus of beginner-to-advanced online exercises (including those from the OCaml MOOC) with automatic grading tests.
 - [Rosetta Code](http://rosettacode.org/wiki/Category:OCaml)
 - [OCaml at Exercism](http://exercism.io/languages/ocaml) – Exercism is your place to engage in thoughtful conversations about code. Explore simplicity, idiomatic language features, and expressive, readable code. [Solutions](https://github.com/exercism/xocaml).
 - [Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net/pleac_ocaml/index.html) - The OCaml section of the book is a free reference for solving common programming problems using OCaml.
@@ -334,9 +338,10 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 - **Libraries**
 	- [Ocaml-sklearn](https://github.com/lehy/ocaml-sklearn) scikit-learn for OCaml.
-	- [Owl](https://ocaml.xyz/) - Scientific library with neural networks, algoritmic differentiation and ONNX support.
+	- [Owl](https://ocaml.xyz/) - Scientific library with neural networks, algorithmic differentiation and ONNX support.
 	- [Object detection convolutional neural network with OCaml (based on Owl)](https://github.com/owlbarn/owl_mask_rcnn).
 	- [PyTorch bindings](https://github.com/LaurentMazare/ocaml-torch) - OCaml bindings for PyTorch.
+  	- [Ocaml-NN](https://github.com/ck090/ocaml-nn/tree/main) - Fully functional monadic implementation of a Neural Network (FCNNs) in OCaml
 - **Articles**
 	- [Deep Learning with OCaml (PyTorch bindings)](https://blog.janestreet.com/deep-learning-experiments-in-ocaml/).
 	- [Transfer Learning with OCaml (PyTorch bindings)](https://blog.janestreet.com/of-pythons-and-camels/).
@@ -397,7 +402,7 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 
 ## Online Courses
 
-- [Introduction to Functional Programming in OCaml](https://www.fun-mooc.fr/courses/parisdiderot/56002S02/session02/about).
+- [OCaml MOOC: Introduction to Functional Programming in OCaml](https://www.fun-mooc.fr/en/courses/introduction-functional-programming-ocaml/) - Videos available in [this playlist](https://www.youtube.com/playlist?list=PLTBEN441uEY36t5CCrJkdTSv588d3nWN5) of the [OCaml Software Foundation](https://ocaml-sf.org/) YouTube channel.
 - [Cornell University – Data Structures and Functional Programming](http://www.cs.cornell.edu/Courses/cs3110/2014fa/course_info.php).
 - [Princeton University - Functional programming in OCaml](http://www.cs.princeton.edu/~dpw/courses/cos326-12/).
 - [University of Illinois](https://courses.engr.illinois.edu/cs421/fa2014/) - Course that uses OCaml to teach functional programming and programming language design
@@ -551,7 +556,9 @@ There is also an ongoing experimental project to make OCaml multiprocessor and m
 ## Utilities
 
 - [ocaml-cuid](https://github.com/marcoonroad/ocaml-cuid) - Collision-resistant IDs for server scalability & database performance.
+- [Validate](https://github.com/Axot017/validate) - PPX deriver designed to streamline the process of validating records.
 - [Uuidm](https://erratique.ch/software/uuidm) - Uuidm is an OCaml module implementing 128-bit universally unique identifiers version 3, 5 (name based with MD5, SHA-1 hashing) and 4 (random based) according to RFC 4122.
+- [sqids-ocaml](https://github.com/sqids/sqids-ocaml) - Official OCaml port of Sqids. Generate short unique IDs from numbers.
 
 
 ## Web Development
