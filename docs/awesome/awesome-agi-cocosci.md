@@ -300,6 +300,8 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [Discovering a symbolic planning language from continuous experience](https://joaoloula.github.io/Discovering_a_Symbolic_Planning_Language_From_Continuous_Experience.pdf) - ***CogSci'19***, 2019. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=14400178089019636923&scipsc=&q=Discovering+a+symbolic+planning+language+from+continuous+experience&btnG=)].
 
+* [Human Comprehensible Active Learning of Genome-Scale Metabolic Networks](https://arxiv.org/abs/2308.12740) - ***AAAI Spring Symposium Series 2023 on Computational Scientific Discovery***, 2023. [[All Versions](https://scholar.google.com/scholar?oi=bibs&cluster=10875437066608527790)]. [[Extended Abstract](http://cogsys.org/symposium/discovery-2023/abstracts/Abstract_3169.pdf)]. [[Slides](http://cogsys.org/symposium/discovery-2023/talks/Ai.pdf)]. This work introduces a novel machine learning framework ILP-iML1515 based on Inductive Logic Programming (ILP) that performs abductive logical reasoning and actively learns from training examples. The ILP-iML1515 framework 1) allows high-throughput simulations and 2) actively selects experiments that reduce the experimental cost of learning gene functions in comparison to randomly selected experiments. 
+
 
 
 ### Bayesian Modeling

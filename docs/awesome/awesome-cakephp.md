@@ -197,7 +197,7 @@ Additional lists you might find useful:
 - [RowLocker plugin](https://github.com/lorenzo/row-locker) - Exclusive locks for rows in your tables.
 - [Muffin/Webservices ORM plugin](https://github.com/usemuffin/webservice) - An ORM like interface for webservices.
 - [Connehito/CakephpMasterReplica plugin](https://github.com/Connehito/cakephp-master-replica) - Switch master/replica database connections.
-- [Itosho/EasyQuery plugin](https://github.com/itosho/easy-query) - Behavior for easily generating some complicated queries like (bulk) insert/upsert etc.
+- 🍰 [Itosho/EasyQuery plugin](https://github.com/itosho/easy-query) - Behavior for easily generating some complicated queries like (bulk) insert/upsert etc.
 - 🍰 [Icings/Partitionable plugin](https://github.com/icings/partitionable) - Partitionable associations allowing for basic limiting per group.
 
 ## PDF

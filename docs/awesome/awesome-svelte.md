@@ -63,6 +63,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Mutiple Paid Svelte/Sveltekit tutourials - LevelUpTutourials](https://levelup.video/library?tags=svelte#library-grid)
 - [Mutiple Free Svelte Tutourials - Joy Of Code](https://joyofcode.xyz/categories/svelte)
 - [Mutiple Free Sveltekit Tutourials - Joy Of Code](https://joyofcode.xyz/categories/sveltekit)
+- [Setup Authentication with AuthJS and Sveltekit 2.0](https://www.youtube.com/watch?v=ridRgYSJ0ds) - @bradcypert (YouTube)
 
 ### Studies
 
@@ -97,6 +98,7 @@ _UI frameworks for mobile._
 
 - [Svelte-Domain](https://github.com/thegenius/svelte-domain) - The state management for svelte.
 - [svelte-asyncable](https://github.com/sveltetools/svelte-asyncable) - The Svelte store contract with support for asynchronous values.
+- [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 
 ## UI Libraries
 
@@ -113,7 +115,10 @@ _UI frameworks for mobile._
 - [ionic-svelte](https://github.com/Tommertom/svelte-ionic-app) - Svelte integration with Ionic's UI for mobile app development, including many starters.
 - [Svelte UI](https://www.svelteui.org/) - SvelteUI is an all inclusive Svelte library.
 - [YeSvelte](https://www.yesvelte.com/) - YeSvelte is flexible Svelte UI component library built on top of Bootstrap css.
+- [Skeleton](https://www.skeleton.dev/docs/get-started) - Skeleton uses Tailwind utility classes and design system to easily create theme-able user interfaces.
 - [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind.
+- [M3 Svelte](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
+
 
 ## UI Components
 
@@ -222,6 +227,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [threlte](https://threlte.xyz) - Svelte wrapper for three.js
 
 ### PWA
+
 - [SvelteKit-Adapter-Versioned-Worker](https://github.com/hedgehog125/SvelteKit-Adapter-Versioned-Worker) - An easy-to-use service worker build plugin where you don't need to worry about cache durations.
 
 ### Portal
@@ -260,6 +266,7 @@ _For Single Page Applications (SPAs) and more._
 - [Elder.js](https://elderguide.com/tech/elderjs/) - Opinionated static site generator and web framework for Svelte built with SEO in mind.
 - [Routify](https://routify.dev/) - Routes for Svelte, automated by your file structure.
 - [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte with GraphQL.
+- [svelte-document] - Create documents (PDFs), resumes, or presentations entirely in Svelte.
 
 ## Dev Tools
 
