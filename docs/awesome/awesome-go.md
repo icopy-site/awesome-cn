@@ -109,6 +109,7 @@ _Libraries for implementing authentication schemes._
 - [loginsrv](https://github.com/tarent/loginsrv) - JWT login microservice with pluggable backends such as OAuth2 (Github), htpasswd, osiam.
 - [oauth2](https://github.com/golang/oauth2) - Successor of goauth2. Generic OAuth 2.0 package that comes with JWT, Google APIs, Compute Engine, and App Engine support.
 - [oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [openfga](https://github.com/openfga/openfga) - Implementation of fine-grained authorization based on the "Zanzibar: Google's Consistent, Global Authorization System" paper. Backed by [CNCF](https://www.cncf.io/).
 - [osin](https://github.com/openshift/osin) - Golang OAuth2 server library.
 - [otpgen](https://github.com/grijul/otpgen) - Library to generate TOTP/HOTP codes.
 - [otpgo](https://github.com/jltorresm/otpgo) - Time-Based One-Time Password (TOTP) and HMAC-Based One-Time Password (HOTP) library for Go.
@@ -3004,6 +3005,7 @@ _Software written in Go._
 - [kubernetes](https://github.com/kubernetes/kubernetes) - Container Cluster Manager from Google.
 - [kubeshark](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, inspired by Wireshark, purposely built for Kubernetes.
 - [KubeVela](https://github.com/kubevela/kubevela) - Cloud native application delivery.
+- [kubevpn](https://github.com/kubenetworks/kubevpn) - VPN tools to connect kubernetes cluster network and proxy workloads inbound traffic to local PC with service mesh.
 - [kwatch](https://github.com/abahmed/kwatch) - Monitor & detect crashes in your Kubernetes(K8s) cluster instantly.
 - [lstags](https://github.com/ivanilves/lstags) - Tool and API to sync Docker images across different registries.
 - [lwc](https://github.com/timdp/lwc) - A live-updating version of the UNIX wc command.
@@ -3026,6 +3028,7 @@ _Software written in Go._
 - [sg](https://github.com/ChristopherRabotin/sg) - Benchmarks a set of HTTP endpoints (like ab), with possibility to use the response code and data between each call for specific server stress based on its previous response.
 - [skm](https://github.com/TimothyYe/skm) - SKM is a simple and powerful SSH Keys Manager, it helps you to manage your multiple SSH keys easily!
 - [StatusOK](https://github.com/sanathp/statusok) - Monitor your Website and REST APIs.Get Notified through Slack, E-mail when your server is down or response time is more than expected.
+- [tau](https://github.com/taubyte/tau) - Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging.
 - [terraform-provider-openapi](https://github.com/dikhan/terraform-provider-openapi) - Terraform provider plugin that dynamically configures itself at runtime based on an OpenAPI document (formerly known as swagger file) containing the definitions of the APIs exposed.
 - [tf-profile](https://github.com/datarootsio/tf-profile) - Profiler for Terraform runs. Generate global stats, resource-level stats or visualizations.
 - [traefik](https://github.com/containous/traefik) - Reverse proxy and load balancer with support for multiple backends.

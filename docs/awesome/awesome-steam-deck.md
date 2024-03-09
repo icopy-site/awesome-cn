@@ -108,6 +108,7 @@ Choose what you find more suitable for you:
 - [KDE Connect](https://github.com/KDE/kdeconnect-kde) - Multi-platform app that allows your devices to communicate.
 - [LocalSend](https://github.com/localsend/localsend) - Open source app to share files between devices over your local network.
 - [Steam Link](https://store.steampowered.com/app/353380/Steam_Link/) - Extend your Steam gaming experience to more devices.
+- [Greenlight](https://github.com/unknownskl/greenlight) - An open source client for streaming Xbox Cloud and Xbox Home.
 
 ## File Management
 - [Deck Drive Manager](https://deckdrivemanager.com/) - Copy PC games from PC to Steam Deck drives.

@@ -37,6 +37,7 @@ This is a curated list for when naming things is done right.
 - [Facade](https://en.wikipedia.org/wiki/Facade_pattern) - Analogous to a facade in architecture, a facade is an object that serves as a front-facing interface masking more complex underlying structure.
 - [Promise](https://en.wikipedia.org/wiki/Futures_and_promises) - A representation of a result that is available in the future, unless there are errors. Like in reality, promises are broken sometimes.
 - [Shotgun surgery](https://en.wikipedia.org/wiki/Shotgun_surgery) - A programming antipattern where in a single change you wildly add code everywhere in your codebase.
+- [Spaghetti Code](https://en.wikipedia.org/wiki/Spaghetti_code) - A program with a tangled and hard-to-follow stucture.
 
 ## Functions
 

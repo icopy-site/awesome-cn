@@ -119,7 +119,6 @@ _UI frameworks for mobile._
 - [STDF](https://stdf.design) - Mobile web component library based on Svelte and Tailwind.
 - [M3 Svelte](https://github.com/KTibow/m3-svelte) - Robust component library implementing Material Design 3
 
-
 ## UI Components
 
 ### Table
@@ -266,7 +265,7 @@ _For Single Page Applications (SPAs) and more._
 - [Elder.js](https://elderguide.com/tech/elderjs/) - Opinionated static site generator and web framework for Svelte built with SEO in mind.
 - [Routify](https://routify.dev/) - Routes for Svelte, automated by your file structure.
 - [JungleJS](https://www.junglejs.org/) - The Jamstack framework for Svelte with GraphQL.
-- [svelte-document] - Create documents (PDFs), resumes, or presentations entirely in Svelte.
+- [svelte-document](https://github.com/mblouka/svelte-document) - Create documents (PDFs), resumes, or presentations entirely in Svelte.
 
 ## Dev Tools
 
