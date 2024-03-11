@@ -88,9 +88,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Micro frameworks and routers.*
 
 * [Laravel-Zero](https://laravel-zero.com) - A micro-framework for console applications.
-* [Lumen](https://lumen.laravel.com/) - A micro-framework by Laravel.
 * [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
-* [Radar](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
+* [Minicli](https://github.com/minicli/minicli) - Minimalist, dependency-free framework for building CLI-centric PHP applications.
 * [Silly](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
 * [Slim](https://www.slimframework.com/) - Another simple micro framework.
 
@@ -300,6 +299,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Better Reflection](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
 * [Code Climate](https://codeclimate.com) - An automated code review.
+* [Editorconfig-Checker](https://github.com/editorconfig-checker/editorconfig-checker.php) - A command line utility which verifies that your files implement your `.editorconfig` rules.
 * [GrumPHP](https://github.com/phpro/grumphp) - A PHP code-quality tool.
 * [PHP Magic Number Detector](https://github.com/povils/phpmnd) - A library that detects magic numbers in code.
 * [PHP Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
@@ -455,6 +455,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Brick\Money](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
 * [OmniPay](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
 * [Payum](https://github.com/payum/payum) - A payment abstraction library.
+* [Shopsys Framework](https://github.com/shopsys/shopsys/) - An open source e-commerce platform for in-house development teams.
 * [Shopware](https://github.com/shopware/shopware) - Highly customizable e-commerce software
 * [Swap](https://github.com/florianv/swap) - An exchange rates library.
 * [Sylius](https://sylius.com/) - An open source e-commerce solution.

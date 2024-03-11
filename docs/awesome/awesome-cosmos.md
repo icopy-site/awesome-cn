@@ -198,6 +198,7 @@ Templates to help you get started with building a Cosmos SDK blockchain.
 * [ignite](https://github.com/cli) - Quickly bootstrap a new Cosmos SDK blockchain with UI and support to create new and work conveniently with existing Cosmos SDK modules.
 * [cosmosregistry/example](https://github.com/cosmosregistry/example) - Template and example repository of a Cosmos SDK module.
 * [cosmosregistry/chain-minimal](https://github.com/cosmosregistry/chain-minimal) -  Template and example of a minimal Cosmos SDK blockchain.
+* [spawn](https://github.com/rollchains/spawn) -  Generate a new Cosmos SDK blockchain with testing, GitHub integrations, and easy instant testnets.
 
 ## Tools
 

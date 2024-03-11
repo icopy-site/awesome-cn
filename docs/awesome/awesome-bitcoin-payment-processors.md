@@ -43,6 +43,7 @@ Hosted payment processors run on someone else's server. This simplifies the init
 | [Bittery.io](https://bittery.io/) | No fees | Yes | Yes | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) and [Exchange Integration](https://redbtc.org/flows/integrations/kraken-exchange/) | No |
 | [Payscrypt](https://payscrypt.com/) | No fees | No | Yes | No | No |
 | [Bitrequest](https://bitrequest.io/) | No fees | Yes | Yes | No | No |
+| [Zaprite](https://zaprite.com/) | $25 per month | Yes | Yes | No | No |
 
 ### Custodial
 

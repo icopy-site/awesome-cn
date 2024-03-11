@@ -1000,6 +1000,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1100+ peo
 * [OpenPipe](https://openpipe.ai) - Fully managed fine-tuning for developers. Free plan lets you fine-tune one model with upto 2,000 rows per dataset.
 * [Braintrust](https://www.braintrustdata.com/) - Evals, prompt playground, and data management for Gen AI. Free plan gives upto 1,000 private eval rows/week.
 * [Findr](https://www.usefindr.com/) - Universal search that lets you search all your apps, at once. Search assistant that lets you answer questions using your information. Free plan offers unlimited unified search and 5 co daily co pilot queries.
+* [ReportGPT](https://report-gpt.marvinvr.ai) - AI Powered Writing Assistant. The entire platform is free as long as you bring your own API key.
 
 [![Back to Top](https://raw.githubusercontent.com/ripienaar/free-for-dev/master/assets/Back-To-Top.svg?sanitize=true)](https://github.com/ripienaar/free-for-dev/blob/master/#table-of-contents)
 
@@ -1632,6 +1633,7 @@ Update Time, five active automations, webhooks.
    * [Trackingplan](https://www.trackingplan.com/) - Automatically detect digital analytics, marketing data and pixels issues, maintain up-to-date tracking plans, and foster seamless collaboration. Deploy it to your production environment with real traffic or add analytics coverage to your regression tests without writing code.
    * [LogSpot](https://logspot.io) - Full unified web and product analytics platform, including embeddable analytics widgets and automated robots (slack, telegram, and webhooks). Free plan includes 10,000 events per month.
    * [Umami](https://umami.is/) - Simple, fast, privacy-focused, open-source alternative to Google Analytics.
+   * [TrackWith Dicloud](https://dicloud.net/trackwith-privacy-focused-analytics/) - Free lightweight privacy-focused alternative to Google Analytics. Unlimited pageviews, unlimited visitor, unlimited page heatmaps & goal tracking. Free for up to 3 domains and 600 session replay per domain.
 
 [![Back to Top](https://raw.githubusercontent.com/ripienaar/free-for-dev/master/assets/Back-To-Top.svg?sanitize=true)](https://github.com/ripienaar/free-for-dev/blob/master/#table-of-contents)
 
