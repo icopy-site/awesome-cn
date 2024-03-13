@@ -288,6 +288,7 @@ Where to find other plotter and drawbot friends.
 - [Pedro Alcocer](https://store.pedroalcocer.com/)
 - [AndyMakes](https://shop.andymakes.com/)
 - [Marcel Schwittlick](https://schwittlick.bigcartel.com/)
+- [Adam Fuhrer](https://adamfuhrer.bigcartel.com)
 
 ## Other Awesomes
 
