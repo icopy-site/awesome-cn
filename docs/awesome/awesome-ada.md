@@ -183,7 +183,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Build and Package
 - [alire](https://github.com/alire-project/alire) - A catalog of ready-to-use Ada libraries plus a command-line tool (alr) to obtain, compile, and incorporate them into your own projects. It aims to fulfill a similar role to Rust's cargo or OCaml's opam.
-- [alr-appimage](https://github.com/mgrojo/alr-appimage) - A tool for automatically creating an AppImage executable from an Alire crate.
+- [alr2appimage](https://github.com/mgrojo/alr2appimage) - A tool for automatically creating an AppImage executable from an Alire crate.
 - [aura](https://github.com/annexi-strayline/AURA) - An integrated build and source/package management tool with a more hands-on versioning approach. Alternative to alire and gprbuild. Optimized for CI/CD pipelines.
 - [gprbuild](https://github.com/AdaCore/gprbuild) - Adacore multi-language software build tool.
 - [ravenadm](https://github.com/jrmarino/ravenadm) - Administration tool for Ravenports http://www.ravenports.com.
