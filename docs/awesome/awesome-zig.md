@@ -158,6 +158,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [DutchGhost/maybeuninit](https://github.com/DutchGhost/maybeuninit) - MaybeUninit.
 * [emekoi/log.zig](https://github.com/emekoi/log.zig) - A thread-safe logging library.
 * [kprotty/zap](https://github.com/kprotty/zap) - A collection of libraries which provide interfaces over the system for writing high performance applications.
+* [vbrusca/ZigMatrixUtils](https://github.com/vbrusca/ZigMatrixUtils) - Matrix manipulation and utility library.
 * [mlarouche/zigimg](https://github.com/mlarouche/zigimg) - Zig library for reading and writing different image formats.
 * [ziglibs/known-folders](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 * [SasLuca/zig-nanoid](https://github.com/SasLuca/zig-nanoid) - Battle-tested, tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig.
