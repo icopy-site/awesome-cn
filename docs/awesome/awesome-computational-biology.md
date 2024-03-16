@@ -83,4 +83,14 @@ A knowledge collection of databases, software and papers related to computationa
 ### Compound Protein Interaction
 
 - [MCPINN](https://github.com/mhlee0903/multi_channels_PINN) - A library for drug discovery using Compound Protein Interaction and Machine Learning.
-- [TransformerCPI](https://github.com/lifanchen-simm/transformerCPI) - A library for Compound Protein Interaction prediction using Transformer. 
+- [TransformerCPI](https://github.com/lifanchen-simm/transformerCPI) - A library for Compound Protein Interaction prediction using Transformer.
+
+### Pre-trained embedding
+
+- [Evolutionary Scale Modeling](https://github.com/facebookresearch/esm) - a library for protein embeddings.
+- [ChemBERTa-2](https://github.com/seyonechithrananda/bert-loves-chemistry) - a library for chemical embeddingg and prediction.
+
+### LLM for biology
+
+- [AI4Chem/ChemLLM-7B-Chat](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat) - LLM for chemical and molecule science
+- [BioGPT](https://github.com/microsoft/BioGPT) - LLM for Biomedical text generation
