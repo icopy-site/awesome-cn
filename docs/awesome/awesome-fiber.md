@@ -91,6 +91,7 @@ List of middlewares that are created by the Fiber community.
 - [zeiss/fiber-goth](https://github.com/ZEISS/fiber-goth) -  Simple middleware to integrate authentication to your Fiber applications.
 - [zeiss/fiber-authz](https://github.com/ZEISS/fiber-authz) - A middleware to secure routes in Fiber with a defined RBAC model.
 - [zeiss/fiber-htmx](https://github.com/ZEISS/fiber-htmx) - A middleware for using HTMX in Fiber.
+- [jsorb84/ssefiber](https://github.com/jsorb84/ssefiber) - A basic SSE Implementation for Fiber.
 
 ## 🚧 Boilerplates
 Premade boilerplates for Fiber.
