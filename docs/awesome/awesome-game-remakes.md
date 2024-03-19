@@ -64,6 +64,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [QuakeSpasm](https://sourceforge.net/projects/quakespasm/) - A modern, cross-platform Quake game engine.
 - [RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) - Doom 3 BFG Edition with soft shadows, cleaned up source, Linux and 64 bit Support.
 - [RedneckGDX](https://gitlab.com/m210/RedneckGDX) - Port of Redneck Rampage.
+- [SurrealEngine](https://github.com/dpjudas/SurrealEngine) - The goal of this project is to reimplement enough of the original Unreal Engine to make the Unreal Tournament (UT99) maps playable.
 - [The Eternity Engine](https://github.com/team-eternity/eternity):flower_playing_cards: - Advanced DOOM source port.
 - [The Force Engine](https://github.com/luciusDXL/TheForceEngine) - Jedi Engine for modern systems and the games that used that engine - Dark Forces and Outlaws.
 - [Tyrquake](https://github.com/libretro/tyrquake) - Libretro port of Tyrquake.

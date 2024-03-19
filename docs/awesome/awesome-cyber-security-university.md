@@ -173,7 +173,7 @@ Pull requests are welcome with the condition that the resource should be free! P
 * [Yara](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/yara>) -  Intro to yara for malware analysis.
 * [OpenVAS](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/openvas>) - Intro to openvas.
 * [Intro to Honeypots](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/introductiontohoneypots>) -  Intro to honeypots.
-* [Volatility](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/bpvolatility>) - Intro to memory analysis with volatility.
+* [Volatility](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://cyberdefenders.org/blueteam-ctf-challenges/redline/>) - Intro to memory analysis with volatility.
 * [Red Line](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/btredlinejoxr3d>) - Learn how to use Redline to perform memory analysis and scan for IOCs on an endpoint.
 * [Autopsy](https://github.com/brootware/awesome-cyber-security-university/blob/master/<https://tryhackme.com/room/autopsy2ze0>) - Use Autopsy to investigate artifacts from a disk image.
 
