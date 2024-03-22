@@ -49,6 +49,7 @@ Here are some example projects using pest:
 - [caith](https://github.com/Geobert/caith) - A dice roller crate.
 - [Melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable.
 - [PTA-Parser](https://github.com/AltaModaTech/pta-parser/) - A Plain Text Accounting parser built in Rust for [Beancount](https://github.com/beancount/beancount), [Ledger](https://github.com/ledger/ledger), and other PTA formats.
+- [Keadex Mina](https://github.com/keadex/keadex) - Open Source, serverless IDE to code with C4-PlantUML and organize at a scale C4 model diagrams.
 
 ## Tooling
 
