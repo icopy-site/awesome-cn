@@ -1340,8 +1340,6 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [Skilful nowcasting of extreme precipitation with NowcastNet](https://www.nature.com/articles/s41586-023-06184-4) - ***Nature***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=17837864391812838009&hl=en&as_sdt=0,5)].
 
-* [Organic synthesis in a modular robotic system driven by a chemical programming language](https://www.chem.gla.ac.uk/cronin/images/pubs/387-Steiner-ScienceJan19.full.pdf) - ***Science***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=13920677955690815682&hl=en&as_sdt=0,5)].
-
 * [A universal system for digitization and automatic execution of the chemical synthesis literature](https://www.chem.gla.ac.uk/cronin/images/pubs/Mehr-ScienceOct2020.pdf) - ***Science***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=13909991218383718512&hl=en&as_sdt=0,5)].
 
 * [A mobile robotic chemist](https://www.nature.com/articles/s41586-020-2442-2) - ***Nature***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=13216902493789027324&hl=en&as_sdt=0,5)]. [[Preprint](https://strathprints.strath.ac.uk/74759/1/Burger_etal_Nature_2020_A_mobile_robotic.pdf)]. This work uses a mobile robot to search for improved photocatalysts for hydrogen production from water. The robot operated autonomously over eight days, performing 688 experiments within a ten-variable experimental space, driven by a batched Bayesian search algorithm. This autonomous search identified photocatalyst mixtures that were six times more active than the initial formulations, selecting beneficial components and deselecting negative ones.
@@ -1383,6 +1381,11 @@ organized into intricate patterns that seem to be consistent across individuals.
 * [SciBERT: A Pretrained Language Model for Scientific Text](https://aclanthology.org/D19-1371/) - ***EMNLP'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=7377999893003631695&hl=en&as_sdt=0,5)]. Searching and synthesizing scientific literature, aiding researchers in hypothesis generation, and assisting with experimental design, making scientific knowledge more accessible.
 
 * [CodeBERT: A Pre-Trained Model for Programming and Natural Languages](https://aclanthology.org/2020.findings-emnlp.139/) - ***EMNLP'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=9055786889913621082&hl=en&as_sdt=0,5)]. Completing code, generating programming documentation, and providing technical support, making programming knowledge more accessible to non-experts.
+
+
+#### Laboratory Automation
+
+* [Organic synthesis in a modular robotic system driven by a chemical programming language](https://www.chem.gla.ac.uk/cronin/images/pubs/387-Steiner-ScienceJan19.full.pdf) - ***Science***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=13920677955690815682&hl=en&as_sdt=0,5)].
 
 
 

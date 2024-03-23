@@ -21,6 +21,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## Blockchain API and Web services
 * [3xpl.com](https://3xpl.com/) - Fastest ad-free universal block explorer.
+* [Bitquery.io](https://bitquery.io/) - Bitquery provides blockchain data, offering real-time streaming APIs for 40+ chains, NFT APIs, and a money flow investigation tool.
 * [block.io](https://block.io)
 * [blockchair.com](https://blockchair.com/) - Universal blockchain explorer and search engine.
 * [BlockCypher](https://www.blockcypher.com)
@@ -114,6 +115,10 @@ A curated list of bitcoin services and tools for software developers
 ## .Net Libraries
 * [NBitcoin](https://github.com/MetacoSA/NBitcoin) - Comprehensive Bitcoin library for the .NET framework.
 * [BitcoinLib](https://github.com/cryptean/bitcoinlib) - The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
+
+## Haskell Libraries
+* [Haskoin-core](https://github.com/haskoin/haskoin-core) - Haskoin Core is a library of Bitcoin and Bitcoin Cash functions written in Haskell.
+
 ## Playgrounds
 * [Script Playground](https://www.crmarsh.com/script-playground/)
 * [Bitcoin IDE](https://github.com/siminchen/bitcoinIDE) - Bitcoin Script for dummies.
@@ -140,7 +145,7 @@ A curated list of bitcoin services and tools for software developers
 * [Bitcore](https://github.com/bitpay/bitcore) - Formerly just a Nodejs library, now a full node.
 
 ## Read
-* [A Gentle Introduction to Bitcoin Core Development](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
+* [A Gentle Introduction to Bitcoin Core Development](https://medium.com/bitcoin-tech-talk/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
 * [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 * [Grokking Bitcoin](https://www.manning.com/books/grokking-bitcoin) - An in-depth technical book with rich illustrations.
 * [Bitcoin Stackexchange](https://bitcoin.stackexchange.com)
