@@ -126,6 +126,7 @@
 - [Bottles](https://github.com/bottlesdevs/Bottles) - Wine environments manager to run Windows software and games.
 - [BoxBuddy](https://github.com/Dvlv/BoxBuddyRS) - Graphical Distrobox manager.
 - [Pods](https://github.com/marhkb/pods) - Podman containers manager.
+- [Ptyxis](https://gitlab.gnome.org/chergert/ptyxis) - Terminal with first-class support for containers.
 
 ### Utilities
 
