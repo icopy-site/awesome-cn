@@ -1340,8 +1340,6 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [Skilful nowcasting of extreme precipitation with NowcastNet](https://www.nature.com/articles/s41586-023-06184-4) - ***Nature***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=17837864391812838009&hl=en&as_sdt=0,5)].
 
-* [A universal system for digitization and automatic execution of the chemical synthesis literature](https://www.chem.gla.ac.uk/cronin/images/pubs/Mehr-ScienceOct2020.pdf) - ***Science***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=13909991218383718512&hl=en&as_sdt=0,5)].
-
 * [A mobile robotic chemist](https://www.nature.com/articles/s41586-020-2442-2) - ***Nature***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=13216902493789027324&hl=en&as_sdt=0,5)]. [[Preprint](https://strathprints.strath.ac.uk/74759/1/Burger_etal_Nature_2020_A_mobile_robotic.pdf)]. This work uses a mobile robot to search for improved photocatalysts for hydrogen production from water. The robot operated autonomously over eight days, performing 688 experiments within a ten-variable experimental space, driven by a batched Bayesian search algorithm. This autonomous search identified photocatalyst mixtures that were six times more active than the initial formulations, selecting beneficial components and deselecting negative ones.
 
 * [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176) - 2023. [[All Versions](https://scholar.google.com/scholar?cluster=5962372610489019326&hl=en&as_sdt=0,5)].
@@ -1386,6 +1384,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 #### Laboratory Automation
 
 * [Organic synthesis in a modular robotic system driven by a chemical programming language](https://www.science.org/doi/full/10.1126/science.aav2211) - ***Science***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=13920677955690815682&hl=en&as_sdt=0,5)]. [[Preprint](https://www.chem.gla.ac.uk/cronin/images/pubs/387-Steiner-ScienceJan19.full.pdf)]. [[Perspective: Democratizing synthesis by automation](https://www.science.org/doi/10.1126/science.aav8816)]. This paper developed an autonomous compiler and robotic laboratory platform to synthesize organic compounds on the basis of standardized methods descriptions. The platform comprises conventional equipment such as round-bottom flasks, separatory funnels, and a rotary evaporator to maximize its compatibility with extant literature. The authors showcase the system with short syntheses of three common pharmaceuticals that proceeded comparably to manual synthesis.
+
+* [A universal system for digitization and automatic execution of the chemical synthesis literature](https://www.chem.gla.ac.uk/cronin/images/pubs/Mehr-ScienceOct2020.pdf) - ***Science***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=13909991218383718512&hl=en&as_sdt=0,5)].
 
 
 

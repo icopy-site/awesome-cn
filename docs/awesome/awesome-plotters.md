@@ -185,6 +185,7 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 - [Tech Tangents: Gold Standard Plotter - HP 7475A](https://www.youtube.com/watch?v=8785ktWD7vQ) - Video with some HPGL and plotter history, plus operating an HP 7475A from an IBM 5160 microcomputer.
 - [curiousmarc.com: HP 7475A Plotter](https://www.curiousmarc.com/computing/hp-7475a-plotter) - A great collection of info, ephemera, plot files, three YouTube videos, and a 3d-printable replacement part for the HP 7475A.
 - [From Lettering Guides to CNC Plotters](https://www.typotheque.com/articles/from-lettering-guides-to-cnc-plotters-a-brief-history-of-technical-lettering-tools) - "A Brief History of Technical Lettering Tools".
+- [Building an interactive plotter art installation](https://lostpixels.io/writings/building-interactive-plotter-art) - Nice writeup (with videos) of an interactive plotter art exhibit at SIGGRAPH 2023.
 
 ## Manuals and Ephemera
 
