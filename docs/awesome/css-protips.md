@@ -88,9 +88,6 @@ button {
 }
 ```
 
-> [!NOTE]
-> The `all` and `unset` keywords aren't supported in IE11.
-
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
@@ -225,9 +222,6 @@ body {
 
 #### [Demo](https://codepen.io/AllThingsSmitty/pen/GqmGqZ)
 
-> [!NOTE]
-> Watch for some [buggy behavior](https://github.com/philipwalton/flexbugs#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items) with flexbox in IE11.
-
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
@@ -245,9 +239,6 @@ img {
 Learn more about the `aspect-ratio` property in this [web.dev post](https://web.dev/articles/aspect-ratio).
 
 #### [Demo](https://codepen.io/AllThingsSmitty/pen/MWxwoNx/)
-
-> [!NOTE]
-> `aspect-ratio` and `object-fit` aren't supported in IE11.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -444,9 +435,6 @@ nav h1, nav h2, nav h3, nav h4, nav h5, nav h6 {
 ```
 
 #### [Demo](https://codepen.io/AllThingsSmitty/pen/rNRVxdx)
-
-> [!NOTE]
-> The `:is()` pseudo-class isn't supported in IE11.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
@@ -666,7 +654,7 @@ If you have HTML elements that are empty, i.e., the content has yet to be set ei
 
 ## Support
 
-Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
+Current versions of Chrome, Firefox, Safari, and Edge.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
