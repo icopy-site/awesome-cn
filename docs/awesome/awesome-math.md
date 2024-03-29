@@ -512,7 +512,7 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Numerical Analysis](http://people.cs.uchicago.edu/~ridg/newna/nalrs.pdf) - L. Ridgway Scott
 * 📝 [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](https://user.math.uni-bremen.de/schmi/SS04/YSU_Notes.pdf) - Alfred Schmidt, Arsen Narimanyan
 * 📝 [Numerical Analysis for Engineers](https://ece.uwaterloo.ca/~dwharder/nm/) - Douglas Wilhelm Harder
-
+* 📝🎥 [Advanced Linear Algebra: Foundations to Frontiers](https://www.cs.utexas.edu/users/flame/laff/alaff/frontmatter.html) - Robert van de Geijn, Margaret Myers (University of Texas at Austin)
 
 ## Signal processing
 

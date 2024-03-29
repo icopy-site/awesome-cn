@@ -19,6 +19,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 - [Roland Pen Plotters](https://www.youtube.com/watch?v=6_pwzqPk6Gg) - Vintage flatbed HPGL pen plotters. Search eBay for "roland dxy".
 - [BrachioGraph](https://brachiograph.readthedocs.io/en/latest/) - A cheap and simple plotter made from sticks, servos, and a Raspberry Pi running Python. Here's [video of a BrachioGraph talk at PyCon UK](https://www.youtube.com/watch?v=u4Jh1daCl60) from the creator.
 - [Arduino CNC Drawing Machine](https://www.diymachines.co.uk/arduino-cnc-drawing-machine) - A fairly simple 3d-printed AxiDraw-style plotter with good video documentation.
+- [PlotterXY](https://github.com/jamescarruthers/PlotterXY) - A coreXY plotter made from extrusion, 3d-printed parts, and an inexpensive 3d-printer control board.
 
 ### Motor Controllers
 

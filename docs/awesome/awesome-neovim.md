@@ -23,7 +23,6 @@
 - [chiyadev/dep](https://github.com/chiyadev/dep) - An alternative to packer.nvim. It was built to be even better and easier to use. Context can be found [here](https://chiya.dev/posts/2021-11-27-why-package-manager).
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more 💤.
 - [roobert/activate.nvim](https://github.com/roobert/activate.nvim) - A plugin installation system designed to complement `folke/lazy.nvim`.
-- [abeldekat/lazyflex.nvim](https://github.com/abeldekat/lazyflex.nvim) - An addon for `folke/lazy.nvim`. Facilitates the testing and troubleshooting of a Neovim configuration.
 - [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) - A modern approach to plugin management using Luarocks, inspired by Cargo.
 - [echasnovski/mini.nvim#mini.deps](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-deps.md) - Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins.
 
@@ -308,6 +307,7 @@
 - [kelly-lin/ranger.nvim](https://github.com/kelly-lin/ranger.nvim) - [Ranger](https://github.com/ranger/ranger) integration for neovim.
 - [simonmclean/triptych.nvim](https://github.com/simonmclean/triptych.nvim) - A directory browser inspired by Ranger.
 - [echasnovski/mini.nvim#mini.files](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-files.md) - Module of `mini.nvim` providing file explorer with column view capable of manipulating file system by editing text. Can create/delete/rename/copy/move files/directories inside and across directories.
+- [prichrd/netrw.nvim](https://github.com/prichrd/netrw.nvim) - Add icons and custom keybindings to netrw.
 
 ## Project
 
@@ -817,6 +817,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 - [f-person/git-blame.nvim](https://github.com/f-person/git-blame.nvim) - Show git blame info.
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration: signs, hunk actions, blame, etc.
+- [echasnovski/mini.nvim#mini.diff](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-diff.md) - Module of `mini.nvim` to interactively visualize difference between buffer text and its reference. Provides toggleable detailed overview in text area, built-in apply/reset/textobject/goto mappings, and more.
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - A Magit clone that may change some things to fit the Vim philosophy.
 - [tveskag/nvim-blame-line](https://github.com/tveskag/nvim-blame-line) - A small plugin that uses neovims virtual text to print git blame info at the end of the current line.
 - [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) - Generate shareable file permalinks for several git hosts. Inspired by tpope/vim-fugitive's :GBrowse.
@@ -839,6 +840,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [pwntester/codeql.nvim](https://github.com/pwntester/codeql.nvim) - Neovim plugin to help writing and testing CodeQL queries.
 - [ldelossa/gh.nvim](https://github.com/ldelossa/gh.nvim) - A fully featured GitHub integration for performing code reviews.
 - [topaxi/gh-actions.nvim](https://github.com/topaxi/gh-actions.nvim) - View and dispatch GitHub Actions workflow runs.
+- [rawnly/gist.nvim](https://github.com/rawnly/gist.nvim) - Create a GitHub Gist from the current file (powered by gh).
 
 ## Motion
 
