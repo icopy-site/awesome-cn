@@ -17,6 +17,7 @@ Awesome list of [Angular](https://angular.io/) seed repos, starters, boilerplate
 
 Table of contents:
 
+  * [Angular Challenges](https://angular-challenges.vercel.app/)
 
 ### Angular
 
@@ -117,6 +118,7 @@ Table of contents:
 * [Dmytro Mezhenskyi](https://twitter.com/DecodedFrontend) 
 * [Michael Hladky](https://twitter.com/Michael_Hladky)
 * [Fabio Biondi](https://github.com/fabiobiondi)
+* [Thomas Laforge](https://twitter.com/laforge_toma)
 * [**{{** add_expert **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
 #### Server-Side Rendering
