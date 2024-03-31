@@ -201,6 +201,7 @@ budding cells from bright-field stacks.
 ### Similar lists and repositories
 
 - [BIII](https://biii.eu) - Repository of bioimage analysis tools.
+- [Bio-image Analysis Notebooks](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html) - Notebooks for bioimage analysis in Python.
 - [Bioimaging Guide](https://www.bioimagingguide.org) - Microscopy for beginners reference guide.
 - [Cytodata](https://github.com/cytodata/awesome-cytodata) - A curated list of awesome cytodata resources.
 - [Napari hub](https://www.napari-hub.org) - Collection of napari plugins.

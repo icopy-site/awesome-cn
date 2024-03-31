@@ -1,5 +1,5 @@
 <div class="github-widget" data-repo="ossu/computer-science"></div>
-<div style="text-align: center">
+<div align="center" style="text-align: center">
 <img src="http://i.imgur.com/kYYCXtC.png" alt="Open Source Society logo"/>
 <h3>Open Source Society University</h3>
 <p>

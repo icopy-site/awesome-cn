@@ -236,6 +236,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [play-2048](https://github.com/mgrojo/play_2048) - Play 2048! is a clone of the popular 2048 game, implemented in Ada using [asfml] for graphics and [ada-toml] for saving state.
 - [bingada](https://github.com/jfuica/bingada) - Bingo application in [gtkada].
 - [civ-klon](https://github.com/HonkiTonk/Civ-Klon) - Civilization-style turn-based strategy game. Requires [asfml].
+- [eepers](https://github.com/tsoding/eepers) - A simple Turn-based Game in Ada (made with [raylib](https://github.com/raysan5/raylib)).
 
 ## Frameworks
 
