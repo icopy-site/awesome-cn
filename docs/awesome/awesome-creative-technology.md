@@ -183,6 +183,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**VVOX**](https:&#x2F;&#x2F;volvoxlabs.com&#x2F;) | [NYC] [LA] | high-end design, code, fabrication, sound | [🌐](https:&#x2F;&#x2F;volvoxlabs.com&#x2F;contact&#x2F;)
 | [**We Are Royale**](https:&#x2F;&#x2F;weareroyale.com&#x2F;) | [LA] [Seattle] | frontlines of design &amp; technology to arm brands with the creative to turn audiences into advocates | [📧](https://github.com/j0hnm4r5/awesome-creative-technology/blob/master/mailto:jobs@weareroyale.com)
 | [**WHITEvoid**](https:&#x2F;&#x2F;www.whitevoid.com&#x2F;) | [Berlin] [Shanghai] | public or brand spaces and events, trade fair stands, shows and exhibitions, museums and festivals | 
+| [**WOA STUDIO**](https:&#x2F;&#x2F;www.woastudio.it&#x2F;) | [Milan] | immersive experiences, multimedia, video mapping, digital artistry | 
 | [**Wonderlabs**](https:&#x2F;&#x2F;www.wonderlabsstudio.com&#x2F;) | [Shanghai] | marketing events, interactive installation | [🌐](https:&#x2F;&#x2F;www.wonderlabsstudio.com&#x2F;channels&#x2F;219.html)
 | [**XORXOR**](https:&#x2F;&#x2F;www.xorxor.hu) | [Budapest] | collaboration between scientists, engineers, artists and robots, real-time visuals meet complex design | [🌐](https:&#x2F;&#x2F;www.xorxor.hu&#x2F;jobs.html)
 | [**y&#x3D;f(x)**](https:&#x2F;&#x2F;www.yfxlab.com&#x2F;) | [Amsterdam] | creative technology studio focused on the creation of overarching multimedia experiences, with specially crafted software and design | 
