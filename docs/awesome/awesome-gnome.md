@@ -172,6 +172,7 @@
 - [Escambo](https://github.com/CleoMenezesJr/escambo) - HTTP-based APIs test application.
 - [Forge Sparks](https://github.com/rafaelmardojai/forge-sparks) - Git forge (GitHub, Gitea, Forgejo) desktop notification application. ![GNOME Circle][GNOME Circle]
 - [Turtle](https://gitlab.gnome.org/philippun1/turtle) - Tool to manage Git repositories within Nautilus by providing emblems and context menus.
+- [Biblioteca](https://github.com/workbenchdev/Biblioteca) - GNOME documentation (offline) reader with fuzzy search, dark mode and mobile support. ![GNOME Circle][GNOME Circle]
 
 #### Design Tooling
 
