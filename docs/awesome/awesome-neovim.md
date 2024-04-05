@@ -461,6 +461,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 - [bartekjaszczak/distinct-nvim](https://gitlab.com/bartekjaszczak/distinct-nvim) - Theme with distinct syntax colours. Supports Tree-sitter and semantic highlighting. For people who love multi-colour syntax highlighting.
 - [samharju/synthweave.nvim](https://github.com/samharju/synthweave.nvim) - Synthwave '84 colorscheme port.
 - [loganswartz/sunburn.nvim](https://github.com/loganswartz/sunburn.nvim) - A colorscheme sitting somewhere between pastels and solarized, emphasizing readability and hue uniformity above all else.
+- [ptdewey/darkearth-nvim](https://github.com/ptdewey/darkearth-nvim) - A dark and earthy colorscheme supporting Tree-sitter and LSP.
 
 ### Lua Colorscheme
 
@@ -984,6 +985,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [Jxstxs/conceal.nvim](https://github.com/Jxstxs/conceal.nvim) - Use Tree-sitter to conceal common boilerplate code.
 - [hiberabyss/bzlops.vim](https://github.com/hiberabyss/bzlops.vim) - Help to manage your bazel build rule.
 - [altermo/iedit.nvim](https://github.com/altermo/iedit.nvim) - Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way.
+- [ptdewey/yankbank-nvim](https://github.com/ptdewey/yankbank-nvim) - Enable streamlined access to recent yanks and deletions in a quick-access popup menu.
 
 ### Comment
 
