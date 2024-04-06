@@ -291,6 +291,7 @@ Where to find other plotter and drawbot friends.
 - [AndyMakes](https://shop.andymakes.com/)
 - [Marcel Schwittlick](https://schwittlick.bigcartel.com/)
 - [Adam Fuhrer](https://adamfuhrer.bigcartel.com)
+- [Ingrid Burrington](https://wares.lifewinning.com)
 
 ## Other Awesomes
 
