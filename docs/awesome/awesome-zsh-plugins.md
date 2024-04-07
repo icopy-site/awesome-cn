@@ -20,6 +20,20 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 *Please read the [Contributing Guidelines](https://github.com/unixorn/awesome-zsh-plugins/blob/master/Contributing.md) before contributing.*
+## Disclaimer
+
+While I have done my best to not add entries with embedded malicious code, I don't have the time to sift through the source of every entry in the list.
+
+THIS LIST IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ## Frameworks
 
@@ -177,12 +191,6 @@ To keep loading fast during new terminal sessions, `zgenom` generates a static `
 This minimizes startup time by not having to execute time consuming logic (plugin checking, updates, etc) during every shell session's startup. The downside is that you have to refresh the init script manually with `zgenom reset` whenever you update your plugin list in your `.zshrc`.
 
 Zgenom can load [oh-my-zsh](http://ohmyz.sh/)-compatible and [prezto](https://github.com/sorin-ionescu/prezto)-compatible plugins and themes, and will automagically `git clone` plugins for you when you add them to your plugin list.
-
-### [ZI](https://github.com/z-shell/zi)
-
-**ZI** is a Swiss Army Knife for ZSH. Formerly known as `zplugin` and`zinit`. ZI - [Wiki Pages](https://z-shell.pages.dev/).
-
-Bonus: you can use [zi-console](https://github.com/z-shell/zi-console) to view and change the state of the ZSH session (e.g.: list and unload plugins) and to delete the plugins and snippets from the disk.
 
 ### [zilsh](https://github.com/zilsh/zilsh)
 
@@ -1998,6 +2006,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 - [kyuu](https://github.com/arturoalviar/kyuu-zsh-theme) - A simple theme with the first character being 九(kyuu), the number 9. The primary color is blue with a magenta accent. Includes `git` status decorations.
 - [lacerate](https://github.com/Petrushevsky-A/Lacerate-zsh-theme) - Minimalist theme with decorations for `git`, `hg` and python `venv` status.
 - [laconic](https://github.com/Saka7/laconic.zsh-theme) - Simple theme with `git` status and current directory decorators.
+- [lagnoda](https://github.com/jashezan/lagnoda) Inspired by [agnoster](https://gist.github.com/agnoster/3712874) and `lambda` themes. Includes decorators for username@hostname, current directory, `git`, `hg`, or `bzr` status, current virtualenv, exit status of last command run, and current aws profile.
 - [lagune](https://github.com/noplay/lagune) - A minimal ZSH theme.
 - [lambda (bluedragon1221)](https://github.com/bluedragon1221/zsh-lambda-prompt) - Includes decorators for current directory and `git` status.
 - [lambda (cdimascio)](https://github.com/cdimascio/lambda-zsh-theme) -  Inspired by the [lambda](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/lambda.zsh-theme) theme. Includes `git` status decorations.
