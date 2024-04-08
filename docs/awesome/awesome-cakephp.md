@@ -256,6 +256,7 @@ Additional lists you might find useful:
 ## Social
 *Plugins around social features.*
 
+- 🍰 [Comments plugin](https://github.com/dereuromark/cakephp-comments) - Allows users to comment records, supporting different formats.
 - 🍰 [Favorites plugin](https://github.com/dereuromark/cakephp-favorites) - Allows users to star/like/favor records.
 - 🍰 [Ratings plugin](https://github.com/dereuromark/cakephp-ratings) - Allows users to rate records and displays ratings.
 
