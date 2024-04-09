@@ -560,6 +560,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Colourful](https://github.com/tompazourek/Colourful) - Open source .NET library for working with color spaces.
 * [Imgix-CSharp](https://docs.imgix.com/libraries/imgix-csharp) - Easily update image urls to be fast and responsive. **[$]**
 * [ColorHelper](https://github.com/iamartyom/ColorHelper) - Useful methods for work with colors.
+* [Unicolour](https://github.com/waacton/Unicolour) - Colour conversion, interpolation, and comparison for .NET.
 
 ## Install tools
 
@@ -752,6 +753,11 @@ metadata in media files, including video, audio, and photo formats
 * [Build Versioning](https://github.com/TurnerSoftware/BuildVersioning) - Simple build versioning for .NET, powered by Git tags
 * [SystemTextJson.JsonDiffPatch](https://github.com/weichch/system-text-json-jsondiffpatch) - High-performance, low-allocating JSON object diff and patch extension for System.Text.Json. Support generating patch document in RFC 6902 JSON Patch format.
 * [dotnet-exec](https://github.com/WeihanLi/dotnet-exec) - A command-line tool for executing C# program without a project file, and you can have your custom entry point other than Main method.
+
+## MQTT
+
+* [HiveMQtt](https://github.com/hivemq/hivemq-mqtt-client-dotnet) - The HiveMQ C# MQTT client for .NET
+* [MQTTNet](https://github.com/dotnet/MQTTnet) - A high performance .NET library for MQTT based communication. It provides a MQTT client and a MQTT server (broker).
 
 ## MVVM
 
@@ -1195,6 +1201,7 @@ metadata in media files, including video, audio, and photo formats
 * [.NET Open Source Developer Projects](https://github.com/Microsoft/dotnet/blob/master/dotnet-developer-projects.md) - This community maintained list showcases .NET open source projects that are useful for any aspect of the development process.
 * [Awesome Microservices .NET Core](https://github.com/mjebrahimi/Awesome-Microservices-NetCore) - A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core.
 * [dotnet-console-games](https://github.com/dotnet/dotnet-console-games) - Game examples implemented in .NET console applications.
+* [extra-awesome-dotnet](https://github.com/ara3d/extra-awesome-dotnet) - Sorted lists of awesome .NET repositories, with counts of stars, issues, and forks! 
 
 ## Resources
 

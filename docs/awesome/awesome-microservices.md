@@ -163,6 +163,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [NestJS](https://docs.nestjs.com/) - A Node.js framework for building efficient and scalable server-side applications with a built-in microservices support.
 - [Seneca](https://github.com/senecajs/seneca) - A microservices toolkit for Node.js
 - [Serverless](https://github.com/serverless/serverless) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
+- [tRPC](https://github.com/trpc/trpc) - End-to-end typesafe APIs.
 
 ### Perl
 
@@ -240,6 +241,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [OpenResty](http://openresty.org/) - Fast web application server built on top of Nginx.
 - [Open Service Mesh](https://openservicemesh.io/) - Lightweight and extensible cloud native service mesh.
 - [Otoroshi](https://www.otoroshi.io/) - Modern HTTP reverse proxy with lightweight API management.
+- [Pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [Skipper](https://github.com/zalando/skipper) - HTTP router useful for decoupling routing from service logic.
 - [Spring Cloud Gateway](https://cloud.spring.io/spring-cloud-gateway/) - API Gateway on top of Spring MVC. Aims to provide a simple, yet effective way to route to APIs.
 - [Tengine](http://tengine.taobao.org/) - A distribution of Nginx with some advanced features.
@@ -280,6 +282,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Nomad](https://www.nomadproject.io/) - Distributed, highly available, datacenter-aware scheduler.
 - [Redisson](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
 - [Serf](https://www.serf.io/) - Decentralized solution for cluster membership, failure detection and orchestration.
+- [Valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project.
 - [Zenoh](https://zenoh.io/) - Pub/sub/query protocol unifying data in motion, data at rest and computations. Efficiently blends traditional pub/sub with geo distributed storage, queries and computations.
 
 ### Job Schedulers / Workload Automation

@@ -1358,8 +1358,6 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [How to Make More Published Research True](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4204808/) - ***PLoS Medicine***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=10945341175996677908&hl=en&as_sdt=0,10)].
 
-* [The Internet of Things comes to the lab](https://www.nature.com/articles/542125a) - ***Nature***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=7747117198956166976&hl=en&as_sdt=0,5)].
-
 * [Six factors affecting reproducibility in life science research and how to handle them](https://www.nature.com/articles/d42473-019-00004-y) - ***Nature Advertisement***.
 
 * [Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory](https://ieeexplore.ieee.org/abstract/document/10059206) - ***IEEE Transactions on Knowledge and Data Engineering***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=949715967083833369&hl=en&as_sdt=0,10)].
@@ -1390,6 +1388,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 * [An integrated self-optimizing programmable chemical synthesis and reaction engine](https://www.nature.com/articles/s41467-024-45444-3) - ***Nature Communications***, 2024. [[All Versions](https://scholar.google.com/scholar?cluster=9157508627971047184)]. This paper presents a dynamically programmable system capable of making, optimizing, and discovering new molecules which utilizes seven sensors that continuously monitor the reaction. By developing a dynamic programming language, the work demonstrates the 10-fold scale-up of a highly exothermic oxidation reaction, end point detection, as well as detecting critical hardware failures.
 
 * [A mobile robotic chemist](https://www.nature.com/articles/s41586-020-2442-2) - ***Nature***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=13216902493789027324&hl=en&as_sdt=0,5)]. [[Preprint](https://strathprints.strath.ac.uk/74759/1/Burger_etal_Nature_2020_A_mobile_robotic.pdf)]. This work uses a mobile robot to search for improved photocatalysts for hydrogen production from water. The robot operated autonomously over eight days, performing 688 experiments within a ten-variable experimental space, driven by a batched Bayesian search algorithm. This autonomous search identified photocatalyst mixtures that were six times more active than the initial formulations, selecting beneficial components and deselecting negative ones.
+
+* [The Internet of Things comes to the lab](https://www.nature.com/articles/542125a) - ***Nature***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=7747117198956166976&hl=en&as_sdt=0,5)]. The emergence of connected instruments and equipment promises to untether researchers from the laboratory --- letting them fine-tune experiments and analyse data remotely. 
 
 * [Robotic search for optimal cell culture in regenerative medicine](https://elifesciences.org/articles/77007) - ***eLife***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=1330075145723138159&hl=en&as_sdt=0,5)].
 
