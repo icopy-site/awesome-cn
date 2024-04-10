@@ -49,6 +49,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Engineering strategy notes](https://lethain.com/strategy-notes/) - A collection of links on the topic gathered.
 - [Engineering strategy is more similar to poker than to chess](https://learnings.aleixmorgadas.dev/p/engineering-strategy-is-more-similar) - A comparison of chess and poker games and how they relate to engineering strategy.
 - [The outcome of the strategy becomes culture](https://learnings.aleixmorgadas.dev/p/the-outcome-of-the-strategy-becomes) - Culture guides and constrains your strategy. Using strategy to influence your culture.
+- [What's your engineering strategy?](https://www.linkedin.com/pulse/whats-your-engineering-strategy-pt-1-pat-cullen-cwjqe/) - Multi-part strategy guide with specific templates you can deploy rapidly in your organization.
 
 
 ## Videos

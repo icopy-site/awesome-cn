@@ -134,7 +134,6 @@ _Info on topics necessary for designing and developing game engines._
 
 ### Engine Development
 - Blog Articles
-    - 📚 [3D Game Engine Programming](https://www.3dgep.com) - Helping you build your dream game engine.
     - 📚 [How to Become a Game Engine Developer](https://www.haroldserrano.com/blog/how-to-become-a-game-engine-developer) - Starting point on game engine development.
 - Books
     - 📚 [Game Engine Architecture](https://www.gameenginebook.com) - Theory and practice of game engine development.
@@ -142,6 +141,8 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [Activision Research](https://research.activision.com/) - Blog posts, articles and presentations from research within _Activision_.
     - 🌎 [EA Technology](https://www.ea.com/technology/research) - Research on game tech including info on the _Frostbite_ engine.
     - 🌎 [Ubisoft Technology](https://www.ubisoft.com/en-us/company/how-we-make-games/technology) - Learn about in-house tech including the _Anvil_ and _Snowdrop_ engines.
+- Education Portals
+    - 📚 [3D Game Engine Programming](https://www.3dgep.com) - Topics including graphics, physics, AI, I/O and template programming.
 
 ### Game Development
 - Awesome Collections
@@ -157,7 +158,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [GameDev.net](https://www.gamedev.net/) - Game dev forums, tutorials, blogs, projects, portfolios, and news.
     - 🌎 [GameFromScratch.com](https://gamefromscratch.com) - Game dev news, tutorials and much more.
     - 🌎 [itch.io](https://itch.io) - Game dev resources and platform to showcase / promote / buy & sell games.
-- Tutorials
+- Education Portals
     - 🌎 [Lazy Foo' Tutorials](https://lazyfoo.net/tutorials/SDL/) - Beginning game programming with SDL.
 
 ### Graphical User Interface
@@ -407,7 +408,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Crazy Eddie's GUI](https://github.com/cegui/cegui) - Versatile, multi-platform gui library.
     - 🎉 [Dear ImGui](https://github.com/ocornut/imgui) 🔥 - Bloat-free immediate mode gui library. Ported to many other languages.
     - 🔒 [FLTK](https://github.com/fltk/fltk) - Fast Light Toolkit, cross-platform gui. [[Website](https://www.fltk.org/)]
-    - 🔒 [GTK](https://gitlab.gnome.org/GNOME/gtk/) - GIMP Toolkit, a multi-platform toolkit for creating guis. [[Website](https://www.gtk.org)]
+    - 🔒 [GTK](https://gitlab.gnome.org/GNOME/gtk/) - GIMP Toolkit, a multi-platform toolkit for creating guis.
     - 🎉 [GuiLite](https://github.com/idea4good/GuiLite) - Header-only, cross-platform gui library.
     - 📚 [List of C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/) - List of C++ gui libraries, with pictures and descriptions.
     - 🎉 [Litehtml](https://github.com/litehtml/litehtml) - Lightweight HTML / CSS rendering engine.
@@ -538,6 +539,18 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [image](https://github.com/brendan-duncan/image) - Library for decoding / encoding image formats and image processing.
 - Dart: Game Framework
     - 🎉 [Flame](https://github.com/flame-engine/flame) - Minimalist _Flutter_ based 2D game engine. [[Awesome](https://github.com/flame-engine/awesome-flame#readme) | [Examples](https://examples.flame-engine.org/#/) | [Tutorials](https://tutorials.flame-engine.org/#/) | [Website](https://flame-engine.org/)]
+
+### F#
+- 📚 [Awesome F#](https://github.com/fsprojects/awesome-fsharp) - Curated list of frameworks, libraries, software and resources.
+- 🌎 [F#](https://fsharp.org) - Functional-first language for .NET, prioritizing expressive code and parallelism.
+- F#: Audio
+    - 🔒 [FSound](https://github.com/albertp007/FSound) - Sound processing library.
+- F#: Entity Component System
+    - 🎉 [Garnet](https://github.com/bcarruthers/garnet) - Game composition library with ECS and actor-like messaging features.
+- F#: Game Engine w/Editor
+    - 🎉 [Nu Game Engine](https://github.com/bryanedds/Nu) - Cross-platform game engine built in the functional style.
+- F#: Gui
+    - 🎉 [Fabulous](https://github.com/fabulous-dev/Fabulous) - Declarative UI framework for cross-platform apps.
 
 ### Go
 - 📚 [Awesome Go](https://github.com/avelino/awesome-go) - Awesome Go frameworks, libraries and software.
@@ -817,6 +830,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Box2d.js](https://github.com/kripken/box2d.js/) - Box2D to ported as WebAssembly.
     - 🎉 [Cannon-es](https://github.com/pmndrs/cannon-es) - Maintained fork of [Cannon.js](https://github.com/schteppe/cannon.js) 3D physics engine. [[Demos](https://pmndrs.github.io/cannon-es/)]
     - 🎉 [Goblin Physics](https://github.com/chandlerprall/GoblinPhysics) - 3D physics engine written from the ground up in JavaScript. [[Demos](http://www.goblinphysics.com/)]
+    - 🎉 [JoltPhysics.js](https://github.com/jrouwe/JoltPhysics.js) - Port of _Jolt Physics_ to JavaScript (as WebAssembly). [[Demos](https://jrouwe.github.io/JoltPhysics.js/)]
     - 🎉 [Matter.js](https://github.com/liabru/matter-js) - Featured 2D physics engine for the web. [[Demos](https://brm.io/matter-js/)]
     - 🎉 [Oimo.js](https://github.com/lo-th/Oimo.js) - Lightweight 3D physics engine. [[Demos](http://lo-th.github.io/Oimo.js)]
     - 🎉 [p2.js](https://github.com/schteppe/p2.js) - 2D rigid body physics, by the creator of Cannon.js.
