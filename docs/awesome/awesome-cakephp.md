@@ -132,6 +132,7 @@ Additional lists you might find useful:
 *Plugins for manipulating images.*
 
 - 🍰 [ADmad/Glide plugin](https://github.com/ADmad/cakephp-glide) - A plugin for using [Glide](https://glide.thephpleague.com/) image manipulation library.
+- 🍰 [QrCodePlugin](https://github.com/dereuromark/cakephp-qrcode/) - Easily render SVG/PNG QR Codes for your app.
 
 ## Libs
 *Useful libraries or tools that don't fit in any of the other categories.*
