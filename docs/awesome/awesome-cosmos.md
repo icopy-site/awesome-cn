@@ -217,7 +217,6 @@ Templates to help you get started with building a Cosmos SDK blockchain.
 
 ### GUI
 
-* [Cosmos Hub Multisig Manager](https://cosmos-multisig-ui-kohl.vercel.app) - Create multisigs and multisig transactions on the Cosmos Hub ([source](https://github.com/cosmos/cosmos-multisig-ui)).
 * [REStake](https://restake.app) - Auto-compounder app for Cosmos blockchains using Authz ([source](https://github.com/eco-stake/restake)).
 * [Yieldmos](https://yieldmos.com) - Staking and LP rewards auto-compounder using Authz.
 * [Cosmfaucet](https://github.com/scalalang2/cosmfaucet) - Self-hosted faucet service for Cosmos based blockchain.

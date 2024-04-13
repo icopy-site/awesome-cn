@@ -36,6 +36,11 @@ A curated list of awesome niche job boards.
 ## Cloud
 
 * [CNCF Job Board](https://jobs.cncf.io/) - Kubernetes and cloud native jobs
+* [Cloud Careers Hub](https://cloudcareershub.com/) - Job board for all roles related to Cloud Computing & Artificial Intelligence 
+
+## Database
+
+* [Webscale Jobs](https://www.webscale.work/) - Find a career working with MongoDB
 
 ## Design
 
@@ -140,6 +145,9 @@ A curated list of awesome niche job boards.
 
 ### Scala
 * [Scala Jobs](https://scalajobs.com)
+
+### Java
+* [JavaProHire](https://javaprohire.com/) - A job board crafted with a laser focus on Java developers
 
 ### TypeScript
 * [TypeScript Jobs](https://typescriptjobs.dev)
