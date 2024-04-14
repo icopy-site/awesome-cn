@@ -53,7 +53,7 @@
 - 💜 [Laravel](https://github.com/inertiajs/inertia-laravel)
 - 💜 [Rails](https://github.com/inertiajs/inertia-rails)
 - [Statamic](https://github.com/hotmeteor/inertia-statamic)
-- [ASP.NET Core](https://github.com/Nothing-Works/inertia-aspnetcore)
+- [ASP.NET Core](https://github.com/kapi2289/InertiaCore)
 - [CakePHP](https://github.com/ishanvyas22/cakephp-inertiajs)
 - [ColdBox](https://github.com/elpete/cbInertia)
 - [Phoenix](https://github.com/devato/inertia_phoenix)
@@ -86,6 +86,7 @@
 - [Laravel Moonlight](https://github.com/TitasGailius/laravel-moonlight) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
 - [Titanium](https://github.com/usetitanium/inertia) - Laravel front-end preset with Tailwind CSS, Inertia.js and Vue.js.
 - [Breeze React](https://github.com/lucky-media/breeze-react) - Laravel Breeze fork with Tailwind CSS, Inertia.js and React.
+- [Laravel Jetstream React](https://github.com/ozziexsh/laravel-jetstream-react) - Converts the official Laravel Jetstream Inertia.js starter kit to React.
 
 ### Packages
 

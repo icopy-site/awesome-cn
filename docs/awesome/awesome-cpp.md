@@ -233,6 +233,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [marl](https://github.com/google/marl) - Marl is a hybrid thread / fiber task scheduler written in C++ 11. [Apache-2.0]
 * [moderngpu](https://github.com/moderngpu/moderngpu) - moderngpu is a productivity library for general-purpose computing on GPUs. It is a header-only C++ library written for CUDA. The unique value of the library is in its accelerated primitives for solving irregularly parallel problems. [FreeBSD & Copyright, Sean Baxter]
 * [NCCL](https://github.com/NVIDIA/nccl) - Optimized primitives for collective multi-GPU communication. [BSD]
+* [Neco](https://github.com/tidwall/neco) - Concurrency library for C (coroutines). [MIT]
 * [OpenCL](https://www.khronos.org/opencl/) - The open standard for parallel programming of heterogeneous systems.
 * [OpenMP](http://openmp.org/) - The OpenMP API.
 * [rotor](https://github.com/basiliscos/cpp-rotor) - Event loop friendly C++ actor micro framework. [MIT]
@@ -1099,7 +1100,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [pprint](https://github.com/p-ranav/pprint) - Pretty Printer for Modern C++. [MIT]
 * [pspsdk](https://github.com/pspdev/pspsdk) - An open-source SDK for PSP homebrew development. [BSD/GNU GPL3]
 * [QtVerbalExpressions](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. [MIT]
-* [RaipdFuzz](https://github.com/rapidfuzz/rapidfuzz-cpp) - Rapid fuzzy string matching in C++ using the Levenshtein Distance. [MIT] [website](https://rapidfuzz.github.io/rapidfuzz-cpp/)
+* [RapidFuzz](https://github.com/rapidfuzz/rapidfuzz-cpp) - Rapid fuzzy string matching in C++ using the Levenshtein Distance. [MIT] [website](https://rapidfuzz.github.io/rapidfuzz-cpp/)
 * [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. [GPL2/Proprietary]
 * [scnlib](https://github.com/eliaskosunen/scnlib) - scanf for modern C++. [Apache-2.0] [website](https://v1.scnlib.dev/)
 * [Scintilla](http://scintilla.org/) - A free source code editing component. [MIT]
