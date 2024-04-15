@@ -18,6 +18,7 @@ A collection of resources by the community, on (testing with) <a href="https://k
 ## Articles
 
 - [k6 Learn](https://github.com/grafana/k6-learn) - Explanation of the principles of load testing and practical examples for how to do it with k6.
+- [k6 OSS workshop](https://github.com/grafana/k6-oss-workshop) - A 2-3 hour k6 workshop with practical k6 examples using the QuickPizza demo app.
 - [Beginner's guide to load testing with k6](https://link.medium.com/npI9sjDyyjb) - Introductory guide in several parts, helping you get started with k6.
 - [Distributed load testing with k6](https://feryn.eu/speaking/distributed-load-testing-k6-confoo23/) - Thijs Feryn presents in ConFoo Montreal 2023.
 - [Load Testing with k6](https://medium.com/@dan.ryan.emmons/qa-load-testing-with-k6-io-c11c2afced04) - Brief overview of features and capabilities of k6.
@@ -69,6 +70,7 @@ AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-t
 ## Examples/Templates
 
 - [k6 examples](https://k6.io/docs/examples/) - A list of common examples on the k6 documentation.
+- [k6 QuickPizza examples](https://github.com/grafana/quickpizza) - Web application used for demos and workshops with multiple k6 examples.
 - [k6-template-es6](https://github.com/grafana/k6-template-es6) - Starter template using Webpack and Babel to enable ES6 features in k6 tests.
 - [k6-typescript-template](https://github.com/grafana/k6-template-typescript) - Starter template using Webpack bundler to write k6 tests in TypeScript.
 - [k6-rollup-example](https://github.com/grafana/k6-rollup-example) - Example using Rollup to bundle k6 tests.

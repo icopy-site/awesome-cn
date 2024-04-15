@@ -48,7 +48,6 @@
 
 - [Vue.js Jobs - VueJobs](https://vuejobs.com/) - A Vue.js job portal to hire or get hired for all your Vue.js jobs.
 - [Vue.js Interview Questions](https://github.com/sudheerj/vuejs-interview-questions) - A List of 300 VueJS Interview Questions and Answers
-- [Prokarman Resume Builder](https://prokarman.com/) - A Free Resume Builder for crafting resumes for your dream job.
 
 ### Community
 
@@ -325,6 +324,7 @@
 - [Developing a web application with Vue.js 3 and Vite.js (French)](https://mickael-baron.fr/web/vuejs-miseenoeuvre-part2) par Mickael Baron
 - [Deploying a web application powered by Vue.js 3 with Docker (French)](https://mickael-baron.fr/web/vuejs-deploiement-part3) par Mickael Baron
 - [Advantages of Vue.js over React, Angular, and other frameworks in Turkish](https://medium.com/@dev.isasari/vuejsin-react-ve-angular-a-g%C3%B6re-avantajlar%C4%B1-6fe1d653beb1) by İsa Sarı
+- [Türkçe Vue 3 Dersleri](https://www.youtube.com/playlist?list=PLf-6qk7szL-J4a7xaGf2TbW0p_cGbeMe7) on Youtube by Abdullah Uğraşkan
 
 ### Examples
 
@@ -1231,6 +1231,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [uspin](https://github.com/peterroe/uspin) - A vue3 component that adds a spin mask at load time.🔄
 - [vue-img-lazy-tiny](https://github.com/peterroe/vue-img-lazy-tiny) - A vue3 directive that provide a shield while loading.
 - [vue3-ui-preloader](https://github.com/gbast0s/vue3-ui-preloader) - Vue3 Pre Loader components for vue.js projects with playground.
+- [vue-default-page](https://github.com/zero-one-code/vue-default-page) - A Vue 3.0 plugin with built-in v-loading, v-skeleton, v-error and v-empty custom directives.
 
 ##### Progress Bar
 
@@ -1250,6 +1251,7 @@ _A slim progress bar at the top of the page_
 - [vue-ins-progress-bar](https://github.com/meloalright/vue-ins-progress-bar) - A Vue component of ins-style progress bar 一款 ins 风格的 vue 进度条组件
 - [vue-next-progressbar](https://github.com/jambonn/vue-next-progressbar) - Slim progress bars(1KB gzipped) for Vue 3.
 - [vue3-progress](https://github.com/marcoschulte/vue3-progress) - Fully customizable vue3 plugin to display a progress bar while waiting for something, e.g. http requests
+- [css-3d-progress](https://github.com/rofixro/css-3d-progress) - A 3D progress bar component written using web Components, supports Vue, React and Svelte.
 
 #### Tooltip
 
@@ -1548,6 +1550,7 @@ _Display non-editable events in a Calendar_
 - [vue-datepicker-ui](https://github.com/edisdev/vue-datepicker-ui) - A datepicker component for vue.js
 - [vue-tailwind-datepicker](https://github.com/elreco/vue-tailwind-datepicker) - A Vue 3 Datepicker using Tailwind CSS 3
 - [qalendar](https://github.com/tomosterlund/qalendar) - An event calendar and datepicker for Vue 3
+- [schedule-x](https://github.com/schedule-x/schedule-x) - A material design event calendar. Customizable, light- and dark modes & multilingual.
 
 #### Map
 
@@ -2549,6 +2552,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [Reforms.js](https://github.com/empla/reforms) - Vue 3 and Bootstrap forms and cards generator. Validation, multiple fields, grouping, schema and more.
 - [FormKit](https://github.com/formkit/formkit) - Vue 3 form development. 10x faster. Form inputs, validation, submission, error handling, generation, accessibility, theming, and more.
 - [vrf](https://github.com/dimailn/vrf) - Declarative scalable ui-agnostic markup-based Vue forms.
+- [tracked-instance](https://github.com/rudnik275/tracked-instance) - Build large forms and track all changes.
 
 ##### Validation
 
@@ -3365,6 +3369,7 @@ _Create documentation_
 - [vuese](https://github.com/vuese/vuese) - One-stop solution for vue component documentation.
 - [vue-dotmd-loader](https://github.com/mengdu/vue-dotmd-loader) - A webpack loader for loader markdown file transform to vue file.
 - [vue-tut](https://github.com/evwt/vue-tut) - Easily build beautiful tutorials with Vue.
+- [Vue Cheatsheet](https://vue-cheatsheet.themeselection.com/) - The only Vue cheatsheet you will ever need
 
 #### Test
 
