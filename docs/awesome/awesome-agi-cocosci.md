@@ -1399,6 +1399,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [The Internet of Things comes to the lab](https://www.nature.com/articles/542125a) - ***Nature***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=7747117198956166976&hl=en&as_sdt=0,5)]. The emergence of connected instruments and equipment promises to untether researchers from the laboratory --- letting them fine-tune experiments and analyse data remotely. 
 
+* [What is a minimal working example for a self-driving laboratory?](https://www.sciencedirect.com/science/article/pii/S2590238522006385) - ***Matter***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=1612804023616680548)]. This paper proposes SDL-Demo: a low-cost “Hello, World!” for self-driving laboratories that combines “Hello, World!” tasks from electronics, physics-based simulations, and optimization. SDL-Demo is modular and extensible, making it an ideal candidate for low-cost teaching and prototyping of self-driving laboratory concepts.
+
 * [Robotic search for optimal cell culture in regenerative medicine](https://elifesciences.org/articles/77007) - ***eLife***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=1330075145723138159&hl=en&as_sdt=0,5)].
 
 * [Cell Culture: Implementing robotics and artificial intelligence](https://elifesciences.org/articles/80609) - ***eLife***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=10725537391648003592&hl=en&as_sdt=0,5)].

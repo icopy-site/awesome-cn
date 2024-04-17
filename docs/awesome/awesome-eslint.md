@@ -38,6 +38,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Adjunct](https://github.com/davidjbradshaw/eslint-config-adjunct) - A reasonable collection of plugins to use alongside your main ESLint configuration.
 - [Ash-Nazg](https://github.com/brettz9/eslint-config-ash-nazg) - One config to rule them all!
 - [Cecilia](https://github.com/SandroMiguel/eslint-config-cecilia) - ESLint configuration for awesome projects.
+- [clean-typescript](https://github.com/cunarist/eslint-config-clean-typescript) - Enforce classic JavaScript featuress in TypeScript codebase by banning excessive keywords.
 - [ES](https://github.com/thenativeweb/eslint-config-es) - Shareable config for very strict code.
 - [Hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (but practical) ESLint config out there.
 - [Problems](https://github.com/RyanZim/eslint-config-problems) - Shareable config that only catches actual problems, and doesn't enforce stylistic preferences.
@@ -216,6 +217,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [perfectionist sorting](https://github.com/azat-io/eslint-plugin-perfectionist) - Sort objects, imports, TypeScript types, enums, JSX props, etc.
 - [Switch case](https://github.com/lukeapage/eslint-plugin-switch-case) - Switch-case-specific linting rules for ESLint.
 - [padding](https://github.com/mu-io/eslint-plugin-padding) - Allows/disallows padding between statements.
+- [paths](https://github.com/vitonsky/eslint-plugin-paths) - Use paths from tsconfig/jsconfig and auto fix relative paths to aliases.
 
 ### Testing Tools
 

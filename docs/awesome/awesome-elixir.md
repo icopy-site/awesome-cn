@@ -1772,6 +1772,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Elixir in Action, Second Edition](https://www.manning.com/books/elixir-in-action-second-edition) - Revised and updated for Elixir 1.7, Elixir in Action, Second Edition teaches you how to apply Elixir to practical problems associated with scalability, fault tolerance, and high availability (2019).
 * [Elixir in Action, Third Edition](https://www.manning.com/books/elixir-in-action-third-edition) - Fully updated to Elixir 1.14, this authoritative bestseller reveals how Elixir tackles problems of scalability, fault tolerance, and high availability (2023).
 * [Elixir Succinctly](https://www.syncfusion.com/ebooks/elixir-succinctly) - A short book to learn the basic of Elixir and its ecosystem.
+* [Engineering Elixir Applications](https://pragprog.com/titles/beamops/engineering-elixir-applications/) - _(currently in Beta)_ As the subtitle suggests, this book explores the technologies and skills that support navigating each stage of software delivery with confidence.
 * [Erlang and Elixir for Imperative Programmers](https://leanpub.com/erlangandelixirforimperativeprogrammers) - Introduction to Erlang and Elixir in the context of functional concepts by Wolfgang Loder (2016).
 * [Erlang in Anger](http://www.erlang-in-anger.com/) - This book intends to be a little guide about how to be the Erlang medic in a time of war by Fred Hebert (2014).
 * [Functional Web Development with Elixir, OTP, and Phoenix](https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix) - Open doors to powerful new techniques that will get you thinking about web development in fundamentally new ways (2017).
@@ -1787,6 +1788,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Programming Phoenix 1.4](https://pragprog.com/titles/phoenix14/) - Definitive guide to build web applications with the Phoenix framework by Chris McCord, José Valim and Bruce Tate (2015).
 * [The Beam Book](https://happi.github.io/theBeamBook/) - A description of the Erlang Runtime System ERTS and the virtual Machine BEAM.
 * [The Little Elixir & OTP Guidebook](https://www.manning.com/books/the-little-elixir-and-otp-guidebook) - A book for learning Elixir and OTP through small to medium-sized projects by Benjamin Tan Wei Hao (2014).
+* [The Phoenix LiveView Cookbook](https://www.liveviewcookbook.com/) - A Phoenix LiveView e-book containing tried and tested recipes for solving common problems.
 * [Études for Elixir](https://www.oreilly.com/library/view/etudes-for-elixir/9781491917640/) - A collection of exercises to program in Elixir by J. David Eisenberg (2013) ([Github Repo](https://github.com/oreillymedia/etudes-for-elixir)).
 
 ## Cheat Sheets

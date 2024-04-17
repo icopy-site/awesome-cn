@@ -314,3 +314,4 @@ These C/C++ libraries were packaged to be used with the Zig build and packaging 
 * [ve-nt/outfieldr](https://gitlab.com/ve-nt/outfieldr) - [TLDR](https://github.com/tldr-pages/tldr) client.
 * [kubkon/zig-ios-example](https://github.com/kubkon/zig-ios-example) - Minimal `build.zig` for targeting iOS.
 * [ynuwenhof/zigbraten](https://github.com/ynuwenhof/zigbraten) - Proof of concept internal cheat for Cube 2: Sauerbraten.
+* [vbrusca/ZigSdlGameTemplate](https://github.com/vbrusca/ZigSdlGameTemplate) - SDL game project template.
