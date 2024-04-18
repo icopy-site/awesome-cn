@@ -26,6 +26,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | Zoogle Zearch | Google Search for ZeroNet | `13EYKqmPpwzBU4iaQq9Y4vfVMgj8dHeLkc` | N/A |
 | Dream Search | Dream Search - The most data scanning search engine in ZeroNet | `1JBFNPrAGp1nQX6RsAN6oRqCfvtoeWoion` | N/A |
 | Search And Index Zites |  A Simple search engine and index | `1xiwbXaTbo9XU32hEpW4NyjZHrugSFdo6` | N/A |
+| 0find0go | Every public website on ZeroNet in one search engine | `1Jj3kjHmjPYWGfCdyd8Pr6pm5sJawrLmrp` | N/A |
 
 ### Zite Indexes
 
@@ -35,6 +36,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | ZeroSites | Sites of ZeroNet | `1SiTEs2D3rCBxeMoLHXei2UYqFcxctdwB` | `Sites.ZeroNetwork.bit` |
 | ZeroWiki | ZeroWiki site list | `138R53t3ZW7KDfSfxVpWUsMXgwUnsDNXLP/?Page:list-of-zites` | N/A |
 | Search And Index Zites | Site directory by Krixano | `1xiwbXaTbo9XU32hEpW4NyjZHrugSFdo6` | N/A |
+| ZeroShortener | Make your zerolinks way shorter and easier to remember | `1GNTAKCimBv5xEnt7QvkDn8sTkEPj7ZYTL` | `0sh.bit` |
 
 ### Chat Rooms
 
@@ -60,6 +62,9 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | Programming.net | A forum about programming | `17YUF4geTD7gBDPeMtQtnV7uhhNcjrYi9u` | N/A |
 | ZeroNet DevZone | ZeroNet core & plugins: issues, pull requests, ideas, RFCs and documentation | `18ryVioVmwFYzhRZKTjKqGYCjkUjoxH3k6` | N/A |
 | ZeroDev Talk | Place for developers to collaborate | `142jqssVAj2iRxMACJg2dzipB5oicZYz5w` | N/A |
+| ZeroTorrent | Torrent sharing forum | `192dZ1EG5tU7PnCfuwGMDEBrr2eLqvs4t3` | `ZeroTorrent.bit` |
+| New GFW Talk | Forum dedicated to Great Firewall of China | `19BPUZYAdCMxExKHoVSG3cG95wfUfFTEC9` | `NewGFWTalk.bit` |
+| IranTalk | Forum dedicated to Persian speaking users of ZeroNet | `1AS355T7MGApApoBeE9JgxvvvDxf33Eyh1` | N/A |
 
 ### Mail Providers
 
@@ -82,6 +87,11 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | :--- | :--- | :---: | :--- |
 | NGnoidTV | Video site, also named KopyKate | `18Pfr2oswXvD352BbJvo59gZ3GbdbipSzh` | big.kopykate.bit |
 | Play | Movie torrents | `1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp` | `0play.bit` |
+
+### Books
+| Name | Description | Address | Domain Name |
+| :--- | :--- | :---: | :--- |
+| ZeroPub | Book torrents | `1DYwX4W1qfSaiihfN5gW6ahLp5332TawH5` | `zeropub.bit` |
 
 ### ID Providers
 

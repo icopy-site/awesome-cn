@@ -521,12 +521,6 @@ Take your Go skills to the next level by learning how to design, develop, and de
 
 The Go ecosystem is helping developers to build distributed and scalable systems efficiently. If you plan to jump into this fascinating world, you must know how Go can help you to build REST APIs, use SQL/NoSQL databases, data streaming platforms, gRPC, design your own CLIs, or how to log your programs efficiently just to mention a few. *Build Systems with GO: Everything a Gopher Must Know* is split into two blocks: the first explores the Go language and its standard library, the second one provides the reader with examples and explanations of the most powerful libraries to be used in any Go development. With more than 200 detailed and straight-forward examples [available at GitHub](https://github.com/juanmanuel-tirado/savetheworldwithgo), this book helps early adopters and experienced developers to have a real view of what a system built with Go looks like.
 
-### 2021 - [Mastering Go, 3rd edition](https://www.packtpub.com/product/mastering-go-third-edition/9781801079310)
-
-<img src="https://raw.githubusercontent.com/mactsouk/mastering-Go-3rd/main/B17194.png" width="120px"/>
-
-This is the 3rd edition of Mastering Go. There exist many exciting new topics in this latest edition including writing RESTful services, working with the Websocket protocol, using GitHub Actions and GitLab Actions for Go projects as well as an entirely new chapter on Generics and the development of lots of practical utilities.
-
 ### 2023 - [Let's Go!](https://lets-go.alexedwards.net/)
 
 <img src="https://lets-go.alexedwards.net/sample/assets/img/cover.png" width="120px"/>
@@ -538,6 +532,12 @@ Let's Go teaches you step-by-step how to create fast, secure and maintainable we
 <img src="https://lets-go-further.alexedwards.net/sample/assets/img/cover.png" width="120px"/>
 
 Let’s Go Further helps you extend and expand your knowledge of Go — taking you beyond the basics and guiding you through advanced patterns for developing, managing and deploying APIs and web applications. By the end of the book you'll have all the knowledge you need to create robust and professional APIs which act as backends for SPAs and native mobile applications, or function as stand-alone services.
+
+### 2024 - [Mastering Go, 4rd edition](https://www.packtpub.com/en-us/product/mastering-go-9781805127147)
+
+<img src="https://content.packt.com/_/image/original/B21003/cover_image.jpg" width="120px"/>
+
+This is the 4rd edition of Mastering Go. There exist many exciting new topics in this latest edition including writing RESTful services, working with the Websocket protocol, using GitHub Actions and GitLab Actions for Go projects as well as an entirely new chapter on Generics and the development of lots of practical utilities.
 
 
 ### [Web Development with Go: Learn to Create Real World Web Applications using Go](https://www.usegolang.com/)
