@@ -125,6 +125,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [yew-duskmoon-ui](https://github.com/gsmlg-dev/yew-duskmoon-ui) - Duskmoon UI Component Library. This package use `stylist` to embbed css in components, so no extra CSS file is needed. [Live Demo](https://gsmlg-dev.github.io/yew-duskmoon-ui/).
 - [yew-bootstrap](https://github.com/isosphere/yew-bootstrap) - A Yew wrapper for the Bootstrap 5 component library.
 - [Zu](https://github.com/RustVis/zu) - Yew web components, implementing Material Design.
+- [yew-nav-link](https://github.com/RAprogramm/yew-nav-link) - A navigational link that is aware of its active state based on the current route in the application.
 
 ### Components
 

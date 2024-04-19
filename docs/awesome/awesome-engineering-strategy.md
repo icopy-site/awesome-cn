@@ -90,3 +90,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 ## Communities
 
 - [Engineering Strategy on Discord](https://discord.gg/2NBXyDmFcR) - Discord community focused on Engineering Strategy.
+
+## Podcasts
+
+- [Engineering Strategy Podcast](https://open.spotify.com/show/2o8lWLvV9O0P2Gf9J6xzLo?si=049c9a2c90924aa7) - Engineering strategy interviews to tech leaders in English and Spanish by Aleix Morgadas.
