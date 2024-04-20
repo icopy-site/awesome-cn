@@ -85,8 +85,10 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 
 | Name | Description | Address | Domain Name |
 | :--- | :--- | :---: | :--- |
-| NGnoidTV | Video site, also named KopyKate | `18Pfr2oswXvD352BbJvo59gZ3GbdbipSzh` | big.kopykate.bit |
+| NGnoidTV | Video site, also named KopyKate | `18Pfr2oswXvD352BbJvo59gZ3GbdbipSzh` | `big.kopykate.bit` |
 | Play | Movie torrents | `1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp` | `0play.bit` |
+| TV Episodes | Magnet links for TV episodes | `1MagneTSMMkNmJTMsTGJtfuNsqGjzzXgQv` | `tvmagnets.bit` |
+| eh anime? | Anime torrents | `1E8Z8sk3cGeWdQumBaYEh6LraqC2BRnutV` | N/A |
 
 ### Books
 | Name | Description | Address | Domain Name |
@@ -132,6 +134,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | Taxi Drift | 2D taxi driving game | `1EzPDDHciaG9AH4ErxsmAKsF4hsrJPktiM` | N/A |
 | Game of Life | Conway's Game of Life inside ZeroNet | `19TrFbEUS1mdznSX24FqnxZgftzNpxCXv8` | N/A |
 | TypinMaster | Simple game to test your typing speed | `1KNvxg3ww7ZLxZRPT8MX4tRcFxwGhWRRK3` | N/A |
+| Games Nintendo | JSNES Nintendo Entertainment System Emulator | `19za8TViGJF4xdvkQHLXK2UCb2gLC1nSVT` | N/A |
 
 ### Developer Tools
 

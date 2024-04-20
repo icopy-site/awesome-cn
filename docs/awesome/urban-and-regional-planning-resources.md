@@ -216,6 +216,8 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 - [curbFlow](https://www.curbflow.com/) - Computer vision based services to quantify events occurring in the built environment affordably and quickly.
 - [Vade](https://www.vade.ai/) - Using custom IoT cameras and computer vision to bring real time parking availability easily queryable via web-based API's.
 - [StreetSimplified](https://www.streetsimplified.com/) - Deploys temporary cameras utilizing computer vision to examine various transportation behaviors such as speeding, crossing rule compliance, and red-light running.
+- [EcoCounter](https://www.eco-counter.com/) - Since 1997, Eco-Counter has developed unique and innovative solutions to count pedestrians and cyclists that vary infrared sensors to computer vision based counters.
+- [VivaCity](https://vivacitylabs.com/north-america/) - Viva provies transportation monitoring solutions that help identify near-miss behavior on streets and multimodal counts. 
 
 ### Travel Behavior
 
@@ -228,6 +230,7 @@ Vendors that can provide purchased or licensed data for a variety of uses.
 - [Teralytics](https://www.teralytics.net/) - Provides data and insights on mobility patterns based on cellular trace data using a global network of telecom providers.
 - [Inrix](https://inrix.com/) - Delivers innovative data products for the automotive and transportation industries such as real-time parking and traffic information solutions.
 - [Unacast](https://www.unacast.com/) - Provides location based analytics related to how people move across 80+ countries ranging from foot-traffic metrics to cross-visitation.
+- [PlacerAI](https://www.placer.ai/) - A location based data provider that provides estimates of foottraffic to different points of interest. 
 
 ## Planning Data Specifications
 A collection of urban planning related data specifications and standards for use as part of programs & projects.
@@ -402,6 +405,7 @@ Software, tools, and platforms intended to help assist with planning management 
 - [MyGovernmentOnline](https://www.mygovernmentonline.org/) - Digital government solutions for permitting and in-office processes designed by government for goverment (provider is technically a public agency).
 - [Digiplan](https://digeplan.com/) - Provides software for fully integrated electronic plan review and intake processes.
 - [OpenGov](https://opengov.com/products/citizen-services/) - Cloud solution to power every permit, license, and inspection with user-friendly workflows.
+- [GeoCivix](https://geocivix.com/state-local-government-agencies/) - A user friendly citizen access, plan review, permit, and inspection solution built to drive efficiency, organization, and communication.
 
 ### Public Engagement Tools and Platforms
 Software, tools, and platforms intended to aid with public engagement and outreach activities.
