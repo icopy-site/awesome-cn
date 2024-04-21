@@ -1328,6 +1328,22 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 #### Democratization of Science
 
+* [Reproducibility](https://www.science.org/doi/full/10.1126/science.1250475) - ***Science***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=676974831306442279&hl=en&as_sdt=0,10)].
+
+* [Bridging the information gap in organic chemical reactions](https://www.nature.com/articles/s41557-024-01470-8) - ***Nature Chemistry***, 2024. [[All Versions](https://scholar.google.com/scholar?cluster=5365091261196953334)]. This perspective article formulates eight principles to improve data management in scientific publications relating to data standardization, reproducibility and evaluation, and encourage scientists to go beyond current publication standards. 
+
+* [A manifesto for reproducible science](https://www.nature.com/articles/s41562-016-0021) - ***Nature Human Behavior***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=9515807942859203900&hl=en&as_sdt=0,10)].
+
+* [1,500 scientists lift the lid on reproducibility](https://www.nature.com/articles/533452a) - ***Nature***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=11479406257389837824&hl=en&as_sdt=0,5)].
+
+* [How to Make More Published Research True](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4204808/) - ***PLoS Medicine***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=10945341175996677908)].
+
+* [Six factors affecting reproducibility in life science research and how to handle them](https://www.nature.com/articles/d42473-019-00004-y) - ***Nature Advertisement***.
+
+* [Five keys to writing a reproducible lab protocol](https://www.nature.com/articles/d41586-021-02428-3) - ***Nature***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=13259206850261301938)]. This interviewing paper introduces five ways to increase the reproducibility of experimental protocols: (i) documenting protocols as the experiment goes; (ii) providing video illustrations in addition to written protocols; (iii) using electronic lab notebooks (ELNs) for managing experimental resources digitally; (iv) depositing and documenting reagents with understanding the rationale behind every step; and (v) exploiting online platforms to share tips, extensions, methods, and data among researchers.
+
+* [The Experimental Design Assistant](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2003779) - ***PLoS Biology***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=12481490526120919925)]. [[Nature Methods Correspondence](https://www.nature.com/articles/nmeth.4462)]. [[EDA Website](https://eda.nc3rs.org.uk/)]. The EDA is a web-based tool that guides the in vivo researcher through the experimental design and analysis process, providing automated feedback on the proposed design and generating a graphical summary that aids communication with colleagues, funders, regulatory authorities, and the wider scientific community.
+
 * [Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2) - ***Nature***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=11962817646389491592&hl=en&as_sdt=0,5)]. A review article that examines breakthroughs over the past decade that include self-supervised learning, which allows models to be trained on vast amounts of unlabelled data, and geometric deep learning, which leverages knowledge about the structure of scientific data to enhance model accuracy and efficiency.
 
 * [Human–machine collaboration for improving semiconductor process development](https://www.nature.com/articles/s41586-023-05773-7) - ***Nature***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=10295771969614897767&hl=en&as_sdt=0,5)]. [[Nature News](https://www.nature.com/articles/d41586-023-01353-x)].
@@ -1349,20 +1365,6 @@ organized into intricate patterns that seem to be consistent across individuals.
 * [Comparability of automated human induced pluripotent stem cell culture: a pilot study](https://link.springer.com/article/10.1007/s00449-016-1659-9) - ***Bioprocess and Biosystems Engineering***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=14666375402220991095&hl=en&as_sdt=0,5)].
 
 * [ChemCrow: Augmenting large-language models with chemistry tools](https://openreview.net/forum?id=wdGIL6lx3l) - ***NeurIPS AI for Science Workshop***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=8711939262720486725&hl=en&as_sdt=0,5)]. [[Preprint](https://arxiv.org/abs/2304.05376)].
-
-* [Reproducibility](https://www.science.org/doi/full/10.1126/science.1250475) - ***Science***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=676974831306442279&hl=en&as_sdt=0,10)].
-
-* [A manifesto for reproducible science](https://www.nature.com/articles/s41562-016-0021) - ***Nature Human Behavior***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=9515807942859203900&hl=en&as_sdt=0,10)].
-
-* [1,500 scientists lift the lid on reproducibility](https://www.nature.com/articles/533452a) - ***Nature***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=11479406257389837824&hl=en&as_sdt=0,5)].
-
-* [How to Make More Published Research True](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4204808/) - ***PLoS Medicine***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=10945341175996677908)].
-
-* [Six factors affecting reproducibility in life science research and how to handle them](https://www.nature.com/articles/d42473-019-00004-y) - ***Nature Advertisement***.
-
-* [Five keys to writing a reproducible lab protocol](https://www.nature.com/articles/d41586-021-02428-3) - ***Nature***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=13259206850261301938)]. This interviewing paper introduces five ways to increase the reproducibility of experimental protocols: (i) documenting protocols as the experiment goes; (ii) providing video illustrations in addition to written protocols; (iii) using electronic lab notebooks (ELNs) for managing experimental resources digitally; (iv) depositing and documenting reagents with understanding the rationale behind every step; and (v) exploiting online platforms to share tips, extensions, methods, and data among researchers.
-
-* [The Experimental Design Assistant](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2003779) - ***PLoS Biology***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=12481490526120919925)]. [[Nature Methods Correspondence](https://www.nature.com/articles/nmeth.4462)]. [[EDA Website](https://eda.nc3rs.org.uk/)]. The EDA is a web-based tool that guides the in vivo researcher through the experimental design and analysis process, providing automated feedback on the proposed design and generating a graphical summary that aids communication with colleagues, funders, regulatory authorities, and the wider scientific community.
 
 * [Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory](https://ieeexplore.ieee.org/abstract/document/10059206) - ***IEEE Transactions on Knowledge and Data Engineering***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=949715967083833369&hl=en&as_sdt=0,10)].
 

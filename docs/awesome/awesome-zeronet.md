@@ -116,6 +116,8 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | Privact blocklist | Blocks websites with external files | `18zoKfKYPnVBuHtKpK1mhAuVsWXV72obA1` | N/A |
 | Kaffie's Spamlist | Mute/ban list for spammers |`1CufK1ZtvekbFXEpSyKT2gDjf9jnqW8KwG` | N/A |
 | Pornography blocklist | ZeroNet pornography blocklist | `13CgSQeywg2ius5pjXVCk7dKUCRkz5xvW3` | N/A |
+| NoMiner blocklist | This is a blocklist that blocks all known sites that cointains a miner. | `1NominErMMEodukCTKD5NN6HqgmtsG4Z8U` | N/A |
+| 0net-preview blocklist | | 0net-preview's blocklist | `16soWyYc1kTobaevbN25FJjWL2qf9PWvFG` | N/A |
 
 ### Entertaining Zites
 
