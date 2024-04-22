@@ -22,6 +22,7 @@ A curated list of resources related to complex systems, the scientific field stu
 - [Edge of Chaos](https://en.wikipedia.org/wiki/Edge_of_chaos) - The transition zone between order and disorder.
 - [Emergence](https://en.wikipedia.org/wiki/Emergence) - The whole is greater than the sum of the parts.
 - [Fractal](https://en.wikipedia.org/wiki/Fractal) - Self-similar structure.
+- [Hysteresis](https://en.wikipedia.org/wiki/Hysteresis) - Dependence of the state of a system on its history.
 - [Holon](https://en.wikipedia.org/wiki/Holon_(philosophy)) - System that is both a whole and a part.
 - [Network/Graph](https://en.wikipedia.org/wiki/Complex_network) - Network with non-trivial topological features.
 - [Phase Transition](https://en.wikipedia.org/wiki/Phase_transition) - Transition between states of matter.

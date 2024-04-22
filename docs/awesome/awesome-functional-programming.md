@@ -111,7 +111,7 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) - Project for providing a glossary for FP, and make learning FP easier.
 - [Bow](https://github.com/bow-swift/bow) - Companion library for Typed Functional Programming in Swift.
 - [Parsing With Haskell Parser Combinators](https://github.com/lettier/parsing-with-haskell-parser-combinators) - A step-by-step guide to parsing using Haskell parser combinators.
-
+- [Functional Programming Learning Path](https://github.com/imteekay/functional-programming-learning-path.git) - A Learning Path for Functional Programming
 ### People
 
 - [Simon Peyton Jones](http://research.microsoft.com/en-us/people/simonpj/) - One of the creators of the Haskell Language and the Glasgow Haskell Compiler. Microsoft Researcher.
