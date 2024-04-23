@@ -75,6 +75,7 @@
 - [Oak (Deno)](https://github.com/jcs224/oak_inertia)
 - [Echo](https://github.com/kohkimakimoto/inertia-echo)
 - [Grails](https://github.com/matrei/grails-inertia-plugin)
+- [FastAPI](https://github.com/hxjo/fastapi-inertia)
 
 ## Resources
 
