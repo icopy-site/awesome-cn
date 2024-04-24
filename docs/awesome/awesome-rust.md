@@ -955,8 +955,9 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * [arrayfire/arrayfire-rust](https://github.com/arrayfire/arrayfire-rust) — [Arrayfire](https://github.com/arrayfire) bindings
   * [autumnai/collenchyma](https://github.com/autumnai/collenchyma) — An extensible, pluggable, backend-agnostic framework for parallel, high-performance computations on CUDA, OpenCL and common host CPU.
   * [luqmana/rust-opencl](https://github.com/luqmana/rust-opencl) — [OpenCL](https://www.khronos.org/opencl/) bindings
-* Scirust
-  * [indigits/scirust](https://github.com/indigits/scirust) — scientific computing library
+* Science
+  * [cpmech/russell](https://github.com/cpmech/russell) — Rust Scientific Library (Russell) for numerical mathematics, differential equations, special math functions, high-performance linear algebra (sparse), and more
+  * [indigits/scirust](https://github.com/indigits/scirust) — Scientific computing library
 * Statrs
   * [statrs-dev/statrs](https://github.com/statrs-dev/statrs) — Robust statistical computation library
 
@@ -1441,7 +1442,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
 ### Mobile
 
 * Android / iOS
-  * [owlmafia/rust_android_ios](https://github.com/owlmafia/rust_android_ios) — An example of using a shared lib for Android and iOS using rust-swig and cbindgen respectively.
+  * [ivnsch/rust_android_ios](https://github.com/ivnsch/rust_android_ios) — An example of using a shared lib for Android and iOS using rust-swig and cbindgen respectively.
 * Generic
   * [Geal/rust_on_mobile](https://github.com/Geal/rust_on_mobile)
   * [redbadger/crux](https://github.com/redbadger/crux) [[crux_core](https://crates.io/crates/crux_core)] — Cross-platform app development. Crux helps you share your app's business logic and behavior across mobile (iOS/Android) and web — as a single reusable core. [![Build status](https://img.shields.io/github/actions/workflow/status/redbadger/crux/build.yaml)](https://github.com/redbadger/crux/actions)

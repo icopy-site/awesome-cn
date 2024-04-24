@@ -1,13 +1,15 @@
 <div class="github-widget" data-repo="PatrickJS/awesome-angular"></div>
 <p align="center">
   <a href="https://patrickjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/PatrickJS/awesome-angular/master/media/awesome-angular.png" alt="Awesome Angular" />
+    <img src="https://raw.githubusercontent.com/PatrickJS/awesome-angular/master/media/new/awesome-angular.png" alt="Awesome Angular" />
   </a>
 </p>
 
+> logo designed by [SAWARATSUKI](https://github.com/SAWARATSUKI/ServiceLogos)
+
 ## Awesome Angular [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is the original Awesome list of the Angular2 framework, today known as just [Angular](https://angular.io/). This repository contains intriguing libraries and repos in the Angular ecosystem for both inexperienced and seasoned developers.
+This is the original Awesome list of the [Angular](https://angular.dev/) framework. This repository contains intriguing libraries and repos in the Angular ecosystem for both inexperienced and seasoned developers.
 
 ##### Current Angular version:
 
@@ -47,34 +49,38 @@ Table of contents:
 * [Programming Community Curated Resources for Learning Angular](https://hackr.io/tutorials/learn-angular)
 * [Top rated Angular stackoverflow questions Dashboard](https://dashboard.nbshare.io/apps/stackoverflow/top-angular-questions/)
 
-#### Angular Team on twitter
+#### Angular Team on Twitter
 
-* [@mhevery](https://twitter.com/mhevery)
-* [@IgorMinar](https://twitter.com/IgorMinar)
-* [@naomitraveller](https://twitter.com/naomitraveller)
 * [Minko Gechev](https://twitter.com/mgechev)
 * [Alan Agius](https://twitter.com/AlanAgius4)
+* [Matthieu Riegler](https://twitter.com/jean__meche)
+* [Alex Rickabaugh](https://twitter.com/synalx)
+* [Caleb Eggensperger](https://twitter.com/calebegg)
+* [Ciro Nunes](https://twitter.com/cironunesdev)
+* [Kristiyan Kostadinov](https://twitter.com/_crisbeto)
+* [David East](https://twitter.com/_davideast)
+* [Paul Gschwendtner](https://twitter.com/devversion)
 * [George Kalpakas](https://twitter.com/gkalpakas)
-* [Stephen Fluin](https://twitter.com/stephenfluin)
+* [James Daniels](https://twitter.com/jamesuriah)
+* [Joost Koehoorn](https://twitter.com/devjoost)
+* [Mark Pieszak](https://twitter.com/MarkPieszak)
+* [Simona Cotin](https://twitter.com/simona_cotin)
 
 #### Experts on Twitter
 
 > List of Angular experts you should follow on Twitter (in no particular order). This list is by no means complete.
 
 * [@PatrickJS__](https://twitter.com/PatrickJS__)
-* [@scotups](https://twitter.com/scotups)
 * [@pkozlowski_os](https://twitter.com/pkozlowski_os)
-* [@teropa](https://twitter.com/teropa)
 * [@eggheadio](https://twitter.com/eggheadio)
 * [@hirez_io](https://twitter.com/hirez_io)
 * [@cedric_exbrayat](https://twitter.com/cedric_exbrayat)
-* [@amcdnl](https://twitter.com/amcdnl)
 * [@victorsavkin](https://twitter.com/victorsavkin)
 * [@jeffbcross](https://twitter.com/jeffbcross)
 * [@waterplea](https://twitter.com/waterplea)
 * [@marsibarsi](https://twitter.com/marsibarsi)
 * [@maciejtreder](https://twitter.com/maciejtreder)
-* [@codewith_ahsan](https://twitter.com/codewith_ahsan)
+* [@maartentibau](https://twitter.com/maartentibau)
 
 ##### [Google Developer Experts](https://developers.google.com/experts/all/technology/web-technologies)
 
@@ -96,7 +102,6 @@ Table of contents:
 * [Pascal Precht](https://twitter.com/PascalPrecht)
 * [Jeff Whelpley](https://twitter.com/jeffwhelpley/)
 * [Raúl Jiménez](https://twitter.com/elecash/)
-* [Ciro Nunes](https://twitter.com/cironunesdev/)
 * [Maxim Salnikov](https://twitter.com/webmaxru)
 * [Deborah Kurata](https://twitter.com/deborahkurata)
 * [Shai Reznik](https://twitter.com/shai_reznik)
@@ -117,6 +122,7 @@ Table of contents:
 * [Michael Hladky](https://twitter.com/Michael_Hladky)
 * [Fabio Biondi](https://github.com/fabiobiondi)
 * [Thomas Laforge](https://twitter.com/laforge_toma)
+* [@codewith_ahsan](https://twitter.com/codewith_ahsan)
 * [**{{** add_expert **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
 
 #### Blogs
@@ -139,6 +145,7 @@ Table of contents:
 * [SEO-Friendly Angular SPA: Universal Server-Side Rendering Tutorial](https://snipcart.com/blog/angular-seo-universal-server-side-rendering)
 * [ng-web-apis](https://github.com/taiga-family/ng-web-apis) - A set of common utils for consuming Web APIs with Angular
 * [ssr](https://angular.dev/guide/ssr#enable-server-side-rendering) - Documentation for the new ssr package built into the framework.   
+* [angular-prerender](https://github.com/chrisguttandin/angular-prerender) - A command line tool to prerender Angular Apps.
 
 #### Material Design
 
@@ -246,6 +253,7 @@ You Need
 * [Angular University](https://angular-university.io/) - Learn And Keep Up With The Angular Ecosystem
 * [Ultimate Courses](https://ultimatecourses.com/courses/angular) - Everything you need to
 become an Angular expert
+* [Angular Academy](https://www.angularacademy.ca/) - World-class instructor-led live online Angular courses!
 
 #### Integrations
 
@@ -264,6 +272,12 @@ become an Angular expert
 * [Genesis Foundation](https://learn.genesis.global/docs/previous/web/integrations/angular/) - Genesis is a low-code platform designed specifically for the financial markets.
 * [ngx-google-analytics](https://github.com/hakimio/ngx-google-analytics) - A simple Google analytics integration for Angular apps.
 * [cloudinary](https://cloudinary.com/documentation/angular_integration) - Angular SDK from Cloudinary.
+* [angular-sdk](https://github.com/descope/angular-sdk) - Angular library used to integrate with Descope.
+* [angular-electron](https://github.com/maximegris/angular-electron) - Ultra-fast bootstrapping with Angular and Electron
+* [Postcat](https://github.com/Postcatlab/postcat) - A lightweight, extensible API tool based on Angular and Electron.
+* [angulardart-community](https://github.com/angulardart-community/website) - The next-generation AngularDart documentation website.
+* [NativeScript](https://docs.nativescript.org) - NativeScript provides platform APIs directly to the JavaScript runtime (with strong types) for a rich TypeScript development experience. 
+* [Bit](https://bit.dev/docs/angular-introduction/) -  Leverage Bit to build composable software.
 
 #### Site Templates
 
@@ -284,31 +298,27 @@ become an Angular expert
 * [angular-nest](https://github.com/mugifly/angular-nest) - Simple web app template with Angular v17 + NestJS v9 + ng-openapi-gen.
 * [gradient-able-free-admin-template](https://github.com/codedthemes/gradient-able-free-admin-template) - Gradient able free bootstrap, angular, react admin template
 * [angular-ngrx-frontend](https://github.com/tarlepp/angular-ngrx-frontend) - Angular NgRx powered frontend template for Symfony (or similar) backend.
-
-
+* [Threejs](https://github.com/JohnnyDevNull/ng-three-template) - New Three.js starter app
 
 #### Generators
 
 * Node.js
-  * Slush
-    * [TheVelourFog/slush-angular2](https://github.com/RyanMetin/slush-angular2)
-  * Yeoman
-    * [swirlycheetah/generator-angular2](https://github.com/chrisdwheatley/generator-angular2)
-  * ngX-Rocket: Extensible Angular 4+ enterprise-grade generator and tools
-    * [ngx-rocket/generator-ngx-rocket](https://github.com/ngx-rocket/generator-ngx-rocket)
-    * [ngx-rocket/cli](https://github.com/ngx-rocket/cli)
-    * [ngx-rocket/core](https://github.com/ngx-rocket/core)
-* Scaffold
-  * [ScaffoldHub.io](https://scaffoldhub.io): Generate full Angular Material applications with MongoDB, SQL or Firebase Firestore databases.
+  * [teleport-code-generators](https://github.com/teleporthq/teleport-code-generators) - A collection of code generators for modern JavaScript applications
+  * [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
+  * [nx](https://nx.dev/nx-api/angular) - The Nx Plugin for Angular contains executors, generators, and utilities for managing Angular applications and libraries within an Nx workspace. It also enables using Angular Devkit builders and schematics in Nx workspaces.
+  * [workik](https://workik.com/angular-code-generator) - AI Angular code generator that supports all Angular frameworks and libraries.
+  * [generator-jhipster-ionic](https://github.com/jhipster/generator-jhipster-ionic) - You can use it to generate an Ionic app that talks to a JHipster backend.
+  * [angularx-qrcode](https://github.com/cordobo/angularx-qrcode) - A fast and easy-to-use Ivy compatible Ionic and Angular QR Code Generator library
 * Spring Boot
-  * [Bootify.io](https://bootify.io): Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality
-  * [JHipster](https://www.jhipster.tech): Open source app generator for Spring Boot and Angular
+  * [Bootify.io](https://bootify.io) - Generate Spring Boot apps with custom database, Angular frontend and CRUD functionality
+  * [JHipster](https://www.jhipster.tech) - Open source app generator for Spring Boot and Angular
 
 #### Documentation tools
 
 * [Storybook](https://github.com/storybooks/storybook)-  The UI development environment you'll love to use
 * [Compodoc](https://github.com/compodoc/compodoc) - The missing documentation tool for your Angular application
 * [ng-doc](https://github.com/ng-doc/ng-doc) - The documentation engine for Angular projects
+* [docgeni](https://github.com/docgeni/docgeni) - A modern, powerful and out of the box documentation generator for Angular components lib and markdown docs.
 
 #### Developer tools
 
@@ -321,14 +331,6 @@ become an Angular expert
 * [Ionic VS Code Extension](https://ionicframework.com/docs/intro/vscode-extension) - Perform various functions that are common to developing an Ionic app, all without leaving your VS Code window.
 * [Angular Schematics](https://marketplace.visualstudio.com/items?itemName=cyrilletuzi.angular-schematics) - Ultimate code generation in Visual Studio Code. 
 * [Angular 17 Snippets](https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode) - 258 Angular Snippets (TypeScript, Html, Angular Material, Flex Layout, NgRx, RxJS, PWA & Testing)
-
-#### Schematics
-
-* [Cypress](https://github.com/briebug/cypress-schematic): Add Cypress to an Angular CLI application
-* [Jest](https://github.com/briebug/jest-schematic): Configure Angular to execute unit tests with Jest instead of Karma + Jasmine
-* [Prettier](https://github.com/schuchard/prettier-schematic): Add Prettier and a pre-commit hook for formatting staged files in an Angular application
-* [Tailwind CSS](https://github.com/ngneat/tailwind): Add Tailwind CSS to an Angular application
-* [Threejs](https://github.com/JohnnyDevNull/ng-three-template): New three.js starter app
 
 ---
 
@@ -476,6 +478,8 @@ become an Angular expert
 * [query](https://github.com/TanStack/query) - Powerful asynchronous state management, server-state utilities and data fetching for the web. 
 * [elf](https://github.com/ngneat/elf) - A reactive immutable state management solution built on top of RxJS. It uses custom RxJS operators to query the state and pure functions to update it.
 * [state-adapt](https://github.com/state-adapt/state-adapt) - Declarative, incremental state management library
+* [ngx-signal-state](https://github.com/simplifiedcourses/ngx-signal-state) - Opinionated simple state management for Angular
+* [mini-rx-store](https://github.com/spierala/mini-rx-store) - MiniRx is the reactive state management platform.
 
 #### Tables
 
@@ -554,92 +558,34 @@ become an Angular expert
 * [ng-lock](https://www.npmjs.com/package/ng-lock) Angular decorator for lock a function and user interface while a task running.
 * [ng-generic-pipe](https://github.com/nigrosimone/ng-generic-pipe) Generic pipe for Angular application.
 
-### JAM Stack
-
-* [scully](https://github.com/scullyio/scully) - Scully is a static site generator for Angular projects looking to embrace the Jamstack.
-
-### Universal Angular 2
-
-> Universal (isomorphic) javascript support for Angular 2
-
-#### Universal Courses And Tutorials
-
-* [Guide to Angular Universal - a comprehensive guide how to sharpen your Universal Skills](https://www.newline.co/courses/newline-guide-to-angular-universal)
-
-#### Universal General Resources
-
-* [Universal Angular 2 Repository (GitHub)](https://github.com/angular/universal)
-
-#### Universal Seed Projects
-
-* [universal-starter](https://github.com/angular/universal-starter) - Angular 2 Universal starter kit by @Angular-Class
-* [ng-seed/universal](https://github.com/ng-seed/universal) - Seed project for Angular Universal apps featuring Server-Side Rendering (SSR), Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3
-* [angular-universal](https://github.com/enten/angular-universal) - Fast, Unopinionated, Minimalist starter kit for Angular Universal 100% powered by Angular CLI
-* [angular-universal-heroku-starter](https://github.com/Alex61NN5/angular-universal-heroku-starter) - Angular 7 Universal Starter Kit with Server-Side Rendering (SSR) and easy deployment to Heroku
----
-
-### Angular 2 in TypeScript
-
-> TypeScript lets you write JavaScript the way you really want to.
-> TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-
-#### TypeScript General Resources
+#### TypeScript 
 
 * [TypeScript](https://www.typescriptlang.org/) Official Website for TypeScript
 * [REPL](https://www.typescriptlang.org/play/) Official TypeScript REPL that runs entirely in your browser
 * [TypeScript Repository (GitHub)](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
 * [DefinitelyTyped Repository (GitHub)](https://github.com/DefinitelyTyped/DefinitelyTyped) The repository for high quality TypeScript type definitions.
-
-#### TypeScript Seed Projects
-
-* [Angular Seed](https://mgechev.github.io/angular-seed/) Seed project for Angular apps
-* [ng2-play](https://github.com/pkozlowski-opensource/ng2-play) A minimal Angular2 playground using TypeScript and SystemJS loader
-* [Angular Lab](https://github.com/rolandjitsu/angular-lab) A simple Angular 2+ setup using [Angular CLI](https://cli.angular.io), [TypeScript](https://www.typescriptlang.org), [Angular Flex Layout](https://github.com/angular/flex-layout), [Material 2](https://material.angular.io), [AOT](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html), and unit and e2e tests on [Travis CI](https://travis-ci.org) and [Saucelabs](https://saucelabs.com).
-* [Angular 2 Samples](https://github.com/thelgevold/angular-2-samples) Angular 2.0 sample components
-* [Todo app with Firebase, OAuth, and Immutable](https://github.com/r-park/todo-angular-firebase)
-* [Spring Boot and Angular2 tutorial](https://github.com/springboot-angular2-tutorial/angular2-app) Angular2 practical example based on [Rails tutorial](https://www.railstutorial.org/).
-* [Angular 2 Goldilocks seed](https://github.com/ColinEberhardt/angular2-goldilocks-seed) - A seed project for Angular 2 and TypeScript that is not too simple, yet not too complex. In fact it's just right!
-* [Angular 2 Starter](https://github.com/antonybudianto/angular-starter) - Simple Angular 2 Starter with Gulp workflow and Travis CI
-* [Angular 2 Leaflet Starter](https://github.com/haoliangyu/ngx-leaflet-starter) - A map application starter based on Angular 2 and Leaflet
-* [Angular 2 MapboxGL Starter](https://github.com/haoliangyu/ngx-mapboxgl-starter) - Another map application starter based on Angular 2 and MapboxGL JS
-* [Angular 2 reconnecting websockets quickstart](https://github.com/mkusz/ng2_websockets_quickstart) - Simple counter using 2-way or 1-way reconnecting websockets communication
-* [ng2-start](https://github.com/cebor/ng2-start) - Minimal setup to start creating an angular2 application
-* [ng-kitchen-sink](https://github.com/born2net/Angular-kitchen-sink) - The ultimate Angular 2 bootstrap single page app - touches on all key and advanced aspects of Angular
-* [ng-skeleton](https://github.com/born2net/ng-skeleton) - The ultimate Angular seed with ngrx, bootstrap and two factor auth
-* [angular2-demo](https://github.com/amcdnl/angular2-demo) Minimal Angular2 Demo using TypeScript / Sass / Npm Tasks
-* [Angular 2 Dashboard Starter](https://github.com/hasanhameed07/angular2-dashboard-starter) - Ready to use dashboard control panel seed project based on Angular 2 and AdminLTE bootstrap theme.
-* [ngx-admin](https://github.com/akveo/ngx-admin) - Admin template based on Nebular framework (Angular 4+, Bootstrap 4+)
-* [Angular 2 full code coverage](https://github.com/danday74/angular2-coverage) - Solid tested SystemJS and gulp workflow ready for your code using Angular2 final release (2.1.0) .. Demonstrates unit
-  and full code coverage
-* [Angular 2 webpack](https://github.com/michaelbazos/angular2-starter) - Tour of Heroes official typescript tutorial built with webpack
-* [ng2-boiler](https://github.com/amcdnl/ng2-boiler) - A bare-bones simple starter with Angular2, TypeScript and Webpack configured.
-* [Angular Webpack Starter](https://github.com/antonybudianto/angular-webpack-starter) - Angular Webpack Starter with AoT compilation, Lazy-loading, and Tree-shaking
-* [Reaper](https://github.com/Xamber/Reaper) - Angular 2 Webpack Starter Boilerplate w/o 2269 dependencies
-* [famn](https://github.com/implustech/famn) - Angular 2 + FeathersJS application framework for both client and server side
-* [Angular NPM Module Seed](https://github.com/davguij/angular-npm-module-seed) - Starting point for developing Angular modules and publishing them on NPM.
-* [Angular2 D3v4 Seed](https://github.com/gp187/angular2-d3v4-graph) - Angular2 D3v4 implementation of charts, graphs, area and view porting seed project
-* [ng-seed/spa](https://github.com/ng-seed/spa) - Seed project for Angular apps featuring Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3
-* [Reboard](https://github.com/ksiabani/reboard) - Angular 4 + Material 2 starter dashboard with ngx-charts, based on generator-ngx-rocket (Typescript, SASS, Webpack, Jasmine+Karma, Protractor, TSLint, Codelyzer, Stylelint, ngx-translate, Lodash, Angular Flex-Layout)
-* [Angular5 + Redux + Graphql + MySQL quickstart](https://github.com/rafaesc/fullstack-graphql-angular) - Simple Fullstack GraphQL Application with Angular CLI + Redux + Express + GraphQL + Sequelize (supports MySQL, Postgres, Sqlite and MSSQL).
-* [Angular5 + Firebase + Structure](https://github.com/naologic/angular5-starter) - Angular 5 + Firebase + a very good router/module structure to make it your own so easy
-* [angular-app-example](https://github.com/daixianceng/angular-app-example) - Angular latest + material + sass themes + more beautiful features, a dashboard app example
-* [NG-MATERO](https://github.com/ng-matero/ng-matero) - This Ng-Matero is an Angular admin templete made with Material componnets.
-* [TinkoffCreditSystems/angular-open-source-starter](https://github.com/TinkoffCreditSystems/angular-open-source-starter) - a starter project for creating open-source libraries for Angular
-* [truonghungit/angular-starter](https://github.com/truonghungit/angular-starter) - 😍 A complete Angular 10, NgRx, Angular CLI & Angular Material starter project
-* [Eoapi](https://github.com/eolinker/eoapi) - A lightweight, extensible API tool based on Angular and Electron
-* [**{{** add_your_repo **}}**](https://github.com/gdi2290/awesome-angular/edit/gh-pages/README.md)
+* [typehero](https://github.com/typehero/typehero) - Connect, collaborate, and grow with a community of TypeScript developers.
+* [type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge.
+* [typescript-challenges](https://github.com/psmyrdek/typescript-challenges) - A set of challenges helping you understand TypeScript
+* [Sheriff](https://github.com/softarc-consulting/sheriff) - Lightweight Modularity for TypeScript Projects
+* [Total Typescript Book](https://github.com/total-typescript/total-typescript-book) - The companion repo for the upcoming Total TypeScript book.
+* [ts-essentials](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place 
+* [trpc](https://github.com/trpc/trpc) - Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+* [quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL.
+* [ts-pattern](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript, with smart type inference.
+* [ngx-mf](https://github.com/iamguid/ngx-mf) - Bind your model types to angular FormGroup type
+* [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
+* [typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript.
+* [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
 
 ---
 
-#### Ionic in Angular
+#### Ionic 
 
 > Ionic is the beautiful, open source front-end SDK for developing hybrid mobile apps with web technologies.
 
 * [Ionic Framework](https://ionicframework.com) - Official Website for Ionic Framework
 * [(Github) Ionic Framework](https://github.com/ionic-team/ionic-framework) - Github Repo of Ionic Framework
-
-##### Ionic General Resources
-
 * [Ionic Academy](https://ionicacademy.com/) - The fastest way to learn Ionic.
 * [Elite Ionic](https://eliteionic.com/) - Advanced training for Angular developers who want to create NEXT LEVEL native web applications.
 * [Ionic Themes](https://ionicthemes.com/tutorials) - Tutorials and templates.
@@ -647,128 +593,12 @@ become an Angular expert
 
 ---
 
-### Angular 2 in Dart
-
-> Dart is an open-source, scalable programming language, with robust libraries and runtimes, for building web, server, and mobile apps.
-
-#### Dart General Resources
-
-* [Dart](https://dart.dev/) Official Website for Dart.
-* [Dart Organization (GitHub)](https://github.com/dart-lang) Official GitHub Organization for Dart
-* [angulardart-community](https://github.com/angulardart-community/website) - The next-generation AngularDart documentation website.
-
----
-
-### Angular 2 in Traceur
-
-> Traceur is a JavaScript.next-to-JavaScript-of-today compiler.
-
-#### Traceur General Resources
-
-* [Traceur Repository (GitHub)](https://github.com/google/traceur-compiler) Official GitHub Repo for Traceur.
-
-#### Traceur Seed Projects
-
-* [GitHub: Angular2 ES6 Seed (Evan Plaice)](https://github.com/evanplaice/angular2-es6-seed/)
-* [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
-
----
-
-### Angular 2 in ES5
-
-> An ECMAScript language that includes structured, dynamic, functional, and prototype-based features.
-
-##### ES5 General Resources
-
-* [**{{** help_add_resources **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
-
-#### ES5 Seed Projects
-
-[angular2-es5-starter-kit](https://github.com/islam-muhammad/angular2-es5) Angular2 ES5 Starter Kit
-
----
-
-#### Meteor in Angular 2
-
-> Build Realtime Web and Mobile Apps With Angular and Meteor.
-
-##### Meteor General Resources
-
-* [Angular Meteor](https://angular-meteor.com/) Official Website for Angular Meteor
-* [Angular 2 Meteor](https://www.angular-meteor.com/angular2)
-
-#### Meteor Seed Projects
-
-* [Angular2 Meteor Seed](https://github.com/KyneSilverhide/angular2-meteor-seed)
-* [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
-
----
-
-#### Angular 2 in NativeScript
-
-> Build truly native iOS, Android and Windows Phone apps with Javascript and CSS. Try NativeScript open-source framework for cross-platform development.
-
-##### NativeScript General Resources
-
-* [NativeScript](https://www.nativescript.org/) Official Website for NativeScript
-* [Using NativeScript](https://www.syntaxsuccess.com/viewarticle/using-nativescript-with-angular-2.0)
-
-#### NativeScript Seed Projects
-
-* [sample-Angular2](https://github.com/NativeScript/sample-Angular2)
-* [angular2-seed-advanced](https://github.com/NathanWalker/angular-seed-advanced)
-* [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
-
----
-
-#### Angular 2 in React Native
-
-> React Native enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript.
-
-##### React Native General Resources
-
-* [React Native](https://facebook.github.io/react-native/) Official Website for React Native
-
-#### React Native Projects
-
-* [Angular 2 React Native Renderer (GitHub)](https://github.com/angular/react-native-renderer)
-
-#### React Native Seed Projects
-
-* [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
-
----
-
-### Angular 2 in Scala
-
-> General purpose language; multiparadigm (object-oriented, functional, concurrent elements); statically typed, type-safe; focus: Web services.
-
-##### Scala General Resources
-
-* [**{{** help_add_resources **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
-
-#### Scala Seed Projects
-
-* [play-angular2](https://github.com/gdi2290/play-angular2)
-* [**{{** add_your_repo **}}**](https://github.com/PatrickJS/awesome-angular/edit/gh-pages/README.md)
-
----
-
-### Angular 2 components with Bit
-
-> Bit is an open source virtual repository (code base) built to make components easily manageable and usable across applications. You can quickly export any Angular component from any context while working on any project to a bit distributed Scope. Bit's reusbale component environment cuts the overhead of configuring build and test environments for exporting every new component. The Scope is a virtual component repository which stores, organizes, manages and tests your components. Once modeled on a Scope, your components can be easily found and used in any Angular application. Components can be organized together and still modified and used individually without pulling in entire libraries.
-
-##### Bit Resources
-
-* [Bit](https://github.com/teambit/bit)
-* [Bit-Javascript](https://github.com/teambit/bit-javascript)
-* [bitsrc](https://bitsrc.io/) - Free community hub for sharing, managing and finding open source components.
-
----
-
 #### Security
 
-* So you thought you were safe using AngularJS? Think again! [Slides](https://www.owasp.org/images/4/46/OWASPLondon20170727_AngularJS.pdf), [Video](https://www.youtube.com/watch?v=3vuLPzjc4RI) - Lewis Ardern speaking at OWASP London 2017.
+* [Socket](https://socket.dev/) - Socket is a developer-first security platform that protects your code from both vulnerable and malicious dependencies.
+* [Synk](https://snyk.io/) - Snyk is a developer security platform that integrates directly into development tools, workflows, and automation pipelines.
+* [Github](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning) - Code scanning is available for all public repositories on GitHub.com.  You can turn on secret scanning and use Code QL to secure your repos.  
+* [Github Skills](https://skills.github.com/) - Guided interactive tutorials for Code Security and analysis are available.
 
 #### Authentication
 
@@ -794,9 +624,23 @@ become an Angular expert
 * [Tim Deschryver Blog](https://timdeschryver.dev/blog?q=NgRx) - Excellent NgRx articles from a core maintainer.
 * [angular-ngrx-nx-realworld-example-app](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 17, NgRx 17, nrwl/nx 17
 
+#### Deployment
+
+* [aws amplify](https://docs.amplify.aws/angular/)
+* [Vercel](https://vercel.com/solutions/angular)
+* [Firebase Hosting](https://firebase.google.com/docs/hosting) - [Angular Fire](https://github.com/angular/angularfire) can help the process in deploying to Firebase Hosting.  
+* [Netlify](https://docs.netlify.com/frameworks/angular/) - Angular applications on Netlify can benefit from integrations such as automatic framework detection and built-in redirects functionality.
+* [angular-cli-ghpages](https://github.com/angular-schule/angular-cli-ghpages) - SSR does not work, and there can be some caveats, but you can host your Angular project on GitHub Pages.
+
+#### Updating
+
+* [angular update guide](https://update.angular.io/) - Interactive guide to help you migrate from one version of Angular to another.  
+* [ng update](https://angular.dev/cli/update) - Use the CLI to update your project or try new Angular features by adding the `--next` flag.
+* [migrations](https://angular.dev/reference/migrations) - Angular offers schematics to help update your project for you. You can convert your project to standalone components, the new control flow syntax, and more by using one of the Angular built-in schematics.
+
 ---
 
-enjoy — [**PatrickJS**](https://twitter.com/PatrickJS__)
+enjoy — [**PatrickJS**](https://twitter.com/PatrickJS__) and [**jdegand**](https://github.com/jdegand)
 
 ---
 
