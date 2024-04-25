@@ -197,6 +197,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 ## Web
 * [andrewrk/lua-in-the-browser](https://github.com/andrewrk/lua-in-the-browser) - Using Zig to build Lua for WebAssembly.
 * [karlseguin/websocket.zig](https://github.com/karlseguin/websocket.zig) - A WebSocket implementation.
+* [ws-zig/ws-server](https://github.com/ws-zig/ws-server) - A WebSocket server implementation.
 * [kivikakk/htmlentities.zig](https://github.com/kivikakk/htmlentities.zig) - HTML5 entity data.
 * [meheleventyone/zig-wasm-test](https://github.com/meheleventyone/zig-wasm-test) - A minimal WebAssembly example using Zig's build system.
 * [shritesh/zig-wasm-dom](https://github.com/shritesh/zig-wasm-dom) - Zig + WebAssembly + JS + DOM.
