@@ -27,6 +27,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | Dream Search | Dream Search - The most data scanning search engine in ZeroNet | `1JBFNPrAGp1nQX6RsAN6oRqCfvtoeWoion` | N/A |
 | Search And Index Zites |  A Simple search engine and index | `1xiwbXaTbo9XU32hEpW4NyjZHrugSFdo6` | N/A |
 | 0find0go | Every public website on ZeroNet in one search engine | `1Jj3kjHmjPYWGfCdyd8Pr6pm5sJawrLmrp` | N/A |
+| Important Zites | Index of user-added zites | `15Pf9VVuDT8NSWj1qUBh4V89yPmrmzRw6a` | N/A |
 
 ### Zite Indexes
 
@@ -65,6 +66,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | ZeroTorrent | Torrent sharing forum | `192dZ1EG5tU7PnCfuwGMDEBrr2eLqvs4t3` | `ZeroTorrent.bit` |
 | New GFW Talk | Forum dedicated to Great Firewall of China | `19BPUZYAdCMxExKHoVSG3cG95wfUfFTEC9` | `NewGFWTalk.bit` |
 | IranTalk | Forum dedicated to Persian speaking users of ZeroNet | `1AS355T7MGApApoBeE9JgxvvvDxf33Eyh1` | N/A |
+| Pirate Party Forum | Forum dedicated to Pirate Party | `1CLQ81TNixktJ67YFkZtbtsESy3MwZqLEG` | N/A |
 
 ### Mail Providers
 
