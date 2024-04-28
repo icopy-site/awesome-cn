@@ -663,6 +663,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Adapter](https://macroplant.com/adapter) -  Free audio, video and image conversion software. ![Freeware][Freeware Icon]
 * [Aegisub](https://github.com/Aegisub/Aegisub) - Free, cross-platform open source tool for creating and modifying subtitles. Aegisub makes it quick and easy to time subtitles to audio, and features many powerful tools for styling them, including a built-in real-time video preview. [![Open-Source Software][OSS Icon]](https://github.com/Aegisub/Aegisub/) ![Freeware][Freeware Icon]
 * [Audio Profile Manager](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12) - Allows you to pin input/output devices for each particular combination of connected devices. May suppress HDMI displays from being chosen. [![App Store][app-store Icon]](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12)
+* [Aiko](https://sindresorhus.com/aiko) - High-quality on-device transcription. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168)
 * [Ardour](https://ardour.org/) - Cross-platform audio software for multi-track recording and editing. [![Open-Source Software][OSS Icon]](https://github.com/Ardour/ardour)
 * [Audacity](http://www.audacityteam.org/) - Free, open-source, cross-platform audio software for multi-track recording and editing. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/audacity/audacity)
 * [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
@@ -889,6 +890,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Pandan](https://sindresorhus.com/pandan) - Time awareness in your menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1569600264)
 * [PowerMeister](https://naden.co) - Conserve energy and improve Battery-Life on your MacBook.
 * [Reminders MenuBar](https://github.com/DamascenoRafael/reminders-menubar/) -  Simple macOS menu bar app to view and interact with reminders. [![Open-Source Software][OSS Icon]](https://github.com/DamascenoRafael/reminders-menubar/) ![Freeware][Freeware Icon]
+* [Spaced](https://sindresorhus.com/spaced) - Organize your menu bar items into groups. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168)
 * [Streaker](https://github.com/jamieweavis/streaker) - GitHub contribution streak tracking menubar app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/jamieweavis/streaker)
 * [SwiftBar](https://github.com/swiftbar/SwiftBar/) - Powerful macOS menu bar customization tool. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/swiftbar/SwiftBar/)
 * [TextSniper](https://textsniper.app/) - Simple yet powerful OCR app in your Menu Bar. Instantly copy and paste text from anywhere. [![App Store][app-store Icon]](https://apps.apple.com/app/id1528890965)
@@ -1067,6 +1069,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [DisplayBuddy](https://displaybuddy.app) - Control the brightness, contrast, input source and more of your external display directly from your Mac.
 * [f.lux](https://justgetflux.com/) - Makes the color of your computer's display adapt to the time of day. ![Freeware][Freeware Icon]
 * [Grayscale Mode](https://github.com/rkbhochalya/grayscale-mode) - An open source macOS app that lets you quickly toggle grayscale filter right from your menu bar or using a keyboard shortcut (⌥⌘G). [![Open-Source Software][OSS Icon]](https://github.com/rkbhochalya/grayscale-mode) ![Freeware][Freeware Icon]
+* [Hyperduck](https://sindresorhus.com/hyperduck) - Receive links from your iOS & visionOS devices. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168)
 * [KeyCastr](https://github.com/keycastr/keycastr) - Open-source keystroke visualizer.  [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
 * [Luminescent](https://naden.co) - Bring back Keyboard Backlight Shortcuts for the MacBook.
 * [Lunar](https://lunar.fyi/) -  Help you adujst brightness, contrast and volumn of your external display. [![Open-Source Software][OSS Icon]](https://github.com/alin23/Lunar) ![Freeware][Freeware Icon]

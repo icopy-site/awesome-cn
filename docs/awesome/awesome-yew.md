@@ -92,6 +92,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [zoom-rs](https://github.com/security-union/zoom-rs) - Zoom clone written in rust for research purposes.
 - [Ubiquity](https://github.com/opensourcecheemsburgers/ubiquity) - An open-source, cross-platform markdown editor; built with Yew, Tauri, Tailwind, and DaisyUI. [Web App](https://ubiquity.rs).
 - [demo_web_zip_wasm](https://github.com/MAE664128/demo_web_zip_wasm) - A simple example program for creating ZIP archives running in the browser using WebAssembly, [Live Demo](https://mae664128.github.io/demo_web_zip_wasm/).
+- [RustedLessPass](https://github.com/RustedLessPass/RustedLessPass) - A stateless password manager. [Web App](https://rustedlesspass.github.io/).
 
 ## Templates
 
