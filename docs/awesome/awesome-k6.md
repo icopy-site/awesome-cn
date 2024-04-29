@@ -64,7 +64,7 @@ AnyCable, k6, WebSockets, and Yabeda](https://evilmartians.com/chronicles/real-t
   - [Website Performance + Load Testing with K6 (k6.io) in 5 MINUTES!](https://www.youtube.com/watch?v=brasMBAezJY) - Introductory overview of k6, showing how to create a test from a HAR file, by the DevOps Directive. 
   - [Performance Testing your web app with k6](https://www.youtube.com/watch?v=Hu1K2ZGJ_K4) - A walkthrough of the open-source load and performance regression testing tool, k6, and how to load test your APIs and websites, by Chris James.
   - [Application Load Testing with k6](https://www.youtube.com/watch?v=iQmItkazLOk) - Daniel Knittl-Frank @TechTalk Days 2021, Intro to k6. 
-  - [Performance testing: from zero to hero with k6 & Azure](https://www.youtube.com/watch?v=5G6zYLX9qvM) - Jose Luis Latorre Millas at Cloud Summit 2021.
+  - [Performance Testing From Zero to Hero with K6 & Azure](https://youtu.be/71N4_2Fv3I4?si=4eoRcvQfXNJR4aaa) - Jose Luis Latorre Millas at NDC Oslo 2021.
   - [AI-Powered K6 Testing: No Code, No Hassle, Just ChatGPT! 🦾🚀](https://www.youtube.com/watch?v=RYyPduBqGM4) - In this video, Karthik K.K. demonstrates how ChatGPT can create k6 tests without writing a single line of code.
 
 ## Examples/Templates

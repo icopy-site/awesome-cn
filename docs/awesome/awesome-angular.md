@@ -51,6 +51,15 @@ Table of contents:
 * [madewithangular](https://github.com/madewithangular/madewithangular.github.io) - A showcase of web apps built with Angular.  
 * [angular.love](https://angular.love/) - Polish community for Angular fans
 
+#### Newsletters
+
+* [angular addicts](https://www.angularaddicts.com/)
+* [weekly angular](https://prodigious-knitter-4508.ck.page/subscribe)
+* [angular weekly](https://angularweekly.substack.com/)
+* [practical-angular-newsletter](https://angularmentor.io/practical-angular-newsletter)
+* [danywalls](https://www.danywalls.com/newsletter)
+* [ultimate courses](https://ultimatecourses.com/newsletter)
+
 #### Angular Team on Twitter
 
 * [Minko Gechev](https://twitter.com/mgechev)
