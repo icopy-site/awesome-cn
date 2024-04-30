@@ -32,11 +32,11 @@ Biological image analysis aims to increase our understanding of biology through 
 - [PYME](https://github.com/python-microscopy/python-microscopy) - Open-source application suite for light microscopy acquisition, data storage, visualization, and analysis.
 - [Scikit-image](https://github.com/scikit-image/scikit-image) - Collection of algorithms for image processing.
 
-
 ## Image processing and segmentation
 - [Ark-Analysis](https://github.com/angelolab/ark-analysis) - A pipeline toolbox for analyzing multiplexed imaging data.
 - [AtomAI](https://github.com/pycroscopy/atomai) - PyTorch-based package for deep/machine learning analysis of microscopy data.
 - [Cellpose](https://github.com/MouseLand/cellpose) - A generalist algorithm for cell and nucleus segmentation.
+- [CellSAM](https://github.com/vanvalenlab/cellSAM) -  A foundation model for cell segmentation trained on a diverse range of cells and data types.
 - [Cellshape](https://github.com/Sentinal4D/cellshape) - 3D single-cell shape analysis of cancer cells using geometric deep learning.
 - [CLIJ2](https://clij.github.io/) - GPU-accelerated image processing library for ImageJ/Fiji, Icy, MATLAB and Java.
 - [DeepCell](https://github.com/vanvalenlab/deepcell-tf) - Deep learning library for single cell analysis.
@@ -128,6 +128,7 @@ Biological image analysis aims to increase our understanding of biology through 
 - [CellMigration](https://github.com/quantixed/CellMigration) - Analysis of 2D cell migration in Igor.
 - [TrackMate](https://github.com/fiji/TrackMate) - User-friendly interface that allows for performing tracking, data visualization, editing results and track analysis in a convenient way.
 - [TrackMateR](https://github.com/quantixed/TrackMateR) - R package to analyze cell migration and particle tracking experiments using outputs from TrackMate.
+- [Trackpy](https://soft-matter.github.io/trackpy) - Fast and Flexible Particle-Tracking Toolkit.
 - [TracX](https://gitlab.com/csb.ethz/tracx) - MATLAB generic toolbox for cell tracking from various microscopy image modalities such as Bright-field (BF), phase contrast (PhC) or fluorescence (FL) with an automated track quality assessment in
 absence of a ground truth.
 - [TraJClassifier](https://imagej.net/plugins/trajclassifier) - Fiji plugin that loads trajectories from TrackMate, characterizes them using TraJ and classifiies them into normal diffusion, subdiffusion, confined diffusion and directed/active motion by a random forest approach (through Renjin).
@@ -155,9 +156,9 @@ absence of a ground truth.
 ## Yeast imaging
 - [BABY](https://git.ecdf.ed.ac.uk/swain-lab/baby/) - An image processing pipeline for accurate single-cell growth estimation of
 budding cells from bright-field stacks.
+- [htsimaging](https://github.com/rraadd88/htsimaging) - Python package for high-throughput single-cell imaging analysis.
 - [YeastMate](https://yeastmate.readthedocs.io/en/latest/) - Neural network-assisted segmentation of mating and budding events in S. cerevisiae.
 - [YeaZ](https://github.com/lpbsscientist/YeaZ-GUI) - An interactive tool for segmenting yeast cells using deep learning.
-
 
 
 ## Other
