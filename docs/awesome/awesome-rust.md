@@ -287,6 +287,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [illacloud/illa](https://github.com/illacloud/illa) [[ILLA Cloud](https://www.illacloud.com/)] - Low-code internal tool builder.
 * [LLDAP](https://github.com/lldap/lldap) - Simplified LDAP interface for authentication.
 * [pier-cli/pier](https://github.com/pier-cli/pier) — A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs
+* [ShadoySV/work-break](https://github.com/ShadoySV/work-break) [[work-break](https://crates.io/crates/work-break)] - Work and rest time balancer taking into account your current and today strain [![Build](https://github.com/shadoysv/work-break/actions/workflows/release.yml/badge.svg)](https://github.com/ShadoySV/work-break/releases)
 * [yashs662/rust_kanban](https://github.com/yashs662/rust_kanban) [[rust-kanban](https://crates.io/crates/rust-kanban)] [![Build](https://github.com/yashs662/rust_kanban/actions/workflows/build.yml/badge.svg)](https://github.com/yashs662/rust_kanban/releases) — A Kanban App for the terminal
 
 ### Routing protocols
@@ -957,7 +958,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * [autumnai/collenchyma](https://github.com/autumnai/collenchyma) — An extensible, pluggable, backend-agnostic framework for parallel, high-performance computations on CUDA, OpenCL and common host CPU.
   * [luqmana/rust-opencl](https://github.com/luqmana/rust-opencl) — [OpenCL](https://www.khronos.org/opencl/) bindings
 * Science
-  * [cpmech/russell](https://github.com/cpmech/russell) — Rust Scientific Library (Russell) for numerical mathematics, differential equations, special math functions, high-performance linear algebra (sparse), and more
+  * [cpmech/russell](https://github.com/cpmech/russell) — Rust Scientific Library for numerical mathematics, ordinary differential equations, special math functions, high-performance (sparse) linear algebra
   * [indigits/scirust](https://github.com/indigits/scirust) — Scientific computing library
 * Statrs
   * [statrs-dev/statrs](https://github.com/statrs-dev/statrs) — Robust statistical computation library
@@ -1531,6 +1532,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
   * [rust-bakery/nom](https://github.com/rust-bakery/nom) — parser combinator library
   * [s-panferov/queryst](https://github.com/s-panferov/queryst) — A query string parsing library inspired by [gs](https://github.com/ljharb/qs#readme)
   * [softdevteam/grmtools](https://github.com/softdevteam/grmtools/) - A LR parser with better error correction
+  * [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - A parser generator tool and an incremental parsing library geared towards programming tools
 
 ### Peripherals
 
