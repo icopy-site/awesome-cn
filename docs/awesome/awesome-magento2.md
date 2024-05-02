@@ -61,16 +61,18 @@ marketers—and we continue to expand.
 - [Meet Magento UK](https://uk.meet-magento.com/) - Meet Magento UK 
 - [Meet Magento Baltics](https://meetmagentobaltics.com/) - Meet Magento Baltics
 
-## Frontends
+## Front-ends
+
 The storefront of Magento 2 can be styled in numerous ways:
 
 - **Luma** (`Magento/luma`) - This is actually a default demo theme of Magento 2 itself, which again extends from `Magento/blank` which extends from the core. But more often, the name Luma refers to the entire stack: XML layout generates a tree-structure of blocks and containers, which eventually render via PHTML templates. The server-side rendered HTML is enriched with CSS (compiled from LESS source files) and JavaScript (RequireJS, KnockoutJS, jQuery).
 - **Adobe PWA Studio** - A new headless frontend, created by Adobe/Magento, based on ReactJS. It makes GraphQL calls to the Magento GraphQL API to retrieve data. The frontend offers Venia (a demo theme and UI component library), Peregrine (React hooks), Buildpack (Webpack configuration) and UPWARD (a middleware for SSR and image optimization). 
 - **Hyvä** ([hyva.io](https://hyva.io/)) - An alternative for Luma, which replaces the LESS/CSS with TailwindCSS and the JavaScript with AlpineJS. Currently, it is only available via a commercial license. But for that price, the team works hard to create compatibility modules for 3rd party modules, give support and make the entire solution more and more versatile.
-- **Vue Storefront**
+- **Alokai** (_ex: Vue Storefront_) ([github.com/vuestorefront/vue-storefront](https://github.com/vuestorefront/vue-storefront))
 - **DEITY**
-- **ScandiPWA**
-- **Breeze Evolution** - A 100 pagespeed score frontend theme that is compatible with all Luma-based extensions. [breezefront.com](https://breezefront.com/themes)
+- **ScandiPWA** ([github.com/scandipwa/scandipwa](https://github.com/scandipwa/scandipwa))
+- **Breeze Evolution** ([breezefront.com](https://breezefront.com/themes)) - A 100 pagespeed score frontend theme that is compatible with all Luma-based extensions. 
+- **Front-Commerce** ([front-commerce.com](https://www.front-commerce.com/))- Front-Commerce is an innovative, advanced, ready-to-use PWA (Progressive Web App) front-end solution developed in France for Magento stores.
 
 ## Tools
 

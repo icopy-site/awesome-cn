@@ -659,7 +659,6 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 ### Shells, Interpreters and Emulators
 - [sparforte](https://sparforte.com/) - SPARforte programming language is an Ada-like scripting language, previously known as business user shell (bush). Can be used as interactive UNIX shell replacement.
 - [gsh](https://github.com/AdaCore/gsh) - GSH is non interactive POSIX shell for Windows, aimed at GNU software builds. 2-3 times faster than Cygwin.
-- [gnatcoll-scripts-shell](https://github.com/AdaCore/gnatcoll-core/blob/master/src/gnatcoll-scripts-shell.ads) - GNATCOLL.Scripts.Shell is a simple embeddable scripting language, part of GNATCOLL Core.
 - [analytical-engine](https://github.com/simonjwright/analytical-engine) - An Ada 2012 emulation of Charles Babbage's Analytical Engine.
 - [a-shell](https://github.com/charlie5/aShell) - A component to aid in writing shell-like applications in Ada.
 - [dashera](https://github.com/SMerrony/dashera) - Data General DASHER terminal emulator using [gtkada].

@@ -3,7 +3,7 @@
 
 > A curated and collaborative list of awesome OpenTofu resources and tools.
 
-[OpenTofu](https://opentofu.org/) lets you declaratively manage your infrastructure. It's an open-source and community-driven alternative to Terraform.
+[OpenTofu](https://opentofu.org/) allows you to declaratively manage your infrastructure. It's an open-source, community-driven alternative to Terraform.
 
 
 
@@ -18,7 +18,7 @@
 
 ## Community
 
-*Communication channels, meetups, newsletters and forums.*
+*Communication channels, meetups, newsletters, and forums.*
 
 - [OpenTofu GitHub Discussion](https://github.com/orgs/opentofu/discussions)
 - [OpenTofu LinkedIn](https://www.linkedin.com/company/opentofuorg/)
@@ -27,9 +27,11 @@
 
 ## Features
 
-- [End-to-end encryption for state files](https://youtu.be/rR4IbhlRSkI) 🚧
+- [End-to-end encryption for state files](https://opentofu.org/docs/intro/whats-new/#state-encryption)
 - [OCI-compliant registry support](https://twitter.com/OpenTofuOrg/status/1696913055576387599) 🚧
-- [Provider-defined functions](https://www.youtube.com/shorts/4aHZjDz2VWg) 🚧
+- [Provider-defined functions](https://opentofu.org/docs/intro/whats-new/#provider-defined-functions)
+- [Removed block](https://opentofu.org/docs/intro/whats-new/#removed-block)
+- [Loopable import blocks](https://opentofu.org/docs/intro/whats-new/#loopable-import-blocks)
 
 ## Tools
 
@@ -47,12 +49,12 @@
 
 - [Atmos](https://github.com/cloudposse/atmos) - Orchestration tool that keeps environment configuration DRY.
 - [Terragrunt](https://github.com/gruntwork-io/terragrunt) - Keep your configurations DRY, work with multiple modules, and manage remote state.
-- [Terramate](https://github.com/terramate-io/terramate) - Automation, orchestration and code generation for OpenTofu, Terraform, Kubernetes, and others.
+- [Terramate](https://github.com/terramate-io/terramate) - Automation, orchestration, and code generation for OpenTofu, Terraform, Kubernetes, and others.
 - [easy_infra](https://github.com/SeisoLLC/easy_infra) - Docker container to simplify and secure the use of infrastructure as code.
 - [tf](https://github.com/dex4er/tf) - Less verbose and more friendly command outputs.
 - [tfam](https://github.com/Ant0wan/tfam) - Rust-powered wrapper for concurrent Terraform/OpenTofu apply, enabling multi-deployment support.
 - [tfexe](https://github.com/Ant0wan/tfexe) - Rust-powered wrapper for seamless execution of tfswitch and Terraform/OpenTofu with version control.
-- [tfwrapper](https://github.com/claranet/tfwrapper) - Python wrapper that aims to simplify OpenTofu usage and enforce best practices.
+- [tfwrapper](https://github.com/claranet/tfwrapper) - Python wrapper that simplifies OpenTofu usage and enforces best practices.
 
 ### CI
 
@@ -85,7 +87,7 @@
 - [digger](https://github.com/diggerhq/digger) - Open-source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline.
 - [terrakube](https://github.com/AzBuilder/terrakube) - Open-source platform with private registry, remote state, custom flows, scheduled workspaces, and visual states.
 - [tofutf](https://github.com/tofutf/tofutf) - Open-source alternative to Terraform Enterprise with SSO, team management, agents, etc.
-- [walrus](https://github.com/seal-io/walrus) - Walrus is an open-source application management platform based on IaC tools including OpenTofu, Terraform and others.
+- [walrus](https://github.com/seal-io/walrus) - Walrus is an open-source application management platform based on IaC tools, including OpenTofu, Terraform, and others.
 
 ### Registry
 
@@ -96,7 +98,7 @@
 - [terralist](https://github.com/terralist/terralist) - Private registry for providers and modules.
 - [citizen](https://github.com/outsideris/citizen) - Private registry for modules and providers with support for multiple databases and storages.
 - [petra](https://github.com/devoteamgcloud/petra) - Private registry manager using Google Cloud Storage.
-- [tapir](https://github.com/PacoVK/tapir) - Private registry for modules and providers with an UI.
+- [tapir](https://github.com/PacoVK/tapir) - Private registry for modules and providers with a UI.
 - [terraform-registry](https://github.com/nrkno/terraform-registry) - Modules registry with authentication and support for multiple backends.
 - [terrareg](https://github.com/MatthewJohn/terrareg) - Open-source modules registry with UI, optional Git integration and deep analysis.
 - [terustry](https://github.com/veepee-oss/terustry) - Proxy registry for providers.
