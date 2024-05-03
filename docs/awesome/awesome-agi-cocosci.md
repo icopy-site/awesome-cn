@@ -1401,7 +1401,7 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [Skilful nowcasting of extreme precipitation with NowcastNet](https://www.nature.com/articles/s41586-023-06184-4) - ***Nature***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=17837864391812838009&hl=en&as_sdt=0,5)].
 
-* [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176) - 2023. [[All Versions](https://scholar.google.com/scholar?cluster=5962372610489019326&hl=en&as_sdt=0,5)].
+* [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176) - 2023. [[All Versions](https://scholar.google.com/scholar?cluster=5962372610489019326)].
 
 * [Single-atom alloy catalysts designed by first-principles calculations and artificial intelligence](https://www.nature.com/articles/s41467-021-22048-9) - ***Nature Communications***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=6593978922251447907&hl=en&as_sdt=0,5)].
 

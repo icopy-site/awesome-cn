@@ -52,6 +52,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Oso](https://www.osohq.com/) - Authorization framework (RBAC).
 * [Permit.io](https://www.permit.io/) - Permissions and access-control as a service.
 * [SuperTokens](https://supertokens.io/) - Open-source and hosted email & Oauth authentication with prebuilt UI. [![SuperTokens](https://img.shields.io/github/stars/supertokens/supertokens-core?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/supertokens/supertokens-core)
+* [Stytch](https://stytch.com/) - All-in-one authentication, authorization, and fraud prevention infrastructure.
 * [Userfront](https://userfront.com/) - Simplistic user authentication with pre-built back-office dashboard.
 * [WorkOS](https://workos.com/) - Enterprise SSO and more out-of-the-box enterprise features.
 
@@ -75,6 +76,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Spacelift](https://spacelift.io/) - CI/CD platform for infrastructure-as-code, currently supporting Terraform, Pulumi, AWS CloudFormation, and Kubernetes.
 
 ## CMS (headless)
+* [DatoCMS](https://www.datocms.com/) - API-based CMS.
 * [ElegantCMS](https://www.elegantcms.io/) - Headless CMS builder.
 * [Ghost](https://ghost.org/) - Blog platform, can be used as headless CMS (ex. [with Hexo](https://ghost.org/docs/api/v3/hexo/)). [![Ghost](https://img.shields.io/github/stars/tryghost/ghost?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/tryghost/ghost)
 * [Strapi](https://strapi.io/) - Open-source headless CMS, 100% JavaScript. [![Strapi](https://img.shields.io/github/stars/strapi/strapi?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/strapi/strapi)
@@ -207,6 +209,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 ## Media
 *Media APIs (optimization, CDN).*
 * [APITemplate.io](https://apitemplate.io/) - APIs to generate images and PDFs from reusable templates.
+* [Bytescale](https://bytescale.com) - File storage and processing APIs.
 * [Cloudinary](https://cloudinary.com/) - Optimize, create, manage, and deliver images and videos.
 * [Dyte](https://dyte.io) - Build powerful live experiences in your product with an all-in-one Video SDK.
 * [Flatfile](https://flatfile.com/) - Programmatically import data from files so it's API-ready.
