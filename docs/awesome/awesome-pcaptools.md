@@ -147,6 +147,8 @@ Traffic Analysis/Inspection<a name="analysis"></a>
 
 * [Socket Sentry](https://github.com/rhasselbaum/socket-sentry): Socket Sentry is a real-time network traffic monitor for KDE Plasma in the same spirit as tools like iftop and netstat.
 
+* [Squey](https://squey.org): Interactive visualization software designed to explore large PCAPs to detect anomalies / weak signals.
+
 * [Suricata](https://suricata-ids.org): Suricata is a free and open source, mature, fast and robust network threat detection engine.  The Suricata engine is capable of real time intrusion detection (IDS), inline intrusion prevention (IPS), network security monitoring (NSM) and offline pcap processing.
 
 

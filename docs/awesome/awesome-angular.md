@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> logo designed by [SAWARATSUKI](https://github.com/SAWARATSUKI/ServiceLogos)
+> logo designed by [SAWARATSUKI](https://github.com/SAWARATSUKI/Logos/issues)
 
 ## Awesome Angular [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -61,7 +61,9 @@ Table of contents:
 * [danywalls](https://www.danywalls.com/newsletter)
 * [ultimate courses](https://ultimatecourses.com/newsletter)
 
-#### Angular Team on Twitter
+#### Twitter
+
+##### Angular Team 
 
 * [Minko Gechev](https://twitter.com/mgechev)
 * [Alan Agius](https://twitter.com/AlanAgius4)
@@ -78,7 +80,7 @@ Table of contents:
 * [Mark Pieszak](https://twitter.com/MarkPieszak)
 * [Simona Cotin](https://twitter.com/simona_cotin)
 
-#### Experts on Twitter
+##### Experts
 
 > List of Angular experts you should follow on Twitter (in no particular order). This list is by no means complete.
 
@@ -233,6 +235,8 @@ Table of contents:
 
 #### YouTube Channels
 
+* [Angular](https://www.youtube.com/@Angular)
+* [NG CONF](https://www.youtube.com/@ngconfonline)
 * [Procademy](https://www.youtube.com/@procademy) 
 * [Monsterlessons Academy](https://www.youtube.com/@MonsterlessonsAcademy)
 * [Joshua Morony](https://www.youtube.com/@JoshuaMorony)
@@ -244,6 +248,17 @@ Table of contents:
 * [BrandonRobertsDev](https://www.youtube.com/@BrandonRobertsDev)
 * [Decoded Frontend](https://www.youtube.com/@DecodedFrontend)
 * [Galaxies_dev](https://www.youtube.com/@galaxies_dev)
+* [Zoaib Khan](https://www.youtube.com/@ZoaibKhan)
+* [AyyazTech](https://www.youtube.com/@AyyazTech)
+* [NivekDev](https://www.youtube.com/@nivekDev)
+* [LeelaWebDev](https://www.youtube.com/@LeelaWebDev)
+* [WebTechTalk](https://www.youtube.com/@WebTechTalk)
+* [Babatunde Lamidi](https://www.youtube.com/@babatundelmd)
+* [CodingWithSai](https://www.youtube.com/@codingwithsaik)
+* [UXTrendz](https://www.youtube.com/@uxtrendz)
+* [TechStackNation](https://www.youtube.com/@techstacknation)
+* [Angular Love](https://www.youtube.com/@angularlove)
+* [NG NEWS](https://www.youtube.com/@ng-news)
 
 #### Style Guides
 
@@ -604,9 +619,7 @@ become an Angular expert
 * [@davidlj95/ngx-meta](https://ngx-meta.dev) - Set your Angular site's metadata: standard meta tags, Open Graph, Twitter Cards, JSON-LD, ... Supports SSR (and Angular Universal). Use a service. Use routes' data. Set it up in a flash! 🚀
 * [ng2-adsense](https://github.com/scttcper/ng2-adsense) - Easy AdSense for Angular Applications
 * [ngx-countdown](https://github.com/cipchk/ngx-countdown) - Simple, easy and performance countdown for angular
-* [@ngneat/transloco](https://github.com/ngneat/transloco) - 🚀 😍 The internationalization (i18n) library for Angular
-* [@tolgee/ngx](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
-* [xng-breadcrumb](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solutuon. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
+* [xng-breadcrumb](https://github.com/udayvunnam/xng-breadcrumb) - Zero config breadcrumb solution. A lightweight, configurable and reactive breadcrumbs for Angular 6 and beyond.
 * [ng-let](https://github.com/nigrosimone/ng-let) - Structural directive for sharing data as local variable into html component template.
 * [ng-for-track-by-property](https://github.com/nigrosimone/ng-for-track-by-property) - Angular global trackBy property directive with strict type checking.
 * [ng-portal](https://github.com/nigrosimone/ng-portal) - Component property connection in Angular application.
@@ -725,6 +738,20 @@ become an Angular expert
 * [angular update guide](https://update.angular.io/) - Interactive guide to help you migrate from one version of Angular to another.  
 * [ng update](https://angular.dev/cli/update) - Use the CLI to update your project or try new Angular features by adding the `--next` flag.
 * [migrations](https://angular.dev/reference/migrations) - Angular offers schematics to help update your project for you. You can convert your project to standalone components, the new control flow syntax, and more by using one of the Angular built-in schematics.
+
+#### Internationalization
+
+* [transloco](https://github.com/ngneat/transloco) - 🚀 😍 The internationalization (i18n) library for Angular.
+* [ngx-tolgee](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
+* [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.
+* [angular-l10n](https://github.com/robisim74/angular-l10n) - Angular library to translate texts, dates and numbers.
+* [I18N](https://github.com/soluling/I18N) - Soluling has implemented a collection of internationalization (I18N) APIs for .NET, Angular and Delphi.
+* [ng-extract-i18n-merge](https://github.com/daniel-sc/ng-extract-i18n-merge) - Extract and merge i18n xliff translation files for angular projects.
+* [ng-translate](https://github.com/doorgets/ng-translate) - Angular 2 translation module i18n (internationalization) from JSON file with pluralization (Zero value state included).
+* [ngxe](https://github.com/navix/ngxe) - Angular 11.1+ JSON Translations Editor.
+* [ngx-translate](https://github.com/ngx-translate/core) - The internationalization (i18n) library for Angular.
+* [ngx-translate-module-loader](https://github.com/larscom/ngx-translate-module-loader) - Highly configurable and flexible translations loader for `@ngx-translate/core`
+* [ngx-translate-multi-http-loader](https://github.com/rbalet/ngx-translate-multi-http-loader) - A loader for ngx-translate that loads translations with http calls.
 
 ---
 
