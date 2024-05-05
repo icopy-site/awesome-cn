@@ -71,7 +71,6 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 - [fitcrack](https://github.com/nesfit/fitcrack) - A hashcat-based distributed password cracking system.
 - [Hashstation](https://github.com/hashstation/hashstation) - Hashstation is a BOINC-based distributed password cracking system with a built-in web interface.
 - [Hashtopolis](https://github.com/hashtopolis/server) - A multi-platform client-server tool for distributing hashcat tasks to multiple computers.
-- [HashtopoloCLI](https://github.com/jakewnuk/HashtopoCLI) - CLI tool for Hashtopolis API incorporating some of the API functionality into a dynamic Python wrapper.
 - [Kraken](https://github.com/arcaneiceman/kraken) - A multi-platform distributed brute-force password cracking system.
 
 ### Rules
@@ -84,7 +83,6 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 - [OneRuleToRuleThemAll](https://github.com/NotSoSecure/password_cracking_rules) - "One rule to crack all passwords. or atleast we hope so."
 - [OneRuleToRuleThemStill](https://github.com/stealthsploit/OneRuleToRuleThemStill) - "A revamped and updated version of my original OneRuleToRuleThemAll hashcat rule."
 - [pantagrule](https://github.com/rarecoil/pantagrule) - Large hashcat rulesets generated from real-world compromised passwords.
-- [squid rules](https://github.com/jakewnuk/HIBP-578M) - Hashcat rules ordered by effectiveness from testing HIBPv7.
 
 ### Rule tools
 - [duprule](https://github.com/mhasbini/duprule) - Detect & filter duplicate hashcat rules.
@@ -110,7 +108,6 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 
 ## Misc
-- [920mPasswordMasks](https://github.com/jakewnuk/920mPasswordMasks) - Hashcat password masks from 920 million breach passwords filtered into groups.
 - [hashgen](https://github.com/cyclone-github/hashgen) - Hashgen is a simple yet very fast CLI hash generator written in Go and cross compiled for Linux, Windows & Mac.
 - [hashID](https://github.com/psypanda/hashID) - Software to identify the different types of hashes.
 - [Name That Hash](https://github.com/HashPals/Name-That-Hash) - Don't know what type of hash it is? Name That Hash will name that hash type! Identify MD5, SHA256 and 300+ other hashes. Comes with a neat web app.
@@ -173,7 +170,6 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 - [password-stretcher](https://github.com/thetechromancer/password-stretcher) - Generate "disgusting quantities" of passwords from websites, files, or stdin. Compliments password-smelter.
 - [pcfg_cracker](https://github.com/lakiw/pcfg_cracker) - This project uses machine learning to identify password creation habits of users.
 - [Pipal](https://github.com/digininja/pipal) - THE password analyser.
-- [PwdStat](https://github.com/jakewnuk/pwdstat) - Tool for identifying systemic password usage, creating password masks, and analyzing cracked password samples with human readable statistics to help defenders.
 - [Graphcat](https://github.com/Orange-Cyberdefense/graphcat) - Generate graphs and charts based on password cracking result.
 
 ### Generation/Manipulation
@@ -194,7 +190,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 - [maskprocessor](https://github.com/hashcat/maskprocessor/) - High-performance word generator with a per-position configureable charset.
 - [maskuni](https://github.com/flbdx/maskuni) - A standalone fast word generator in the spirit of hashcat's mask generator with unicode support.
 - [Mentalist](https://github.com/sc0tfree/mentalist) - Mentalist is a graphical tool for custom wordlist generation. It utilizes common human paradigms for constructing passwords and can output the full wordlist as well as rules compatible with Hashcat and John the Ripper.
-- [Mode](https://github.com/JakeWnuk/mode) - A program for quickly aggregating and frequency sorting text from multiple sources and supports concurency.
+- [PTT](https://github.com/JakeWnuk/ptt) - The Password Transformation Tool (ptt) is a versatile utility designed for password cracking. It facilitates the creation of custom rules and transformations, as well as the generation of wordlists. This tool supports processing data from files, URLs, and standard input, streamlining cracking workflows.
 - [Phraser](https://github.com/Sparell/Phraser) - Phraser is a phrase generator using n-grams and Markov chains to generate phrases for passphrase cracking.
 - [princeprocessor](https://github.com/hashcat/princeprocessor) - Standalone password candidate generator using the PRINCE algorithm.
 - [Rephraser](https://github.com/travco/rephraser) - A Python-based reimagining of Phraser using Markov-chains for linguistically-correct password cracking.
@@ -227,9 +223,6 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 ### PDF
 - [pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
 
-### PEM
-- [pemcracker](https://github.com/bwall/pemcracker) - Tool to crack encrypted PEM files.
-
 ### JKS
 - [JKS private key cracker](https://github.com/floyd-fuh/JKS-private-key-cracker-hashcat) - Cracking passwords of private key entries in a JKS fileCracking passwords of private key entries in a JKS file.
 
@@ -241,7 +234,7 @@ Read [CONTRIBUTING.md](https://github.com/narkopolo/awesome-password-cracking/bl
 
 ## Artificial Intelligence
 - [adams](https://github.com/TheAdamProject/adams) - Reducing Bias in Modeling Real-world Password Strength via Deep Learning and Dynamic Dictionaries.
-[](https://github.com/cupslab/neural_network_cracking) - Code for cracking passwords with neural networks.
+- [neural network cracking](https://github.com/cupslab/neural_network_cracking) - Code for cracking passwords with neural networks.
 - [RNN-Passwords](https://github.com/gehaxelt/RNN-Passwords) - Using the char-rnn to learn and guess passwords.
 - [rulesfinder](https://github.com/synacktiv/rulesfinder) - This tool finds efficient password mangling rules (for John the Ripper or Hashcat) for a given dictionary and a list of passwords.
 - [PassGPT](https://github.com/javirandor/passgpt) - PassGPT is a GPT-2 model trained from scratch on password leaks.
