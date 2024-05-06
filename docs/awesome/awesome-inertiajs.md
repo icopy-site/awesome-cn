@@ -76,6 +76,7 @@
 - [Echo](https://github.com/kohkimakimoto/inertia-echo)
 - [Grails](https://github.com/matrei/grails-inertia-plugin)
 - [FastAPI](https://github.com/hxjo/fastapi-inertia)
+- [Hyperf](https://github.com/onix-systems-php/hyperf-inertia)
 
 ## Resources
 

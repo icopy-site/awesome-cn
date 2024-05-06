@@ -169,6 +169,8 @@
 <a name="opt"></a>
 ## Optimization
 * [Optuna](https://github.com/optuna/optuna) - A hyperparameter optimization framework.
+* [pymoo](https://github.com/anyoptimization/pymoo) - Multi-objective Optimization in Python.
+* [pycma](https://github.com/CMA-ES/pycma?tab=readme-ov-file) - Python implementation of CMA-ES.
 * [Spearmint](https://github.com/HIPS/Spearmint) - Bayesian optimization.
 * [scikit-opt](https://github.com/guofei9987/scikit-opt) - Heuristic Algorithms for optimization.
 * [SMAC3](https://github.com/automl/SMAC3) - Sequential Model-based Algorithm Configuration.

@@ -2375,6 +2375,7 @@ _Set of components + responsive layout system_
 - [Vuersatile Components](https://www.andres-brugarolas.com/vuersatile-components/) - A Vue 3 component library, with form self-validation and an SCSS framework integrated.
 - [Prefect Design](https://prefect-design.netlify.app/) - Component library using Vue 3, Typescript & Tailwind.
 - [Stellar UI](https://github.com/ManukMinasyan/stellar-ui) - Fully styled and customizable components for Vue 3.
+- [Shadcn UI](https://github.com/radix-vue/shadcn-vue) - An unofficial, community-led Vue port of [shadcn/ui](https://github.com/vuejs/awesome-vue/blob/master/<https://github.com/shadcn-ui/ui>) (re-usable components built with [Radix Vue](https://github.com/vuejs/awesome-vue/blob/master/<https://github.com/radix-vue/radix-vue>) and [Tailwind CSS](https://github.com/vuejs/awesome-vue/blob/master/<https://github.com/tailwindlabs/tailwindcss>)).
 
 #### Mobile
 
@@ -2388,6 +2389,7 @@ _UI frameworks for mobile_
 - [Ionic](https://github.com/ionic-team/ionic-framework) - Mobile app development framework
 - [Native script](https://github.com/nativescript-vue/nativescript-vue) - Native mobile applications using NativeScript
 - [Vue Native](https://github.com/GeekyAnts/vue-native-core) - Build cross platform native mobile apps using JavaScript
+- [uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
 
 _Set of components for mobile_
 
@@ -2455,6 +2457,7 @@ _Set of admin template_
 - [argon-dashboard-vue3](https://github.com/ltv/argon-dashboard-vue3) - Template, Element Plus & TailwindCSS 3, Vue3.
 - [Vitify Admin](https://github.com/kingyue737/vitify-admin) - Vite 3 + Vuetify 2 + TypeScript, Vue 2.7
 - [Dolphin Admin](https://github.com/bit-ocean-studio/dolphin-admin-vue) - An open source, free, lightweight, out-of-the-box, internationalized admin template based on Vue 3 + Vite + Naive UI + TypeScript + TailwindCSS. [Live demo](https://dolphin-admin-vue.bit-ocean.studio/)
+- [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！ [Live demo](https://vben.vvbin.cn/)
 
 #### Server-side rendering
 
@@ -2472,6 +2475,7 @@ _Set of admin template_
 - [Gridsome](https://github.com/gridsome/gridsome) - Build super fast, modern websites with Vue.js
 - [Servue](https://github.com/futureaus/servue) - Server-side rendering engine that renders vue files into html strings.
 - [îles](https://github.com/ElMassimo/iles) - Islands of interactivity, the joyful site generator
+- [VitePress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 
 #### Other
 
@@ -2658,6 +2662,7 @@ _Seamless scrolling_
 - [vue-middleware](https://github.com/grafikri/vue-middleware) - Middleware for Vue.
 - [vue-router-webcache](https://github.com/Kolobok12309/vue-router-webcache) - Enable spa routing while in google/yandex/etc webcache.
 - [v-route-generate](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
+- [kitbag/router](https://github.com/kitbagjs/router) - A type safe router for vuejs
 
 #### Lazy Load
 
@@ -3352,6 +3357,7 @@ _Inspecting & debugging_
 - [VueSource](https://github.com/davestewart/vue-source) - Global Vue mixin which identifies components in source code by adding HTML comments
 - [NW-Vue-DevTools](https://github.com/TheJaredWilcurt/nw-vue-devtools) - DevDependency for adding Vue DevTools into NW.js
 - [bruit-io](https://github.com/Moventes/bruit.io) - Collect feedback with screenshot and technical data and post them to an API like [bruit.io](https://bruit.io).
+- [devtools-next](https://github.com/vuejs/devtools-next) - The next iteration of Vue DevTools.
 
 #### Docs
 
@@ -3542,6 +3548,7 @@ _Includes a backend boilerplate_
 - [electron-vite-template](https://github.com/umbrella22/electron-vite-template) - A modern desktop application project template with Vue 3, Vite & Electron. **It's fast!**
 - [Vitectron](https://github.com/hyroge/vite-vue-electron) - Powerful & Modern Vue Desktop Application Template with TypeScript & JSX + Vue 3.x + Vite 2.x + Pinia 2.x + Vue-Router 4.x.
 - [Vutron](https://github.com/jooy2/vutron) - Quick start templates for Vite + Electron + Vue 3 + Vuetify + TypeScript.
+- [electron-vite-vue](https://github.com/electron-vite/electron-vite-vue) - Really simple Electron + Vite + Vue boilerplate.
 
 #### Parts
 
