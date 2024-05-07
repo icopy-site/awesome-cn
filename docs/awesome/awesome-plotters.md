@@ -292,6 +292,7 @@ Sorted alphabetically by company name and product name.
 - [Sweet-P Plotter Brochure and Price List](https://archive.org/details/bitsavers_enterCompuersonalPlotterprricelistBrochure_4929854) – Four-page color marketing brochure with attached suggested retail price list.
 - [IEEE Electronic Systems News Autumn (1985)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5345111) – Review of the three-color Penman robotic plotter.
 - [Apple II Business Graphics Film (1982)](https://archive.org/details/apple-ii-business-graphics) – There's a Strobe Model 100 Graphics Plotter drawing bar charts at 4:57.
+- [Elektor Magazine Selbstbauplotter MONDRIAN II (1990) (German)](https://archive.org/details/elektor_202310) – Also see [a model of this plotter on GrabCAD](https://grabcad.com/library/plotter-mondrian-1).
 
 ### Papers
 

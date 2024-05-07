@@ -97,6 +97,7 @@
 - [GThumb](https://wiki.gnome.org/Apps/Gthumb) - Powerful and advanced application to manage your photos and images.
 - [ASCII Draw](https://github.com/Nokse22/ascii-draw) - Draw graphs and more using only characters.
 - [Switcheroo](https://gitlab.com/adhami3310/Switcheroo) - Image converter and manipulator ([ImageMagick](https://imagemagick.org) frontend). ![GNOME Circle][GNOME Circle]
+- [Mingle](https://github.com/halfmexican/mingle) - Application to combine emojis using Google's Emoji Kitchen.
 
 ### Scientific Tooling
 
@@ -127,6 +128,7 @@
 - [BoxBuddy](https://github.com/Dvlv/BoxBuddyRS) - Graphical Distrobox manager.
 - [Pods](https://github.com/marhkb/pods) - Podman containers manager.
 - [Ptyxis](https://gitlab.gnome.org/chergert/ptyxis) - Terminal with first-class support for containers.
+- [Damask](https://gitlab.gnome.org/subpop/damask) - Application that automatically sets wallpaper from a variety or sources (local folder, Wallhaven, Bing Wallpaper, NASA Astronomy, etc).
 
 ### Utilities
 
@@ -173,7 +175,7 @@
 - [Forge Sparks](https://github.com/rafaelmardojai/forge-sparks) - Git forge (GitHub, Gitea, Forgejo) desktop notification application. ![GNOME Circle][GNOME Circle]
 - [Turtle](https://gitlab.gnome.org/philippun1/turtle) - Tool to manage Git repositories within Nautilus by providing emblems and context menus.
 - [Biblioteca](https://github.com/workbenchdev/Biblioteca) - GNOME documentation (offline) reader with fuzzy search, dark mode and mobile support. ![GNOME Circle][GNOME Circle]
-- [Hieroglyphic](https://github.com/FineFindus/Hieroglyphic) - Application to search for LaTeX symbols by sketching.
+- [Hieroglyphic](https://github.com/FineFindus/Hieroglyphic) - Application to search for LaTeX symbols by sketching. ![GNOME Circle][GNOME Circle]
 
 #### Design Tooling
 

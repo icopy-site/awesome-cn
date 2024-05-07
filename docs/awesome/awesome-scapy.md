@@ -4,98 +4,102 @@
   <a href="https://scapy.net/"><img src="https://raw.githubusercontent.com/secdev/scapy/master/doc/scapy_logo.png" width="200" alt="Scapy" /></a>
 </p>
 
-使用 ** 的精选工具、附加组件、文章或炫酷漏洞利用列表[Scapy](https://scapy.net)**，基于 Python 的交互式数据包操作程序和库. 
-随意地 [contribute](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsecdev%2Fawesome-scapy%2Fedit%2Fmain%2FREADME.md)!
+A curated list of tools, add-ons, articles or cool exploits using **[Scapy](https://scapy.net)**, the Python-based interactive packet manipulation program & library. 
+Feel free to [contribute](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsecdev%2Fawesome-scapy%2Fedit%2Fmain%2FREADME.md)!
 
-你也可以 [explore Scapy topics](https://github.com/topics/scapy) 在 GitHub 上！
+You can also [explore Scapy topics](https://github.com/topics/scapy) on GitHub!
 
 
 
 ## Tools
 
-*使用 Scapy（很多）或扩展它的工具*
+*Tools that use Scapy (a lot) or extend it*
 
 Fun
-- [pwnagotchi](https://github.com/evilsocket/pwnagotchi)  - 你的 AI 宠物会破解 WiFI 以成长. 它超级可爱.
+- [pwnagotchi](https://github.com/evilsocket/pwnagotchi) - Your AI pet that hacks WiFI to grow. It's super cute.
 
 DDoS
-- [ufonet](https://github.com/epsylon/ufonet) - 创建您自己的僵尸网络以发送无法追踪的 DDoS 攻击.
+- [ufonet](https://github.com/epsylon/ufonet) - Create your own botnet to send untraceable DDoS attacks.
 
 Wi-Fi.
-- [trackerjacker](https://github.com/calebmadrigal/trackerjacker) - 通过原始 802.11 监控映射和跟踪 Wi-Fi 网络和设备.
-- [wifiphisher](https://github.com/wifiphisher/wifiphisher) - 创建流氓接入点.
+- [trackerjacker](https://github.com/calebmadrigal/trackerjacker) - Maps and tracks Wi-Fi networks and devices through raw 802.11 monitoring.
+- [wifiphisher](https://github.com/wifiphisher/wifiphisher) - Create rogue access point.
 
 IPv6
-- [Chiron](https://github.com/aatlasis/Chiron) - 一个 IPv6 安全评估框架.
-- [mitm6](https://github.com/fox-it/mitm6) - 为 IPv6 执行 MiTM.
+- [Chiron](https://github.com/aatlasis/Chiron) - An IPv6 security assessment framework.
+- [mitm6](https://github.com/fox-it/mitm6) - Performs MiTM for IPv6.
 
 Measurements
-- [mtraceroute](https://github.com/rwhalb/mtraceroute) - 通过多个跟踪路由分析创建很酷的图表.
-- [Network Security Toolkit (NST)](https://wiki.networksecuritytoolkit.org/nstwiki/index.php?title=HowTo_Use_The_Scapy:_Multi-Traceroute_-_MTR) - 包括具有 IP 地理定位和 GUI 管理功能的增强版“mtraceroute”.
-- [netprobify](https://github.com/criteo/netprobify)  - 专为数据中心打造的网络探测工具（但不仅如此）. 探测使用：TCP、UDP 或 ICMP.
+- [mtraceroute](https://github.com/rwhalb/mtraceroute) - Create cool graphs over multiple traceroute analysis.
+- [Network Security Toolkit (NST)](https://wiki.networksecuritytoolkit.org/nstwiki/index.php?title=HowTo_Use_The_Scapy:_Multi-Traceroute_-_MTR) - Includes an enhanced version of `mtraceroute` with IP Geolocation and GUI management.
+- [netprobify](https://github.com/criteo/netprobify) - Network probing tool crafted for datacenters (but not only). Probing using: TCP, UDP or ICMP.
 
 Protocols
-- [Cotopaxi](https://github.com/Samsung/cotopaxi) - 使用特定网络物联网协议（AMQP、CoAP、DTLS、HTCPCP、KNX、mDNS、MQTT、MQTT-SN、QUIC、RTSP、SSDP）对物联网设备进行安全测试的工具集.
-- [project-memoria-detector](https://github.com/Forescout/project-memoria-detector) - 确定网络设备是否运行特定的嵌入式 TCP/IP 堆栈.
-- [routopsy](https://github.com/sensepost/routopsy) - 攻击 DRP 和 FHRP 的工具包.
-- [TorPylle](https://github.com/cea-sec/TorPylle) - 实施 OR (TOR) 协议.
+- [Cotopaxi](https://github.com/Samsung/cotopaxi) - Set of tools for security testing of Internet of Things devices using specific network IoT protocols (AMQP, CoAP, DTLS, HTCPCP, KNX, mDNS, MQTT, MQTT-SN, QUIC, RTSP, SSDP) .
+- [project-memoria-detector](https://github.com/Forescout/project-memoria-detector) - Determine whether a network device runs a specific embedded TCP/IP stack.
+- [routopsy](https://github.com/sensepost/routopsy) - Toolkit to attack DRP & FHRP.
+- [TorPylle](https://github.com/cea-sec/TorPylle) - Implementation of the OR (TOR) protocol.
 
-单元测试
-- [Linux Kernel](https://github.com/torvalds/linux/blob/master/tools/testing/selftests/tc-testing/plugin-lib/scapyPlugin.py) - Linux 流量控制 (tc) 测试套件.
-- [OpenBSD](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Dscapy%2Brepo%253Aopenbsd%252Fsrc%2Bpath%253Aregress%252F%26type%3DCode%26ref%3Dadvsearch%26l%3D%26l%3D) - IPv6 堆栈测试套件.
-- [RIOT-OS](https://github.com/RIOT-OS/RIOT/search?l=Python&q=scapy&type=Code) - RIOT OS 网络测试套件.
+Unit Tests
+- [Linux Kernel](https://github.com/torvalds/linux/blob/master/tools/testing/selftests/tc-testing/plugin-lib/scapyPlugin.py) - Linux Traffic Control (tc) testing suite.
+- [OpenBSD](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Dscapy%2Brepo%253Aopenbsd%252Fsrc%2Bpath%253Aregress%252F%26type%3DCode%26ref%3Dadvsearch%26l%3D%26l%3D) - IPv6 stack testing suite.
+- [RIOT-OS](https://github.com/RIOT-OS/RIOT/search?l=Python&q=scapy&type=Code) - RIOT OS networking testing suite.
 
 Visualization
-- [Scapy-Packet-Viewer](https://pypi.org/project/scapy-packet-viewer/)  - 类似于 tshark/mitmproxy 的最小数据包查看器. 基于 urwid.
+- [Scapy-Packet-Viewer](https://pypi.org/project/scapy-packet-viewer/) - Minimal packet viewer similar to tshark/mitmproxy. Based on urwid.
 
 Misc
-- [aioblescan](https://github.com/frawau/aioblescan) - 扫描和解码公布的 BLE 信息.
-- [fenrir](https://github.com/Orange-Cyberdefense/fenrir-ocd) - 绕过有线 802.1x 保护.
-- [flowsynth](https://github.com/secureworks/flowsynth) - 快速建模网络流量的工具.
-- [Fragscapy](https://github.com/AMOSSYS/Fragscapy) - 通过自动修改传出网络数据包来模糊网络协议.
-- [Habu](https://github.com/fportantier/habu)  - 带有很多小黑客工具的工具包. 他们中的许多人使用 Scapy.
-- [mirage](https://redmine.laas.fr/projects/mirage) - 专用于无线通信安全分析的强大模块化框架.
-- [netenum](https://github.com/redcode-labs/Netenum) - 一种被动发现网络上活动主机的工具.
-- [net-creds](https://github.com/DanMcInerney/net-creds) - 嗅探并捕获界面上的所有敏感数据.
-- [packetweaver](https://github.com/ANSSI-FR/packetweaver) - 用于脚本归档和任务排序的 Python 框架.
-- [p0f3plus](https://github.com/FlUxIuS/p0f3plus) - 具有额外分析功能的实现.
-- [pysap](https://github.com/SecureAuthCorp/pysap) - 使用定制的框架和工具与 SAP 互动.
-- [Responder](https://github.com/SpiderLabs/Responder) - LLMNR、NBT-NS 和 MDNS 投毒者.
-- [scapy\_unroot](https://github.com/scapy-unroot/scapy_unroot) - 在没有 root 权限的情况下使用 Scapy 的工具.
-- [scapy-benchmarks](https://github.com/gpotter2/scapy-benchmarks) - 一个跟踪 Scapy 性能演变的小型测试套件.
-- [sshame](https://github.com/HynekPetrak/sshame) - 暴力破解 SSH 公钥身份验证的工具.
+- [aioblescan](https://github.com/frawau/aioblescan) - Scan and decode advertised BLE info.
+- [fenrir](https://github.com/Orange-Cyberdefense/fenrir-ocd) - Bypass wired 802.1x protection.
+- [flowsynth](https://github.com/secureworks/flowsynth) - Tool for rapidly modeling network traffic.
+- [Fragscapy](https://github.com/AMOSSYS/Fragscapy) - Fuzz network protocols by automating the modification of outgoing network packets.
+- [Habu](https://github.com/fportantier/habu) - Toolkit with a lot of little hacking tools. Many of them use Scapy.
+- [mirage](https://redmine.laas.fr/projects/mirage) - Powerful and modular framework dedicated to the security analysis of wireless communications.
+- [netenum](https://github.com/redcode-labs/Netenum) - A tool to passively discover active hosts on a network.
+- [net-creds](https://github.com/DanMcInerney/net-creds) - Sniff and catch all sensitive data on an interface.
+- [packetweaver](https://github.com/ANSSI-FR/packetweaver) - A Python framework for script filing and task sequencing.
+- [p0f3plus](https://github.com/FlUxIuS/p0f3plus) - An implementation of with extra analysis features.
+- [pysap](https://github.com/SecureAuthCorp/pysap) - Interact with SAP using custom built frames & tools.
+- [Responder](https://github.com/SpiderLabs/Responder) -  LLMNR, NBT-NS and MDNS poisoner.
+- [scapy\_unroot](https://github.com/scapy-unroot/scapy_unroot) - Tooling to use Scapy without root permissions.
+- [scapy-benchmarks](https://github.com/gpotter2/scapy-benchmarks) - A small test suite that tracks the evolution of Scapy's performance.
+- [sshame](https://github.com/HynekPetrak/sshame) - Tool to brute force SSH public-key authentication.
 - [TIDoS Framework](https://github.com/0xInfection/TIDoS-Framework) - The Offensive Manual Web Application Penetration Testing Framework.
 
 ## Exploits
 
- *利用 Scapy 的漏洞. 这不包括默认包含的那些*
+*Exploits that use Scapy. This does not count the ones included by default*
+
+2024
+
+- [PPPwn (CVE-2006-4304)](https://github.com/TheOfficialFloW/PPPwn) - Playstation 4 PPPoE RCE.
 
 2022
 
-- [CVE-2021-28444](http://blog.champtar.fr/VLAN0_LLC_SNAP) - Windows Hyper-V 安全功能绕过漏洞.
+- [CVE-2021-28444](http://blog.champtar.fr/VLAN0_LLC_SNAP) - Windows Hyper-V Security Feature Bypass Vulnerability.
 
 2021
 
-- [CVE-2021-24086](https://blog.quarkslab.com/analysis-of-a-windows-ipv6-fragmentation-vulnerability-cve-2021-24086.html) - Windows IPv6 碎片漏洞分析.
-- [fragattacks](https://github.com/vanhoefm/fragattacks) - 碎片和聚合攻击.
+- [CVE-2021-24086](https://blog.quarkslab.com/analysis-of-a-windows-ipv6-fragmentation-vulnerability-cve-2021-24086.html) - Analysis of a Windows IPv6 Fragmentation Vulnerability.
+- [fragattacks](https://github.com/vanhoefm/fragattacks) - Fragmentation & Aggregation Attacks.
 
 2020
 
-- [CVE-2020-25577](https://blog.quarkslab.com/bad-neighbor-on-freebsd-ipv6-router-advertisement-vulnerabilities-in-rtsold-cve-2020-25577.html) - FreeBSD 上的坏邻居：rtsold 中的 IPv6 路由器广告漏洞.
-- [CVE-2020-16898](https://blog.quarkslab.com/beware-the-bad-neighbor-analysis-and-poc-of-the-windows-ipv6-router-advertisement-vulnerability-cve-2020-16898.html) - 小心坏邻居：Windows IPv6 路由器广告漏洞的分析和 PoC.
+- [CVE-2020-25577](https://blog.quarkslab.com/bad-neighbor-on-freebsd-ipv6-router-advertisement-vulnerabilities-in-rtsold-cve-2020-25577.html) - Bad Neighbor on FreeBSD: IPv6 Router Advertisement Vulnerabilities in rtsold.
+- [CVE-2020-16898](https://blog.quarkslab.com/beware-the-bad-neighbor-analysis-and-poc-of-the-windows-ipv6-router-advertisement-vulnerability-cve-2020-16898.html) - Beware the Bad Neighbor: Analysis and PoC of the Windows IPv6 Router Advertisement Vulnerability.
 
 2019
-- [CVE-2019-5597](https://www.synacktiv.com/ressources/Synacktiv_OpenBSD_PacketFilter_CVE-2019-5597_ipv6_frag.pdf) - OpenBSD 数据包过滤器中的 IPv6 碎片漏洞.
+- [CVE-2019-5597](https://www.synacktiv.com/ressources/Synacktiv_OpenBSD_PacketFilter_CVE-2019-5597_ipv6_frag.pdf) - IPv6 fragmentation vulnerability in OpenBSD Packet Filter.
 
 2018
 
-- [CVE-2018-4407](https://github.com/r3dxpl0it/CVE-2018-4407) - XNU 操作系统内核（iOS 和 macOS）中网络代码中的堆缓冲区溢出.
+- [CVE-2018-4407](https://github.com/r3dxpl0it/CVE-2018-4407) - A heap buffer overflow in the networking code in the XNU operating system kernel (iOS and macOS).
 
 2017
-- [krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts) - 测试客户端或接入点 (AP) 是否受到针对 WPA2 的 KRACK 攻击的影响.
+- [krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts) - Test if clients or access points (APs) are affected by the KRACK attack against WPA2.
 
 2016
-- [CVE-2016-6366](https://github.com/RiskSense-Ops/CVE-2016-6366) - EXTRABACON 漏洞，由 Equation Group (NSA) 编写并由 Shadow Brokers 泄露的 Cisco ASA 远程代码执行.
+- [CVE-2016-6366](https://github.com/RiskSense-Ops/CVE-2016-6366) - The EXTRABACON exploit, a remote code execution for Cisco ASA written by the Equation Group (NSA) and leaked by the Shadow Brokers.
 
 Misc
-- [isf](https://github.com/dark-lbp/isf)  - ISF（工业控制系统开发框架）. 提供利用各种工业协议的套件.
+- [isf](https://github.com/dark-lbp/isf) - ISF (Industrial Control System Exploitation Framework). A suite that provides exploits various industrial protocols.
