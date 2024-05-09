@@ -106,6 +106,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 - [Justice40](https://screeningtool.geoplatform.gov/en/methodology) - The purpose of the tool is to help Federal agencies identify disadvantaged communities that are marginalized, underserved, and overburdened by pollution. Combines multiple data sources at the census tract level across eight categories of criteria.
 - [USDOT Equitable Transportation Community Explorer](https://experience.arcgis.com/experience/0920984aa80a4362b8778d779b090723/page/ETC-Explorer---Homepage/) - The U.S. DOT Equitable Transportation Community (ETC) Explorer is an interactive web application that uses 2020 Census Tracts and data, to explore the cumulative burden communities experience, as a result of underinvestment in transportation, in the following five components: Transportation Insecurity, Climate and Disaster Risk Burden, Environmental Burden, Health Vulnerability, and Social Vulnerability.
 - [STEAP](https://maps.dot.gov/fhwa/steap/) - The Screening Tool for Equity Analysis of Projects (STEAP) is a census sampling tool that allows rapid screening of potential project locations anywhere in the United States to support Title VI, environmental justice, and other socioeconomic data analyses.
+- [Tree Equity Score](https://www.treeequityscore.org/) - This dataset provides measures how well the critical benefits of urban tree canopy are reaching those who need them most in urbanized areas. 
 
 ### Health
 
@@ -373,6 +374,8 @@ Software, tools, and platforms intended to aid environmental planning or climate
 - [City Energy Analyst](https://cityenergyanalyst.com/) - A series of [open-source](https://github.com/architecture-building-systems/CityEnergyAnalyst) tools for the analysis and optimization of urban energy systems.
 - [EPA WARM Model](https://www.epa.gov/warm) - EPA created the Waste Reduction Model (WARM) to provide high-level estimates of potential greenhouse gas (GHG) emissions reductions, energy savings, and economic impacts from several different waste management practices.
 - [ENCORE](https://encore.naturalcapital.finance/en) - United Nations sponsored resource intended to explore dependencies on and impacts to our worlds stores of natural capital.
+- [LEARN](https://icleiusa.org/LEARN/) - This interactive web mapping tool was developed to help communities in the USA estimate the local greenhouse gas (GHG) impacts of their forests and trees.
+- [NatureServe Explorer](https://explorer.natureserve.org/) - NatureServe is the definitive online guide for information on over 100,000 rare and endangered species and ecosystems in the Americas.
 
 ### Geospatial Data and Visualization
 Software, tools, and platforms for geospatial visualization.

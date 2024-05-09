@@ -488,18 +488,18 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 #### Theory
 
-* [A Mathematical Theory of Communication](http://www.cs.yale.edu/homes/yry/readings/general/shannon1948.pdf) - ***The Bell System Technical Journal***, 1948. [[All Versions](https://scholar.google.com/scholar?cluster=8313213127749369813&hl=en&as_sdt=0,5)]. Shannon's original paper on Information Theory.
+* [A Mathematical Theory of Communication](http://www.cs.yale.edu/homes/yry/readings/general/shannon1948.pdf) - ***The Bell System Technical Journal***, 1948. [[All Versions](https://scholar.google.com/scholar?cluster=8313213127749369813)]. Shannon's original paper on Information Theory.
 
 
-* [Complexity and the representation of patterned sequences of symbols](https://psycnet.apa.org/record/1973-01647-001) - ***Psychological Review***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=3426861135318645138&hl=en&as_sdt=0,5)]. Herbert Simon's review on subjective complexity.
+* [Complexity and the representation of patterned sequences of symbols](https://psycnet.apa.org/record/1973-01647-001) - ***Psychological Review***, 1972. [[All Versions](https://scholar.google.com/scholar?cluster=3426861135318645138)]. Herbert Simon's review on subjective complexity.
 
-* [Visual Pattern Discrimination](https://ieeexplore.ieee.org/abstract/document/1057698) - ***IRE Transactions on Information Theory***, 1962. [[All Versions](https://scholar.google.com/scholar?cluster=10729525966103382864&hl=en&as_sdt=0,5)].
+* [Visual Pattern Discrimination](https://ieeexplore.ieee.org/abstract/document/1057698) - ***IRE Transactions on Information Theory***, 1962. [[All Versions](https://scholar.google.com/scholar?cluster=10729525966103382864)].
 
-* [Algorithmic Information Theory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5390997) - ***IBM Journal of Research and Development***, 1977. [[All Versions](https://scholar.google.com/scholar?cluster=14735710867906424793&hl=en&as_sdt=0,5)]. Chaitin's original paper on Algorithmic Information Theory.
+* [Algorithmic Information Theory](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5390997) - ***IBM Journal of Research and Development***, 1977. [[All Versions](https://scholar.google.com/scholar?cluster=14735710867906424793)]. Chaitin's original paper on Algorithmic Information Theory.
 
-* [From Algorithmic to Subjective Randomness](https://proceedings.neurips.cc/paper/2003/hash/b06b5541a62ed438f956b662b4e1ec28-Abstract.html) - ***NeurIPS'03***, 2003. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14721764738308036578)].
+* [From Algorithmic to Subjective Randomness](https://proceedings.neurips.cc/paper/2003/hash/b06b5541a62ed438f956b662b4e1ec28-Abstract.html) - ***NeurIPS'03***, 2003. [[All Versions](https://scholar.google.com/scholar?cluster=14721764738308036578)].
 
-* [On the Complexity of Bayesian Generalization](https://proceedings.mlr.press/v202/shi23i.html) - ***ICML'23***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=5817813824878811147&hl=en&as_sdt=0,5)]. [[Code](https://github.com/YuzheSHI/bayesian-generalization-complexity)]. [[Models](https://drive.google.com/file/d/1eCuFqBYN8kuiAmoVtXWedXW0r0TdY55W/view)]. A concept complexity account for rule- and similarity-based Bayesian concept generalization. 
+* [On the Complexity of Bayesian Generalization](https://proceedings.mlr.press/v202/shi23i.html) - ***ICML'23***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=5817813824878811147)]. [[Code](https://github.com/SHI-Yu-Zhe/bayesian-generalization-complexity)]. [[Models](https://drive.google.com/file/d/1eCuFqBYN8kuiAmoVtXWedXW0r0TdY55W/view)]. A concept complexity account for rule- and similarity-based Bayesian concept generalization. 
 
 
 #### Dimensionality Reduction
