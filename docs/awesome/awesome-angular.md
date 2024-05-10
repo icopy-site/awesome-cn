@@ -270,6 +270,7 @@ Table of contents:
 * [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) - `Ankit Sharma`
 * [Angular Cookbook - 80+ Recipes to enhance your Angular skills for enterprises](https://codewithahsan.dev/ng-book) - `Packt Publishing`
 * [Build a Frontend Web Framework (From Scratch)](https://www.manning.com/books/build-a-frontend-web-framework-from-scratch) - `Manning Publications`
+* [Modern Angular (FREE EBOOK)](https://www.angulararchitects.io/en/ebooks/modern-angular/?book) - `Manfred Steyer`
 
 #### On-Site Training
 
@@ -558,6 +559,15 @@ become an Angular expert.
 * [state-adapt](https://github.com/state-adapt/state-adapt) - Declarative, incremental state management library.
 * [ngx-signal-state](https://github.com/simplifiedcourses/ngx-signal-state) - Opinionated simple state management for Angular.
 * [mini-rx-store](https://github.com/spierala/mini-rx-store) - MiniRx is the reactive state management platform.
+
+#### Storage
+
+* [ngx-reactive-storage](https://github.com/e-oz/ngx-reactive-storage) - Wrapper around IndexedDB and localStorage that allows you to create databases and tables using a simple, promise-based API. Changes to the data can be seen with Angular Signals or RxJS Observables.
+* [ng2-webstorage](https://github.com/PillowPillow/ng2-webstorage) - LocalStorage and SessionStorage manager.
+* [ngx-indexed-db](https://github.com/assuncaocharles/ngx-indexed-db) - Wraps IndexedDB in an Angular service. 
+* [angular-async-local-storage](https://github.com/cyrilletuzi/angular-async-local-storage) - Efficient client-side storage for Angular: simple API + performance + Observables + validation.
+* [ng-web-apis/storage](https://github.com/taiga-family/ng-web-apis/blob/main/libs/storage/README.md) - This is a library to use Web Storage API with Angular.
+* [ngx-odm](https://github.com/voznik/ngx-odm) - Angular 14+ wrapper for RxDB.
 
 #### Tables
 
