@@ -94,6 +94,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | Play | Movie torrents | `1PLAYgDQboKojowD3kwdb3CtWmWaokXvfp` | `0play.bit` |
 | TV Episodes | Magnet links for TV episodes | `1MagneTSMMkNmJTMsTGJtfuNsqGjzzXgQv` | `tvmagnets.bit` |
 | eh anime? | Anime torrents | `1E8Z8sk3cGeWdQumBaYEh6LraqC2BRnutV` | N/A |
+| StreamZ | Real-time streaming platform for Zeronet | `1BTZh5pymEKzMYr3qgDtgr4dMmap77QvEs` | N/A |
 
 ### Books
 | Name | Description | Address | Domain Name |

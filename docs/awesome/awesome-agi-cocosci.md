@@ -506,15 +506,15 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [A global geometric framework for nonlinear dimensionality reduction](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1084.4695&rep=rep1&type=pdf) - ***Science***, 2000. [[All Versions](https://scholar.google.com/scholar?cluster=14602426245887619907)]. The original paper on spectrum clustering.
 
-* [Reducing the dimensionality of data with neural networks](https://asset-pdf.scinapse.io/prod/2100495367/2100495367.pdf) - ***Science***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=15344645275208957628&hl=en&as_sdt=0,5)]. The original paper on Variational Autoencoder.
+* [Reducing the dimensionality of data with neural networks](https://asset-pdf.scinapse.io/prod/2100495367/2100495367.pdf) - ***Science***, 2006. [[All Versions](https://scholar.google.com/scholar?cluster=15344645275208957628)]. The original paper on Variational Autoencoder.
 
-* [Representation Learning: A Review and New Perspectives](https://arxiv.org/pdf/1206.5538.pdf) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=559463397382443088&hl=en&as_sdt=0,5)]. Yoshua Bengio's review on representation learning.
+* [Representation Learning: A Review and New Perspectives](https://arxiv.org/pdf/1206.5538.pdf) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2013. [[All Versions](https://scholar.google.com/scholar?cluster=559463397382443088)]. Yoshua Bengio's review on representation learning.
 
-* [Representation Learning: A Statistical Perspective](http://www.stat.ucla.edu/~jxie/personalpage_file/publications/representation_learning_Review.pdf) - ***Annual Review of Statistics and Its Application***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=14358027809538175293&hl=en&as_sdt=2005&sciodt=0,5)]. Song-Chun Zhu and Ying Nian Wu's review on representation learning, in an account of statistics.
+* [Representation Learning: A Statistical Perspective](http://www.stat.ucla.edu/~jxie/personalpage_file/publications/representation_learning_Review.pdf) - ***Annual Review of Statistics and Its Application***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=14358027809538175293)]. Song-Chun Zhu and Ying Nian Wu's review on representation learning, in an account of statistics.
 
-* [Deep Learning and the Information Bottleneck Principle](http://robotics.caltech.edu/wiki/images/8/8f/DeepLearningBottleneck.pdf) - ***IEEE Information Theory Workshop'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=13152354842433826281&hl=en&as_sdt=0,5)]. The first paper identifying the problem of information bottleneck in representation learning.
+* [Deep Learning and the Information Bottleneck Principle](http://robotics.caltech.edu/wiki/images/8/8f/DeepLearningBottleneck.pdf) - ***IEEE Information Theory Workshop'15***, 2015. [[All Versions](https://scholar.google.com/scholar?cluster=13152354842433826281)]. The first paper identifying the problem of information bottleneck in representation learning.
 
-* [On the information bottleneck theory of deep learning](https://artemyk.github.io/assets/pdf/papers/Saxe%20et%20al_2019_On%20the%20information%20bottleneck%20theory%20of%20deep%20learning.pdf) - ***Journal of Statistical Mechanics: Theory and Experiment***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=12271240925674881982&hl=en&as_sdt=2005&sciodt=0,5)].
+* [On the information bottleneck theory of deep learning](https://artemyk.github.io/assets/pdf/papers/Saxe%20et%20al_2019_On%20the%20information%20bottleneck%20theory%20of%20deep%20learning.pdf) - ***Journal of Statistical Mechanics: Theory and Experiment***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=12271240925674881982)].
 
 
 #### Visual Complexity
