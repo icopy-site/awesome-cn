@@ -783,6 +783,7 @@
 - [Al Quran App-Vue 3](https://github.com/monayemislam/Al-Quran-Using-Vue) - Al Quran App that allows you to read surah with english meaning
 - [vue3-realworld-app](https://github.com/rofixro/vue3-realworld-app) - 🖖 Best practices for building RealWorld with Vue3
 - [slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
+- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - High-looking third-party NetEase cloud player, support Windows / macOS / Linux :electron:
 
 ### Commercial Products
 
@@ -1490,6 +1491,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 - [echarts-for-vue](https://github.com/ambit-tsai/echarts-for-vue) - ECharts Wrapper Component For Vue 3 and 2
 - [vue3-chart-v2](https://github.com/vutran6853/vue3-chart-v2) - Vue wrapper component base on Chart.JS for Vue 3
 - [vue-gauge](https://github.com/chrisheanan/vue-gauge) - Vue.js component to create animated svg gauge charts
+- [vue-echarts](https://github.com/ecomfe/vue-echarts) - Vue.js component for Apache ECharts™.
 
 #### Time
 
@@ -2464,6 +2466,7 @@ _Set of admin template_
 - [Dolphin Admin](https://github.com/bit-ocean-studio/dolphin-admin-vue) - An open source, free, lightweight, out-of-the-box, internationalized admin template based on Vue 3 + Vite + Naive UI + TypeScript + TailwindCSS. [Live demo](https://dolphin-admin-vue.bit-ocean.studio/)
 - [vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！ [Live demo](https://vben.vvbin.cn/)
 - [Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin) - A set of open source backend management framework based on Vue3 + TypeScript + Element Plus. [Live demo](https://admin.spicyboy.cn)
+- [gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin development basic platform. [Live demo](https://demo.gin-vue-admin.com)
 
 #### Server-side rendering
 
@@ -2669,6 +2672,7 @@ _Seamless scrolling_
 - [vue-router-webcache](https://github.com/Kolobok12309/vue-router-webcache) - Enable spa routing while in google/yandex/etc webcache.
 - [v-route-generate](https://github.com/weiquanju/v-route-generate) - A tool to generate routes for vue-router 4.x.
 - [kitbag/router](https://github.com/kitbagjs/router) - A type safe router for vuejs
+- [unplugin-vue-router](https://github.com/posva/unplugin-vue-router) - Next Generation file based typed routing for Vue Router.
 
 #### Lazy Load
 
@@ -2749,6 +2753,7 @@ _Seamless scrolling_
 - [vue-contextual-transition](https://github.com/beepy/vue-contextual-transition) Easy-ish cross-browser transitioning between pages with shared elements and/or sequential order
 - [blottie](https://github.com/Applelo/blottie) Lottie component for Vue 3
 - [vue-countup-v3](https://github.com/jizai1125/vue-countup-v3) A Vue 3 Component for animation counting.
+- [vue-starport](https://github.com/antfu/vue-starport) 🛰 Shared component across routes with animations
 
 #### Meta Tags
 
@@ -3504,6 +3509,7 @@ _Scaffold / boilerplate / seed / starter kits / stack ensemble / Yeoman generato
 - [vuejs-vuetify-structured-template boilerplate](https://github.com/huogerac/crud-vuetify-structured-template) - A vue-cli template for a full-featured Vuejs + Vuetify + Great structure + API Ready
 - [vue-component-starter](https://github.com/peterroe/vue-component-starter) - A template to help you create vue3.x component.
 - [Vue3-SPA-starter-template](https://github.com/M-Media-Group/Vue3-SPA-starter-template) - A starter kit with Router, Pinia, i18n, Stripe, Event Bus, SEO meta and schema tag handling, and more.
+- [vue-x-platforms](https://github.com/NativeScript/vue-x-platforms) - Vue running on Web, iOS, Android and Vision Pro.
 
 #### Client
 

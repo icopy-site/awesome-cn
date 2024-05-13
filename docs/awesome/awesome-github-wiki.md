@@ -17,7 +17,6 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 - [hyperledger/cacti](https://github.com/hyperledger/cacti/wiki)
 - [facebook/react-native](https://github.com/facebook/react-native/wiki)
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome/wiki)
-- [golang/go](https://github.com/golang/go/wiki)
 - [uber/NullAway](https://github.com/uber/NullAway/wiki)
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary/wiki)
 

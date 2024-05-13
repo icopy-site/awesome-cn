@@ -538,7 +538,7 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 #### Non-Verbal Communication
 
-* [The Interactive Evolution of Human Communication Systems](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1551-6709.2009.01090.x) - ***Cognitive Science***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=6689941517686043970&hl=en&as_sdt=0,5)]. Nicolas Fay's original paper on iconicity.
+* [The Interactive Evolution of Human Communication Systems](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1551-6709.2009.01090.x) - ***Cognitive Science***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=6689941517686043970)]. Nicolas Fay's original paper on iconicity.
 
 * [Iconicity: From sign to system in human communication and language](https://benjamins.com/catalog/pc.22.2.05fay) - ***Pragmatics & Cognition***, 2014. [[All Versions](https://scholar.google.com/scholar?cluster=8525760321117094567&hl=en&as_sdt=0,5)]. Nicolas Fay's account on the emergence of iconic language.
 

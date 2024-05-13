@@ -1,19 +1,19 @@
 <div class="github-widget" data-repo="sindresorhus/awesome"></div>
 <div align="center">
 	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg?sanitize=true" alt="Awesome">
-	<!-- <br>
+	<br>
 	<br>
 	<br>
 	<br>
 	<div>
-		<sub>Check out my latest app</sub>
+		<sub>Check out my macOS app</sub>
 		<br>
 		<h2>
-			<a href="https://sindresorhus.com/one-task">One Task</a>
+			<a href="https://www.producthunt.com/posts/day-progress">Day Progress</a>
 			<br>
-			<sup>Stop procrastination and get stuff done by focusing on one task at a time</sup>
+			<sup>Display the time remaining today in your menu bar</sup>
 		</h2>
-	</div> -->
+	</div>
 	<br>
 	<br>
 	<br>
