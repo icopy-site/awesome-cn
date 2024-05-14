@@ -72,6 +72,7 @@ A curated list of awesome companies that offer their tools and services for free
 
 - [Check my Website](https://checkmy.ws/) `requires-approval` - Automated website monitoring.
 - [Healthchecks.io](https://healthchecks.io/) `requires-approval` - Cron job monitoring.
+- [WebGazer](https://www.webgazer.io) `requires-approval` - Uptime and cron job monitoring with hosted status pages.
 
 ## Localization
 

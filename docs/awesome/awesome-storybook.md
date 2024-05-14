@@ -3,11 +3,11 @@
 
 [<img src="https://raw.githubusercontent.com/lauthieb/awesome-storybook/master/storybook-logo.svg?sanitize=true" align="right" width="80">](https://storybook.js.org)
 
-&gt; 关于 Storybook 生态系统的精选资源列表：艺术：
+> A curated list of awesome resources about Storybook's ecosystem :art:
 
-[Storybook](https://storybook.js.org) 是一个前端工具，用于更快、更轻松地构建 UI 组件.
+[Storybook](https://storybook.js.org) is a frontend tool for building UI components faster and easier.
 
-欢迎投稿. 通过拉取请求添加链接或创建问题以开始讨论.
+Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
 
 
@@ -25,19 +25,19 @@
 - [Discord](https://discordapp.com/invite/UUt2PJb)
 - [Medium](https://medium.com/storybookjs)
 - [DEV.to](https://dev.to/t/storybook)
-- [Brand's materials](https://github.com/storybookjs/brand) - 关于 Storybook 的文章和讨论的材料.
-- [Design system](https://storybooks-official.netlify.com) - Storybook 的网站设计系统.
-- [Storybook Deployer](https://github.com/storybookjs/storybook-deployer) - 用于将故事书部署为静态站点的包.
-- [Documentation Primitives](https://github.com/DAN-AKL/storybook-documentation-primitives) - 故事书文档的自定义 DocBlocks.
+- [Brand's materials](https://github.com/storybookjs/brand) - Materials for your articles and talks about Storybook.
+- [Design system](https://storybooks-official.netlify.com) - Storybook's website design system.
+- [Storybook Deployer](https://github.com/storybookjs/storybook-deployer) - Package for deploying your storybook as a static site.
+- [Documentation Primitives](https://github.com/DAN-AKL/storybook-documentation-primitives) - Custom DocBlocks for Storybook Docs.
 
 ## Tutorials
 
-- [Learn Storybook](https://www.learnstorybook.com/) - 一套学习 Storybook 的教程.
-- [Practical Guide to Storybook-Driven Development](https://dzone.com/articles/practical-guide-to-storybook-driven-development) - 关于如何使用 Storybook 工具作为模板化和推动开发工作的方法的教程.
-- [Adding Storybook Style Guide to a Create React App](https://www.youtube.com/watch?v=va-JzrmaiUM) - 关于如何在使用 Create React App 生成的应用程序中添加 Storybook 的教程.
-- [Build your components with Storybook](https://www.youtube.com/watch?v=_jttw14T52o) - 关于如何创建组件并在 Storybook 中公开它们的教程.
-- [Storybook React with Full Dark Mode Integration](https://davidyeiser.com/tutorials/storybook-react-with-dark-mode) - 有关如何将 Storybook 的暗模式切换与 React 组件集成的教程.
-- [Intro to Storybook with React [Tutorial &amp; Example]](https://snipcart.com/blog/storybook-react-tutorial-example) - 了解如何使用 React 在 Storybook 中构建 UI 组件，以实现从设计到实施的更好协作.
+- [Learn Storybook](https://www.learnstorybook.com/) - A set of tutorials to learn Storybook.
+- [Practical Guide to Storybook-Driven Development](https://dzone.com/articles/practical-guide-to-storybook-driven-development) - A tutorial on how to use the Storybook tool as a means of templating and driving forward your development efforts.
+- [Adding Storybook Style Guide to a Create React App](https://www.youtube.com/watch?v=va-JzrmaiUM) - A tutorial on how to add Storybook in an application generated with Create React App.
+- [Build your components with Storybook](https://www.youtube.com/watch?v=_jttw14T52o) - A tutorial on how to create your components and exposing them in a Storybook.
+- [Storybook React with Full Dark Mode Integration](https://davidyeiser.com/tutorials/storybook-react-with-dark-mode) - A tutorial on how to integrate Storybook’s dark mode toggle with your React components.
+- [Intro to Storybook with React [Tutorial & Example]](https://snipcart.com/blog/storybook-react-tutorial-example) - Learn how to build UI components in Storybook with React for better collaboration from design to implementation.
 
 ## Presentations
 
@@ -48,18 +48,18 @@
 
 ## Blog posts
 
-- [How I manage to make my Storybook project the most efficient possible](https://dev.to/loicgoyet/how-i-manage-to-make-my-storybook-project-the-most-efficient-possible-2d8o) - 一组有用的提示，可帮助您管理 Storybook 项目.
-- [Storybook 5.2](https://medium.com/storybookjs/storybook-5-2-794958b9b111) - 世界一流的设计系统基础设施.
-- [Storybook DocsPage](https://medium.com/storybookjs/storybook-docspage-e185bc3622bf) - 漂亮的文档，即刻.
-- [Storybook Docs sneak peek](https://medium.com/storybookjs/storybook-docs-sneak-peak-5be78445094a) - 将故事变成活文档.
-- [Storybook 5.0](https://medium.com/storybookjs/storybook-5-0-db1d0f9c83b8) - 关于迄今为止最大版本的功能展示.
-- [Real-time accessibility testing with Storybook](https://medium.com/storybookjs/instant-accessibility-qa-linting-in-storybook-4a474b0f5347) - Storybook 中提供的可访问性测试工具的全面概述.
-- [Using Storybook with VueJS](https://auth0.com/blog/using-storybook-with-vuejs/) - 了解如何使用 Vue 和 Storybook 构建组件库以创建模块化和可重用的组件.
-- [Setting up Storybook for Preact](https://www.iamdeveloper.com/posts/setting-up-storybook-for-preact-p5a/) - 一个方便的指南，让我们可以轻松地在 Preact 项目中添加故事书.
-- [Setting up a Component Library with React and Storybook](https://auth0.com/blog/setting-up-a-component-library-with-react-and-storybook/) - 了解如何使用 React 和 Storybook 设置组件库，以创建可跨项目共享的模块化和可重用组件.
-- [Storybook - UI component development tool for React, Vue, and Angular (Article focusing on React)](https://dev.to/madhusudhansrinivas/storybook---ui-component-development-tool-for-react-vue-and-angular-article-focusing-on-react-29od) - Storybook 的简要介绍以及如何在 React 应用程序上进行设置.
-- [Storybook vs Styleguidist](https://blog.hichroma.com/storybook-vs-styleguidist-2bd93d6dcc06) - 顶级 UI 组件浏览器的比较.
-- [Five Reasons to Use Storybook Tests](https://spin.atomicobject.com/2017/11/20/storybook-tests-react/) - Storybook 的不同测试解决方案的完整演练：简单的跨浏览器视觉检查、交互测试和用于快照测试的 StoryShots.
+- [How I manage to make my Storybook project the most efficient possible](https://dev.to/loicgoyet/how-i-manage-to-make-my-storybook-project-the-most-efficient-possible-2d8o) - A set of useful tips to help you manage a Storybook project.
+- [Storybook 5.2](https://medium.com/storybookjs/storybook-5-2-794958b9b111) - World-class design systems infrastructure.
+- [Storybook DocsPage](https://medium.com/storybookjs/storybook-docspage-e185bc3622bf) - Beautiful documentation, instantly.
+- [Storybook Docs sneak peek](https://medium.com/storybookjs/storybook-docs-sneak-peak-5be78445094a) - Turning stories into living documentation.
+- [Storybook 5.0](https://medium.com/storybookjs/storybook-5-0-db1d0f9c83b8) - A features' showcase about the biggest release to date.
+- [Real-time accessibility testing with Storybook](https://medium.com/storybookjs/instant-accessibility-qa-linting-in-storybook-4a474b0f5347) - A comprehensive overview of the accessibility testing tools offered in Storybook.
+- [Using Storybook with VueJS](https://auth0.com/blog/using-storybook-with-vuejs/) - Learn how to build a component library with Vue and Storybook to create modular and reusable components.
+- [Setting up Storybook for Preact](https://www.iamdeveloper.com/posts/setting-up-storybook-for-preact-p5a/) - A handy guide allowing us to add storybook easily on a Preact project.
+- [Setting up a Component Library with React and Storybook](https://auth0.com/blog/setting-up-a-component-library-with-react-and-storybook/) - Learn how to set up a component library with React and Storybook to create modular and reusable components that can be shared across projects.
+- [Storybook - UI component development tool for React, Vue, and Angular (Article focusing on React)](https://dev.to/madhusudhansrinivas/storybook---ui-component-development-tool-for-react-vue-and-angular-article-focusing-on-react-29od) - A brief presentation of Storybook and how to setup on a React application.
+- [Storybook vs Styleguidist](https://blog.hichroma.com/storybook-vs-styleguidist-2bd93d6dcc06) - A comparison of the top UI component explorers.
+- [Five Reasons to Use Storybook Tests](https://spin.atomicobject.com/2017/11/20/storybook-tests-react/) - A complete walkthrough of different testing solutions for Storybook: Easy Cross-Browser Visual Checks, Interaction Testing and StoryShots for Snapshot Testing.
 
 ## Examples
 
@@ -74,17 +74,18 @@
 - [Apideck Components](https://www.apideck.design/)
 - [Qui - Vue 2/3 Design system](https://github.com/Qvant-lab/qui-max)
 - [Mística Design system](https://mistica-web.vercel.app/?path=/story/welcome-welcome--mistica)
+- [Recharts](https://recharts.org/en-US/storybook)
 
 ## Addons
 
-官方和社区插件列表可在故事书 [Addon Page](https://storybook.js.org/addons/).
+The official & community addons lists are available on the Storybook's [Addon Page](https://storybook.js.org/addons/).
 
 ## Contributing
 
-欢迎投稿！ 阅读 [contribution guidelines](https://github.com/lauthieb/awesome-storybook/blob/master/CONTRIBUTING.md) 第一的.
+Contributions welcome! Read the [contribution guidelines](https://github.com/lauthieb/awesome-storybook/blob/master/CONTRIBUTING.md) first.
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Laurent Thiebault](https://lauthieb.github.io) 已放弃该作品的所有版权和相关或邻接权.
+To the extent possible under law, [Laurent Thiebault](https://lauthieb.github.io) has waived all copyright and related or neighboring rights to this work.

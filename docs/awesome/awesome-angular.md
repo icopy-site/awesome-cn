@@ -160,11 +160,6 @@ Table of contents:
 * [Rainer Hahnekamp](https://medium.com/@rainer-hahnekamp)
 * [Evgeniy OZ](https://medium.com/@eugeniyoz)
 
-#### Material Design
-
-* [Official Angular Material Design (GitHub)](https://github.com/angular/material2)
-* [MDBootstrap](https://github.com/mdbootstrap/mdb-angular-ui-kit) - Angular 16 & Bootstrap 5 & Material Design 2.0 UI KIT.
-
 #### Cheatsheet
 
 * [Official Angular Cheatsheet](https://angular.io/guide/cheatsheet)
@@ -536,6 +531,7 @@ become an Angular expert.
 * [ngworker](https://github.com/ngworker/ngworker) - Monorepo for the @ngworker NPM organization. Packages for Angular applications and testing.
 * [myndpm](https://github.com/myndpm/open-source) - Open Source Angular Libraries contributed by @myndpm.
 * [jscutlery devkit](https://github.com/jscutlery/devkit) - Tools that make Angular developer's life easier.
+* [angular components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular.
 
 #### Modals
 
@@ -615,6 +611,8 @@ become an Angular expert.
 
 ##### Material Based
 
+* [MDBootstrap](https://github.com/mdbootstrap/mdb-angular-ui-kit) - Bootstrap 5 & Angular 17 UI KIT - 700+ components, MIT license, simple installation.
+* [Angular Material](https://material.angular.io/) - Material Design components for Angular.
 * [Covalent](https://github.com/Teradata/covalent/) - Teradata UI Platform built on Angular Material.
 * [IgniteUI Angular](https://github.com/IgniteUI/igniteui-angular) - Ignite UI for Angular is a complete library of Angular-native, Material-based Angular UI components with the fastest grids, charts, and more.
 * [Alyle UI](https://github.com/A-l-y-l-e/Alyle-UI) - Minimal Design, a set of components for Angular 16+.
@@ -624,7 +622,6 @@ become an Angular expert.
 * [angular-material-extensions/password-strength](https://github.com/angular-material-extensions/password-strength) - Angular UI library to illustrate and validate a **password**'s strength with material design.
 * [angular-jqwidgets](https://www.jqwidgets.com/angular/) - Advanced Angular Components with Material Design.
 * [angular material components](https://github.com/h2qutc/angular-material-components) -  Angular Material Library provide extra components for every project.
-* [angular components](https://github.com/angular/components) - Component infrastructure and Material Design components for Angular.
 
 ##### Bootstrap Based
 

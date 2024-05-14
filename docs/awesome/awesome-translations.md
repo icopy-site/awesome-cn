@@ -59,6 +59,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 ### Automatic translation for end users
 - [Bergamot](https://github.com/browsermt) - Client-side translation in the browser.
+- [Alexa Translations](https://alexatranslations.com/) - Alexa Translations A.I. brings leading AI and machine translation to the legal, financial and government sectors. 
 - [Watson Language Translator](https://www.ibm.com/cloud/watson-language-translator) - A service on the IBM Cloud that enables dynamically translation news, patents, or conversational documents.
 - [DeepL Translator](https://www.deepl.com/) - A neural machine translation service launched in August 2017 and owned by Cologne based DeepL SE.
 - [Amazon Translate](https://aws.amazon.com/translate/) - A neural machine translation service.
