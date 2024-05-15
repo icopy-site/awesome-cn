@@ -70,6 +70,8 @@ From monthly subscription to commodity-like on-the-go consumption, there's plent
 
 - [The 5 Pillars of PriceOps](https://priceops.org) - A manifesto inspired by the DevOps movement in which pricing is no longer ossified, but is practiced as a responsive iteration process, and implemented as a flexible property of the system.
 
+- [SaaS pricing explorer](https://explorer.hyperline.co) - A collection of 1000+ pricing pages for inspiration.
+
 ### Usage-based Pricing
 
 The dynamic scheme for elastic resources.
@@ -681,6 +683,8 @@ A bunch of resources to keep track of the current status and progress of all com
 - [Engineering and Operations in the Bell System](http://bitsavers.trailing-edge.com/communications/westernElectric/books/Engineering_and_Operations_in_the_Bell_System_2ed_1984.pdf) - Starting at page #445, the "10.5 Billing Equipment and Systems" section describe the history and technical evolutions of Bell's phone calls metering and pricing.
 
 - [The vanished grandeur of accounting](https://www.bostonglobe.com/ideas/2014/06/07/the-vanished-grandeur-accounting/3zcbRBoPDNIryWyNYNMvbO/story.html) - Accounting paintings were a significant genre in Dutch art.
+
+- [Graphic methods for presenting facts](https://archive.org/details/graphicmethodsfo00brinrich/page/336/mode/2up?view=theater&ui=embed&wrapper=false) - A way to optimize pricing using a physical model made in plaster of Paris, from 1914.
 
 ## Humour
 

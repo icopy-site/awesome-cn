@@ -21,6 +21,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ### Articles
 
 - [Our Approach to Employee Security Training](https://www.pagerduty.com/blog/security-training-at-pagerduty/) - _Pager Duty_ - Guidelines to running security training within an organisation.
+- [DevSecOps: Making Security Central To Your DevOps Pipeline](https://spacelift.io/blog/what-is-devsecops) - _Spacelift_ - An article explains what DevSecOps aims to achieve, why it’s advantageous, and how the DevSecOps lifecycle looks.
 
 ### Books
 
@@ -28,7 +29,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Communities
 
-- [MyDevSecOps](https://www.mydevsecops.io/) - _Snyk_ - A community that runs conferences, a blog, a podcast and a Slack workspace dedicated to DevSecOps.
+- [DevSecCon](https://www.devseccon.com/) - _Snyk_ - A community that runs conferences, a blog, a podcast and a Discord dedicated to DevSecOps.
+- [TAG Security](https://tag-security.cncf.io/) - _Cloud Native Computing Foundation_ - TAG Security facilitates collaboration to discover and produce resources that enable secure access, policy control, and safety for operators, administrators, developers, and end-users across the cloud native ecosystem.
 
 ### Conferences
 
@@ -36,6 +38,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [DevSecCon](https://www.devseccon.com/) - _Snyk_ - A network of DevSecOps conferences run by Snyk.
 
 ### Newsletters
+
 - [Shift Security Left](https://shift-security-left.curated.co/) - _Cossack Labs_ - A free biweekly newsletter for security-aware developers covering application security, secure architecture, DevSecOps, cryptography, incidents, etc. that can be useful for builders and (to a lesser extent) for breakers. 
 
 ### Podcasts
@@ -100,7 +103,7 @@ Open source software packages can speed up the development process by allowing d
 - [NPM Audit](https://docs.npmjs.com/cli/audit) - _NPM_ - Vulnerable package auditing for node packages built into the npm CLI.
 - [Renovate](https://renovate.whitesourcesoftware.com/) - _WhiteSource_ - Automatically monitor and update software dependencies for multiple frameworks and languages using a CLI or git repository apps.
 - [Requires.io](https://requires.io/) - _Olivier Mansion & Alexis Tabary_ - Automated vulnerable dependency monitoring and upgrades for Python projects.
-- [Snyk Open Source](https://snyk.io/) - _Snyk_ - Automated vulnerable dependency monitoring and upgrades using Snyk's dedicated vulnerability database.
+- [Snyk Open Source](https://snyk.io/product/open-source-security-management/) - _Snyk_ - Automated vulnerable dependency monitoring and upgrades using Snyk's dedicated vulnerability database.
 
 ### Dynamic Analysis
 
@@ -130,10 +133,10 @@ Infrastructure as Code allows applications to be deployed reliably to a consiste
 
 <!-- omit in toc -->
 #### Containers
-- [Anchore Engine](https://anchore.com/opensource/) - _Anchore, Inc_ - Deep inspection of Docker images for CVEs and checking against custom policies. Engine behind their enterprise products that integrate against registries, orchestrators and CI/CD products.
-- [Clair](https://github.com/quay/clair) - _Quay_ - Scan App Container and Docker containers for publicly disclosed vulnerabilities.
+- [Clair](https://github.com/quay/clair) - _Red Hat_ - Scan App Container and Docker containers for publicly disclosed vulnerabilities.
 - [Dagda](https://github.com/eliasgranderubio/dagda/) - _Elías Grande_ - Compares OS and software dependency versions installed in Docker containers with public vulnerability databases, and also performs virus scanning.
 - [Docker-Bench-Security](https://github.com/docker/docker-bench-security) - _Docker_ - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
+- [Grype](https://github.com/anchore/grype/) - _Anchore_ - An easy-to-integrate open source vulnerability scanning tool for container images and filesystems.
 - [Hadolint](https://github.com/hadolint/hadolint) - _Hadolint_ - Checks a Dockerfile against known rules and validates inline bash code in RUN statements.
 - [Snyk Container](https://snyk.io/product/container-vulnerability-management/) - _Snyk_ - Scan Docker and Kubernetes applications for security vulnerabilities during CI/CD or via continuous monitoring.
 - [Trivy](https://github.com/aquasecurity/trivy) - _Aqua Security_ - Simple and comprehensive vulnerability scanner for containers.
@@ -161,14 +164,19 @@ Intentionally vulnerable applications are often useful when developing security 
 - [Cfngoat](https://github.com/bridgecrewio/cfngoat) - _Bridgecrew_ - Cloud Formation templates for creating stacks of intentionally insecure services in AWS. Ideal for testing the Cloud Formation Infrastructure as Code Analysis tools above.
 - [Damn Vulnerable Web App](http://www.dvwa.co.uk/) - _Ryan Dewhurst_ - A web application that provides a safe environment to understand and exploit common web vulnerabilities.
 - [Juice Shop](https://github.com/bkimminich/juice-shop) - _OWASP_ - A web application containing the OWASP Top 10 security vulnerabilities and more.
+- [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) - _Madhu Akula_ - Intentionally vulnerable cluster environment to learn and practice Kubernetes security.
 - [NodeGoat](https://github.com/OWASP/NodeGoat) - _OWASP_ - A Node.js web application that demonstrates and provides ways to address common security vulnerabilities.
+- [Pentest-Ground](https://pentest-ground.com/) - _Pentest-Tools.com_ - Pentest-Ground is a free playground with deliberately vulnerable web applications and network services.
 - [Terragoat](https://github.com/bridgecrewio/terragoat) - _Bridgecrew_ - Terraform templates for creating stacks of intentionally insecure services in AWS, Azure and GCP. Ideal for testing the Terraform Infrastructure as Code Analysis tools above.
 - [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) - _OWASP_ - A collection of vulnerable web applications for learning purposes.
+- [WrongSecrets](https://github.com/OWASP/wrongsecrets) - _OWASP_ - Vulnerable app with examples showing how to not use secrets
+
 
 ### Monitoring
 It's not enough to test and harden our software in the lead up to a release. We must also monitor our production software for usage, performance and errors to capture malicious behavior and potential security flaws that we may need to respond to or address. A wide variety of tools are available to monitor different aspects of production software and infrastructure.
 
 - [Csper](https://csper.io/report-uri) - _Csper_ - A set of Content Security Policy tools that can test policies, monitor CSP reports and provide metrics and alerts.
+- [Streamdal](https://streamdal.com) - _Streamdal_ - Embed privacy controls in your application code to detect and monitor PII as it enters and leaves your systems, preventing it from reaching unintended databases, data streams, or pipelines.
 
 ### Secrets Management
 
@@ -236,6 +244,7 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 <!-- omit in toc -->
 #### Configuration Files
 - [Conftest](https://github.com/instrumenta/conftest) - _Instrumenta_ - Create custom tests to scan any configuration file for security flaws.
+- [Selefra](https://github.com/selefra/selefra) - _Selefra_ - An open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
 
 <!-- omit in toc -->
 #### Java
@@ -283,8 +292,10 @@ Static Analysis Security Testing (SAST) tools scan software for vulnerabilities 
 Supply chain attacks come in different forms, targeting parts of the SDLC that are inherently 3rd party: tools in CI, external code that's been executed, and more. Supply chain security tooling can defend against these kinds of attacks.
 
 - [Harden Runner GitHub Action](https://github.com/step-security/harden-runner) - _StepSecurity_ - installs a security agent on the GitHub-hosted runner (Ubuntu VM) to prevent exfiltration of credentials, detect compromised dependencies and build tools, and detect tampering of source code during the build.
+- [Overlay](https://github.com/os-scar/overlay) - _SCAR_ - a browser extension helping developers evaluate open source packages before picking them.
 - [Preflight](https://github.com/spectralops/preflight) - _Spectral_ - helps you verify scripts and executables to mitigate supply chain attacks in your CI and other systems, such as in the recent [Codecov hack](https://spectralops.io/blog/credentials-risk-supply-chain-lessons-from-the-codecov-breach/).
 - [Sigstore](https://www.sigstore.dev/) - sigstore is a set of free to use and open source tools, including [fulcio](https://github.com/sigstore/fulcio), [cosign](https://github.com/sigstore/cosign) and [rekor](https://github.com/sigstore/rekor), handling digital signing, verification and checks for provenance needed to make it safer to distribute and use open source software.
+- [Syft](https://github.com/anchore/syft/) - _Anchore_ - A CLI tool for generating a Software Bill of Materials (SBOM) from container images and filesystems.
 
 ### Threat Modelling
 
@@ -302,6 +313,7 @@ Threat modelling is an engineering exercise that aims to identify threats, vulne
 ## Related Lists
 
 - [Awesome Dynamic Analysis](https://github.com/analysis-tools-dev/dynamic-analysis/) - _Matthias Endler_ - A collection of dynamic analysis tools and code quality checkers.
+- [Awesome Platform Engineering](https://github.com/shospodarets/awesome-platform-engineering/) - A curated list of solutions, tools and resources for _Platform Engineering_
 - [Awesome Static Analysis](https://github.com/analysis-tools-dev/static-analysis/) - _Matthias Endler_ - A collection of static analysis tools and code quality checkers.
 - [Awesome Threat Modelling](https://github.com/hysnsec/awesome-threat-modelling) - _Practical DevSecOps_ - A curated list of threat modeling resources.
 - [Vulnerable Web Apps Directory](https://owasp.org/www-project-vulnerable-web-applications-directory) - _OWASP_ - A collection of vulnerable web applications for learning purposes.
