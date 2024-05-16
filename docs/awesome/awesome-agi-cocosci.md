@@ -572,7 +572,7 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [Pragmatic Language Interpretation as Probabilistic Inference](https://www.sciencedirect.com/science/article/pii/S136466131630122X) - ***Trends in Cognitive Sciences***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=11393505968563356130)]. Noah Goodman and Micheal Frank's review on Rational Speech Act.
 
-* [Pragmatic Reasoning through Semantic Inference](http://cocolab.stanford.edu/papers/BergenLevyGoodman-LexUnc.pdf) - ***Semantics & Pragmatics***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=1433855075217315997&hl=en&as_sdt=2005&sciodt=0,5)].
+* [Pragmatic Reasoning through Semantic Inference](http://cocolab.stanford.edu/papers/BergenLevyGoodman-LexUnc.pdf) - ***Semantics & Pragmatics***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=1433855075217315997)].
 
 * [Processing gradable adjectives in context: A visual world study](https://semantics.uchicago.edu/kennedy/docs/processing.pdf) - ***Semantics and Linguistic Theory***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=13426776838629402579&hl=en&as_sdt=2005&sciodt=0,5)]. Adjective understanding as a rational inference in the context.
 

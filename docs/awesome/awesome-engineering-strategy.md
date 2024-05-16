@@ -53,6 +53,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Combining Engineering Strategy with the North Star Framework ⭐](https://learnings.aleixmorgadas.dev/p/combining-engineering-strategy-with) - How to combine an engineering strategy with the north star framework to be guided by actionable metrics.
 - [Engineering strategy beyond good and best practices](https://learnings.aleixmorgadas.dev/p/engineering-strategy-beyond-good) - How only investing on good and best engineering practices won't position your company ahead of the competition that makes context specific decisions.
 - [You need to understand the business to design a good engineering strategy](https://learnings.aleixmorgadas.dev/p/you-need-to-understand-the-business) - A set of relevant aspects of the business that help people to have a broader understanding to improve their engineering strategy with a set of questions to ask to the domain experts.
+- [Basal Cost of software](https://www.eferro.net/2021/02/basal-cost-of-software.html) - How the basal cost, composed of direct impact on team capacity of the added complexity and the cost of the  development or evolution of other features, affects the existing systems and teams to deliver value.
 
 
 ## Videos

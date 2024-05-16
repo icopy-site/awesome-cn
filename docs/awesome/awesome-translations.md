@@ -99,6 +99,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Pootle](https://github.com/translate/pootle) - An online translation management tool with a translation interface focused on localization of applications' graphical user interfaces. It is used by LibreOffice.
 - [Globalize](https://github.com/globalizejs/globalize) - A JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data.
 - [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) - A CLI for finding translation keys in project files.
+- [Ninja i18n](https://inlang.com/m/3gk8n4n4/app-inlang-ninjaI18nAction) - A GitHub action for translation linting in pull requests.
 
 ## Articles
 

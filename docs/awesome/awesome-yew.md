@@ -78,7 +78,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [Puzzle Cube](https://github.com/wainwrightmark/puzzle_cube) - Rubix Cube solver using Rust and Yew, [Live Demo](https://wainwrightmark.github.io/puzzle_cube/).
 - [CubeShuffle](https://github.com/philipborg/CubeShuffle) - Card game shuffling utility built with Rust, Yew, Bulma and Tauri.
 - [Rust Audio](https://github.com/austintheriot/audio) - Realtime audio processing / synthesis using Rust/WASM in the browser, [Live Demo](https://austintheriot.github.io/audio/).
-- [Kiomet](https://kiomet.com) - An online real-time strategy game in which you expand your territory by capturing towers.
+- [Kiomet](https://github.com/SoftbearStudios/kiomet) - An online real-time strategy game in which you expand your territory by capturing towers.
 - [Portfolio website](https://github.com/simbleau/website) - A portfolio SPA with accessibility built-in by Spencer Imbleau.
 - [tchatche.rs](https://github.com/nag763/tchatchers) - A Websocket chat based application built in Yew and Axum.
 - [viz.rs](https://github.com/viz-rs/viz-rs.github.io) - A website for viz web framework, [Live Demo](https://viz.rs/).
@@ -95,6 +95,20 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [RustedLessPass](https://github.com/RustedLessPass/RustedLessPass) - A stateless password manager. [Web App](https://rustedlesspass.github.io/).
 - [windows-terminal-theme-generator](https://github.com/LelouchFR/windows-terminal-theme-generator/) - Simplify your life to create a windows terminal theme. [Live Demo](https://windows-terminal-theme-generator.netlify.app/)
 - [SandCat](https://github.com/Xu-Mj/sandcat) - The software has primarily implemented the basic functionalities of an IM application, which includes a fundamental friend system, one-on-one chat, group chat, and one-on-one audio/video calls. It also supports i18n and currently offers a switch between Chinese and English.
+- [PinePods](https://github.com/madeofpendletonwool/PinePods) - PinePods is a Rust based podcast management system that manages podcasts with multi-user support and relies on a central database with clients to connect to it.
+- [0721](https://github.com/langyo/0721) - The engine of image hosting written in Rust.
+- [Hikari](https://github.com/celestia-island/hikari) - The Frontend of Everything.
+- [simply-view-image-for-python-debugging](https://github.com/elazarcoh/simply-view-image-for-python-debugging?tab=readme-ov-file) - Visual studio code extension simply view the image of the image variables when debugging python.
+- [Mindsweeper](https://github.com/AlexBuz/mindsweeper) - A principled take on minesweeper, [Live Demo](https://alexbuz.github.io/mindsweeper/).
+- [scap-rs](https://github.com/emo-crab/scap-rs) - National Vulnerability Database (NVD) implemented by Rust, [Live Demo](https://scap.kali-team.cn/).
+- [Sentry Relay](https://github.com/getsentry/relay) - The Sentry Relay is a service that pushes some functionality from the Sentry SDKs as well as the Sentry server into a proxy process.
+- [Syre](https://github.com/syre-data/syre) - Scientific data management and insights.
+- [candle-wasm-examples](https://github.com/huggingface/candle) - Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use. Try our online demos: [whisper](https://huggingface.co/spaces/lmz/candle-whisper), [LLaMA2](https://huggingface.co/spaces/lmz/candle-llama2), [T5](https://huggingface.co/spaces/radames/Candle-T5-Generation-Wasm), [yolo](https://huggingface.co/spaces/lmz/candle-yolo), [Segment
+Anything](https://huggingface.co/spaces/radames/candle-segment-anything-wasm).
+- [chipbox](https://github.com/chipnertkj/chipbox) - chipbox is an open-source desktop DAW written in Rust.
+- [Taxy](https://github.com/picoHz/taxy/tree/main) - A reverse proxy server with built-in WebUI, supporting TCP/HTTP/TLS/WebSocket, written in Rust.
+- [Proxelar](https://github.com/emanuele-em/proxelar) - Rust-based Man in the Middle proxy, an early-stage project aimed at providing visibility into network traffic.
+- [diff.rs](https://github.com/xfbs/diff.rs) - Web application to render a diff between Rust crate versions. Implemented in Yew, runs fully in the browser as WebAssembly, [Live Demo](https://diff.rs).
 
 ## Templates
 
@@ -231,6 +245,7 @@ Yew team love to share ideas with other projects and believe we can all help eac
 - [Smithy](https://github.com/rbalicki2/smithy) - A framework for building WebAssembly apps in Rust.
 - [Dioxus](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
 - [Sycamore](https://github.com/sycamore-rs/sycamore) - A reactive library for creating web apps in Rust and WebAssembly.
+- [Leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 
 ## Related lists
 

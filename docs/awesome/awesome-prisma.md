@@ -26,6 +26,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 
 ## :safety_vest: Community Prisma Tools
 
+- [Prisma Audit Trails](https://github.com/BemiHQ/bemi-prisma)
 - [Prisma 2 Scratchpad](https://github.com/ctrlplusb/prisma2-template)
 - [nx-nest-graphql](https://github.com/beeman/nx-nest-graphql)
 - [Pal.js - CLI to start Prisma and GraphQl projects with just 2 commands](https://paljs.com)
@@ -55,6 +56,7 @@ This is a collection of **awesome resources** about [Prisma](https://www.prisma.
 - [Prisma Yup Generator - Prisma 2+ generator to emit Yup schemas from your Prisma schema](https://github.com/omar-dulaimi/prisma-yup-generator)
 - [Schemix - Generate Prisma Schemas with TypeScript](https://github.com/ridafkih/schemix)
 - [Prismock - Run tests in isolation with an in-memory implementation of Prisma](https://github.com/morintd/prismock)
+- [prisma-ast - A Builder object to programmatically query and edit your schema.prisma files](https://github.com/MrLeebo/prisma-ast)
 
 ### :man_technologist: Prisma Clients
 

@@ -46,6 +46,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [BStone](https://github.com/bibendovsky/bstone) - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
 - [CatacombGL](https://github.com/ArnoAnsems/CatacombGL) - Windows source port of Catacomb 3D and the Catacomb Adventure series.
 - [Chocolate Doom](https://github.com/chocolate-doom/chocolate-doom):flower_playing_cards: - Source port that is minimalist, historically accurate and includes ports of Heretic and Hexen, and Strife.
+- [ClassiCube](https://github.com/ClassiCube/ClassiCube):flower_playing_cards: - Minecraft Classic compatible client written in C from scratch.
 - [Doom Legacy](https://sourceforge.net/projects/doomlegacy/):flower_playing_cards: - One of the most popular DOOM source ports, which enhances it with things like TCP/IP networking, OpenGL renderer etc.
 - [DoomRetro](https://github.com/bradharding/doomretro):flower_playing_cards: - Classic, refined DOOM source port for Windows PC.
 - [Doomsday Engine](https://github.com/skyjake/Doomsday-Engine:flower_playing_cards::flower_playing_cards:):flower_playing_cards: - Source port of id Software's DOOM I/II and Raven Software's Heretic and Hexen.
@@ -72,13 +73,16 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Zandronum](https://zandronum.com/):flower_playing_cards: - Multiplayer oriented port, based off Skulltag, for Doom and Doom II. Also runs Heretic, Hexen and Strife.
 
 ## Online
-- [2006rebotted](https://github.com/dginovker/2006rebotted):flower_playing_cards: - A 2006 Runescape Emulation Server.
-- [2009scape](https://2009scape.org):flower_playing_cards: - A free & open-source remake of 2009 era RuneScape.
+- [2006rebotted](https://github.com/dginovker/2006rebotted):flower_playing_cards: - A 2006 RuneScape 2 Emulation Server.
+- [2004scape](https://2004scape.org):flower_playing_cards: - A free & open-source remake of 2004 era RuneScape 2.
+- [2009scape](https://2009scape.org):flower_playing_cards: - A free & open-source remake of 2009 era RuneScape 2.
 - [FreeSO](https://github.com/riperiperi/FreeSO):flower_playing_cards: - Reimplementation of The Sims Online, targetted mainly at mobile devices.
 - [Meridian 59](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59.
 - [MineClone2](https://git.minetest.land/MineClone2/MineClone2):flower_playing_cards: - Stable, moddable & free/libre clone of Minecraft based on the Minetest engine.
 - [Opengate](https://sourceforge.net/projects/opengate/) - Remake of Jumpgate.
-- [RuneLite](https://github.com/runelite/runelite):flower_playing_cards: - Open source old school RuneScape client.
+- [OpenRSC](https://gitlab.com/open-runescape-classic/core):flower_playing_cards: - Open source accurate RuneScape Classic (2001-2003) game server in Java, based on recorded data and videos.
+- [RSC-C](https://github.com/2003scape/rsc-c):flower_playing_cards: - Rewrite of the RuneScape Classic (2001-2003) game client in portable C.
+- [RuneLite](https://github.com/runelite/runelite):flower_playing_cards: - Open source Old School RuneScape (OSRS) client.
 - [Ryzom Core](https://github.com/ryzom/ryzomcore):flower_playing_cards: - Ryzom Core contains the whole code (client, server, tools) used to make the commercial MMORPG Ryzom.
 - [Space Station 14](https://github.com/space-wizards/space-station-14) - Space Station 14 is a revived attempt at a Space Station 13 remake.
 
