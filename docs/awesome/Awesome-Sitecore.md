@@ -78,6 +78,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Configuration
 
 - [Sitecore configuration consolidator (offline ShowConfig)](https://github.com/ParTech/ScShowConfig) - Simple console app that consolidates Sitecore configuration including files.
+- [XDT Transform playground)](https://akarzazi.github.io/xdt-playground) - A playground IDE for you to play/test XDT Transformation of .NET config wiles.
 
 ## Containers
 
