@@ -784,6 +784,7 @@
 - [vue3-realworld-app](https://github.com/rofixro/vue3-realworld-app) - 🖖 Best practices for building RealWorld with Vue3
 - [slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [YesPlayMusic](https://github.com/qier222/YesPlayMusic) - High-looking third-party NetEase cloud player, support Windows / macOS / Linux :electron:
+- [douyin](https://github.com/zyronon/douyin) - Imitate TikTok ，Vue Best practices on Mobile
 
 ### Commercial Products
 
@@ -3446,7 +3447,7 @@ _Text editor plugins_
 - [Vetur](https://github.com/octref/vetur) - Vue tooling for VSCode.
 - [Vue VSCode Snippets](https://github.com/sdras/vue-vscode-snippets) - Snippets that will supercharge your Vue workflow.
 - [Ionic Snippets](https://github.com/moduslabs/ionic/tree/master/packages/ionic-vetur) - Vetur support for Ionic Components
-- [Volar](https://github.com/johnsoncodehk/volar) - The Fastest Vue Language Support Extension
+- [Vue - Official (Volar)](https://github.com/vuejs/language-tools) - ⚡The Fastest Vue Language Support Extension
 
 ##### Visual Studio
 
