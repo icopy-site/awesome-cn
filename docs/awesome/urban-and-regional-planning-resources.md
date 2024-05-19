@@ -362,6 +362,7 @@ Software, tools, and platforms that employ models that draw inferences from data
 - [University of Oregon, AI Software List](https://blogs.uoregon.edu/artificialintelligence/ai-software/) - A blog cataloguing existing AI resources compiled by university researchers and local policy experts.
 - [OECD AI Policy Observatory](https://oecd.ai/en/) - OECD AI Policy Observatory provides a platform for resources on applications, poicy implications, and literature regarding Artificial Intelligence.
 - [LM Studio](https://lmstudio.ai/) - This [free for personal use](https://lmstudio.ai/terms) software enables users to download large language models and run them locally within a desktop chat interface.
+- [Tune Studio](https://studio.tune.app/) - Playground for software developers to finetune and deploy large language models. 
 
 ### Economic Development and Econometric Platforms
 Software, tools, and platforms that help planners understanding the economic impacts of decisions, from fiscal impact analysis to employment forecasting. 

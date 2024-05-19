@@ -79,6 +79,7 @@ A Low Code Application Platform dedicated to streamlining business processes. Th
 - [ProntoForms](https://www.prontoforms.com/) - Provides mobile business solutions to automate field sales, field service, and field data collection.
 - [TrackVia](https://trackvia.com/) - The leading Low Code workflow platform for operations.
 - [NewGen](https://newgensoft.com/) - Simplify your complex, content-driven business needs with one comprehensive Low Code platform.
+- [Naologic](https://naologic.com/) - Productivity apps built by business users and process-driven professionals to simplify and automate complex processes.
 
 ### Robotic Process Automation
 

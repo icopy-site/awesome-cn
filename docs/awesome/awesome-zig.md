@@ -214,6 +214,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [hspak/brightnessztl](https://github.com/hspak/brightnessztl) - A CLI to control device backlight.
 * [thejoshwolfe/hexdump-zip](https://github.com/thejoshwolfe/hexdump-zip) - Produce an annotated hexdump of a zipfile.
 * [kubkon/zacho](https://github.com/kubkon/zacho) - Zig's Mach-O parser.
+* [weskoerber/mac_address](https://github.com/weskoerber/mac_address) - A cross-platform library to retrieve the MAC address from your network interfaces without libc.
 
 
 ## Zig development tools
