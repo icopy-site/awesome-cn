@@ -142,7 +142,7 @@ _Info on topics necessary for designing and developing game engines._
     - 🌎 [EA Technology](https://www.ea.com/technology/research) - Research on game tech including info on the _Frostbite_ engine.
     - 🌎 [Ubisoft Technology](https://www.ubisoft.com/en-us/company/how-we-make-games/technology) - Learn about in-house tech including the _Anvil_ and _Snowdrop_ engines.
 - Education Portals
-    - 📚 [3D Game Engine Programming](https://www.3dgep.com) - Topics including graphics, physics, AI, I/O and template programming.
+    - 📚 [3D Game Engine Programming](https://www.3dgep.com) - Articles on graphics, physics, AI, I/O and more.
 
 ### Game Development
 - Awesome Collections
@@ -221,7 +221,6 @@ _Language specific game engine development libraries / frameworks / code._
 - C: Fonts
     - 🎉 [Font Stash](https://github.com/memononen/fontstash) - Lightweight library that uses stb_truetype to render fonts to a texture atlas.
     - 🎉 [IconFontCppHeaders](https://github.com/juliettef/IconFontCppHeaders) - C/C++ headers and C# classes for icon fonts.
-    - 🎉 [msdf-c](https://github.com/solenum/msdf-c) - Multi-channel signed distance field generator.
     - ⭐ [stb_truetype](https://github.com/nothings/stb/blob/master/stb_truetype.h) - Single-header file library that processes TrueType font files.
     - 🎉 [Vertext](https://github.com/kevinmkchin/vertext) - Generates vertices for rendering text, requires stb_truetype.
 - C: Game Engine w/Editor
@@ -306,6 +305,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Entt](https://github.com/skypjack/entt) - Gaming meets modern C++, a fast and reliable entity component system.
 - C++: Fonts
     - 🎉 [HarfBuzz](https://github.com/harfbuzz/harfbuzz) - Text shaping library. Formatted and positioned glyph output.
+    - 🎉 [msdfgen](https://github.com/Chlumsky/msdfgen) - Multi-channel signed distance field generator.
     - 💰 [Slug](http://sluglibrary.com) - High-quality, resolution-independent text and vector graphics for 3D apps.
 - C++: File Formats
     - ⭐ [Jpeg-Compressor](https://github.com/richgel999/jpeg-compressor) - Single-file library that writes baseline JPEG compressed images.
@@ -317,6 +317,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Imgui-Filebrowser](https://github.com/AirGuanZ/imgui-filebrowser) - Header-only file browser implementation for _Dear ImGui_ in C++17.
 - C++: Game Engine w/Editor
     - 🎉 [AnKi 3D Engine](https://github.com/godlikepanos/anki-3d-engine) - Vulkan backend, modern renderer, scripting, physics and more.
+    - 🔒 [Crown Engine](https://github.com/crownengine/crown) - Data-driven 3D and 2D game engine.
     - 🎉 [Drop Creator](https://github.com/scidian/drop) - No code, 2.5D game engine built with _Qt_, OpenGL and _Chipmunk Physics_.
     - 🔒 [Enigma](https://github.com/enigma-dev/enigma-dev) - GameMaker compatible 2D engine.
     - 🎉 [Esoterica Engine](https://github.com/BobbyAnguelov/Esoterica) - High-performance game engine with editor and AAA quality animation graph.
@@ -394,7 +395,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Ember](https://github.com/strah19/Ember) - Graphics framework using SDL2 and OpenGL.
     - 🎉 [Filament](https://github.com/google/filament) - Mobile-first, real-time physically-based renderer by _Google_.
     - 🎉 [Forge](https://github.com/ConfettiFX/The-Forge) 🔥 - Cross-platform rendering framework supporting all major platforms and consoles.
-    - 🎉 [Horde3D](https://github.com/horde3d/Horde3D) - 3D rendering and animation engine. [[Scene Editor Info](http://horde3d.org/wiki/index.php?title=Horde3D_Scene_Editor)].
+    - 🎉 [Horde3D](https://github.com/horde3d/Horde3D) - 3D rendering and animation engine.
     - 🎉 [Intermediate Graphics Library (IGL)](https://github.com/facebook/igl) - Cross-platform abstraction layer by _Facebook_.
     - 🎉 [LLGL](https://github.com/LukasBanana/LLGL) - Thin abstraction layer for OpenGL, Direct3D, Vulkan, and Metal.
     - 🎉 [Magnum Engine](https://github.com/mosra/magnum) - Modular C++11 graphics middleware for games and apps.
@@ -665,6 +666,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [PixiJS Sound](https://github.com/pixijs/sound) - Audio library with filters, built on _PixiJS_. [[Examples](https://pixijs.io/sound/examples/)]
     - 🎉 [SoundJS](https://github.com/CreateJS/SoundJS) - Simple API and powerful features, part of the _CreateJS_ suite.
     - 🎉 [Sonant-X](https://github.com/nicolas-van/sonant-x) - Small JavaScript synthesizer library. [[Online Composer](https://nicolas-van.github.io/sonant-x-live/)]
+    - 🎉 [SpessaSynth](https://github.com/spessasus/SpessaSynth) - MIDI player and synthesizer.
     - 🎉 [Tone.js](https://github.com/Tonejs/Tone.js) - WebAudio framework for creating interactive music in the browser.
     - 🎉 [tuna](https://github.com/Theodeus/tuna) - Audio effects library for the WebAudio API.
     - 🎉 [Waveform Playlist](https://github.com/naomiaro/waveform-playlist) - Multitrack web audio editor and player with canvas waveform preview.
@@ -741,6 +743,7 @@ _Language specific game engine development libraries / frameworks / code._
 - JavaScript: Graphics - 2D
     - 🎉 [CanvasKit](https://github.com/google/skia/tree/main/modules/canvaskit) - WebAssembly build of _Google_'s 2D graphics library, Skia. [[Samples](https://skia.org/docs/user/modules/canvaskit/)]
     - 🎉 [EaselJS](https://github.com/CreateJS/EaselJS) - Makes working with the canvas element easy, part of [CreateJS](https://createjs.com/).
+    - 🎉 [Escher.js](https://github.com/tentone/escher.js) - Interactive 2D graphics canvas framework.
     - 🎉 [Fabric.js](https://github.com/fabricjs/fabric.js) - Powerful and simple JavaScript canvas library.
     - 🎉 [Konva](https://github.com/konvajs/konva) - Canvas interactivity framework for desktop and mobile apps.
     - 🎉 [p5.js](https://github.com/processing/p5.js) - Library for creative coding. [[Website](https://p5js.org)]
@@ -749,11 +752,12 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [PixiJS](https://github.com/pixijs/pixijs) 🔥 - Fast, lightweight 2D library. [[Awesome](https://github.com/cursedcoder/awesome-pixijs) | [Editor](https://github.com/Megabyteceer/thing-editor) | [Essentials](https://github.com/ShukantPal/pixi-essentials) | [Website](https://pixijs.com/)]
     - 🎉 [Pts](https://github.com/williamngan/pts) - Library for visualization and creative coding. [[Examples](https://ptsjs.org)]
     - 🎉 [Scrawl-canvas](https://github.com/KaliedaRik/Scrawl-canvas) - Library for working with the canvas element.
-    - 🎉 [Stage.js](https://github.com/shakiba/stage.js) - 2D rendering engine for game development. [[Examples](https://piqnt.com/stage.js/)]
+    - 🎉 [Stage.js](https://github.com/piqnt/stage.js) - 2D rendering engine for game development. [[Examples](https://piqnt.com/stage.js/)]
     - 🎉 [Two.js](https://github.com/jonobr1/two.js) - Renderer agnostic 2D drawing API for the web.
     - 🎉 [ZIM](https://github.com/danzen/zimjs) - Creative canvas framework. [[Website](https://zimjs.com/)]
 - JavaScript: Graphics - 3D
     - 🎉 [Babylon.js](https://github.com/BabylonJS/Babylon.js) 🔥 - Powerful web rendering engine. [[Extensions](https://github.com/BabylonJS/Extensions) | [Website](https://www.babylonjs.com/)]
+    - 🎉 [ClayGL](https://github.com/pissang/claygl) - WebGL library for scalable Web3D applications.
     - 🎉 [CopperLicht](https://ambiera.com/copperlicht/) - A 3D library for WebGL. [[CopperCube Editor](https://ambiera.com/coppercube/index.html)]
     - 🎉 [Filament for Web](https://github.com/google/filament/tree/main/web/filament-js) - WebAssembly build of Google's 3D graphics library, Filament. [[Demos](https://google.github.io/filament/webgl/)]
     - 🎉 [Four](https://github.com/CodyJasonBennett/four) - Minimal three.js alternative.
@@ -1106,8 +1110,6 @@ _Exploring specialty game engine / game development topics and features._
     - 📚 [LearnOpenGL Tutorial](https://learnopengl.com/Advanced-Lighting/Bloom) - Techniques used for bloom lighting, presented in OpenGL.
     - 🌎 [Three.js: Bloom Example](https://threejs.org/examples/?q=bloom#webgl_postprocessing_unreal_bloom) - WebGL bloom postprocessing using _Three.js_. [[Source](https://github.com/mrdoob/three.js/blob/master/examples/webgl_postprocessing_unreal_bloom.html)]
     - 📚 [Unity Tutorial](https://catlikecoding.com/unity/tutorials/advanced-rendering/bloom/) - How to add support for a bloom effect.
-- Displacement
-    - 📚 [Basic GLSL Displacement Shader](http://benchung.com/basic-glsl-displacement-shader-three-js/) - Basic vertex displacement shader using Three.js.
 - Dithering
     - 📚 [Dithering on the GPU](http://alex-charlton.com/posts/Dithering_on_the_GPU/) - Ordered dithering in glsl using 8x8 Bayer Dithering.
 - Fire
@@ -1285,7 +1287,6 @@ _Resources to help bring video games and game engines alive._
     - 💸 [Bensound](https://www.bensound.com/royalty-free-music) - Original music tracks, free with attribution. Perfect for games.
     - 💸 [Incompetech](https://incompetech.com/wordpress/) - Nice collection of game tracks. Buy or attribution required.
     - 💸 [Melody Loops](https://www.melodyloops.com/music/free/) - Nice mix of free and affordable music loops.
-    - 💸 [Royalty Free Music Clips](https://www.royaltyfreemusicclips.com/pir/free_music_loops.shtml) - Huge collection of free and paid royalty free music tracks.
     - 💸 [Soundimage](https://soundimage.org/looping-music/) - Looping music tracks for videogames. Buy or attribution required.
 - Sound Effects
     - 🆓 [Freesound](https://freesound.org/browse/) - Community-based archive of free sound effects.

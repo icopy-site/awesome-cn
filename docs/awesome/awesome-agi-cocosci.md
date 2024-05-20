@@ -576,9 +576,9 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [Processing gradable adjectives in context: A visual world study](https://semantics.uchicago.edu/kennedy/docs/processing.pdf) - ***Semantics and Linguistic Theory***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=13426776838629402579)]. Adjective understanding as a rational inference in the context.
 
-* [Colors in Context: A Pragmatic Neural Model for Grounded Language Understanding](https://transacl.org/index.php/tacl/article/view/1142) - ***Transactions of the Association for Computational Linguistics***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=11119271811833503059&hl=en&as_sdt=2005&sciodt=0,5)].
+* [Colors in Context: A Pragmatic Neural Model for Grounded Language Understanding](https://transacl.org/index.php/tacl/article/view/1142) - ***Transactions of the Association for Computational Linguistics***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=11119271811833503059)].
 
-* [Social Pragmatics: Preschoolers Rely on Commonsense Psychology to Resolve Referential Underspecification](https://compdevlab.yale.edu/docs/2019/2019_ChildDev_Pragmatics.pdf) - ***Child Development***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=16352913537004112920&hl=en&as_sdt=0,5)]. A piece of evidence for children's capability on social pragmatics.
+* [Social Pragmatics: Preschoolers Rely on Commonsense Psychology to Resolve Referential Underspecification](https://compdevlab.yale.edu/docs/2019/2019_ChildDev_Pragmatics.pdf) - ***Child Development***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=16352913537004112920)]. A piece of evidence for children's capability on social pragmatics.
 
 * [Pragmatically Informative Image Captioning with Character-Level Inference](http://cocolab.stanford.edu/papers/CohnGordonEtAl2018_NAACL.pdf) - ***NAACL'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=1670953084401884599&hl=en&as_sdt=2005)].
 

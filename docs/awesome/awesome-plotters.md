@@ -211,6 +211,8 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 - [Aritma Minigraf 0507 Plotting Space Shuttle](https://www.youtube.com/watch?v=YY0ivdyhLpo)
 - [Drawing an Etch-Mask Directly onto a PCB using a Vintage Plotter](https://www.youtube.com/watch?v=nkxiFXCnbj8&t=131s) — The video description has some interesting details about this plotter.
 - [OrCAD 386 and a plotter Colorgraf Aritma 512](http://simandl.cz/stranky/elektro/spoje/pcb.htm) — Article about using a Colorgraf 512 plotter with OrCAD 386 for making printed circuit boards.
+- [Early Computer Art in the 50s and 60s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s) – Good art history lesson with lots of plotter-relevant artists.
+- [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript) – Great exploration of creating handwriting with p5.js and some custom tools.
 
 ## Manuals, Ephemera, Papers, and Patents
 
