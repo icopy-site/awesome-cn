@@ -55,11 +55,12 @@
 - [Layer0](https://layer0.co) - All-in-one Jamstack platform focused on large, dynamic websites and best-in-class performance through an integrated CDN, EdgeJS, predictive prefetching, and performance monitoring.
 - [Azure Static Web Apps](https://azure.microsoft.com/services/app-service/static/) - Full-stack serverless hosting with integrated CI/CD workflow, authentication, CDN and more.
 - [Stormkit](https://stormkit.io) - Powerful all in one infrastructure for modern javascript apps. It integrates with your git flow and builds, deploys and scales your apps seamlessly.
-- [Cloud 66](https://www.cloud66.com/) - Builds and deploys static websites to your own cloud account. 
+- [Cloud 66](https://www.cloud66.com/) - Builds and deploys static websites to your own cloud account.
 
-*For more resources about Static Web Apps see (Awesome Static Web Apps)[https://github.com/staticwebdev/awesome-azure-static-web-apps].*
+_For more resources about Static Web Apps see (Awesome Static Web Apps)[https://github.com/staticwebdev/awesome-azure-static-web-apps]._
 
 ## No-Code Platforms
+
 - [Jamstack.new](https://jamstack.new) - Create a new Jamstack website with 1 click, brought to you by Stackbit
 - [Storipress](https://storipress.com) - All-in-one publishing + blogging platform with integrated site builder and workflow management.
 - [Draftbox](https://draftbox.co) - Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.
@@ -96,13 +97,14 @@
 - [Astro](https://astro.build) - Build faster websites, while shipping less to almost no Javascript.
 - [FactorJS](https://www.factorjs.org) - Next-generation framework powered by Vite.
 
-*For a more complete list see [StaticGen](https://www.staticgen.com/).*
+_For a more complete list see [StaticGen](https://www.staticgen.com/)._
 
 ## CMS
+
 - [Cosmic](https://cosmicjs.com) - Headless CMS with REST and GraphQL API options.
 - [Kentico Kontent](https://kontent.ai) - A cloud-native headless CMS that scales.
 - [Contentful](https://contentful.com) - Content infrastructure for digital teams.
-- [NetlifyCMS](https://netlifycms.org/) - open source Git-based CMS.
+- [Decap CMS](https://decapcms.org/) - Open source Git-based CMS _(Formerly known as [Netlify CMS](https://v1.netlifycms.org/))_.
 - [ButterCMS](https://buttercms.com/) - Headless CMS and Content API.
 - [Scrivito](https://scrivito.com) - Cloud-based JavaScript CMS built for digital agencies and medium to large-sized businesses.
 - [GraphCMS](https://graphcms.com) - The GraphQL Headless CMS.
@@ -132,6 +134,7 @@
 - [Netlify Identity](https://www.netlify.com/docs/identity/) - Brings a full suite of authentication functionality, backed by the [GoTrue API](https://www.gotrueapi.org).
 - [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
 - [Clerk](https://clerk.com) – Complete user management UIs and APIs, purpose-built for React, Next.js, and the modern web.
+- [Corbado](https://www.corbado.com) – Corbado helps you go passwordless by adding passkeys to your website or app in a few lines of code.
 
 ### Comments
 
@@ -141,7 +144,7 @@
 
 ### Forms
 
-- [Fetch Forms](https://www.fetchforms.io/) - Create forms with the speed of a form builder and use them in your applications by calling a simple API. 
+- [Fetch Forms](https://www.fetchforms.io/) - Create forms with the speed of a form builder and use them in your applications by calling a simple API.
 - [Formcarry](https://formcarry.com) - Hassle-free HTML form endpoints for your form, powerful dashboard, reliable spam blocking, attachment uploads and Zapier integrations.
 - [Formcake](https://formcake.com) - A form backend built for developers: Zapier integrations, zero dependencies, a simple API, and unlimited forms.
 - [Getform](https://getform.io) - Form backend platform for designers and developers. Setup your form endpoints for your static site within minutes and expand your data with Zapier integration and Webhooks support.
@@ -161,6 +164,7 @@
 - [Commerce.js](https://commercejs.com/) - API-first eCommerce platform for developers.
 - [CartQL](https://cartql.com/) - GraphQL Shopping Cart and Checkout API built for the Jamstack and to work with any framework and inventory.
 - [Medusa](https://medusajs.com/) - Medusa is an open-source headless commerce engine that enables developers to create amazing digital commerce experiences.
+- [Saleor](https://saleor.io/) - Saleor is [open-source](https://github.com/saleor/saleor), GraphQL-first, technology agnostic commerce engine.
 
 ### Search
 
@@ -178,6 +182,7 @@
 - [Tigris](https://www.tigrisdata.com) - Open-source data platform with databases, automatic search indexing for real-time search, caching and real-time pub/sub.
 
 ### File management
+
 - [Jexia FileSet](https://jexia.com) - REST API File manager for your application with indexing and extra functions.
 
 ### Automation
@@ -205,11 +210,10 @@
   - [Cloud ML Engine](https://cloud.google.com/ml-engine/) - Serverless machine learning services that automatically scales built on custom Google hardware (Tensor Processing Units).
 - [Serverless](https://serverless.com/) - Toolkit for deploying and operating serverless architectures.
 - [Cloudinary](https://cloudinary.com/) - Serverless media (images/videos) management platform. Provides SDKs in every popular language and media widgets for Jamstack to make it easy to manage media, CDN, storage, transformations, and more.
-- [imgix](https://www.imgix.com/) - Serverless image delivery and management service.  imgix connects to where your images are stored (e.g. S3, GCS, web folder) and transforms, optimizes, and intelligently delivers your images using simple and robust URL parameters.
+- [imgix](https://www.imgix.com/) - Serverless image delivery and management service. imgix connects to where your images are stored (e.g. S3, GCS, web folder) and transforms, optimizes, and intelligently delivers your images using simple and robust URL parameters.
 - [TwicPics](https://twicpics.com/) - Serverless images & videos optimization and transformation service. TwicPics can be plugged into any stack to optimize medias in real-time by giving full control to frontend developers.
 
-
-*For a more complete list see [Awesome Serverless](https://github.com/pmuens/awesome-serverless).*
+_For a more complete list see [Awesome Serverless](https://github.com/pmuens/awesome-serverless)._
 
 ## Videos
 
@@ -263,6 +267,7 @@
 - [That's my Jamstack](https://thatsmyjamstack.com)
 
 ## Books
+
 - [Modern Web Development on the Jamstack](https://www.netlify.com/pdf/oreilly-modern-web-development-on-the-jamstack.pdf) - By Mathias Biilmann & Phil Hawksworth (published by O'Reilly).
 - [Hugo in Action](https://www.manning.com/books/hugo-in-action)
 - [Jumpstart Jamstack Development](https://www.packtpub.com/web-development/jumpstart-jamstack-development) - By Christopher Pecoraro and Vincenzo Gambino

@@ -17,12 +17,14 @@
 
 ### Official Resources
 
-- [Official Guide](http://vuejs.org/guide/)
+- [Documentation](https://vuejs.org/)
 - [API Reference](http://vuejs.org/api/)
-- [GitHub Repo](https://github.com/vuejs/vue)
-- [Release Notes](https://github.com/vuejs/vue/releases)
+- [GitHub Repo](https://github.com/vuejs/)
+- [Release Notes](https://github.com/vuejs/core/releases)
 - [Style Guide](https://vuejs.org/v2/style-guide/)
 - [Vue.js News](https://news.vuejs.org/)
+- [IDE Language Support](https://github.com/vuejs/language-tools?tab=readme-ov-file#vue-language-tools)
+- [Awesome Vite](https://github.com/vitejs/awesome-vite)
 
 ### External Resources
 
@@ -2871,6 +2873,8 @@ _Utilities not directly related to the UI_
 - [vue-next-rx](https://github.com/NOPR9D/vue-next-rx) - Complete RxJS integration for Vue.js. (Update of vue-rx)
 - [fontawesome-autogen](https://github.com/GTANAdam/fontawesome-autogen) - Automatically detect and import fontawesome icons used in your webapp.
 - [vue-macros](https://vue-macros.dev) - Explore and extend more macros and syntax sugar to Vue.
+- [unplugin-vue-components](https://github.com/unplugin/unplugin-vue-components) - 📲 On-demand components auto importing for Vue.
+- [unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import) - Auto import Vue APIs on-demand for Vite, Webpack and Rollup.
 
 #### Typescript
 
