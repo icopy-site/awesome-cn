@@ -641,6 +641,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [Domain-Specific Languages](https://martinfowler.com/books/dsl.html) - ***Pearson Education***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=3653365103385845410)]. [[Domain-Specific Languages Guide](https://martinfowler.com/dsl.html)]. When carefully selected and used, Domain-Specific Languages (DSLs) may simplify complex code, promote effective communication with customers, improve productivity, and unclog development bottlenecks. In Domain-Specific Languages, noted software development expert Martin Fowler first provides the information software professionals need to decide if and when to utilize DSLs. Then, where DSLs prove suitable, Fowler presents effective techniques for building them, and guides software engineers in choosing the right approaches for their applications.
 
+* [Comparison of multi-paradigm programming languages](https://en.wikipedia.org/wiki/Comparison_of_multi-paradigm_programming_languages) - ***Wikipedia***. Programming languages may support multiple programming paradigms. This Wikipedia encyclopedia entry lists a concise reference for the programming paradigms.
+
 * [Epigrams on programming](https://dl.acm.org/doi/pdf/10.1145/947955.1083808) - ***ACM SIGPLAN Notices***, 1982. [[All Versions](https://scholar.google.com/scholar?cluster=6439127299132936476)].
 
 * [The complete guide to (external) Domain Specific Languages](https://tomassetti.me/domain-specific-languages/). An introduction to Domain Specific Languages (DSL) based on 19 DSL cases.
