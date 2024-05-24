@@ -114,15 +114,16 @@ Data available for download:
 - [OpenStreetMap](https://www.geofabrik.de/data/download.html) - A free, world-wide geographic data set.
 - [Natural Earth](https://www.naturalearthdata.com/) - Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales.
 - [World Atlas TopoJSON](https://github.com/topojson/world-atlas) - A convenient redistribution of Natural Earth's vector data as TopoJSON.
-- [Copernicus global DEM](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/elevation/copernicus-dem/elevation) - Global elevation tiles.
+- [Copernicus global DEM](https://ec.europa.eu/eurostat/web/gisco/geodata/digital-elevation-model/copernicus#Elevation) - Global elevation tiles.
 - [ETOPO1](https://www.ngdc.noaa.gov/mgg/global/) - 1 arc-minute global relief model of Earth's surface that integrates land topography and ocean bathymetry.
 - [HydroSHEDS](https://www.hydrosheds.org/) - Hydrographic information in a consistent and comprehensive format for regional and global-scale applications.
 - [geoboundaries](https://www.geoboundaries.org/) - The world's largest open, free and research-ready database of political administrative boundaries.
 - [Global power plant database](https://datasets.wri.org/dataset/globalpowerplantdatabase) - A comprehensive, global, open source database of power plants.
 - [Ookla internet speed data](https://github.com/teamookla/ookla-open-data) - Provides global network performance metrics. Data is provided in both Shapefile format as well as Apache Parquet.
-- [European population grids - GISCO](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/grids) - These datasets contain grid cells covering the European land territory, for various resolutions from 1km to 100km. Base statistics such as population figures are provided for these cells.
-- [Healthcare Services in Europe](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/healthcare-services) - The locations of healthcare services across Europe.
-- [European Postcodes Point Data](https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/postal-codes) - The postal code point dataset shows the location of postal codes, NUTS codes and the Degree of Urbanisation classification across the EU, EFTA and candidate countries from a variety of sources.
+- [European population grids - GISCO](https://ec.europa.eu/eurostat/web/gisco/geodata/grids) - These datasets contain grid cells covering the European land territory, for various resolutions from 1km to 100km. Base statistics such as population figures are provided for these cells.
+- [Healthcare Services in Europe](https://ec.europa.eu/eurostat/web/gisco/geodata/basic-services#Healthcare) - The locations of healthcare services across Europe.
+- [Healthcare Services in Europe](https://ec.europa.eu/eurostat/web/gisco/geodata/basic-services#Education) - The locations of education services across Europe.
+- [European Postcodes Point Data](https://ec.europa.eu/eurostat/web/gisco/geodata/administrative-units/postal-codes) - The postal code point dataset shows the location of postal codes, NUTS codes and the Degree of Urbanisation classification across the EU, EFTA and candidate countries from a variety of sources.
 - [WorldPop](https://www.worldpop.org/) - Open access spatial demographic datasets built using transparent approaches. 
 - [World Bank](https://data.worldbank.org/) - Free and open access to global development data.
 - [USGS Earth Explorer](https://earthexplorer.usgs.gov/) - Query and order satellite images, aerial photographs, and cartographic products through the U.S. Geological Survey.
@@ -130,10 +131,10 @@ Data available for download:
 - [NASA Earth Observations](https://neo.gsfc.nasa.gov/) - Here you can browse and download imagery of satellite data from NASA's constellation of Earth Observing System satellites.
 - [Geodata.gov.gr](https://geodata.gov.gr/en/dataset) - Open geospatial data for Greece.
 - [ArcGIS Hub](https://hub.arcgis.com/) - Over 380,000 open datasets.
-- [DIVA-GIS](https://www.diva-gis.org/Data) - Free spatial data. Includes country and global level boundaries, climate, species occurence, crop and elevation data.
 - [OpenAerialMap](https://openaerialmap.org/) - An open service to provide access to a commons of openly licensed imagery and map layer services.
 - [Global Climate Monitor](https://www.globalclimatemonitor.org/) - Global open climate data available for download.
 - [Copernicus open access hub](https://scihub.copernicus.eu) - Copernicus satellite imagery download.
+- [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/) - An international network and data infrastructure funded by the world's governments and aimed at providing anyone, anywhere, open access to data about all types of life on Earth.
 
 ### Web APIs 
 Restful APIs for consuming geospatial data on the fly:
@@ -152,7 +153,6 @@ Restful APIs for consuming geospatial data on the fly:
 - [Geoapify](https://apidocs.geoapify.com/) - Maps, address and location search, route optimization, reachability analysis, geodata access, and more.
 - [OpenCage](https://opencagedata.com/api) - Forward and reverse worldwide geocoding API using open data.
 - [breezometer](https://docs.breezometer.com/api-documentation/introduction/) - API endpoints for Air Quality, Pollen, Weather, Wildfire, Cleanest Routes and Environmental Alerts. Serves current conditions, forecasts, and historical data.
-- [ipfind](https://ipfind.io/) - Geographic location of an IP address or any domain name along with some other useful information.
 - [bng2latlong](https://www.getthedata.com/bng2latlong) - Simple API to convert an OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude.
 - [Open Postcode Geo API](https://www.getthedata.com/open-postcode-geo-api) - British postcodes with easting, northing, latitude, and longitude.
 - [Country State City API](https://countrystatecity.in/) - Full Database of city state country available in JSON, SQL, XML, YAML & CSV format.
@@ -246,6 +246,7 @@ Colour usage is very important in data visualisation and cartography. Here are s
 - [Dicopal.js](https://github.com/riatelab/dicopal.js) - Discrete color palettes (hundreds of them!) for JavaScript.
 - [Textures.js](https://github.com/riccardoscalco/textures) - JavaScript library for creating SVG patterns. Made on top of d3.js, it is designed for data visualization. Textures are useful for the
 selective perception of different categories.
+- [CartoColor](https://github.com/CartoDB/CartoColor) - A set of custom color palettes built on top of well-known standards for color use on maps.
 
 ## 📍 Icons
 Icons to add to your GIS websites:

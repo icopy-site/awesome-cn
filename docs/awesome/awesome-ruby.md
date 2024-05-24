@@ -612,6 +612,13 @@ Where to discover new Ruby libraries, projects and trends.
 * [Gemsmith](https://github.com/bkuhlmann/gemsmith) - A command line interface for smithing new Ruby gems.
 * [Hoe](http://www.zenspider.com/projects/hoe.html) - Hoe is a Rake/RubyGems helper for project Rakefiles.
 
+## Gem Servers
+
+* [Gemfast](https://github.com/gemfast/server) - A drop in replacement for geminabox written in Go.
+* [Gem in a box](https://github.com/geminabox/geminabox) - Really simple rubygem hosting.
+* [Gemirro](https://github.com/PierreRambaud/gemirro) - Gem to automatically make a rubygems mirror.
+* [Gemstash](https://github.com/rubygems/gemstash) - A RubyGems.org cache and private gem server.
+
 ## Geolocation
 
 * [Geocoder](https://github.com/alexreisner/geocoder) - A complete geocoding solution for Ruby. With Rails it adds geocoding (by street or IP address), reverse geocoding (find street address based on given coordinates), and distance queries.
