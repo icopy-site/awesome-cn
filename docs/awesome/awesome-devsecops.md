@@ -81,6 +81,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [SecureFlag](https://www.secureflag.com/platform.html) - _OWASP_ - Hands-on secure coding training for Developers and Build/Release Engineers.
 - [Security Training for Engineers](https://sudo.pagerduty.com/for_engineers/) - _Pager Duty_ - A presentation created and open-sourced by PagerDuty to provide security training to software engineers.
 - [Security Training for Everyone](https://sudo.pagerduty.com/for_everyone/) - _Pager Duty_ - A presentation created and open-sourced by PagerDuty to provide security training employees.
+- [Semgrep Academy](https://academy.semgrep.dev/) - _Semgrep_ - Free, on-demand courses covering topics including API security, secure coding and application security.  
 - [Web Security Academy](https://portswigger.net/web-security) - _PortSwigger_ - A set of materials and labs to learn and exploit common web vulnerabilities.
 - [WeHackPuple](https://wehackpurple.com/) - _WeHackPurple_ - Online courses that teach application security theory and hands-on technical lessons.
 
@@ -113,6 +114,7 @@ Dynamic Analysis Security Testing (DAST) is a form of black-box security testing
 - [BurpSuite Enterprise Edition](https://portswigger.net/burp/enterprise) - _PortSwigger_ - BurpSuite's web application vulnerability scanner used widely by penetration testers, modified with CI/CD integration and continuous monitoring over multiple web applications.
 - [Gauntlt](https://github.com/gauntlt/gauntlt) - _Gauntlt_ - A Behaviour Driven Development framework to run security scans using common security tools and test output, defined using Gherkin syntax.
 - [Netz](https://github.com/spectralops/netz) - _Spectral_ - Discover internet-wide misconfigurations, using zgrab2 and others.
+- [RESTler](https://github.com/microsoft/restler-fuzzer) - _Microsoft_ - A stateful RESTful API scanner based on peer-reviewed research papers.
 - [SSL Labs Scan](https://github.com/ssllabs/ssllabs-scan) - _SSL Labs_ - Automated scanning for SSL / TLS configuration issues.
 - [Zed Attack Proxy (ZAP)](https://github.com/zaproxy/zaproxy) - _OWASP_ - An open-source web application vulnerability scanner, including an API for CI/CD integration.
 
@@ -162,6 +164,7 @@ Intentionally vulnerable applications are often useful when developing security 
 
 - [Bad SSL](https://github.com/chromium/badssl.com) - _The Chromium Project_ - A container running a number of webservers with poor SSL / TLS configuration. Useful for testing tooling.
 - [Cfngoat](https://github.com/bridgecrewio/cfngoat) - _Bridgecrew_ - Cloud Formation templates for creating stacks of intentionally insecure services in AWS. Ideal for testing the Cloud Formation Infrastructure as Code Analysis tools above.
+- [CI/CD Goat](https://github.com/cider-security-research/cicd-goat) - _Cider Security_ - A deliberately vulnerable CI/CD environment. Learn CI/CD security through multiple challenges.
 - [Damn Vulnerable Web App](http://www.dvwa.co.uk/) - _Ryan Dewhurst_ - A web application that provides a safe environment to understand and exploit common web vulnerabilities.
 - [Juice Shop](https://github.com/bkimminich/juice-shop) - _OWASP_ - A web application containing the OWASP Top 10 security vulnerabilities and more.
 - [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) - _Madhu Akula_ - Intentionally vulnerable cluster environment to learn and practice Kubernetes security.

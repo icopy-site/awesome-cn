@@ -42,10 +42,6 @@ _Please read the [contribution guidelines](https://github.com/caufieldjh/awesome
 ## Groups Active in the Field
 
 * [Boston Children's Hospital Natural Language Processing Laboratory](http://www.childrenshospital.org/research/labs/natural-language-processing-laboratory) - Led by Dr. Guergana Savova, formerly at Mayo Clinic and the Apache cTAKES project.
-* [BD2K](https://commonfund.nih.gov/bd2k) - The U.S. National Institutes of Health (NIH) funded 13 Centers of Excellence through their Big Data to Knowledge (BD2K) program, several of which developed tools and resources for BioIE.
-  * [HeartBD2K](http://www.heartbd2k.org/) - Based at University of California, Los Angeles (UCLA). Led by Dr. Peipei Ping.
-  * [KnowEng](https://knoweng.org/about/people/) - Based an University of Illinois at Urbana-Champaign (UIUC). Led by Dr. Jiawei Han.
-  * [Mobilize](http://mobilize.stanford.edu/) - Based at Stanford. Led by Dr. Scott Delp.
 * [Brown Center for Biomedical Informatics](https://www.brown.edu/academics/medical/about-us/research/centers-institutes-and-programs/biomedical-informatics/) - Based at Brown University and directed by Dr. Neil Sarkar, whose research group works on topics in clinical NLP and IE.
 * [Center for Computational Pharmacology NLP Group](http://compbio.ucdenver.edu/Hunter_lab/CCP_website/index.html) - based at University of Colorado, Denver and led by Larry Hunter - [see their GitHub repos here.](https://github.com/UCDenver-ccp)
 * Groups at U.S. National Institutes of Health (NIH) / National Library of Medicine (NLM):
@@ -100,15 +96,16 @@ Some events in BioIE are organized around formal tasks and challenges in which g
 
 ## Tutorials
 
-The field changes rapidly enough that tutorials any older than a few years are missing crucial details. A few more recent educational resources are listed below. A good foundational understanding of text mining techniques is very helpful, as is some basic experience with the Python and or R languages. Starting with the [NLTK tutorials](https://www.nltk.org/book/) and then trying out the tutorials for the [Flair framework](https://github.com/zalandoresearch/flair) will provide excellent examples of natural language processing, text mining, and modern machine learning-driven methods, all in Python. Most of the examples don't include anything biomedical, however, so the best option may be to learn by doing.
+The field changes rapidly enough that tutorials any older than a few years are missing crucial details. A few more recent educational resources are listed below. A good foundational understanding of text mining techniques is very helpful, as is some basic experience with the Python and or R languages. The best option may be to learn by doing.
 
-### Guides
+### LLM Guides
+
+_TBD - watch this space!_
+
+### Pre-LLM Guides, Lectures, and Courses
 
 * [Getting Started in Text Mining](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0040020) - A brief introduction to bio-text mining from Cohen and Hunter. More than ten years old but still quite relevant. See also an [earlier paper by the same authors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1702322/).
 * [Biomedical Literature Mining](https://link.springer.com/book/10.1007/978-1-4939-0709-0) - A (non-free) volume of Methods in Molecular Biology from 2014. Chapters covers introductory principles in text mining, applications in the biological sciences, and potential for use in clinical or medical safety scenarios. 
-
-### Video Lectures and Online Courses
-
 * [Coursera - Foundations of mining non-structured medical data](https://www.coursera.org/learn/mining-medical-data) - About three hours worth of video lectures on working with medical data of various types and structures, including text and image data. Appears fairly high-level and intended for beginners.
 * [JensenLab text mining exercises](https://jensenlab.org/training/textmining/)
 * [VIB text mining and curation training](https://www.bits.vib.be/training-list/111-bits/training/previous-trainings/183-text-mining) - This training workshop happenened in 2013 but the slides are still online.
@@ -147,20 +144,13 @@ The field changes rapidly enough that tutorials any older than a few years are m
 * [MedTator](https://ohnlp.github.io/MedTator/) - [paper](https://academic.oup.com/bioinformatics/article-abstract/38/6/1776/6496915) - [code](https://github.com/OHNLP/MedTator) - An annotation tool designed to have minimal dependencies.
 
 
-## Techniques
+## Techniques and Models
 
-### Text Embeddings
+### Large Language Models
 
-[This paper from Hongfang Liu's group at Mayo Clinic](https://www.sciencedirect.com/science/article/pii/S1532046418301825) demonstrates how text embeddings trained on biomedical or clinical text can, but don't always, perform better on biomedical natural language processing tasks. That being said, pre-trained embeddings may be appropriate for your needs, especially as training domain-specific embeddings can be computationally intensive.
+_TBD - watch this space!_
 
-### Word Embeddings
-
-* [BioASQword2vec](http://bioasq.org/news/bioasq-releases-continuous-space-word-vectors-obtained-applying-word2vec-pubmed-abstracts) - [paper](http://bioasq.lip6.fr/info/BioASQword2vec/) - Qord embeddings derived from biomedical text (>10 million PubMed abstracts) using the popular [word2vec](https://code.google.com/archive/p/word2vec/) tool.
-* [BioWordVec](https://figshare.com/articles/Improving_Biomedical_Word_Embeddings_with_Subword_Information_and_MeSH_Ontology/6882647) - [paper](https://www.nature.com/articles/s41597-019-0055-0) - [code](https://github.com/ncbi-nlp/BioWordVec) - Word embeddings derived from biomedical text (>27 million PubMed titles and abstracts), including subword embedding model based on MeSH.
-
-### Language Models
-
-#### BERT models
+### BERT models
 * [BioBERT](https://github.com/naver/biobert-pretrained) - [paper](https://arxiv.org/abs/1901.08746) - [code](https://github.com/dmis-lab/biobert) - A PubMed and PubMed Central-trained version of the [BERT language model](https://arxiv.org/abs/1810.04805).
 * ClinicalBERT - Two language models trained on clinical text have similar names. Both are BERT models trained on the text of clinical notes from the MIMIC-III dataset.
   * [Alsentzer et al Clinical BERT](https://github.com/EmilyAlsentzer/clinicalBERT) - [paper](https://www.aclweb.org/anthology/W19-1909/)
@@ -169,11 +159,16 @@ The field changes rapidly enough that tutorials any older than a few years are m
 * [BlueBERT](https://github.com/ncbi-nlp/bluebert) - [paper](https://arxiv.org/abs/1906.05474) - A BERT model pre-trained on PubMed text and MIMIC-III notes.
 * [PubMedBERT](https://microsoft.github.io/BLURB/models.html) - [paper](https://arxiv.org/abs/2007.15779) - A BERT model trained from scratch on PubMed, with versions trained on abstracts+full texts and on abstracts alone.
 
-#### GPT models
+### GPT-2 models
 * [BioGPT](https://github.com/microsoft/BioGPT) - [paper](https://doi.org/10.1093/bib/bbac409) - A GPT-2 model pre-trained on 15 million PubMed abstracts, along with fine-tuned versions for several biomedical tasks.
 
-#### Other models
+### Other models
 * [Flair embeddings from PubMed](https://github.com/zalandoresearch/flair/pull/519) - A language model available through the Flair framework and embedding method. Trained over a 5% sample of PubMed abstracts until 2015, or > 1.2 million abstracts in total.
+
+### Text Embeddings
+* [This paper from Hongfang Liu's group at Mayo Clinic](https://www.sciencedirect.com/science/article/pii/S1532046418301825) demonstrates how text embeddings trained on biomedical or clinical text can, but don't always, perform better on biomedical natural language processing tasks. That being said, pre-trained embeddings may be appropriate for your needs, especially as training domain-specific embeddings can be computationally intensive.
+* [BioASQword2vec](http://bioasq.org/news/bioasq-releases-continuous-space-word-vectors-obtained-applying-word2vec-pubmed-abstracts) - [paper](http://bioasq.lip6.fr/info/BioASQword2vec/) - Qord embeddings derived from biomedical text (>10 million PubMed abstracts) using the popular [word2vec](https://code.google.com/archive/p/word2vec/) tool.
+* [BioWordVec](https://figshare.com/articles/Improving_Biomedical_Word_Embeddings_with_Subword_Information_and_MeSH_Ontology/6882647) - [paper](https://www.nature.com/articles/s41597-019-0055-0) - [code](https://github.com/ncbi-nlp/BioWordVec) - Word embeddings derived from biomedical text (>27 million PubMed titles and abstracts), including subword embedding model based on MeSH.
 
 
 ## Datasets
