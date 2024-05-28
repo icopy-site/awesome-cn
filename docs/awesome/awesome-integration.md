@@ -102,7 +102,7 @@ System integration is the process of linking together different IT systems (com
   - [Apache JMeter (⭐7.9k)](https://github.com/apache/jmeter) - Open-source Java-based load testing tool that can be used to test the performance and scalability of web applications, databases, and other network services.
   - [Gatling (⭐6.2k)](https://github.com/gatling/gatling) - An open-source load testing tool that allows users to write and run load tests as code, providing detailed performance reports to optimize system performance.
   - [Karate (⭐7.8k)](https://github.com/intuit/karate) - Open-source tool that combines API test-automation, mocks, performance-testing, and even UI automation into a single, unified framework.
-  - [Pyresttest (⭐1.1k)](https://github.com/svanoort/pyresttest) - Java DSL for easy testing of REST services.
+  - [Pyresttest (⭐1.1k)](https://github.com/svanoort/pyresttest) - Python-based REST testing and API microbenchmarking tool that uses YAML or JSON for test.
   - [REST Assured (⭐6.7k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
   - [Schemathesis (⭐2.1k)](https://github.com/schemathesis/schemathesis) - Python library for property-based testing of API schemas.
   - [Taurus (⭐1.9k)](https://github.com/Blazemeter/taurus) - An open-source framework for continuous testing that simplifies test execution and management through a user-friendly interface and integrates with various testing tools and frameworks.
