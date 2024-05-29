@@ -85,6 +85,7 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 | AsocioHub | A ZeroMe Hub | `1MxqEM11KaAuKE2X9anKV2hz5NYmM1jaSP` | N/A |
 | PersianHub | A ZeroMe Hub dedicated to persian speaking users | `13YccBekYK3S5LE1sva2wE2cUo6tk3BaWV` | N/A |
 | Modkraft ZeroMe | A ZeroMe Hub for danish speaking perople | `1FS2XUptdQFnFaZiJtGKE1RB1PQuqLEK1r` | N/A |
+| GigaByteHub | A ZeroMe Hub with 100GB limit | `185bkA3iwv1uuprQMbBCN37ArRDFPbnpBg` | N/A |
 
 ### Movies
 

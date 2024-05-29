@@ -3,7 +3,7 @@
 	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg?sanitize=true" alt="Awesome">
 	<br>
 	<br>
-	<br>
+<!-- 	<br>
 	<br>
 	<div>
 		<sub>Check out my macOS app</sub>
@@ -13,7 +13,7 @@
 			<br>
 			<sup>The current week number in your menu bar</sup>
 		</h2>
-	</div>
+	</div> -->
 	<br>
 	<br>
 	<br>
@@ -122,20 +122,23 @@
 </p>
 <br>
 <br>
-
-
-
----
-
-<br>
-<br>
-<a href="https://vshymanskyy.github.io/StandWithUkraine">
-	<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
-</a>
-<br>
 <br>
 
----
+
+
+<br>
+<hr>
+<br>
+<br>
+<div align="center">
+	<a href="https://app.codecrafters.io/join?via=sindre">
+		<img src="https://raw.githubusercontent.com/sindresorhus/awesome/assets/170270/ddb75194-c7e3-4720-861e-37d3b0394f0f" width="900">
+	</a>
+</div>
+<br>
+<br>
+<hr>
+<br>
 
 ## Platforms
 
@@ -277,6 +280,18 @@
 - [Zig](https://github.com/catdevnull/awesome-zig#readme) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [Move](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) - Programming languages designed for experimentation or as jokes rather than actual use.
+
+<br>
+<hr>
+<br>
+<br>
+<a href="https://vshymanskyy.github.io/StandWithUkraine">
+	<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
+</a>
+<br>
+<br>
+<hr>
+<br>
 
 ## Front-End Development
 
