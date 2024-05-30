@@ -176,6 +176,7 @@ _Libraries for building and working with bots._
 _Libraries and tools help with build automation._
 
 - [1build](https://github.com/gopinath-langote/1build) - Command line tool to frictionlessly manage project-specific commands.
+- [air](https://github.com/cosmtrek/air) - Air - Live reload for Go apps.
 - [anko](https://github.com/GuilhermeCaruso/anko) - Simple application watcher for multiple programming languages.
 - [gaper](https://github.com/maxcnunes/gaper) - Builds and restarts a Go project when it crashes or some watched file changes.
 - [gilbert](https://go-gilbert.github.io) - Build system and task runner for Go projects.
@@ -313,9 +314,9 @@ _Libraries for configuration parsing._
 - [envconfig](https://github.com/vrischmann/envconfig) - Read your configuration from environment variables.
 - [envh](https://github.com/antham/envh) - Helpers to manage environment variables.
 - [fig](https://github.com/kkyr/fig) - Tiny library for reading configuration from a file and from environment variables (with validation & defaults).
-- [gcfg](https://github.com/go-gcfg/gcfg) - read INI-style configuration files into Go structs; supports user-defined types and subsections.
 - [genv](https://github.com/sakirsensoy/genv) - Read environment variables easily with dotenv support.
 - [go-aws-ssm](https://github.com/PaddleHQ/go-aws-ssm) - Go package that fetches parameters from AWS System Manager - Parameter Store.
+- [go-cfg](https://github.com/dsbasko/go-cfg) - The library provides a unified way to read configuration data into a structure from various sources, such as env, flags, and configuration files (.json, .yaml, .toml, .env).
 - [go-conf](https://github.com/ThomasObenaus/go-conf) - Simple library for application configuration based on annotated structs. It supports reading the configuration from environment variables, config files and command line parameters.
 - [go-ini](https://github.com/subpop/go-ini) - A Go package that marshals and unmarshals INI-files.
 - [go-ssm-config](https://github.com/ianlopshire/go-ssm-config) - Go utility for loading configuration parameters from AWS SSM (Parameter Store).
@@ -614,12 +615,10 @@ _Data stores with expiring records, in-memory distributed data stores, or in-mem
 - [dg](https://github.com/codingconcepts/dg) - A fast data generator that produces CSV files from generated relational data.
 - [dynago](https://github.com/twharmon/dynago) - Simplify working with AWS DynamoDB.
 - [go-mysql](https://github.com/siddontang/go-mysql) - Go toolset to handle MySQL protocol and replication.
-- [go-mysql-elasticsearch](https://github.com/siddontang/go-mysql-elasticsearch) - Sync your MySQL data into Elasticsearch automatically.
+- [gorm-multitenancy](https://github.com/bartventer/gorm-multitenancy) - Multi-tenancy support for GORM managed databases.
 - [hasql](https://golang.yandex/hasql) - Library for accessing multi-host SQL database installations.
-- [kingshard](https://github.com/flike/kingshard) - kingshard is a high performance proxy for MySQL powered by Golang.
 - [octillery](https://github.com/knocknote/octillery) - Go package for sharding databases ( Supports every ORM or raw SQL ).
 - [onedump](https://github.com/liweiyi88/onedump) - Database backup from different drivers to different destinations with one command and configuration.
-- [orchestrator](https://github.com/github/orchestrator) - MySQL replication topology manager & visualizer.
 - [pg_timetable](https://github.com/cybertec-postgresql/pg_timetable) - Advanced scheduling for PostgreSQL.
 - [pgweb](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser.
 - [prep](https://github.com/hexdigest/prep) - Use prepared SQL statements without changing your code.
@@ -2443,7 +2442,6 @@ _Libraries for accessing third party APIs._
 
 _General utilities and tools to make your life easier._
 
-- [air](https://github.com/cosmtrek/air) - Air - Live reload for Go apps.
 - [apm](https://github.com/topfreegames/apm) - Process manager for Golang applications with an HTTP API.
 - [backscanner](https://github.com/icza/backscanner) - A scanner similar to bufio.Scanner, but it reads and returns lines in reverse order, starting at a given position and going backward.
 - [beyond](https://github.com/wesovilabs/beyond) - The Go tool that will drive you to the AOP world!

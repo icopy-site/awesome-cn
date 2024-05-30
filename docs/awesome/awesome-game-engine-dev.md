@@ -93,6 +93,7 @@ _Info on topics necessary for designing and developing game engines._
 - Education Portals
     - 📚 [Game Art Tricks](http://simonschreibt.de/game-art-tricks/) - Articles exploring different graphics techniques.
     - 📚 [Lighthouse3d.com](http://www.lighthouse3d.com/tutorials/) - Collection of tutorials on OpenGL, GLSL and other graphics topics.
+    - 📚 [Paper Bug](https://www.jeremyong.com/paperbug/) - Indexed compendium of graphics programming papers.
     - 📚 [Scratchapixel](https://www.scratchapixel.com) - In depth coverage of computer graphics topics.
 - Graphics API: DirectX
     - 🌎 [DirectX](https://docs.microsoft.com/en-us/windows/win32/directx) - _Microsoft_ API used to create 2D/3D games and apps. [[Blog](https://devblogs.microsoft.com/directx/) | [Samples](https://github.com/microsoft/DirectX-Graphics-Samples)]
@@ -318,6 +319,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C++: Game Engine w/Editor
     - 🎉 [AnKi 3D Engine](https://github.com/godlikepanos/anki-3d-engine) - Vulkan backend, modern renderer, scripting, physics and more.
     - 🔒 [Crown Engine](https://github.com/crownengine/crown) - Data-driven 3D and 2D game engine.
+    - 🎉 [Crystal Engine](https://github.com/neelmewada/CrystalEngine) - Vulkan backend with PBR and styled GUI (_CrystalWidgets_).
     - 🎉 [Drop Creator](https://github.com/scidian/drop) - No code, 2.5D game engine built with _Qt_, OpenGL and _Chipmunk Physics_.
     - 🔒 [Enigma](https://github.com/enigma-dev/enigma-dev) - GameMaker compatible 2D engine.
     - 🎉 [Esoterica Engine](https://github.com/BobbyAnguelov/Esoterica) - High-performance game engine with editor and AAA quality animation graph.
@@ -354,6 +356,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Lumino](https://github.com/LuminoEngine/Lumino) - Framework for building real-time graphics apps.
     - 🎉 [Nazara Engine](https://github.com/NazaraEngine/NazaraEngine) - Custom shaders, ECS, 2D/3D, networking and more.
     - 🎉 [nCine](https://github.com/nCine/nCine) - Cross-platform 2D game framework.
+    - 🎉 [Octave](https://github.com/mholtkamp/octave) - 3D game engine for GameCube, Wii, 3DS, and more.
     - 🎉 [ORX](https://github.com/orx/orx) - 2.5D data-driven game development framework.
     - 🎉 [Oryol](https://github.com/floooh/oryol) - Small, 3D, portable and extensible coding framework.
     - ⭐ [Ouzel](https://github.com/elnormous/ouzel) - Public domain, targeted for development of 2D games.
@@ -727,6 +730,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Taro](https://github.com/moddio/taro) - Multiplayer engine with _Box2D_ physics, aka _Moddio_. [[Website](https://www.modd.io)]
 - JavaScript: Game Framework
     - 🎉 [Crafty](https://github.com/craftyjs/Crafty) - Create 2D games in a structured way.
+    - 🎉 [Excalibur](https://github.com/excaliburjs/Excalibur) - Friendly TypeScript 2D game engine for the web.
     - 🎉 [Galacean](https://github.com/galacean/engine) - Web/Mobile-first engine built on WebGL and glTF.
     - 🎉 [Kaboom](https://github.com/replit/kaboom) - Simple 2D framework.
     - 🎉 [LittleJS](https://github.com/KilledByAPixel/LittleJS) - Lightweight 2D framework with WebGL rendering.
@@ -770,6 +774,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [RedGL](https://github.com/redcamel/RedGL2) - JavaScript 3D WebGL library.
     - 🎉 [Regl](https://github.com/regl-project/regl) - Fast functional WebGL.
     - 🎉 [SwissGL](https://github.com/google/swissgl) - Minimalistic wrapper on top of WebGL2.
+    - 🎉 [ThingJS](https://github.com/uinosoft/t3d.js) - Lightweight, extendable 3D library, aka _t3d_.
     - 🎉 [Three.js](https://github.com/mrdoob/three.js/) 🔥 - General-purpose 3D library. [[Awesome](https://github.com/0xAxiome/awesome-threejs) | [Docs](https://threejs.org) | [Editor](https://threejs.org/editor/) | [Examples](https://threejs.org/examples/)]
     - 🎉 [TWGL](https://github.com/greggman/twgl.js) - Tiny WebGL helper Library. [[Examples](http://twgljs.org/)]
     - 📚 [WebGL Frameworks](https://en.wikipedia.org/wiki/List_of_WebGL_frameworks) - List of WebGL frameworks on Wikipedia.

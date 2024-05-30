@@ -126,6 +126,7 @@
 
 - [Stacks.js](https://github.com/hirosystems/stacks.js) - Monorepo for JavaScript libraries for interacting with the Stacks blockchain.
 - [stacks.rs](https://github.com/52/stacks.rs) - A Rust toolkit to interact with the Stacks Blockchain.
+- [stacks.py](https://github.com/rohitverma007/stackspy) - Python Library to interact with the Stacks blockchain.
 
 ### CLI
 

@@ -76,6 +76,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [2006rebotted](https://github.com/dginovker/2006rebotted) - A 2006 RuneScape 2 Emulation Server. :flower_playing_cards:
 - [2004scape](https://2004scape.org) - A free & open-source remake of 2004 era RuneScape 2. :flower_playing_cards:
 - [2009scape](https://2009scape.org) - A free & open-source remake of 2009 era RuneScape 2. :flower_playing_cards:
+- [ACEmulator](https://emulator.ac) - A custom, completely from-scratch open source server emulator for Asheron’s Call built on C#. :flower_playing_cards:
 - [FreeSO](https://github.com/riperiperi/FreeSO) - Reimplementation of The Sims Online, targetted mainly at mobile devices. :flower_playing_cards:
 - [Meridian 59](https://github.com/Meridian59/Meridian59) - The first 3D MMORPG, released in 1996 and open sourced in 2012. The original codebase for Meridian 59.
 - [MineClone2](https://git.minetest.land/MineClone2/MineClone2) - Stable, moddable & free/libre clone of Minecraft based on the Minetest engine. :flower_playing_cards:

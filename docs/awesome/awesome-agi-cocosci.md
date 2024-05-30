@@ -692,6 +692,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [OpenLaw](https://docs.openlaw.io/) - ***OpenLaw.io***. It is now possible to model all or parts of legal agreements using code (smart contracts), decreasing the cost and friction of creating, securing, and generating binding legal agreements. Lawyers lack basic tools to build these dynamic, “smart” contracts in a way that is enforceable and understandable to a legal professional. OpenLaw is a technology stack to help power next generation "smart" legal agreements, with a domain-specific markup language, a integration framework, and a series of general applications.
 
+* [A Language for Counterfactual Generative Models](http://proceedings.mlr.press/v139/tavares21a.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=2067748786482591497)]. This paper presents Omega, a probabilistic programming language with support for counterfactual inference. This feature is accomplished by introducing a new operator to probabilistic programming akin to Pearl’s do. 
+
 
 #### DSL Program Synthesis
 
@@ -1583,8 +1585,6 @@ organized into intricate patterns that seem to be consistent across individuals.
 * [Theory-Based Causal Transfer: Integrating Instance-Level Induction and Abstract-Level Structure Learning](https://ojs.aaai.org//index.php/AAAI/article/view/5483) - ***AAAI'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=9411622427165139667&hl=en&as_sdt=0,5)]. A computatinoal account on causal transfer.
 
 * [Inferring causal networks from observations and interventions](https://onlinelibrary.wiley.com/doi/abs/10.1207/s15516709cog2703_6) - ***Cognitive Science***, 2010. [[All Versions](https://scholar.google.com/scholar?cluster=12050301037347772984&hl=en&as_sdt=2005&sciodt=0,5)].
-
-* [A Language for Counterfactual Generative Models](http://proceedings.mlr.press/v139/tavares21a.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=11606362305211066214&hl=en&as_sdt=0,5)].
 
 * [Constraints on Hypothesis Selection in Causal Learning](https://cogsci.mindmodeling.org/2015/papers/0418/paper0418.pdf) - ***CogSci'15***, 2015. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=2005&sciodt=0%2C5&cites=16920774374067505248&scipsc=&q=Constraints+on+hypothesis+selection+in+causal+learning&btnG=)].
 

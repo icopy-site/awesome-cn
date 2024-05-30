@@ -1,13 +1,15 @@
 <div class="github-widget" data-repo="balintkissdev/awesome-dos"></div>
 ## Awesome DOS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
+Family of operating systems for x86-based personal computers including IBM PC DOS and MS-DOS that were popular during the 1980s and early 1990s.
 
 [<img src="https://raw.githubusercontent.com/balintkissdev/awesome-dos/master/logo.svg?sanitize=true" align="right" width="100">](https://github.com/balintkissdev/awesome-dos)
 
-A curated list of references for development of DOS applications and learning about the system itself. This includes
-list of compilers, tutorials, videos, links to free and paid books and source code to DOS games. The goal of this list
-is to collect information and act as a starting point for someone who wants to start out retro-programming for the DOS
+A curated list of references for development of DOS applications and learning
+about the system itself. This includes list of compilers, tutorials, videos,
+links to free and paid books and source code to DOS operating systems and DOS
+games. The goal of this list is to collect information and act as a starting
+point for someone who wants to start out retro-programming for the DOS
 platform.
 
 
@@ -80,6 +82,10 @@ platform.
 - [Ralph Brown's Interrupt List - HTML version](https://web.archive.org/web/20201111162212/http://www.ctyme.com/rbrown.htm) - List of every documented and undocumented interrupt call known, accessible through search, categories and interrupt numbers.
   - Original in downloadable .zip files from [Ralph Brown's website](https://web.archive.org/web/20201108093425/http://www.cs.cmu.edu/~ralf/files.html)
 
+### Memory
+
+- [A look back at memory models in 16-bit MS-DOS](https://devblogs.microsoft.com/oldnewthing/20200728-00/?p=104012) - Raymond Chen's explanation of segmented memory, including near- and far pointers.
+
 ### Video
 
 - [Values for standard video mode](https://web.archive.org/web/20200214123701/http://www.columbia.edu/~em36/wpdos/videomodes.txt) - List of all known video modes including BIOS interrupt numbers, text/pixel resolution, number of colors and video memory addresses.
@@ -92,6 +98,7 @@ platform.
 
 - [VGA Hardware - OSDev wiki](https://wiki.osdev.org/VGA_Hardware) - Hardware guide for VGA cards that is also relevant for modern graphics cards including NVidia and ATI.
 - [Graphical programming in Assembly (DOS)](http://web.archive.org/web/20201112040702/http://www.wagemakers.be/english/doc/vga) - A VGA programming tutorial that also shows the list of video modes (text, CGA, EGA, VGA, SVGA) in a table at the beginning.
+- [VGA programming lessons](http://joco.homeserver.hu/vgalessons/) - VGA programming tutorial series in Pascal and Assembly.
 
 #### SVGA
 
@@ -131,10 +138,10 @@ platform.
 
 ### Free
 
-- [Game Engine Black Book: Wolfenstein 3D - by Fabien Sanglard](https://fabiensanglard.net/b/gebbwolf3d.pdf) - Fabien Sanglard's walkthrough on the game engine architecture of id Software's Wolfenstein 3D on the IBM PC's hardware. Contains forewords by John Carcmack, Tom Hall and John Romero.
-- [Game Engine Black Book: Doom - by Fabien Sanglard](https://fabiensanglard.net/b/gebbdoom.pdf) - Fabien Sanglard's walkthrough on the game engine architecture of id Software's original Doom on Intel 486 system and game console ports. Contains forewords by John Carcmack, Dave Taylor and John Romero.
+- [Game Engine Black Book: Wolfenstein 3D - by Fabien Sanglard](https://web.archive.org/web/20221226120420/https://fabiensanglard.net/b/gebbwolf3d.pdf) - Fabien Sanglard's walkthrough on the game engine architecture of id Software's Wolfenstein 3D on the IBM PC's hardware. Contains forewords by John Carcmack, Tom Hall and John Romero.
+- [Game Engine Black Book: Doom - by Fabien Sanglard](https://web.archive.org/web/20221225164613/https://fabiensanglard.net/b/gebbdoom.pdf) - Fabien Sanglard's walkthrough on the game engine architecture of id Software's original Doom on Intel 486 system and game console ports. Contains forewords by John Carcmack, Dave Taylor and John Romero.
 - [A to Z of C - a book on C/DOS programming by K. Joseph Wesley and R. Rajesh Jeba Anbiah](https://web.archive.org/web/20201109033646/http://guideme.itgo.com/atozofc/) - Non-profit book on programming in C on DOS. DOS system programming starts from Part II.
-- [Michael Abrash's Graphics Programming Black Book Special Edition](https://web.archive.org/web/20201112020812/http://www.phatcode.net/res/224/files/html/index.html) - Collection of Michael Abrash's Dr. Dobb's Journal graphics programming articles and his work on the graphics subsystem of Quake.
+- [Michael Abrash's Graphics Programming Black Book Special Edition](https://www.drdobbs.com/parallel/graphics-programming-black-book/184404919) - Collection of Michael Abrash's Dr. Dobb's Journal graphics programming articles and his work on the graphics subsystem of Quake ([mirror](https://web.archive.org/web/20201112020812/http://www.phatcode.net/res/224/files/html/index.html)).
 
 ### Paid
 
@@ -151,17 +158,25 @@ platform.
 - [DOS Executables Explained - Nostalgia Nerd](https://www.youtube.com/watch?v=6j947U4xl5I) - Video about DOS executable formats including `.COM`, `.BAT` and `.EXE`.
 - [Why does DOS use 8.3 Filenames? - Nostalgia Nerd](https://www.youtube.com/watch?v=eGIyCD2_qA8) - Video about the 8.3 limitation of filenames under DOS, FAT partitioning scheme, NTFS, VFAT, FatGo, and `LFN.EXE`.
 - [What is DOS Protected Mode? / DOS Extenders- Nostalgia Nerd](https://www.youtube.com/watch?v=XAyQLV5bbb0) - Video about how PC memory looks like, conventional memory, extender memory and reasons for the need of DOS Protected Mode Interface (DPMI) and extenders like DOS/4GW.
+- [MS-DOS has been Open-Sourced! We Build and Run it! - Dave's Garage](https://www.youtube.com/watch?v=BR6F0EdyulA) - Former Microsoft employee David Plummer tells stories about development of MS-DOS and compiles MS-DOS 4.00 source code which has been open-sourced by Microsoft.
 
-## Open source DOS libraries
+## Source code
+
+### Open source DOS operating systems
+
+- [MS-DOS](https://github.com/microsoft/MS-DOS) - GitHub repository of the original source code for MS-DOS v1.25, v2.0 and v4.0, open-sourced by Microsoft.
+- [FreeDOS](https://www.freedos.org/) - FreeDOS is an open source DOS-compatible operating system that you can use to play classic DOS games, run legacy business software, or develop embedded systems. Any program that works on MS-DOS should also run on FreeDOS.
+
+### Open source DOS libraries
 
 - [Allegro 4.2](https://www.allegro.cc/files/?v=4.2) - Game development library for DOS, Windows and Linux.
 - [LoveDOS](https://github.com/rxi/lovedos) - A framework for making 2D DOS games in Lua. API based on a subset of the LÖVE API.
 - [DOS-VGA-Game](https://github.com/marcomarrero/DOS-VGA-Game) - Marco A. Marrero's DOS VGA/hardware library implemented in assembly and Turbo Pascal.
 - [DIGPAK sound drivers source code](https://github.com/jratcliff63367/digpak) - Original source code for the DIGPAK sound drivers uploaded to GitHub by John W. Ratcliff.
 
-## Open source DOS games
+### Open source DOS games
 
-### Homebrew games with source code
+#### Homebrew games with source code
 
 List of all homebrew DOS games: http://www.doshaven.eu
 
@@ -188,13 +203,13 @@ List of all homebrew DOS games: http://www.doshaven.eu
 - [x86 pong](https://github.com/spacerace/x86-pong) - Text-mode Pong clone written in C. Runs as PC-Booter game and under DOS.
 - [zmiy](https://sourceforge.net/projects/zmiy/) - Text-mode Snake clone written in C. Runs on 8086 DOS.
 
-### Freeware games with source code
+#### Freeware games with source code
 
 - [Cyberdogs](https://web.archive.org/web/20190222022411/https://www.classicdosgames.com/game/Cyberdogs.html) - Top-down 2D shooter playing as a mercenary to earn money. Written in Turbo Pascal. Supports two player mode.
   - [Source code download link](https://web.archive.org/web/20180120123425/https://www.classicdosgames.com/files/source/dogs_src.zip)
   - [C-Dogs](https://en.wikipedia.org/wiki/C-Dogs) - Sequel to the original Cyberdogs. Ronny Wester, the original creator no longer maintains the website for the original C-Dogs, but multiple ports exists, including [cdogs-sdl](https://congusbongus.itch.io/cdogs-sdl).
 
-### Commercial games with published source code
+#### Commercial games with published source code
 
 - [Abuse](https://web.archive.org/web/20190801083909/https://www.classicdosgames.com/game/Abuse.html) - Sci-fi side-scrolling platform game. Regarded as an innovative cult classic by most people. Supports SVGA mode up to 1280x1024 resolution. Written in C, the architecture includes a Lisp-scripting engine.
   - [Source code download link](https://web.archive.org/web/20160402141350/http://www.classicdosgames.com/files/source/abuse_pd.tgz)
