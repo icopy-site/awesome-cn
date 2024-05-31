@@ -780,6 +780,7 @@ _Packages that help with building Distributed Systems._
 - [dynamolock](https://cirello.io/dynamolock) - DynamoDB-backed distributed locking implementation.
 - [dynatomic](https://github.com/tylfin/dynatomic) - A library for using DynamoDB as an atomic counter.
 - [emitter-io](https://github.com/emitter-io/emitter) - High performance, distributed, secure and low latency publish-subscribe platform built with MQTT, Websockets and love.
+- [evans](https://github.com/ktr0731/evans) - Evans: more expressive universal gRPC client.
 - [failured](https://github.com/andy2046/failured) - adaptive accrual failure detector for distributed systems.
 - [flowgraph](https://github.com/vectaport/flowgraph) - flow-based programming package.
 - [gleam](https://github.com/chrislusf/gleam) - Fast and scalable distributed map/reduce system written in pure Go and Luajit, combining Go's high concurrency with Luajit's high performance, runs standalone or distributed.
@@ -2204,6 +2205,7 @@ _Libraries for testing codebases and generating test data._
 - [mockery](https://github.com/vektra/mockery) - Tool to generate Go interfaces.
 - [mockhttp](https://github.com/tv42/mockhttp) - Mock object for Go http.ResponseWriter.
 - [mooncake](https://github.com/GuilhermeCaruso/mooncake) - A simple way to generate mocks for multiple purposes.
+- [moq](https://github.com/matryer/moq) - Utility that generates a struct from any interface. The struct can be used in test code as a mock of the interface.
 - [timex](https://github.com/cabify/timex) - A test-friendly replacement for the native `time` package.
 - [xgo](https://github.com/xhd2015/xgo) - A general pureposed function mocking library.
 

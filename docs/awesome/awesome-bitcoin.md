@@ -49,6 +49,7 @@ A curated list of bitcoin services and tools for software developers
 ## Open Source Wallets
 * [CoPay by BitPay](https://copay.io/)
 * [Coinb.in](https://coinb.in)
+* [Coin Wallet](https://coin.space/)
 * [Electrum](https://electrum.org/)
 
 ## Blockchain Explorers
