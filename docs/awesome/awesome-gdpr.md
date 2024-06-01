@@ -44,7 +44,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 ## Data Protection Impact Assessments (DPIA, art. 35)
 * [Open-source DPIA software from the French DPA](https://www.cnil.fr/en/open-source-pia-software-helps-carry-out-data-protection-impact-assesment)
 * [Guidelines on Data Protection Impact Assessment (WP29)](https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=611236)
-* [ISO-standard: Guidelines for privacy impact assessment](https://www.iso.org/standard/62289.html)
+* [ISO-standard: Guidelines for privacy impact assessment](https://www.iso.org/standard/86012.html)
 * [DPIA template from ICO](https://iapp.org/resources/article/sample-dpia-template/)
 * [Public DPIA Teams OneDrive SharePoint and Azure AD](https://www.rijksoverheid.nl/documenten/publicaties/2022/02/21/public-dpia-teams-onedrive-sharepoint-and-azure-ad) -  DPIA of Microsoft Teams in combination with OneDrive, SharePoint Online and the Azure Active Directory.
 

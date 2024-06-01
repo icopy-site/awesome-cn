@@ -692,7 +692,7 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [OpenLaw](https://docs.openlaw.io/) - ***OpenLaw.io***. It is now possible to model all or parts of legal agreements using code (smart contracts), decreasing the cost and friction of creating, securing, and generating binding legal agreements. Lawyers lack basic tools to build these dynamic, “smart” contracts in a way that is enforceable and understandable to a legal professional. OpenLaw is a technology stack to help power next generation "smart" legal agreements, with a domain-specific markup language, a integration framework, and a series of general applications.
 
-* [A Language for Counterfactual Generative Models](http://proceedings.mlr.press/v139/tavares21a.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=2067748786482591497)]. This paper presents Omega, a probabilistic programming language with support for counterfactual inference. This feature is accomplished by introducing a new operator to probabilistic programming akin to Pearl’s do. 
+* [A Language for Counterfactual Generative Models](http://proceedings.mlr.press/v139/tavares21a.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=2067748786482591497)]. [[Project](https://github.com/zenna/Omega.jl)]. This paper presents Omega, a probabilistic programming language with support for counterfactual inference. This feature is accomplished by introducing a new operator to probabilistic programming akin to Pearl’s do. 
 
 
 #### DSL Program Synthesis
