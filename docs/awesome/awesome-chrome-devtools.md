@@ -1,163 +1,164 @@
 <div class="github-widget" data-repo="ChromeDevTools/awesome-chrome-devtools"></div>
 ## Awesome Chrome DevTools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-&gt; Chrome DevTools 生态系统中很棒的工具和资源
+> Awesome tooling and resources in the Chrome DevTools ecosystem
 
 
 
 ---
 
 ## Learning
-- [Dev Tips](https://umaar.com/dev-tips/) - 大量提示作为 gif 动画.
-- [DevTools Tips](https://devtoolstips.org/) - 以迷你教程的形式收集图解提示.
-- [Can I DevTools?](https://www.canidev.tools/)  - 各种工作流程，记录在案. 还有每周提示和技巧 [newsletter](https://canidevtools.substack.com/).
-- [Web cheatcodes](https://codepo8.github.io/web-cheatcodes/) - 非开发人员的浏览器开发工具.
-- [Dear Console](https://codepo8.github.io/dearconsole) - 在浏览器控制台中使用的片段集合.
+- [Dev Tips](https://umaar.com/dev-tips/) - Large collection of tips as animated gifs.
+- [DevTools Tips](https://devtoolstips.org/) - Collection of illustrated tips as mini tutorials.
+- [Can I DevTools?](https://www.canidev.tools/) - Various workflows, documented. Also a weekly tips & tricks [newsletter](https://canidevtools.substack.com/).
+- [Web cheatcodes](https://codepo8.github.io/web-cheatcodes/) - Browser developer tools for non-developers.
+- [Dear Console](https://codepo8.github.io/dearconsole) - A collection of snippets to use in the browser console.
 
 ---
 
 ## DevTools tooling and ecosystem
 
 ### Object formatting
-- [immutable-devtools](https://github.com/andrewdavey/immutable-devtools) - Immutable-js 值的自定义格式化程序.
+- [immutable-devtools](https://github.com/andrewdavey/immutable-devtools) - Custom formatter for Immutable-js values.
 
 ### Network Inspection
-- [betwixt](https://github.com/kdzwinel/betwixt) - 系统级网络代理，通过网络面板提供检查.
-- [Weer](https://weerdbg.com/) - 一个 HTTP 协议调试器 **（闭源）**
+- [betwixt](https://github.com/kdzwinel/betwixt) - System level network proxy, providing inspection via Network panel.
+- [Weer](https://weerdbg.com/) - A HTTP protocol debugger **(closed source)**
 
 ### CPU profile
-- [call-trace](https://github.com/brendankenny/call-trace)  - 可以使用挂钩检测您的 JS，然后生成完整（非采样）执行的 `.cpuprofile`. 查看时间或通话次数.
-- [cpuprofilify](https://github.com/thlorenz/cpuprofilify) - 将各种分析/采样工具的输出转换为 .cpuprofile 格式.
-- [Wishbone python framework](https://wishbone.readthedocs.io/en/latest/misc/profiling.html) - 分析数据可以导出为 .cpuprofile.
+- [call-trace](https://github.com/brendankenny/call-trace) - Can instrument your JS with hooks, and then generate a `.cpuprofile`  of the of the complete (non-sampled) execution. View either time or call counts.
+- [cpuprofilify](https://github.com/thlorenz/cpuprofilify) - Converts output of various profiling/sampling tools to the `.cpuprofile` format.
+- [Wishbone python framework](https://wishbone.readthedocs.io/en/latest/misc/profiling.html) - Profiling data can export as `.cpuprofile`.
 
 ### Multimedia
-- [snapline](https://github.com/pmdartus/snapline) - 将时间轴屏幕截图转换为 gif.
+- [snapline](https://github.com/pmdartus/snapline) - Converts timeline screenshots to gif.
 
 ### Timeline, Tracing & Profiling
-- [DevTools Timeline Viewer](https://chromedevtools.github.io/timeline-viewer/) - 分享您的时间线记录的 URL.
+- [DevTools Timeline Viewer](https://chromedevtools.github.io/timeline-viewer/) - Share URLs of your timeline recordings.
 
 ### Chrome Debugger integration with Editors
-- [VS Code - Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug/) - VS Code 中的断点调试.
-- [VS Code - Elements for Microsoft Edge](https://github.com/microsoft/vscode-edge-devtools) - VS Code 中的元素面板.
-- [ChromeREPL](https://github.com/acarabott/ChromeREPL) - 在 Sublime Text 中，使用 Chrome 控制台.
-- [Sublime Web Inspector](http://sokolovstas.github.io/SublimeWebInspector/) - 直接在 Sublime Text 中进行 JavaScript 断点调试.
-- [WebStorm/JetBrains Chrome Extension](https://www.jetbrains.com/help/webstorm/2017.1/configuring-javascript-debugger-and-jetbrains-chrome-extension.html) - WebStorm IDE 可以调试 JavaScript、查看 DOM 树以及实时编辑 HTML、CSS 和 JS.
+- [VS Code - Debugger for Chrome](https://github.com/Microsoft/vscode-chrome-debug/) - Breakpoint debugging in VS Code.
+- [VS Code - Elements for Microsoft Edge](https://github.com/microsoft/vscode-edge-devtools) - Elements panel inside VS Code.
+- [ChromeREPL](https://github.com/acarabott/ChromeREPL) - Within Sublime Text, use the Chrome console.
+- [Sublime Web Inspector](http://sokolovstas.github.io/SublimeWebInspector/) - JavaScript Breakpoint debugging right in Sublime Text.
+- [WebStorm/JetBrains Chrome Extension](https://www.jetbrains.com/help/webstorm/2017.1/configuring-javascript-debugger-and-jetbrains-chrome-extension.html) - The WebStorm IDE can debug JavaScript, view the DOM tree, and edit HTML, CSS and JS live.
 
 ---
 
 ## Chrome DevTools Protocol
-- [ChromeDevTools/devtools-protocol](https://github.com/chromedevtools/devtools-protocol)  - **协议 JSON 的规范位置**. 协议错误的问题跟踪器. 打字稿类型.
-- [DevTools Protocol API Docs](https://chromedevtools.github.io/devtools-protocol/) - 易于浏览的 UI，用于探索协议的域、方法和事件.
+- [ChromeDevTools/devtools-protocol](https://github.com/chromedevtools/devtools-protocol) - **Canonical location of the protocol JSON**. Issue tracker for protocol bugs. TypeScript types.
+- [DevTools Protocol API Docs](https://chromedevtools.github.io/devtools-protocol/) - Easy browsable UI for exploring the protocol's domains, methods and events.
 
 ### Developing with the protocol
-- [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) - 许多有用的食谱.
-- [Chrome Protocol Proxy](https://github.com/wendigo/chrome-protocol-proxy) - 使用 devtools 协议调试客户端的工具.
+- [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) - Many useful recipes.
+- [Chrome Protocol Proxy](https://github.com/wendigo/chrome-protocol-proxy) - Tool for debugging clients using devtools protocol.
 
 ### The big two automation libraries
-- [Puppeteer](https://github.com/GoogleChrome/puppeteer/)  - Node.js 提供高级 API 以通过 DevTools 协议控制无头 Chrome. 也可以看看 [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer).
-- [Playwright](https://github.com/microsoft/playwright)  - 使用单个 API 自动化 Chromium、Firefox 和 WebKit 的库. 适用于 Node.js、Python、.Net、Java. 也可以看看 [awesome-playwright](https://github.com/mxschmitt/awesome-playwright).
+- [Puppeteer](https://github.com/GoogleChrome/puppeteer/) - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol. See also [awesome-puppeteer](https://github.com/transitive-bullshit/awesome-puppeteer).
+- [Playwright](https://github.com/microsoft/playwright) - Library to automate Chromium, Firefox and WebKit with a single API. Available for Node.js, Python, .Net, Java. See also [awesome-playwright](https://github.com/mxschmitt/awesome-playwright).
 
 ### Libraries for driving the protocol (or a layer above)
 
-- JavaScript/Node.js： [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)
-- 打字稿/Node.js： [chrome-debugging-client](https://github.com/TracerBench/chrome-debugging-client)
-- 打字稿/Node.js： [noice-json-rpc](https://www.npmjs.com/package/noice-json-rpc) - 基于代理的实现，将 CDP 公开为其 API.
-- 打字稿/Node.js： [Taiko](https://github.com/getgauge/taiko/)
-- 生锈： [Rust Headless Chrome](https://github.com/atroche/rust-headless-chrome/)
-- 爪哇： [chrome-devtools-java-client](https://github.com/kklisura/chrome-devtools-java-client)
-- 爪哇： [jvppeteer](https://github.com/fanyong920/jvppeteer)  - 用于 Java 的无头 Chrome 
-- Python： [PyCDP](https://github.com/hyperiongray/python-chrome-devtools-protocol)  - 纯 Python，无 IO 包装器. 另见 [Trio CDP driver](https://github.com/hyperiongray/trio-chrome-devtools-protocol)
-- Python： [chromewhip](https://github.com/chuckus/chromewhip) - 直接替换 `splash` 服务
-- Python： [pyppeteer](https://github.com/pyppeteer/pyppeteer) - 傀儡港口
-- Python： [ChromeController](https://github.com/fake-name/ChromeController) - high-level browser mgmt
-- 去： [chromedp](https://github.com/chromedp/chromedp) - 用于驱动浏览器的高级操作和任务
-- 去： [cdp](https://github.com/mafredri/cdp)
-- 去： [gcd](https://github.com/wirepair/gcd)
-- 去： [godet](https://github.com/raff/godet)
-- 去： [Rod](https://github.com/go-rod/rod)
-- C#/.NET: [Puppeteer Sharp](https://github.com/hardkoded/puppeteer-sharp) - 傀儡港口
-- C#/dotnet: [chrome-dev-tools](https://github.com/BaristaLabs/chrome-dev-tools)  - 可以通过编辑车把模板进行自定义的协议包装器生成器. 包括 .Net Core 模板.
-- 红宝石： [Ferrum](https://github.com/route/ferrum) - 在 Ruby 中控制 Chrome 的高级 API
-- 红宝石： [Cuprite](https://github.com/machinio/cuprite) - 水豚司机
-- 科特林： [chrome-reactive-kotlin](https://github.com/wendigo/chrome-reactive-kotlin) - 反应式 (rxjava 2.x)，Kotlin 中的低级客户端库
-- 科特林： [chrome-devtools-kotlin](https://github.com/joffrey-bion/chrome-devtools-kotlin) - 基于协程的客户端库，提供低级 CDP 原语和高级扩展.
-- Clojure： [clj-chrome-devtools](https://github.com/tatut/clj-chrome-devtools) - CDP 包装器 API 是自动生成的，将在 CDP 协议更改时更新.
-- Clojure： [cuic](https://github.com/milankinen/cuic) - 通过 DevTools 协议为 UI 测试自动化提供高级 API.
-- PHP： [chrome-devtools-protocol](https://github.com/jakubkulhan/chrome-devtools-protocol) - 该协议的 PHP 客户端库.
-- PHP： [PuPHPeteer](https://github.com/rialto-php/puphpeteer) - 到 node puppeteer 的 php 桥
+- JavaScript/Node.js: [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface)
+- TypeScript/Node.js: [chrome-debugging-client](https://github.com/TracerBench/chrome-debugging-client)
+- Typescript/Node.js: [noice-json-rpc](https://www.npmjs.com/package/noice-json-rpc) - A proxy-based implementation to expose the CDP as its API.
+- Typescript/Node.js: [Taiko](https://github.com/getgauge/taiko/)
+- Rust: [Rust Headless Chrome](https://github.com/atroche/rust-headless-chrome/)
+- Java: [chrome-devtools-java-client](https://github.com/kklisura/chrome-devtools-java-client)
+- Java: [jvppeteer](https://github.com/fanyong920/jvppeteer)  - Headless Chrome For Java 
+- Python: [PyCDP](https://github.com/hyperiongray/python-chrome-devtools-protocol) - Pure-Python, sans-IO wrappers. See also the [Trio CDP driver](https://github.com/hyperiongray/trio-chrome-devtools-protocol)
+- Python: [chromewhip](https://github.com/chuckus/chromewhip) - drop-in replacement for the `splash` service
+- Python: [pyppeteer](https://github.com/pyppeteer/pyppeteer) - puppeteer port
+- Python: [ChromeController](https://github.com/fake-name/ChromeController) - high-level browser mgmt
+- Go: [chromedp](https://github.com/chromedp/chromedp) - High-level actions and tasks for driving browsers
+- Go: [cdp](https://github.com/mafredri/cdp)
+- Go: [gcd](https://github.com/wirepair/gcd)
+- Go: [godet](https://github.com/raff/godet)
+- Go: [Rod](https://github.com/go-rod/rod)
+- C#/.NET: [Puppeteer Sharp](https://github.com/hardkoded/puppeteer-sharp) - puppeteer port
+- C#/dotnet: [chrome-dev-tools](https://github.com/BaristaLabs/chrome-dev-tools) - Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.
+- Ruby: [Ferrum](https://github.com/route/ferrum) - high-level API to control Chrome in Ruby
+- Ruby: [Cuprite](https://github.com/machinio/cuprite) - Capybara driver
+- Kotlin: [chrome-reactive-kotlin](https://github.com/wendigo/chrome-reactive-kotlin) - reactive (rxjava 2.x), low-level client library in Kotlin
+- Kotlin: [chrome-devtools-kotlin](https://github.com/joffrey-bion/chrome-devtools-kotlin) - A coroutine-based client library, providing low-level CDP primitives and high-level extensions.
+- Clojure: [clj-chrome-devtools](https://github.com/tatut/clj-chrome-devtools) - The CDP wrapper API is autogenerated and will be updated when CDP protocol changes.
+- Clojure: [cuic](https://github.com/milankinen/cuic) - Providing a high-level API for UI test automation over the DevTools Protocol.
+- PHP: [chrome-devtools-protocol](https://github.com/jakubkulhan/chrome-devtools-protocol) - A PHP client library for the protocol.
+- PHP: [PuPHPeteer](https://github.com/rialto-php/puphpeteer) - php bridge to node puppeteer
 
 
 ### Browser Adapters
-- [Inspect](https://inspect.dev/)  - 轻松使用针对 iOS 和 Android 的开发工具. 浏览器和网络视图.  **（闭源）**
+- [devtools-remote-debugger](https://github.com/Nice-PLQ/devtools-remote-debugger) - Use devtools against a webpage; a CDP agent implemeted in client-side JS.
+- [Inspect](https://inspect.dev/) - Use devtools against iOS and Android, easily. Browser and Webviews. **(closed source)**
 
 
 ## Using DevTools frontend with other platforms
 
 #### Android
-- [Facebook Stetho](https://github.com/facebook/stetho) - 使用 Chrome DevTools 进行本机 Android 调试.
-- [j2v8-debugger](https://github.com/AlexTrotsenko/j2v8-debugger) - 调试运行中的 JavaScript [J2V8](https://github.com/eclipsesource/J2V8) 使用 Chrome 开发者工具.
+- [Facebook Stetho](https://github.com/facebook/stetho) - Native Android debugging with Chrome DevTools.
+- [j2v8-debugger](https://github.com/AlexTrotsenko/j2v8-debugger) - Debugging JavaScript running in [J2V8](https://github.com/eclipsesource/J2V8) with Chrome DevTools.
 
 #### ClojureScript
-- [Dirac](https://github.com/binaryage/dirac) - 调试 ClojsureScript.
+- [Dirac](https://github.com/binaryage/dirac) - Debugging of ClojsureScript.
 
 #### iOS
-- [PonyDebugger](https://github.com/square/PonyDebugger) - 使用 Chrome DevTools 远程网络和数据调试 iOS 应用程序.
+- [PonyDebugger](https://github.com/square/PonyDebugger) - Remote network and data debugging iOS apps with Chrome DevTools.
 
 #### Node.js
-- [ndb](https://github.com/GoogleChromeLabs/ndb) - 改进了 DevTools 前端的 Node.js 调试体验.
-- [Debugging Node.js with Chrome DevTools](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27) - 关于在 Node v6.3+ 中使用完整调试和分析支持的指南.
-- [thetool](https://github.com/sfninja/thetool) - CPU、内存、覆盖率、使用 Node 进行类型分析.
-- [chrome-devtools-frontend](https://www.npmjs.com/package/chrome-devtools-frontend) - Chrome 中附带的前端镜像.
+- [ndb](https://github.com/GoogleChromeLabs/ndb) - An improved Node.js debugging experience with the DevTools Frontend.
+- [Debugging Node.js with Chrome DevTools](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27) - Guide on using the full debugging and profiling support in Node v6.3+.
+- [thetool](https://github.com/sfninja/thetool) - CPU, memory, coverage, type profiling with Node.
+- [chrome-devtools-frontend](https://www.npmjs.com/package/chrome-devtools-frontend) - Mirror of the frontend that ships in Chrome.
 
 #### Ruby
-- [ruby/debug](https://github.com/ruby/debug) - Ruby 的调试功能.
+- [ruby/debug](https://github.com/ruby/debug) - Debugging functionality for Ruby.
 
 ---
 
 ## DevTools Extensions
 
 ### Accessibility (A11y)
-- [Chromelens](https://chrome.google.com/webstore/detail/chromelens/idikgljglpfilbhaboonnpnnincjhjkd) - 查看您的 Web 应用程序对具有不同视觉类型的人的看法，以及用户在浏览您的页面时的路径.
+- [Chromelens](https://chrome.google.com/webstore/detail/chromelens/idikgljglpfilbhaboonnpnnincjhjkd) - See how your web app will look to people with different types of vision and the path users will travel when tabbing through your page.
 
 ### Workflow
-- [Clockwork](https://chrome.google.com/webstore/detail/clockwork/dmggabnehkmmfmdffgajcflpdjlnoemp?hl=en) - 查看 PHP 应用程序分析数据.
-- [Emulated Device Lab](https://chrome.google.com/webstore/detail/emulated-device-lab/oaonfodocibcdobdeelbbfggjombamff) - 尝试同时模拟多个设备.
-- [RailsPanel](https://chrome.google.com/webstore/detail/railspanel/gjpfobpafnhjhbajcjgccbbdofdckggg?hl=en-US) - 查看 Ruby on Rails 应用程序分析数据.
-- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - 检查 React 组件层次结构.
-- [EmberJS Inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi) - 允许您检查应用程序中的 EmberJS 对象.
-- [VueJS Developer Tools](https://github.com/vuejs/vue-devtools) - 检查 VueJS 组件并操作它们的数据.
-- [Angular Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk) - 检查 Angular 应用程序的范围并分析其数据.
-- [Augury](https://augury.angular.io) - Angular 2 应用程序的调试和分析.
-- [Marionette Inspector](https://chrome.google.com/webstore/detail/marionette-inspector/fbgfjlockdhidoaempmjcddibjklhpka) - 检查 Marionette 应用程序的视图、事件和实时数据.
-- [Backbone Debugger](https://chrome.google.com/webstore/detail/backbone-debugger/bhljhndlimiafopmmhjlgfpnnchjjbhd) - 检查主干应用程序的视图、模型、事件和路由.
-- [App Inspector for Sencha](https://chrome.google.com/webstore/detail/app-inspector-for-sencha/pbeapidedgdpniokbedbfbaacglkceae) - 检查 Sencha ExtJS/Touch 应用程序的组件树、数据存储、事件和布局.
-- [Redux Devtools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) - 检查 Redux 的操作历史、撤消和重播.
-- [Three.js](https://chrome.google.com/webstore/detail/threejs-editor-extension/fbgbekpggeldiacgjkacbkkcbjhmakea/) - 编辑任何 three.js 项目.
-- [Insight](https://github.com/3Dparallax/insight/) - 一个 WebGL 调试工具包，可实现更高效的 WebGL 开发和更高效的 WebGL 应用程序.
-- [BEM devtools](https://github.com/escaton/bem-chrome-devtools) - 检查在 `i-bem` 框架中表达的 BEM 实体.
-- [Metal.js Developer Tools](https://chrome.google.com/webstore/detail/metaljs-developer-tools/fagnjmppkokolnbloalifcmcooldhiik) - 检查金属组件层次结构.
-- [Web Component DevTools](https://chrome.google.com/webstore/detail/web-component-devtools/gdniinfdlmmmjpnhgnkmfpffipenjljo) - 检查、修改和观察页面上的 Web Components.
+- [Clockwork](https://chrome.google.com/webstore/detail/clockwork/dmggabnehkmmfmdffgajcflpdjlnoemp?hl=en) - View PHP application profiling data.
+- [Emulated Device Lab](https://chrome.google.com/webstore/detail/emulated-device-lab/oaonfodocibcdobdeelbbfggjombamff) - Experiment with multiple devices being emulated at the same time.
+- [RailsPanel](https://chrome.google.com/webstore/detail/railspanel/gjpfobpafnhjhbajcjgccbbdofdckggg?hl=en-US) - View Ruby on Rails application profiling data.
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) - Inspect the React component hierarchies.
+- [EmberJS Inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi) - Allows you to inspect EmberJS objects in your application.
+- [VueJS Developer Tools](https://github.com/vuejs/vue-devtools) - Inspect VueJS components and manipulate their data.
+- [Angular Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk) - Inspect an Angular application's scope and profile its data.
+- [Augury](https://augury.angular.io) - Debugging and Profiling for Angular 2 applications.
+- [Marionette Inspector](https://chrome.google.com/webstore/detail/marionette-inspector/fbgfjlockdhidoaempmjcddibjklhpka) - Inspect a Marionette application's views, events, and live data.
+- [Backbone Debugger](https://chrome.google.com/webstore/detail/backbone-debugger/bhljhndlimiafopmmhjlgfpnnchjjbhd) - Inspect a Backbone application's views, models, events, and routes.
+- [App Inspector for Sencha](https://chrome.google.com/webstore/detail/app-inspector-for-sencha/pbeapidedgdpniokbedbfbaacglkceae) - Inspect a Sencha ExtJS/Touch application's component tree, data stores, events, and layouts.
+- [Redux Devtools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) - Inspect Redux with actions history, undo and replay.
+- [Three.js](https://chrome.google.com/webstore/detail/threejs-editor-extension/fbgbekpggeldiacgjkacbkkcbjhmakea/) - Edit any three.js project.
+- [Insight](https://github.com/3Dparallax/insight/) - A WebGL debugging toolkit which enables more productive WebGL development and more efficient WebGL applications.
+- [BEM devtools](https://github.com/escaton/bem-chrome-devtools) - Inspect BEM entities expressed in `i-bem` framework.
+- [Metal.js Developer Tools](https://chrome.google.com/webstore/detail/metaljs-developer-tools/fagnjmppkokolnbloalifcmcooldhiik) - Inspect the Metal component hierarchies.
+- [Web Component DevTools](https://chrome.google.com/webstore/detail/web-component-devtools/gdniinfdlmmmjpnhgnkmfpffipenjljo) - Inspect, modify and observe Web Components on page.
 
 ### Themes
-- [DevTools Author](https://chrome.google.com/webstore/detail/devtools-author/egfhcfdfnajldliefpdoaojgahefjhhi) - 一系列主题，用于修改与编写 Web 应用程序相关的 DevTools 部分.
-- [Zero Dark Matrix](https://chrome.google.com/webstore/detail/devtools-theme-zero-dark/bomhdjeadceaggdgfoefmpeafkjhegbo) - Chrome 开发者工具的深色主题.
-- [Material UI Theme](https://chrome.google.com/webstore/detail/material-devtools-theme-c/jmefikbdhgocdjeejjnnepgnfkkbpgjo) - 提供各种受 Material Design 启发的主题.
+- [DevTools Author](https://chrome.google.com/webstore/detail/devtools-author/egfhcfdfnajldliefpdoaojgahefjhhi) - A selection of themes to modify parts of DevTools related to authoring web applications.
+- [Zero Dark Matrix](https://chrome.google.com/webstore/detail/devtools-theme-zero-dark/bomhdjeadceaggdgfoefmpeafkjhegbo) - Dark theme for Chrome Developer Tools.
+- [Material UI Theme](https://chrome.google.com/webstore/detail/material-devtools-theme-c/jmefikbdhgocdjeejjnnepgnfkkbpgjo) - Provides various Material Design inspired themes.
 
 ### Performance
-- [sloth](https://github.com/denar90/sloth) - Chrome 扩展允许为选定的选项卡启用和保存 CPU 和网络节流.
-- [TracerBench](https://github.com/TracerBench/tracerbench) - TracerBench 是一种用于 Web 应用程序的受控性能基准测试工具，可提供对性能增量的清晰、可操作和可用的洞察.
+- [sloth](https://github.com/denar90/sloth) - Chrome extension allows to enable and save CPU and network throttling for selected tabs.
+- [TracerBench](https://github.com/TracerBench/tracerbench) - TracerBench is a controlled performance benchmarking tool for web applications, providing clear, actionable and usable insights into performance deltas.
 
 ### Automation
-- [Puppeteer IDE](https://github.com/gajananpp/puppeteer-ide-extension) - 浏览器开发工具中的独立 Puppeteer 游​​乐场.
+- [Puppeteer IDE](https://github.com/gajananpp/puppeteer-ide-extension) - Standalone Puppeteer playground in browser's developer tools.
 
 ## Alumni
-旧项目，可能不再维护了……但仍然很酷.
+Old projects, likely not maintained any longer… But still cool.
 
-- [Remote Debug Gateway](https://github.com/RemoteDebug/remotedebug-gateway) - 允许您一次将客户端连接到多个浏览器.  
-   - 多用户开发工具： [DevTools Remote](https://github.com/auchenberg/devtools-remote) - 远程调试别人的浏览器.
-- [DevTools Backend](https://github.com/christian-bromann/devtools-backend) - Chrome DevTools 后端的独立实现，用于调试任意网络环境.
-- Python CDP 驱动程序： [pychrome](https://github.com/fate0/pychrome) - 低级 CDP 传输处理程序
-- [ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) - 通过 CDP 公开 Mobile Safari 和 UIWebView 实例.
-  - [Remote Debug iOS WebKit adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter) - 基于 ios-webkit-debug-proxy 构建并将 WebKit 的远程调试协议 API 转换为 CDP.
-- [IE Diagnostics Adapter](https://github.com/Microsoft/IEDiagnosticsAdapter) - Microsoft IE 11 到 CDP 的协议适配器.
+- [Remote Debug Gateway](https://github.com/RemoteDebug/remotedebug-gateway) - Allows you to connect a client to multiple browsers at once.  
+   - Multiuser DevTools: [DevTools Remote](https://github.com/auchenberg/devtools-remote) - Remotely debug someone else's browser.
+- [DevTools Backend](https://github.com/christian-bromann/devtools-backend) - Standalone implementation of the Chrome DevTools backend to debug arbitrary web environments.
+- Python CDP driver: [pychrome](https://github.com/fate0/pychrome) - low level CDP transport handler
+- [ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) - Exposes Mobile Safari & UIWebView instances via the CDP.
+  - [Remote Debug iOS WebKit adapter](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter) - Builts upon ios-webkit-debug-proxy and translates WebKit's Remote Debugging Protocol API to the CDP.
+- [IE Diagnostics Adapter](https://github.com/Microsoft/IEDiagnosticsAdapter) - Protocol adaptor for Microsoft IE 11 to CDP.
 - [go-debugger-devtools](https://github.com/allada/go-debugger-devtools)

@@ -375,7 +375,7 @@ These are libraries for working with graphics, rather than making GUIs (i.e. wid
 * [Varjo](https://github.com/cbaggers/varjo) - Lisp to GLSL translator. [BSD_2Clause][17].
 * [Vecto](http://www.xach.com/lisp/vecto/) - Simple vector drawing library. [FreeBSD][39].
 * [zpng](http://www.xach.com/lisp/zpng/) - A library for creating PNG files. [FreeBSD][39].
-* [pngload-fast](https://git.mfiano.net/mfiano/pngload) - A PNG (Portable Network Graphics) image format decoder in portable Common Lisp with an emphasis on speed. [MIT][200].
+* [pngload-fast](https://github.com/lisp-mirror/pngload) - A PNG (Portable Network Graphics) image format decoder in portable Common Lisp with an emphasis on speed. [MIT][200].
 
 Those are bindings:
 
@@ -1143,7 +1143,7 @@ Service (S3) and CloudFront service. [BSD][15].
 * [cl-pushover](https://github.com/TeMPOraL/cl-pushover) -  Common Lisp bindings to Pushover. [MIT][200].
 * [humbler](https://github.com/Shinmera/humbler) - A Tumblr API interface. [zlib][33].
 * [multiposter](https://github.com/Shinmera/multiposter) - post to multiple services simultaneously. [zlib][33].
-* [stripe](https://git.mfiano.net/mfiano/stripe) - a client for the Stripe payment system. [MIT][200].
+* [stripe](https://github.com/atlas-engineer/stripe) - a client for the Stripe payment system. [MIT][200].
 * [lisp-pay](https://github.com/K1D77A/lisp-pay) - Wrappers around various payment processors: Paypal, Stripe, Coinpayments and BTCPayServer. [MIT][200].
 * [lunamech-matrix-api](https://github.com/K1D77A/lunamech-matrix-api) - A complete wrapper over the Client -> Server Matrix API. [MIT][200].
 * [cl-telegram-bot](https://40ants.com/cl-telegram-bot/) - Telegram bot API. [MIT][200].
@@ -1174,7 +1174,6 @@ Numerical and Scientific
 * [cl-geometry](https://github.com/Ramarren/cl-geometry/) - a system for two dimensional computational geometry for Common Lisp. [MIT][200].
 * [Vellum](https://github.com/sirherrbatka/vellum) - Data Frames for Common Lisp. BSD_2Clause.
 * [rtg-math](https://github.com/cbaggers/rtg-math/) - a selection of the math routines most commonly needed for making realtime graphics in lisp (2, 3 and 4 component vectors, 3x3 and 4x4 matrices, quaternions, spherical and polar coordinates). BSD_2Clause.
-* [origin](https://github.com/mfiano/origin) - A native Lisp graphics math library with an emphasis on performance and correctness. Includes: vectors, matrices (up to 4x4), quaternions, single/double-float support, destructive/non-destructive operations, shaping & intersections. [MIT][200].
 
 Planning solvers:
 

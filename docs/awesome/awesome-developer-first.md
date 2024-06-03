@@ -248,6 +248,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Highlight.io](https://www.highlight.io/) - Full-stack monitoring platform. [![Highlight.io](https://img.shields.io/github/stars/highlight/highlight?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/highlight/highlight)
 * [KeenIO](https://keen.io/) - Event streaming platform.
 * [LogRocket](https://logrocket.com/) - Replay bugs users had.
+* [Pagerly](https://pagerly.io) - Manage Oncalls, Tickets, Incidents in Slack.
 * [Rollbar](https://rollbar.com/) - Reports errors in production.
 * [Sentry](https://sentry.io/) - Application monitoring for bugs and performance.
 
@@ -308,8 +309,10 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Bearer](https://www.bearer.com/) - Static application security testing (SAST) tool for JavaScript and Ruby stacks.
 * [GitGuardian](https://www.gitguardian.com/) - Real-time GitHub activity scanner.
 * [Infisical](https://infisical.com) - Open-source, end-to-end encrypted secrets manager. [![Infisical](https://img.shields.io/github/stars/infisical/infisical?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/infisical/infisical)
+* [Pixee](https://www.pixee.ai/) - Automated vulnerability remediation. Fixes vulnerabilities and hardens code. 
 * [Snyk](https://snyk.io/) - Vulnerability scanner for code, dependencies, containers, and infrastructure as code.
 * [Socket](https://socket.dev/) - Detect and block open-source supply chain attacks.
+
 
 ## Shipping
 *Creating and handling the shipment of goods.*
@@ -322,6 +325,7 @@ For the latest additions [click here](https://github.com/agamm/awesome-developer
 * [Beeceptor](https://beeceptor.com/) - REST API mocking.
 * [Blackfire.io](https://blackfire.io/) - Performance testing.
 * [Chromatic](https://www.chromatic.com/) - Visual UI testing for storybook.
+* [CodSpeed](https://github.com/agamm/awesome-developer-first/blob/master/codspeed.io) - Continuous Performance Testing in CI environments.
 * [Ddosify](https://ddosify.com/) - Distributed Performance Testing Platform.
 * [Firecamp](https://firecamp.io) - DX first open-source API dev tool alternative to Postman. [![Firecamp](https://img.shields.io/github/stars/firecamp-dev/firecamp?style=flat-square&logo=github&labelColor=%230D1117&color=%23161B22)](https://github.com/firecamp-dev/firecamp)
 * [Loadmill](https://www.loadmill.com/) - Generate tests from user behavior.

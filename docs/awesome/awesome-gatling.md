@@ -12,9 +12,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 ## Official Resources
 <!--lint ignore double-link-->
 - [Homepage](https://gatling.io/)
-  - [Gatling](https://gatling.io/open-source/) - Open-source version.
-  - [Gatling Enterprise](https://gatling.io/enterprise/) - Enterprise version (formerly known as Gatling FrontLine), with advanced analytics and integrations.
-- [Documentation](https://gatling.io/docs/gatling/)
+- [Documentation](https://docs.gatling.io/)
 - [Source code](https://github.com/gatling/gatling)
 
 ## Getting Started
@@ -33,8 +31,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 ## Distributed Testing
 
-- [Scaling out with Gatling](https://gatling.io/docs/gatling/guides/scaling_out/) - Recipe to use several Gatling instances hosted using multiple machines from official Gatling documentation.
-- [Distributed load testing with Gatling and Kubernetes](https://medium.com/de-bijenkorf-techblog/https-medium-com-annashepeleva-distributed-load-testing-with-gatling-and-kubernetes-93ebce26edbe)
+- [Distributed load testing with Gatling and Kubernetes](https://debijenkorf.tech/https-medium-com-annashepeleva-distributed-load-testing-with-gatling-and-kubernetes-93ebce26edbe)
 - [Gatling – Scaling Out Your Load Tests](https://web.archive.org/web/20210625094528/http://www.nimrodstech.com/gatling-cluster-load-testing/)
 - [Distributed Gatling](https://github.com/Abiy/distGatling) - Solution to run Gatling simulation tests in a distributed/cluster environment.
 - [gatling-operator](https://github.com/st-tech/gatling-operator) - Automating distributed Gatling load testing using Kubernetes operator.
@@ -65,11 +62,10 @@ A curated collection of resources covering all aspects of load testing using [Ga
 - [gatling-bolt](https://github.com/sarmbruster/gatling-bolt) - Support Neo4j Bolt protocol for Gatling.
 - [gatling-zeromq](https://github.com/softwaremill/gatling-zeromq) - A Gatling stress test plugin for ZeroMQ protocol.
 - [gatling-dubbo](https://github.com/youzan/gatling-dubbo) - A Gatling plugin for running load tests on Apache Dubbo.
-- [gatling-cql](https://github.com/gatling-cql/GatlingCql) - Gatling support for Apache Cassandra CQL.
 
 ### Frameworks
 
-- [Kraken](https://github.com/OctoPerf/kraken) - Load testing IDE based on Gatling by [OctoPerf](https://octoperf.com/categories/kraken/).
+- [Kraken](https://github.com/OctoPerf/kraken) - Load testing IDE based on Gatling by OctoPerf.
 - [Karate Gatling](https://karatelabs.github.io/karate/karate-gatling/) - Re-use Karate API-tests as performance tests executed by Gatling.
 - [Taurus](https://gettaurus.org/docs/Gatling/) - Gatling Executor in Taurus framework.
 - [Carrier](https://getcarrier.io/) - Continuous test execution platform with ability to perform load testing using customized JMeter and Gatling containers.
@@ -97,7 +93,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 ## Trainings & Courses
 
-- [Gatling Academy](https://gatling.io/academy/)
+- [Gatling Academy](https://academy.gatling.io/)
 - [Gatling Courses](https://www.udemy.com/topic/gatling/) - By Udemy.
 - [Performance Test Automation 101: Gatling, Lighthouse, & Jenkins](https://www.educative.io/courses/performance-test-automation-101-gatling-lighthouse-jenkins) - By Educative.
 
@@ -107,6 +103,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 - [Load Testing Done Right with Gatling](https://www.youtube.com/watch?v=VUPTaPms210) - Stéphane Landelle @ Voxxed Days Belgrade 2015.
 - [Load Testing Crash Course with Gatling](https://www.youtube.com/watch?v=RiM1GsVSbzM) - Stéphane Landelle @ Devoxx Belgium 2022.
+- [Load Testing Made Easy with Gatling](https://www.youtube.com/watch?v=8Eplj8BvugA) - Rafał Piotrowski @ Scala Days 2023 Madrid.
 
 ### Video Tutorials
 
