@@ -14,9 +14,8 @@ Capacitor is an open-source native runtime for building Web Native apps. Create 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Friderx%2Fawesome-capacitor&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
 </div>
 <div align="center">
-<h2><a href="https://capgo.app/?ref=awesome-list"> ➡️ Get Instant updates for Capacitor App: Capgo 🔔</a></h2>
-	
-<h2><a href="https://capgo.app/consulting/"> Hire a Capacitor consultant 💪</a></h2>
+  <h2><a href="https://capgo.app/?ref=awesomelist"> ➡️ Get Instant updates for your App with Capgo 🚀</a></h2>
+  <h2><a href="https://capgo.app/consulting/?ref=awesomelist"> Fix your annoying bug now, Hire a Capacitor expert 💪</a></h2>
 </div>
 <br>
 
@@ -85,6 +84,7 @@ Community plugins owned by [Capacitor organisation](https://github.com/capacitor
     - [Appcenter](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter) - AppCenter SDK.
     - [Analytics](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-analytics) - AppCenter Analytics.
     - [Crashes](https://github.com/capacitor-community/appcenter-sdk-capacitor/tree/master/appcenter-crashes) - AppCenter Crashes.
+- [MQTT v5](https://github.com/antonymarion/capacitorjs-mqtt-native-plugin) - A native plugin for using MQTT v5 with correlation data and Request/Response Pattern
 - [Native audio](https://github.com/capacitor-community/native-audio) - A native plugin for native audio engine.
 - [Native market](https://github.com/capacitor-community/native-market) - A native market plugin for linking to google play or app store.
 - [Photoviewer](https://github.com/capacitor-community/photoviewer) - PhotoViewer table images with full-screen and sharing capabilities.
