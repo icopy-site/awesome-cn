@@ -675,8 +675,6 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [Universal chemical programming language for robotic synthesis repeatability](https://www.nature.com/articles/s44160-023-00473-6) - ***Nature Synthesis***, 2024. [[All Versions](https://scholar.google.com/scholar?cluster=3455106495990439366)]. [[Preprint](https://www.chem.gla.ac.uk/cronin/images/pubs/rauschen-natsynthesisjan24.pdf)]. This paper presents an approach that uses a universal chemical programming language (χDL) to encode and execute synthesis procedures for a variety of chemical reactions, including reductive amination, ring formation, esterification, carbon–carbon bond formation and amide coupling on four different hardware systems in two laboratories. With around 50 lines of code per reaction, the approach uses abstraction to efficiently compress chemical protocols.
 
-* [iContractML 2.0: A domain-specific language for modeling and deploying smart contracts onto multiple blockchain platforms](https://www.sciencedirect.com/science/article/pii/S0950584921002081) - ***Information and Software Technology***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=1548144959305241494)]. A reference model and platform agnostic language for smart contracts.
-
 * [Scenic: a language for scenario specification and data generation](https://link.springer.com/article/10.1007/s10994-021-06120-5) - ***Machine Learning***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=13790565080942515865)]. Thie paper proposes a domain-specific language, Scenic, for describing scenarios that are distributions over scenes and the behaviors of their agents over time. Scenic combines concise, readable syntax for spatiotemporal relationships with the ability to declaratively impose hard and soft constraints over the scenario.
 
 
@@ -697,6 +695,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 
 * [OpenLaw](https://docs.openlaw.io/) - ***OpenLaw.io***. It is now possible to model all or parts of legal agreements using code (smart contracts), decreasing the cost and friction of creating, securing, and generating binding legal agreements. Lawyers lack basic tools to build these dynamic, “smart” contracts in a way that is enforceable and understandable to a legal professional. OpenLaw is a technology stack to help power next generation "smart" legal agreements, with a domain-specific markup language, a integration framework, and a series of general applications.
+
+* [iContractML 2.0: A domain-specific language for modeling and deploying smart contracts onto multiple blockchain platforms](https://www.sciencedirect.com/science/article/pii/S0950584921002081) - ***Information and Software Technology***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=1548144959305241494)]. A reference model and platform agnostic language for smart contracts.
 
 * [A Language for Counterfactual Generative Models](http://proceedings.mlr.press/v139/tavares21a.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=2067748786482591497)]. [[Project](https://github.com/zenna/Omega.jl)]. This paper presents Omega, a probabilistic programming language with support for counterfactual inference. This feature is accomplished by introducing a new operator to probabilistic programming akin to Pearl’s do. 
 

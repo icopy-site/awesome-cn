@@ -34,10 +34,10 @@ System integration is the process of linking together different IT systems (com
 *API design, documentation, and life-cycle automation tools streamline the process of creating, maintaining, and evolving APIs. These tools offer efficient means to design consistent and scalable APIs, generate comprehensive documentation, and automate various stages of the API life-cycle, enhancing developer experience and promoting API adoption.*
 - [Dredd (⭐4.1k)](https://github.com/apiaryio/dredd) - Validate API description docs against backend implementation using this language-agnostic CLI tool.
 - [OpenAPI-GUI (⭐1.3k)](https://github.com/Mermade/openapi-gui) - Create and validate OpenAPI specs with ease using this intuitive graphical user interface.
-- [OpenAPI Diff (⭐762)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+- [OpenAPI Diff (⭐763)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
 - [OpenAPI Generator (⭐20k)](https://github.com/OpenAPITools/openapi-generator) - Automate the creation of API client libraries, server stubs, documentation and config files with this powerful OpenAPI Spec tool.
 - [OpenAPI Style Validator (⭐197)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
-- [Spectral (⭐2.2k)](https://github.com/stoplightio/spectral) - Detect and fix errors in your JSON/YAML files using this linter tool that supports OpenAPI 3.0 & 2.0 and AsyncAPI.
+- [Spectral (⭐2.3k)](https://github.com/stoplightio/spectral) - Detect and fix errors in your JSON/YAML files using this linter tool that supports OpenAPI 3.0 & 2.0 and AsyncAPI.
 - [Swagger Editor (⭐8.7k)](https://github.com/swagger-api/swagger-editor) - Create, describe, and document your API with ease using this open source editor built specifically for OpenAPI-based APIs.
 - [Zally (⭐881)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
 
@@ -46,7 +46,7 @@ System integration is the process of linking together different IT systems (com
 ### API Documentation
 *Explore a collection of tools and platforms designed to create, maintain, and present clear, concise, and user-friendly documentation for APIs. These resources facilitate seamless collaboration between developers and enable effective communication of API functionalities and specifications.*
 - [DapperDox (⭐396)](https://github.com/DapperDox/dapperdox) - An open-source API documentation generator and server for OpenAPI/Swagger specifications, with customizable documentation, automated updates, and easy sharing.
-- [OpenAPI Explorer (⭐287)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
+- [OpenAPI Explorer (⭐288)](https://github.com/Rhosys/openapi-explorer) - A tool for generating user interfaces from OpenAPI specifications, making it easier for software engineers to visualize and interact with APIs.
 - [RapiDoc (⭐1.5k)](https://github.com/rapi-doc/RapiDoc) - A tool that generates customizable, interactive API documentation from OpenAPI Specification, with a range of design options.
 - [Redoc (⭐22k)](https://github.com/Redocly/redoc) - An open-source tool for generating documentation from OpenAPI (fka Swagger) definitions, with customizable themes, language support, and branding.
 - [Slate (⭐35k)](https://github.com/slatedocs/slate) - A powerful tool that creates static API documentation from markdown, with API reference docs and code samples.
@@ -62,10 +62,10 @@ System integration is the process of linking together different IT systems (com
 - [Apinto (⭐1.2k)](https://github.com/eolinker/goku) - A Golang-based microservice gateway that provides dynamic routing, service orchestration, multi-tenancy management, and API access control.
 - [Ambassador Edge Stack](https://www.getambassador.io/products/edge-stack/api-gateway/) - A Kubernetes-native API Gateway that helps manage APIs at scale with its customizable routing, authentication, and rate-limiting features.
 - [Apache APISIX (⭐13k)](https://github.com/apache/apisix) - A dynamic, real-time, and high-performance API Gateway that leverages Apache plugins for enhanced functionality.
-- [Gloo Edge (⭐3.9k)](https://github.com/solo-io/gloo) - An Envoy Proxy-based API Gateway that provides advanced traffic management, security, and observability features for modern microservices architectures.
-- [Kong API Gateway (⭐37k)](https://github.com/Kong/kong) - A cloud-native, platform-agnostic, and scalable API Gateway that supports plugins for easy integration with third-party services.
+- [Gloo Edge (⭐4k)](https://github.com/solo-io/gloo) - An Envoy Proxy-based API Gateway that provides advanced traffic management, security, and observability features for modern microservices architectures.
+- [Kong API Gateway (⭐38k)](https://github.com/Kong/kong) - A cloud-native, platform-agnostic, and scalable API Gateway that supports plugins for easy integration with third-party services.
 - [KrakenD API Gateway (⭐1.7k)](https://github.com/devopsfaith/krakend-ce) - An ultra-high performance API Gateway that leverages middlewares for fast and efficient API management.
-- [Ocelot (⭐8.1k)](https://github.com/ThreeMammals/Ocelot) - A .NET API Gateway that provides a simple and elegant way to manage APIs with its intuitive routing and middleware configuration.
+- [Ocelot (⭐8.2k)](https://github.com/ThreeMammals/Ocelot) - A .NET API Gateway that provides a simple and elegant way to manage APIs with its intuitive routing and middleware configuration.
 - [Spring Cloud Gateway (⭐4.4k)](https://github.com/spring-cloud/spring-cloud-gateway) - An API Gateway built on top of the Spring ecosystem, providing advanced routing and filtering features for Spring applications.
 - [Traefik (⭐48k)](https://github.com/traefik/traefik) - A modern, open-source API Gateway that is designed to handle dynamic container environments such as Kubernetes, Docker Swarm, and Mesos. It provides load balancing, SSL/TLS termination, rate limiting, circuit breaking, and more.
 - [Tyk API Gateway (⭐9.3k)](https://github.com/TykTechnologies/tyk) - An open source Enterprise API Gateway that supports REST, GraphQL, TCP, and gRPC protocols. It provides advanced API management features such as rate limiting, access control, and analytics.
@@ -85,7 +85,7 @@ System integration is the process of linking together different IT systems (com
   - [resty (⭐2.6k)](https://github.com/micha/resty) - A Lua framework for building HTTP clients that provides a shell interface for interacting with REST services.
   - [SoapUI (⭐1.5k)](https://github.com/SmartBear/soapui) - Open-source web service testing application designed for testing SOAP and REST web services.
 - MQ clients
-  - [JMSToolBox (⭐194)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
+  - [JMSToolBox (⭐195)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
   - [kcat (⭐5.2k)](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka, functioning as a netcat for Kafka.
   - [MQTT Explorer (⭐2.8k)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
   - [Offset Explorer](https://www.kafkatool.com) - GUI application for managing and using Apache Kafka clusters, formerly known as Kafka Tool.
@@ -101,7 +101,7 @@ System integration is the process of linking together different IT systems (com
   - [WireMock (⭐6.1k)](https://github.com/tomakehurst/wiremock) - Mock your APIs for fast, robust, and comprehensive testing.
 - Testing tools and frameworks
   - [Apache JMeter (⭐8k)](https://github.com/apache/jmeter) - Open-source Java-based load testing tool that can be used to test the performance and scalability of web applications, databases, and other network services.
-  - [Gatling (⭐6.2k)](https://github.com/gatling/gatling) - An open-source load testing tool that allows users to write and run load tests as code, providing detailed performance reports to optimize system performance.
+  - [Gatling (⭐6.3k)](https://github.com/gatling/gatling) - An open-source load testing tool that allows users to write and run load tests as code, providing detailed performance reports to optimize system performance.
   - [Karate (⭐7.9k)](https://github.com/intuit/karate) - Open-source tool that combines API test-automation, mocks, performance-testing, and even UI automation into a single, unified framework.
   - [Pyresttest (⭐1.1k)](https://github.com/svanoort/pyresttest) - Python-based REST testing and API microbenchmarking tool that uses YAML or JSON for test.
   - [REST Assured (⭐6.7k)](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.
@@ -113,7 +113,7 @@ System integration is the process of linking together different IT systems (com
 ### BRE
 *Business Rules Engines and Business Rules Management Systems (BRMS) are software systems that allow organizations to define, manage, and execute business rules. These rules are used to automate decision-making processes, enforce business policies, and ensure regulatory compliance. A BRMS provides a way for organizations to centrally manage their business rules and make changes to them quickly and easily, without requiring changes to the underlying code. It is a valuable tool for businesses that need to be agile and respond quickly to changing market conditions.*
 - [Drools (⭐5.7k)](https://github.com/apache/incubator-kie-drools) - Open-source tool that supports Decision Model and Notation (DMN) models at Conformance level 3 with an Eclipse IDE plugin for core development.
-- [Easy Rules (⭐4.7k)](https://github.com/j-easy/easy-rules) - Simple Java rules engine for straightforward rule processing.
+- [Easy Rules (⭐4.8k)](https://github.com/j-easy/easy-rules) - Simple Java rules engine for straightforward rule processing.
 - [NxBRE (⭐129)](https://github.com/ddossot/NxBRE) - Open-source rule engine specifically designed for the .NET platform.
 - [OpenL Tablets (⭐146)](https://github.com/openl-tablets/openl-tablets) - Open-source business rules engine (BRE, BRMS) and decision management system that allows users to define, manage, and execute business rules and decision tables.
 
@@ -137,7 +137,7 @@ System integration is the process of linking together different IT systems (com
 - [AltasMap (⭐185)](https://github.com/atlasmap/atlasmap) - A web-based data mapping solution that simplifies integration between Java, XML, CSV, and JSON data sources. Its interactive user interface makes configuring integrations easy.
 - [Altova MapForce](https://www.altova.com/mapforce) - A graphical data mapping tool that can handle any-to-any conversion and integration tasks. It simplifies complex mapping tasks, enabling software engineers to complete projects faster.
 - [JOLT (⭐1.5k)](https://github.com/bazaarvoice/jolt) - A Java-based JSON-to-JSON transformation library that uses a JSON document as the "specification" for the transform. JOLT provides a simple way for software engineers to transform JSON data.
-- [JSLT (⭐607)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
+- [JSLT (⭐612)](https://github.com/schibsted/jslt) - A complete query and transformation language for JSON that is inspired by jq, XPath, and XQuery. With JSLT, software engineers can quickly and easily transform JSON data to meet their needs.
 
 <!--lint disable-->
 <!--lint enable-->
@@ -257,7 +257,7 @@ System integration is the process of linking together different IT systems (com
 - [Apache RocketMQ (⭐20k)](https://github.com/apache/rocketmq) - A fast and reliable distributed messaging platform designed for high volume and low latency messaging scenarios. Offers efficient message storage and retrieval and supports various messaging patterns.
 - [Apache Qpid (⭐55)](https://github.com/apache/qpid-broker-j) - A messaging tool that supports the Advanced Message Queuing Protocol (AMQP) and multiple programming languages and platforms. Offers enterprise-grade messaging capabilities with reliable and efficient message delivery.
 - [BlazingMQ (⭐2.4k)](https://github.com/bloomberg/blazingmq) - A distributed message queueing platform with a focus on efficiency, reliability, and a rich feature set for modern-day workflows.
-- [Centrifugo (⭐7.9k)](https://github.com/centrifugal/centrifugo) - An open-source, scalable real-time messaging server that allows you to build interactive applications where events are delivered to online users with minimal delay.
+- [Centrifugo (⭐8k)](https://github.com/centrifugal/centrifugo) - An open-source, scalable real-time messaging server that allows you to build interactive applications where events are delivered to online users with minimal delay.
 - [Eclipse Mosquitto (⭐8.5k)](https://github.com/eclipse/mosquitto) - A lightweight open-source message broker that implements the MQTT protocol. Designed for low-power devices and supports message encryption and authentication.
 - [EMQX (⭐13k)](https://github.com/emqx/emqx) - A high-performance, scalable, and reliable open-source MQTT broker for IoT, IIoT, and connected vehicles.
 - [IBM MQ](https://www.ibm.com/products/mq) - A robust enterprise-grade messaging system that enables safe and efficient communication between applications. Offers high availability and disaster recovery capabilities and supports multiple messaging protocols.
@@ -265,7 +265,7 @@ System integration is the process of linking together different IT systems (com
 - [NATS (⭐14k)](https://github.com/nats-io/gnatsd) - A lightweight and high-performance messaging system designed for microservices, IoT, and cloud-native systems. Offers efficient and reliable message delivery and supports multiple messaging protocols.
 - [Oracle AQ](https://www.oracle.com/database/technologies/advanced-queuing.html) - A messaging system that provides enterprise message functionality and is widely used within the Oracle database. Offers reliable and efficient message delivery and supports multiple messaging styles.
 - [RabbitMQ (⭐11k)](https://github.com/rabbitmq/rabbitmq-server) - An open-source message broker that implements AMQP and supports multiple messaging protocols and patterns. Offers reliable and efficient message delivery and supports clustering and high availability.
-- [Redpanda (⭐8.9k)](https://github.com/vectorizedio/redpanda) - A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics.
+- [Redpanda (⭐9k)](https://github.com/vectorizedio/redpanda) - A streaming platform that is Kafka-compatible and does not require Zookeeper or JVM. Offers high-performance and low-latency messaging and supports stream processing and analytics.
 - [Red Hat AMQ](https://www.redhat.com/en/technologies/jboss-middleware/amq) - A messaging system based on open-source communities like Apache ActiveMQ and Apache Kafka. Offers enterprise-grade messaging capabilities with reliable and efficient message delivery.
 - [TIBCO Enterprise Message Service](https://www.tibco.com/products/tibco-enterprise-message-service) - A standards-based JMS implementation that allows for easy exchange of messages between applications. Offers reliable and efficient message delivery and supports various messaging protocols and patterns.
 - [VerneMQ (⭐3.1k)](https://github.com/vernemq/vernemq) - A high-performance distributed MQTT message broker designed for scalability and reliability. Offers efficient and reliable message delivery and supports multiple messaging protocols and patterns.
@@ -772,7 +772,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 - [NDJSON (⭐640)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 - [Protocol Buffers (⭐64k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
 - [XML](https://www.w3.org/TR/xml11/) - A flexible and widely used markup language that is used for storing and exchanging structured data. It supports rich data types and is compatible with many programming languages.
-- [YAML (⭐319)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+- [YAML (⭐321)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
 <!--lint disable-->
 <!--lint enable-->

@@ -305,6 +305,7 @@ _Libraries for configuration parsing._
 - [configuration](https://github.com/BoRuDar/configuration) - Library for initializing configuration structs from env variables, files, flags and 'default' tag.
 - [configure](https://github.com/paked/configure) - Provides configuration through multiple sources, including JSON, flags and environment variables.
 - [configuro](https://github.com/sherifabdlnaby/configuro) - opinionated configuration loading & validation framework from ENV and Files focused towards 12-Factor compliant applications.
+- [confiq](https://github.com/greencoda/confiq) - Structured data format to config struct decoder library for Go - supporting multiple data formats
 - [confita](https://github.com/heetch/confita) - Load configuration in cascade from multiple backends into a struct.
 - [conflate](https://github.com/the4thamigo-uk/conflate) - Library/tool to merge multiple JSON/YAML/TOML files from arbitrary URLs, validation against a JSON schema, and application of default values defined in the schema.
 - [env](https://github.com/caarlos0/env) - Parse environment variables to Go structs (with defaults).
@@ -315,12 +316,14 @@ _Libraries for configuration parsing._
 - [envh](https://github.com/antham/envh) - Helpers to manage environment variables.
 - [fig](https://github.com/kkyr/fig) - Tiny library for reading configuration from a file and from environment variables (with validation & defaults).
 - [genv](https://github.com/sakirsensoy/genv) - Read environment variables easily with dotenv support.
+- [go-array](https://github.com/deatil/go-array) - A Go package that read or set data from map, slice or json.
 - [go-aws-ssm](https://github.com/PaddleHQ/go-aws-ssm) - Go package that fetches parameters from AWS System Manager - Parameter Store.
 - [go-cfg](https://github.com/dsbasko/go-cfg) - The library provides a unified way to read configuration data into a structure from various sources, such as env, flags, and configuration files (.json, .yaml, .toml, .env).
 - [go-conf](https://github.com/ThomasObenaus/go-conf) - Simple library for application configuration based on annotated structs. It supports reading the configuration from environment variables, config files and command line parameters.
 - [go-ini](https://github.com/subpop/go-ini) - A Go package that marshals and unmarshals INI-files.
 - [go-ssm-config](https://github.com/ianlopshire/go-ssm-config) - Go utility for loading configuration parameters from AWS SSM (Parameter Store).
 - [go-up](https://github.com/ufoscout/go-up) - A simple configuration library with recursive placeholders resolution and no magic.
+- [GoCfg](https://github.com/Jagerente/gocfg) - Config manager with Struct Tags based contracts, custom value providers, parsers, and documentation generation. Customizable yet simple.
 - [goConfig](https://github.com/crgimenes/goConfig) - Parses a struct as input and populates the fields of this struct with parameters from command line, environment variables and configuration file.
 - [godotenv](https://github.com/joho/godotenv) - Go port of Ruby's dotenv library (Loads environment variables from `.env`).
 - [gofigure](https://github.com/ian-kent/gofigure) - Go application configuration made easy.
@@ -767,6 +770,7 @@ _Packages that help with building Distributed Systems._
 
 - [arpc](https://github.com/lesismal/arpc) - More effective network communication, support two-way-calling, notify, broadcast.
 - [bedrock](https://github.com/z5labs/bedrock) - Provides a minimal, modular and composable foundation for quickly developing services and more use case specific frameworks in Go.
+- [capillaries](https://github.com/capillariesio/capillaries) - distributed batch data processing framework.
 - [celeriac](https://github.com/svcavallar/celeriac.v1) - Library for adding support for interacting and monitoring Celery workers, tasks and events in Go.
 - [consistent](https://github.com/buraksezer/consistent) - Consistent hashing with bounded loads.
 - [consistenthash](https://github.com/mbrostami/consistenthash) - Consistent hashing with configurable replicas.
@@ -2489,6 +2493,7 @@ _General utilities and tools to make your life easier._
 - [ghokin](https://github.com/antham/ghokin) - Parallelized formatter with no external dependencies for gherkin (cucumber, behat...).
 - [git-time-metric](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
 - [gitbatch](https://github.com/isacikgoz/gitbatch) - manage your git repositories in one place.
+- [gitcs](https://github.com/knbr13/gitcs/) - Git Commits Visualizer, CLI tool to visualize your Git commits on your local machine.
 - [go-actuator](https://github.com/sinhashubham95/go-actuator) - Production ready features for Go based web frameworks.
 - [go-astitodo](https://github.com/asticode/go-astitodo) - Parse TODOs in your GO code.
 - [go-bind-plugin](https://github.com/wendigo/go-bind-plugin) - go:generate tool for wrapping symbols exported by golang plugins (1.8 only).
@@ -2826,6 +2831,7 @@ _Full stack web frameworks._
 ## WebAssembly
 
 - [dom](https://github.com/dennwc/dom) - DOM library.
+- [Extism Go SDK](https://github.com/extism/go-sdk) - Universal, cross-language WebAssembly framework for building plug-in systems and polyglot apps.
 - [go-canvas](https://github.com/markfarnan/go-canvas) - Library to use HTML5 Canvas, with all drawing within go code.
 - [tinygo](https://github.com/tinygo-org/tinygo) - Go compiler for small places. Microcontrollers, WebAssembly, and command-line tools. Based on LLVM.
 - [vert](https://github.com/norunners/vert) - Interop between Go and JS values.
@@ -3026,6 +3032,7 @@ _Software written in Go._
 - [kubeshark](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, inspired by Wireshark, purposely built for Kubernetes.
 - [KubeVela](https://github.com/kubevela/kubevela) - Cloud native application delivery.
 - [kubevpn](https://github.com/kubenetworks/kubevpn) - VPN tools to connect kubernetes cluster network and proxy workloads inbound traffic to local PC with service mesh.
+- [KusionStack](https://github.com/KusionStack/kusion) - A unified programmable configuration techstack to deliver modern app in 'platform as code' and 'infra as code' approach.
 - [kwatch](https://github.com/abahmed/kwatch) - Monitor & detect crashes in your Kubernetes(K8s) cluster instantly.
 - [lstags](https://github.com/ivanilves/lstags) - Tool and API to sync Docker images across different registries.
 - [lwc](https://github.com/timdp/lwc) - A live-updating version of the UNIX wc command.
