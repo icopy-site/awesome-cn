@@ -116,6 +116,7 @@ Academic institutions researching social enterprise:
 * [The Elisabeth Bruyère School of Social Innovation](https://innovationsocialeusp.ca/en/school) - Canada's first school of social innovation.
 * [Pepperdine's MA in Social Entrepreneurship and Change](https://gsep.pepperdine.edu/masters-social-entrepreneurship-and-change/)
 * [Centre for Social Impact Swinburne](https://www.swinburne.edu.au/research/centres-groups-clinics/centre-for-social-impact-swinburne/)
+* [VUB Chair Social Entrepreneurship](https://www.vubsocialentrepreneurship.com/)
 
 
 ## Tools 🔨

@@ -69,6 +69,7 @@
 - [SEPTun](https://github.com/pevma/SEPTun) - Suricata Extreme Performance Tuning guide.
 - [SEPTun-Mark-II](https://github.com/pevma/SEPTun-Mark-II) - Suricata Extreme Performance Tuning guide - Mark II.
 - [suricata-4-analysts](https://github.com/StamusNetworks/suricata-4-analysts) - The Security Analyst's Guide to Suricata.
+- [Suricata Community Style Guide](https://github.com/sidallocation/suricata-style-guide) - A collaborative document to collect style guidelines from the community of rule writers.
 
 
 ## Analysis Tools
