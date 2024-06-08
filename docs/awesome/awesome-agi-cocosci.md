@@ -700,6 +700,8 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [A Language for Counterfactual Generative Models](http://proceedings.mlr.press/v139/tavares21a.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=2067748786482591497)]. [[Project](https://github.com/zenna/Omega.jl)]. This paper presents Omega, a probabilistic programming language with support for counterfactual inference. This feature is accomplished by introducing a new operator to probabilistic programming akin to Pearl’s do. 
 
+* [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus) - ***Wikipedia***. Wikipedia on Situation Calculus, a logic formalism designed for representing and reasoning about dynamical domains.
+
 
 #### DSL Program Synthesis
 
@@ -1796,8 +1798,6 @@ Systematic Literature Review](https://arxiv.org/abs/2308.10620) - 2023. [[All Ve
 * [Dialogical Logic](https://plato.stanford.edu/entries/logic-dialogical/) - ***Plato Stanford***. A computational philosophy account on dialogical logic, which is a dialogue-based approach to logic and argumentation rooted in a research tradition that goes back to dialectics in Greek Antiquity, when problems were approached through dialogues in which opposing parties discussed a thesis through questions and answers.
 
 * [Temporal Logic](https://plato.stanford.edu/entries/logic-temporal/) - ***Plato Stanford***. 
-
-* [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus) - ***Wikipedia***. Wikipedia on Situation Calculus, which is a logic formalism designed for representing and reasoning about dynamical domains.
 
 * [Modal Logic](https://plato.stanford.edu/entries/logic-modal/) - ***Plato Stanford***. A computational philosophy account on Modal Logic, which is the study of the deductive behavior of the expressions 'it is necessary that' and 'it is possible that'.
 
