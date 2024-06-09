@@ -28,8 +28,8 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [Advanced Peripherals](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals) -  A mod which adds various peripherals and APIs for interacting with other mods. 
 - [Computronics](https://wiki.vexatos.com/wiki:computronics) -  A mod which adds various peripherals, notably for detecting events in the world and for manipulation of sound. 
 - [Plethora](https://plethora.madefor.cc) -  A mod which adds peripherals and allows many blocks to be accessed as such. In addition, it also allows for manipulation of the player as a peripheral. 
-- [CC:C Bridge](https://modrinth.com/mod/cccbridge) - A mod that adds compatibility between the ComputerCraft and [Create mod](https://modrinth.com/mod/create)! 
-- [Turtlematic](https://www.curseforge.com/minecraft/mc-mods/turtlematic) - A mod which end goal is to make turtles so useful, so you will never need any other automation mod!
+- [CC:C Bridge](https://modrinth.com/mod/cccbridge) - A mod that adds compatibility between ComputerCraft and [Create](https://modrinth.com/mod/create).
+- [Turtlematic](https://www.curseforge.com/minecraft/mc-mods/turtlematic) - A mod which expands the applications of turtles, making them extremely powerful.
 - [UnlimitedPeripheralWorks](https://www.curseforge.com/minecraft/mc-mods/unlimitedperipheralworks) - A mod which adds various peripherals to extend CC:T capabilities. Also adds a lot of peripherals for other mods.
 
 ### Resource packs
@@ -43,7 +43,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [Consult](https://consult.madefor.cc) -  A text editor emphasizing ease of use and compatibility with many systems. 
     - [Consult: Recrafted](https://github.com/manaphoenix/CONSULT_RECRAFTED) -  A fork of Consult for Recrafted systems.
 - [GEMU](https://github.com/9551-Dev/GEMU) -  CraftOS-PC graphics mode emulator based on Pixelbox.
-- [gist](https://pastebin.com/zSLPYpqs) -  A GitHub Gist download/upload program which aims to extend the built-in `pastebin` program, but for Gists.
+- [`gist`](https://pastebin.com/zSLPYpqs) -  A GitHub Gist download/upload program which aims to extend the built-in `pastebin` program, but for Gists.
 - [Howl](https://github.com/SquidDev-CC/Howl) -  A build system for CC and CC:T.
 - [LuaIDE](https://web.archive.org/web/20230211195528/http://www.computercraft.info/forums2/index.php?/topic/12347-luaide-10-you-might-actually-like-editing-in-game/) -  A full-fledged IDE for editing Lua files in-game.
 - [Mildly Better Shell (MBS)](https://github.com/SquidDev-CC/mbs) -  An improved shell that includes scrollback and improved resolution of completions.
@@ -68,7 +68,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [C3D](https://c3d.madefor.cc/) -  An advanced 3D rendering API.
 - [CC-Archive](https://github.com/MCJack123/CC-Archive) -  Various libraries for archiving and unarchiving files.
 - [dbprotect](https://gist.github.com/MCJack123/4cf6fc941a2d412b4195caafb9636363) -  A protection wrapper over the `debug` API, allowing restricting access to upvalues in protected functions.
-- [ecc.lua](https://web.archive.org/web/20190808224502/http://www.computercraft.info/forums2/index.php?/topic/29803-elliptic-curve-cryptography/) -  Implements [elliptic-curve cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography). <!-- FIXME: Broken link -->
+- [`ecc.lua`](https://web.archive.org/web/20190808224502/http://www.computercraft.info/forums2/index.php?/topic/29803-elliptic-curve-cryptography/) -  Implements [elliptic-curve cryptography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography). <!-- FIXME: Broken link -->
 - [ecnet](https://github.com/migeyel/ecnet) -  Secure network communications in ComputerCraft.
 - [GuiH](https://guih.madefor.cc) -  A powerful GUI and graphics library.
 - [IsometriH](https://github.com/9551-Dev/IsometriH) -  An [isometric rendering](https://en.wikipedia.org/wiki/Isometric_video_game_graphics) engine.
@@ -119,8 +119,8 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 - [DraconicControl](https://pastebin.com/UqVHTht5) -  Allows controlling Draconic Evolution's Draconic Reactor from a computer.
 - [ReactorControl and TurbineControl](https://pastebin.com/p4zeq7Ma) -  Automatic management of reactors and turbines in Big Reactors.
-    - [ReactorControl patched](https://pastebin.com/2ZrbnH5w) -  The above program uses the `parallel` API recursively, which could cause it to break. A patch has been developed to fix this.
-- [cc-mek-scada](https://github.com/MikaylaFischler/cc-mek-scada) - Integral management of a Mekanism factory.
+    - [ReactorControl patched](https://pastebin.com/2ZrbnH5w) -  The preceeding program uses the `parallel` API recursively, which could cause it to break. A patch has been developed to fix this.
+- [`cc-mek-scada`](https://github.com/MikaylaFischler/cc-mek-scada) - Integral management of a Mekanism factory.
 
 ## Non-Lua programs
 
@@ -130,7 +130,9 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 > Note: This subsection is for programs which allow ComputerCraft things to be accessed out of the game, primarily through the Internet.
 
+<!-- vale Google.WordList = NO -->
 - [Cloud Catcher](https://github.com/SquidDev-CC/cloud-catcher) -  A program which enables interaction with computers outside of the game.
+<!-- vale Google.WordList = YES -->
 - [Krist Server](https://github.com/tmpim/Krist) -  A server for the Krist virtual currency, intended for use with CC and CC:T.
     - [KristForge](https://github.com/tmpim/kristforge) -  A miner for the Krist virtual currency.
     - [KristWeb2](https://github.com/tmpim/KristWeb2) -  A web wallet for Krist, written in React.
@@ -153,7 +155,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 - [ComputerCraft Music Converter](https://music.madefor.cc) - A web app to convert various sound formats to DFPWM (ComputerCraft's sound format).
 - [BIMG-Generator](https://github.com/MasonGulu/BIMG-Generator) - A Java program to convert images to the BIMG format.
-- [cc-tstl-template](https://github.com/MCJack123/cc-tstl-template) -  A template for the TypeScriptToLua compiler that allows writing ComputerCraft programs in TypeScript.
+- [`cc-tstl-template`](https://github.com/MCJack123/cc-tstl-template) -  A template for the TypeScriptToLua compiler that allows writing ComputerCraft programs in TypeScript.
 - [sanjuuni](https://github.com/MCJack123/sanjuuni) -  A program to quickly convert image and video files into various formats for playback and streaming in ComputerCraft.
 
 ## Literature
@@ -165,8 +167,8 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 ### Tutorials
 #### Basics
 - [Direwolf20's tutorials](https://www.youtube.com/watch?v=wrUHUhfCY5A) -  A series of videos explaining the basics of ComputerCraft programming. 
-- [Sethbling's tutorials](https://www.youtube.com/watch?v=DSsx4VSe-Uk) -  See above.
-- Lyqyd's *Computer Basics* series ([I](https://web.archive.org/web/20170617144334/http://www.computercraft.info/forums2/index.php?/topic/15033-computer-basics-i/), [II](https://web.archive.org/web/20230719181359/https://www.computercraft.info/forums2/index.php?/topic/15041-computer-basics-ii/), [III](https://web.archive.org/web/20230719181437/https://www.computercraft.info/forums2/index.php?/topic/20905-computer-basics-iii/)) -  Though a bit dated, they are excellent for the beginnings of your journey.
+- [Sethbling's tutorials](https://www.youtube.com/watch?v=DSsx4VSe-Uk) -  Another series of videos explaining ComputerCraft programming.
+- Lyqyd's *Computer Basics* series ([1](https://web.archive.org/web/20170617144334/http://www.computercraft.info/forums2/index.php?/topic/15033-computer-basics-i/), [2](https://web.archive.org/web/20230719181359/https://www.computercraft.info/forums2/index.php?/topic/15041-computer-basics-ii/), [3](https://web.archive.org/web/20230719181437/https://www.computercraft.info/forums2/index.php?/topic/20905-computer-basics-iii/)) -  Though a bit dated, they are excellent for the beginnings of your journey.
 - [The FTB Wiki's Getting Started guide for ComputerCraft](https://ftb.fandom.com/wiki/Getting_Started_(ComputerCraft)) -  A useful all-around resource for getting started.
 
 #### Moderate or advanced
@@ -184,14 +186,16 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 ### Other lists
 
 - [Awesome Lua](https://github.com/LewisJEllis/awesome-lua) - An Awesome list specific to the Lua programming language.
-- [Awesome Switchcraft](https://github.com/aspen-reeves/awesome-switchcraft) - An Awesome list specific to the Switchcraft server.
+- [Awesome SwitchCraft](https://github.com/aspen-reeves/awesome-switchcraft) - An Awesome list specific to the SwitchCraft server.
 - [Hengestone's list of languages which compile to Lua](https://github.com/hengestone/lua-languages/blob/master/README.md) -  A list of languages which compile to Lua.
 
 ## Resources
 
-- [Tweaked.cc documentation](https://tweaked.cc) -  Contains documentation for most methods in CC and CC:T.
+- [`tweaked.cc` documentation](https://tweaked.cc) -  Contains documentation for most methods in CC and CC:T.
 - [CC's forums](https://computercraft.info/forums2) -  An extremely valuable resource, filled with tutorials and programs. <!-- FIXME: Broken link -->
 - [CC:T's forums](https://forums.computercraft.cc) -  Also extremely valuable, but is newer.
 - [Minecraft Computer Mods Discord](https://discord.gg/H2UyJXe) -  A Discord server for getting help with programming in CC and CC:T.
 - [ComputerCraft's subreddit](https://reddit.com/r/computercraft) - A subreddit for showing off your ComputerCraft creations, as well as getting help.
-- [Lua's manual](https://www.lua.org/manual/) -  Contains documentation on methods not covered in Tweaked.cc. Sections 5 (Auxillary Library) and 6 (Standard Library) are of particular interest.
+<!-- vale Vale.Terms = NO -->
+- [Lua's manual](https://www.lua.org/manual/) -  Contains documentation on methods not covered in `Tweaked.cc`. Sections 5 (Auxillary Library) and 6 (Standard Library) are of particular interest.
+<!-- vale Vale.Terms = YES -->

@@ -126,6 +126,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Omnispeak](https://github.com/sulix/omnispeak) - Reimplementation of Commander Keen in Goodbye Galaxy.
 - [Prince-Monogame](https://github.com/salvadorc17/Prince-Monogame) - Monogame implementation of Prince of Persia 2.
 - [SDLPoP](https://github.com/NagyD/SDLPoP) - Port of Prince of Persia, based on the disassembly of the DOS version.
+- [sm64js](https://github.com/sm64jsarchive/sm64jsarchive) - Super Mario 64 reimplementation in JavaScript.
 - [The Secret Chronicles of Dr. M](https://github.com/secretchronicles/TSC) - Adaptation of Secret Mario Chronicles. :flower_playing_cards:
 - [VVVVV](https://github.com/TerryCavanagh/vvvvvv) - The source code to VVVVVV.
 

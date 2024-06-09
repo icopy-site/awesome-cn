@@ -671,7 +671,9 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 #### Imperative DSL Applications
 
-* [Biocoder: A programming language for standardizing and automating biology protocols](https://jbioleng.biomedcentral.com/track/pdf/10.1186/1754-1611-4-13.pdf) - ***Journal of Biological Engineering***, 2010. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=15572197190838916795)]. [[Project](https://github.com/nmz787/BioCoder)]. [[Microsoft Page](https://www.microsoft.com/en-us/download/details.aspx?id=52556)] Microsoft's programming language for representing biology protocols.
+* [Biocoder: A programming language for standardizing and automating biology protocols](https://jbioleng.biomedcentral.com/track/pdf/10.1186/1754-1611-4-13.pdf) - ***Journal of Biological Engineering***, 2010. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=15572197190838916795)]. [[Project](https://github.com/nmz787/BioCoder)]. [[Microsoft Page](https://www.microsoft.com/en-us/download/details.aspx?id=52556)] This paper introduces BioCoder, a C++ library that enables biologists to express the exact steps needed to
+execute a protocol. In addition to being suitable for automation, BioCoder converts the code into a readable,
+English-language description for use by biologists.
 
 * [Universal chemical programming language for robotic synthesis repeatability](https://www.nature.com/articles/s44160-023-00473-6) - ***Nature Synthesis***, 2024. [[All Versions](https://scholar.google.com/scholar?cluster=3455106495990439366)]. [[Preprint](https://www.chem.gla.ac.uk/cronin/images/pubs/rauschen-natsynthesisjan24.pdf)]. This paper presents an approach that uses a universal chemical programming language (χDL) to encode and execute synthesis procedures for a variety of chemical reactions, including reductive amination, ring formation, esterification, carbon–carbon bond formation and amide coupling on four different hardware systems in two laboratories. With around 50 lines of code per reaction, the approach uses abstraction to efficiently compress chemical protocols.
 
