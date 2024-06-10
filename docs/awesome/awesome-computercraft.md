@@ -13,15 +13,18 @@ This project lives [on GitHub](https://github.com/tomodachi94/awesome-computercr
 
 A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked, and `CC:R` is ComputerCraft: Restitched.
 
-<!-- TOC -->
-<!-- /TOC -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Mods
 ### ComputerCraft mods
 
 - [ComputerCraft: Tweaked](https://computercraft.cc) -  A fork of the original ComputerCraft for modern versions of Minecraft.
 - [ComputerCraft: Restitched](https://www.curseforge.com/minecraft/mc-mods/cc-restitched) -  A set of patches for CC:T that allow running it on Fabric. 
-- [ComputerCraft](http://computercraft.info) -  A mod which adds computers to allow execution of Lua programs. 
+- [ComputerCraft](https://computercraft.info) -  A mod which adds computers to allow execution of Lua programs. 
 
 ### Add-on mods
 
@@ -31,6 +34,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [CC:C Bridge](https://modrinth.com/mod/cccbridge) - A mod that adds compatibility between ComputerCraft and [Create](https://modrinth.com/mod/create).
 - [Turtlematic](https://www.curseforge.com/minecraft/mc-mods/turtlematic) - A mod which expands the applications of turtles, making them extremely powerful.
 - [UnlimitedPeripheralWorks](https://www.curseforge.com/minecraft/mc-mods/unlimitedperipheralworks) - A mod which adds various peripherals to extend CC:T capabilities. Also adds a lot of peripherals for other mods.
+- [Roadworks](https://github.com/znepb/Roadworks) - A mod that adds traffic lights controllable by ComputerCraft.
 
 ### Resource packs
 
@@ -99,7 +103,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Operating systems
 
-- [LevelOS](http://install.leveloper.cc) -  A modern GUI operating system intended to mimic Windows.
+- [LevelOS](https://install.leveloper.cc) -  A modern GUI operating system intended to mimic Windows.
 - [Opus](https://github.com/kepler155c/opus) -  An OS which includes a GUI, an app store, and many system-related APIs.
 - [Phoenix](https://phoenix.madefor.cc) -  An OS which emphasizes modularity. It implements its own kernel.
     - Phoenix is currently in alpha.

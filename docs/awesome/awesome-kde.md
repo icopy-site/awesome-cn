@@ -87,7 +87,7 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 - [Android File Transfer](https://whoozle.github.io/android-file-transfer-linux/) - Reliable MTP client with minimalistic UI.
 - [Ark](https://apps.kde.org/ark/) - Archiving Tool 📌.
 - [fancontrol-gui](https://github.com/Maldela/fancontrol-gui) - GUI for fancontrol which is part of lm_sensors.
-- [KDE Wallet Manager](https://apps.kde.org/kwalletmanager5/) - Manage the passwords on KDE systems. The KDE wallet subsystem allows access and password management of every application that integrates with the KDE wallet 📌.
+- [KDE Wallet Manager](https://invent.kde.org/utilities/kwalletmanager/) - Manage the passwords on KDE systems. The KDE wallet subsystem allows access and password management of every application that integrates with the KDE wallet 📌.
 - [KeePassXC](https://keepassxc.org/) - Cross-platform community-driven port of Keepass password manager.
 - [KFind](https://apps.kde.org/kfind/) - A standalone search tool, launched by KRunner or from your menu. It is also integrated into Konqueror as "Find File" in the "Tools" menu 📌.
 - [KRename](https://apps.kde.org/krename/) - A utility to rename multiple files 📌.
@@ -105,7 +105,7 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 - [Kompare](https://apps.kde.org/kompare/) - A diff/patch frontend 📌.
 - [Okteta](https://apps.kde.org/okteta/) - Hex Editor 📌.
 - [Qt Designer](http://doc.qt.io/qt-5/qtdesigner-manual.html) - Qt tool for designing and building graphical user interfaces (GUIs) with Qt Widgets.
-- [Umbrello](https://umbrello.kde.org/) - UML Modeller is a Unified Modelling Language (UML) diagram program based on KDE Technology 📌.
+- [Umbrello](https://apps.kde.org/umbrello/) - UML Modeller is a Unified Modelling Language (UML) diagram program based on KDE Technology 📌.
 
 ### Education
 
@@ -133,7 +133,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### KCM Modules and Systems
 
-- [kcm-wacomtablet](https://apps.kde.org/wacomtablet/) - KDE GUI for the Wacom Linux Drivers 📌.
+- [kcm-wacomtablet](https://invent.kde.org/plasma/wacomtablet/) - KDE GUI for the Wacom Linux Drivers 📌.
 - [kde-gtk-config](https://invent.kde.org/plasma/kde-gtk-config) - GTK2 and GTK3 Configurator for KDE 📌.
 - [kded_rotation](https://github.com/dos1/kded_rotation) - A small, hacky KDED module for handling automatic screen rotation on tablets and hybrid laptops.
 

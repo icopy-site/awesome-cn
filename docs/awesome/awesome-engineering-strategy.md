@@ -93,7 +93,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 
 ## Communities
 
-- [Engineering Strategy on Discord](https://discord.gg/2NBXyDmFcR) - Discord community focused on Engineering Strategy.
+- [Engineering Strategy on Discord](https://discord.gg/mebRYrNamF) - Discord community focused on Engineering Strategy.
 
 ## Podcasts
 

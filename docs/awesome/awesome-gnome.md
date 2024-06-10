@@ -45,6 +45,7 @@
 - [Marker](https://flathub.org/apps/com.github.fabiocolacio.marker) - Markdown editor with an integrated previewer.
 - [Paper Clip](https://flathub.org/apps/io.github.diegoivan.pdf_metadata_editor) - PDF metadata editor.
 - [RNote](https://flathub.org/apps/com.github.flxzt.rnote) - Sketch and take handwritten notes.
+- [Morphosis](https://flathub.org/apps/garden.jamie.Morphosis) - Document converter (using Pandoc) supporting PDF, Markdown, RST, LaTeX, HTML, Microsoft Word, Open/Libre Office and EPUB formats.
 
 ### Productivity and Time
 
@@ -107,6 +108,10 @@
 
 - [Lutris](https://flathub.org/apps/net.lutris.Lutris) - Open Source gaming platform.
 - [Cartridges](https://apps.gnome.org/Cartridges) - Game launcher with Steam, Lutris, Heroic, Bottles and itch library import. ![GNOME Circle][GNOME Circle]
+- [Chess Clock](https://flathub.org/apps/com.clarahobbs.chessclock) - Timer for over-the-board chess games.
+- [Crosswords](https://flathub.org/apps/org.gnome.Crosswords) - Game of crosswords with squpport for shaped and colors crosswords and `.ipuz`, `.jpuz`, `.xd`, and `.puz` files.
+- [Mahjongg](https://flathub.org/apps/org.gnome.Mahjongg) - Solitaire (one player) version of the classic Eastern tile game, Mahjongg.
+- [Ultimate Tic Tac Toe](https://flathub.org/apps/io.github.nokse22.ultimate-tic-tac-toe) - [Ultimate Tic Tac Toe](https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe) to play with friends or against an AI.
 
 ### System and Customization
 
@@ -144,6 +149,7 @@
 - [Sunflower](http://sunflower-fm.org) - Small and highly customizable twin-panel file manager.
 - [Lan Mouse](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch).
 - [Moussam](https://amit9838.github.io/mousam) - Weather application with 7 days forecast from Open-Meteo.com.
+- [Snoop](https://flathub.org/apps/de.philippun1.Snoop) - Application (with Nautilus extension) to search through file contents in a given folder.
 
 ### Security and Privacy
 
@@ -172,6 +178,7 @@
 - [DevHelp](https://apps.gnome.org/Devhelp) - Developer tool for browsing and searching API documentation.
 - [Escambo](https://github.com/CleoMenezesJr/escambo) - HTTP-based APIs test application.
 - [Turtle](https://gitlab.gnome.org/philippun1/turtle) - Tool to manage Git repositories within Nautilus by providing emblems and context menus.
+- [Aurea](https://flathub.org/apps/io.github.cleomenezesjr.aurea) - Simple preview banner made to read metainfo files from Flatpak apps and represent them as they would on Flathub. 
 
 #### Design Tooling
 
