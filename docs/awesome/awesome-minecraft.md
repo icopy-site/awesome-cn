@@ -21,7 +21,6 @@
 
 - [Minecraft Forums](https://www.minecraftforum.net/) - Official community forums, a great place to talk about the game.
 - [Planet Minecraft](https://www.planetminecraft.com/forums/) - Creative community fansite.
-- [Minecraft Chinese Forum](http://www.mcbbs.net/) - Largest Chinese players community of Minecraft.
 
 ### Mod Libraries
 
@@ -33,7 +32,6 @@
 - [MCArchive](https://mcarchive.net/) - Archives old, lost and forgotten Minecraft mods. Various other mods and stuff can be found on their Discord.
 - [Minecraft Archive Project](http://map.crummy.com/) - Huge archive containing Minecraft mods, worlds, resource packs and many other resources (even forum posts!).
 - [MCVersions](https://mcversions.net/) - Archives most Minecraft jars.
-- [BetaCraft Archive](http://betacraft.pl/server-archive/minecraft/) - Archives some missing Minecraft server jars.
 - [MCPC+ Archive](https://iruril.tistory.com/category/%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8%28Minecraft%29/Server) - Archive with some MCPC+ versions.
 - [CraftBukkit Archive](https://drive.google.com/drive/u/0/folders/0B3_qSeCQW2vKSy13TVdKWWhNQ3M) - Archives many CraftBukkit versions.
 
@@ -54,7 +52,6 @@
 - [Optifine](https://www.optifine.net/home) - OptiFine is a Minecraft optimization mod.
 - [BetterFps](https://www.curseforge.com/minecraft/mc-mods/betterfps) - BetterFps is a Minecraft mod that add a few performance improvements.
 - [Sodium (for Fabric)](https://github.com/CaffeineMC/sodium-fabric) - A Fabric mod designed to improve frame rates and reduce micro-stutter.
-- [Iris (for Fabric)](https://irisshaders.net/) - A Fabric mod which is based upon Sodium to add Shader support.
 - [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) - A Fabric mod to allow Optifine to run using Fabric loader.
 
 ### Skins And Capes
@@ -159,7 +156,6 @@
 - [Default Dark Mode](https://www.curseforge.com/minecraft/texture-packs/default-dark-mode) - Dark Mode for the default Minecraft UIs!
 - [Cyber Optics](https://www.planetminecraft.com/texture-pack/cyber-optics-v10/) - Sci-Fi resource pack.
 - [Soartex](https://soartex.net/) - Smooth resource pack with mod support.
-- [Faithful](https://faithful.team/) - Smooth textures for a furbished default look.
 - [BetterVanillaBuilding](https://www.curseforge.com/minecraft/texture-packs/bettervanillabuilding) - Adds loads of new blocks with connected textures in optifine.
 
 ## Shader Packs
@@ -175,7 +171,6 @@
 ## Web Applications
 
 - [Blessing Skin Server](https://github.com/bs-community/blessing-skin-server) - A web application brings your custom skins back in offline Minecraft servers.
-- [yoshino](https://github.com/idawnlight/yoshino) - A lite & fast Minecraft skin server, written in php. ([Live Demo](https://skin.lim-light.com/))
 - [WorldEdit Golf](https://worldedit.golf/) - Challenge others in a competition to use WorldEdit in as few commands as possible.
 
 ## Softwares
@@ -192,8 +187,6 @@
 - [Minestom](https://minestom.net/) - Lightweight from-scratch server implementation.
 - [Mohist](https://mohistmc.com/) - A server implementing the Forge and Bukkit API.
 - [Paper](https://papermc.io/) - Miscellaneous patches for Spigot and BungeeCord providing better performance and more configuration options.
-- [PocketMine](https://www.pocketmine.net/) - A Bedrock Edition Server providing support for basic plugins.
-- [PowerNukkit](https://powernukkit.org/) - A powerful fork of Nukkit.
 - [Spigot](https://www.spigotmc.org/) - CraftBukkit's successor providing support for the Bukkit API.
 - [Sponge](https://www.spongepowered.org/) - Minecraft Server providing support for the Sponge API and is extensible to the Forge API and Bukkit API.
 - [Thermos](https://cyberdynecc.github.io/Thermos/install) - A server implementing the Forge and Bukkit API for 1.7.10.
@@ -201,7 +194,7 @@
 
 ### Libraries
 
-- [CraftLib](https://github.com/zerite/craftlib) - Complete [Kotlin](https://kotlinlang.org) / Java library for wrapping the entire Minecraft codebase, including protocol, NBT, schematics, chat and more. 
+- [CraftLib](https://github.com/zerite/craftlib) - Complete [Kotlin](https://kotlinlang.org) / Java library for wrapping the entire Minecraft codebase, including protocol, NBT, schematics, chat and more.
 - [MCProtocolLib](https://github.com/Steveice10/MCProtocolLib) - A simple library for communicating with a Minecraft client/server, written in Java.
 - [node-minecraft-protocol](https://github.com/PrismarineJS/node-minecraft-protocol) - A NodeJS library to parse and serialize minecraft packets, plus authentication and encryption.
 - [go-mcproto](https://github.com/BRA1L0R/go-mcproto) - Minecraft server communication protocol implementation written in Go that allows you to program your own bots.
