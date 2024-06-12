@@ -189,6 +189,7 @@ described in [RFC 8032]
  * [asdf-crystal](https://github.com/marciogm/asdf-crystal) - Plugin for asdf version manager
  * [crenv](https://github.com/crenv/crenv) - Crystal version manager
  * [rcm.cr](https://github.com/maiha/rcm.cr) - Redis Cluster Manager
+ * [vfox-crystal](https://github.com/yanecc/vfox-crystal) - Plugin for vfox version manager
 
 ## Examples and funny stuff
  * [blackjack-cr](https://github.com/gdonald/blackjack-cr) - Console Blackjack
@@ -500,7 +501,9 @@ described in [RFC 8032]
  * [crystal-koans](https://github.com/ilmanzo/crystal-koans) - Learn Crystal by writing unit tests
  * [crystal-lang.org](https://crystal-lang.org) - Official language site
  * [devdocs.io](https://devdocs.io/crystal/) - API Documentation Browser with Crystal support
+ * [Learn X in Y minutes](https://learnxinyminutes.com/docs/crystal/) - Quick tutorial on Crystal
  * [Programming Crystal](https://pragprog.com/book/crystal/programming-crystal) - PragProg book to start your Crystal journey
+ * [Usability of Programming Languages](https://gergelyk.github.io/prog-lang-usability/) - Comparison of Python, Rust, Crystal
 
 ## Official Documentation Translations
  * [br.crystal-lang.org](http://br.crystal-lang.org/) - Brazilian
