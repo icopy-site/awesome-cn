@@ -71,6 +71,10 @@ Contributions are welcome! Please [check out](https://github.com/szenergy/awesom
   - [GitHub organization :octocat:](https://github.com/MicroVision-Inc)
 - [PreAct](https://www.preact-tech.com/) - PreAct's mission is to make life safer and more efficient for the automotive industry and beyond. The headquarter is located in Portland, Oregon, USA.
   - [YouTube channel :red_circle:](https://www.youtube.com/@PreActTechnologies)
+- [Pepperl+Fuchs](https://www.pepperl-fuchs.com/) - Is a global technology company, specialized in innovative automation solutions and sensor technologies, such as LiDAR, based in Mannheim, Germany.
+  - [YouTube channel :red_circle:](https://www.youtube.com/c/pepperl-fuchs)
+  - [YouTube channel :red_circle:](https://www.youtube.com/user/PepperlFuchsUSA)
+  - [GitHub organization :octocat:](https://github.com/PepperlFuchs)
 
 ## Datasets
 

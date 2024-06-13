@@ -702,6 +702,9 @@ English-language description for use by biologists.
 
 * [A Language for Counterfactual Generative Models](http://proceedings.mlr.press/v139/tavares21a.html) - ***ICML'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=2067748786482591497)]. [[Project](https://github.com/zenna/Omega.jl)]. This paper presents Omega, a probabilistic programming language with support for counterfactual inference. This feature is accomplished by introducing a new operator to probabilistic programming akin to Pearl’s do. 
 
+
+#### Logic DSL Applications
+
 * [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus) - ***Wikipedia***. Wikipedia on Situation Calculus, a logic formalism designed for representing and reasoning about dynamical domains.
 
 * [Qualitative Simulation](https://www.cs.utexas.edu/ftp/qsim/papers/Kuipers-aij-86.pdf) - ***Artificial Intelligence***, 1986. [[All Versions](https://scholar.google.com/scholar?cluster=4945009733425184345&hl=en&as_sdt=0,5)]. Benjamin Kuipers' original paper on qualitative reasoning.

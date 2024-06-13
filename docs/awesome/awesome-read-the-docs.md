@@ -8,8 +8,8 @@
 
 <!-- subtitle -->
 
-&gt; 很棒的文档项目的精选列表，对于学习和引导新的文档项目很有用.
-&gt; 加上“阅读文档”在现实生活中的酷炫用法.
+> A curated list of awesome documentation projects, useful to learn from and for bootstrapping new documentation projects.
+> Plus cool real-life usages of Read the Docs.
 
 <!-- image -->
 
@@ -19,20 +19,20 @@
 
 <!-- description -->
 
-Read the Docs 是一个完全开源的平台，用于构建和发布文档.
-阅读更多内容 [readthedocs.org](https://readthedocs.org/) 和 [readthedocs.com](https://readthedocs.com/) （阅读商业文档）.
+Read the Docs is a fully open-source platform that builds and publishes documentation.
+Read more on https://about.readthedocs.com.
 
 ## Foreword
 
-“科学和学术界”出现了许多令人兴奋的新文档项目，使文档世界超越了软件项目.
-为了捕捉最新的发展和趋势，我们正在编制一份文档技术的鼓舞人心的用途列表，特别是在传统的软件文档领域之外.
+Many new and exciting documentation projects have emerged in *science and academia*, taking the world of documentation beyond just software projects.
+To capture the latest development and trends, we are compiling a list of inspirational uses of documentation technology, especially outside of the traditional field of software documentation.
 
-除了展示精彩且真实的“阅读文档”项目外，还有许多 [Example Projects](#example-projects) 旨在帮助人们学习和入门.
+In addition to showing awesome and real-life Read the Docs projects, a number of [Example Projects](#example-projects) are being built to help people learn and get started.
 
-我们希望这能够激励人们编写文档、开发新的文档项目或更新现有的文档项目.
-这里提到的所有项目都是**开源**，这意味着您可以找到它们的源代码并了解它是如何完成的.
+We hope that this will inspire people writing documentation, developing new documentation projects or updating existing ones.
+All projects mentioned here are **open source**, meaning that you can find their source code and understand how it's done.
 
-该列表正在制作中，请受邀参与 [contribute](#contributing)!
+The list is a work in progress, please feel invited to [contribute](#contributing)!
 
 <!-- TOC -->
 <!--lint disable awesome-toc-->
@@ -44,22 +44,22 @@ Read the Docs 是一个完全开源的平台，用于构建和发布文档.
 
 ## Sphinx projects
 
-- [CrateDB](https://crate.io/docs/crate/)  - Crate.io 已将他们的文档经验集成到他们的通用网站中. 总共嵌套了 15 个文档项目. 他们使用自定义主题， [crate-docs-theme](https://github.com/crate/crate-docs-theme) to orchestrate the projects and align them. **#sphinx** **#custom-theme**.
+- [CrateDB](https://crate.io/docs/crate/) - Crate.io has integrated their documentation experience into their general website. There's a total of 15 documentation projects nested. They use a custom theme, [crate-docs-theme](https://github.com/crate/crate-docs-theme) to orchestrate the projects and align them. **#sphinx** **#custom-theme**.
 - [django-cms](https://docs.django-cms.org/) - django-cms's developer documentation is as extensive as it's well-organized. It uses the Furo theme. **#sphinx** **#large-project**.
-- [Ray](https://docs.ray.io/)  - Ray 是一个涵盖多个软件组件的文档项目. 它使用 Executable Book 项目的多个扩展. 功能展示于 [this twitter thread](https://twitter.com/readthedocs/status/1663923671470047234). **#sphinx** **#themes** **#large-project**.
+- [Ray](https://docs.ray.io/) - Ray is a documentation project spanning multiple software components. It uses several extensions from the Executable Book project. Features are showcased in [this twitter thread](https://twitter.com/readthedocs/status/1663923671470047234). **#sphinx** **#themes** **#large-project**.
 - [Scrapy](https://docs.scrapy.org/) - Embeds a lot of reference snippets and uses `sphinx-hoverxref` for quick reference tooltips. Lots of inspiration to be found in content organization. **#sphinx**.
-- [setuptools](https://setuptools.pypa.io/) - 很多功能，使用 Furo 主题. [Twitter thread](https://twitter.com/readthedocs/status/1546527820150718469) with some examples. **#sphinx** **#themes**.
+- [setuptools](https://setuptools.pypa.io/) - Lots of features, using the Furo theme. [Twitter thread](https://twitter.com/readthedocs/status/1546527820150718469) with some examples. **#sphinx** **#themes**.
 - [sphinx-needs](https://sphinx-needs.readthedocs.io/) - Documentation of `sphinx-needs`. **#sphinx** **#themes**.
 - [sphinx-immaterial](https://sphinx-immaterial.readthedocs.io/) - Documentation of `sphinx-immaterial`, a Material theme for Sphinx, based on Material for MkDocs. **#sphinx** **#themes**.
 - [Uberspace](https://manual.uberspace.de/) - Customized sidebar and footer, adding project's branding through custom CSS and HTML to `sphinx_rtd_theme`. Latest version and release date on front page. **#sphinx** **#themes** **#custom-theme**.
-- [Wagtail](https://docs.wagtail.org/) - Wagtail is a Django-based CMS with a global community. The documentation spans multiple stakeholders (editors 和 developers), has it's own beautiful theme 和 is largely structured around Diátaxis ideals. The [Release Notes](https://docs.wagtail.org/en/stable/releases/index.html) 和 [Contribution guide](https://docs.wagtail.org/en/stable/contributing/index.html) are remarkable. Wagtail's documentation uses a minimal set of Sphinx extensions. **#sphinx** **#themes** **#diataxis**.
+- [Wagtail](https://docs.wagtail.org/) - Wagtail is a Django-based CMS with a global community. The documentation spans multiple stakeholders (editors and developers), has it's own beautiful theme and is largely structured around Diátaxis ideals. The [Release Notes](https://docs.wagtail.org/en/stable/releases/index.html) and [Contribution guide](https://docs.wagtail.org/en/stable/contributing/index.html) are remarkable. Wagtail's documentation uses a minimal set of Sphinx extensions. **#sphinx** **#themes** **#diataxis**.
 - [Weblate](https://docs.weblate.org/) - Weblate is a translation platform with a large documentation project with many translations and customized Read the Docs theme. Documentation aimed at all segments: users, administrators and developers. Also features an extensive Changelog. **#sphinx** **#themes** **#translation**.
 
 ## MkDocs projects
 
 - [Argo CD](https://argo-cd.readthedocs.io/) - Material for MkDocs theme with custom colors and a nice version drop down. Animated product demo and carefully designed sidebar presenting targeted guides for Operators, Users and Developers. **#mkdocs** **#themes** **#large-project**.
 - [doc2dash](https://doc2dash.readthedocs.io/) - Material for MkDocs with a custom version provider fully compatible with Read the Docs **#mkdocs** **#themes**.
-- [Nautobot](https://docs.nautobot.com/)  - 广泛使用子项目功能在同一自定义域/登陆页面下组织大量文档项目. 每个子项目都有自己的发布周期. 功能展示于 [this twitter thread](https://twitter.com/readthedocs/status/1595010133796462593). **#mkdocs** **#themes** **#large-project**.
+- [Nautobot](https://docs.nautobot.com/) - Extensive usage of the subprojects feature to organize numerous documentation projects under the same custom domain / landing page. Each subproject has its own release cycle. Features are showcased in [this twitter thread](https://twitter.com/readthedocs/status/1595010133796462593). **#mkdocs** **#themes** **#large-project**.
 - [The Haskell Tool Stack](https://docs.haskellstack.org/) - A matured MkDocs project using their documentation website as their main website. Notice both the structure and the considerate use of widgets included in Material for MkDocs **#mkdocs** **#themes**.
 
 ## API Reference
@@ -68,29 +68,23 @@ Read the Docs 是一个完全开源的平台，用于构建和发布文档.
 
 ## Science projects
 
-- [AiiDA demonstration](https://aiida-qe-demo.readthedocs.io/) - 包含大量示例和插图的硬件演示/教程. [Behind the scenes](https://github.com/chrisjsewell/aiida-qe-demo), Conda is used by installing mambaforge and storing the setup in `environment.yml`.  **#sphinx** **#jupyter-notebook**
+- [AiiDA demonstration](https://aiida-qe-demo.readthedocs.io/) - A hardware demo/tutorial written with lots of examples and illustrations. [Behind the scenes](https://github.com/chrisjsewell/aiida-qe-demo), Conda is used by installing mambaforge and storing the setup in `environment.yml`.  **#sphinx** **#jupyter-notebook**
 - [Crest Ocean System](https://crest.readthedocs.io/) - Uses sphinx-hoverxref and Executable Book. Video tutorials in text. Lots of embeds, Trello, YouTube and more. **#sphinx** **#themes**
 - [jupyter-book](https://jupyterbook.org/) - Jupyter-book automatically creates Sphinx projects from projects that are friendly to Jupyter Notebook users. **#jupyter-notebook** **#sphinx** **#diataxis**.
 - [jupyter-sphinx](https://jupyter-sphinx.readthedocs.io/) - Directly executes and renders Jupyter Notebooks in documentation projects. **#jupyter-notebook** **#sphinx**.
 - [jupyter-tutorial](https://jupyter-tutorial.readthedocs.io/) - Uses a set of extensions for Sphinx, for instance direct rendering of `.ipynb` files with `nbsphinx`. **#jupyter-notebook** **#sphinx**.
 - [msticpy](https://msticpy.readthedocs.io/) - MSTIC Jupyter and Python Security Tools, msticpy is a library for InfoSec investigation and hunting in Jupyter Notebooks. **#jupyter-notebook** **#sphinx**.
 - [nbsphinx](https://nbsphinx.readthedocs.io/) - Banner and buttons to view interactive versions of currently displayed `*.ipynb` files using the Binder service. Notice also the awesome PDF version. **#jupyter-notebook** **#sphinx**.
-- [poliastro](https://docs.poliastro.space/)  - 一个广泛的科学项目，展示了数学公式的丰富使用、3D 交互式绘图、“sphinx-hoverxref”、自定义 404 以及代码示例上漂亮的复制按钮. 请注意导航如何很好地反映 [Diátaxis framework](https://diataxis.fr/)  **#sphinx** **#diataxis**.
+- [poliastro](https://docs.poliastro.space/) - An extensive science project, demonstrating rich use of math formulas, interactive plotting in 3d, ``sphinx-hoverxref``, custom 404s and a nice copy button on code examples. Notice how well the navigation reflects the [Diátaxis framework](https://diataxis.fr/)  **#sphinx** **#diataxis**.
 - [SunPy](https://docs.sunpy.org/) - A large documentation project for an open-source package for solar physics. Embeds the main website's menu and uses a custom theme. Extensive changelog and release notes. **#custom-theme**, **sphinx**, **#apidocs**.
-- [TorchIO](https://torchio.readthedocs.io/)  - 一个针对深度学习中 3D 医学图像的开源 Python 库. 将 API 文档与使用示例相结合，使用“单一版本”表示单个“滚动发布”文档. [Screenshots in this Twitter thread](https://twitter.com/readthedocs/status/1570339818806120450). **#themes**, **sphinx**.
+- [TorchIO](https://torchio.readthedocs.io/) - An open-source Python library targeting 3D medical images in deep learning. Combines API documentation with usage examples, uses "single version" for a singular "rolling release" documentation. [Screenshots in this Twitter thread](https://twitter.com/readthedocs/status/1570339818806120450). **#themes**, **sphinx**.
 - [TomoBank](https://tomobank.readthedocs.io/) - A big list of tomographic datasets and phantoms, featuring especially tables and images and maintained by science community. **#sphinx**.
 
 <!-- END CONTENT -->
 
-## Example projects
-
-- [Basic Sphinx example](https://github.com/readthedocs-examples/example-sphinx-basic) - Basic example of using Sphinx on Read the Docs. **#sphinx**.
-- [Basic MkDocs example](https://github.com/readthedocs-examples/example-mkdocs-basic) - Basic example of using MkDocs on Read the Docs. **#mkdocs**.
-- [Jupyter Book example](https://github.com/readthedocs-examples/example-jupyter-book) - Using Jupyter Book on Read the Docs with popular extensions. **#jupyter-notebook** **#sphinx**.
-
 ## Tag cloud
 
-此列表中的类别在以下标签处交叉：
+The categories in this list are intersecting at the following tags:
 
 **#sphinx**, **#mkdocs**, **#themes**, **#custom-theme**, **#jupyter-notebook**, **#diataxis**, **#large-project**, **#apidocs**, **#translation**
 

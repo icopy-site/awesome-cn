@@ -62,6 +62,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   _[Sociologie des réseaux sociaux](http://pierremerckle.fr/2011/02/sociologie-des-reseaux-sociaux/)_, by Pierre Mercklé, in French (2011).
 -   _[Social and Economic Networks](https://press.princeton.edu/books/paperback/9780691148205/social-and-economic-networks)_, by Matthew O. Jackson (2008).
 -   _[Social Network Analysis with Applications](https://www.wiley.com/en-gb/Social+Network+Analysis+with+Applications-p-9781118169476)_, by Ian McCulloh, Helen Armstrong and Anthony Johnson (2013).
+-   _[Social Networks. An Introduction](https://olizardo.github.io/networks-textbook/)_, by Omar Lizardo and Isaac Jilbert - free to read online (2023).
 -   _[Social Networks: An Introduction](https://www.routledge.com/products/9780415458030)_, by Jeroen Bruggeman ([related material](https://sites.google.com/site/introsocnet/); 2008).
 -   _[Studying Social Networks. A Guide to Empirical Research](http://press.uchicago.edu/ucp/books/book/distributed/S/bo15475096.html)_, by Marina Hennig _et al._ (2013).
 -   _[Understanding Social Networks. Theories, Concepts, and Findings](https://global.oup.com/academic/product/understanding-social-networks-9780195379471)_, by Charles Kadushin (2012).
@@ -196,6 +197,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Gephi Datasets](https://github.com/gephi/gephi/wiki/Datasets).
 -   [Hetionet: an integrative network of disease](https://github.com/hetio/hetionet) - A complex biological network, available in multiple formats, including JSON and [Neo4j](https://neo4j.het.io/browser/).
 -   [igraphdata](https://CRAN.R-project.org/package=igraphdata) - R data-centric package.
+-   [igraphwalshdata](https://cran.r-project.org/package=igraphwalshdata) - Another R data-centric package.
 -   [Interaction Web Database](http://www.ecologia.ib.usp.br/iwdb/) - Ecological species interactions.
 -   [International Currencies 1890-1910](http://eh.net/database/international-currencies-1890-1910/) - Historical data on the international connections between 45 currencies.
 -   [KONECT - The Koblenz Network Collection](http://konect.uni-koblenz.de/) - Includes, among other things, networks of collaboration in DBpedia and Wikipedia, GitHub ([companion handbook](https://arxiv.org/abs/1402.5500)).
@@ -213,7 +215,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Philosophers Networks from Randall Collins’s _The Sociology of Philosophies_](https://www.uva.nl/profiel/n/o/w.denooy/w.denooy.html#tab_1).
 -   [Siena Datasets](http://www.stats.ox.ac.uk/~snijders/siena/siena_datasets.htm).
 -   [SocioPatterns Datasets](http://www.sociopatterns.org/datasets/) - Network data obtained through the [SocioPatterns](http://www.sociopatterns.org/) sensing platform.
--   [Stanford Large Network Dataset Collection](http://snap.stanford.edu/data/index.html).
+-   [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/index.html).
 -   [State Networks](https://ippsr.msu.edu/public-policy/state-networks) - US state-to-state relational variables, including borders, travel, trade and more.
 -   [tnet Datasets](https://toreopsahl.com/datasets/) - Weighted network data.
 -   [UC Berkeley Social Networks Study (UCNets)](https://www.icpsr.umich.edu/web/ICPSR/studies/36975) - Ego-centric data (personal networks) from a five-year panel study.
@@ -276,7 +278,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Northeastern University MOBS Lab - Laboratory for the Modeling of Biological and Socio-technical Systems](http://www.mobs-lab.org/) - Led by Alessandro Vespignani.
 -   [Pacific Ecoinformatics and Computational Ecology Lab](http://foodwebs.org/) - Non-profit study group of ecological networks (“food webs”).
 -   [Peter J. Mucha’s Research Group at the University of North Carolina at Chapel Hill](http://mucha.web.unc.edu/networks/).
--   [Social Network Analysis Group at Stanford](http://sna.stanford.edu/).
+-   [Stanford Network Analysis Project](https://snap.stanford.edu/), by [Jure Leskovec](https://cs.stanford.edu/~jure/).
 -   [Warren Center for Network & Data Sciences at the University of Pennsylvania](http://warrencenter.upenn.edu/).
 -   [Yale Institute for Network Science (YINS)](http://yins.yale.edu/).
 
@@ -305,6 +307,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [NetLab](http://www.urbancentre.utoronto.ca/researchgroups/netlab.html) - Research network at the University of Toronto, led by Barry Wellman.
 -   [Network Science Research Centre, Swansea University](http://www.swansea.ac.uk/medicine/enterpriseandinnovation/networkscienceresearchcentre/).
 -   [Network Dynamics](http://networkdynamics.org/) - Research Lab at McGill University, led by [Derek Ruths](http://www.derekruths.com/)
+-   [NEtwoRks, Data, and Society (NERDS)](https://nerds.itu.dk/) - Research group at IT University of Copenhagen.
 -   [Netzwerkerei](http://netzwerkerei.org/) - Historical research project on the connections between Jewish intellectuals.
 -   [ORIO - Observatoire des Réseaux Intra- et Inter-Organisationnels](http://blogs.sciences-po.fr/recherche-network-organization-institution-dynamics-multilevel/) - A research program on networks and regulation.
     -   [‘Réseaux et Régulation’ Conference Cycle](http://blogs.sciences-po.fr/recherche-network-organization-institution-dynamics-multilevel/sminaire-rseaux-et-rgulation/) - Seminar based at Sciences Po in Paris, France.
@@ -542,6 +545,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [networks.tb](https://networks-tb.sourceforge.net/) - C program designed for analyzing socio-semantic networks. Runs on Linux and Mac OS X.
 -   [OGDF - Open Graph Drawing Framework](https://ogdf.uos.de/) - Self-contained C++ class library for diagram, network and tree layouts.
 -   [OpenOrd: Large-scale Graph Layout (formerly DrL)](http://www.cs.sandia.gov/~smartin/software.html) - C++ algorithm, also available as a [Gephi plugin](https://gephi.org/plugins/#/plugin/openord-layout).
+-   [RAPIDS cuGraph](https://github.com/rapidsai/cugraph) - Python packages and C/C++/CUDA libraries focused on GPU-accelerated graph analytics.
 -   [Stanford Network Analysis Project](http://snap.stanford.edu/) - C++ general purpose network analysis and graph mining library. Available as a Python library and in Microsoft Excel via NodeXL.
 -   [Walktrap](https://www-complexnetworks.lip6.fr/~latapy/PP/walktrap.html) - C++ program that implements the [WalkTrap community detection algorithm](https://arxiv.org/abs/physics/0512106).
 
@@ -618,6 +622,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [cdlib](https://github.com/GiulioRossetti/cdlib) - Python community detection library, with 60+ methods and evaluation/visualization features.
 -   [dash-cytoscape](https://github.com/plotly/dash-cytoscape) - Interactive network visualization library in Python, powered by Cytoscape.js and Dash
 -   [graph-tool](http://graph-tool.skewed.de/) - Python module for network manipulation and analysis, written mostly in C++ for speed.
+-   [Graphinate](https://erivlis.github.io/graphinate/) - Python package aimed at generating graphs from data sources, built on top of `networkx`.
 -   [graphviz](https://pypi.python.org/pypi/graphviz) - Python renderer for the DOT graph drawing language.
 -   [graspologic](https://github.com/microsoft/graspologic) - Python package for statistical algorithms, models, and visualization for single and multiple networks. 
     -   [Tutorials on algorithms and models](https://graspologic.readthedocs.io/en/latest/).
@@ -631,10 +636,13 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
     -   [nxviz](https://github.com/ericmjl/nxviz/) - Visualization package for NetworkX.
 -   [nngt](https://nngt.readthedocs.io) - Library-agnostic graph generation and analysis that wraps around `networkx`, `igraph` and `graph-tool`). Includes normalized graph measures, advanced visualizations, (geo)spatial tools, and interfaces for neuroscience simulators.
 -   [npartite](https://github.com/ike002jp/npartite) - Python algorithms for community detection in n-partite networks.
+-   [parag](https://github.com/rraadd88/parag) - Interactive visualization of higher-order graphs in Python.
 -   [PyGraphistry](https://github.com/graphistry/pygraphistry) - Python library to extract, transform, and visually explore big graphs.
 -   [python-igraph](http://igraph.org/python/) - Python version of the igraph network analysis package.
 -   [python-louvain](https://perso.crans.org/aynaud/communities/) - A solid implementation of Louvain community detection algorithm.
 -   [Raphtory](https://www.raphtory.com/) - A platform for building and analysing temporal networks.
+-   [RAPIDS cuGraph](https://github.com/rapidsai/cugraph) - Python packages and C/C++/CUDA libraries focused on GPU-accelerated graph analytics.
+-   [rustworkx](https://github.com/Qiskit/rustworkx) - A high performance Python graph library implemented in Rust.
 -   [scipy.sparse.csgraph](https://docs.scipy.org/doc/scipy/reference/sparse.csgraph.html#module-scipy.sparse.csgraph) - Fast graph algorithms based on sparse matrix representations.
 -   [Snap.py](http://snap.stanford.edu/snappy/index.html) - A Python interface for SNAP (a general purpose, high performance system for analysis and manipulation of large networks).
 -   [SnapVX](https://github.com/snap-stanford/snapvx) - A convex optimization solver for problems defined on a graph.
@@ -775,11 +783,13 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 
 > Tutorials that are not focused on a single specific software package or program.
 
+-   [A tutorial for network centrality in R](https://github.com/schochastics/centrality) (2023).
 -   [Basic and Advanced Network Visualization with Gephi and R](http://kateto.net/sunbelt2016) (2016).
 -   [Basic Network Analysis in R using igraph and related packages](https://mr.schochastics.net/material/netAnaR/) (2022).
 -   [Interactive and Dynamic Network Visualization in R](http://curleylab.psych.columbia.edu/netviz/) and JavaScript libraries (2016).
 -   [Nodegoat and Palladio: Introductory Workshop](https://www.academia.edu/11450425/Nodegoat_and_Palladio_Introductory_Workshop_by_Emmanuelle_Chaze) - Aimed at humanists (2015).
 -   [Static and Dynamic Network Visualization with R](http://kateto.net/network-visualization) - Covers the igraph, network, ggraph, network, networkD3, ndtv, threejs and visNetwork packages (2019).
+-   [Tidy Network Analysis in R using the tidygraph package](https://mr.schochastics.net/material/tidynetAnaR/) (2022).
 
 ## Varia
 
@@ -979,8 +989,14 @@ Alden S. Klovdahl,
 [Tanguy Fardet](https://tfardet.srht.site/), 
 [Bernhard Bieri](https://bernhardbieri.ch/), 
 [Rémy Cazabet](https://github.com/Yquetzal), 
-[Jeremy Gelb](https://github.com/JeremyGelb) and 
-[Mathieu Bastian](https://github.com/mbastian) - 
+[Jeremy Gelb](https://github.com/JeremyGelb), 
+[Mathieu Bastian](https://github.com/mbastian), 
+[Michael Szell](https://github.com/mszell),
+[Eran Rivlis](https://github.com/erivlis),
+[Rohan Dandage](https://github.com/rraadd88), 
+[Benjamin Smith](https://github.com/benyamindsmith), 
+[Beth Duckles](https://github.com/bduckles) and 
+[Lei Cao](https://github.com/cllei12) - 
 have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), 
