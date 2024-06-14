@@ -3,11 +3,11 @@
 
 [<img src="https://raw.githubusercontent.com/make-github-pseudonymous-again/awesome-qr-code/master/repo-link.svg?sanitize=true" align="right" width="100">](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme)
 
-很棒的二维码库、软件和资源的精选列表.
+A curated list of awesome QR code libraries, software and resources.
 
-&gt; QR码（Quick Response code的缩写）是一种矩阵条码（或二维条码），最早于1994年在日本设计用于汽车行业.
+> QR code (abbreviated from Quick Response code) is a type of matrix barcode (or two-dimensional barcode) first designed in 1994 for the automotive industry in Japan.
 >
-&gt; *维基百科* ~ https://en.wikipedia.org/wiki/QR_code
+> *Wikipedia* ~ https://en.wikipedia.org/wiki/QR_code
 
 
 
@@ -18,70 +18,73 @@
 
 ### Readers
 
-- [Web App](https://github.com/code-kotis/qr-code-scanner) - 用于扫描二维码的渐进式 Web 应用程序.
+- [Web App](https://github.com/code-kotis/qr-code-scanner) - A progressive web application to scan QR codes.
 
 ### File Transfer
 
-- [qrcp](https://github.com/claudiodangelis/qrcp) - 在不离开终端的情况下扫描二维码，通过 Wi-Fi 将文件从您的计算机传输到移动设备.
-- [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) - 从终端通过 Wi-Fi 在计算机和智能手机之间传输文件.
+- [qrcp](https://github.com/claudiodangelis/qrcp) - Transfer files over Wi-Fi from your computer to a mobile device by scanning a QR code without leaving the terminal.
+- [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) - Transfer files over Wi-Fi between your computer and your smartphone from the terminal.
 
 ## CLI
 
-- [qrencode](https://fukuchi.org/works/qrencode) - 生成二维码的命令行工具.
-- [qrap](https://github.com/make-github-pseudonymous-again/qrap) - 为 Wi-Fi 接入点凭证生成 QR 代码有效负载.
-- [spqr](https://github.com/make-github-pseudonymous-again/spqr) - 生成用于启动 SEPA 传输的 QR 代码有效负载.
-- [qrscan](https://github.com/sayanarijit/qrscan) - 使用系统摄像头或给定图像扫描终端中的二维码.
-- [qrcode.show](https://qrcode.show) - 使用 curl 生成二维码.
+- [qrencode](https://fukuchi.org/works/qrencode) - Command line tool to generate QR codes.
+- [qrap](https://github.com/make-github-pseudonymous-again/qrap) - Generate a QR code payload for Wi-Fi access point credentials.
+- [spqr](https://github.com/make-github-pseudonymous-again/spqr) - Generate a QR code payload for initiating a SEPA transfer.
+- [qrscan](https://github.com/sayanarijit/qrscan) - Scan a QR code in the terminal using the system camera or a given image.
+- [qrcode.show](https://qrcode.show) - Generate QR codes using curl.
 
 ## Libraries
 
-在本节中，`R` 表示库允许读取 QR 码，`W` 表示
-该库允许生成二维码.
+In this section `R` means the library allows to read QR codes and `W` means
+that the library allows to generate QR codes.
 
 ### C
 
-- [libqrencode `W`](https://github.com/fukuchi/libqrencode) - 一个快速紧凑的库，用于在 QR 代码符号中编码数据.
+- [libqrencode `W`](https://github.com/fukuchi/libqrencode) - A fast and compact library for encoding data in a QR code symbol.
 
 ### C, C++, JavaScript, Python, Java, Rust
 
-- [QR-Code-generator `W`](https://github.com/nayuki/QR-Code-generator) - Java、TypeScript/JavaScript、Python、C++、C、Rust 中的高质量二维码生成器库.
+- [QR-Code-generator `W`](https://github.com/nayuki/QR-Code-generator) - High-quality QR code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust.
 
 ### Java
 
-- [Qart `W`](https://github.com/scola/Qart) - 合并图片和二维码的应用程序.
+- [Qart `W`](https://github.com/scola/Qart) - An app to merge a picture and a QR code.
 
 ### JavaScript
 
-- [instascan `R`](https://github.com/schmich/instascan) - 使用网络摄像头的 HTML5 QR 代码扫描仪.
-- [qrious `W`](https://github.com/neocotic/qrious) - 使用画布生成 QR 代码的纯 JavaScript 库.
+- [instascan `R`](https://github.com/schmich/instascan) - HTML5 QR code scanner using your webcam.
+- [qrious `W`](https://github.com/neocotic/qrious) - Pure JavaScript library for QR code generation using canvas.
 
 ### TypeScript
 
-- [jsQR `R`](https://github.com/cozmo/jsQR) - 纯JavaScript二维码阅读库.
+- [jsQR `R`](https://github.com/cozmo/jsQR) - A pure JavaScript QR code reading library.
 
 ### React
 
-- [qrcode.react `W`](https://github.com/zpao/qrcode.react)  - 一个`<QRCode/>  ` 用于 React 的组件.
+- [qrcode.react `W`](https://github.com/zpao/qrcode.react) - A `<QRCode/>` component for use with React.
 
 ### React Native
 
-- [react-native-qrcode-scanner `R`](https://github.com/moaazsidat/react-native-qrcode-scanner) - 用于 React Native 的二维码扫描器组件.
+- [react-native-qrcode-scanner `R`](https://github.com/moaazsidat/react-native-qrcode-scanner) - A QR code scanner component for React Native.
 
 ### Vue
 
-- [vue-qrcode-reader `R`](https://github.com/gruhn/vue-qrcode-reader) - 一组用于检测和解码二维码的 Vue.js 组件.
+- [vue-qrcode-reader `R`](https://github.com/gruhn/vue-qrcode-reader) - A set of Vue.js components for detecting and decoding QR codes.
 
 ### Python
 
-- [sylnsfar/qrcode `W`](https://github.com/sylnsfar/qrcode) - Python 中的艺术二维码（可以生成 GIF）.
+- [sylnsfar/qrcode `W`](https://github.com/sylnsfar/qrcode) - Artistic QR code in Python (can produce GIFs).
+
+### Ruby
+- [rqrcode `W`](https://github.com/whomwah/rqrcode) - A neat Ruby QR code generator exporting to `svg`, `png` and `ansi` with configurable size, color and other attributes.
 
 ### Objective-C
 
-- [SGQRCode `R`](https://github.com/kingsic/SGQRCode) - 易于使用的 iOS 二维码扫描库.
+- [SGQRCode `R`](https://github.com/kingsic/SGQRCode) - Easy to use QR code scan library for iOS.
 
 ### Swift
 
-- [EFQRCode `W`](https://github.com/EFPrefix/EFQRCode) - 在 Swift 中更好地操作二维码，支持 iOS、macOS、watchOS 和 tvOS.
+- [EFQRCode `W`](https://github.com/EFPrefix/EFQRCode) - A better way to operate QR code in Swift, support iOS, macOS, watchOS and tvOS.
 
 ### C\#
 
@@ -89,26 +92,26 @@
 
 ### Android
 
-- [BGAQRCode-Android `RW`](https://github.com/bingoogolapple/BGAQRCode-Android) - 用 C 编写的 QR 码阅读器和生成器.
-- [AwesomeQRCode (Kotlin) `W`](https://github.com/SumiMakito/AwesomeQRCode) - 一个很棒的 Android 二维码生成器（可以生成 GIF）.
+- [BGAQRCode-Android `RW`](https://github.com/bingoogolapple/BGAQRCode-Android) - QR code reader and generator written in C.
+- [AwesomeQRCode (Kotlin) `W`](https://github.com/SumiMakito/AwesomeQRCode) - An awesome QR code generator for Android (can produce GIFs).
 
 ### PHP
 
-- [php-qrcode-detector-decoder `R`](https://github.com/khanamiryan/php-qrcode-detector-decoder) - 用于检测和解码 QR 码的 PHP 库.
-- [simple-qrcode `W`](https://github.com/SimpleSoftwareIO/simple-qrcode) - 一个易于使用的 PHP QR 代码生成器.
-- [endroid/qr-code `W`](https://github.com/endroid/qr-code) - QR码生成器.
-- [BaconQRCode `W`](https://github.com/Bacon/BaconQRCode) - 用于 PHP 的二维码生成器.
+- [php-qrcode-detector-decoder `R`](https://github.com/khanamiryan/php-qrcode-detector-decoder) - PHP library to detect and decode QR codes.
+- [simple-qrcode `W`](https://github.com/SimpleSoftwareIO/simple-qrcode) - An easy-to-use PHP QR code generator.
+- [endroid/qr-code `W`](https://github.com/endroid/qr-code) - QR code generator.
+- [BaconQRCode `W`](https://github.com/Bacon/BaconQRCode) - QR code generator for PHP.
 
 
 ## Resources
 
-- [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents) - QR码有效载荷格式目录.
+- [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents) - QR code payload format catalog.
 
 
 ## Contributing
 
-随时欢迎您的贡献！ 请看一下 [contribution guidelines](https://github.com/make-github-pseudonymous-again/awesome-qr-code/blob/main/CONTRIBUTING.md).
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/make-github-pseudonymous-again/awesome-qr-code/blob/main/CONTRIBUTING.md).
 
 ---
 
-如果您对这个自以为是的列表有任何疑问，请不要犹豫，打开一个问题.
+If you have any question about this opinionated list, do not hesitate to open an issue.
