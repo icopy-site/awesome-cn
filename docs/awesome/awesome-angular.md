@@ -322,6 +322,7 @@ become an Angular expert.
 * [angular-cli-diff](https://github.com/cexbrayat/angular-cli-diff) - Easily upgrade your Angular CLI applications from one version to another 🚀.
 * [mantis-cli](https://github.com/mantis-apps/mantis-cli) - M.A.N.T.I.S (MongoDB, Angular with Analog, Nx, Tailwind CSS, Ionic, Storybook) is not just a CLI tool; it's your passport to a seamless full-stack project launch.
 * [angular-serve-and-run](https://github.com/dot-build/angular-serve-and-run) - Serve your Angular CLI project then run a command on top of it.
+* [ngx-starter](https://github.com/bluehalo/ngx-starter) - An [@angular/cli](https://github.com/angular/angular-cli) based starter containing common components and services as well as a reference site.
 
 #### Deployment
 
@@ -379,6 +380,7 @@ become an Angular expert.
 * [buoy](https://github.com/buoy-graphql/buoy) - A GraphQL client for Angular built on top of Apollo.
 * [ngx-generic-rest-service](https://github.com/jm2097/ngx-generic-rest-service) - Wrapper for Angular services.
 * [@ngify/http](https://github.com/ngify/ngify/tree/main/packages/http) - A reactive HTTP client in the form of `@angular/common/http`, offers the following major features: typed response objects, streamlined error handling, request and response interception.
+* [ngx-http-annotations](https://github.com/manudss/ngx-http-annotations) - Updated fork of [ngx-http-rest](https://github.com/Mixalloff/ngx-http-rest), which allows you to interact with rest api in your Angular app through annotations.
 
 #### Integrations
 
@@ -410,6 +412,7 @@ become an Angular expert.
 * [gojs-angular](https://github.com/NorthwoodsSoftware/gojs-angular) - A set of Angular components to manage [GoJS](https://gojs.net/latest/index.html) Diagrams, Palettes, and Overviews.
 * [anguhashblog](https://github.com/AnguHashBlog/anguhashblog) - Seamlessly connects your Angular or Analog application to the Hashnode GraphQL API, providing a template integration with a headless Hashnode setup.
 * [angular-tauri](https://github.com/maximegris/angular-tauri) - Ultra-fast bootstrapping with Angular and Tauri.
+* [ngx-three](https://github.com/demike/ngx-three) - Use [Three.js](https://threejs.org) with your Angular project in a declarative way.
 
 #### Internationalization
 
@@ -558,6 +561,7 @@ become an Angular expert.
 * [ng-fullcalendar](https://github.com/ng-fullcalendar/ng-fullcalendar) - Fullcalendar module for Angular.
 * [fullcalendar-angular](https://github.com/fullcalendar/fullcalendar-angular) - The official Angular component for FullCalendar.
 * [angular-year-calendar](https://github.com/IOMechs/angular-year-calendar) - A powerful and performant Angular year calendar library built with ❤️.
+* [@schedule-x/angular](https://github.com/schedule-x/schedule-x) - Material design event calendar.
 
 #### Carousels
 
@@ -857,6 +861,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ngx-collection](https://github.com/e-oz/ngx-collection) - Collection State Management Service for Angular.
 * [xstate](https://github.com/statelyai/xstate) - Actor-based state management & orchestration for complex app logic.
 * [signalstory](https://github.com/zuriscript/signalstory) - A state management library based on Angular signals. It offers a range of architectural options, from simple repository-based state management (signal-in-a-service) to orchestrating decoupled commands, handling side effects through encapsulated objects, and facilitating inter-store communication using an event-driven approach.
+* [ngx-sherlock](https://github.com/politie/ngx-sherlock) - `ngx-sherlock` is an Angular tooling library to be used with the [@politie/sherlock](https://github.com/politie/sherlock) distributed reactive state management library.
 
 #### Storage
 
@@ -879,6 +884,18 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [jspreadsheet](https://bossanova.uk/jspreadsheet/v4/examples/angular) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based online interactive tables and spreadsheets compatible with other spreadsheet software.
 * [handsontable](https://handsontable.com/docs/javascript-data-grid/angular-installation/) - Handsontable is a popular JavaScript data grid component that brings the well-known look and feel of spreadsheets to your application.
 * [ngx-export-as](https://github.com/wnabil/ngx-export-as) - Angular 2+ / Ionic 2+ HTML/table element to export it as JSON, XML, PNG, CSV, TXT, MS-Word, Ms-Excel, and PDF.
+
+#### Tooltips
+
+* [helipopper](https://github.com/ngneat/helipopper) - A Powerful Tooltip and Popover for Angular Applications.
+* [popover](https://github.com/ncstate-sat/popover) - Popover component for Angular.
+* [angular-confirmation-popover](https://github.com/mattlewis92/angular-confirmation-popover) - An angular 15.0+ bootstrap confirmation popover.
+* [ngx-tooltip-directives](https://github.com/mkeller1992/ngx-tooltip-directives) - This library offers three different tooltip directives (string, html and template) and draws inspiration from the no longer maintained [ng2-tooltip-directive](https://github.com/drozhzhin-n-e/ng2-tooltip-directive).
+* [ng2-tooltip-directive](https://github.com/cloudfactorydk/ng2-tooltip-directive) - Forked from [ng2-tooltip-directive](https://github.com/drozhzhin-n-e/ng2-tooltip-directive).
+* [angular-tooltip](https://github.com/babybeet/angular-tooltip) - Easily show tooltips programmatically and/or declaratively in Angular.
+* [ngx-tippy-wrapper](https://github.com/farengeyt451/ngx-tippy-wrapper) - Angular wrapper for [Tippy.js](https://github.com/atomiks/tippyjs).
+* [tooltip-testing](https://github.com/chandumaram/tooltip-testing) - Tooltip for Angular, forked from cm-angular-tooltip
+* [angular-ellipsis-tooltip](https://github.com/wandri/angular-ellipsis-tooltip) - Angular component to display ellipsis and material tooltip dynamically.
 
 #### UI Libraries
 
@@ -968,9 +985,6 @@ for Bootstrap 5 & Angular 17.
 * [rx-computed](https://github.com/jscutlery/devkit/tree/main/packages/rx-computed) - The async RxJS-based version of signals' `computed()`.
 * [microwave](https://github.com/jscutlery/devkit/tree/main/packages/microwave) - Optimize Angular change detection effortlessly.
 * [falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs.
-* [helipopper](https://github.com/ngneat/helipopper) - A Powerful Tooltip and Popover for Angular Applications.
-* [popover](https://github.com/ncstate-sat/popover) - Popover component for Angular.
-* [angular-confirmation-popover](https://github.com/mattlewis92/angular-confirmation-popover) - An angular 15.0+ bootstrap confirmation popover.
 * [ngx-device-detector](https://github.com/AhsanAyaz/ngx-device-detector) - An Angular v7+ library to detect the device, OS, and browser details.
 * [ngx-feature-toggle](https://github.com/willmendesneto/ngx-feature-toggle) - Your module to handle with feature toggles in Angular applications easier.
 * [runtime-config-loader](https://github.com/pjlamb12/runtime-config-loader) - This is an Angular library that provides an easy way to load a configuration JSON file for runtime configuration.
@@ -987,6 +1001,7 @@ for Bootstrap 5 & Angular 17.
 * [ngx-parallax-stars](https://github.com/DerStimmler/ngx-parallax-stars) - Angular library to create beautiful stars with parallax effect.
 * [angular-twitter-timeline](https://github.com/mustafaer/angular-twitter-timeline) - Angular Public Twitter Timeline Widget.
 * [ng-parsel](https://github.com/angular-experts-io/ng-parsel) - Parse your Angular code base to JSON abstraction - Great for displaying APIs and running custom analysis.
+* [ngx-signal-immutability](https://github.com/zuriscript/ngx-signal-immutability) - Compile-time and runtime immutability for Angular signals.
 
 ---
 

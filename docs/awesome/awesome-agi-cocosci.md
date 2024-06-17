@@ -709,7 +709,9 @@ English-language description for use by biologists.
 
 * [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus) - ***Wikipedia***. Wikipedia on Situation Calculus, a logic formalism designed for representing and reasoning about dynamical domains.
 
-* [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf) - ***ICLPNR'99***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675&hl=en&as_sdt=0,5)]. The original paper on Answer Set Programming (ASP).
+* [Answer Set Programming](http://people.sabanciuniv.edu/~esraerdem/teaching/krr06/asp.pdf) - ***ICLPNR'99***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=15267370435063454675&hl=en&as_sdt=0,5)]. The original paper on Answer Set Programming (ASP), a form of declarative programming oriented towards difficult search problems, on the use of nonmonotonic reasoning in knowledge representation.
+
+* [What is Answer Set Programming?](https://cdn.aaai.org/AAAI/2008/AAAI08-270.pdf) - ***AAAI'08***, 2008. [[All Versions](https://scholar.google.com/scholar?cluster=3691841207891991771)]. Lifschitz's tutorial on Answer Set Programming.
 
 * [Action Languages, Answer Sets, and Planning](https://link.springer.com/chapter/10.1007%2F978-3-642-60085-2_16) - ***The Logic Programming Paradigms***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=2045126541850245645&hl=en&as_sdt=0,5)]. 
 

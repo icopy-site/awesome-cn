@@ -53,6 +53,7 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 - [ToC or Sidebar in GitHub Wiki](https://stackoverflow.com/questions/9239588/toc-or-sidebar-in-github-wiki)
 - [GitHub Wiki doesn't support HTML tables anymore?](https://stackoverflow.com/questions/45657579/github-wiki-doesnt-support-html-tables-anymore)
 - [How to style a JSON block in GitHub Wiki?](https://stackoverflow.com/questions/14901245/how-to-style-a-json-block-in-github-wiki)
+- [Render package documentation into GitHub wiki](https://stackoverflow.com/questions/27451937/render-package-documentation-into-github-wiki)
 
 ## Contributing
 Contributions are very welcome! Please read the [contribution guideline](https://github.com/MyHoneyBadger/awesome-github-wiki/blob/master/contributing.md) first.
