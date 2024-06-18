@@ -311,6 +311,7 @@ Sorted alphabetically by company name and product name.
 - [IEEE Electronic Systems News Autumn (1985)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5345111) – Review of the three-color Penman robotic plotter.
 - [Apple II Business Graphics Film (1982)](https://archive.org/details/apple-ii-business-graphics) – There's a Strobe Model 100 Graphics Plotter drawing bar charts at 4:57.
 - [Elektor Magazine Selbstbauplotter MONDRIAN II (1990) (German)](https://archive.org/details/elektor_202310) – Also see [a model of this plotter on GrabCAD](https://grabcad.com/library/plotter-mondrian-1).
+- [IBM 7374 and 7375 Color Plotter Brochure (PDF)](https://www.1000bit.it/ad/bro/ibm/IBM737xColorPlotters.pdf)
 
 ### Papers
 

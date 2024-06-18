@@ -1340,6 +1340,8 @@ English-language description for use by biologists.
 
 #### Literature Mining
 
+* [Structured information extraction from scientific text with large language models](https://www.nature.com/articles/s41467-024-45563-x) - ***Nature Communications***, 2024. [[All Versions](https://scholar.google.com/scholar?cluster=13694008040033857249)]. This paper presents a simple approach to joint named entity recognition and relation extraction and demonstrate how pretrained large language models can be fine-tuned to extract useful records of complex scientific knowledge. The authors test three representative tasks in materials chemistry: linking dopants and host materials, cataloging metal-organic frameworks, and general composition/phase/morphology/application information extraction.
+
 * [Galactica: A Large Language Model for Science](https://galactica.org/static/paper.pdf) - ***Meta AI***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=15782429788006956926&hl=en&as_sdt=0,5)]. A large language model trained on large-scale scientific corpus.
 
 * [CORWA: A Citation-Oriented Related Work Annotation Dataset](https://arxiv.org/abs/2205.03512) - ***NAACL'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=14605899782190710454&hl=en&as_sdt=0,5)].
