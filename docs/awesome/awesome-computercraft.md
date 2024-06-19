@@ -119,12 +119,12 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ### Mod-specific programs
 
-> Note: This section contains programs dedicated which are exclusive to a mod and would not make sense in the Utilities section.
+> Note: This section contains programs which are exclusive to a mod and would not make sense in the Utilities section.
 
 - [DraconicControl](https://pastebin.com/UqVHTht5) -  Allows controlling Draconic Evolution's Draconic Reactor from a computer.
 - [ReactorControl and TurbineControl](https://pastebin.com/p4zeq7Ma) -  Automatic management of reactors and turbines in Big Reactors.
     - [ReactorControl patched](https://pastebin.com/2ZrbnH5w) -  The preceeding program uses the `parallel` API recursively, which could cause it to break. A patch has been developed to fix this.
-- [`cc-mek-scada`](https://github.com/MikaylaFischler/cc-mek-scada) - Integral management of a Mekanism factory.
+- [`cc-mek-scada`](https://github.com/MikaylaFischler/cc-mek-scada) - Configurable control system for Mekanism fission reactors.
 
 ## Non-Lua programs
 
