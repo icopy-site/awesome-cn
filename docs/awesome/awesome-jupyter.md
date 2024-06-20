@@ -60,6 +60,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 - [jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google drive for Jupyter.
 - [jupyter-edx-grader-xblock](https://github.com/ibleducation/jupyter-edx-grader-xblock) - Auto-grade a student assignment created as a Jupyter notebook and write the score in the Open edX gradebook.
 - [jupyter-viewer-xblock](https://github.com/ibleducation/jupyter-viewer-xblock) - Fetch and display part of, or an entire Jupyter Notebook in an Open edX XBlock.
+- [jupyterquiz](https://github.com/jmshea/jupyterquiz) - An interactive quiz generator for Jupyter notebooks and Jupyter Book.
 - [LTI Launch JupyterHub Authenticator](https://github.com/jupyterhub/ltiauthenticator) - Authentication via Edx.
 - [nbautoeval](https://github.com/parmentelat/nbautoeval) - Create auto-evaluated exercises.
 - [nbgitpuller](https://github.com/jupyterhub/nbgitpuller) - Sync a git repository one-way to a local path.
@@ -148,6 +149,7 @@ A curated list of awesome [Jupyter](http://jupyter.org) projects, libraries and 
 
 ## JupyterLab Extensions
 
+- [amphi-etl](https://github.com/amphi-ai/amphi-etl) - Low-code ETL extension for Jupyterlab.
 - [celltags](https://github.com/jupyterlab/jupyterlab-celltags) - Extension to organise and execute notebooks using cell tags.
 - [code_formatter](https://github.com/ryantam626/jupyterlab_code_formatter) - A universal code formatter.
 - [debugger](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files.

@@ -175,6 +175,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 
 - [CompCert](http://compcert.inria.fr) - High-assurance compiler for almost all of the C language (ISO C99), generating efficient code for the PowerPC, ARM, RISC-V and x86 processors.
 - [Ceramist](https://github.com/certichain/ceramist) - Verified hash-based approximate membership structures such as Bloom filters.
+- [CertiCoq](https://github.com/CertiCoq/certicoq) - Verified compiler from Gallina, the internal language of Coq, down to CompCert's Clight language.
 - [Fiat-Crypto](https://github.com/mit-plv/fiat-crypto) - Cryptographic primitive code generation.
 - [Functional Algorithms Verified in SSReflect](https://github.com/clayrat/fav-ssr) - Purely functional verified implementations of algorithms for searching, sorting, and other fundamental problems.
 - [Incremental Cycles](https://gitlab.inria.fr/agueneau/incremental-cycles) - Verified OCaml implementation of an algorithm for incremental cycle detection in graphs.
@@ -183,6 +184,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [lambda-rust](https://gitlab.mpi-sws.org/iris/lambda-rust) - Formal model of a Rust core language and type system, a logical relation for the type system, and safety proofs for some Rust libraries.
 - [Prosa](https://gitlab.mpi-sws.org/RT-PROOFS/rt-proofs) - Definitions and proofs for real-time system schedulability analysis.
 - [RISC-V Specification in Coq](https://github.com/mit-plv/riscv-coq) - Definition of the RISC-V processor instruction set architecture and extensions.
+- [Stable sort algorithms in Coq](https://github.com/pi8027/stablesort) - Generic and modular proofs of correctness, including stability, of mergesort functions.
 - [Tarjan and Kosaraju](https://github.com/math-comp/tarjan) - Verified implementations of algorithms for topological sorting and finding strongly connected components in finite graphs.
 - [Vélus](http://velus.inria.fr) - Verified compiler for a Lustre/Scade-like dataflow synchronous language.
 - [Verdi Raft](https://github.com/uwplse/verdi-raft) - Implementation of the Raft distributed consensus protocol, verified in Coq using the Verdi framework.
@@ -210,7 +212,6 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [Mathematical Components wiki](https://github.com/math-comp/math-comp/wiki)
 - [100 famous theorems proved using Coq](https://github.com/coq-community/coq-100-theorems)
 - [Planet Coq link aggregator](https://coq.pl-a.net)
-- [Sherlocoq code search](https://sherlocoq.sirref.org)
 
 ### Blogs
 
