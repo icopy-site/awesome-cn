@@ -831,6 +831,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
   * [10minutemail](https://10minutemail.com) - Free, temporary email for testing.
   * [yopmail](https://yopmail.com/) - Free, temporary inboxes of your choice instantaneously.
+  * [AhaSend](https://ahasend.com) - Transactional email service, free for 1000 emails per month, with unlimited domains, team members, webhooks and message routes in the free plan.
   * [AnonAddy](https://anonaddy.com) - Open-source anonymous email forwarding, create unlimited email aliases for free
   * [Antideo](https://www.antideo.com) — 10 API requests per hour for email verification, IP, and phone number validation in the free tier. No Credit Cards are required.
   * [Brevo](https://www.brevo.com/) — 9,000 emails/month, 300 emails/day free
@@ -1646,6 +1647,7 @@ Update Time, five active automations, webhooks.
 
 ## Payment and Billing Integration
 
+  * [Qonversion](http://qonversion.io/) - All-in-one cross-platform subscription management platform offering analytics, A/B testing, Apple Search Ads, remote configs, and growth tools for optimizing in-app purchases and monetization. Compatible with iOS, Android, React Native, Flutter, Unity, Cordova, Stripe, and web. Free up to $10k in monthly tracked revenue.
   * [Glassfy](https://glassfy.io/) – In-app subscriptions infrastructure, real-time subscription events and out-of-the-box monetization tools on iOS, Android, Stripe and Paddle. Free up to $10k monthly revenue.
   * [Adapty.io](https://adapty.io/) – One-stop solution with open-source SDK for mobile in-app subscription integration to iOS, Android, React Native, Flutter, Unity, or web app. Free up to $10k monthly revenue.
   * [CoinMarketCap](https://coinmarketcap.com/api/) — Provides cryptocurrency market data including the latest crypto and fiat currency exchange rates. The free tier offers 10K call credits/month.

@@ -160,6 +160,10 @@
 * [nix-haskell-mode](https://github.com/matthewbauer/nix-haskell-mode) - Automatic Haskell setup in Emacs.
 * [nixkell](https://github.com/pwm/nixkell) - A Haskell project template using Nix and direnv.
 
+### Haxe
+* [haxix](https://github.com/MadMcCrow/haxix) - Nix flake to build haxe/Heaps.io projects.
+* [kebab](https://github.com/bwkam/kebab) - Haxe packages for Nix.
+
 ### Node.js
 
 * [Napalm](https://github.com/nix-community/napalm) - Support for building npm packages in Nix with a lightweight npm registry.

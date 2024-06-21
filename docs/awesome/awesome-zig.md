@@ -221,6 +221,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [marler8997/zigup](https://github.com/marler8997/zigup) - Download and manage zig compilers.
 * [korandoru/setup-zig](https://github.com/korandoru/setup-zig) - Set up a specific version of Zig environment on GitHub Actions.
 * [weskoerber/zvm](https://github.com/weskoerber/zvm) - POSIX-compliant bash script to manage multiple active Zig versions.
+* [vezel-dev/zig-sdk](https://github.com/vezel-dev/zig-sdk) - MSBuild SDK for building Zig, C, and C++ projects using the Zig compiler.
 
 
 ### Package managers
@@ -283,6 +284,7 @@ These C/C++ libraries were packaged to be used with the Zig build and packaging 
 * [kassane/winpthreads](https://github.com/kassane/winpthreads-zigbuild) - PThread library for MinGW.
 * [raysan5/raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming.
 * [jmcnamara/libxlsxwriter](https://github.com/jmcnamara/libxlsxwriter) - Creating Excel XLSX files.
+* [alexrp/libffi](https://github.com/alexrp/libffi) - libffi with a Zig build script.
 
 ### C++
 

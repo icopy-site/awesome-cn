@@ -1346,14 +1346,13 @@ English-language description for use by biologists.
 
 * [Inferring experimental procedures from text-based representations of chemical reactions](https://www.nature.com/articles/s41467-021-22951-1) - ***Nature Communications***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15772647675166217556)]. This paper presents data-driven models for predicting the entire sequence of synthesis steps starting from a textual representation of a chemical equation, for application in batch organic chemistry.
 
+* [Language models and protocol standardization guidelines for accelerating synthesis planning in heterogeneous catalysis](https://www.nature.com/articles/s41467-023-43836-5) - ***Nature Communications***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=8186755371438552520)]. This paper introduces a transformer model for automated synthesis protocol analysis in catalyst discovery, exemplified using single-atom heterogeneous catalysts (SACs), a rapidly expanding catalyst family. The model adeptly converts SAC protocols into action sequences, and this output is used to facilitate statistical inference of their synthesis trends and applications, potentially expediting literature review and analysis.
+
 * [Galactica: A Large Language Model for Science](https://galactica.org/static/paper.pdf) - ***Meta AI***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=15782429788006956926&hl=en&as_sdt=0,5)]. A large language model trained on large-scale scientific corpus.
 
 * [CORWA: A Citation-Oriented Related Work Annotation Dataset](https://arxiv.org/abs/2205.03512) - ***NAACL'22***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=14605899782190710454&hl=en&as_sdt=0,5)].
 
 * [ESRA: Explainable Scientific Research Assistant](https://aclanthology.org/2021.acl-demo.14/) - ***ACL'21 Demo Track***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=4387915912582172679&hl=en&as_sdt=0,5)]. A tool for constructing and visualizing the knowledge graph of a query keyword in literature retrieving.
-
-
-#### Literature Visualization
 
 * [cite2vec: Citation-Driven Document Exploration via Word Embeddings](https://matthewberger.github.io/papers/cite2vec.pdf) - ***IEEE Transactions on Visualization and Computer Graphics***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=6949650208780085923&hl=en&as_sdt=0,5)].
 
