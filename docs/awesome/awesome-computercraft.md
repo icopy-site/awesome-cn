@@ -61,7 +61,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 ### Library
 
 - [Acidity](https://github.com/9551-Dev/acidity) -  A simple procedual world generation-oriented noise generation library.
-- [Anavrins' ChaCha20](http://www.computercraft.info/forums2/index.php?/topic/25474-) -  Implementation of [ChaCha20](https://en.wikipedia.org/wiki/ChaCha20-Poly1305). <!-- FIXME: Broken link -->
+- [Anavrins' ChaCha20](https://web.archive.org/web/20200924232302/http://www.computercraft.info/forums2/index.php?/topic/25474-chacha20-encryption-in-computercraft/) -  Implementation of [ChaCha20](https://en.wikipedia.org/wiki/ChaCha20-Poly1305). <!-- FIXME: Broken link -->
 - Anavrins' hashing libraries:
     - [MD5](https://pastebin.com/6PVSRckQ) -  Implementation of [MD5](https://en.wikipedia.org/wiki/MD5).
     - [SHA-1](https://pastebin.com/SfL7vxP3) -  Implementation of [SHA-1](https://en.wikipedia.org/wiki/SHA-1) with [HMAC](https://en.wikipedia.org/wiki/HMAC) support.
