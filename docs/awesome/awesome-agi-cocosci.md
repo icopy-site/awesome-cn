@@ -1422,6 +1422,8 @@ English-language description for use by biologists.
 
 * [The Internet of Things comes to the lab](https://www.nature.com/articles/542125a) - ***Nature***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=7747117198956166976&hl=en&as_sdt=0,5)]. The emergence of connected instruments and equipment promises to untether researchers from the laboratory --- letting them fine-tune experiments and analyse data remotely. 
 
+* [A dynamic knowledge graph approach to distributed self-driving laboratories](https://www.nature.com/articles/s41467-023-44599-9) - ***Nature Communications***, 2024. [[All Versions](https://scholar.google.com/scholar?cluster=7070798385652764751)]. This work employs ontologies to capture data and material flows in design-make-test-analyse cycles, utilising autonomous agents as executable knowledge components to carry out the experimentation workflow. Data provenance is recorded to ensure its findability, accessibility, interoperability, and reusability. The architecture is built upon the World Avatar project, which seeks to create an all-encompassing digital twin based on a dynamic knowledge graph.
+
 
 * [Balancing act: when to flex and when to stay fixed](https://www.cell.com/trends/chemistry/fulltext/S2589-5974(23)00249-6) - ***Trends in Chemistry***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=14208571639305934551)]. This perspective article provides essential insights into the decision-making process for choosing automation platforms, highlighting the suitability of fixed automation for standardized tasks and the strategic use of flexible automation in dynamic research settings.
 
