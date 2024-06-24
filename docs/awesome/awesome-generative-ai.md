@@ -142,7 +142,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [GitHub Copilot](https://github.com/features/copilot) - GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - An AI system by OpenAI that translates natural language to code.
 - [Ghostwriter](https://blog.replit.com/ai) - An AI-powered pair programmer by replit.
-- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - Build applications faster with the ML-powered coding companion.
+- [Amazon Q](https://aws.amazon.com/q/) - The AWS generative AI–powered assistant that helps answer questions, write code, and automate tasks.
 - [tabnine](https://www.tabnine.com/) - Code faster with whole-line & full-function code completions.
 - [Stenography](https://stenography.dev/) - Automatic code documentation.
 - [Mintlify](https://mintlify.com/) - AI powered documentation writer.
@@ -267,6 +267,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Pika](https://pika.art/) - An idea-to-video platform that brings your creativity to motion.
 - [HeyGen](https://app.heygen.com/) - Turn scripts into talking videos with customizable AI avatars in minutes.
 - [Sora](https://openai.com/sora) - An AI model that can create realistic and imaginative scenes from text instructions.
+- [Luma Dream Machine](https://lumalabs.ai/dream-machine) - An AI model that makes high quality, realistic videos fast from text and images.
 
 ### Animation
 

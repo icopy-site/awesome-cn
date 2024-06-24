@@ -16,7 +16,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 ---
 
-## Learn
+## Learning Guides
 
 *Learn what this awesome thing is.*
 
@@ -39,13 +39,13 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Practical Elm for a Busy Developer](https://korban.net/elm/book) - A non-beginner book about the practical aspects of developing Elm applications.
 * [Haskell to Elm](https://github.com/eeue56/haskell-to-elm) - Collection of examples on places where Elm is different to Haskell, targeted at Elm beginners coming from Haskell backgrounds.
 * [A nice app on Elm street](https://madewithlove.com/blog/software-engineering/using-elm-with-react-a-nice-app-on-elm-street/) - An introduction to Elm
-* [The Elmish Book](https://zaid-ajaj.github.io/the-elmish-book) Building web applications in [F#](https://dotnet.microsoft.com/languages/fsharp) following The Elm Architecture from first principles. 
+* [The Elmish Book](https://zaid-ajaj.github.io/the-elmish-book) Building web applications in [F#](https://dotnet.microsoft.com/languages/fsharp) following The Elm Architecture from first principles.
 * [Elm patterns](https://sporto.github.io/elm-patterns/) - A collection of coding patterns.
 * [Codings hints](https://github.com/elm/compiler/tree/master/hints) - A list of README files by Evan.
 * [Ellies catalog](https://janiczek-ellies.builtwithdark.com/) - A Collection of small example in Ellie.
 * [Elm Cookbook](https://orasund.gitbook.io/elm-cookbook/) - A digital book about Elm.
 * [Awesome Elm PLTD](https://github.com/pd-andy/awesome-elm-pltd) - Useful resources for programming language theory & development in Elm.
-* [Elm The Complete Guide](https://www.udemy.com/course/elm-the-complete-guide/) - Video tutorial including Elm UI, Elm Review, responsive design, tests and more.
+
 
 ### Outdated Tutorials and books (Elm 0.18 or earlier)
 
@@ -57,6 +57,17 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Single-Page Web Apps in Elm](https://www.linkedin.com/pulse/single-page-web-apps-elm-part-one-getting-started-new-kevin-greene) - Five parts tutorial on Elm.
 * [Elm FAQ](http://faq.elm-community.org/) - Elm FAQ from [Elm Community](http://elm-community.org/).
 * [Elm Tutorial by Auth0](https://auth0.com/blog/creating-your-first-elm-app-part-1/) - A tutorial on building an app in Elm from authentication to calling an API.
+
+
+---
+
+### Learning Videos
+
+* [Welcome to Elm](https://www.youtube.com/playlist?list=PLuGpJqnV9DXq_ItwwUoJOGk_uCr72Yvzb) - Video playlist about learning all the Elm fundamentals.
+* [Elm The Complete Guide](https://www.udemy.com/course/elm-the-complete-guide/) - Video tutorial including Elm UI, Elm Review, responsive design, tests and more.
+* [Egghead.io: Elm videos](https://egghead.io/q?q=elm) - Egghead's Elm video training, many of which are free.
+* [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) - Walk through all the syntax and basic ideas in Elm as a general programming language.
+* [Greg Ziegan: Elm live coding videos ](https://www.youtube.com/channel/UCJt-EkypIn-HoxNhoHqXmIA) - Live coding videos on youtube.
 
 
 ---
@@ -91,9 +102,11 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 ---
 
-## Videos
+## Conference Videos
 
 *Watch great talks about Elm*
+
+These are mostly conference talks, for videos about learning Elm look at the [Learning Videos](#learning-videos) section.
 
 ### Playlists
 
@@ -120,13 +133,6 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Richard Feldman: Effects as Data | 2015](https://www.youtube.com/watch?v=6EdXaWfoslc) - A talk about how Elm manages side effects.
 * [Richard Feldman: Make the Back-End Team Jealous: Elm in Production | 2015](http://www.youtube.com/watch?v=FV0DXNB94NE) - A talk about Elm and initial steps to use it in production.
 * [Evan Czaplicki: Let's be mainstream! User focused design in Elm | 2015](https://www.youtube.com/watch?v=oYk8CKH7OhE) - A talk from the father of Elm about the philosophy behind the language.
-
-### Video tutorials
-
-* [Egghead.io: Elm videos](https://egghead.io/q?q=elm) - Egghead's Elm video training, many of which are free.
-* [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) - Walk through all the syntax and basic ideas in Elm as a general programming language.
-* [Greg Ziegan: Elm live coding videos ](https://www.youtube.com/channel/UCJt-EkypIn-HoxNhoHqXmIA) - Live coding videos on youtube.
-
 
 ---
 
@@ -208,7 +214,7 @@ Tools and libraries to test your Elm applications
 You can find hundreds of high quality packages at:
 
 * [Elm packages](https://package.elm-lang.org/) - The official registry
-* [Elm Catalog](https://korban.net/elm/catalog) - Find packages in a catalog organized into categories. 
+* [Elm Catalog](https://korban.net/elm/catalog) - Find packages in a catalog organized into categories.
 * [Elm Search](http://klaftertief.github.io/elm-search/) - Search Elm documentation for operators, function signatures, etc.
 
 
@@ -458,17 +464,6 @@ You can find hundreds of high quality packages at:
 * [elmish-wasm](https://github.com/Chadtech/elmish-wasm) A POC for compiling elm to Web Assembly
 * [elm-serverless](https://github.com/ktonon/elm-serverless) Run Elm 0.18 on Cloud Functions using the Serverless Frameworks
 * [elm-posix](https://github.com/albertdahlin/elm-posix) - Write CLI programs using Elm
-
-
----
-
-## Who to follow
-
-*Follow for fresh updates for free. Use [#elmlang](https://twitter.com/search?q=%23elmlang) or [#elm](https://twitter.com/search?q=%23elm) hashtag.*
-
-<a href="https://twitter.com/elmlang" target="_blank"><img src="./assets/elm-logo.svg" height="100" width="100" /></a> | <a href="https://twitter.com/czaplic" target="_blank"><img src="https://avatars3.githubusercontent.com/u/1658058" width="100" /></a> | <a href="https://twitter.com/rtfeldman" target="_blank"><img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH.jpg" width="100" /></a> | <a href="https://twitter.com/elmweekly" target="_blank"><img src="https://s3.amazonaws.com/revue/profiles/images/000/046/579/thumb/elm_weekly_logo.png" width="100" /></a>
---- | --- | --- | ---
-[Official Elm](https://twitter.com/elmlang) | [Evan Czaplicki](https://twitter.com/evancz) | [Richard Feldman](https://twitter.com/rtfeldman) | [Elm Weekly](https://twitter.com/elmweekly)
 
 
 ---
