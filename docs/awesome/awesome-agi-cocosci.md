@@ -2277,6 +2277,16 @@ Systematic Literature Review](https://arxiv.org/abs/2308.10620) - 2023. [[All Ve
 ## People & Book
 
 
+### John Hopcroft
+
+Theoretical computer scientist.
+
+* [Introduction to Automata Theory, Languages, and Computation](http://elib.vku.udn.vn/bitstream/123456789/2543/1/2007.%20Introduction%20to%20Automata%20Theory%2C%20Languages%2C%20and%20Computations%20%283rd%20edition%29.pdf) - ***Pearson***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=326269839585842480)].
+
+* [Foundations of Data Science](http://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf) - ***Cambridge University Press***. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=1802704438630899850)].
+
+
+
 ### Ulf Grenander
 
 Applied mathematician, the founder of General Pattern Theory.
@@ -2340,14 +2350,6 @@ Scientific philosophor, the founder of scientific verification theories.
 * [The logic of scientific discovery](https://hk1lib.org/book/511214/299596) - ***Routledge***, 2005. [[All Versions](https://scholar.google.com/scholar?cluster=5836864564733788424&hl=en&as_sdt=0,5)].
 
 * [All Life is Problem Solving](https://hk1lib.org/book/2773070/c48f60) - ***Routledge***, 2001. [[All Versions](https://scholar.google.com/scholar?cluster=9799073870888093350&hl=en&as_sdt=0,5)].
-
-
-
-### John Hopcroft
-
-Applied Mathematician, theoretical computer scientist.
-
-* [Foundations of Data Science](http://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf) - ***Cambridge University Press***. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=1802704438630899850)].
 
 
 

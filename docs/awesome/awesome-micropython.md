@@ -230,6 +230,7 @@ Other places you can look for MicroPython Libraries:
 * [mqtt_upython](https://github.com/matbgn/mqtt_upython) - MQTT Client using MicroPython on ESP8266.
 * [tinymqtt](https://github.com/belyalov/tinymqtt) - Async MQTT client for MicroPython.
 * [micropython-mqtt-thingspeak](https://github.com/miketeachman/micropython-mqtt-thingspeak) - Publish and Subscribe to ThingSpeak using MQTT with MicroPython.
+* [micropython-sparkplugb](https://github.com/sciotaio/micropython-sparkplugb) - MicroPython compatible implementation of the Eclipse Sparkplug B Specification.
 
 #### NBD
 
@@ -572,14 +573,12 @@ Other places you can look for MicroPython Libraries:
 * [Micropython_ADS1115](https://github.com/AnthonyKNorman/Micropython_ADS1115) - ADS1115 16-bit ADC, 4 channels with programmable gain, I2C interface.
 * [ADS7818](https://github.com/robert-hh/ADS7818) - Python class interfacing the ADS7818 AD-converter.
 * [micropython-ads1219](https://github.com/miketeachman/micropython-ads1219) - MicroPython module for the Texas Instruments ADS1219 ADC.
-* [micropython-hx711](https://github.com/SergeyPiskunov/micropython-hx711) - MicroPython driver for HX711 24-Bit Analog-to-Digital Converter.
 * [MicroPython-ADC_Cal](https://github.com/matthias-bs/MicroPython-ADC_Cal) - ESP32 ADC driver using reference voltage calibration value from efuse.
 * [micropython-pcf8591](https://gitlab.com/cediddi/micropython-pcf8591) - MicroPython driver for PCF8591 ADC/DAC, I2C interface.
-* [hx711_mpy-driver](https://github.com/HowManyOliversAreThere/hx711_mpy-driver) - Micropython Driver for the HX711 weighing sensor.
 * [MCP342x_LoPy](https://github.com/jajberni/MCP342x_LoPy) - MicroPython driver for the MCP342x ADC.
 * [micropython-ads1220](https://github.com/rdagger/micropython-ads1220) - MicroPython library for ADS1220 24-bit analog-to-digital converter.
 * [PCF8591_micropython_library](https://github.com/xreef/PCF8591_micropython_library) - MicroPython library for PCF8591 8-bit ADC/DAC.
-* [hx710](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/hx710.py) - MicroPython driver for the HX710.
+* [CS1237](https://github.com/robert-hh/CS1237) - MicroPython driver for the CS1237 ADC.
 
 #### DAC
 
@@ -875,6 +874,14 @@ Other places you can look for MicroPython Libraries:
 * [BH1750](https://github.com/octaprog7/BH1750) - MicroPython module for the BH1750 ambient light sensor (ALS).
 * [veml7700](https://github.com/octaprog7/veml7700) - MicroPython module for the VEML7700 ambient light sensor (ALS) from Vishay.
 
+#### Load Cell
+
+* [micropython-hx711](https://github.com/SergeyPiskunov/micropython-hx711) - MicroPython driver for HX711 24-Bit Analog-to-Digital Converter.
+* [hx711_mpy-driver](https://github.com/HowManyOliversAreThere/hx711_mpy-driver) - Micropython Driver for the HX711 weighing sensor.
+* [hx710](https://github.com/QuirkyCort/IoTy/blob/main/public/extensions/hx710.py) - MicroPython driver for the HX710.
+* [hx711](https://github.com/robert-hh/hx711) - MicroPython driver for the HX711 load cell interface.
+* [hx710](https://github.com/robert-hh/hx710) - MicroPython driver for the HX710 load cell interface.
+
 #### Magnetometer
 
 * [MicroPython_LIS2MDL](https://github.com/jposada202020/MicroPython_LIS2MDL) - MicroPython Driver for the ST LIS2MDL Magnetometer sensor.
@@ -943,6 +950,7 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-max31855](https://github.com/mcauser/deshipu-micropython-max31855) - Thermocouple amplifier, SPI interface.
 * [max31856](https://github.com/alinbaltaru/max31856) - Precision thermocouple to digital converter with linearization, SPI interface.
+* [max31865](https://github.com/sufyanaslam198/max31865) - Precision resistance-to-digital converter optimized for platinum resistance temperature detectors, SPI interface.
 * [mcp9700](https://gitlab.com/CrispyCrafter/mcp9700) - Generic MicroPython driver for MCP9700.
 * [micropython-generic-thermistor](https://github.com/Trexation/micropython-generic-thermistor) - MicroPython Generic Thermistor Library for simplified temperature sensing using NTC thermistors with voltage dividors.
 
@@ -1112,6 +1120,7 @@ Other places you can look for MicroPython Libraries:
 * [Get Started with MicroPython on Raspberry Pi Pico](https://store.rpipress.cc/products/get-started-with-micropython-on-raspberry-pi-pico) - By Gareth Halfacree and Ben Everard. ISBN 9781912047864.
 * [MicroPython for Microcontrollers](https://www.elektor.com/micropython-for-microcontrollers-e-book) - By Günter Spanner. ISBN 9783895764370.
 * [MicroPython for the Raspberry Pi Pico W: A gentle introduction to programming digital circuits with Python](https://www.amazon.com/MicroPython-Raspberry-Pico-introduction-programming/dp/B0BKSCV18D) - By Miguel Grinberg. ISBN 9798361302710.
+* [Programming ESP32: Learn MicroPython Coding and Electronics](https://www.amazon.com/Programming-ESP32-MicroPython-Coding-Electronics/dp/1739487451/) - By Simon Monk. ISBN 9781739487454.
 
 ## Frameworks
 

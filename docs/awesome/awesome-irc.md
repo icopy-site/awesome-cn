@@ -1,11 +1,11 @@
 <div class="github-widget" data-repo="davisonio/awesome-irc"></div>
 ## Awesome IRC [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-&gt; 精选清单 [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) 资源.
+> A curated list of awesome [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) resources.
 
-与 Internet 中继聊天 (IRC) 协议相关的工具、软件和其他资源的列表.
+A list of tools, software & other resources related to the Internet Relay Chat (IRC) protocol.
 
-IRC（互联网中继聊天）是一种开源协议，可用于通过渠道进行基于多用户文本的通信.
+IRC (Internet Relay Chat) is an open source protocol that can be used for multi-user text based communication through channels.
 
 
 <!--lint disable awesome-toc-->
@@ -14,187 +14,192 @@ IRC（互联网中继聊天）是一种开源协议，可用于通过渠道进�
 
 ## Clients
 
-*您使用这些连接到 IRC.*
+*You use these to connect to IRC.*
 
-- [Textual](https://www.codeux.com/textual/)  - 高度可定制、ZNC 集成、iCloud 同步（4.99 美元）.  ([source](https://github.com/Codeux-Software/Textual))`macOS`
-- [LimeChat](http://limechat.net/mac/)  - 多个服务器的一个窗口，键盘快捷键，快速稳定.  ([source](https://github.com/psychs/limechat)) `macOS` `iOS`
-- [HexChat](https://hexchat.github.io)  - 基于 XChat，易于使用，拼写检查和多语言.  ([source](https://github.com/hexchat/hexchat)) `Windows` `macOS` `Linux`
-- [gamja](https://sr.ht/~emersion/gamja/)  - 一个简单的 IRC 网络客户端.  ([source](https://git.sr.ht/~emersion/gamja)）`网络`
-- [Kiwi IRC](https://kiwiirc.com)  - 强大的现代网络 IRC 信使.  ([source](https://github.com/kiwiirc/kiwiirc), [demo](https://kiwiirc.com/nextclient/)）`网络`
-- [CIRC](https://flackr.github.io/circ/)  - 使用 chrome.sockets API 直接连接到 IRC 服务器，无需代理.  ([source](https://github.com/flackr/circ)）`铬`
-- [Quassel](https://quassel-irc.org) - 分布式（客户端可以连接到永久在线的中央核心或从中分离.（[source](https://github.com/quassel/quassel)) `Linux` `macOS` `Windows`
-- [Yaaic](https://www.yaaic.org)  - 多服务器/频道支持、SASL 支持、平滑的频道滚动/滑动.  ([source](https://github.com/pocmo/Yaaic))`安卓`
-- [relay.js](https://github.com/Fauntleroy/relay.js)  - 专注于使 IRC 不那么令人生畏和更易于使用.  `网络`
-- [Circe](https://github.com/emacs-circe/circe)  - 在 Emacs 中使用，合理的默认值.  `Emacs`
-- [Smuxi](https://smuxi.im)  - 用户友好，基于 GNOME / GTK+.  ([source](https://github.com/meebey/smuxi)) `Linux` `Windows` `macOS`
-- [KvIRC](http://www.kvirc.net)  - 免费、便携、基于 Qt GUI 工具包.  ([source](https://github.com/kvirc/KVIrc)) `Linux` `macOS` `Windows`
-- [Konversation](https://konversation.kde.org)  - 建立在 KDE 平台上的用户友好的客户端.  ([source](https://github.com/KDE/konversation))`Linux`
-- [sic](https://tools.suckless.org/sic/) - **S**imple **I**RC **c**lient - 不到 250 行 C 的终端客户端.`Linux`
-- [irssi](https://irssi.org)  - 终端客户端，模块作者的多协议友好，GPLv2.  `Linux` `macOS` `Cygwin` `BSD`
-- [Revolution IRC](https://github.com/MCMrARM/revolution-irc)  - 功能齐全、积极维护的 Android IRC 客户端.  `安卓`
-- [AdiIRC](https://adiirc.com)  - 从来没有客户为 IRC 体验的各个方面提供如此精细的设置.  ([features](https://dev.adiirc.com/projects/adiirc/wiki/Features), [screenshots](https://dev.adiirc.com/projects/adiirc/wiki/Screenshots)) `Windows` `WINE`
-- [IRC for Android™](https://www.countercultured.net/android/) - 适用于高级用户的 Android/Chrome 操作系统客户端，具有 ZNC 内置、通知逻辑、可靠的 DCC、硬件键盘的键绑定等.`Android` `ChromeOS`
-- [Iridium](https://appcenter.elementary.io/com.github.avojak.iridium/)  - 内置 Vala 和 GTK 的友好 IRC 客户端，专为 elementary OS 设计.  ([source](https://github.com/avojak/iridium))`Linux`
-- [IRC Vitamin](https://play.google.com/store/apps/details?id=com.todoartedigital.chuecamobile.irc.vitamin)  - 简单、快速、轻松地访问多个 IRC 网络.  `安卓`
+- [Textual](https://www.codeux.com/textual/) - Very customizable, ZNC integration, iCloud sync ($4.99). ([source](https://github.com/Codeux-Software/Textual)) `macOS`
+- [LimeChat](http://limechat.net/mac/) - One window for multiple servers, keyboard shortcuts, fast & stable. ([source](https://github.com/psychs/limechat)) `macOS` `iOS`
+- [HexChat](https://hexchat.github.io) - Based on XChat, easy to use, spell check & multiple languages. ([source](https://github.com/hexchat/hexchat)) `Windows` `macOS` `Linux`
+- [gamja](https://sr.ht/~emersion/gamja/) - A simple IRC web client. ([source](https://git.sr.ht/~emersion/gamja)) `Web`
+- [Kiwi IRC](https://kiwiirc.com) - Powerful modern IRC messenger for the web. ([source](https://github.com/kiwiirc/kiwiirc), [demo](https://kiwiirc.com/nextclient/)) `Web`
+- [CIRC](https://flackr.github.io/circ/) - Uses the chrome.sockets APIs to connect directly to IRC servers without needing a proxy. ([source](https://github.com/flackr/circ)) `Chrome`
+- [Quassel](https://quassel-irc.org) - Distributed (clients can attach to and detach from a central core that stays permanently online. ([source](https://github.com/quassel/quassel)) `Linux` `macOS` `Windows`
+- [Yaaic](https://www.yaaic.org) - Multi-server/channel support, SASL support, Smooth channel scrolling / swiping. ([source](https://github.com/pocmo/Yaaic)) `Android`
+- [relay.js](https://github.com/Fauntleroy/relay.js) - Focuses on making IRC less intimidating and easier to use. `Web`
+- [Circe](https://github.com/emacs-circe/circe) - For use in Emacs, sane defaults. `Emacs`
+- [Smuxi](https://smuxi.im) - User-friendly, based on GNOME / GTK+. ([source](https://github.com/meebey/smuxi)) `Linux` `Windows` `macOS`
+- [KvIRC](https://www.kvirc.net) - Free, portable, based on Qt GUI toolkit. ([source](https://github.com/kvirc/KVIrc)) `Linux` `macOS` `Windows`
+- [Konversation](https://konversation.kde.org) - User-friendly client built on the KDE Platform. ([source](https://github.com/KDE/konversation)) `Linux`
+- [sic](https://tools.suckless.org/sic/) - **S**imple **I**RC **c**lient - a terminal client in less than 250 lines of C. `Linux`
+- [irssi](https://irssi.org) - Terminal client, multi-protocol friendly for module authors, GPLv2. `Linux` `macOS` `Cygwin` `BSD`
+- [Revolution IRC](https://github.com/MCMrARM/revolution-irc) - Feature-full, actively maintained Android IRC client. `Android`
+- [AdiIRC](https://adiirc.com) - Never has a client offered such granular settings for every aspect of the IRC experience. ([features](https://dev.adiirc.com/projects/adiirc/wiki/Features), [screenshots](https://dev.adiirc.com/projects/adiirc/wiki/Screenshots)) `Windows` `WINE`
+- [IRC for Android™](https://www.countercultured.net/android/) - Android/Chrome OS client for power users, with ZNC built-ins, notification logic, reliable DCC, keybinds for hardware keyboards, etc. `Android` `ChromeOS`
+- [Iridium](https://appcenter.elementary.io/com.github.avojak.iridium/) - Friendly IRC client built in Vala and GTK, designed for elementary OS. ([source](https://github.com/avojak/iridium)) `Linux`
+- [Goguma](https://sr.ht/~emersion/goguma/) - An IRC client for mobile devices, from the creator of soju. `Android` `Linux`
 
 <!--lint ignore double-link-->
- *更多的？ 找到包括保镖的客户 [below](#bouncers).*
+*More? Clients that include bouncers are found [below](#bouncers).*
 
 ## Bouncers
 
-*对于断开连接和重新连接而不丢失聊天会话很有用.*
+*Useful for disconnecting and reconnecting without losing the chat session.*
 
 ### Hosted
 
-- [IRCCloud](https://www.irccloud.com)  - 团队、朋友和社区的群聊. 保持联系，随时随地聊天，绝不会错过任何消息（+客户）（0-3.50 英镑/月）.
-  - [iOS App](https://github.com/irccloud/ios)  - 官方的.  `目标-C`
-  - [Android App](https://github.com/irccloud/android)  - 官方的.  `爪哇`
-  - [Nimbus](https://github.com/jnordberg/irccloudapp)  - 独立客户端.  `macOS` `Objective-C`
+- [IRCCloud](https://www.irccloud.com) - Group chat for teams, friends, and communities. stay connected, chat from anywhere, and never miss a message (+client) (£0-£3.50/month).
+  - [iOS App](https://github.com/irccloud/ios) - Official. `Objective-C`
+  - [Android App](https://github.com/irccloud/android) - Official. `Java`
+  - [Nimbus](https://github.com/jnordberg/irccloudapp) - Standalone client. `macOS` `Objective-C`
 
 ### Self-hosted
 
-- [Convos](https://convos.chat)  - 始终在线的网络 IRC 客户端.  ([source](https://github.com/convos-chat/convos)) `Perl` `JavaScript` `Web`
-- [ZNC](https://wiki.znc.in/ZNC)  - 最受欢迎. 许多不同的插件.  ([source](https://github.com/znc/znc))`C++`
-- [BIP IRC Proxy](https://bip.milkypond.org)  - 始终在线，轻量级和安全的开源 IRC 代理与积压.  ([source](https://projects.duckcorp.org/projects/bip/repository))`C`
-- [TheLounge](https://thelounge.chat)  - 响应式、自托管和支持多个用户.  ([source](https://github.com/thelounge/thelounge), [demo](https://demo.thelounge.chat/)) `JavaScript` `Node.js` `Web`
-- [WeeChat](https://weechat.org)  - 快速、轻便且可扩展的聊天客户端.  ([source](https://github.com/weechat/weechat)) `Linux` `macOS` `Windows`
-- [soju](https://git.sr.ht/~emersion/soju)  - 一个用户友好的 IRC 保镖.  `去`
+- [Convos](https://convos.chat) - Always online web IRC client. ([source](https://github.com/convos-chat/convos)) `Perl` `JavaScript` `Web`
+- [ZNC](https://wiki.znc.in/ZNC) - Most popular. many different plugins. ([source](https://github.com/znc/znc)) `C++`
+- [BIP IRC Proxy](https://bip.milkypond.org) - Always online, lightweight and secure Open Source IRC proxying with backlogging. ([source](https://projects.duckcorp.org/projects/bip/repository)) `C`
+- [TheLounge](https://thelounge.chat) - Responsive, self-hosted & support for multiple users. ([source](https://github.com/thelounge/thelounge), [demo](https://demo.thelounge.chat/)) `JavaScript` `Node.js` `Web`
+- [WeeChat](https://weechat.org) - A fast, light and extensible chat client. ([source](https://github.com/weechat/weechat)) `Linux` `macOS` `Windows`
+- [soju](https://git.sr.ht/~emersion/soju) - A user-friendly IRC bouncer. `Go`
+- [sms-webhook](https://github.com/terminaldweller/sms-webhook) - A simple webhook to receive SMS messages on IRC. `Go`
 
 ## Daemons
 
-*用于运行您自己的 IRC 服务器或网络.*
+*Used for running your own IRC server or network.*
 
-- [ircd.js](https://github.com/alexyoung/ircd.js)  - 服务器将允许客户端连接、加入频道、更改主题； 基本的东西.
-- [InspIRCd](https://www.inspircd.org)  - 模块化，稳定，从头开始编写.  ([source](https://github.com/inspircd/inspircd))
-- [miniircd](https://github.com/jrosdahl/miniircd) - 非常简单和有限.
-- [ngIRCd](https://ngircd.barton.de)  - 适用于小型或专用网络的便携和轻量级.  ([source](https://github.com/ngircd/ngircd))
-- [Ergo](https://github.com/ergochat/ergo) - 可移植且围绕规范设计的现代服务器（前沿的 IRCv3 支持）.
-- [RobustIRC](https://robustirc.net)  - 没有 netsplits 的 IRC 服务器.  ([source](https://github.com/robustirc/robustirc/))
+- [ircd.js](https://github.com/alexyoung/ircd.js) - Server will allow clients to connect, join channels, change topics; basic stuff.
+- [InspIRCd](https://www.inspircd.org) - Modular, stable, written from scratch. ([source](https://github.com/inspircd/inspircd))
+- [miniircd](https://github.com/jrosdahl/miniircd) - Very simple and limited.
+- [ngIRCd](https://ngircd.barton.de) - Portable and lightweight for small or private networks. ([source](https://github.com/ngircd/ngircd))
+- [Ergo](https://github.com/ergochat/ergo) - Modern server that's portable and designed around specifications (bleeding-edge IRCv3 support).
+- [RobustIRC](https://robustirc.net) - IRC server without netsplits. ([source](https://github.com/robustirc/robustirc/))
 
 ## Services
 
-*用于向您的网络提供用户帐户和机器人程序，例如 NickServ/ChanServ.*
+*Used to provide user accounts and bots like NickServ/ChanServ to your network.*
 
-- [Atheme](https://atheme.github.io)  - 专为具有高可扩展性要求的大型网络而设计.  ([source](https://github.com/atheme/atheme))
-- [anope](https://anope.org)  - 专为灵活性和易用性而设计.  ([source](https://github.com/anope/anope))
+- [Atheme](https://atheme.github.io) - Designed for large networks with high scalability requirements. ([source](https://github.com/atheme/atheme))
+- [anope](https://www.anope.org) - Designed for flexibility and ease of use. ([source](https://github.com/anope/anope))
 
 ## Bots
 
-*为人类提供服务的 IRC 用户，例如集成或信息.*
+*IRC users which provide services for humans, e.g. integrations or information.*
 
-- [Sopel](https://sopel.chat)  - 成吨的现成功能、教程、完整记录.  ([source](https://github.com/sopel-irc/sopel))`蟒蛇`
-- [Limnoria](https://github.com/ProgVal/Limnoria)  - 健壮，用户友好，开发人员友好.  `蟒蛇`
-- [Twitch Plays](https://github.com/aidanrwt/twitch-plays )  - 从聊天中获取输入并按下相应的键.  `蟒蛇`
-- [Skybot](https://github.com/rmmh/skybot)  - 主要目标是简单和强大.  `蟒蛇`
-- [talkbackbot](https://geekchick77.dreamwidth.org/472.html)  - 使用著名女性的名言来响应配置的触发短语.  ([source](https://github.com/jessamynsmith/talkbackbot))`蟒蛇`
-- [lazybot](https://github.com/Raynes/lazybot)  - 用户友好且功能强大.  `Clojure`
-- [IRC-BF](https://gitlab.com/ddevault/bf-irc-bot) - `脑残`
-- [geordi](https://github.com/Eelis/geordi)  - 编译并运行 C++ 代码片段.  `C++`
-- [CloudBot](https://github.com/TotallyNotRobots/CloudBot)  - 简单、快速、可扩展.  `蟒蛇`
-- [yossarian-bot](https://github.com/woodruffw/yossarian-bot)  - 大型默认插件集，基于 Cinch.  `红宝石`
-- [helga](https://github.com/shaunduncan/helga)  - 支持多种协议的可插拔聊天机器人.  `蟒蛇`
-- [EveIRC](https://github.com/Inspyre-Technologies/EveIRC)  - 可扩展的聊天/频道/服务器管理服务提供机器人. 使用 [Cinch Framework](https://github.com/cinchrb/cinch) .  `红宝石`
-- [BitBot](https://github.com/bitbot-irc/bitbot) - Modular, event-driven bot featuring a REST API, individual user settings and much more. ([bitbot.dev](https://bitbot.dev))`蟒蛇`
-- [Cardinal](https://github.com/JohnMaguire/Cardinal)  - 专注于简化插件开发的 Python Twisted IRC 机器人.  `蟒蛇`
-- [pyHoneybot](https://pyhoneybot.github.io/honeybot-store/)  - 专注于简化插件开发的 Python Twisted IRC 机器人.  ([source](https://github.com/pyhoneybot/honeybot))`蟒蛇`
-- [wayback](https://github.com/wabarc/wayback) - 带有 IRC 接口的归档工具，集成了各种归档服务.
+- [Eggdrop](https://www.eggheads.org) - Oldest IRC bot still in active development. Feature rich, uses Tcl scripting. ([source](https://github.com/eggheads/eggdrop)) `C`
+- [Sopel](https://sopel.chat) - Tonnes of ready made features, tutorial, fully documented. ([source](https://github.com/sopel-irc/sopel)) `Python`
+- [Limnoria](https://github.com/ProgVal/Limnoria) - Robust, user friendly, developer friendly. `Python`
+- [Twitch Plays](https://github.com/aidanrwt/twitch-plays ) - Takes input from the chat and presses the corresponding key. `Python`
+- [Skybot](https://github.com/rmmh/skybot) - Main goals are simplicity and power. `Python`
+- [talkbackbot](https://geekchick77.dreamwidth.org/472.html) - Responds to configured trigger phrases with quotes from notable women. ([source](https://github.com/jessamynsmith/talkbackbot)) `Python`
+- [lazybot](https://github.com/Raynes/lazybot) - User-friendly and powerful. `Clojure`
+- [IRC-BF](https://gitlab.com/ddevault/bf-irc-bot) - `Brainfuck`
+- [geordi](https://github.com/Eelis/geordi) - Compiles and runs C++ code snippets. `C++`
+- [CloudBot](https://github.com/TotallyNotRobots/CloudBot) - Simple, fast, expandable. `Python`
+- [yossarian-bot](https://github.com/woodruffw/yossarian-bot) - Large default plugin set, Cinch-based. `Ruby`
+- [helga](https://github.com/shaunduncan/helga) - Pluggable chat bot supporting multiple protocols. `Python`
+- [EveIRC](https://github.com/Inspyre-Technologies/EveIRC) - Extendable chat/channel/server-managenent service-providing bot. Using the [Cinch Framework](https://github.com/cinchrb/cinch). `Ruby`
+- [BitBot](https://github.com/bitbot-irc/bitbot) - Modular, event-driven bot featuring a REST API, individual user settings and much more. ([bitbot.dev](https://bitbot.dev)) `Python`
+- [Cardinal](https://github.com/JohnMaguire/Cardinal) - Python Twisted IRC bot with a focus on ease of plugin development. `Python`
+- [pyHoneybot](https://pyhoneybot.github.io/honeybot-store/) - Python Twisted IRC bot with a focus on ease of plugin development. ([source](https://github.com/pyhoneybot/honeybot)) `Python`
+- [wayback](https://github.com/wabarc/wayback) - An archiving tool with an IRC interface integrated with various archiving services.
+- [milla](https://github.com/terminaldweller/milla) - New generation LLM-powered bot with lua scripting support. `Go`
 
 ## Frameworks
 
-*有助于编写机器人或将 IRC 与应用程序集成.*
+*Helpful to write bots or integrate IRC with applications.*
 
 - [node-irc](https://github.com/Throne3d/node-irc) `JavaScript`
-- [goirc](https://github.com/fluffle/goirc)  - 基于事件，有状态，缺乏文档.  `去`
-- [Hubot IRC Adapter](https://github.com/nandub/hubot-irc)  - hubot 的 IRC 适配器.  `JavaScript`
-- [go-ircevent](https://github.com/thoj/go-ircevent)  - 基于事件.  `去`
-- [slate-irc](https://github.com/slate/slate-irc)  - 插件系统、简单的 api、任意输入流、调试支持.  `JavaScript`
-- [PircBotX](https://github.com/pircbotx/pircbotx) - 基于事件的 IRC 库，具有简单的 API（更新的分支 [PircBot](http://www.jibble.org/pircbot.php) ).  `爪哇`
-- [IRC::Client](https://github.com/lizmat/IRC-Client) - 基于 `Perl6` 的可扩展 IRC 客户端框架.
-- [irccd](https://projects.malikania.fr/irccd/)  - 可使用 JavaScript 自定义的灵活 IRC 机器人.  `C++`.
+- [goirc](https://github.com/fluffle/goirc) - Event-based, stateful, lacking documentation. `Go`
+- [Hubot IRC Adapter](https://github.com/nandub/hubot-irc) - The IRC adapter for hubot. `JavaScript`
+- [go-ircevent](https://github.com/thoj/go-ircevent) - Event-based. `Go`
+- [slate-irc](https://github.com/slate/slate-irc) - Plugin system, simple api, arbitrary input stream, debug support. `JavaScript`
+- [PircBotX](https://github.com/pircbotx/pircbotx) - Event based IRC Library with a straightforward API (updated fork of [PircBot](http://www.jibble.org/pircbot.php)). `Java`
+- [IRC::Client](https://github.com/lizmat/IRC-Client) - `Perl6` based extendable IRC client framework.
+- [irccd](https://projects.malikania.fr/irccd/index.html) - Flexible IRC bot customizable with JavaScript. `C++`.
 
 ### Bridges
 
-*来回发送消息.*
+*Sends messages back and forth.*
 
-- [discord-irc](https://github.com/reactiflux/discord-irc)  - 不和谐 ↔ IRC.  `JavaScript`
+- [discord-irc](https://github.com/reactiflux/discord-irc) - Discord ↔ IRC. `JavaScript`
 - [dibridge](https://github.com/OpenTTD/dibridge) - Discord ↔ IRC (with puppets) `Python`
-- [slack-irc](https://github.com/ekmartin/slack-irc)  - 松弛 ↔ IRC.  `JavaScript`
-- [irc-slack](https://github.com/insomniacslk/irc-slack)  - 松弛 ↔ IRC.  `去`
-- [BitlBee](https://www.bitlbee.org/main.php/news.r.html)  - XMPP、Jabber、Google Talk、MSN Messenger、Yahoo!  Messenger、AIM、ICQ、Twitter API、HipChat ↔ IRC.  `C`
-- [Biboumi](https://biboumi.louiz.org/) - XMPP 客户端 `C` 的 IRC 网关
-- [teleirc](https://github.com/RITlug/teleirc)  - 电报 ↔ IRC.  `JavaScript`
-- [toxirc](https://github.com/jhert0/toxirc)  -毒物 ↔ IRC.  `C`
-- [skyweb2irc](https://github.com/ProgVal/skyweb2irc)  - Skype（网络客户端 API）↔ IRC.  `Javascript`
-- [matterbridge](https://github.com/42wim/matterbridge) - IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ etc.`Go`
-- [Heisenbridge](https://github.com/hifi/heisenbridge) - 保镖式 Matrix IRC 桥`Python`
-- [Appservice-IRC](https://github.com/matrix-org/matrix-appservice-irc) - 网关和桥矩阵 ↔ IRC `Javascript`
+- [slack-irc](https://github.com/ekmartin/slack-irc) - Slack ↔ IRC. `JavaScript`
+- [irc-slack](https://github.com/insomniacslk/irc-slack) - Slack ↔ IRC. `Go`
+- [BitlBee](https://www.bitlbee.org/main.php/news.r.html) - XMPP, Jabber, Google Talk, MSN Messenger, Yahoo! Messenger, AIM, ICQ, Twitter API, HipChat ↔ IRC. `C`
+- [Biboumi](https://biboumi.louiz.org/) - IRC gateway for XMPP clients `C`
+- [teleirc](https://github.com/RITlug/teleirc) - Telegram ↔ IRC. `JavaScript`
+- [toxirc](https://github.com/jhert0/toxirc) - Tox ↔ IRC. `C`
+- [skyweb2irc](https://github.com/ProgVal/skyweb2irc) - Skype (webclient API) ↔ IRC. `Javascript`
+- [matterbridge](https://github.com/42wim/matterbridge) - IRC ↔ Mattermost ↔ Discord ↔ XMPP ↔ Gitter ↔ Slack ↔ Discord ↔ Telegram ↔ etc. `Go`
+- [Heisenbridge](https://github.com/hifi/heisenbridge) - Bouncer-style Matrix IRC bridge `Python`
+- [Appservice-IRC](https://github.com/matrix-org/matrix-appservice-irc) - Gateway and bridge Matrix ↔ IRC `Javascript`
+- [matterircd](https://github.com/42wim/matterircd) - Matterbridge ↔ IRC, Slack ↔ IRC, Mastodon ↔ IRC. `Go`
 
 ## Channels
 
-*IRC 频道.*
+*IRC channels.*
 
 ### Discovery
 
-- [netsplit.de Search](https://netsplit.de/channels/ ) - 搜索 563 个不同的网络.
-- [mibbit Search](https://search.mibbit.com) - 列出的搜索网络 [here](https://search.mibbit.com/networks).
-- [KiwiIRC Search](https://kiwiirc.com/search) - 搜索 318 个不同的网络.
+- [netsplit.de Search](https://netsplit.de/channels/ ) - Searches 563 different networks.
+- [mibbit Search](https://search.mibbit.com) - Searches networks listed [here](https://search.mibbit.com/networks).
+- [KiwiIRC Search](https://kiwiirc.com/search) - Searches 318 different networks.
 
 ### Platforms
 
-- [#ubuntu](https://wiki.ubuntu.com/IRC/ChannelList) @Libera.Chat - 官方 Ubuntu 支持频道.  ([rules](https://wiki.ubuntu.com/IRC/Guidelines))
+- [#ubuntu](https://wiki.ubuntu.com/IRC/ChannelList)@Libera.Chat - Official Ubuntu support channel. ([rules](https://wiki.ubuntu.com/IRC/Guidelines))
 
 ## Networks
 
-*IRC 服务器的集合称为网络.*
+*A collection of IRC servers is known as a network.*
 
-- [Libera.Chat](https://libera.chat) - 网络主要关注免费和开源项目，由前 freenode 员工运营.
-- [Snoonet](https://snoonet.org)  - redditor 和 subreddits 社区.  ([rules](https://snoonet.org/rules/))
-- [OFTC](https://oftc.net) - 免费和开源软件社区的社区.
-- [LibertaCasa](https://liberta.casa) - 隐私支持社区作为讨论各种主题的安全和开放空间.
+- [Libera.Chat](https://libera.chat) - Network mostly focused on free and open source projects, run by former freenode staff.
+- [Snoonet](https://snoonet.org) - Community of redditors and subreddits. ([rules](https://snoonet.org/rules/))
+- [OFTC](https://oftc.net) - Community for free and open source software communities.
+- [LibertaCasa](https://liberta.casa) - Privacy endorsing community serving as a safe and open space for the discussion of various topics.
 
 ## Articles
 
-*关于 IRC 的文章和博客文章.*
+*Articles and blog posts about IRC.*
 
-- [Please don't use Slack for FOSS projects](https://drewdevault.com/2015/11/01/Please-stop-using-slack.html) - Drew DeVault 的博客.
-- [IRC Networks Under Systematic Attack From Governments](https://www.quakenet.org/articles/102-press-release-irc-networks-under-systematic-attack-from-governments) - 地震网.
-- [IRC is dead, long live IRC](https://www.pingdom.com/blog/irc-is-dead-long-live-irc/) - 平国.
-- [IRC Has Lost 60% Of Its Users Since 2003, But Life As A Robot Is Just Beginning](https://techcrunch.com/2013/01/06/irc-has-lost-60-of-its-users-since-2003-but-life-as-a-robot-is-just-beginning/) - 亚历克斯威廉姆斯（TechCrunch）.
+- [Please don't use Slack for FOSS projects](https://drewdevault.com/2015/11/01/Please-stop-using-slack.html) - Drew DeVault's Blog.
+- [IRC Networks Under Systematic Attack From Governments](https://www.quakenet.org/articles/102-press-release-irc-networks-under-systematic-attack-from-governments) - QuakeNet.
+- [IRC is dead, long live IRC](https://www.pingdom.com/blog/irc-is-dead-long-live-irc/) - Pingdom.
+- [IRC Has Lost 60% Of Its Users Since 2003, But Life As A Robot Is Just Beginning](https://techcrunch.com/2013/01/06/irc-has-lost-60-of-its-users-since-2003-but-life-as-a-robot-is-just-beginning/) - Alex Williams (TechCrunch).
 
 ## Guides
 
-*操作方法、文档和书籍.*
+*How-to's, documentation and books.*
 
-- [#irchelp](https://www.irchelp.org) - 大量合理的最新信息.
+- [#irchelp](https://www.irchelp.org) - A vast amount of reasonably up-to-date information.
 
 ## Protocol
 
-*有关 IRC 协议本身的信息和资源.*
+*Information and resources about the IRC protocol itself.*
 
-- [IRCv3 Working Group](https://ircv3.net)  - 一群致力于增强、改进、维护和标准化 IRC 协议的 IRC 软件作者.  ([source](https://github.com/ircv3/ircv3.github.io))
-- [Modern IRC Documents](https://modern.ircdocs.horse)  - 尝试对原始 IRC 协议进行更新. 文档 ([source](https://github.com/ircdocs/modern-irc))
-- [IRC Definition Files](https://defs.ircdocs.horse)  - 数字列表、模式、ISUPPORT 令牌和其他协议详细信息.  ([source](https://github.com/ircdocs/irc-defs))
-- [grawity's IRC docs](https://github.com/grawity/irc-docs) - 杂项 IRC 协议文档的集合.
-- [Protocol Statistics](https://stats.ircdocs.horse)  - 当今网络上使用的服务器软件的统计数据.  ([source](https://github.com/ircdocs/irc-stats))
-- [IRC Parser Tests](https://github.com/ircdocs/parser-tests) - 一组 CC0 测试套件，以确保 IRC 消息解析器是一致的.
-- [DareNET Archives](https://archives.darenet.org) - IRC Archives 旧的很难找到的 IRC 相关软件.
+- [IRCv3 Working Group](https://ircv3.net) - A group of IRC software authors working to enhance, improve, maintain and standardize the IRC protocol. ([source](https://github.com/ircv3/ircv3.github.io))
+- [Modern IRC Documents](https://modern.ircdocs.horse) - An attempt to write an update to the original IRC protocol. documentation ([source](https://github.com/ircdocs/modern-irc))
+- [IRC Definition Files](https://defs.ircdocs.horse) - Lists of numerics, modes, ISUPPORT tokens and other protocol details. ([source](https://github.com/ircdocs/irc-defs))
+- [grawity's IRC docs](https://github.com/grawity/irc-docs) - Collection of misc IRC protocol documentation.
+- [Protocol Statistics](https://stats.ircdocs.horse) - Statistics around the server software in use on networks today. ([source](https://github.com/ircdocs/irc-stats))
+- [IRC Parser Tests](https://github.com/ircdocs/parser-tests) - A CC0 set of test suites, to ensure IRC message parsers are consistent.
+- [DareNET Archives](https://archives.darenet.org) - IRC Archives for old hard to find IRC related software.
 
 ## Miscellaneous
 
-*属于清单但无法分类的项目.*
+*Items that belong on the list but defy classification.*
 
-- [superseriousstats](https://github.com/tommyrot/superseriousstats)  - 快速高效的程序，用于从各种类型的聊天记录中创建统计数据.  `PHP` `网络`
+- [superseriousstats](https://github.com/tommyrot/superseriousstats) - Fast and efficient program to create statistics out of various types of chat logs. `PHP` `Web`
+- [img2src](https://github.com/waveplate/img2irc) - Convert images to halfblock ANSI or IRC, with a bunch of post-processing filters. `Rust`
 
 ## Use
 
-使用此列表的最佳方法是：
+The best ways to use this list are:
 
-- 通过使用<kbd>command</kbd> + <kbd>F</kbd>来搜索内容
+- By using <kbd>command</kbd> + <kbd>F</kbd> to search the contents
 
-此列表还使用标签来帮助搜索内容：
-- **语言** - `Python`、`Java`、`C++`、`Go`、`JavaScript`、`Ruby`、`C` 等.
-- **平台** - `Web`、`macOS`、`Windows`、`Linux`、`Chrome` 等.
+This list also uses tags to help when searching the contents:
+- **Language** - `Python`, `Java`, `C++`, `Go`, `JavaScript`, `Ruby`, `C` etc.
+- **Platform** - `Web`, `macOS`, `Windows`, `Linux`, `Chrome` etc.
 
 ## Credits
 
-By [Craig Davison](https://davison.io) 和贡献者.
+By [Craig Davison](https://davison.io) and contributors.
