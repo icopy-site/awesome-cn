@@ -808,6 +808,8 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [drei](https://github.com/pmndrs/drei) - Useful helpers for react-three-fiber.
     - 🎉 [gltfjsx](https://github.com/pmndrs/gltfjsx) - Turns GLTFs into JSX components.
     - 🎉 [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - React renderer for Three.js.
+- JavaScript: Graphics - Three.js - Svelte
+    - 🎉 [Threlte](https://github.com/threlte/threlte) - 3D framework and ecosystem for Svelte and Three.js. [[Website](https://threlte.xyz/)]
 - JavaScript: Gui
     - 🎉 [Bootstrap](https://github.com/twbs/bootstrap) - Popular. Develop responsive, mobile first projects. [[Website](https://getbootstrap.com/)]
     - 🎉 [dat.GUI](https://github.com/dataarts/dat.gui) - Lightweight gui for changing variables in JavaScript.
@@ -953,7 +955,6 @@ _Language specific game engine development libraries / frameworks / code._
 ### Zig
 - 📚 [Awesome Zig](https://github.com/nrdmn/awesome-zig) - Curated list of Zig code and resources.
 - 🌎 [Zig](https://ziglang.org/) - General-purpose language and toolchain. [[Docs](https://ziglang.org/documentation/master/) | [GitHub](https://github.com/michal-z/zig)]
-- 🌎 [Zig Learn](https://ziglearn.org/) - Excellent Zig language resource.
 - 📚 [Ziglings](https://github.com/ratfactor/ziglings) - Learn the Zig programming language by fixing tiny broken programs.
 - Zig: App Framework
     - 🎉 [Upaya](https://github.com/prime31/zig-upaya) - Framework for creating game tools and helper apps.

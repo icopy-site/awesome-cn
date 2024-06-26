@@ -90,7 +90,6 @@
 
 *Companies and cooperatives centered around/doing work in WebXR.*
 
-- [Active Replica](https://www.activereplica.com/) - Offers virtual event hosting through Mozilla Hubs.
 - [Active Theory](https://activetheory.net/) - Developed the Dreamwave platform.
 - [Aircards](https://www.aircards.co/) - WebAR advertising/marketing agency.
 - [Hatsumi](https://www.hatsumivr.com/) - A design studio developing experiences at the intersection of healthcare and art.
@@ -104,11 +103,9 @@
 
 
 
-- [2WSZ](https://2wsz.com/) - An aggregator for WebXR content featuring ratings, a recommendation system, and both English and Korean language support.
 - [Extended Collection](https://extendedcollection.com/) - A curated library of links to the Immersive Web maintained by [vrhermit](https://vrhermit.com/).
 - [heyVR](https://heyvr.io/) - A curated platform for publishing WebXR games.
 - [PICO Browser Start Page](https://browser-us.picovr.com/) - The default start page for PICO Browser.
-- [XR Swim](https://xrswim.com/) - An aggregator site for both WebXR and Web3 content.
 - [Wolvic Start Page](https://wolvic.com/en/start/) - The default start page for the Wolvic browser.
 
 ## Development
@@ -193,7 +190,7 @@
 - [Dreamwave](https://dreamwave.tech/) - A web-based platform for hosting scalable virtual events. Powered the virtual music festival Secret Sky 2021.
 - [Emerald City](https://hubculture.city/) - A virtual event space developed by Hub Culture.
 - [FRAME](https://framevr.io/) - A platform focused on enabling easy 3D collaborations in a virtual space.
-- [Hubs](https://hubs.mozilla.com/) - Mozilla's platform for enabling users to gather and collaborate virtually.
+- [Hubs](https://hubsfoundation.org/) - A community-owned platform for enabling users to gather and collaborate virtually, initially created by Mozilla.
 
 ## Web3XR
 
@@ -204,14 +201,12 @@
 - [3XR](https://www.3xr.space/) - A project by [microchipgnu](https://github.com/microchipgnu) that has integrated with Mintbase to create virtual galleries for NFT artwork on NEAR.
 - [glry.xyz](https://glry.xyz/) - A site that hosts virtual galleries for NFT art on the Tezos blockchain.
 - [oncyber](https://oncyber.io/) - Offers both free and collectible gallery spaces to display NFTs across multiple different chains.
-- [RareRooms](https://www.rarerooms.io/) - Allows you to create immersive NFT galleries with support for multiple different chains/marketplaces.
 
 ### Realms
 
 - [Voxels](https://www.voxels.com/) - A virtual world powered by Ethereum where players can buy land, build stores, display art, and more.
 - [Hyperfy](https://hyperfy.io/) - A platform hosting up to 10,000 customizable, cross-platform, and immersive virtual worlds. Built on three.js, powered by Ethereum.
 - [Ozone Metaverse](https://ozonemetaverse.io/) - A spatial computing cloud platform offering world creation tools with Web3 integrations and monetization.
-- [Raspberry Dream Land](https://www.rdland.io/) - A progressive events platform focused on inclusivity, radical self-expression, and virtual relationships. Also has its own NFT avatar collection.
 - [Somnium Space Web](https://somniumspace.com/parcel/) - A web viewer that allows you to explore parcels from [Somnium Space](https://www.somniumspace.com/) in your browser, with VR support on the Oculus Quest browser.
 - [vrland](https://vrland.io/) - A platform for gathering and virtual showcases that supports displaying of NFTs.
 
