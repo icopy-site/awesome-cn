@@ -175,6 +175,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Igor Katsuba](https://blog.katsuba.dev/)
 * [ng serve](https://www.ngserve.io/)
 * [Tomasz Ducin](https://ducin.dev/blog)
+* [This is Angular](https://dev.to/this-is-angular)
 
 ##### Books
 
@@ -1095,6 +1096,14 @@ for Bootstrap 5 & Angular 17.
 * [superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
 * [typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript.
 * [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
+
+#### Other Lists
+
+> This Awesome List excludes some libraries that don't yet support Angular 16+.  If you are still supporting or using older versions of Angular, you could find great resources in one of the lists below.
+
+* [awesome-utils-dev/angular](https://github.com/pegaltier/awesome-utils-dev/blob/master/utils-coding/utils-angular-list.md) - This is an exhaustive list of resources covering the whole Angular ecosystem. This should be your next step if you haven't found what you need here.
+* [awesome-angular](https://github.com/DaanDeSmedt/awesome-angular)
+* [angular enterprise](https://angular-enterprise.com/en/ngcategory/resources/)
 
 ---
 

@@ -1460,6 +1460,8 @@ English-language description for use by biologists.
 
 * [ChemCrow: Augmenting large-language models with chemistry tools](https://openreview.net/forum?id=wdGIL6lx3l) - ***NeurIPS AI for Science Workshop***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=8711939262720486725&hl=en&as_sdt=0,5)]. [[Preprint](https://arxiv.org/abs/2304.05376)].
 
+* [Artificial Intelligence for Retrosynthetic Planning Needs Both Data and Expert Knowledge](https://pubs.acs.org/doi/full/10.1021/jacs.4c00338) - ***Journal of the American Chemical Society***, 2024. [[All Versions](https://scholar.google.com/scholar?cluster=10595951443492961310)]. The development of AI synthesis planners trained solely on reaction-example-data has stagnated and is not on par with the performance of “hybrid” algorithms combining AI with expert knowledge. This Perspective examines possible causes of these shortcomings, extending beyond the established reasoning of insufficient quantities of reaction data. The authors advocate augmenting the unique capabilities of AI with the knowledge base and the reasoning strategies of domain experts.
+
 * [Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory](https://ieeexplore.ieee.org/abstract/document/10059206) - ***IEEE Transactions on Knowledge and Data Engineering***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=949715967083833369&hl=en&as_sdt=0,10)].
 
 * [LEGAL-BERT: The Muppets straight out of Law School](https://aclanthology.org/2020.findings-emnlp.261/) - ***EMNLP'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=11254432523766039890&hl=en&as_sdt=0,5)]. Generating answers to legal questions, analyze contracts, and summarizing legal documents, making legal knowledge more accessible to non-experts.
@@ -1685,6 +1687,8 @@ English-language description for use by biologists.
 * [VisualCOMET: Reasoning About the Dynamic Context of a Still Image](https://link.springer.com/chapter/10.1007%2F978-3-030-58558-7_30) - ***ECCV'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=7681600847940772451&hl=en&as_sdt=0,5)].
 
 * [The Abduction of Sherlock Holmes: A Dataset for Visual Abductive Reasoning](https://arxiv.org/abs/2202.04800) - 2022. [[All Versions](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=18355807581692234364)].
+
+* [UNcommonsense Reasoning: Abductive Reasoning about Uncommon Situations](https://aclanthology.org/2024.naacl-long.469/) - ***NAACL'24***, 2024. [[All Versions](https://scholar.google.com/scholar?cluster=470445696014235795)]. This paper explores the task of uncommonsense abductive reasoning. Given a piece of context with an unexpected outcome, this task requires reasoning abductively to generate an explanation that makes the unexpected outcome more likely in the context.
 
 * [Experience Grounds Language](https://aclanthology.org/2020.emnlp-main.703.pdf) - ***EMNLP'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=3734668471751920487&hl=en&as_sdt=0,5)]. A perspective on the furture of computational linguistics research---commonsense-driven and embodied language.
 
