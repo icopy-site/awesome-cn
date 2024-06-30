@@ -1480,9 +1480,9 @@ English-language description for use by biologists.
 
 * [Theory of Mind](https://en.wikipedia.org/wiki/Theory_of_mind) - ***Wikipedia***. Wikipedia on Theory of Mind (ToM), a cognitive capability that estimating others' goal, belief, and desire.
 
-<!--* [Cognitive Science](https://plato.stanford.edu/entries/cognitive-science/) - ***Plato Stanford***.
-
 * [Intentionality](https://plato.stanford.edu/entries/intentionality/) - ***Plato Stanford***.
+
+<!--* [Cognitive Science](https://plato.stanford.edu/entries/cognitive-science/) - ***Plato Stanford***.
 
 * [The Mind/Brain Identity Theory](https://plato.stanford.edu/entries/mind-identity/) - ***Plato Stanford***.
 

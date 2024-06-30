@@ -39,7 +39,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [Proof General](https://proofgeneral.github.io) - Generic interface for proof assistants based on the extensible, customizable text editor Emacs.
 - [Company-Coq](https://github.com/cpitclaudel/company-coq) - IDE extensions for Proof General's Coq mode.
 - [opam-switch-mode](https://github.com/ProofGeneral/opam-switch-mode) - IDE extension for Proof General to locally change or reset the opam switch from a menu or using a command.
-- [jsCoq](https://github.com/ejgallego/jscoq) - Port of Coq to JavaScript, which enables running Coq projects in a browser.
+- [jsCoq](https://github.com/jscoq/jscoq) - Port of Coq to JavaScript, which enables running Coq projects in a browser.
 - [Jupyter kernel for Coq](https://github.com/EugeneLoy/coq_jupyter) - Coq support for the Jupyter Notebook web environment.
 - [VsCoq](https://github.com/coq-community/vscoq) - Language server and extension for the Visual Studio Code and VSCodium editors.
 - [VsCoq Legacy](https://github.com/coq-community/vscoq/tree/vscoq1) - Backwards-compatible extension for the Visual Studio Code and VSCodium editors using Coq's legacy XML protocol.
@@ -92,8 +92,8 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 ### Plugins
 
 - [AAC Tactics](https://github.com/coq-community/aac-tactics) - Tactics for rewriting universally quantified equations, modulo associativity and commutativity of some operator.
+- [Coinduction](https://github.com/damien-pous/coinduction) - Plugin for doing proofs by enhanced coinduction.
 - [Coq-Elpi](https://github.com/LPCIC/coq-elpi) - Extension framework based on λProlog providing an extensive API to implement commands and tactics.
-- [Waterproof proof language](https://github.com/impermeable/coq-waterproof) - Plugin providing a language for writing proof scripts in a style that resembles non-mechanized mathematical proof.
 - [CoqHammer](https://github.com/lukaszcz/coqhammer) - General-purpose automated reasoning hammer tool that combines learning from previous proofs with the translation of problems to automated provers and the reconstruction of found proofs.
 - [Equations](https://github.com/mattam82/Coq-Equations) - Function definition package for Coq.
 - [Gappa](https://gitlab.inria.fr/gappa/coq) - Tactic for discharging goals about floating-point arithmetic and round-off errors.
@@ -107,6 +107,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [SMTCoq](https://github.com/smtcoq/smtcoq) - Tool that checks proof witnesses coming from external SAT and SMT solvers.
 - [Tactician](https://coq-tactician.github.io) - Interactive tool which learns from previously written tactic scripts across all the installed Coq packages and suggests the next tactic to be executed or tries to automate proof synthesis fully.
 - [Unicoq](https://github.com/unicoq/unicoq) - Plugin that replaces the existing unification algorithm with an enhanced one.
+- [Waterproof proof language](https://github.com/impermeable/coq-waterproof) - Plugin providing a language for writing proof scripts in a style that resembles non-mechanized mathematical proof.
 
 ### Puzzles and Games
 
