@@ -277,6 +277,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Self-Organized Maps](https://en.wikipedia.org/wiki/Self-organizing_map)
 - [Transformer](https://www.tensorflow.org/text/tutorials/transformer)
 - [Conditional Random Field (CRF)](https://towardsdatascience.com/conditional-random-fields-explained-e5b8256da776)
+- [ML System Designs)](https://www.evidentlyai.com/ml-system-design)
 
 ### General Machine Learning Packages
 **[`^        back to top        ^`](#awesome-data-science)**

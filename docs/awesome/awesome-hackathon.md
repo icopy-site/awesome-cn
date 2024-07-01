@@ -25,6 +25,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [Hibiscus](https://github.com/HackSC/hibiscus) - An all-in-one, plug-and-play hackathon platform, created for HackSC.
 - [JunctionApp](https://github.com/hackjunction/JunctionApp) -  All-in-one hackathon platform for organisers, maintained by Junction.
 - [OpenHackathon](https://github.com/kaiyuanshe/OpenHackathon-Web) - Platform with Git-based Cloud Development Environment based on Next.js.
+- [Opportunity Hack](https://github.com/opportunity-hack) - Skills-Based Volunteering for Social Good, matching people to projects.
 - [Civic Tech Exchange](https://github.com/DemocracyLab/CivicTechExchange) - Online platform for Democracy Lab projects.
 - [DeltaHacks Portal](https://github.com/deltahacks/portal) - The attendee & admin portal for DeltaHacks 10, the hackathon for change.
 

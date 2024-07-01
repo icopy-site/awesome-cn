@@ -120,7 +120,8 @@ As a producer, you might need a few tools to help you deliver the damn thing. So
 
 - [Art Asset List template](https://docs.google.com/spreadsheets/d/1G7X_Xzx9P8TONQewx8FDgBgF06pQcRPzz3COvWiHn2U/edit?usp=sharing) - A basic and process agnostic template to keep track of all in-game assets, that need to be produced, their status (high-level) and naming. Should be adjusted to your production pipeline.
 - [GameDiscoverCo - BASIC net revenue predictions](https://docs.google.com/spreadsheets/d/11tNEABOKuJxX9kTLJ08DyEMf1UC3cbLdejRtmjgLBDI/edit?gid=0#gid=0) - A simple template to calculate your sales projections. As the name implies, it is very basic.
-- [Forecasting model by Fellow Traveler](https://docs.google.com/spreadsheets/d/1_cG9zDn_fzy6EhClcCpxKAWDVyb_SNaARCKsXChAvKo/edit?gid=0#gid=0) - A solid template to use when forecasting sales numbers for your game. 
+- [Forecasting model by Fellow Traveler](https://docs.google.com/spreadsheets/d/1_cG9zDn_fzy6EhClcCpxKAWDVyb_SNaARCKsXChAvKo/edit?gid=0#gid=0) - A solid template to use when forecasting sales numbers for your game.
+- [Altshift Steam Market Study template](https://docs.google.com/spreadsheets/d/1tcfsNVI4x-T-Fq8gNCjiNVutB-pol2Awn6fscoZ2c-Q/edit?gid=0#gid=0) - Another template to help you analyze your competitors and calculate your potential sales numbers. Ideally, use this in combination with other templates mentioned aboe to refine your guesstimations.
 
 ## 📨 Subscriptions
 

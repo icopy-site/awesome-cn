@@ -84,6 +84,7 @@
 - [MMX Racing](https://playcanv.as/p/ika9sdKu/?truck=johncena) - Interactive 3D ad for a popular mobile game.
 - [Party Space](https://www.party.space/) - Virtual events platform.
 - [Pocketverse](https://pocketverse.net/) - Procedurally generated star systems.
+- [Realise](https://gaffen.itch.io/realise) - A video game to accompany the new EP from Hearse Pileup.
 - [Ride Along 2](https://vimeo.com/152996271) - Using WebGL to promote a Hollywood movie release.
 - [Rugby World Cup](https://www.youtube.com/watch?v=onOJBCC8R7A) - Promoting the Rugby World Cup in London's Piccadilly Circus.
 - [Virtual Statues](https://playcanv.as/e/p/cLkf99ZV/) - A digital museum built with 3D Gaussian Splatting.
