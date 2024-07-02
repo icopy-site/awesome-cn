@@ -20,7 +20,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 - [BrachioGraph](https://brachiograph.readthedocs.io/en/latest/) - A cheap and simple plotter made from sticks, servos, and a Raspberry Pi running Python. Here's [video of a BrachioGraph talk at PyCon UK](https://www.youtube.com/watch?v=u4Jh1daCl60) from the creator.
 - [Arduino CNC Drawing Machine](https://www.diymachines.co.uk/arduino-cnc-drawing-machine) - A fairly simple 3d-printed AxiDraw-style plotter with good video documentation.
 - [PlotterXY](https://github.com/jamescarruthers/PlotterXY) - A coreXY plotter made from extrusion, 3d-printed parts, and an inexpensive 3d-printer control board.
-- [NextDraw](https://store.bantamtools.com/collections/bantam-tools-nextdraw) – The [Bantam Tools](https://www.bantamtools.com) successor to the popular AxiDraw pen plotter.
+- [NextDraw](https://store.bantamtools.com/collections/bantam-tools-nextdraw) - The [Bantam Tools](https://www.bantamtools.com) successor to the popular AxiDraw pen plotter.
 
 ### Motor Controllers
 
@@ -43,7 +43,7 @@ A curated list of code and resources for computer-controlled drawing machines an
 - [Plotter Pen STL Models](https://www.printables.com/model/156722-plotter-pen) - Accurate STL models of both short and long standard plotter pens.
 - [Pens for AxiDraw](https://wiki.evilmadscientist.com/Pens_for_AxiDraw) - List of pens suitable for general plotter abuse.
 - [Pens for EggBot](https://wiki.evilmadscientist.com/Pen_choices) - Egg- and glass-focused pen recommendations but still generally applicable information.
-- [JetPens – The Best White Ink Pens](https://www.jetpens.com/blog/the-best-white-ink-pens/pt/340) - A comprehensive review of many white ink pens, with pictures of their coverage characteristics.
+- [JetPens - The Best White Ink Pens](https://www.jetpens.com/blog/the-best-white-ink-pens/pt/340) - A comprehensive review of many white ink pens, with pictures of their coverage characteristics.
 
 ## Software
 
@@ -133,8 +133,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 - [linedraw](https://github.com/LingDong-/linedraw) - Python tool to convert images to sketchy vector line drawings.
 - [plotter.vision](https://plotter.vision/) - Interactive website for hidden line removal of STL files to generate plottable SVG. Also supports Red/Blue 3D glasses.
 - [plotting-maps](https://github.com/piebro/plotting-maps) - A simple web tool to create OpenStreetMap SVG maps for plotting.
-- [ThreadPlotter](https://github.com/LiciaHe/threadPlotter) — "A toolkit for the design and fabrication of delicate punch needle embroidery using X-Y plotters".
-
+- [ThreadPlotter](https://github.com/LiciaHe/threadPlotter) - "A toolkit for the design and fabrication of delicate punch needle embroidery using X-Y plotters".
 
 ### Vector Utilities
 
@@ -158,7 +157,7 @@ Single-line vector fonts or "engraving fonts".
 - [svg-fonts](https://gitlab.com/oskay/svg-fonts) - Single-line fonts in an SVG format, mainly for use with the [Hershey Text](https://gitlab.com/oskay/hershey-text) Inkscape plugin.
 - [CNC Text Tool](https://msurguy.github.io/cnc-text-tool/) - Browser-based Hershey Text tool with export to SVG.
 - [hf2gcode](https://github.com/Andy1978/hf2gcode) - Generates G-code from text with a Hershey font.
-- [FifteenTwenty: Commodore 1520 plotter font](https://github.com/scruss/FifteenTwenty) – [Blog post](https://scruss.com/blog/2016/04/23/fifteentwenty-commodore-1520-plotter-font/) about the creation of this font from the original ROM.
+- [FifteenTwenty: Commodore 1520 plotter font](https://github.com/scruss/FifteenTwenty) - [Blog post](https://scruss.com/blog/2016/04/23/fifteentwenty-commodore-1520-plotter-font/) about the creation of this font from the original ROM.
 
 ## Inspiration, Instruction, and Research
 
@@ -191,28 +190,28 @@ Blog posts, articles, tutorials, galleries, videos, et cetera.
 - [From Lettering Guides to CNC Plotters](https://www.typotheque.com/articles/from-lettering-guides-to-cnc-plotters-a-brief-history-of-technical-lettering-tools) - "A Brief History of Technical Lettering Tools".
 - [Building an interactive plotter art installation](https://lostpixels.io/writings/building-interactive-plotter-art) - Nice writeup (with videos) of an interactive plotter art exhibit at SIGGRAPH 2023.
 - [Taxan KPL 710 Demo Plot](https://www.youtube.com/watch?v=Xms3sZONQjo) - A handheld recording of the Taxan KPL 710 running its demo plot.
-- [Sweet-P Six Shooter SP-600 Plotter Demonstration](https://www.youtube.com/watch?v=xE9LVOMbKxk) – A recording of the Sweet-P SP-600 running its demo plot.
-- [Bottle Plotter](https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html) – Blog post about building a cylindrical pen plotter for drawing on wine bottles.
-- [Buildlog.net Atari 1020 Plotter Retrofit](https://www.buildlog.net/blog/2019/10/inktober-project-2019-post-5/) – Blog post and video about converting an Atari 1020 plotter to use a ESP32-based GRBL controller.
-- [Texas Instruments HX-1000 Plotter Photos](http://www.hexbus.com/TI-99_4A_Home_Computer_Page/Hexbus_HX-1000_Printer_Plotter.html) – Photo gallery of the plotter's exterior, interior, and packaging.
-- [Making cheap HP plotter pens](https://scruss.com/blog/2014/04/06/making-cheap-hp-plotter-pens-yet-another-hp-gl-viewer/) – Blog post mainly about using vinyl cutter parts as pen holders.
-- [Marcel Schwittlick and The Long Run](https://www.artxcode.io/journal/marcel-schwittlick-the-long-run) – Interview with Marcel, and lots of photos and videos of his work and workspace.
-- [Lars Wander and Mixing Paint With Code](https://www.artxcode.io/journal/lars-wander-interview) – Interview with Lars Wander, plus art and videos.
-- [Flatulence, Crystals, and Happy Little Accidents by Nick Fitzgerald (RustConf 2019)](https://www.youtube.com/watch?v=Ho3xr4b60Zg) — A RustConf talk with very little Rust, more about the creative process of generative art and pen plotters.
-- [Recreating Retro Plotter Art, by Sher Minn (Plotter People #1)](https://www.youtube.com/watch?v=OR_TzMFhv50) — Conference talk with lots of great computer and plotter history.
-- [20+ Questions About My Plotter Painting Practice](https://www.eyesofpanda.com/project/plotter_painting_q_a/) – Q&A blog post with lots of details about more painterly plotting.
+- [Sweet-P Six Shooter SP-600 Plotter Demonstration](https://www.youtube.com/watch?v=xE9LVOMbKxk) - A recording of the Sweet-P SP-600 running its demo plot.
+- [Bottle Plotter](https://vgnotepad.blogspot.com/2024/04/bottle-plotter.html) - Blog post about building a cylindrical pen plotter for drawing on wine bottles.
+- [Buildlog.net Atari 1020 Plotter Retrofit](https://www.buildlog.net/blog/2019/10/inktober-project-2019-post-5/) - Blog post and video about converting an Atari 1020 plotter to use a ESP32-based GRBL controller.
+- [Texas Instruments HX-1000 Plotter Photos](http://www.hexbus.com/TI-99_4A_Home_Computer_Page/Hexbus_HX-1000_Printer_Plotter.html) - Photo gallery of the plotter's exterior, interior, and packaging.
+- [Making cheap HP plotter pens](https://scruss.com/blog/2014/04/06/making-cheap-hp-plotter-pens-yet-another-hp-gl-viewer/) - Blog post mainly about using vinyl cutter parts as pen holders.
+- [Marcel Schwittlick and The Long Run](https://www.artxcode.io/journal/marcel-schwittlick-the-long-run) - Interview with Marcel, and lots of photos and videos of his work and workspace.
+- [Lars Wander and Mixing Paint With Code](https://www.artxcode.io/journal/lars-wander-interview) - Interview with Lars Wander, plus art and videos.
+- [Flatulence, Crystals, and Happy Little Accidents by Nick Fitzgerald (RustConf 2019)](https://www.youtube.com/watch?v=Ho3xr4b60Zg) - A RustConf talk with very little Rust, more about the creative process of generative art and pen plotters.
+- [Recreating Retro Plotter Art, by Sher Minn (Plotter People #1)](https://www.youtube.com/watch?v=OR_TzMFhv50) - Conference talk with lots of great computer and plotter history.
+- [20+ Questions About My Plotter Painting Practice](https://www.eyesofpanda.com/project/plotter_painting_q_a/) - Q&A blog post with lots of details about more painterly plotting.
 - [How to Watercolor Paint with a Robotic Drawing Machine: An Interview with Licia He](https://www.dirtalleydesign.com/blogs/news/how-to-watercolor-painting-with-a-robotic-drawing-machine-an-interview-with-licia-he)
-- [300 Days with Plotters](https://liciahe.medium.com/300-days-with-plotters-14159ab64034) – Blog post by Licia He about a successful 100 day plotting challenge.
+- [300 Days with Plotters](https://liciahe.medium.com/300-days-with-plotters-14159ab64034) - Blog post by Licia He about a successful 100 day plotting challenge.
 - [Roland DXY 1300 Plotter Self Test](https://www.youtube.com/watch?v=BMVq8vuH4sw)
-- [Vintage Aritma 0507 Plotter drawing Sierpinski triangles in one stroke](https://www.youtube.com/watch?v=kfL3K8mQp5I) — Aritma Minigraf 0507 video
+- [Vintage Aritma 0507 Plotter drawing Sierpinski triangles in one stroke](https://www.youtube.com/watch?v=kfL3K8mQp5I) - Aritma Minigraf 0507 video.
 - [Plotter (Artima Minigraf 0507)](https://www.youtube.com/watch?v=Xso0gfLp8IE&t=34s)
-- [https://jiristepanovsky.cz/project.php?p=13plotter](https://jiristepanovsky.cz/project.php?p=13plotter) — Blog post on the Aritma Minigraf 0507 plotter from Czechoslovakia.
+- [https://jiristepanovsky.cz/project.php?p=13plotter](https://jiristepanovsky.cz/project.php?p=13plotter) - Blog post on the Aritma Minigraf 0507 plotter from Czechoslovakia.
 - [Another drawing on Aritma Minigraf 0507](https://www.youtube.com/watch?v=EwFyIusdH7g)
 - [Aritma Minigraf 0507 Plotting Space Shuttle](https://www.youtube.com/watch?v=YY0ivdyhLpo)
-- [Drawing an Etch-Mask Directly onto a PCB using a Vintage Plotter](https://www.youtube.com/watch?v=nkxiFXCnbj8&t=131s) — The video description has some interesting details about this plotter.
-- [OrCAD 386 and a plotter Colorgraf Aritma 512](http://simandl.cz/stranky/elektro/spoje/pcb.htm) — Article about using a Colorgraf 512 plotter with OrCAD 386 for making printed circuit boards.
-- [Early Computer Art in the 50s and 60s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s) – Good art history lesson with lots of plotter-relevant artists.
-- [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript) – Great exploration of creating handwriting with p5.js and some custom tools.
+- [Drawing an Etch-Mask Directly onto a PCB using a Vintage Plotter](https://www.youtube.com/watch?v=nkxiFXCnbj8&t=131s) - The video description has some interesting details about this plotter.
+- [OrCAD 386 and a plotter Colorgraf Aritma 512](http://simandl.cz/stranky/elektro/spoje/pcb.htm) - Article about using a Colorgraf 512 plotter with OrCAD 386 for making printed circuit boards.
+- [Early Computer Art in the 50s and 60s](https://www.amygoodchild.com/blog/computer-art-50s-and-60s) - Good art history lesson with lots of plotter-relevant artists.
+- [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript) - Great exploration of creating handwriting with p5.js and some custom tools.
 
 ## Manuals, Ephemera, Papers, and Patents
 
@@ -223,16 +222,16 @@ Scanned plotter manuals, marketing ephemera, academic papers, and patents. Thank
 Sorted alphabetically by company name and product name.
 
 - [Apple Color Plotter User's Manual](https://archive.org/details/AppleColorPlotter)
-- [Aritma Colorgraf 512](http://simandl.cz/stranky/elektro/colorgraf/colorgraf_a.htm) – Website with scanned schematics and manual.
-- [Atari 1020 Color Printer Owner's Guide (1982)](https://archive.org/details/atari-1020-color-printer) – A higher-quality scan is also available as [a PDF on buildlog.net](https://www.buildlog.net/blog/wp-content/uploads/2019/09/atari-1020-color-printer-owners-guide.pdf)
+- [Aritma Colorgraf 512](http://simandl.cz/stranky/elektro/colorgraf/colorgraf_a.htm) - Website with scanned schematics and manual.
+- [Atari 1020 Color Printer Owner's Guide (1982)](https://archive.org/details/atari-1020-color-printer) - A higher-quality scan is also available as [a PDF on buildlog.net](https://www.buildlog.net/blog/wp-content/uploads/2019/09/atari-1020-color-printer-owners-guide.pdf)
 - [Atari 1020 Color Printer Field Service Manual (1983)](https://archive.org/details/atari1020colorprinterfieldservicemanualrev.011983atari)
 - [CalComp Artisan Plus 1023/1025/1026 User's Guide (1990)](https://archive.org/details/calcomp-artisan-plus-1023-1025-1026-users-guide)
 - [Programming CalComp Pen Plotters (1968)](https://archive.org/details/bitsavers_calcompProlottersJun68_2464236)
 - [Commodore 1520 Printer Plotter Manual (1983)](https://archive.org/details/1520PrinterPlotterUsersManualStyleA)
 - [Commodore 1520 Printer Plotter Manual](https://archive.org/details/1520PrinterPlotterusersManualStyleB)
 - [Control Data 165/165-2 Plotter Manual](https://archive.org/details/bitsavers_cdc160139c_4086972)
-- [Esterline Angus Spartan X-Y Recorder Instruction Manual](https://archive.org/details/manualsplus_03665) – Rev 1178
-- [Esterline Angus Spartan X-Y Recorder Instruction Manual (1980)](https://archive.org/details/manualsplus_03659) – Revs 1080, 1178, 0480
+- [Esterline Angus Spartan X-Y Recorder Instruction Manual](https://archive.org/details/manualsplus_03665) - Rev 1178.
+- [Esterline Angus Spartan X-Y Recorder Instruction Manual (1980)](https://archive.org/details/manualsplus_03659) - Revs 1080, 1178, 0480.
 - [Esterline Angus Model XY530 Recorder Instruction Manual](https://archive.org/details/manualsplus_03657)
 - [Esterline Angus Model XY575 Recorder Instruction Manual (1976)](https://archive.org/details/manualsplus_03641)
 - [Fluke 1771A Intelligent Digital Plotter User's Manual (1983)](https://archive.org/details/manualsplus_03096)
@@ -274,7 +273,7 @@ Sorted alphabetically by company name and product name.
 - [Roland XY Plotter DXY-1350A DXY-1150A User's Manual (1997)](https://archive.org/details/manualzilla-id-5691908)
 - [Rotring Tubular Plotter Points Practical Tips and Information](https://archive.org/details/rotingtubularplotterpointprakticaltipsandinformation)
 - [Rotring NC-scriber CS 50 Operating Instructions (1989)](https://archive.org/details/rotring_NC-scriber_CS_50_Operating_Instructions)
-- [SEGA SP-400 Operation Manual](https://archive.org/details/sega-sp-400) – This doesn't present as a flippable book on the archive, but the original page scans are still available for download.
+- [SEGA SP-400 Operation Manual](https://archive.org/details/sega-sp-400) - This doesn't present as a flippable book on the archive, but the original page scans are still available for download.
 - [Sekonic SPL-450+/SPL-455 User Manual (1990) (German)](https://archive.org/details/sekonicspl450spl455)
 - [Siemens C1613 Plotter Manual (German)](https://archive.org/details/SiemensC1613Manual)
 - [Silver Reed Colour PenGraph EB-50 Operating Manual (1984)](https://archive.org/details/silver-reed-colour-pengraph-eb-50-operating-manual)
@@ -283,7 +282,7 @@ Sorted alphabetically by company name and product name.
 - [Tectronix HC100 Instruction Manual (1987)](https://archive.org/details/manualsonline-id-212d14c3-7d2f-4e64-906f-1a22e86d1f35/)
 - [Panasonic RK-P400C 4-Color Graphic Penwriter Manual](https://archive.org/details/panasonic-rk-p-400-c-manual)
 - [Panasonic Penwriter Manual Excerpt: RS232 Protocol Section](https://archive.org/details/panasonicpenwriterprotocol)
-- [[Unknown Brand] LP 2002 Photo Plotter Attachment Operating Manual (German)](https://archive.org/details/lp-2002-betriebsanleitung/) - Also see [Martin Bircher's thread](https://mastodon.social/@artandtech/109382879937442706) with pictures of this device.
+- [(Unknown Brand) LP 2002 Photo Plotter Attachment Operating Manual (German)](https://archive.org/details/lp-2002-betriebsanleitung/) - Also see [Martin Bircher's thread](https://mastodon.social/@artandtech/109382879937442706) with pictures of this device.
 
 ### Ephemera
 
@@ -307,15 +306,15 @@ Sorted alphabetically by company name and product name.
 - [Houston Instrument DMP-41 and DMP-42 Plotters Brochure](https://archive.org/details/hi-dmp-41-42-brochure)
 - [Houston Instrument DMP-51/52 Series Brochure](https://archive.org/details/hi-dmp-51-52-brochure)
 - [Houston Instrument Omnigraphic Plotter Brochure](https://archive.org/details/TNM_Omnigraphic_Plotter_20171016_0228)
-- [Sweet-P Plotter Brochure and Price List](https://archive.org/details/bitsavers_enterCompuersonalPlotterprricelistBrochure_4929854) – Four-page color marketing brochure with attached suggested retail price list.
-- [IEEE Electronic Systems News Autumn (1985)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5345111) – Review of the three-color Penman robotic plotter.
-- [Apple II Business Graphics Film (1982)](https://archive.org/details/apple-ii-business-graphics) – There's a Strobe Model 100 Graphics Plotter drawing bar charts at 4:57.
-- [Elektor Magazine Selbstbauplotter MONDRIAN II (1990) (German)](https://archive.org/details/elektor_202310) – Also see [a model of this plotter on GrabCAD](https://grabcad.com/library/plotter-mondrian-1).
+- [Sweet-P Plotter Brochure and Price List](https://archive.org/details/bitsavers_enterCompuersonalPlotterprricelistBrochure_4929854) - Four-page color marketing brochure with attached suggested retail price list.
+- [IEEE Electronic Systems News Autumn (1985)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5345111) - Review of the three-color Penman robotic plotter.
+- [Apple II Business Graphics Film (1982)](https://archive.org/details/apple-ii-business-graphics) - There's a Strobe Model 100 Graphics Plotter drawing bar charts at 4:57.
+- [Elektor Magazine Selbstbauplotter MONDRIAN II (1990) (German)](https://archive.org/details/elektor_202310) - Also see [a model of this plotter on GrabCAD](https://grabcad.com/library/plotter-mondrian-1).
 - [IBM 7374 and 7375 Color Plotter Brochure (PDF)](https://www.1000bit.it/ad/bro/ibm/IBM737xColorPlotters.pdf)
 
 ### Papers
 
-- [Toward Aesthetic Guidelines for Paintings with the Aid of a Computer (1975) (PDF)](https://rednoise.org/softas/uploads/molnar.pdf) – Vera Molnar
+- [Toward Aesthetic Guidelines for Paintings with the Aid of a Computer (1975) (PDF)](https://rednoise.org/softas/uploads/molnar.pdf) - Vera Molnar.
 - [Pen Plotter as a Low-Cost Platform for Rapid Device Prototyping with Solution-Processable Nanomaterials (2023) (PDF)](https://onlinelibrary.wiley.com/doi/pdf/10.1002/adem.202300226)
 - [Preparation of V2O5 Thin Film by Sol–Gel Technique and Pen Plotter Printing](https://www.proquest.com/docview/2791602751)
 - [PatternPortrait: Draw Me Like One of Your Scribbles (2024)](https://arxiv.org/abs/2401.13001)
@@ -324,6 +323,10 @@ Sorted alphabetically by company name and product name.
 ### Patents
 
 - [Adaptor for universal X-Y plotter pen](https://patents.google.com/patent/US4943817)
+
+## Courses
+
+- [Painting with Plotters](https://www.eyesofpanda.com/project/painting_with_plotters/) - A work-in-progress course by Licia He, to be released September 2024.
 
 ## Community
 
