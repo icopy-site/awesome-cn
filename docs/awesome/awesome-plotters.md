@@ -134,6 +134,7 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 - [plotter.vision](https://plotter.vision/) - Interactive website for hidden line removal of STL files to generate plottable SVG. Also supports Red/Blue 3D glasses.
 - [plotting-maps](https://github.com/piebro/plotting-maps) - A simple web tool to create OpenStreetMap SVG maps for plotting.
 - [ThreadPlotter](https://github.com/LiciaHe/threadPlotter) - "A toolkit for the design and fabrication of delicate punch needle embroidery using X-Y plotters".
+- [PINTR](https://javier.xyz/pintr) - Plottable random line drawings from your images.
 
 ### Vector Utilities
 

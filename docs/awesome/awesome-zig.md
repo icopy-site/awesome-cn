@@ -167,6 +167,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [dantecatalfamo/9p-zig](https://github.com/dantecatalfamo/9p-zig) - 9P2000 client/server library.
 * [karlseguin/singleflight.zig](https://github.com/karlseguin/singleflight.zig) - Duplicate function call suppression.
 * [kassane/lean4-zig](https://github.com/kassane/lean4-zig) - Bindings for Lean 4 (theorem prover).
+* [attron/astroz](https://github.com/ATTron/astroz) - Astronomical and Spacecraft Toolkit.
 
 
 ## Network
