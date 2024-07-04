@@ -112,7 +112,6 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [awesome-nlp-polish](https://github.com/ksopyla/awesome-nlp-polish)
 * [awesome-spanish-nlp](https://github.com/dav009/awesome-spanish-nlp)
 * [M. Weisser's list of NLP/Computational Linguistics Resources](https://martinweisser.org/corpora_site/comp_ling_resources.html)
-* [NLP tools (Saarland University)](https://www.coli.uni-saarland.de/~csporled/page.php?id=tools)
 
 ### Communities
 * [Linguistics Stack Exchange](https://linguistics.stackexchange.com/)
