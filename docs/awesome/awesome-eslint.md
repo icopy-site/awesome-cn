@@ -59,6 +59,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ### Code Quality
 
+- [depend](https://github.com/es-tooling/eslint-plugin-depend) - Helps detect dependency tree bloat and redundant polyfills.
 - [GitHub](https://github.com/github/eslint-plugin-github) - Misc. rules from GitHub.
 - [SonarJS](https://github.com/SonarSource/eslint-plugin-sonarjs) - Rules detecting bugs and suspicious patterns.
 - [Unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - Various awesome ESLint rules.
@@ -178,7 +179,8 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [fp](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming.
 - [functional](https://github.com/jonaskello/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
 - [Immutable](https://github.com/jhusain/eslint-plugin-immutable) - Disable all mutation in JavaScript.
-- [import](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names.
+- [import](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names. Still does not work with ESlint 9 and does not support flat configs.
+- [import-x](https://github.com/un-ts/eslint-plugin-import-x) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names. Properly maintained lightweight fork of `eslint-plugin-import` with the proper support of latest ESlint.
 - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new`.
 <!-- lint ignore awesome-spell-check -->
 - [no-argument-spread](https://github.com/causalhq/eslint-plugin-no-argument-spread) - Lints against expressions like `Math.max(...args)` that can lead to a stack overflow for large arrays.
@@ -284,6 +286,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [eslint-interactive](https://github.com/mizdra/eslint-interactive) - The CLI tool to fix huge number of ESLint errors.
 - [eslint-multiplexer](https://github.com/pimlie/eslint-multiplexer) - Multiplex eslint results and merge results for common files.
 - [eslint-nibble](https://github.com/IanVS/eslint-nibble) - Ease into ESLint, by fixing one rule at a time.
+- [eslint-plugin-rule-adoption](https://github.com/Jugbot/eslint-plugin-rule-adoption) - An eslint plugin for incremental rule adoption, when `--fix` and codemods don't cut it.
 - [eslint-rule-documentation](https://github.com/jfmengels/eslint-rule-documentation) - Find the url for the documentation of an ESLint rule.
 - [eslint-watch](https://github.com/rizowski/eslint-watch) - Run ESLint with watch mode.
 - [codacy-eslint](https://github.com/codacy/codacy-eslint) - Docker used at [Codacy](https://www.codacy.com) to run ESLint.
