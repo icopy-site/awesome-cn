@@ -1190,6 +1190,8 @@ English-language description for use by biologists.
 
 * [Towards an Understanding of Distributed Asymmetric Collaborative Visualization on Problem-solving](https://ieeexplore.ieee.org/document/10108427) - ***VR'23***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=11228377215337222005&hl=en&as_sdt=0,5)].
 
+* [Agent: automatic generation of experimental protocol runtime](https://dl.acm.org/doi/abs/10.1145/3139131.3139152) - ***VRST'17***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=3511549412244980073)]. This paper proposes the use of Domain-Specific Languages (DSLs) to ease the description and generation of VR experiments, thus letting experiment designers focus on their core tasks: designing, conducting, and reporting experiments.
+
 
 
 ### Meta-Level Considerations
