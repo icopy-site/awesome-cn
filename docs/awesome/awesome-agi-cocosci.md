@@ -21,122 +21,9 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 
 <span id = "c"></span>
+
       * [Quantitative Analysis](#quantitative-analysis) 
     <!--* [Tasks & Environments](#te)-->
-
-
-
-## Academic Tools
-
-
-### Courses
-
-* [Computational Cognitive Science Courses](https://cbmm.mit.edu/education/courses/computational-cognitive-science) - ***MIT***. Courses on computational cognitive science from MIT, Harvard, and Stanford.
-
-* [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm) - ***MIT***. Armando Solar-Lezama's elementary course on program synthesis.
-
-* [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/) - ***MIT***. [[Book: SICP](https://web.mit.edu/6.001/6.037/sicp.pdf)]. [[All Versions](https://scholar.google.com/scholar?cluster=7488066943428166450&hl=en&as_sdt=0,5)]. Classic course on applying structural, procedural, and meta-linguistic abstraction to solve computational problems.
-
-* [Discrete Mathematics and Its Applications](https://faculty.ksu.edu.sa/sites/default/files/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf). Classic course on basic discrete mathematics, including matheatical logic, set theory, graph theory, formal language (and automata), basic number theory (e.g., counting), and other related topics.
-
-
-
-### Programming
-
-* [Probabilistic Models of Cognition](https://probmods.org/) - ***MIT***. The probabilistic approach to cognitive science, which models learning and reasoning as inference in complex probabilistic models.
-
-
-
-### Paper Writing
-
-* [LaTex Configuration](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/LaTex/config.sty) - ***LaTex***. LaTex template for configuration file with elegant reference style (gray-colored reference, page backward reference).
-
-* [BibTex Template](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/BibTex/references_header.bib) - ***BibTex***. BibTex template for including abbreviations of journals and conferences in AI, Mathematics, and Cognitive Sciences.
-
-* [bioRender](https://www.biorender.com/) - ***bioRender***. Create professional science figures in minutes by browsing thousands of pre-made icons and templates from more than 30 fields of life sciences.
-
-* [How to construct a Nature summary paragraph](https://www.nature.com/documents/nature-summary-paragraph.pdf) - ***Nature***. Nature official guidelines for composing abstracts.
-
-* [How to write a superb literature review](https://www.nature.com/articles/d41586-020-03422-x) - ***Nature***, 2020. Nature speaks to old hands and first timers about the work they did to make their reviews sing.
-
-* [Scientific Papers](https://www.nature.com/scitable/topicpage/scientific-papers-13815490/) - ***Nature***. Nature guidance on writing scientific papers.
-
-* [The Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf) - ***McGill University***. Guidelines for introducing a machine learning algorithm with guarantee of reproducibility.
-
-
-
-### Paper Reading
-
-* [How to Read a Paper](https://www.cs.uni-potsdam.de/bs/teaching/docs/courses/ss2020/scn/material/p83-keshavA.pdf) - ***ACM SIGCOMM Computer Communication Review***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=7234542241721187587&hl=en&as_sdt=0,5)]. A comprehensive tutorial on reading scientific papers.
-
-
-* [It's not just you: science papers are getting harder to read](https://www.nature.com/articles/nature.2017.21751) - ***Nature***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=4409814498614719804&hl=en&as_sdt=0,5)]. Nature perspective on reading scientific papers.
-
-* [How to navigate a scientific paper with time constraints: a graphics approach](https://be.mit.edu/sites/default/files/documents/HowToReadAScientificPaper.pdf) - ***MIT***. MIT guidance on strategies for reading papers given different time constraints.
-
-* [Text Visualization Browser](https://textvis.lnu.se/) - ***ISOVIS group***, 2015. [[Paper](https://cs.lnu.se/isovis/pubs/docs/kucher-pacificvis15-postprint.pdf)]. [[All Versions](https://scholar.google.com/scholar?cluster=7000995325728444282&hl=en&as_sdt=0,5)]. A Hub of Text Visualization Techniques.
-
-
-
-### Literature Management
-
-
-* [Scientific literature: Information overload](https://www.nature.com/articles/nj7612-457a) - ***Nature***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=9898832432826237365&hl=en&as_sdt=0,5)]. Perspective on handling overloaded information from scientific literature.
-
-* [Microsoft Academic Graph](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/) - ***Microsoft Research***. Heterogeneous graph containing scientific publication records, citation relationships between those publications, as well as authors, institutions, journals, conferences, and fields of study. 
-
-* [An Overview of Microsoft Academic Service (MAS) and Applications](http://sonyis.me/paperpdf/Microsoft%20Academic%20Graph%20WWW%202015.pdf) - ***WWW'15***, 2015. [[All Versios](https://scholar.google.com/scholar?cluster=9075899176667058496&hl=en&as_sdt=0,5)]. Original paper on Microsoft Academic Graph.
-
-* [Goodbye, Microsoft Academic – Hello, open research infrastructure?](https://blogs.lse.ac.uk/impactofsocialsciences/2021/05/27/goodbye-microsoft-academic-hello-open-research-infrastructure/) - ***LSE Impact Blog***, 2021. An interpretation of Microsoft's strategy on research infrastructure.
-
-* [Semantic Scholar](https://www.semanticscholar.org/) - ***Allen Institute for AI Research***. AI-powered scientific literature research tool.
-
-* [Construction of the Literature Graph in Semantic Scholar](https://aclanthology.org/N18-3011/) - ***NAACL'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=5500969515339734950&hl=en&as_sdt=0,5)]. Semantic Scholar with extracting feature and metadata from raw paper data.
-
-* [S2ORC: The Semantic Scholar Open Research Corpus](https://aclanthology.org/2020.acl-main.447/) - ***ACL'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=11978464475399626925&hl=en&as_sdt=0,5)]. An open corpus of academic papers released by Semantic Scholar.
-
-* [Litmaps](https://www.litmaps.com/) - ***Litmap Ltd***. For interactive literature map construction and linked document management.
-
-* [VOSviewer](https://www.vosviewer.com/) - ***Leiden University***. For constructing and visualizing bibliometric networks.
-
-* [StateOfTheArt.AI](https://www.stateoftheart.ai/) - ***StateOfTheArtAI***. For tracking, collecting and visualizing the development of AI research. 
-
-
-
-### Knowledge Management
-
-* [Library of Congress Classification](https://www.loc.gov/aba/publications/FreeLCC/freelcc.html) - ***Library of Congress***. Classification system of USA (PDF only).
-
-* [Chinese Library Classification](http://cct.nlc.cn/) - ***National Library of China***. Classification system of P. R. China (online user interface in Chinese). [[English introduction at ISKO](https://www.isko.org/cyclo/clc)]. [[Wikipedia-EN](https://en.wikipedia.org/wiki/Chinese_Library_Classification)].
-
-* [DDC at German National Library](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) - ***Deutsche National Bibliothek***. Deway Decimal Classification (DDC) based classification system of Germany (online user interface). [[DNB Website](https://www.dnb.de/EN/Professionell/DDC-Deutsch/DDCinDNB/ddcindnb_node.html)].
-
-* [National Dite Library Classification](https://www.ndl.go.jp/jp/data/catstandards/classification_subject/ndlc.html) - ***National Diet Library of Japan***. Classification system of Japan (PDF only).
-
-
-* [Knowledge organization](https://en.wikipedia.org/wiki/Knowledge_organization) - ***Wikipedia***. Wikipedia on knowledge organization methods.
-
-* [The Zettelkasten Method](https://zettelkasten.de/) - ***Bielefeld University***. Relating ideas in graphs and multi-labels.
-
-* [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) - ***Wikipedia***. Wikipedia on the Zettelkasten method.
-
-* [Roam Research](https://roamresearch.com/) - ***Roam Research***. For linked document management, visualization, and sharing. 
-
-* [Foam](https://foambubble.github.io/foam/) - ***Foambubble***. For linked document management, visualization, and sharing, opensourced softward built on VSCode.
-
-* [Building a Second Brain](https://www.buildingasecondbrain.com/) - ***Forte Labs, LLC***. Connecting ideas in graphs.
-
-* [Zotero](https://www.zotero.org/) - ***Digital Scholar***. For reference management to manage bibliographic data and research related materials.
-
-* [Niklas Luhmann's Card Index: Thinking Tool, Communication Partner, Publication Machine](https://pdfs.semanticscholar.org/88f8/fa9dfbc0c2b296758dd932b871917c5c775a.pdf%C2%A0) - ***Forgetting Machines: Knowledge Management Evolution in Early Modern Europe, Brill***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=1786807670077004336&hl=en&as_sdt=0,5)].
-
-
-* [Where Does Niklas Luhmann's Card Index Come From?](https://www.researchgate.net/profile/Alberto-Cevolini/publication/328624186_Where_Does_Niklas_Luhmann%27s_Card_Index_Come_From/links/609f818e299bf147699a401d/Where-Does-Niklas-Luhmanns-Card-Index-Come-From.pdf) - ***Erudition and the Republic of Letters***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=8279465066043884141&hl=en&as_sdt=0,5)]. A simplified introduction on Luhmann's Zettelkasten.
-
-* [Niklas Luhmann's Card Index: The Fabrication of Serendipity](https://www.uni-bielefeld.de/fakultaeten/soziologie/forschung/luhmann-archiv/pdf/jschmidt_niklas-luhmanns-card-index_-sociologica_2018_12-1.pdf) - ***Sociologica***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=12440286698665929622&hl=en&as_sdt=0,5)].
-
-* [Communicating with Slip Boxes](https://luhmann.surge.sh/communicating-with-slip-boxes) - 2019. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Communicating+with+slip+boxes+luhmann&btnG=)].
-
 
 
 
@@ -2138,6 +2025,120 @@ Systematic Literature Review](https://arxiv.org/abs/2308.10620) - 2023. [[All Ve
   * [MC-Saar-Instruct: a Platform for Minecraft Instruction Giving Agents](https://www.aclweb.org/anthology/2020.sigdial-1.7.pdf) - ***SIGDial'20***, 2020.
 
 *[Back to Top](#c)-->
+
+
+
+## Academic Tools
+
+
+### Courses
+
+* [Computational Cognitive Science Courses](https://cbmm.mit.edu/education/courses/computational-cognitive-science) - ***MIT***. Courses on computational cognitive science from MIT, Harvard, and Stanford.
+
+* [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm) - ***MIT***. Armando Solar-Lezama's elementary course on program synthesis.
+
+* [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/) - ***MIT***. [[Book: SICP](https://web.mit.edu/6.001/6.037/sicp.pdf)]. [[All Versions](https://scholar.google.com/scholar?cluster=7488066943428166450&hl=en&as_sdt=0,5)]. Classic course on applying structural, procedural, and meta-linguistic abstraction to solve computational problems.
+
+* [Discrete Mathematics and Its Applications](https://faculty.ksu.edu.sa/sites/default/files/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf). Classic course on basic discrete mathematics, including matheatical logic, set theory, graph theory, formal language (and automata), basic number theory (e.g., counting), and other related topics.
+
+
+
+### Programming
+
+* [Probabilistic Models of Cognition](https://probmods.org/) - ***MIT***. The probabilistic approach to cognitive science, which models learning and reasoning as inference in complex probabilistic models.
+
+
+
+### Paper Writing
+
+* [LaTex Configuration](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/LaTex/config.sty) - ***LaTex***. LaTex template for configuration file with elegant reference style (gray-colored reference, page backward reference).
+
+* [BibTex Template](https://github.com/YuzheSHI/awesome-agi-cocosci/blob/master/BibTex/references_header.bib) - ***BibTex***. BibTex template for including abbreviations of journals and conferences in AI, Mathematics, and Cognitive Sciences.
+
+* [bioRender](https://www.biorender.com/) - ***bioRender***. Create professional science figures in minutes by browsing thousands of pre-made icons and templates from more than 30 fields of life sciences.
+
+* [How to construct a Nature summary paragraph](https://www.nature.com/documents/nature-summary-paragraph.pdf) - ***Nature***. Nature official guidelines for composing abstracts.
+
+* [How to write a superb literature review](https://www.nature.com/articles/d41586-020-03422-x) - ***Nature***, 2020. Nature speaks to old hands and first timers about the work they did to make their reviews sing.
+
+* [Scientific Papers](https://www.nature.com/scitable/topicpage/scientific-papers-13815490/) - ***Nature***. Nature guidance on writing scientific papers.
+
+* [The Machine Learning Reproducibility Checklist](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf) - ***McGill University***. Guidelines for introducing a machine learning algorithm with guarantee of reproducibility.
+
+
+
+### Paper Reading
+
+* [How to Read a Paper](https://www.cs.uni-potsdam.de/bs/teaching/docs/courses/ss2020/scn/material/p83-keshavA.pdf) - ***ACM SIGCOMM Computer Communication Review***, 2007. [[All Versions](https://scholar.google.com/scholar?cluster=7234542241721187587&hl=en&as_sdt=0,5)]. A comprehensive tutorial on reading scientific papers.
+
+
+* [It's not just you: science papers are getting harder to read](https://www.nature.com/articles/nature.2017.21751) - ***Nature***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=4409814498614719804&hl=en&as_sdt=0,5)]. Nature perspective on reading scientific papers.
+
+* [How to navigate a scientific paper with time constraints: a graphics approach](https://be.mit.edu/sites/default/files/documents/HowToReadAScientificPaper.pdf) - ***MIT***. MIT guidance on strategies for reading papers given different time constraints.
+
+* [Text Visualization Browser](https://textvis.lnu.se/) - ***ISOVIS group***, 2015. [[Paper](https://cs.lnu.se/isovis/pubs/docs/kucher-pacificvis15-postprint.pdf)]. [[All Versions](https://scholar.google.com/scholar?cluster=7000995325728444282&hl=en&as_sdt=0,5)]. A Hub of Text Visualization Techniques.
+
+
+
+### Literature Management
+
+
+* [Scientific literature: Information overload](https://www.nature.com/articles/nj7612-457a) - ***Nature***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=9898832432826237365&hl=en&as_sdt=0,5)]. Perspective on handling overloaded information from scientific literature.
+
+* [Microsoft Academic Graph](https://www.microsoft.com/en-us/research/project/microsoft-academic-graph/) - ***Microsoft Research***. Heterogeneous graph containing scientific publication records, citation relationships between those publications, as well as authors, institutions, journals, conferences, and fields of study. 
+
+* [An Overview of Microsoft Academic Service (MAS) and Applications](http://sonyis.me/paperpdf/Microsoft%20Academic%20Graph%20WWW%202015.pdf) - ***WWW'15***, 2015. [[All Versios](https://scholar.google.com/scholar?cluster=9075899176667058496&hl=en&as_sdt=0,5)]. Original paper on Microsoft Academic Graph.
+
+* [Goodbye, Microsoft Academic – Hello, open research infrastructure?](https://blogs.lse.ac.uk/impactofsocialsciences/2021/05/27/goodbye-microsoft-academic-hello-open-research-infrastructure/) - ***LSE Impact Blog***, 2021. An interpretation of Microsoft's strategy on research infrastructure.
+
+* [Semantic Scholar](https://www.semanticscholar.org/) - ***Allen Institute for AI Research***. AI-powered scientific literature research tool.
+
+* [Construction of the Literature Graph in Semantic Scholar](https://aclanthology.org/N18-3011/) - ***NAACL'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=5500969515339734950&hl=en&as_sdt=0,5)]. Semantic Scholar with extracting feature and metadata from raw paper data.
+
+* [S2ORC: The Semantic Scholar Open Research Corpus](https://aclanthology.org/2020.acl-main.447/) - ***ACL'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=11978464475399626925&hl=en&as_sdt=0,5)]. An open corpus of academic papers released by Semantic Scholar.
+
+* [Litmaps](https://www.litmaps.com/) - ***Litmap Ltd***. For interactive literature map construction and linked document management.
+
+* [VOSviewer](https://www.vosviewer.com/) - ***Leiden University***. For constructing and visualizing bibliometric networks.
+
+* [StateOfTheArt.AI](https://www.stateoftheart.ai/) - ***StateOfTheArtAI***. For tracking, collecting and visualizing the development of AI research. 
+
+
+
+### Knowledge Management
+
+* [Library of Congress Classification](https://www.loc.gov/aba/publications/FreeLCC/freelcc.html) - ***Library of Congress***. Classification system of USA (PDF only).
+
+* [Chinese Library Classification](http://cct.nlc.cn/) - ***National Library of China***. Classification system of P. R. China (online user interface in Chinese). [[English introduction at ISKO](https://www.isko.org/cyclo/clc)]. [[Wikipedia-EN](https://en.wikipedia.org/wiki/Chinese_Library_Classification)].
+
+* [DDC at German National Library](https://rvk.uni-regensburg.de/regensburger-verbundklassifikation-online) - ***Deutsche National Bibliothek***. Deway Decimal Classification (DDC) based classification system of Germany (online user interface). [[DNB Website](https://www.dnb.de/EN/Professionell/DDC-Deutsch/DDCinDNB/ddcindnb_node.html)].
+
+* [National Dite Library Classification](https://www.ndl.go.jp/jp/data/catstandards/classification_subject/ndlc.html) - ***National Diet Library of Japan***. Classification system of Japan (PDF only).
+
+
+* [Knowledge organization](https://en.wikipedia.org/wiki/Knowledge_organization) - ***Wikipedia***. Wikipedia on knowledge organization methods.
+
+* [The Zettelkasten Method](https://zettelkasten.de/) - ***Bielefeld University***. Relating ideas in graphs and multi-labels.
+
+* [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) - ***Wikipedia***. Wikipedia on the Zettelkasten method.
+
+* [Roam Research](https://roamresearch.com/) - ***Roam Research***. For linked document management, visualization, and sharing. 
+
+* [Foam](https://foambubble.github.io/foam/) - ***Foambubble***. For linked document management, visualization, and sharing, opensourced softward built on VSCode.
+
+* [Building a Second Brain](https://www.buildingasecondbrain.com/) - ***Forte Labs, LLC***. Connecting ideas in graphs.
+
+* [Zotero](https://www.zotero.org/) - ***Digital Scholar***. For reference management to manage bibliographic data and research related materials.
+
+* [Niklas Luhmann's Card Index: Thinking Tool, Communication Partner, Publication Machine](https://pdfs.semanticscholar.org/88f8/fa9dfbc0c2b296758dd932b871917c5c775a.pdf%C2%A0) - ***Forgetting Machines: Knowledge Management Evolution in Early Modern Europe, Brill***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=1786807670077004336&hl=en&as_sdt=0,5)].
+
+
+* [Where Does Niklas Luhmann's Card Index Come From?](https://www.researchgate.net/profile/Alberto-Cevolini/publication/328624186_Where_Does_Niklas_Luhmann%27s_Card_Index_Come_From/links/609f818e299bf147699a401d/Where-Does-Niklas-Luhmanns-Card-Index-Come-From.pdf) - ***Erudition and the Republic of Letters***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=8279465066043884141&hl=en&as_sdt=0,5)]. A simplified introduction on Luhmann's Zettelkasten.
+
+* [Niklas Luhmann's Card Index: The Fabrication of Serendipity](https://www.uni-bielefeld.de/fakultaeten/soziologie/forschung/luhmann-archiv/pdf/jschmidt_niklas-luhmanns-card-index_-sociologica_2018_12-1.pdf) - ***Sociologica***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=12440286698665929622&hl=en&as_sdt=0,5)].
+
+* [Communicating with Slip Boxes](https://luhmann.surge.sh/communicating-with-slip-boxes) - 2019. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Communicating+with+slip+boxes+luhmann&btnG=)].
+
 
 
 
