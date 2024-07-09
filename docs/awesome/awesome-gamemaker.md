@@ -393,7 +393,7 @@ JujuAdams, FaultyFunctions, Gleb Tsereteli, Shaun Spalding, DragoniteSpam, Nick 
 
 - This is based on a list from [GameMaker Libraries](https://github.com/FaultyFunctions/GameMakerLibraries) and from Gleb Tsereteli with additional links/details.
 - A majority of linked resources will only work with `GameMaker 2.3+` due to GML syntax changes. However, if you are working in GameMaker 1.4, most library creators would appreciate it if someone makes a backport of their project. 🙂
-- If you need more general game development resources, check out [Awesome Gamedev](https://notabug.org/Calinou/awesome-gamedev) or [MagicTools](https://github.com/ellisonleao/magictools#readme).
+- If you need more general game development resources, check out [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) or [MagicTools](https://github.com/ellisonleao/magictools#readme).
 
 *GameMaker® is the property of YoYo Games™. This list is not affiliated with YoYo Games.*
 

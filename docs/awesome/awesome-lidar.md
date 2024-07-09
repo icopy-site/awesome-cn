@@ -227,6 +227,9 @@ Contributions are welcome! Please [check out](https://github.com/szenergy/awesom
 Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
   - [GitHub repository :octocat:](https://github.com/jkk-research/urban_road_filter)
   - [YouTube video :red_circle:](https://www.youtube.com/watch?v=T2qi4pldR-E)
+- [detection_by_tracker :newspaper:](https://www.semanticscholar.org/paper/3D-LIDAR-Multi-Object-Tracking-for-Autonomous-and-Rachman/bafc8fcdee9b22708491ea1293524ece9e314851) - 3D-LIDAR Multi Object Tracking for Autonomous Driving: Multi-target Detection and Tracking under Urban Road Uncertainties, also used in Autoware Universe
+  - [GitHub :octocat:](https://autowarefoundation.github.io/autoware.universe/main/perception/detection_by_tracker/) ![](https://img.shields.io/badge/ROS-2-34aec5)
+  - [YouTube video :red_circle:](https://www.youtube.com/watch?v=xSGCpb24dhI)
 
 ## LIDAR-other-sensor calibration
 
