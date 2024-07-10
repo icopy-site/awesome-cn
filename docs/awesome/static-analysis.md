@@ -42,6 +42,11 @@ This project would not be possible without the generous support of our sponsors.
          </a>
       </td>
       <td>
+         <a href="https://coderabbit.ai">
+            <img width="200px" src="https://raw.githubusercontent.com/analysis-tools-dev/assets/master/static/sponsors/code-rabbit.svg" />
+         </a>
+      </td>
+      <td>
          <a href="https://semgrep.dev/">
             <img width="200px" src="https://raw.githubusercontent.com/analysis-tools-dev/assets/master/static/sponsors/semgrep.svg" />
          </a>
@@ -1729,6 +1734,8 @@ It identifies potential security risks in K8s RBAC design and makes suggestions 
 
 - [Codecov](https://about.codecov.io/) :copyright: — Codecov is a company that provides code coverage tools for developers and engineering leaders  to gain visibility into their code coverage.
 They offer flexible and unified reporting, seamless coverage insights, and robust coverage controls. Codecov supports over 20 languages and is CI/CD agnostic. Over 29,000 organizations and 1 million developers use Codecov. Codecov has recently joined Sentry.
+
+- [CodeRabbit](https://coderabbit.ai) :copyright: — AI-powered code review tool that helps developers write better code faster.  CodeRabbit provides automated code reviews,  identifies security vulnerabilities, and suggests code improvements.  It integrates with GitHub and GitLab.
 
 - [composer-dependency-analyser](https://github.com/shipmonk-rnd/composer-dependency-analyser) — Fast detection of composer dependency issues.
 

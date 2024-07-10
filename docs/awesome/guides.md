@@ -1,9 +1,9 @@
 <div class="github-widget" data-repo="NARKOZ/guides"></div>
 ## Guides
 
-想成为优秀程序员的指南.  
-这个存储库的目的是收集和分发有用的链接
-网络上的编码风格指南和开发实践.
+Guides for programmers who want to be awesome.  
+The intent of this repository is to collect and distribute links to useful
+coding style guides and development practices across the web.
 
 
 
@@ -17,7 +17,7 @@
 
 + [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 + [Principles of writing consistent, idiomatic CSS](https://github.com/necolas/idiomatic-css#readme)
-+ [HTML and CSS code guide](https://github.com/mdo/code-guide#readme)
++ [HTML and CSS code guide](https://codeguide.co/)
 + [General CSS notes, advice and guidelines](https://github.com/csswizardry/CSS-Guidelines#readme)
 
 ### Sass
@@ -50,8 +50,8 @@
 
 ### C&#35;
 
-+ [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
-+ [Framework Design Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/index)
++ [C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
++ [Framework Design Guidelines](https://learn.microsoft.com/en-us/dotnet/standard/design-guidelines/)
 
 ### Clojure
 
@@ -76,7 +76,7 @@
 ### JavaScript
 
 + [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml)
-+ [更新] [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
++ [UPDATED] [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 + [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js#readme)
 + [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript#readme)
 + [JavaScript: The Right Way](http://jstherightway.org/)
@@ -92,7 +92,7 @@
 
 + [Google Objective-C Style Guide](https://google.github.io/styleguide/objcguide.xml)
 + [NYTimes Objective-C Style Guide](https://github.com/NYTimes/objective-c-style-guide#readme)
-+ [The official raywenderlich.com Objective-C style guide](https://github.com/raywenderlich/objective-c-style-guide#readme)
++ [The official raywenderlich.com Objective-C style guide](https://github.com/kodecocodes/objective-c-style-guide#readme)
 
 ### PHP
 
@@ -105,17 +105,17 @@
 
 ### Python
 
-+ [PEP 8 - Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
++ [PEP 8 - Style Guide for Python Code](https://peps.python.org/pep-0008/)
 + [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 
 ### Ruby
 
-+ [The Ruby Style Guide](https://github.com/rubocop-hq/ruby-style-guide#readme)
-+ [Ruby Style Guidelines](http://www.caliban.org/ruby/rubyguide.shtml#style)
++ [Ruby Style Guide](https://github.com/rubocop/ruby-style-guide#readme)
++ [Ruby Style Guidelines](https://caliban.org/ruby/rubyguide.shtml#style)
 
 ### Rust
 
-+ [The Rust Style Guide](https://github.com/rust-dev-tools/fmt-rfcs/blob/master/guide/guide.md)
++ [Rust Style Guide](https://github.com/rust-lang/rust/tree/HEAD/src/doc/style-guide/src#rust-style-guide)
 
 ### Scala
 
@@ -133,7 +133,7 @@
 
 ### Swift
 
-+ [The Official raywenderlich.com Swift Style Guide](https://github.com/raywenderlich/swift-style-guide#readme)
++ [The Official Kodeco Swift Style Guide](https://github.com/kodecocodes/swift-style-guide#readme)
 
 ### Vimscript
 
@@ -148,31 +148,31 @@
 
 ### RSpec
 
-+ [Better Specs { rspec guidelines with ruby }](http://www.betterspecs.org/)
-+ [The RSpec Style Guide](https://github.com/rubocop-hq/rspec-style-guide#readme)
++ [Better Specs { rspec guidelines with ruby }](https://www.betterspecs.org/)
++ [RSpec Style Guide](https://github.com/rubocop/rspec-style-guide#readme)
 
 ### Rails
 
-+ [The Rails Style Guide](https://github.com/rubocop-hq/rails-style-guide#readme)
++ [Rails Style Guide](https://github.com/rubocop/rails-style-guide#readme)
 
 ### Vue
 
-+ [The official style guide for Vue-specific code](https://vuejs.org/v2/style-guide/)
++ [The official style guide for Vue-specific code](https://vuejs.org/style-guide/)
 
 ## Other
 
 ### API
 
 + [HTTP API Design Guide](https://github.com/interagent/http-api-design#readme)
-+ [良好的RESTful API原则
-  设计](https://web.archive.org/web/20190315165355/https://www.codeplanet.io/principles-good-restful-api-design/)
++ [Principles of good RESTful API
+  Design](https://web.archive.org/web/20190315165355/https://www.codeplanet.io/principles-good-restful-api-design/)
 + [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme)
 + [Building JSON-LD APIs: Best Practices](https://json-ld.org/spec/latest/json-ld-api-best-practices/)
 + [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
 
 ### Bots
 
-+ [Principles of bot design](https://docs.microsoft.com/en-us/azure/bot-service/bot-service-design-principles?view=azure-bot-service-3.0)
++ [Principles of bot design](https://learn.microsoft.com/en-us/previous-versions/azure/bot-service/bot-service-design-principles?view=azure-bot-service-3.0)
 + [General Best Practices](https://developers.facebook.com/docs/messenger-platform/introduction/general-best-practices)
 
 ### CLI
@@ -185,7 +185,7 @@
 
 ### Favicon
 
-+ [favicon-cheat-sheet](https://github.com/audreyr/favicon-cheat-sheet#readme)
++ [favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet#readme)
 
 ### iOS
 
@@ -223,7 +223,7 @@
 
 ### Writing
 
-+ [Writing style](https://atlassian.design/server/foundations/writing-style/)
++ [Writing style](https://atlassian.design/content/writing-style/)
 + [Documentation Style Guide](https://web.archive.org/web/20150320233932/http://docs.basho.com/riak/latest/community/style-guide/)
 + [Apple Style Guide](https://help.apple.com/asg/mac/2013/)
 + [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
@@ -231,9 +231,9 @@
 
 ## Contributing
 
-欢迎任何改进或建议！
+Any improvements or suggestions are welcome!
 See [Contribution Guides](https://github.com/NARKOZ/guides/blob/master/CONTRIBUTING.md).
 
 ---
 
-这项工作已获得许可 [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).
