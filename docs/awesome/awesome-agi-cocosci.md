@@ -150,7 +150,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [Rationalizing constraints on the capacity for cognitive control](https://www.sciencedirect.com/science/article/pii/S1364661321001480) - ***Trends in Cognitive Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=13065113821339619145&hl=en&as_sdt=2005&sciodt=0,5)].
 
-* [Why Imaginary Worlds? The psychological foundations and cultural evolution of fictions with imaginary worlds](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/why-imaginary-worlds/CA2AB4B1E1EDD8FE965E6DDB4A047B35) - ***Behavioral and Brain Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=11677245106477509648&hl=en&as_sdt=2005&sciodt=2005)]. A review of rationalization as imaginary worlds in fictions.
+* [Why Imaginary Worlds? The psychological foundations and cultural evolution of fictions with imaginary worlds](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/why-imaginary-worlds/CA2AB4B1E1EDD8FE965E6DDB4A047B35) - ***Behavioral and Brain Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=16985691366494688837)]. A review of rationalization as imaginary worlds in fictions. The perspective proposes that imaginary worlds co-opt our preferences for exploration, which have evolved in humans and nonhuman animals alike, to propel individuals toward new environments and new sources of reward. 
 
 
 #### Applications in AI

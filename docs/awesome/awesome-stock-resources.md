@@ -18,7 +18,6 @@ All the resources below have specifically specified that their content is [:copy
 * [Altphotos](https://altphotos.com) - Handpicked free high-resolution photos added daily.
 * [Barn Images](https://barnimages.com/) - Barn Images offers you a collection of free high-resolution non-stock photography.
 * [CC0.Photo](http://cc0.photo/) - CC0.photo is a project initiated by Raffael Herrmann, which serves you with free photos.
-* [Creative Commons Search](http://search.creativecommons.org/) - A meta search across several libraries to find adaptable / editable images.
 * [Crow the Stone](http://crowthestone.tumblr.com/) - Free photos to use any way you want.
 * [Cupcake](http://cupcake.nilssonlee.se/) - Free do what ever you want photos by [Jonas Nilsson Lee](https://twitter.com/nilsson_jonas).
 * [FindA.Photo](http://finda.photo/) - search through thousands of CC0 photos by keyword and color.
@@ -34,6 +33,7 @@ All the resources below have specifically specified that their content is [:copy
 * [MMT](https://mmtstock.com/) - New photos by [Jeffrey Betts](http://jeffreybetts.me/) added every week.
 * [Moveast](http://moveast.me/) - This is a journey of a Portuguese guy moving.
 * [Negative Space](https://negativespace.co/) - Stock photos added every week.
+* [Openverse](https://openverse.org) - A meta search across several libraries to find adaptable / editable images and audio files.
 * [Pexels](https://www.pexels.com/) - 20 new high-quality photos daily.
 * [Photo Crops](https://www.photocrops.com/) - Five high resolution photos added every week, sometimes more.
 * [Pickle Jar](http://www.picklejar.in/) - High-resolution images of everyday india. One new image every day.
@@ -221,15 +221,19 @@ A collection for icon font resources, most of which also include SVGs, which can
 
 A collection for SVG icon resources which can be used in your interface and website designs.
 
-* [Bootstrap Icons](https://icons.getbootstrap.com/) - [:copyright:](https://github.com/twbs/icons/blob/main/LICENSE.md) Free, high quality, open source icon library with over 1,800 icons. 
+* [Atlas Icons](https://atlasicons.vectopus.com/) - [:copyright:](https://opensource.org/licenses/MIT) 2,701 free consistent icons.
+* [BlendIcons](https://blendicons.com/) - [:copyright:](https://blendicons.com/page/licence) Free, world top icons.
+* [Bootstrap Icons](https://icons.getbootstrap.com/) - [:copyright:](https://github.com/twbs/icons/blob/main/LICENSE.md) Free, high quality, open source icon library with over 1,800 icons.
 * [Doodle Icons](https://khushmeen.com/icons.html) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) 400+ handcrafted icons free for your next project.
 * [Entypo](http://www.entypo.com/) - [:copyright:](https://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](http://www.danielbruce.se/).
+* [Flowbite](https://flowbite.com/icons/) - [:copyright:](https://opensource.org/licenses/MIT) Free and open-source SVG icons.
 * [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons) - [:copyright:](https://opensource.org/licenses/MIT) Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 * [Free Icons](https://www.iconshock.com/freeicons/) - A collection from all the open source icon collections available.
 * [Free Icons](https://icons.download/) - [:copyright:](https://icons.download/license) Open-source vector icons in 16 styles for any project.
 * [Game Icons](http://game-icons.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) A growing collection of SVG icons aimed mostly at video games.
 * [Heroicons](https://heroicons.com/) - [:copyright:](https://opensource.org/licenses/MIT) Beautiful, free SVG icons from the makers of Tailwind CSS.
 * [Humbleicons](https://humbleicons.com/) - [:copyright:](https://opensource.org/licenses/MIT) A pack of 227 simple, neutral, carefully crafted icons that you can use in your personal and commercial projects for free.
+* [Iconhunt](https://www.iconhunt.site/) - A search engine with 150.000+ free, open sources icons.
 * [Iconmonstr](https://iconmonstr.com/) - [:copyright:](https://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
 * [Iconoir](https://iconoir.com/) - [:copyright:](https://opensource.org/licenses/MIT) A Simple and Definitive Open-Source Icons Library.
 * [Lucide](https://lucide.dev/) - [:copyright:](https://lucide.dev/license) Beautiful & consistent icon toolkit made by the community.
@@ -291,6 +295,7 @@ Free resources for stock sound and music to be used on creative projects
 * [Jukedeck](https://www.jukedeck.com) - [:copyright:](https://www.jukedeck.com/licensing) Machine learning powered royalty-free original music.
 * [Sound Image](http://soundimage.org/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Over 1000 tracks of free music and sound effects for your projects by Eric Matyas.
 * [SoundBible](http://soundbible.com) - [:copyright:](http://soundbible.com/about.php) Thousands of free sound effects, sound clips, and straight up sounds.
+* [Tunetank](https://tunetank.com/) - [:copyright:](https://tunetank.com/license/) Exclusive royalty free music for YouTube videos without copyright claims.
 * [Unminus](https://www.unminus.com/) - [:copyright:](https://www.unminus.com/license) Download Royalty Free Music for YouTube Videos, Podcasts and Apps. No Copyright CC0 Music inspired by Unsplash.
 
 ## Paid Resources
