@@ -1345,6 +1345,8 @@ English-language description for use by biologists.
 
 * [Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences](https://www.pnas.org/doi/abs/10.1073/pnas.2016239118) - ***Proceedings of the National Academy of Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15181490380139888639&hl=en&as_sdt=0,5)].
 
+* [BioPlanner: Automatic Evaluation of LLMs on Protocol Planning in Biology](https://aclanthology.org/2023.emnlp-main.162/) - ***EMNLP'23***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=1222312709622462659)]. This paper presents an automatic evaluation framework for the task of planning experimental protocols, and introduces BioProt: a dataset of biology protocols with corresponding pseudocode representations.
+
 * [Comparability of automated human induced pluripotent stem cell culture: a pilot study](https://link.springer.com/article/10.1007/s00449-016-1659-9) - ***Bioprocess and Biosystems Engineering***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=14666375402220991095&hl=en&as_sdt=0,5)].
 
 * [ChemCrow: Augmenting large-language models with chemistry tools](https://openreview.net/forum?id=wdGIL6lx3l) - ***NeurIPS AI for Science Workshop***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=8711939262720486725&hl=en&as_sdt=0,5)]. [[Preprint](https://arxiv.org/abs/2304.05376)].
