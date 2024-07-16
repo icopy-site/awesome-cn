@@ -61,6 +61,11 @@ A knowledge collection of databases, software and papers related to computationa
   - [STRING](https://string-db.org/) - Protein-Protein Interaction Networks for several organisms.
   - [BioGRID](https://thebiogrid.org/) - Database of Protein, Genetic and Chemical Interactions.
   - [HIPPIE](http://cbdm-01.zdv.uni-mainz.de/~mschaefer/hippie/) - Human Protein-Protein Interaction database.
+- Knowledge Graph
+  - [Drug Mechanism Database (DrugMechDB)](https://github.com/SuLab/DrugMechDB/tree/2.0.1): database of the mechanism of action from a drug to a disease.
+ 
+## API
+- [PubMed esearch](https://www.nlm.nih.gov/dataguide/edirect/esearch.html): API for searching articles in PubMed.
 
 ## Preprocess
 
@@ -70,6 +75,10 @@ A knowledge collection of databases, software and papers related to computationa
 - [Seurat](https://satijalab.org/seurat/) - scRNA analysis library in R.
 
 ## Machine Learning Tasks and Models
+
+## Drug Response Prediction
+- [drGAT](https://github.com/inoue0426/drGAT): A model for drug response prediction with gene explainability with attention mechanism.
+- 
 
 ### Drug Repurposing
 
@@ -94,3 +103,6 @@ A knowledge collection of databases, software and papers related to computationa
 
 - [AI4Chem/ChemLLM-7B-Chat](https://huggingface.co/AI4Chem/ChemLLM-7B-Chat) - LLM for chemical and molecule science
 - [BioGPT](https://github.com/microsoft/BioGPT) - LLM for Biomedical text generation
+- [GeneGPT](https://github.com/ncbi/GeneGPT) - LLM for biomedical information with several API.
+- [GenePT](https://github.com/yiqunchen/GenePT) - foundation LLM for single cell data
+- 
