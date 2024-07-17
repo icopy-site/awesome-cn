@@ -62,6 +62,7 @@ Contributions are welcome. Please read the [contributing guideline](https://gith
 
 - [Beauty and the Beholder](https://www.youtube.com/watch?v=SPFsoO0ZWeg) - On the hidden stories in astro-images and how to tell them. A truly inspirational message from famous astrophotographer Adam Block.
 - [Deep Sky Astrophotography With CMOS Cameras by Dr Robin Glover](https://www.youtube.com/watch?v=3RH93UvP358) - How long should a sub-exposure be? How much to cool? What gain to use? Dr. Robin Glover of SharpCap talks us through the science behind deep sky astrophotography using modern CMOS imaging sensors.
+- [Noise and Astrophotography](https://www.youtube.com/watch?v=1PUTWfWgD0g) - In this presentation, Tim Hutchison from The Astro Imaging Channel talks about the different types of signal and noise that are present in astronomical photos. How noise impacts photography and what we can do against it.
 
 
 

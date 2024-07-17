@@ -275,6 +275,19 @@ become an Angular expert.
 
 ---
 
+#### AI
+
+* [Generative AI web development with Angular YouTube Video](https://www.youtube.com/watch?v=5FdtPwZrkGw)
+* [Workik](https://workik.com/angular-code-generator) - Free AI-Powered Angular code generator | Your Context-Driven AI Partner!
+* [Figma to Angular](https://www.builder.io/blog/figma-to-angular) - Convert Designs to Clean Angular Code in a Click.
+* [ai-test-gen-angular](https://github.com/DurgeshRathod/ai-test-gen-angular) - A powerful tool that leverages OpenAI's advanced capabilities to automate the generation of unit tests for your Angular components and services.
+* [Yes Chat AI](https://www.yeschat.ai/gpts-ZxX35UdX-Angular-Ninja-%F0%9F%A5%B7) - Angular Ninja - Angular Development Assistant.
+* [mini-bard-palm2-angular](https://github.com/gsans/mini-bard-palm2-angular) - Result from this [step by step guide](https://medium.com/google-cloud/build-ai-powered-angular-apps-with-google-gemini-5bf5e905ca1d#f02a) on how to integrate Google Gemini with Angular.
+* [gemini-angular-drawing-demo](https://github.com/mgechev/gemini-angular-drawing-demo) - Developer sample written in Angular demonstrating Gemini multimodal (image and audio) input and understanding. The user enters a prompt and the app generates images via VertexAI’s image generation which the user can after that preview in a three-dimensional gallery.
+* [Alan AI](https://alan.app/docs/tutorials/web/integrating-angular-app/) - Build a voice agent for an Angular app.
+* [Vishal Gosain Hashnode](https://vishugosain.hashnode.dev/integrating-open-ai-into-angular-application) - Integrate OpenAI into an Angular app.
+* [ng-text-to-image](https://github.com/desoga10/ng-text-to-image) - Build an AI Image Generator in Angular 17 Using the Clipdrop API || AI Text to Image Generator.
+
 #### Analytics
 
 * [Heap](https://help.heap.io/data-management/code-and-framework-management/using-heap-with-popular-web-frameworks-libraries/#angular) - Heap is the only digital insights platform that gives you complete understanding of your customers’ digital journeys, so you can quickly improve conversion, retention, and customer delight.
@@ -500,6 +513,7 @@ become an Angular expert.
 * [angular-starter-kit](https://github.com/svierk/angular-starter-kit) - Angular project template with Prettier, Linter, Git-Hooks and VS Code settings.
 * [fractal-boilerplate-lua-angular](https://github.com/FRACTAL-GAME-STUDIOS/fractal_boilerplate_lua_angular) - Basic Angular & Lua - FiveM Boilerplate: A streamlined starter kit for web and in-game development with hot builds and utility scripts.
 * [angular-nestjs-starter-kit](https://github.com/JangoCG/angular-nestjs-starter-kit) - Angular and NestJS Monorepo setup with NPM Workspaces and Github Actions.
+* [angular-sample-app](https://github.com/descope-sample-apps/angular-sample-app) - This sample app demonstrates how to integrate the [Descope](https://www.descope.com) authentication service into an Angular application. This application includes a login screen using Descope Angular SDK, a user dashboard to display user information and a navigation bar that dynamically adjusts based on the user's authentication state.
 
 ##### Paid
 
@@ -862,6 +876,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ng-vibe](https://github.com/boris-jenicek/ng-vibe) - Designed for Angular 17+, these tools (drawer, dialog, toastify,timer, service-locator) are here to enhance your development process with dynamic and efficient solutions.
 * [angular-kit](https://github.com/mikelgo/angular-kit) - A set of powerful Angular tools including pipes, lifecycle hooks, and reactive enhancements.
 * [angular-ru-sdk](https://github.com/Angular-RU/angular-ru-sdk) - A set of tool chains that implement common interaction patterns while being unopinionated about their presentation. It represents an abstraction of the core functionalities found in Angular.
+* [dfts-common](https://github.com/Dafnik/dfts-common) - Collection of TypeScript and Angular libraries (QR Code, Bootstrap table and icons, and other utilities).
 
 #### Modals
 
@@ -1071,6 +1086,7 @@ for the creation of web applications developed with Angular.
 * [ng-dynamic-mf](https://github.com/LoaderB0T/ng-dynamic-mf) - Truly dynamic modules at runtime with Module Federation.
 * [ngx-font-picker](https://github.com/zefoy/ngx-font-picker) - Google fonts font picker widget for Angular.
 * [ngx-flagr](https://github.com/pBouillon/ngx-flagr) - Effortless feature flag management in Angular.
+* [module-federation-plugin](https://github.com/angular-architects/module-federation-plugin) - Module Federation allows loading separately compiled and deployed code (like micro frontends or plugins) into an application. This plugin makes Module Federation work together with Angular and the CLI.
 
 ---
 
