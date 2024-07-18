@@ -223,6 +223,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [korandoru/setup-zig](https://github.com/korandoru/setup-zig) - Set up a specific version of Zig environment on GitHub Actions.
 * [weskoerber/zvm](https://github.com/weskoerber/zvm) - POSIX-compliant bash script to manage multiple active Zig versions.
 * [vezel-dev/zig-sdk](https://github.com/vezel-dev/zig-sdk) - MSBuild SDK for building Zig, C, and C++ projects using the Zig compiler.
+* [aherrmann/rules_zig](https://github.com/aherrmann/rules_zig) - Bazel build rules for Zig.
 
 
 ### Package managers

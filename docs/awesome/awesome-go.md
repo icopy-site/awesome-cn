@@ -310,8 +310,7 @@ _Libraries for configuration parsing._
 - [conflate](https://github.com/the4thamigo-uk/conflate) - Library/tool to merge multiple JSON/YAML/TOML files from arbitrary URLs, validation against a JSON schema, and application of default values defined in the schema.
 - [env](https://github.com/caarlos0/env) - Parse environment variables to Go structs (with defaults).
 - [env](https://github.com/junk1tm/env) - A lightweight package for loading environment variables into structs.
-- [envcfg](https://github.com/tomazk/envcfg) - Un-marshaling environment variables to Go structs.
-- [envconf](https://github.com/ian-kent/envconf) - Configuration from environment.
+- [env](https://github.com/syntaqx/env) - An environment utility package with support for unmarshaling into structs
 - [envconfig](https://github.com/vrischmann/envconfig) - Read your configuration from environment variables.
 - [envh](https://github.com/antham/envh) - Helpers to manage environment variables.
 - [fig](https://github.com/kkyr/fig) - Tiny library for reading configuration from a file and from environment variables (with validation & defaults).
@@ -1564,6 +1563,7 @@ _**Unofficial** set of patterns for structuring projects._
 
 - [ardanlabs/service](https://github.com/ardanlabs/service) - A [starter kit](https://github.com/ardanlabs/service/wiki) for building production grade scalable web service applications.
 - [cookiecutter-golang](https://github.com/lacion/cookiecutter-golang) - A Go application boilerplate template for quick starting projects following production best practices.
+- [go-blueprint](https://github.com/Melkeydev/go-blueprint) - Allows users to spin up a quick Go project using a popular framework.
 - [go-module](https://github.com/octomation/go-module) - Template for a typical module written on Go.
 - [go-sample](https://github.com/zitryss/go-sample) - A sample layout for Go application projects with the real code.
 - [go-starter](https://github.com/allaboutapps/go-starter) - An opinionated production-ready RESTful JSON backend template, highly integrated with VSCode DevContainers.

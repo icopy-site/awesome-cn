@@ -48,7 +48,7 @@ Contributions are welcome. Please read the [contributing guideline](https://gith
 - [Capturing Galaxyset](https://www.paulschmitphotography.com/How-To-Guides/Capturing-Galaxyset) - A detailed tutorial on how to plan, execute and post-process a deepscape of the Andromeda galaxy aligned with a mountain in Southern Colorado.
 - [Chris White's Guide to Fixing Tilt and Spacing](https://www.overcastobservatory.com/product/guide-to-tilt-and-spacing-analysis/) - Annoying and hard to fix, tilt and spacing can ruin your imaging. This guide will help you eliminate them.
 - [Filters for Deep Sky Astrophotography](https://www.youtube.com/playlist?list=PLrzbdmripj1fIXrivZF1BT4BtJMZ6xvWo) - A video series that kicks off with a gentle introduction to filters and closes down comparing the most popular ones.
-- [Harry's PixInsight tutorials](http://www.harrysastroshed.com/Pixinsighthome.html) - Newcomer friendly, down-to-earth and comprehensive video tutorials. Regularly updated.
+- [Harry's PixInsight tutorials](http://www.harrysastroshed.com/Pixinsighthome.html) - Newcomer friendly, down-to-earth and comprehensive video tutorials.
 - [How to Eliminate Star Halos in PixInsight](https://digitalstars.wordpress.com/2019/10/27/tutorial-how-to-eliminate-star-halos-in-pixinsight/) - One of the more challenging issues in astrophotography. Charles Bracken, the author of "The Deep-Sky Imaging Primer", has you covered.
 - [How to Make a Padded Travel Box for Your Telescope](https://www.youtube.com/watch?v=90F_cBiZpH8) - Rig assembly on-site can be tedious. A more comfortable alternative is to assemble at home, then upon arrival at the imaging site, install on the mount.
 - [Light Vortex Astronomy's PixInsight tutorials](https://web.archive.org/web/20230509214425/https://www.lightvortexastronomy.com/tutorials.html) - An extensive collection of tutorials covering both pre- and post-processing workflows.
@@ -60,6 +60,7 @@ Contributions are welcome. Please read the [contributing guideline](https://gith
 
 ## Presentations
 
+- [Basic Statistics for Astro Imaging](https://www.youtube.com/watch?v=T_k9B01AeFM) - Having some understanding of statistics is essential in astrophotography. Here, noted astrophotographer and scientist John Hayes teaches the basics.
 - [Beauty and the Beholder](https://www.youtube.com/watch?v=SPFsoO0ZWeg) - On the hidden stories in astro-images and how to tell them. A truly inspirational message from famous astrophotographer Adam Block.
 - [Deep Sky Astrophotography With CMOS Cameras by Dr Robin Glover](https://www.youtube.com/watch?v=3RH93UvP358) - How long should a sub-exposure be? How much to cool? What gain to use? Dr. Robin Glover of SharpCap talks us through the science behind deep sky astrophotography using modern CMOS imaging sensors.
 - [Noise and Astrophotography](https://www.youtube.com/watch?v=1PUTWfWgD0g) - In this presentation, Tim Hutchison from The Astro Imaging Channel talks about the different types of signal and noise that are present in astronomical photos. How noise impacts photography and what we can do against it.

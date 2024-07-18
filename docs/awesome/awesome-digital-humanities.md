@@ -54,6 +54,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 - [Annotation Studio](https://app.annotationstudio.org/) - Suite of tools for collaborative web-based annotation, developed by MIT's HyperStudio. 
 - [CATMA](https://catma.de/) - Computer Assisted Text Markup and Analysis.
+- [Glycerine](https://glycerine.io/) - Provides a suite of IIIF image annotation tools and end-to-end workflows for researchers, curators and students to collaborate on projects across repositories and publish research ouputs.
 - [Recogito](https://recogito.pelagios.org/) - Semantic Annotation for images and texts.
 
 ## Data Augmentation
