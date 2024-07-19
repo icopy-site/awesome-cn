@@ -351,6 +351,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Piano example](https://github.com/gmclan-org/piano_example) - Example of playing intrument notes by changing pitch, using only one audio file.
 - [Compatibility scripts](https://github.com/gmclan-org/compatibility-scripts) - Scripts that are used by GM when importing GM:S 1.4 projects, taken directly from runtime files.
 - [Pause example](https://github.com/gmclan-org/pause_no_surface) - Simple example of a pause screen without using surfaces.
+- [Build Automation, CI/CD](https://gist.github.com/shichen85/887d237cdc4338fa3f4e4749a14990db) - Tutorial on using GitHub Actions as a CI/CD pipeline to automate building games.
 
 ## Blogs
 
