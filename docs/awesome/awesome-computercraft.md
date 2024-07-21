@@ -9,7 +9,12 @@
 
 **ComputerCraft** is a mod for Minecraft which adds computers which are programmable with the Lua programming language. **ComputerCraft: Tweaked** is a fork of the mod for newer Minecraft versions.
 
-This project lives [on GitHub](https://github.com/tomodachi94/awesome-computercraft) and might not render correctly on third-party websites. If you want to contribute, see [CONTRIBUTING.md](https://github.com/tomodachi94/awesome-computercraft/blob/master/./CONTRIBUTING.md). If you have other questions, see the [FAQ](https://github.com/tomodachi94/awesome-computercraft/blob/master/./FAQ.md).
+This project lives [on GitHub](https://github.com/tomodachi94/awesome-computercraft) and might not render correctly on third-party websites.
+
+If you think something should be added to the list, please [reach out](https://github.com/tomodachi94/awesome-computercraft/issues/new/choose).
+
+If you want to contribute, see [CONTRIBUTING.md](https://github.com/tomodachi94/awesome-computercraft/blob/master/./CONTRIBUTING.md).
+If you have other questions, see the [FAQ](https://github.com/tomodachi94/awesome-computercraft/blob/master/./FAQ.md).
 
 A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked, and `CC:R` is ComputerCraft: Restitched.
 

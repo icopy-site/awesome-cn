@@ -85,6 +85,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
 * [ava](https://github.com/avajs/ava) - 🚀 Futuristic JavaScript test runner
 * [Cypress](https://www.cypress.io/) - Complete end-to-end testing framework for anything that runs in a browser and beyond.
+* [WebdriverI/O](https://webdriver.io/) - Next-gen browser and mobile automation test framework for Node.js
 
 ### Assertion
 
@@ -177,6 +178,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Blockly](https://github.com/google/blockly) - A library that adds a visual code editor to web and mobile apps by Google.
 * [Million](https://github.com/aidenybai/million) - <1kb compiler-focused virtual DOM. It's fast!
 * [Whatsup](https://github.com/whatsup/whatsup) - A frontend framework for chillout-mode development 🥤. JSX components on generators, fast mobx-like state management and exclusive cssx style system.
+* [Remult](https://github.com/remult/remult) - A CRUD framework for full-stack TypeScript.
 
 ## Node-Powered CMS Frameworks
 
@@ -394,6 +396,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [map-countdown](https://github.com/dawidjaniga/map-countdown) - A browser countdown built on top of the Google Maps.
 * [dayjs](https://github.com/iamkun/dayjs) - Day.js 2KB immutable date library alternative to Moment.js with the same modern API.
 * [luxon](https://github.com/moment/luxon) - Luxon is a library for working with dates and times in JavaScript.
+* [tempo](https://github.com/formkit/tempo) - Parsing, formatting, and timezones — Tempo is a small tree-shakable library for native Date objects.
 
 ## String
 *String Libraries.*
@@ -562,6 +565,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [benchmark.js](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
 * [matcha](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
+* [bencher](https://github.com/bencherdev/bencher) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
 
 ## Web Worker
 
@@ -917,6 +921,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Gatsby.js](https://github.com/gatsbyjs/gatsby) - React-based static site generator.
 * [Gridsome](https://github.com/gridsome/gridsome) - Vue-powered static site generator.
 * [Next.js](https://github.com/vercel/next.js) - React powered static site generator, and they say "All the tools you need to make the Web. Faster.".
+* [Lume](https://github.com/lumeland/lume) - Static site generator for Deno.
 
 ## SDK
 
@@ -970,6 +975,7 @@ https://listjs.com
 * [JavaScript Tutorials](https://hackr.io/tutorials/learn-javascript) - Learn Javascript online from a diverse range of user ranked online tutorials.
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) - Pragmatic, balanced FP in JavaScript.
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript.
+* [Roadmap.sh JavaScript Roadmap](https://roadmap.sh/javascript) - Learn JavaScript from a community sourced learning roadmap.
 
 
 ## Other Awesome Lists
