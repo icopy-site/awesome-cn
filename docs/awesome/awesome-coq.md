@@ -54,6 +54,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [CertiGraph](https://github.com/Salamari/CertiGraph) - Library for reasoning about directed graphs and their embedding in separation logic.
 - [CoLoR](https://github.com/fblanqui/color) - Library on rewriting theory, lambda-calculus and termination, with sub-libraries on common data structures extending the Coq standard library.
 - [coq-haskell](https://github.com/jwiegley/coq-haskell) - Library smoothing the transition to Coq for Haskell users.
+- [Coq-Kruskal](https://github.com/DmxLarchey/Coq-Kruskal) - Collection of libraries related to rose trees and Kruskal's tree theorem.
 - [CoqInterval](https://gitlab.inria.fr/coqinterval/interval/) - Tactics for performing proofs of inequalities on expressions of real numbers.
 - [Coq record update](https://github.com/tchajed/coq-record-update) - Library which provides a generic way to update Coq record fields.
 - [Coq-std++](https://gitlab.mpi-sws.org/iris/stdpp) - Extended alternative standard library for Coq.
@@ -262,4 +263,4 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 - [Lemma Overloading](https://github.com/coq-community/lemma-overloading) - Demonstration of design patterns for programming and proving with canonical structures.
 - [MathComp Tutorial Materials](https://github.com/math-comp/tutorial_material) - Source code for Mathematical Components tutorials.
 - [Mike Nahas's Coq Tutorial](https://mdnahas.github.io/doc/nahas_tutorial.html) - Basics of using Coq to write formal proofs.
-- [Tricks in Coq](https://github.com/tchajed/coq-tricks) - Tips, tricks, and features that are hard to discover.
+- [Tricks in Coq](https://github.com/coq-community/coq-tricks) - Tips, tricks, and features in Coq that are hard to discover.
