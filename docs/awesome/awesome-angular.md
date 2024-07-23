@@ -356,6 +356,7 @@ become an Angular expert.
 * [mantis-cli](https://github.com/mantis-apps/mantis-cli) - M.A.N.T.I.S (MongoDB, Angular with Analog, Nx, Tailwind CSS, Ionic, Storybook) is not just a CLI tool; it's your passport to a seamless full-stack project launch.
 * [angular-serve-and-run](https://github.com/dot-build/angular-serve-and-run) - Serve your Angular CLI project then run a command on top of it.
 * [ngx-starter](https://github.com/bluehalo/ngx-starter) - An [@angular/cli](https://github.com/angular/angular-cli) based starter containing common components and services as well as a reference site.
+* [ngx-stylesweep](https://github.com/BernardoGiordano/ngx-stylesweep) - A CLI tool that removes empty style files from your Angular components.
 
 #### Deployment
 
@@ -365,6 +366,7 @@ become an Angular expert.
 * [Netlify](https://docs.netlify.com/frameworks/angular/) - Angular applications on Netlify can benefit from integrations such as automatic framework detection and built-in redirects functionality.
 * [angular-cli-ghpages](https://github.com/angular-schule/angular-cli-ghpages) - SSR does not work, and there can be some caveats, but you can host your Angular project on GitHub Pages.
 * [ngx-aws-deploy](https://github.com/Jefiozie/ngx-aws-deploy) - Deploy your Angular app to Amazon S3 directly from the Angular CLI.
+* [analog-publish-gh-pages](https://github.com/k9n-dev/analog-publish-gh-pages) - A Github Action for the Deployment of an [Analog.js](https://analogjs.org) App on Github Pages.
 
 #### Developer tools
 
@@ -528,6 +530,7 @@ become an Angular expert.
 * [angular-nestjs-starter-kit](https://github.com/JangoCG/angular-nestjs-starter-kit) - Angular and NestJS Monorepo setup with NPM Workspaces and Github Actions.
 * [angular-sample-app](https://github.com/descope-sample-apps/angular-sample-app) - This sample app demonstrates how to integrate the [Descope](https://www.descope.com) authentication service into an Angular application. This application includes a login screen using Descope Angular SDK, a user dashboard to display user information and a navigation bar that dynamically adjusts based on the user's authentication state.
 * [Angular-18-boilerplate](https://github.com/Gentleman-Programming/Angular-18-boilerplate)
+* [angular-and-firebase-template](https://github.com/FullStacksDev/angular-and-firebase-template) - An opinionated full-stack starting point for building a web app, using Angular and Firebase.
 
 ##### Paid
 
