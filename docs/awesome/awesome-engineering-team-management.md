@@ -22,14 +22,14 @@
   — Tom DeMarco<sup id="intro-quote-ref"><a href="#intro-quote-def">[1]</a></sup>
 </p>
 
-A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) list **for software developers to transition to an engineering management role**. Compiles advices, anecdotes, knowledge tidbits, discussions, industry small-talks and rants. A bibliography of sort, gathered the last few years while [transitioning my career from a software engineer to an engineer's manager](https://devtomanager.com/interviews/kevin-deldycke/). And later from a manager to a manager's managers (you all love recursion right? ʘ‿ʘ).
+A curated [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) list **for software developers to transition to an engineering management role**. Compiles advice, anecdotes, knowledge tidbits, discussions, industry small-talks and rants. A bibliography of sort, gathered the last few years while [transitioning my career from a software engineer to an engineer's manager](https://devtomanager.com/interviews/kevin-deldycke/). And later from a manager to a manager's managers (you all love recursion right? ʘ‿ʘ).
 
 - You're a developer and wonders what it feels like to be a manager?
 - You just started your first position as the leader of a team?
 - You're stuck into the day-to-day operations of the job?
 - How can I move up to the next level?
 
-You'll find answers in this guide! It stands out from generic leadership and management literature, by providing uncompromising insights and practical advices. It will bootstrap your journey into the management career track, from a technical background.
+You'll find answers in this guide! It stands out from generic leadership and management literature, by providing uncompromising insights and practical advice. It will bootstrap your journey into the management career track, from a technical background.
 
 This list helps in the transition to management, with a progression from general to specifics. It starts with an overview of the role, then describes its requirements, and its position relative to others. Then we details the day-to-day tools of the trade, both organizational and behavioral. At last we discuss some of the dark sides of the job.
 
@@ -211,7 +211,7 @@ High-growth company will all need to industrialize the hiring process at one poi
 
 - [Why I Never Hire Brilliant Men](https://en.wikisource.org/wiki/Why_I_Never_Hire_Brilliant_Men) - 5 simple rules for hiring men, from 1924. Things haven't changed a lot in a century.
 
-- [A Good Tech Resume](https://thetechresume.com/A_Good_Tech_Resume.pdf) - A compilation of advices and example, but containing a good description of a typical hiring pipeline.
+- [A Good Tech Resume](https://thetechresume.com/A_Good_Tech_Resume.pdf) - A compilation of advice and example, but containing a good description of a typical hiring pipeline.
 
 - [Job Interviewing Guide](https://www.homerun.co/artofwork/guides/job-interviewing) - A detailed description of a hiring process, a great source of inspiration for when your company gets big enough to start to formalize things up.
 
@@ -771,7 +771,7 @@ The various forms of technical writing, their structure and target audience.
 
 ### Writing
 
-General advices on how to convey meaning and clarity by mastering the style. If badly written, your documentation is likely to have poor usage and utility.
+General advice on how to convey meaning and clarity by mastering the style. If badly written, your documentation is likely to have poor usage and utility.
 
 - [How to Write a Technical Paper](https://pdfs.semanticscholar.org/441f/ac7c2020e1c8f0d32adffca697bbb8a198a1.pdf) - Serves as a guideline on how to write a good technical paper, in the form of a typical journal publication.
 
@@ -797,7 +797,7 @@ General advices on how to convey meaning and clarity by mastering the style. If 
 
 ### Style
 
-Once you have the right structure and content thanks to advices above, you can now copy-edit and fine tune your style with the tools below.
+Once you have the right structure and content thanks to advice above, you can now copy-edit and fine tune your style with the tools below.
 
 - [Please don't say just hello in chat](https://nohello.net/en/) - When properly used, interactive written medium allows for asynchronous communication.
 
@@ -1082,6 +1082,8 @@ Sometimes, you just have to call it quits.
 - “[Good business mafias form](https://marker.medium.com/where-do-business-mafias-come-from-34f47b33eecd) when there's a group of people who all have to quit their job for reasons that are exogenous to their performance. In the case of Paypal, it was an acquisition; at Tiger Management, a few years of underperformance; at Drexel Burnham Lambert, an indictment. In Reliance's case, the core group of early employees fled the port of Aden due to unrest and the withdrawal of the British.” ([source](https://diff.substack.com/p/to-understand-jio-you-need-to-understand)) - And why mass exodus might be an opportunity for great new ventures.
 
 - “It was my experience that no single departure had any effect. Mass departures did, trends did, but one person never did, even when that person was a founder.” ([source](https://news.ycombinator.com/item?id=4324615)).
+
+- [As an Employee, You Are Disposable](https://nelson.cloud/as-an-employee-you-are-disposable/) - “It's okay to like your job and employer. Just understand that, as an employee, you are disposable.” Also: “This is not news. If you are loyal to your employer and do not own a significant part of the organization, then you should take a good hard look at why you're loyal -- and whether or not your employer is loyal to you in return.” ([source](https://news.ycombinator.com/item?id=40943681)).
 
 - [P.T.'s Hidden Meaning](https://www.youtube.com/watch?v=yr4RvdREwl8) - How Hideo Kojima creatively used a playable teaser as a way to bypass NDA and to tell he story about the turmoil at Konami leading to his leaving of the company. But that only works if you're an influential and popular game designer.
 

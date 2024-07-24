@@ -197,6 +197,16 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular Design Patterns and Best Practices](https://github.com/PacktPublishing/Angular-Design-Patterns-and-Best-Practices) - `Packt Publishing`
 * [Angular for Enterprise Applications](https://angularforenterprise.com/home) - `Packt Publishing`
 
+##### Certification
+
+* [Certificates.dev](https://certificates.dev/angular) - Obtain your Certification of Competence as an Angular Developer. Launches July 30.
+* [Angular Academy CA](https://www.angularacademy.ca/angular-certification) - Angular Academy is the #1 provider of hands-on instructor-led classroom training in Canada!
+* [Hackerrank](https://www.hackerrank.com/skills-verification/angular_basic) - Angular (Basic) Skills Certification Test.
+* [Edureka](https://www.edureka.co/angular-training) - Angular Certification Course Online.
+* [Koenig](https://www.koenig-solutions.com/angularjs-training-certification-courses) - Various courses cover Angular separately or full-stack.
+* [Simplilearn](https://www.simplilearn.com/angular-certification-training-course) - Angular Certification Training Course
+* [Altitude CSI](https://altitudecsi.org/products/angular-certification-program) - Angular Certification Program.
+
 ##### Cheatsheet
 
 * [Past Angular Cheatsheet](https://v17.angular.io/guide/cheatsheet) - Note: *NEW* official docs do not have a cheatsheet.
@@ -367,6 +377,7 @@ become an Angular expert.
 * [angular-cli-ghpages](https://github.com/angular-schule/angular-cli-ghpages) - SSR does not work, and there can be some caveats, but you can host your Angular project on GitHub Pages.
 * [ngx-aws-deploy](https://github.com/Jefiozie/ngx-aws-deploy) - Deploy your Angular app to Amazon S3 directly from the Angular CLI.
 * [analog-publish-gh-pages](https://github.com/k9n-dev/analog-publish-gh-pages) - A Github Action for the Deployment of an [Analog.js](https://analogjs.org) App on Github Pages.
+* [Genezio](https://github.com/Genez-io/genezio) - The easiest way to write and host a serverless application.
 
 #### Developer tools
 
@@ -455,6 +466,7 @@ become an Angular expert.
 * [angular-tauri](https://github.com/maximegris/angular-tauri) - Ultra-fast bootstrapping with Angular and Tauri.
 * [ngx-three](https://github.com/demike/ngx-three) - Use [Three.js](https://threejs.org) with your Angular project in a declarative way.
 * [ngx-facebook-messenger](https://github.com/SkyZeroZx/ngx-facebook-messenger) - Ngx Facebook Messenger offers a lightweight alternative that optimizes user experiences by significantly reducing initial load size, ensuring smoother page performance, and enhancing overall website efficiency.
+* [angular-sdk-plugin](https://github.com/splitio/angular-sdk-plugin) - This repository contains a plugin for the Angular framework that integrates with the [Split](https://www.split.io) JS SDK.
 
 #### Internationalization
 
@@ -861,6 +873,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 #### Maps
 
 * [angular-cesium](https://github.com/TGFTech/angular-cesium) - Creating map based web apps using Cesium and Angular.
+* [cesium-angular-example](https://github.com/Developer-Plexscape/cesium-angular-example) - A simple web application that demonstrates integration of [Cesium](https://cesium.com) with the LATEST version of Angular.
 * [ngx-mapbox-gl](https://github.com/Wykks/ngx-mapbox-gl) - Angular binding of mapbox-gl-js.
 * [ng-maps](https://github.com/ng-maps/ng-maps) - Modular map components for angular.
 * [ngx-leaflet](https://github.com/bluehalo/ngx-leaflet) - Core Leaflet package for Angular.io.
@@ -1110,6 +1123,7 @@ for the creation of web applications developed with Angular.
 * [ngx-font-picker](https://github.com/zefoy/ngx-font-picker) - Google fonts font picker widget for Angular.
 * [ngx-flagr](https://github.com/pBouillon/ngx-flagr) - Effortless feature flag management in Angular.
 * [module-federation-plugin](https://github.com/angular-architects/module-federation-plugin) - Module Federation allows loading separately compiled and deployed code (like micro frontends or plugins) into an application. This plugin makes Module Federation work together with Angular and the CLI.
+* [ng2-idle](https://github.com/moribvndvs/ng2-idle) - A module for responding to idle users in Angular applications.
 
 ---
 
