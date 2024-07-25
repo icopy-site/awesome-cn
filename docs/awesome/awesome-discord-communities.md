@@ -621,6 +621,26 @@ Notable Channels: `#general`, `#lua`, `#luvit`, `#luvi`, `#luv`, `#lit` \
 Language: English \
 <br>
 
+### Pascal
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/delphi_community.webp">
+
+[__Delphi Community__](https://discord.com/invite/c382VBk) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://delphi-community.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/Delphi-Community/Delphi-Community-Page) \
+Notable Channels: `#general-chat`, `#programming`, `#user-interface`, `#network`, `#database`, `#homework`, `#user-projects`, `#job-exchange` \
+Language: English, Deutsch, Pусский, Afrikaans, Português, Español, Français
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/delphi_programmers.webp">
+
+[__Delphi Programmers__](https://discord.gg/invite/ZhtCdRzqQ4) \
+Notable Channels: `#general`, `#general-rad-studio`, `#rtl`, `#ide-tooling`, `#vcl`, `#fmx`, `#crossvcl`, `#general-web`, `#datasnap`, `#radserver`, `#tmswebcore`, `#skia4delphi` \
+Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/free_pascal.webp">
+
+[__Unofficial Free Pascal__](https://discord.gg/invite/mKPCyJ8) \
+Notable Channels: `#general`, `#support-free-pascal`, `#support-lazarus`, `#support-delphi`, `#support-misc`, `#projects`, `#resources` \
+Language: English
+
 ### PHP
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/flarum.webp">
@@ -642,6 +662,13 @@ Language: English \
 [__Laravel__](https://discord.com/invite/mPZNm7A) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://laravel.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/laravel) \
 Notable Channels: `#general`, `#cashier`, `#envoyer`, `#forge`, `#help`, `#homestead`, `#horizon`, `#hype`, `#internals`, `#lumen`, `#meetups`, `#nova`, `#passport`, `#jobs`\
 Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/php_community.webp">
+
+[__PHP Community Chat__](https://discord.gg/nh9QV3u39U) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://phpcommunity.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/phpcommunity) \
+Notable Channels: `#phpc`, `#php-internals`, `#php-doc`, `#php-internals`, `#phpc-foundation`\
+Language: English \
+<br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/tenancy.webp">
 
@@ -1711,6 +1738,13 @@ Language: English, عربي, español, polski
 [__Official Unity Discord__](https://discord.com/invite/unity) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://unity.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/Unity-Technologies) \
 Notable Channels: `#general-unity`, `#game-jams`, `#completed-projects`, `#unitytips`, `#general-code`, `#editor-extensions`, `#dots`, `#shaders`, `#mobile`, `#machine-learning`, __[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/master/badges.md#so-much-more)__ \
 Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/orx_community.webp">
+
+[__ORX Engine Community__](https://discord.com/invite/aC84aJJ) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://orx-project.org/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/orx) \
+Notable Channels: `#general`, `#support`, `#learning`, `#orx`, `#projects`, `#wiki`, `#live` \
+Language: English \
+<br>
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/panda3d.webp">
 
