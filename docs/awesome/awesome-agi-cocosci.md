@@ -386,7 +386,7 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [From Algorithmic to Subjective Randomness](https://proceedings.neurips.cc/paper/2003/hash/b06b5541a62ed438f956b662b4e1ec28-Abstract.html) - ***NeurIPS'03***, 2003. [[All Versions](https://scholar.google.com/scholar?cluster=14721764738308036578)].
 
-* [On the Complexity of Bayesian Generalization](https://proceedings.mlr.press/v202/shi23i.html) - ***ICML'23***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=5817813824878811147)]. [[Code](https://github.com/SHI-Yu-Zhe/bayesian-generalization-complexity)]. [[Models](https://drive.google.com/file/d/1eCuFqBYN8kuiAmoVtXWedXW0r0TdY55W/view)]. A concept complexity account for rule- and similarity-based Bayesian concept generalization. 
+* [On the Complexity of Bayesian Generalization](https://proceedings.mlr.press/v202/shi23i.html) - ***ICML'23***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=5817813824878811147)]. [[Code](https://github.com/SHI-Yu-Zhe/bayesian-generalization-complexity)]. [[Models](https://drive.google.com/file/d/1eCuFqBYN8kuiAmoVtXWedXW0r0TdY55W/view)]. This work studies the two computation modes of concept generalization in the natural visual spectrum, *i.e.*, rule-based and similarity-based generalization, when the problem space scales up and when the complexity of concepts becomes diverse.
 
 
 #### Dimensionality Reduction
