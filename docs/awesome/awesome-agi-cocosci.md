@@ -962,6 +962,7 @@ English-language description for use by biologists.
 
 * [Improvisation through Physical Understanding: Using Novel Objects as Tools with Visual Foresight](http://m.roboticsproceedings.org/rss15/p01.pdf) - ***RSS'19***, 2019. [[All Versions](https://scholar.google.com/scholar?cluster=4316276917607326251&hl=en&as_sdt=0,5)].
 
+* [Meta-strategy learning in physical problem-solving: the effect of embodied experience](https://escholarship.org/uc/item/5gf0m7x3) - ***CogSci'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9713842177532954702)]. [[Preprint]()]. This paper focuses on how natural embodied experience affects what kinds of abstract physical problem-solving strategies people use in a virtual task. The findings suggest that differences in embodied experience drive the acquisition of different meta-strategies for balancing acting with thinking, deciding what kinds of actions to try, and deciding how persistent to be with a current action plan.
 
 * [3D dynamic scene graphs: Actionable spatial perception with places, objects, and humans](https://arxiv.org/abs/2002.06289) - ***RSS'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=4428742298455436054&hl=en&as_sdt=0,5)]. A system for modeling 3D dynamic scene graphs on multiple levels (metric-semantic mesh, objects and agents, places and structures, rooms, and buildings).
 

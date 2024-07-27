@@ -50,6 +50,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular space](https://www.angularspace.com/) - Your Hub for Learning and Growing as an Angular Developer.
 * [opensauced pizza](https://app.opensauced.pizza/explore/topic/angular/dashboard/filter/recent) - Insights on GitHub repositories using the Angular topic.
 * [angular-memes](https://github.com/dzhavat/angular-memes) - A collection of Angular memes.
+* [ngx.tools](https://github.com/ngxtools/ngx.tools) - Discover Angular packages, libraries and schematics with this [search engine](https://ngx.tools).
+* [builtwith trends](https://trends.builtwith.com/framework/Angular) - Angular Usage Statistics.
 
 ##### Newsletters
 
@@ -182,20 +184,21 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ##### Books
 
-* [ng-book 2](https://www.ng-book.com/2/) - `fullstack.io`
-* [Become a ninja with Angular 2](https://books.ninja-squad.com/angular) - `Ninja Squad`
-* [Angular Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) - `Manning Publications`
-* [Angular in Action](https://www.manning.com/books/angular-in-action) - `Manning Publications`
-* [Practical Angular 2](https://leanpub.com/practical-angular-2) - `Leanpub`
-* [Switching to Angular 2](https://www.packtpub.com/product/switching-to-angular-2/9781785886201) - `Packt Publishing`
-* [Testing Angular Applications](https://www.manning.com/books/testing-angular-applications) - `Manning Publications`
+* [Packt Publishing](https://www.packtpub.com/en-us/search?query=angular&sort=best-selling) - Your best option to find the largest variety of up-to-date programming books.
+* [GumRoad](https://gumroad.com/software-development/web-development/javascript?tags=angular) - Various Free and Paid Angular ebooks.
+* [LeanPub](https://leanpub.com/bookstore?type=all&search=angular) - LeanPub has variable pricing so you can support authors as you see fit.
+* [Manning](https://www.manning.com/) - Buy a Manning pBook anywhere, get the eBook free here.
+* [Become a ninja with Angular](https://books.ninja-squad.com/angular) - `Ninja Squad`
 * [Angular-Buch (German)](https://angular-buch.com/) - `dpunkt.verlag`
-* [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) - `Ankit Sharma`
 * [Angular Cookbook - 80+ Recipes to enhance your Angular skills for enterprises](https://codewithahsan.dev/ng-book) - `Packt Publishing`
-* [Build a Frontend Web Framework (From Scratch)](https://www.manning.com/books/build-a-frontend-web-framework-from-scratch) - `Manning Publications`
-* [Modern Angular (FREE EBOOK)](https://www.angulararchitects.io/en/ebooks/modern-angular/?book) - `Manfred Steyer`
 * [Angular Design Patterns and Best Practices](https://github.com/PacktPublishing/Angular-Design-Patterns-and-Best-Practices) - `Packt Publishing`
 * [Angular for Enterprise Applications](https://angularforenterprise.com/home) - `Packt Publishing`
+* [Angular University Ebooks](https://angular-university.io/my-ebooks) - Available separately or included with a subscription.
+* [Mastering Angular Signals](https://angularexperts.io/products/ebook-signals) - `Kevin Kreuzer`
+* [Angular Book](https://github.com/DenysVuika/angular-book) - `Denys Vuika` **FREE**
+* [Modern Angular](https://www.angulararchitects.io/en/ebooks/modern-angular/?book) - `Manfred Steyer` **FREE**
+* [Ultimate Guide to Angular Evolution](https://houseofangular.io/the-ultimate-guide-to-angular-evolution/) - `House of Angular` **FREE**
+* [Micro Frontends and Moduliths with Angular](https://www.angulararchitects.io/en/ebooks/micro-frontends-and-moduliths-with-angular/) - `Manfred Steyer` **FREE**
 
 ##### Certification
 
@@ -886,6 +889,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ngx-remark](https://github.com/ericleib/ngx-remark) - Render markdown with custom Angular templates.
 * [ngx-markdown-editor](https://github.com/instance-oom/ngx-markdown-editor) - Angular markdown editor based on ace editor.
 * [angular-markdown-editor](https://github.com/ghiscoding/angular-markdown-editor) - Angular Markdown Editor. All-in-one Markdown Editor and Preview.
+* [ngx-markdoc](https://github.com/notiz-dev/ngx-markdoc) - [Markdoc](https://markdoc.dev) component for Angular applications.
 
 #### Mixed utilities
 
