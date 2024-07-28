@@ -1677,7 +1677,7 @@ English-language description for use by biologists.
 
 * [Learning Part-Based Abstractions for Visual Object Concepts](https://cogtoolslab.github.io/pdf/wang_cogsci_2021a.pdf) - ***CogSci'21***, 2021. [[All Versions](https://scholar.google.com/scholar?lookup=0&q=Learning+Part-Based+Abstractions+for+Visual+Object+Concepts&hl=en&as_sdt=0,5)].
 
-* [Program Synthesis with Large Language Models](https://arxiv.org/abs/2108.07732) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15213050540818392833&hl=en&as_sdt=0,5)].
+* [Program Synthesis with Large Language Models](https://arxiv.org/abs/2108.07732) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15213050540818392833)]. This paper explores the limits of the current generation of large language models for program synthesis in general purpose programming languages.
 
 * [Combining Functional and Automata Synthesis to Discover Causal Reactive Programs](https://dl.acm.org/doi/abs/10.1145/3571249) - ***POPL'23***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=10470162446663474225&as_sdt=0,5)]. A new algorithm that synthesizes functional reactive programs from observation data, which iterates between a functional synthesis step, which attempts to generate a transition function over observed states, and an automata synthesis step, which adds any additional latent state necessary to fully account for the observations.
 
