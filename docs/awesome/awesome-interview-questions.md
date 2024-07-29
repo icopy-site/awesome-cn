@@ -6,9 +6,9 @@
 				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="260"  alt="Doppler">	
 			</div>	
       <br>
-			<b>您所有的环境变量，集中在一个地方</b>	
-			<div>不要再为分散的 API 密钥而苦苦挣扎，不要将自制工具组合在一起，</div>
-			<div>并避免访问控制. 让您的团队和服务器与 Doppler 保持同步.</div>
+			<b>All your environment variables, in one place</b>	
+			<div>Stop struggling with scattered API keys, hacking together home-brewed tools,</div>
+			<div>and avoiding access controls. Keep your team and servers in sync with Doppler.</div>
 			</br>
 		</a>	
 	</p>	
@@ -16,11 +16,13 @@
 
 ## Awesome Interviews [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt; 精选的技术面试问题列表.
+This project is no longer actively supported.
+
+> A curated list of lists of technical interview questions.
 
 [What makes for an awesome list?](https://github.com/DopplerHQ/awesome-interview-questions/blob/master/awesome.md)
 
-请阅读 [contribution guidelines](https://github.com/DopplerHQ/awesome-interview-questions/blob/master/contributing.md) 或者 [creating a list guide](https://github.com/DopplerHQ/awesome-interview-questions/blob/master/create-list.md) 如果你想贡献.
+Please read the [contribution guidelines](https://github.com/DopplerHQ/awesome-interview-questions/blob/master/contributing.md) or [creating a list guide](https://github.com/DopplerHQ/awesome-interview-questions/blob/master/create-list.md) if you want to contribute.
 
 
 
