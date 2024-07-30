@@ -11,122 +11,122 @@
 <br>
   
 <p align="center">
-  <a href="ember-myths.md">Ember.js 神话</a>
-  <a href="ember-questions.md">读者提问</a>
-  <a href="https://help-wanted.emberjs.com/core">为 Ember.js 做贡献</a>
+  <a href="ember-myths.md">Ember.js Myths</a>&nbsp;&nbsp;&nbsp;
+  <a href="ember-questions.md">Readers Questions</a>&nbsp;&nbsp;&nbsp;
+  <a href="https://help-wanted.emberjs.com/core">Contribute to Ember.js</a>
 </p>
 
 <br>
 
 <p align="center">
-  <sub>只需输入<a href="https://ember.cool"><code>ember.cool</code></a>或<a href="https://ember-community-russia.github.io/awesome-ember/"><code>https://ember-community-russia.github.io/awesome-ember/</code></a>即可转到此处.</sub>
+  <sub>Just type <a href="https://ember.cool"><code>ember.cool</code></a> OR <a href="https://ember-community-russia.github.io/awesome-ember/"><code>https://ember-community-russia.github.io/awesome-ember/</code></a> to go here.</sub>
 </p>
 
 ---
 
-[Ember.js](https://emberjs.com) 是一个 JavaScript 框架，大大减少了所需的时间、精力和资源
-构建任何网络应用程序. 它专注于通过完成大多数 Web 开发项目中涉及的所有常见、重复但必不可少的任务，使您（开发人员）尽可能高效.
+[Ember.js](https://emberjs.com) is a JavaScript framework that greatly reduces the time, effort and resources needed
+to build any web application. It is focused on making you, the developer, as productive as possible by doing all the common, repetitive, yet essential, tasks involved in most web development projects.
 
-[Ember.js](https://emberjs.com) 还提供对 JavaScript、HTML 和浏览器最高级功能的访问，为您提供创建下一个杀手级 Web 应用程序所需的一切.
-
----
-
-*你可能还喜欢 [awesome-javascript](https://github.com/sorrycc/awesome-javascript).*
-*请阅读 [contribution guidelines](https://github.com/ember-community-russia/awesome-ember/blob/master/contributing.md) 在贡献之前.*
+[Ember.js](https://emberjs.com) also provides access to the most advanced features of JavaScript, HTML and the Browser giving you everything you need to create your next killer web app.
 
 ---
 
-- 很棒的 Ember.js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+*You might also like [awesome-javascript](https://github.com/sorrycc/awesome-javascript).*
+*Please read the [contribution guidelines](https://github.com/ember-community-russia/awesome-ember/blob/master/contributing.md) before contributing.*
+
+---
+
+- Awesome Ember.js [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 ## Packages
 ### AST
 
-- [ember-ast-helpers](https://github.com/cibernox/ember-ast-helpers) - 这个库是一个实用工具带，可以使 AST 转换并尽可能地保护用户免受 AST 的细微差别，因为它仍然是私有 API.
-- [ember-template-recast](https://github.com/ember-template-lint/ember-template-recast) - 非破坏性模板转换器.
-- [jscodeshift](https://github.com/facebook/jscodeshift) - 一个 JavaScript codemod 工具包.
-- [dyfactor](https://github.com/dyfactor/dyfactor) - 基于运行时信息运行代码模块的平台.
+- [ember-ast-helpers](https://github.com/cibernox/ember-ast-helpers) - This library is a utility belt to make AST transforms and shield users as much as possible from the nuances of the AST, as it is still private API.
+- [ember-template-recast](https://github.com/ember-template-lint/ember-template-recast) - Non-destructive template transformer.
+- [jscodeshift](https://github.com/facebook/jscodeshift) - A JavaScript codemod toolkit.
+- [dyfactor](https://github.com/dyfactor/dyfactor) - A platform for running codemods based on runtime information.
 
 ### a11y
 
-- [ember-accessibility](https://github.com/coyote-labs/ember-accessibility) - 插件可帮助识别开发过程中的可访问性违规行为.
-- [e-a11y-modal](https://github.com/MelSumner/e-a11y-modal) - 可访问的 Ember.js 应用程序的简单模式.
-- [ember-a11y-landmarks](https://github.com/ember-a11y/ember-a11y-landmarks) - Ember.js 插件帮助具有里程碑意义的角色以提高可访问性.
-- [ember-a11y](https://github.com/ember-a11y/ember-a11y) - 一组用于构建可访问的 Ember.js 应用程序的工具.
-- [ember-component-focus](https://github.com/ember-a11y/ember-component-focus) - 用于向您的 Ember.js 组件添加方法的 mixin，可帮助您管理当前聚焦的元素.
-- [ember-gestures](https://github.com/html-next/ember-gestures) - Ember.js 手势提供了一种使用手势的简单方法，使在整个应用程序中定义和使用 HammerJS 管理器和识别器变得简单.
-- [ember-steps](https://github.com/rwjblue/ember-steps) - 声明式创建向导、选项卡式 UI 等.
-- [ember-page-title](https://github.com/tim-evans/ember-page-title) - Ember.js 应用程序的页面标题管理.
-- [ember-self-focused](https://github.com/linkedin/self-focused/tree/master/packages/ember-self-focused) - 专注于过渡路线.
-- [ember-keyboard](https://github.com/patience-tema-baron/ember-keyboard) - 用于无痛支持键盘事件的 Ember.js 插件.
-- [ember-a11y-testing](https://github.com/ember-a11y/ember-a11y-testing) - 一套可在 Ember.js 测试框架内运行的可访问性测试.
-- [a11y-announcer](https://github.com/ember-a11y/a11y-announcer) - 可访问的 ember 路线更改播音员.
-- [ember-a11y-refocus](https://github.com/MelSumner/ember-a11y-refocus) - 为 Ember 应用程序提供不显眼的导航叙述元素.
+- [ember-accessibility](https://github.com/coyote-labs/ember-accessibility) - Addon to help identify accessibility violations during development.
+- [e-a11y-modal](https://github.com/MelSumner/e-a11y-modal) - A simple modal for accessible Ember.js applications.
+- [ember-a11y-landmarks](https://github.com/ember-a11y/ember-a11y-landmarks) - Ember.js addon to help with landmark roles for better accessibility.
+- [ember-a11y](https://github.com/ember-a11y/ember-a11y) - A collection of tools to build accessible Ember.js applications.
+- [ember-component-focus](https://github.com/ember-a11y/ember-component-focus) - A mixin for adding methods to your Ember.js components that help you manage the currently focused element.
+- [ember-gestures](https://github.com/html-next/ember-gestures) - Ember.js gestures provides an easy way to use gestures by making it simple to define and use HammerJS managers and recognizers throughout your app.
+- [ember-steps](https://github.com/rwjblue/ember-steps) - Declarative create wizards, tabbed UIs, and more.
+- [ember-page-title](https://github.com/tim-evans/ember-page-title) - Page title management for Ember.js Apps.
+- [ember-self-focused](https://github.com/linkedin/self-focused/tree/master/packages/ember-self-focused) - Focus on route on transition.
+- [ember-keyboard](https://github.com/patience-tema-baron/ember-keyboard) - An Ember.js addon for the painless support of keyboard events.
+- [ember-a11y-testing](https://github.com/ember-a11y/ember-a11y-testing) - A suite of accessibility tests that can be run within the Ember.js testing framework.
+- [a11y-announcer](https://github.com/ember-a11y/a11y-announcer) - An accessible ember route change announcer.
+- [ember-a11y-refocus](https://github.com/MelSumner/ember-a11y-refocus) - Provides an unobtrusive navigation narration element for Ember applications.
 
 ### Adapters
 
-- [ember-cli-markdown-resolver](https://github.com/willviles/ember-cli-markdown-resolver) - 用于解析自定义文件夹中的降价文件并通过服务检索内容的 Ember CLI 插件.
-- [ember-cloud-firestore-adapter](https://github.com/rmmmp/ember-cloud-firestore-adapter) - 用于 Cloud Firestore 的非官方 Ember 数据适配器和序列化程序.
-- [ember-data-hal-9000](https://github.com/201-created/ember-data-hal-9000) - 提供 HAL 适配器 (HATEOAS) 的 ember-data 兼容 ember-cli 插件.
-- [ember-django-adapter](https://github.com/dustinfarris/ember-django-adapter) - 用于 Django REST 框架的 Ember CLI 插件适配器.
-- [ember-graphql-adapter](https://github.com/alphasights/ember-graphql-adapter) - 用于 Ember 数据的 GraphQL 适配器.
-- [ember-indexeddb](https://github.com/mydea/ember-indexeddb) - 在 ember 和 ember-data 中使用 IndexedDB 的实用程序和适配器.
-- [ember-localforage-adapter](https://github.com/genkgo/ember-localforage-adapter) - Ember 数据的离线使用.
-- [ember-local-storage](https://github.com/funkensturm/ember-local-storage) - 插件为计算属性提供存储，返回代理并将更改保存到 localStorage 或 sessionStorage.
-- [ember-pouch](https://github.com/pouchdb-community/ember-pouch) - 用于 Ember 数据的 PouchDB/CouchDB 适配器.
-- [ember-wordpress](https://github.com/oskarrough/ember-wordpress) - Ember.js 和 WordPress 之间的桥梁.
-- [emberfire](https://github.com/firebase/emberfire) - Firebase 的官方 Ember 数据适配器.
-- [ninjafire](https://github.com/lineupninja/ninjafire) - 用 Typescript 编写的用于 Firebase 的 ORM.
+- [ember-cli-markdown-resolver](https://github.com/willviles/ember-cli-markdown-resolver) - Ember CLI addon for resolving markdown files in custom folders and retrieving content via a service.
+- [ember-cloud-firestore-adapter](https://github.com/rmmmp/ember-cloud-firestore-adapter) - Unofficial Ember Data Adapter and Serializer for Cloud Firestore.
+- [ember-data-hal-9000](https://github.com/201-created/ember-data-hal-9000) - An ember-data compatible ember-cli addon that provides a HAL adapter (HATEOAS).
+- [ember-django-adapter](https://github.com/dustinfarris/ember-django-adapter) - Ember CLI addon adapter for Django REST Framework.
+- [ember-graphql-adapter](https://github.com/alphasights/ember-graphql-adapter) - GraphQL adapter for Ember Data.
+- [ember-indexeddb](https://github.com/mydea/ember-indexeddb) - Utilities & adapter to work with IndexedDB in ember & ember-data.
+- [ember-localforage-adapter](https://github.com/genkgo/ember-localforage-adapter) - Offline usage for Ember Data.
+- [ember-local-storage](https://github.com/funkensturm/ember-local-storage) - The addon provides a storage for computed property that returns a proxy and persists the changes to localStorage or sessionStorage.
+- [ember-pouch](https://github.com/pouchdb-community/ember-pouch) - PouchDB/CouchDB adapter for Ember Data.
+- [ember-wordpress](https://github.com/oskarrough/ember-wordpress) - The bridge between Ember.js and WordPress.
+- [emberfire](https://github.com/firebase/emberfire) - Official Ember Data adapter for Firebase.
+- [ninjafire](https://github.com/lineupninja/ninjafire) - An ORM for Firebase written in Typescript.
 
 ### Animations
 
 - [ember-animated](https://github.com/ember-animation/ember-animated) - [Web Animations with Ember js](https://www.youtube.com/watch?v=TSvnutA9PUE)
-- [liquid-fire](https://github.com/ember-animation/liquid-fire) - 雄心勃勃的 Ember.js 应用程序的动画和过渡.
+- [liquid-fire](https://github.com/ember-animation/liquid-fire) - Animations & transitions for ambitious Ember.js applications.
 
 ### Authentication
 
 - [ember-cli-simple-auth-extensions](https://emberobserver.com/categories/ember-cli-simple-auth-extensions)
-- [ember-simple-auth](https://github.com/simplabs/ember-simple-auth) - 用于在 Ember.js 应用程序中实现身份验证/授权的库.
-- [tori](https://github.com/Vestorly/torii) - Ember.js 中一组用于身份验证的简洁抽象.
+- [ember-simple-auth](https://github.com/simplabs/ember-simple-auth) - A library for implementing authentication/authorization in Ember.js applications.
+- [tori](https://github.com/Vestorly/torii) - A set of clean abstractions for authentication in Ember.js.
 
 ### Automation
 
-- [ember-cli-deploy](https://github.com/ember-cli-deploy/ember-cli-deploy) - Ember CLI 应用程序的部署管道.
-- [ember-cli-deploy-webhooks](https://github.com/simplabs/ember-cli-deploy-webhooks) - 用于在部署期间调用 webhook 的 Ember CLI Deploy 插件.
-- [ember-cli-release](https://github.com/shipshapecode/ember-cli-release) - 用于版本化发布管理的 Ember CLI 插件.
-- [ember-cli-sri](https://github.com/jonathanKingston/ember-cli-sri) - 此插件用于为 ember 应用程序生成子资源完整性 (SRI) 哈希.
-- [ember-cli-dependency-lint](https://github.com/salsify/ember-cli-dependency-lint) - 整理您应用程序的插件依赖项，确保每个插件只有一个版本.
+- [ember-cli-deploy](https://github.com/ember-cli-deploy/ember-cli-deploy) - A deployment pipeline for Ember CLI apps.
+- [ember-cli-deploy-webhooks](https://github.com/simplabs/ember-cli-deploy-webhooks) - Ember CLI Deploy plugin for calling webhooks during deployments.
+- [ember-cli-release](https://github.com/shipshapecode/ember-cli-release) - Ember CLI addon for versioned release management.
+- [ember-cli-sri](https://github.com/jonathanKingston/ember-cli-sri) - This plugin is used to generate Subresource Integrity (SRI) hashes for ember applications.
+- [ember-cli-dependency-lint](https://github.com/salsify/ember-cli-dependency-lint) - Lint your app's addon dependencies, making sure you only have one version of each.
 
 ### Benchmarking
 
-- [ember-macro-benchmark](https://github.com/krisselden/ember-macro-benchmark) - 运行 2 个版本的 Ember.js 的 ember 应用程序的基准测试记录.
-- [ember-performance](https://github.com/eviltrout/ember-performance) - 一套用于 Ember.js 的测试以帮助提高性能.
-- [emberperf](http://emberperf.eviltrout.com) - Ember.js 性能（版本之间）.
+- [ember-macro-benchmark](https://github.com/krisselden/ember-macro-benchmark) - Benchmark recording of an ember app with running with 2 versions of Ember.js.
+- [ember-performance](https://github.com/eviltrout/ember-performance) - A suite of tests for Ember.js to help with performance.
+- [emberperf](http://emberperf.eviltrout.com) - Ember.js Performance (Between versions).
 
 ### Blogging
 
-- [empress-blog](https://github.com/empress/empress-blog) - 基于 Ember.js 构建的博客系统的全功能、SEO 友好的静态站点实现.
-- [ember-cli-blog](https://github.com/broerse/ember-cli-blog) - 为 Ember CLI 更新了 Tom Dale 的博客示例.
-- [ember-tumblr](https://github.com/elwayman02/ember-tumblr) - 用于集成 Tumblr 博客的 Ember.js 插件.
+- [empress-blog](https://github.com/empress/empress-blog) - Fully-functional, SEO friendly static site implementation of a blog system built on Ember.js.
+- [ember-cli-blog](https://github.com/broerse/ember-cli-blog) - Tom Dale's blog example updated for the Ember CLI.
+- [ember-tumblr](https://github.com/elwayman02/ember-tumblr) - Ember.js Addon for integrating a Tumblr blog.
 
 ### Babel
 
-- [ember-cli-babel-plugin-helpers](https://github.com/dfreeman/ember-cli-babel-plugin-helpers) - 用于在 Ember CLI 应用程序和插件中管理 Babel 插件的实用程序.
+- [ember-cli-babel-plugin-helpers](https://github.com/dfreeman/ember-cli-babel-plugin-helpers) - Utilities for managing Babel plugins in Ember CLI apps and addons.
 
 ### Boilerplating
 
-- [ember-boilerplate](https://github.com/mirego/ember-boilerplate) - 我们在 Mirego 构建 Ember.js 项目的稳定基础. 
+- [ember-boilerplate](https://github.com/mirego/ember-boilerplate) -  The stable base upon which we build our Ember.js projects at Mirego. 
 
 
 ### Broccoli
 
-- [broccoli-concat-analyser](https://github.com/stefanpenner/broccoli-concat-analyser) - 资产概况.
-- [broccoli-debug](https://github.com/broccolijs/broccoli-debug) - 构建管道作者的实用程序，允许对他们创作的 Broccoli 管道进行简单的调试.
-- [broccoli-stew](https://github.com/stefanpenner/broccoli-stew) - 为开发基于西兰花的构建管道提供常用的便利功能.
-- [broccolijs-tutorial](https://github.com/oligriffiths/broccolijs-tutorial) - Broccoli.js 教程存储库.
-- [broccoli-rollup](https://github.com/chadhietala/broccoli-rollup) - “汇总”的西兰花插件.
-- [broccoli-manifest](https://github.com/racido/broccoli-manifest) - 花椰菜的 HTML5 缓存清单编译.
-- [broccoli-glow](https://github.com/locks/broccoli-glow) - 从单个文件等动态创建组件.
+- [broccoli-concat-analyser](https://github.com/stefanpenner/broccoli-concat-analyser) - Assets profiling.
+- [broccoli-debug](https://github.com/broccolijs/broccoli-debug) - Utility for build pipeline authors to allow trivial debugging of the Broccoli pipelines they author.
+- [broccoli-stew](https://github.com/stefanpenner/broccoli-stew) - Provides commonly used convenience functions for developing broccoli based build pipelines.
+- [broccolijs-tutorial](https://github.com/oligriffiths/broccolijs-tutorial) - Broccoli.js Tutorial repository.
+- [broccoli-rollup](https://github.com/chadhietala/broccoli-rollup) - Broccoli Plugin For "Rollup".
+- [broccoli-manifest](https://github.com/racido/broccoli-manifest) - HTML5 cache-manifest compilation for broccoli.
+- [broccoli-glow](https://github.com/locks/broccoli-glow) - Dynamic component creation from single file, etc.
 
 ### Broccoli read
 
@@ -139,49 +139,50 @@
 
 ### Build tools
 
-- [Broccoli](https://github.com/broccolijs/broccoli) - 快速、可靠的资产管道，支持恒定时间重建和紧凑的构建定义.
+- [Broccoli](https://github.com/broccolijs/broccoli) - Fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions.
 
 ### Charts
 
-- [ember-charts](https://github.com/Addepar/ember-charts) - 使用 Ember.js 和 d3.js 框架构建的图表库. 
-- [ember-sparkles](https://github.com/LocusEnergy/ember-sparkles) - 使用 ember-d3-helpers 构建的可组合 D3 组件集合.
-- [ember-highcharts](https://github.com/ahmadsoe/ember-highcharts) - 用于 ember-cli 的 Highcharts、HighStock 和 HighMaps 组件.
+- [ember-charts](https://github.com/Addepar/ember-charts) - A charting library built with the Ember.js and d3.js frameworks. 
+- [ember-sparkles](https://github.com/LocusEnergy/ember-sparkles) - Collection of composable D3 components built with ember-d3-helpers.
+- [ember-highcharts](https://github.com/ahmadsoe/ember-highcharts) - A Highcharts, HighStock and HighMaps components for ember-cli.
+- [ember-c3](https://github.com/Glavin001/ember-c3) - An addon library for C3, a D3-based reusable chart library and more compatible.
 
 ### CI/CD
 
-- [ember-cli-server-variables](https://github.com/blimmer/ember-cli-server-variables) - 一个 Ember CLI 插件，支持向生成的 index.html 文件的 head 标签添加变量.
-- [ember-ci](https://github.com/mike-north/ember-ci) - ember.js 应用程序的持续集成好东西.
-- [CI with GitHub Actions for Ember Apps](https://crunchingnumbers.live/2020/03/17/ci-with-github-actions-for-ember-apps/) - 使用 GitHub Actions 减少 CI 运行时间
-- [CI with GitHub Actions for Ember Apps: Part 2](https://crunchingnumbers.live/2020/08/31/ci-with-github-actions-for-ember-apps-part-2/) - 迁移到 v2 操作，降低运行时成本和持续部署
+- [ember-cli-server-variables](https://github.com/blimmer/ember-cli-server-variables) - An Ember CLI add-on to support adding variables to the generated index.html file's head tag.
+- [ember-ci](https://github.com/mike-north/ember-ci) - Continuous integration goodies for ember.js apps.
+- [CI with GitHub Actions for Ember Apps](https://crunchingnumbers.live/2020/03/17/ci-with-github-actions-for-ember-apps/) - Reducing CI runtimes with GitHub Actions
+- [CI with GitHub Actions for Ember Apps: Part 2](https://crunchingnumbers.live/2020/08/31/ci-with-github-actions-for-ember-apps-part-2/) - Migrating to v2 actions, lowering runtime cost and continuously deployment
 
 ### Code Splitting
 
-- [ember-engines](https://github.com/ember-engines/ember-engines)  - 此 Ember.js 插件实现了 Ember.js 引擎 RFC 中描述的功能. 从用户的角度来看，引擎允许将多个逻辑应用程序组合成一个应用程序.
-- [ember-lazy-mount](https://github.com/buschtoens/ember-lazy-mount) - 允许 {{mount}} 延迟加载无路由引擎.
-- [ember-cli-bundle-loader](https://github.com/MiguelMadero/ember-cli-bundle-loader) - 允许多个包并进行延迟加载的插件.
-- [ember-cli-lazy-load](https://github.com/duizendnegen/ember-cli-lazy-load) - 支持通过将 Ember.js 应用拆分为捆绑包来延迟加载它.
+- [ember-engines](https://github.com/ember-engines/ember-engines) - This Ember.js addon implements the functionality described in the Ember.js Engines RFC. Engines allow multiple logical applications to be composed together into a single application from the user's perspective.
+- [ember-lazy-mount](https://github.com/buschtoens/ember-lazy-mount) - Allow {{mount}} lazy loading route-less engines.
+- [ember-cli-bundle-loader](https://github.com/MiguelMadero/ember-cli-bundle-loader) - Addon to allow for multiple bundles and do lazy loading.
+- [ember-cli-lazy-load](https://github.com/duizendnegen/ember-cli-lazy-load) - Support lazily loading your Ember.js app via splitting it up into Bundles.
 
 ### Codestyle
 
-- [ember-cli-template-lint](https://github.com/ember-template-lint/ember-cli-template-lint) - 用于“ember-template-lint”的 Ember CLI 集成.
-- [ember-cli-alex](https://github.com/yohanmishkin/ember-cli-alex) - 用于 Ember.js 应用程序的 Alex.
-- [ember-prop-types](https://github.com/ciena-blueplanet/ember-prop-types) - 改进了 Ember.js 应用程序和插件的属性管理.
+- [ember-cli-template-lint](https://github.com/ember-template-lint/ember-cli-template-lint) - Ember CLI integration for `ember-template-lint`.
+- [ember-cli-alex](https://github.com/yohanmishkin/ember-cli-alex) - Alex for Ember.js apps.
+- [ember-prop-types](https://github.com/ciena-blueplanet/ember-prop-types) - Improved property management for Ember.js apps and addons.
 
 ### Command-line apps
 
-- [ember-cli-create](https://github.com/gossi/ember-cli-create) - 用于创建新的 ember 项目的 CLI 向导.
-- [@ember/optional-features](https://github.com/emberjs/ember-optional-features)  - 此插件允许您轻松启用/禁用 ember-source 中的可选功能. 为了阐明我们所说的可选的含义，这些是在可预见的将来可以选择加入/选择退出和可选的功能，而不是默认启用的功能. 它仅适用于应用程序而不适用于插件.
-- [ember-cli-rename](https://github.com/trabus/ember-cli-rename) - 用于提供“ember rename”命令的 ember-cli 插件.
+- [ember-cli-create](https://github.com/gossi/ember-cli-create) - CLI wizard to create a new ember project.
+- [@ember/optional-features](https://github.com/emberjs/ember-optional-features) - This addon allows you to easily enable/disable optional features in ember-source. To clarify what we mean by optional, these are features that will be opt-in/opt-out and optional for the foreseeable future, not features that will be enabled by default. It is intended for use with apps only not addons.
+- [ember-cli-rename](https://github.com/trabus/ember-cli-rename) - Addon for ember-cli that provides an `ember rename` command.
 
 ### Command-line utilities
 
-- [ember-cli-update](https://github.com/ember-cli/ember-cli-update) - 更新 Ember CLI Ember.js 应用程序、插件和 Glimmer.js 应用程序.
-- [ember-cli-deprecation-workflow](https://github.com/mixonic/ember-cli-deprecation-workflow) - 一个旨在使 Ember.js 升级更容易的插件，它允许您在没有大量控制台噪音的情况下完成弃用.
+- [ember-cli-update](https://github.com/ember-cli/ember-cli-update) - Update Ember CLI Ember.js apps, addons and Glimmer.js apps.
+- [ember-cli-deprecation-workflow](https://github.com/mixonic/ember-cli-deprecation-workflow) - An addon geared towards making Ember.js upgrades easier by allowing you to work through deprecations without massive console noise.
 
 ### Component addons
 
 - [ember-diff-attrs](https://github.com/workmanw/ember-diff-attrs)
-- [ember-compatibility-helpers](https://github.com/pzuraq/ember-compatibility-helpers) - 帮助您编写向后兼容的 Ember.js 插件.
+- [ember-compatibility-helpers](https://github.com/pzuraq/ember-compatibility-helpers) - Helpers that allow you to write backwards compatible Ember.js addons.
 
 ### Compression
 
@@ -189,103 +190,103 @@
 
 
 
-- [ember-admin](https://github.com/DockYard/ember-admin) - 自动发现您的模型并在简单的 CRUD 界面中与所有模型数据交互.
-- [https://authmaker.com/](https://authmaker.com/) - 在 3 天内从零到完全正常运行并获得 MVP.
+- [ember-admin](https://github.com/DockYard/ember-admin) - Automatically discover your models and interact with all model data in a simple CRUD interface.
+- [https://authmaker.com/](https://authmaker.com/) -  Go from zero to fully functioning and live MVP in 3 days.
 
 ### Control flow
 
-- 承诺
-	- [ember-computed-promise-monitor](https://github.com/NullVoxPopuli/ember-computed-promise-monitor) - 使计算属性具有异步感知能力.
-- 可观察
-	- [ember-rx](https://github.com/alexlafroscia/ember-rx) - Ember.js 的 RxJS 6 集成.
-- 发电机
-	- [ember-concurrency](https://github.com/machty/ember-concurrency) - Ember.js 插件，使您能够编写简洁、无忧、可取消、可重新启动的异步任务.
-  - [ember-master-tab](https://github.com/rhyek/ember-master-tab) - 提供服务的库，可帮助仅在 Ember 应用程序的一个选项卡上运行功能.
+- Promises
+	- [ember-computed-promise-monitor](https://github.com/NullVoxPopuli/ember-computed-promise-monitor) - Enable computed properties to be async-aware.
+- Observables
+	- [ember-rx](https://github.com/alexlafroscia/ember-rx) - RxJS 6 integration for Ember.js.
+- Generators
+	- [ember-concurrency](https://github.com/machty/ember-concurrency) - Ember.js Addon that enables you to write concise, worry-free, cancelable, restartable, asynchronous tasks.
+  - [ember-master-tab](https://github.com/rhyek/ember-master-tab) - A library that provides a service which helps running a function on only one tab of an Ember application.
 
 ### CSS & etc
 
-- [ember-cli-stylelint](https://github.com/billybonks/ember-cli-stylelint) - 将 styleint 添加到您的 ember 应用程序，以检查各种 css.
-- [ember-cli-autoprefixer](https://github.com/kimroen/ember-cli-autoprefixer) - 通过 autoprefixer 自动运行您的样式.
-- [ember-cli-sass](https://github.com/aexmachina/ember-cli-sass) - 使用 node-sass 预处理您的 ember-cli 应用程序的文件，支持 sourceMaps 和包含路径.
-- [ember-cli-sass-pods](https://github.com/justtal/ember-cli-sass-pods) - 享受使用 pod 目录中的 sass 样式文件设计 pod 的样式.
-- [ember-component-css](https://github.com/ebryn/ember-component-css) - 允许您为单个组件指定样式的 Ember CLI 插件.
-- [ember-cli-postcss](https://github.com/jeffjewiss/ember-cli-postcss) - 用于 ember-cli 的 PostCSS 集成.
-- [ember-css-modules](https://github.com/salsify/ember-css-modules) - 用于雄心勃勃的应用程序的 CSS 模块.
-- [ember-cli-tailwind](https://github.com/embermap/ember-cli-tailwind) - Tailwind 是一个实用程序优先的 CSS 框架，用于快速构建自定义用户界面.
-- [ember-emotion](https://github.com/alexlafroscia/ember-emotion) - 在 Ember.js 中使用情感样式.
-- [css-blocks](https://github.com/linkedin/css-blocks) - 高性能、可维护的样式表.
-- [ember-cli-eyeglass](https://github.com/linkedin/eyeglass/tree/master/packages/ember-cli-eyeglass) - 这个 Ember CLI 插件使得通过 node-sass 编译带有眼镜支持的 sass 文件变得微不足道.
+- [ember-cli-stylelint](https://github.com/billybonks/ember-cli-stylelint) - Adds styleint to your ember app, to lint all kinds of css.
+- [ember-cli-autoprefixer](https://github.com/kimroen/ember-cli-autoprefixer) - Automatically run your styles through autoprefixer.
+- [ember-cli-sass](https://github.com/aexmachina/ember-cli-sass) - Use node-sass to preprocess your ember-cli app's files, with support for sourceMaps and include paths.
+- [ember-cli-sass-pods](https://github.com/justtal/ember-cli-sass-pods) - Enjoy styling your pods with the sass style file in the pod directory.
+- [ember-component-css](https://github.com/ebryn/ember-component-css) - An Ember CLI addon which allows you to specify styles for individual components.
+- [ember-cli-postcss](https://github.com/jeffjewiss/ember-cli-postcss) - A PostCSS integration for ember-cli.
+- [ember-css-modules](https://github.com/salsify/ember-css-modules) - CSS Modules for ambitious applications.
+- [ember-cli-tailwind](https://github.com/embermap/ember-cli-tailwind) - Tailwind is a utility-first CSS framework for rapidly building custom user interfaces.
+- [ember-emotion](https://github.com/alexlafroscia/ember-emotion) - Use emotion styling in Ember.js.
+- [css-blocks](https://github.com/linkedin/css-blocks) - High performance, maintainable stylesheets.
+- [ember-cli-eyeglass](https://github.com/linkedin/eyeglass/tree/master/packages/ember-cli-eyeglass) - This Ember CLI Addon makes it trivial to compile your sass files with eyeglass support via node-sass.
 
 ### Fonts
-- [ember-cli-webfont](https://github.com/vitch/ember-cli-webfont) - 作为 ember-cli 构建过程的一部分，从 svg 文件轻松生成 webfonts.
+- [ember-cli-webfont](https://github.com/vitch/ember-cli-webfont) - Easily generate webfonts from svg files as part of your ember-cli build process.
 
 ### State management
 
 - [ember-buffered-proxy](https://github.com/yapplabs/ember-buffered-proxy)
 - [ember-changeset](https://github.com/poteto/ember-changeset)
-- [ember-cerebraljs](https://github.com/lifeart/ember-cerebraljs) - 增强了使用 Cerebral 的复杂 Ember.js 应用程序的状态管理.
-- [ember-redux](http://www.ember-redux.com/) - ember 应用程序的可预测状态管理.
+- [ember-cerebraljs](https://github.com/lifeart/ember-cerebraljs) - Enhanced state management for complex Ember.js apps using Cerebral.
+- [ember-redux](http://www.ember-redux.com/) - Predictable state management for ember apps.
 - [ember-state-services](https://github.com/stefanpenner/ember-state-services)
 - [ember-time-machine](https://github.com/offirgolan/ember-time-machine)
 
 
 ### Styling kits
 
-- [ember-cli-tailwind](https://github.com/embermap/ember-cli-tailwind) - 将 Tailwind CSS 添加到您的应用程序或插件.
+- [ember-cli-tailwind](https://github.com/embermap/ember-cli-tailwind) - Adds Tailwind CSS to your app or addon.
 
 ### Data Management
 
-- [ember-apollo-client](https://github.com/bgentry/ember-apollo-client) - 用于 Apollo Client 和 GraphQL 的 ember-cli 插件.
-- [ember-cli-sofa](https://github.com/ampatspell/ember-cli-sofa) - 用于 Ember.js 的 CouchDB 持久性库.
-- [ember-orbit](https://github.com/orbitjs/ember-orbit) - 使用 Orbit.js 构建的 Ember.js 数据层.
-- [ember-data-storefront](https://github.com/embermap/ember-data-storefront) - 解决常见数据加载问题的 API 集合.
-- [ember-m3](https://github.com/hjdivad/ember-m3) - 此插件提供了 DS.Model 的替代模型实现.
-- [ember-cli-zuglet](https://www.ember-cli-zuglet.com/) - 用于轻松集成 Firebase 的 Ember.js 插件.
+- [ember-apollo-client](https://github.com/bgentry/ember-apollo-client) - An ember-cli addon for Apollo Client and GraphQL.
+- [ember-cli-sofa](https://github.com/ampatspell/ember-cli-sofa) - CouchDB persistence library for Ember.js.
+- [ember-orbit](https://github.com/orbitjs/ember-orbit) - Ember.js data layer built with Orbit.js.
+- [ember-data-storefront](https://github.com/embermap/ember-data-storefront) - A collection of APIs that address common data-loading issues.
+- [ember-m3](https://github.com/hjdivad/ember-m3) - This addon provides an alternative model implementation to DS.Model.
+- [ember-cli-zuglet](https://www.ember-cli-zuglet.com/) - Ember.js addon for effortless Firebase integration.
 
 ### Data manipulation & Computed
 
-- [ember-awesome-macros](https://github.com/kellyselden/ember-awesome-macros) - Ember.js 计算宏的集合.
-- [ember-cpm](https://github.com/cibernox/ember-cpm) - Ember.js 的计算属性宏.
-- [ember-macaroni](https://github.com/poteto/ember-macaroni) - 使用计算属性 macaronis（宏）让您的应用程序代码保持干燥并免费复制意大利面.
+- [ember-awesome-macros](https://github.com/kellyselden/ember-awesome-macros) - A collection of Ember.js computed macros.
+- [ember-cpm](https://github.com/cibernox/ember-cpm) - Computed property Macros for Ember.js.
+- [ember-macaroni](https://github.com/poteto/ember-macaroni) - Keep your app code DRY and copypasta free with computed property macaronis (macros).
 
 ### Data validation
 
-- [ember-cp-validations](https://github.com/offirgolan/ember-cp-validations) - Ember.js 基于计算属性的验证.
-- [ember-changeset-validations](https://github.com/poteto/ember-changeset-validations/) - 余烬变更集的验证.
-- [ember-model-validator](https://github.com/esbanarango/ember-model-validator) - 以一种明确而简单的方式向您的 Ember 数据模型添加验证，而无需围绕验证文件或复杂的结构.
-- [ember-validated-form](https://github.com/adfinis-sygroup/ember-validated-form) - 轻松创建带有客户端验证的表单.
-- [ember-line-graph](https://astronomersiva.github.io/ember-line-graph/) - 零依赖余烬插件来绘制折线图.
+- [ember-cp-validations](https://github.com/offirgolan/ember-cp-validations) - Ember.js computed property based validations.
+- [ember-changeset-validations](https://github.com/poteto/ember-changeset-validations/) - Validations for ember-changeset.
+- [ember-model-validator](https://github.com/esbanarango/ember-model-validator) - Add validations to your Ember Data models on an explicit and easy way, without a bunch a validations files around or complicated structure.
+- [ember-validated-form](https://github.com/adfinis-sygroup/ember-validated-form) - Easily create forms with client side validations.
+- [ember-line-graph](https://astronomersiva.github.io/ember-line-graph/) - Zero-dependency ember-addon to draw line-charts.
 
 ### Database
 
-- [ember-indexeddb](https://github.com/mydea/ember-indexeddb) - 在 ember 和 ember-data 中使用 IndexedDB 的实用程序和适配器.
+- [ember-indexeddb](https://github.com/mydea/ember-indexeddb) - Utilities & adapter to work with IndexedDB in ember & ember-data.
 
 ### Date
 
-- [ember-moment](https://github.com/stefanpenner/ember-moment) - 用于 moment.js 和 Ember.js 的模板助手和计算属性宏.
+- [ember-moment](https://github.com/stefanpenner/ember-moment) - Template helpers and computed property macros for moment.js and Ember.js.
 
 
 ### Debugging / Profiling
 
-- [ember-debug-logger](https://github.com/salsify/ember-debug-logger) - 公开用于 Ember.js 应用程序的 visionmedia/debug 库.
-- [ember-devtools](https://github.com/aexmachina/ember-devtools) - 一组有用的 Ember.js 调试功能.
-- [ember-chrome-devtools](https://github.com/dwickern/ember-chrome-devtools) - 用于 Ember.js 的 Chrome DevTools 插件.
-- [ember-cli-bundle-analyzer](https://github.com/kaliber5/ember-cli-bundle-analyzer) - 一个 Ember CLI 插件，使用交互式可缩放树图分析应用程序捆绑输出的大小和内容.
-- [ember-perf-timeline](https://github.com/ember-best-practices/ember-perf-timeline) - 将性能信息添加到 Chrome 的 Ember.js 应用程序时间轴.
-- [ember-cli-route-map](https://github.com/BBVAEngineering/ember-cli-route-map) - 用于生成 Ember.js 应用程序路线图的命令.
-- [heimdalljs-visualizer](https://github.com/rwjblue/heimdalljs-visualizer) - heimdalljs 数据的可视化工具.
-- [source-map-explorer](https://github.com/danvk/source-map-explorer) - 通过源映射分析和调试空间使用情况.
-- [ember-dead-code](https://github.com/buschtoens/ember-dead-code) - 通过真实用户监控自信地检测死代码.
+- [ember-debug-logger](https://github.com/salsify/ember-debug-logger) - Exposes the visionmedia/debug library for use in your Ember.js application.
+- [ember-devtools](https://github.com/aexmachina/ember-devtools) - A collection of useful Ember.js debugging functions.
+- [ember-chrome-devtools](https://github.com/dwickern/ember-chrome-devtools) - Chrome DevTools addon for Ember.js.
+- [ember-cli-bundle-analyzer](https://github.com/kaliber5/ember-cli-bundle-analyzer) - An Ember CLI addon to analyze the size and contents of your app's bundled output, using an interactive zoomable treemap.
+- [ember-perf-timeline](https://github.com/ember-best-practices/ember-perf-timeline) - Add performance information to Chrome's Timeline for Ember.js applications.
+- [ember-cli-route-map](https://github.com/BBVAEngineering/ember-cli-route-map) - Command to generate a route map of your Ember.js application.
+- [heimdalljs-visualizer](https://github.com/rwjblue/heimdalljs-visualizer) - Visualizer for heimdalljs data.
+- [source-map-explorer](https://github.com/danvk/source-map-explorer) - Analyze and debug space usage through source maps.
+- [ember-dead-code](https://github.com/buschtoens/ember-dead-code) - Detect dead code with confidence via real user monitoring.
 
 ### Decorators
 
-- [Macro Decorators](https://pzuraq.github.io/macro-decorators/) - 通过创建复制 getter/setter 功能的装饰器来干燥您的代码
+- [Macro Decorators](https://pzuraq.github.io/macro-decorators/) - DRY your code by creating decorators that duplicated getter/setter's functionality
 
 ### Documentation
 
-- [ember-cli-addon-docs](https://github.com/ember-learn/ember-cli-addon-docs) - 用于您的 Ember.js 插件的简单、漂亮的文档.
-- [ember-cli-jsdoc](https://github.com/softlayer/ember-cli-jsdoc) - 一个 Ember.js CLI 插件，用于从源代码中的 JSDoc 注释生成 HTML 文档.
-- [ember-freestyle](https://github.com/chrislopresto/ember-freestyle) - Ember-freestyle 是一个 Ember.js 插件，允许您为您的 Ember.js 应用程序快速创建一个组件浏览器.
+- [ember-cli-addon-docs](https://github.com/ember-learn/ember-cli-addon-docs) - Easy, beautiful docs for your Ember.js addon.
+- [ember-cli-jsdoc](https://github.com/softlayer/ember-cli-jsdoc) - An Ember.js CLI addon to generate HTML documentation from JSDoc comments in the source code.
+- [ember-freestyle](https://github.com/chrislopresto/ember-freestyle) - Ember-freestyle is an Ember.js addon that allows you to quickly create a component explorer for your Ember.js app.
 
 ### Ember-inspector roadmaps & overview
 
@@ -293,180 +294,180 @@
 - [Ember Inspector Sync](https://www.youtube.com/watch?v=PvsfQrKxl_8)
 
 ### End-user customization
-- [ember-asset-loader](https://github.com/ember-engines/ember-asset-loader) - 对 Ember.js 应用程序的资产加载支持.
-- [ember-experiments](https://github.com/outdoorsy/ember-experiments) - Ember.js 的实验，A/B 拆分测试插件.
-- [ember-cli-hot-loader](https://github.com/toranb/ember-cli-hot-loader) - 早期了解 ember 生态系统中的热重载可能是什么样子.
-- [ember-ast-hot-load](https://github.com/lifeart/ember-ast-hot-load) - 通用热加载插件.
-- [ember-cli-build-notifications](https://github.com/pdud/ember-cli-build-notifications) - ember-cli 出现构建错误时的通知.
-- [ember-feature-flags](https://github.com/kategengler/ember-feature-flags) - 提供功能标志的 ember-cli 插件.
-- [ember-named-yields](https://github.com/knownasilya/ember-named-yields) - Ember.js 组件的命名收益.
-- [ember-islands](https://github.com/mitchlloyd/ember-islands) - 在服务器呈现的页面上的任何位置呈现 Ember.js 组件以创建“丰富的岛屿”.
-- [ember-wormhole](https://github.com/yapplabs/ember-wormhole) - 在 DOM 的其他地方渲染一个子视图.
-- [ember-stargate](https://github.com/kaliber5/ember-stargate) - 使用所谓的“门户”在 DOM 树的不同位置渲染事物而不是在应用程序中逻辑定义的现代方式.
+- [ember-asset-loader](https://github.com/ember-engines/ember-asset-loader) - Asset loading support for Ember.js applications.
+- [ember-experiments](https://github.com/outdoorsy/ember-experiments) - Experimentation, A/B Split Testing addon for Ember.js.
+- [ember-cli-hot-loader](https://github.com/toranb/ember-cli-hot-loader) - An early look at what hot reloading might be like in the ember ecosystem.
+- [ember-ast-hot-load](https://github.com/lifeart/ember-ast-hot-load) - Universal hot-load addon.
+- [ember-cli-build-notifications](https://github.com/pdud/ember-cli-build-notifications) - Notifications when ember-cli has a build error.
+- [ember-feature-flags](https://github.com/kategengler/ember-feature-flags) - An ember-cli addon to provide feature flags.
+- [ember-named-yields](https://github.com/knownasilya/ember-named-yields) - Named Yields for Ember.js Components.
+- [ember-islands](https://github.com/mitchlloyd/ember-islands) - Render Ember.js components anywhere on a server-rendered page to create "Islands of Richness".
+- [ember-wormhole](https://github.com/yapplabs/ember-wormhole) - Render a child view somewhere else in the DOM.
+- [ember-stargate](https://github.com/kaliber5/ember-stargate) - A modern take on using so called "portals" to render things in a different place of the DOM tree than they are logically defined in the app.
 
 ### ES6
 
-- [ember-concurrency-decorators](https://github.com/machty/ember-concurrency-decorators) - 用于声明/配置 ember 并发任务的装饰器语法.
-- [ember-decorators](https://github.com/ember-decorators/ember-decorators) - Ember.js 应用程序的有用装饰器.
-- [@ember-decorators/argument](https://github.com/ember-decorators/argument) - Ember.js 中组件和对象参数的装饰器.
-- [sparkles-decorators](https://github.com/gossi/sparkles-decorators) - Sparkles/Glimmer.js 组件的装饰器.
+- [ember-concurrency-decorators](https://github.com/machty/ember-concurrency-decorators) -  Decorator syntax for declaring/configuring ember-concurrency tasks.
+- [ember-decorators](https://github.com/ember-decorators/ember-decorators) - Useful decorators for Ember.js applications.
+- [@ember-decorators/argument](https://github.com/ember-decorators/argument) - Decorators for Component and Object arguments in Ember.js.
+- [sparkles-decorators](https://github.com/gossi/sparkles-decorators) - Decorators for Sparkles/Glimmer.js Components.
 
 ### External Components Integration
 
-- [ember-glimmer-component](https://github.com/smfoote/ember-glimmer-component) - Ember.js 中类似 Glimmer.js 的组件.
-- [sparkles-component](https://github.com/rwjblue/sparkles-component) - 用于通过现有公共 API 在 Ember.js 应用程序中试验 @glimmer.js/component 样式 API 的插件.
-- [hooked-components](https://github.com/lifeart/hooked-components) - Ember.js 的自定义组件，灵感来自 React Hooks 方法.
-- [ember-functional-component](https://github.com/rwjblue/ember-functional-component) - 尝试使用“纯函数”作为组件.
-- [ember-lifecycle-component](https://github.com/NullVoxPopuli/ember-lifecycle-component) - 当您可能需要模板时，具有额外生命周期的组件.
-- [ember-vue-components](https://github.com/lifeart/ember-vue-components) - 用于 Ember 的 Vue.JS 组件 API.
-- [@alexlafroscia/ember-cli-react](https://github.com/alexlafroscia/ember-cli-react) - 在 Ember.js 中渲染 React 组件.
-- [@AltSchool/ember-cli-react](https://github.com/AltSchool/ember-cli-react) - 在您的 Ember.js 应用程序中使用 React 组件层次结构.
+- [ember-glimmer-component](https://github.com/smfoote/ember-glimmer-component) - Glimmer.js-like components in Ember.js.
+- [sparkles-component](https://github.com/rwjblue/sparkles-component) - Addon used to experiment with @glimmer.js/component style APIs in Ember.js apps via existing public APIs.
+- [hooked-components](https://github.com/lifeart/hooked-components) - Custom components for Ember.js, inspired by React Hooks approach.
+- [ember-functional-component](https://github.com/rwjblue/ember-functional-component) - Attempting to use "pure functions" as components.
+- [ember-lifecycle-component](https://github.com/NullVoxPopuli/ember-lifecycle-component) - A component with additional lifecycles for times when you may need need a template.
+- [ember-vue-components](https://github.com/lifeart/ember-vue-components) - Vue.JS component API for Ember.
+- [@alexlafroscia/ember-cli-react](https://github.com/alexlafroscia/ember-cli-react) - Render React components in Ember.js.
+- [@AltSchool/ember-cli-react](https://github.com/AltSchool/ember-cli-react) - Use React component hierarchies in your Ember.js app.
 
 ### Forms
 
-- [ember-cli-crudities](https://ember-cli-crudities.readthedocs.io) - 表单和可编辑的列表生成器，可从 json 配置工作，可以静态或动态加载.
-- [ember-form-for](https://github.com/martndemus/ember-form-for) - 这个 Ember.js 插件会给你一个简单的方法来构建好的表单.
+- [ember-cli-crudities](https://ember-cli-crudities.readthedocs.io) - Form and editable list builder that works from json config which can be either statically or dynamically loaded.
+- [ember-form-for](https://github.com/martndemus/ember-form-for) - This Ember.js addon will give you an easy way to build good forms.
 
 ### Functional programming
 
-- [Bacon.js](http://baconjs.github.io) - 函数式反应式编程.
-- [Folktale](http://folktale.origamitower.com) - 用于 JavaScript 中通用函数式编程的库套件，允许您编写优雅的模块化应用程序，错误更少，重用更多.
-- [immutable](https://github.com/facebook/immutable-js) - 不可变的数据集合.
-- [Kefir.js](https://github.com/rpominov/kefir) - 专注于高性能和低内存使用的反应式库.
-- [Lazy.js](https://github.com/dtao/lazy.js) - 类似于 lodash/Underscore 的实用程序库，但具有惰性评估，在许多情况下可以转化为卓越的性能.
-- [lodash](https://lodash.com)  - 提供一致性、定制化、性能和附加功能的实用程序库. 更好更快的 Underscore.js.
-- [mori](http://swannodette.github.io/mori/) - 用于使用 ClojureScript 的持久数据结构和支持 vanilla JavaScript API 的库.
-- [Mout](http://moutjs.com) - 实用程序库与其他现有解决方案最大的区别是您可以选择只加载您需要的模块/功能，没有额外的开销.
-- [Ramda](http://ramdajs.com)  - 实用程序库，专注于通过自动柯里化和反转参数顺序实现的灵活功能组合. 避免变异数据.
-- [RxJS](http://reactivex.io) - 用于转换、组合和查询各种数据的功能性反应库.
-- [underscore-contrib](http://documentcloud.github.io/underscore-contrib/) - Underscore 实用腰带上的黄铜搭扣.
+- [Bacon.js](http://baconjs.github.io) - Functional reactive programming.
+- [Folktale](http://folktale.origamitower.com) - Suite of libraries for generic functional programming in JavaScript that allows you to write elegant, modular applications with fewer bugs, and more reuse.
+- [immutable](https://github.com/facebook/immutable-js) - Immutable data collections.
+- [Kefir.js](https://github.com/rpominov/kefir) - Reactive library with focus on high performance and low memory usage.
+- [Lazy.js](https://github.com/dtao/lazy.js) - Utility library similar to lodash/Underscore but with lazy evaluation, which can translate to superior performance in many cases.
+- [lodash](https://lodash.com) - Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
+- [mori](http://swannodette.github.io/mori/) - Library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
+- [Mout](http://moutjs.com) - Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead.
+- [Ramda](http://ramdajs.com) - Utility library with a focus on flexible functional composition enabled by automatic currying and reversed argument order. Avoids mutating data.
+- [RxJS](http://reactivex.io) - Functional reactive library for transforming, composing, and querying various kinds of data.
+- [underscore-contrib](http://documentcloud.github.io/underscore-contrib/) - The brass buckles on Underscore's utility belt.
 
 ### HTTP
 
-- [ember-ajax](https://github.com/ember-cli/ember-ajax) - 用于在 Ember.js 1.13+ 应用程序中发出 AJAX 请求的服务.
-- [ember-socket-guru](https://github.com/netguru/ember-socket-guru) - 用于与 Pusher.js、Action Cable、Socket.io 和 Phoenix Channels 轻松集成的插件.
+- [ember-ajax](https://github.com/ember-cli/ember-ajax) - Service for making AJAX requests in Ember.js 1.13+ applications.
+- [ember-socket-guru](https://github.com/netguru/ember-socket-guru) - Addon for easy integration with Pusher.js, Action Cable, Socket.io and Phoenix Channels.
 
 ### Helpers
 
-- [ember-event-helpers](https://github.com/buschtoens/ember-event-helpers) - `{{on}}` 修饰符的免费事件模板助手.
-- [ember-render-helpers](https://github.com/buschtoens/ember-render-helpers) - `@ember/render-modifiers` 作为模板助手.
-- [ember-element-helper](https://github.com/tildeio/ember-element-helper) - Glimmer 模板的动态元素助手.
-- [ember-composable-helpers](https://github.com/DockYard/ember-composable-helpers) - 用于在 Ember.js 中声明模板的可组合助手.
-- [ember-helpers](https://github.com/abcum/ember-helpers) - Ember.js 的车把助手集合.
-- [ember-d3-helpers](https://github.com/LocusEnergy/ember-d3-helpers) - 用于构建可组合 D3 图表的 Ember.js 助手集合.
-- [ember-math-helpers](https://github.com/shipshapecode/ember-math-helpers) - 用于基本算术的 Ember.js HTMLBars 助手.
-- [ember-promise-helpers](https://github.com/fivetanley/ember-promise-helpers) - 为您的 Ember.js 模板提供承诺糖.
-- [ember-route-action-helper](https://github.com/DockYard/ember-route-action-helper) - 路线中的气泡关闭动作.
-- [ember-root-url](https://github.com/ef4/ember-root-url) - 一个模板助手，用于保持您的 URL 相对于应用程序的 rootURL.
-- [ember-store-helpers](https://github.com/ember-sapporo/ember-store-helpers) - 此附加组件提供与 ember-data 相关的帮助程序.
-- [ember-truth-helpers](https://github.com/jmurphyau/ember-truth-helpers) - `{{if}}` 和 `{{unless}}` 的 Ember.js HTMLBars Helpers：not, and, or, eq &amp; is-array.
-- [ember-awesome-macros](https://github.com/kellyselden/ember-awesome-macros) - Ember.js 计算宏的集合.
-- [ember-macro-helpers](https://github.com/kellyselden/ember-macro-helpers) - 用于制作您自己的精美宏的 Ember.js 宏助手！
-- [ember-cli-string-helpers](https://github.com/romulomachado/ember-cli-string-helpers) - 从 DockYard 的 ember-composable-helpers 中提取的字符串助手集.
+- [ember-event-helpers](https://github.com/buschtoens/ember-event-helpers) - Complimentary event template helpers to the `{{on}}` modifier.
+- [ember-render-helpers](https://github.com/buschtoens/ember-render-helpers) - `@ember/render-modifiers` as template helpers.
+- [ember-element-helper](https://github.com/tildeio/ember-element-helper) - Dynamic element helper for Glimmer templates.
+- [ember-composable-helpers](https://github.com/DockYard/ember-composable-helpers) - Composable helpers for declarative templating in Ember.js.
+- [ember-helpers](https://github.com/abcum/ember-helpers) - A collection of handlebars helpers for Ember.js.
+- [ember-d3-helpers](https://github.com/LocusEnergy/ember-d3-helpers) - Collection of Ember.js helpers for building composable D3 charts.
+- [ember-math-helpers](https://github.com/shipshapecode/ember-math-helpers) - Ember.js HTMLBars helpers for basic arithmetic.
+- [ember-promise-helpers](https://github.com/fivetanley/ember-promise-helpers) - Promise-y sugar for your Ember.js templates.
+- [ember-route-action-helper](https://github.com/DockYard/ember-route-action-helper) - Bubble closure actions in routes.
+- [ember-root-url](https://github.com/ef4/ember-root-url) - A template helper to keep your URLs relative to the app's rootURL.
+- [ember-store-helpers](https://github.com/ember-sapporo/ember-store-helpers) - This add-on provides helpers related to ember-data.
+- [ember-truth-helpers](https://github.com/jmurphyau/ember-truth-helpers) - Ember.js HTMLBars Helpers for `{{if}}` & `{{unless}}`: not, and, or, eq & is-array.
+- [ember-awesome-macros](https://github.com/kellyselden/ember-awesome-macros) - A collection of Ember.js computed macros.
+- [ember-macro-helpers](https://github.com/kellyselden/ember-macro-helpers) - Ember.js macro helpers for making your own fancy macros!
+- [ember-cli-string-helpers](https://github.com/romulomachado/ember-cli-string-helpers) - Set of the String helpers extracted from DockYard's ember-composable-helpers.
 
 ### Image
 
-- [ember-svg-jar](https://github.com/ivanvotti/ember-svg-jar) - 将 SVG 图像嵌入 Ember.js 应用程序的最佳方式.
+- [ember-svg-jar](https://github.com/ivanvotti/ember-svg-jar) - The best way to embed SVG images into your Ember.js application.
 
 ### Include external JS code
 
-- [ember-auto-import](https://github.com/ef4/ember-auto-import) - 从 npm 包中导入零配置.
-- [ember-cli-cjs-transform](https://github.com/rwjblue/ember-cli-cjs-transform) - CommonJS 导入.
-- [ember-cli-es6-transform](https://github.com/sandydoo/ember-cli-es6-transform) - 从 npm、bower 或应用程序中的其他任何地方导入 ES6 模块.
-- [ember-browserify](https://github.com/ef4/ember-browserify) - 用于通过 browserify 从 npm 轻松加载 CommonJS 包的插件.
+- [ember-auto-import](https://github.com/ef4/ember-auto-import) - Zero config import from npm packages.
+- [ember-cli-cjs-transform](https://github.com/rwjblue/ember-cli-cjs-transform) - CommonJS imports.
+- [ember-cli-es6-transform](https://github.com/sandydoo/ember-cli-es6-transform) - Import ES6 modules from npm, bower or anywhere else in your app.
+- [ember-browserify](https://github.com/ef4/ember-browserify) - Addon for easily loading CommonJS packages from npm via browserify.
 
 ### Infinite Scroll
 
-- [ember-infinity](https://github.com/ember-infinity/ember-infinity) - 用于 Ember CLI 应用程序的简单、灵活的无限滚动.
-- [vertical-collection](https://github.com/html-next/vertical-collection) - &gt; 60 FPS 的无限滚动和遮挡.
-- [smoke-and-mirrors](https://github.com/html-next/smoke-and-mirrors) - 雄心勃勃的无限滚动和精巧的渲染，适用于雄心勃勃的应用程序.
+- [ember-infinity](https://github.com/ember-infinity/ember-infinity) - Simple, flexible Infinite Scroll for Ember CLI Apps.
+- [vertical-collection](https://github.com/html-next/vertical-collection) - Infinite Scroll and Occlusion at > 60 FPS.
+- [smoke-and-mirrors](https://github.com/html-next/smoke-and-mirrors) - Ambitious infinite-scroll and svelte rendering for ambitious applications.
 
 ### Internalization & Localization
 
-- [ember-intl](https://github.com/ember-intl/ember-intl)  - 翻译复杂的消息字符串. 日期/时间、数字和相对时间的本地化格式.
-- [ember-intl-analyzer](https://github.com/simplabs/ember-intl-analyzer) - 在您的 Ember.js 项目中查找未使用的翻译.
+- [ember-intl](https://github.com/ember-intl/ember-intl) - Translate complex messages string. Localized formatting for date/time, number, and relative time.
+- [ember-intl-analyzer](https://github.com/simplabs/ember-intl-analyzer) - Find unused translations in your Ember.js projects.
 
 ### Inputs
 
-- [ember-autoresize](https://github.com/tim-evans/ember-autoresize) - 为 Ember.js 组件自动调整大小.
+- [ember-autoresize](https://github.com/tim-evans/ember-autoresize) - Autoresize for Ember.js Components.
 
 
 ### Job queues
 
 - [ember-data-tasks](https://github.com/knownasilya/ember-data-tasks)
 - [ember-concurrency](http://ember-concurrency.com)
-- [ember-custom-actions](https://github.com/Exelord/ember-custom-actions) - Ember.js 应用程序的自定义 API 操作.
+- [ember-custom-actions](https://github.com/Exelord/ember-custom-actions) - Custom API actions for Ember.js applications.
 - [ember-pipeline](https://github.com/poteto/ember-pipeline)
-- [ember-lifeline](https://github.com/ember-lifeline/ember-lifeline) - 用于管理对象中异步行为生命周期的 ember 插件.
+- [ember-lifeline](https://github.com/ember-lifeline/ember-lifeline) - An ember addon for managing the life cycle of asynchronous behavior in your objects.
 
 ### Logging
 
 - [console.re](https://console.re/)
-- [ember-debug-logger](https://emberobserver.com/addons/ember-debug-logger) - 用于公开 Visionmedia 调试记录器的 Ember.js 插件.
-- [ember-logging-service](https://github.com/acquia/ember-logging-service/) - 此插件提供可在整个应用程序中使用的通用且可扩展的日志记录服务.
+- [ember-debug-logger](https://emberobserver.com/addons/ember-debug-logger) - An Ember.js addon to expose the Visionmedia debug logger.
+- [ember-logging-service](https://github.com/acquia/ember-logging-service/) - This addon provides a general and extensible logging service that can be used throughout your application.
 - [raygun](https://raygun.com/)
 
 ### Mad science
 
-- [ember-elm](https://github.com/nucleartide/ember-elm) - 在您的 Ember.js 应用程序中编写 Elm.
-- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 用 Ja​​vaScript 实现的算法和数据结构，带有解释和进一步阅读的链接.
+- [ember-elm](https://github.com/nucleartide/ember-elm) - Write Elm in your Ember.js app.
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - Algorithms and data structures implemented in JavaScript with explanations and links to further readings.
 
 ### Math
 
-- [ember-katex](https://github.com/firecracker/ember-katex) - 使用 KaTeX 呈现您的 LaTeX 公式.
-- [ember-math-helpers](https://github.com/shipshapecode/ember-math-helpers) - 用于基本算术的 Ember.js HTMLBars 助手.
+- [ember-katex](https://github.com/firecracker/ember-katex) - Render your LaTeX formulas using KaTeX.
+- [ember-math-helpers](https://github.com/shipshapecode/ember-math-helpers) - Ember.js HTMLBars helpers for basic arithmetic.
 
 ### Metrics
 
-- [ember-user-activity](https://github.com/elwayman02/ember-user-activity) - 用于跟踪用户活动和闲置的 Ember.js 插件.
-- [ember-metrics](https://github.com/poteto/ember-metrics) - 无需重新实施新 API 即可将数据发送到多个分析服务.
+- [ember-user-activity](https://github.com/elwayman02/ember-user-activity) - Ember.js Addon for tracking user activity & idling.
+- [ember-metrics](https://github.com/poteto/ember-metrics) - Send data to multiple analytics services without re-implementing new API.
 
 ### Minifiers
-- [ember-hbs-minifier](https://github.com/simplabs/ember-hbs-minifier) - 从 Handlebars 模板中去除空格.
-- [ember-cli-template-trimmer](https://github.com/lifeart/ember-cli-template-trimmer) - 此插件在编译阶段删除换行符.
+- [ember-hbs-minifier](https://github.com/simplabs/ember-hbs-minifier) - Stripping whitespace out of your Handlebars templates.
+- [ember-cli-template-trimmer](https://github.com/lifeart/ember-cli-template-trimmer) - This addon removes newlines on compile stage.
 
 ### Miscellaneous
 
-- [diagonal routes](https://alexspeller.com/ember-diagonal/) - 查看给定的 ember 路由定义的路由结构、模板和路由挂钩.
-- [ember data model maker](https://github.com/andycrum/ember-data-model-maker/) - Ember 数据模型制作工具 (EDMM).
+- [diagonal routes](https://alexspeller.com/ember-diagonal/) - See what route structure, templates and route hooks are for a given ember route definition.
+- [ember data model maker](https://github.com/andycrum/ember-data-model-maker/) - Ember Data Model Maker (EDMM).
 
 ### Mobile
 
-- [corber](https://github.com/isleofcode/corber) - 用于使用 Ember.js 构建的 cordova 和人行横道混合应用程序的工具.
-- [glimmer-native](https://github.com/bakerac4/glimmer-native)  - 你有没有想过使用 Ember.js/Glimmer.js 来创建一个原生的移动应用程序？ 现在你可以了！
-- [ember-mobile-bar](https://github.com/nickschot/ember-mobile-bar) - 具有类似移动应用程序行为的托管固定（工具）栏.
-- [ember-mobile-core](https://github.com/nickschot/ember-mobile-core) - 为 ember-mobile-* 插件提供一个 pan 识别器和一些实用程序.
-- [ember-mobile-menu](https://github.com/nickschot/ember-mobile-menu) - 专为移动设备量身定制的可拖动侧边栏.
-- [ember-mobile-pane](https://github.com/nickschot/ember-mobile-pane) - 移动布局 ember-mobile-pane.
-- [ember-responsive](https://github.com/freshbooks/ember-responsive) - 使用 Ember.js 的简单响应式布局.
+- [corber](https://github.com/isleofcode/corber) - Tooling for cordova and crosswalk hybrid applications built with Ember.js.
+- [glimmer-native](https://github.com/bakerac4/glimmer-native) - Have you ever wanted to use Ember.js/Glimmer.js to create a native mobile app? Well now you can!
+- [ember-mobile-bar](https://github.com/nickschot/ember-mobile-bar) - Managed fixed (tool)bars with mobile app-like behaviour.
+- [ember-mobile-core](https://github.com/nickschot/ember-mobile-core) - Provides a pan recognizer and some utils for the ember-mobile-* addons.
+- [ember-mobile-menu](https://github.com/nickschot/ember-mobile-menu) - Draggable sidebar specifically tailored to mobile devices.
+- [ember-mobile-pane](https://github.com/nickschot/ember-mobile-pane) - Mobile layout ember-mobile-pane.
+- [ember-responsive](https://github.com/freshbooks/ember-responsive) - Easy responsive layouts with Ember.js.
 
 ### Modifiers
-- [ember-css-vars](https://github.com/luxferresum/ember-css-vars)  - 用于应用 css 变量的 ember 修饰符. 这提供了一种将数据从 JavaScript 公开到 css 的保存方式.
+- [ember-css-vars](https://github.com/luxferresum/ember-css-vars) - A ember modifier to apply css variables. This gives a save way to expose data from JavaScript to css.
 - [ember-on-modifier](https://github.com/buschtoens/ember-on-modifier) - An implementation of the `{{on}}` element modifier shown in the Modifiers RFC #353.
-- [ember-ref-modifier](https://github.com/lifeart/ember-ref-modifier) - `{{ref}}` 元素修饰符的实现.
+- [ember-ref-modifier](https://github.com/lifeart/ember-ref-modifier) - An implementation of the `{{ref}}` element modifier.
 - [ember-render-modifiers](https://github.com/emberjs/ember-render-modifiers) - Implements did-insert / did-update / will-destroy modifiers for RFC #415.
-- [ember-functional-modifiers](https://github.com/spencer516/ember-functional-modifiers) - Ember.js 的功能修饰符.
-- [ember-style-modifier](https://github.com/jelhan/ember-style-modifier) - 这个插件提供了一个 {{style}} 元素修饰符来设置元素的样式. 
-- [ember-simple-animate](https://github.com/abhilashlr/ember-simple-animate) - 用于基于 CSS 的动画的简单 ember 动画插件.
+- [ember-functional-modifiers](https://github.com/spencer516/ember-functional-modifiers) - Functional Modifiers for Ember.js.
+- [ember-style-modifier](https://github.com/jelhan/ember-style-modifier) - This addon provides a {{style}} element modifier to set element's style. 
+- [ember-simple-animate](https://github.com/abhilashlr/ember-simple-animate) - Simple ember animate addon for CSS based animations.
 
 ### Parcel
 
-- [ember-parcel-example](https://github.com/rtablada/ember-parcel-example) - Ember.js + Parcel.js 示例.
+- [ember-parcel-example](https://github.com/rtablada/ember-parcel-example) - Ember.js + Parcel.js Example.
 - [todomvc-demo](https://github.com/devongovett/todomvc-demo) - Glimmer.js + Parcel.js Example.
 
 ### Payments
 
-- [ember-credit-card](https://github.com/esbanarango/ember-credit-card) - “用一行代码让你的信用卡表格变得梦幻”.
+- [ember-credit-card](https://github.com/esbanarango/ember-credit-card) - "make your credit card form dreamy in one line of code".
 
 ### Polyfills
 
-- [ember-modifier-manager-polyfill](https://github.com/rwjblue/ember-modifier-manager-polyfill) - Ember.js 2.12 到 3.7 的 Polyfill 元素修饰符.
-- [ember-angle-bracket-invocation-polyfill](https://github.com/rwjblue/ember-angle-bracket-invocation-polyfill) - 此插件为 RFC 311 中描述的尖括号调用语法提供了一个 polyfill.
-- [ember-named-arguments-polyfill](https://github.com/rwjblue/ember-named-arguments-polyfill) - Polyfills 支持 Ember.js 2.10 到 3.0 的命名参数.
+- [ember-modifier-manager-polyfill](https://github.com/rwjblue/ember-modifier-manager-polyfill) - Polyfill element modifiers for Ember.js 2.12 through 3.7.
+- [ember-angle-bracket-invocation-polyfill](https://github.com/rwjblue/ember-angle-bracket-invocation-polyfill) - This addon provides a polyfill for angle bracket invocation syntax as described in RFC 311.
+- [ember-named-arguments-polyfill](https://github.com/rwjblue/ember-named-arguments-polyfill) - Polyfills support for named arguments for Ember.js 2.10 through 3.0.
 - [ember-native-class-polyfill](https://github.com/pzuraq/ember-native-class-polyfill) - This addon provides a polyfill for the native class behavior that was proposed in Ember.js RFCs #240 and #337.
 - [ember-router-service-polyfill](https://github.com/rwjblue/ember-router-service-polyfill) - This addon provides a best effort polyfill for the ember-routing-router-service feature added in Ember.js 2.15.
 - [ember-fn-helper-polyfill](https://github.com/rwjblue/ember-fn-helper-polyfill) - This addon provides a polyfill for the {{fn}} helper as described in RFCs #470.
-- [ember-named-blocks-polyfill](https://github.com/ember-polyfills/ember-named-blocks-polyfill) - 此插件为 Yieldable Named Blocks 功能提供了一个 polyfill.
+- [ember-named-blocks-polyfill](https://github.com/ember-polyfills/ember-named-blocks-polyfill) - This addon provides a polyfill for the Yieldable Named Blocks feature.
 
 ### PWA
 
@@ -475,132 +476,132 @@
 - [ember-service-worker-cache-first](https://github.com/DockYard/ember-service-worker-cache-first)
 - [ember-service-worker-index](https://github.com/DockYard/ember-service-worker-index)
 - [ember-service-worker-prember](https://github.com/shipshapecode/ember-service-worker-prember)
-- [ember-service-worker](https://github.com/DockYard/ember-service-worker) - Ember.js 服务工作者的可插入方法.
-- [ember-web-app](https://github.com/san650/ember-web-app) - 此 Ember.js 插件可帮助您配置和管理创建渐进式 Web 应用程序所需的 manifest.json 和元标记.
+- [ember-service-worker](https://github.com/DockYard/ember-service-worker) - A pluggable approach to Service Workers for Ember.js.
+- [ember-web-app](https://github.com/san650/ember-web-app) - This Ember.js addon helps you configure and manage the manifest.json and meta tags needed to create progressive web applications.
 
 ### Query Params
 
-- [ember-query-params-service](https://github.com/NullVoxPopuli/ember-query-params-service) - 你有*只*解析查询参数的控制器吗？
-- [ember-parachute](https://github.com/offirgolan/ember-parachute) - 改进了 Ember.js 的查询参数.
-- [ember-href-to](https://github.com/intercom/ember-href-to) - {{link-to}} 的轻量级替代品.
+- [ember-query-params-service](https://github.com/NullVoxPopuli/ember-query-params-service) - Do you have controllers that *only* parse query params?
+- [ember-parachute](https://github.com/offirgolan/ember-parachute) - Improved Query Params for Ember.js.
+- [ember-href-to](https://github.com/intercom/ember-href-to) - A lightweight alternative to {{link-to}}.
 
 ### Real-time
 
-- [ember-cli-flash](https://github.com/poteto/ember-cli-flash) - 用于 ember-cli 的简单、高度可配置的 flash 消息.
+- [ember-cli-flash](https://github.com/poteto/ember-cli-flash) - Simple, highly configurable flash messages for ember-cli.
 
 ### Routing addons
-- [ember-component-routes](https://github.com/wongpeiyi/ember-component-routes) - 直接从 Ember.js 中的路由渲染组件.
-- [ember-redirect](https://github.com/thoov/ember-redirect) - 这个插件旨在成为一种简单易行的方法，以最小的努力来执行基于路由的重定向.
-- [ember-router-scroll](https://github.com/dollarshaveclub/ember-router-scroll) - 滚动到保留浏览器历史滚动位置的顶部.
+- [ember-component-routes](https://github.com/wongpeiyi/ember-component-routes) - Render components directly from routes in Ember.js.
+- [ember-redirect](https://github.com/thoov/ember-redirect) - This addon aims to be a simple and easy way to preform route based redirects with minimal effort.
+- [ember-router-scroll](https://github.com/dollarshaveclub/ember-router-scroll) - Scroll to top with preserved browser history scroll position.
 
 ### Resolver customization
-- [ember-cli-extended-resolver](https://www.npmjs.com/package/ember-cli-extended-resolver) - 此插件允许修改默认文件结构，使其更具功能分组.
+- [ember-cli-extended-resolver](https://www.npmjs.com/package/ember-cli-extended-resolver) - This addons allows to modify default files structure to be more feature-grouped.
 
 ### Security
 
-- [ember-can](https://github.com/minutebase/ember-can) - 简单 [authorisation addon](http://ember-can.com) 对于 Ember.js 应用程序.
-- [ember-permissions](https://github.com/Bagaar/ember-permissions) - Ember 应用程序的权限管理.
+- [ember-can](https://github.com/minutebase/ember-can) - Simple [authorisation addon](http://ember-can.com) for Ember.js apps.
+- [ember-permissions](https://github.com/Bagaar/ember-permissions) - Permission management for Ember applications.
 
 ### Service Workers
 
-- [ember-cli-workbox](https://github.com/BBVAEngineering/ember-cli-workbox/) - 离线缓存作为使用服务工作者的渐进增强.
-- [ember-service-worker](https://github.com/DockYard/ember-service-worker) - Ember.js 服务工作者的可插入方法.
-- [ember-service-worker-index](https://github.com/DockYard/ember-service-worker-index) - 缓存 index.html 文件的 Ember.js Service Worker 插件.
-- [ember-service-worker-asset-cache](https://github.com/DockYard/ember-service-worker-asset-cache) - 缓存 Ember.js 应用程序资产文件的 Ember.js Service Worker 插件.
-- [ember-service-worker-cache-first](https://github.com/DockYard/ember-service-worker-cache-first) - 缓存优先的 Ember.js Service Worker 插件.
-- [ember-service-worker-cache-fallback](https://github.com/DockYard/ember-service-worker-cache-fallback) - 一个 Ember.js Service Worker 插件，在网络请求失败时求助于缓存的后备版本.
-- [ember-service-worker-emberfire-messaging](https://github.com/Matt-Jensen/ember-service-worker-emberfire-messaging) - Firebase Cloud Messaging 服务工作者支持 Emberfire 应用程序.
-- [ember-service-worker-unregistration](https://github.com/GreatWizard/ember-service-worker-unregistration) - 一个 Ember.js 插件，可在禁用 ember-service-worker 时注销服务工作者.
-- [ember-service-worker-request-chaos](https://github.com/maxfierke/ember-service-worker-request-chaos) - 类似于 Netflix 的 Chaos Monkey，但适用于您的 Ember.js SPA 的 API 请求.
-- [ember-service-worker-project-entagled-registration](https://github.com/rwjblue/ember-service-worker-project-entagled-registration) - 此插件将与 ember-service-worker 一起使用，以确保所使用的服务工作者与项目正确配对.
+- [ember-cli-workbox](https://github.com/BBVAEngineering/ember-cli-workbox/) - Offline caching as a progressive enhancement using service workers.
+- [ember-service-worker](https://github.com/DockYard/ember-service-worker) - A pluggable approach to Service Workers for Ember.js.
+- [ember-service-worker-index](https://github.com/DockYard/ember-service-worker-index) - An Ember.js Service Worker plugin that caches the index.html file.
+- [ember-service-worker-asset-cache](https://github.com/DockYard/ember-service-worker-asset-cache) - An Ember.js Service Worker plugin that caches an Ember.js app's asset files.
+- [ember-service-worker-cache-first](https://github.com/DockYard/ember-service-worker-cache-first) - A cache first Ember.js Service Worker plugin.
+- [ember-service-worker-cache-fallback](https://github.com/DockYard/ember-service-worker-cache-fallback) - An Ember.js Service Worker plugin that resorts to a cached fallback version when the network request fails.
+- [ember-service-worker-emberfire-messaging](https://github.com/Matt-Jensen/ember-service-worker-emberfire-messaging) - Firebase Cloud Messaging service worker support for Emberfire apps.
+- [ember-service-worker-unregistration](https://github.com/GreatWizard/ember-service-worker-unregistration) - An Ember.js plugin that unregister service workers when ember-service-worker is disabled.
+- [ember-service-worker-request-chaos](https://github.com/maxfierke/ember-service-worker-request-chaos) - Like Netflix's Chaos Monkey but for your Ember.js SPA's API requests.
+- [ember-service-worker-project-entagled-registration](https://github.com/rwjblue/ember-service-worker-project-entagled-registration) - This addon is to be used along with ember-service-worker to ensure that the service worker being used is paired properly to the project.
 - [ember-service-worker-cache-rendered](https://github.com/PrinceCornNM/ember-service-worker-cache-rendered) - Ember.js service worker plugin for storing rendered html in cache, really useful for fastboot.
-- [ember-service-worker-update-notify](https://github.com/topaxi/ember-service-worker-update-notify) - 更新服务工作者的通知.
-- [ember-service-worker-enqueue](https://github.com/The-Don-Himself/ember-service-worker-enqueue) - 一个 Ember.js Service Worker 插件，可以捕获失败的突变请求，例如 POST、PUT、DELETE 并将它们排队等待后台处理.
-- [ember-service-worker-prember](https://github.com/shipshapecode/ember-service-worker-prember) - 一个 Ember.js Service Worker 插件，它缓存每个 prember 路由的 index.html 文件.
+- [ember-service-worker-update-notify](https://github.com/topaxi/ember-service-worker-update-notify) - Update notification for service workers.
+- [ember-service-worker-enqueue](https://github.com/The-Don-Himself/ember-service-worker-enqueue) - An Ember.js Service Worker plugin that catches failed mutation requests e.g POST, PUT, DELETE and queues them for background processing.
+- [ember-service-worker-prember](https://github.com/shipshapecode/ember-service-worker-prember) - An Ember.js Service Worker plugin that caches the index.html files for each prember route.
 
 ### SSR / Server Side Rendering
 
-- [ember-fastboot](https://github.com/ember-fastboot/ember-cli-fastboot) - Ember.js 应用程序的服务器端渲染.
-- [glimmer-ssr-test](https://github.com/josemarluedke/glimmer-ssr-test) - 使 Glimmer.js 应用程序在服务器中呈现.
+- [ember-fastboot](https://github.com/ember-fastboot/ember-cli-fastboot) - Server-side rendering for Ember.js apps.
+- [glimmer-ssr-test](https://github.com/josemarluedke/glimmer-ssr-test) - Making a Glimmer.js app be rendered in the server.
 
 ### Static site generators & SEO
 
-- [ember-meta](https://github.com/shipshapecode/ember-meta) - 为您的 Prember/Ember.js 博客设置元数据以支持 opengraph、微数据、Facebook、Twitter、Slack 等.
-- [prember-rss-feed](https://github.com/shipshapecode/prember-rss-feed) - 为您的 Prember 站点发送 RSS 提要.
-- [prember](https://github.com/ef4/prember) - 在构建时使用 Fastboot 预渲染 Ember.js 应用程序.
+- [ember-meta](https://github.com/shipshapecode/ember-meta) - Setup meta for your Prember/Ember.js blog to support opengraph, microdata, Facebook, Twitter, Slack etc.
+- [prember-rss-feed](https://github.com/shipshapecode/prember-rss-feed) - Ship RSS feeds for your Prember site.
+- [prember](https://github.com/ef4/prember) - Prerender Ember.js apps with Fastboot at build time.
 
 ### Styling
 
-- [ember-cli-sass](https://github.com/aexmachina/ember-cli-sass) - 使用 node-sass 预处理您的 ember-cli 应用程序的文件，支持 sourceMaps 和包含路径.
+- [ember-cli-sass](https://github.com/aexmachina/ember-cli-sass) - Use node-sass to preprocess your ember-cli app's files, with support for sourceMaps and include paths.
 
 ### Templating
 
-- [ember-template-component-import](https://github.com/crashco/ember-template-component-import) - 此插件允许您使用导入式语法在模板文件中创建到组件的本地绑定.
-- [ember-cli-jsx-templates](https://github.com/lifeart/ember-cli-jsx-templates) - TSX/JSX 支持 ember 模板.
-- [Emblem.js](https://github.com/machty/emblem.js/) - Ember.js 友好的缩进语法替代 Handlebars.js.
+- [ember-template-component-import](https://github.com/crashco/ember-template-component-import) - This addon allows you to use import-style syntax to create local bindings to a component within a template file.
+- [ember-cli-jsx-templates](https://github.com/lifeart/ember-cli-jsx-templates) - TSX/JSX support for ember templates.
+- [Emblem.js](https://github.com/machty/emblem.js/) - Ember.js-friendly, indented syntax alternative for Handlebars.js.
 
 ### Testing
 
-- [ember-qunit-decorators](https://github.com/mike-north/ember-qunit-decorators) - 在您的 Ember.js 应用程序中使用 ES6 或 TypeScript 装饰器进行 QUnit 测试.
-- [ember-cli-addon-tests](https://github.com/tomdale/ember-cli-addon-tests) - 用于在真实 Ember.js 应用程序的上下文中测试 Ember CLI 插件的测试助手.
-- [ember-cli-code-coverage](https://github.com/kategengler/ember-cli-code-coverage) - 使用伊斯坦布尔的 ember 应用程序的代码覆盖率.
-- [ember-cli-mirage](http://www.ember-cli-mirage.com/) - 使用 [JSON API](http://jsonapi.org/)兼容的客户端服务器.
-- [ember-cli-mocha](https://github.com/ember-cli/ember-cli-mocha) - 用于 ember-cli 应用程序的 Mocha 和 Chai 测试.
-- [ember-cli-page-object](https://github.com/san650/ember-cli-page-object) - 这个 ember-cli 插件简化了验收和集成测试中页面对象的构建.
-- [ember-cli-yadda](https://github.com/albertjan/ember-cli-yadda) - 为 ember-cli 应用程序编写黄瓜规范.
-- [ember-concurrency-test-waiter](https://github.com/bendemboski/ember-concurrency-test-waiter) - 轻松为 ember 并发任务启用测试等待程序.
-- [ember-exam](https://github.com/trentmwillis/ember-exam) - 使用随机化、拆分和并行化来运行您的测试以获得漂亮的测试.
-- [ember-percy](https://github.com/percy/ember-percy) - 用于使用 Percy 进行视觉回归测试的 Ember.js 插件.
-- [ember-qunit](https://github.com/emberjs/ember-qunit) - Ember.js 的 QUnit 测试助手.
+- [ember-qunit-decorators](https://github.com/mike-north/ember-qunit-decorators) - Use ES6 or TypeScript decorators for QUnit tests in your Ember.js app.
+- [ember-cli-addon-tests](https://github.com/tomdale/ember-cli-addon-tests) - Test helpers for testing Ember CLI addons inside the context of a real Ember.js app.
+- [ember-cli-code-coverage](https://github.com/kategengler/ember-cli-code-coverage) - Code coverage for ember apps using Istanbul.
+- [ember-cli-mirage](http://www.ember-cli-mirage.com/) - Build, test and demo your app using a [JSON API](http://jsonapi.org/)-compliant client-side server.
+- [ember-cli-mocha](https://github.com/ember-cli/ember-cli-mocha) - Mocha and Chai tests for ember-cli applications.
+- [ember-cli-page-object](https://github.com/san650/ember-cli-page-object) - This ember-cli addon eases the construction of page objects on your acceptance and integration tests.
+- [ember-cli-yadda](https://github.com/albertjan/ember-cli-yadda) - Write cucumber specs for ember-cli applications.
+- [ember-concurrency-test-waiter](https://github.com/bendemboski/ember-concurrency-test-waiter) - Easily enable test waiters for ember-concurrency tasks.
+- [ember-exam](https://github.com/trentmwillis/ember-exam) - Run your tests with randomization, splitting, and parallelization for beautiful tests.
+- [ember-percy](https://github.com/percy/ember-percy) - Ember.js addon for visual regression testing with Percy.
+- [ember-qunit](https://github.com/emberjs/ember-qunit) - QUnit test helpers for Ember.js.
 - [ember-test-friendly-error-handler](https://github.com/rwjblue/ember-test-friendly-error-handler) - Build testable error handlers that don't throw in production...
-- [ember-test-selectors](https://github.com/simplabs/ember-test-selectors) - 在 Ember.js 测试中启用更好的元素选择器.
-- [ember-test-setup](https://github.com/kellyselden/ember-test-setup) - 测试速记以减少重复.
-- [ember-window-mock](https://github.com/kaliber5/ember-window-mock) - 使用全局窗口作为可以在测试中模拟的 Ember.js 服务.
-- [mirage-glue](https://github.com/izelnakri/mirage-glue) - 该程序读取您的 API 端点并创建或附加对相关 Mirage 夹具文件的响应.
-- [ember-sinon](https://github.com/csantero/ember-sinon) - Ember CLI 插件添加了对 sinon.js 的支持.
+- [ember-test-selectors](https://github.com/simplabs/ember-test-selectors) - Enabling better element selectors in Ember.js tests.
+- [ember-test-setup](https://github.com/kellyselden/ember-test-setup) - Testing shorthands to reduce duplication.
+- [ember-window-mock](https://github.com/kaliber5/ember-window-mock) - Use window global as an Ember.js service that can be mocked in tests.
+- [mirage-glue](https://github.com/izelnakri/mirage-glue) - This program reads your API endpoint and creates or appends response to relevant mirage fixture file(s).
+- [ember-sinon](https://github.com/csantero/ember-sinon) - Ember CLI addon adding support for sinon.js.
 
 ### Text
 
-- [ember-text-measurer](https://github.com/cibernox/ember-text-measurer) - 简单的 Ember.js 服务以高效的方式测量字符串的宽度.
+- [ember-text-measurer](https://github.com/cibernox/ember-text-measurer) - Simple Ember.js Service to measure the width of a string in a performant way.
 
 
 ### Tree Shaking
-- [ember-cli-tree-shaker](https://github.com/kellyselden/ember-cli-tree-shaker) - 这是 Kelly Selden 和 Alex Navasardyan 的新 tree-shaking 和代码拆分工作的测试平台.
+- [ember-cli-tree-shaker](https://github.com/kellyselden/ember-cli-tree-shaker) - This is a testbed for the new tree-shaking and code splitting work from Kelly Selden and Alex Navasardyan.
 
 ### TypeScript
 
-- [ember-cli-typescript](https://github.com/typed-ember/ember-cli-typescript) - 在您的 Ember.js 应用程序中使用 TypeScript！
-- [ember-typings](https://github.com/typed-ember/ember-typings) - ember.js 的打字稿类型定义.
-- [ember-typescript-utils](https://github.com/happycollision/ember-typescript-utils) - 围绕 Typescript 和 Ember.js 构建的实用函数.
+- [ember-cli-typescript](https://github.com/typed-ember/ember-cli-typescript) - Use TypeScript in your Ember.js apps!
+- [ember-typings](https://github.com/typed-ember/ember-typings) - Typescript type definitions for ember.js.
+- [ember-typescript-utils](https://github.com/happycollision/ember-typescript-utils) - Utility functions built around Typescript and Ember.js.
 
 
 ### UI libs
 
-- [ember-bootstrap](http://www.ember-bootstrap.com/) - 提供一组原生 Ember.js 组件，以 ember 友好的方式模仿原始的 Bootstrap 插件和组件.
-- [Frontile](https://github.com/josemarluedke/frontile) - Frontile 旨在提供构建一致且强大的 Ember.js 应用程序所需的乐高积木（组件、助手、修饰符和样式）.
-- [ember-cli-uniq](https://github.com/uniplaces/ember-cli-uniq/) - 实施 Uniplaces 设计系统的 Ember.js 的默认组件.
-- [ember-element-ui](https://github.com/aalasolutions/ember-element-ui) - 为 ember 提供 element-ui.
+- [ember-bootstrap](http://www.ember-bootstrap.com/) - Provides a collection of native Ember.js components that mimic the original Bootstrap plugins and components in an ember friendly way.
+- [Frontile](https://github.com/josemarluedke/frontile) - Frontile aims to provide the legos (components, helpers, modifiers, and styles) necessary for building consistent and powerful Ember.js apps.
+- [ember-cli-uniq](https://github.com/uniplaces/ember-cli-uniq/) - Default components for Ember.js that implement the Uniplaces Design System.
+- [ember-element-ui](https://github.com/aalasolutions/ember-element-ui) - Provides element-ui for ember.
 - [ember-elements](https://github.com/dunkinbase/ember-elements) - [a UI toolkit in Ember](https://dunkinbase.github.io/ember-elements/)
-- [ember-ghost-casper-template](https://github.com/stonecircle/ember-ghost-casper-template) - Ghost 默认个人博客主题的静态站点版本.
-- [ember-paper](https://github.com/miguelcobain/ember-paper) - 材料设计的 Ember.js 方法.
-- [ember-radical](https://github.com/healthsparq/ember-radical) - 适用于您的 Ember.js 应用程序的轻巧、完全可访问的 DDAU 组件库.
+- [ember-ghost-casper-template](https://github.com/stonecircle/ember-ghost-casper-template) - A static site version of the default personal blogging theme for Ghost.
+- [ember-paper](https://github.com/miguelcobain/ember-paper) - The Ember.js approach to Material Design.
+- [ember-radical](https://github.com/healthsparq/ember-radical) - Feather light, fully accessible DDAU component library for your Ember.js apps.
 - [Nomad UI](https://github.com/hashicorp/nomad/tree/master/ui)
-- [Semantic-UI-Ember](https://github.com/Semantic-Org/Semantic-UI-Ember) - 这是语义 UI 模块的官方 Ember.js 库.
+- [Semantic-UI-Ember](https://github.com/Semantic-Org/Semantic-UI-Ember) - This is the official Ember.js library for the Semantic-UI modules.
 - [Flexi](https://github.com/html-next/flexi)
 
 ### UI components
 
-- [ember-attacher](https://kybishop.github.io/ember-attacher/) - 工具提示和弹出窗口变得简单.
-- [ember-burger-menu](https://github.com/offirgolan/ember-burger-menu) - 带有使用 CSS 过渡的动画和样式集合的画布侧边栏组件.
-- [ember-flatpickr](https://github.com/shipshapecode/ember-flatpickr) - 包装 Flatpickr 日期选择器的 Ember.js 插件.
-- [ember-power-select](https://github.com/cibernox/ember-power-select) - 为 ember 构建的可扩展选择组件.
-- [ember-basic-dropdown](https://github.com/cibernox/ember-basic-dropdown) - 嵌入应用程序所需的基本下拉菜单.
-- [ember-drag-sort](https://github.com/kaliber5/ember-drag-sort) - 支持多个和嵌套列表的可排序列表组件.
-- [ember-perfect-scroll](https://github.com/imanhodjaev/ember-perfect-scroll) - 作为 Ember cli 插件的完美滚动组件.
+- [ember-attacher](https://kybishop.github.io/ember-attacher/) - Tooltips & popovers made easy.
+- [ember-burger-menu](https://github.com/offirgolan/ember-burger-menu) - An off-canvas sidebar component with a collection of animations and styles using CSS transitions.
+- [ember-flatpickr](https://github.com/shipshapecode/ember-flatpickr) - An Ember.js addon that wraps the Flatpickr date picker.
+- [ember-power-select](https://github.com/cibernox/ember-power-select) - The extensible select component built for ember.
+- [ember-basic-dropdown](https://github.com/cibernox/ember-basic-dropdown) - The basic dropdown you ember app needs.
+- [ember-drag-sort](https://github.com/kaliber5/ember-drag-sort) - A sortable list component with support for multiple and nested lists.
+- [ember-perfect-scroll](https://github.com/imanhodjaev/ember-perfect-scroll) - Perfect scroll component as an Ember cli addon.
 
 ### UX
 
-- [ember-onbeforeunload](https://github.com/jasonmit/ember-onbeforeunload) - 在路线之间转换或关闭窗口时调用逻辑.
+- [ember-onbeforeunload](https://github.com/jasonmit/ember-onbeforeunload) - Invoke logic when transitioning between routes or closing window.
 
 ### VR
 
@@ -608,12 +609,12 @@
 
 ### VS Code addons
 
-- [Ember Syntax](https://marketplace.visualstudio.com/items?itemName=dhedgecock.ember-syntax) - Ember.js 模板文件的语法突出显示以及带有标记模板的内联模板定义的语法突出显示！
-- [Glimmer Templates Syntax for VS Code](https://marketplace.visualstudio.com/items?itemName=lifeart.vscode-glimmer-syntax) - Ember.js 的 Glimmer 语法突出显示.
-- [ember-language-server](https://github.com/emberwatch/ember-language-server) - Ember.js 项目的语言服务器协议实现.
-- [unstable-ember-language-server](https://marketplace.visualstudio.com/items?itemName=lifeart.vscode-ember-unstable) - Ember.js 项目的语言服务器协议实现（不稳定，包括实验性功能）.
-- [vscode-ember-colorizer](https://github.com/ciena-blueplanet/vscode-ember-colorizer) - 着色/标记 Ember.js .hbs、控制器和路由文件的 VSCode 扩展.
-- [ember-module-snippets](https://github.com/candidmetrics/ember-module-snippets) - 使导入 Ember.js 模块在 VSCode 中变得轻而易举的片段.
+- [Ember Syntax](https://marketplace.visualstudio.com/items?itemName=dhedgecock.ember-syntax) - Syntax highlighting for Ember.js template files AND syntax highlighting for inline template definitions with tagged templates!
+- [Glimmer Templates Syntax for VS Code](https://marketplace.visualstudio.com/items?itemName=lifeart.vscode-glimmer-syntax) - Glimmer syntax highlighting for Ember.js.
+- [ember-language-server](https://github.com/emberwatch/ember-language-server) - Language Server Protocol implementation for Ember.js projects.
+- [unstable-ember-language-server](https://marketplace.visualstudio.com/items?itemName=lifeart.vscode-ember-unstable) - Language Server Protocol implementation for Ember.js projects (Unstable, including experimental features).
+- [vscode-ember-colorizer](https://github.com/ciena-blueplanet/vscode-ember-colorizer) - VSCode extension that colorizes/tokeninzes Ember.js .hbs, Controllers, and Routes files.
+- [ember-module-snippets](https://github.com/candidmetrics/ember-module-snippets) - Snippets to make importing Ember.js modules a snap in VSCode.
 
 ### Atom addons	
 
@@ -625,8 +626,8 @@
 
 ### Web Components
 
-- [ember-cli-web-components](https://github.com/BBVAEngineering/ember-cli-web-components) - 在其他框架中使用您的 Ember.js 组件作为 Web 组件！	
-- [shadow-dom](https://github.com/knownasilya/ember-shadow-dom) - 在 Shadow DOM 根目录中为您的组件编写模板.
+- [ember-cli-web-components](https://github.com/BBVAEngineering/ember-cli-web-components) - Use your Ember.js components in other framework as Web Components!	
+- [shadow-dom](https://github.com/knownasilya/ember-shadow-dom) - Write templates for your components inside of a Shadow DOM root.
 
 ### Webpack
 
@@ -634,7 +635,7 @@
 
 ### Weird
 
-- [ember-dynamic-render-template](https://github.com/miguelcobain/ember-dynamic-render-template) - 从模板字符串渲染 DOM.
+- [ember-dynamic-render-template](https://github.com/miguelcobain/ember-dynamic-render-template) - Render DOM from a template string.
 
 ### Resources
 
@@ -734,7 +735,7 @@
 - [EmberCamp Module Unification Update](https://madhatted.com/2017/7/12/embercamp-module-unification-update)
 - [Skeleton Screen Loading in Ember.js](https://emberway.io/skeleton-screen-loading-in-ember-js-2f7ac2384d63)
 - [Static Blogs with Prember and Markdown](https://shipshape.io/blog/static-blogs-with-prember-and-markdown/)
-- [Tom Dale on Ember.js and JavaScript Frameworks](https://www.infoq.com/interviews/tom-dale-ember) - 2013 年.
+- [Tom Dale on Ember.js and JavaScript Frameworks](https://www.infoq.com/interviews/tom-dale-ember) - Year 2013.
 - [Using ember-freestyle as a component playground](https://simplabs.com/blog/2018/01/24/ember-freestyle.html)
 - [Using npm libraries in Ember CLI](https://simplabs.com/blog/2017/02/13/npm-libs-in-ember-cli.html)
 - [We have a new Ember.js front-end!](https://medium.com/@appaloosastore/we-have-a-new-emberjs-front-end-c7246e76cdbd)
@@ -790,7 +791,7 @@
 - [The Glimmer VM: Boots Fast and Stays Fast](https://yehudakatz.com/2017/04/05/the-glimmer-vm-boots-fast-and-stays-fast/)
 - [The Glimmer Binary Experience](https://engineering.linkedin.com/blog/2017/12/the-glimmer-binary-experience)
 - [Glimmer.js: What’s the Deal with TypeScript?](https://medium.com/@tomdale/glimmer-js-whats-the-deal-with-typescript-f666d1a3aad0)
-- [Glimmer.js Application proposal](https://gist.github.com/tomdale/10fe9feeb84f2e4325f042839799bd9d) - 编译、渲染、SSR、再水化.
+- [Glimmer.js Application proposal](https://gist.github.com/tomdale/10fe9feeb84f2e4325f042839799bd9d) - Compilation, Rendering, SSR, Rehydration.
 - [Git Guides](https://github.com/glimmerjs/glimmer-vm/blob/master/guides/01-introduction.md)
 - [Designing and Implementing Glimmer Like a Programming Language](https://thefeedbackloop.xyz/designing-and-implementing-glimmer-like-a-programming-language/)
 - [Glimmer: Blazing Fast Rendering for Ember.js, Part 1](https://engineering.linkedin.com/blog/2017/03/glimmer--blazing-fast-rendering-for-ember-js--part-1)
@@ -818,7 +819,7 @@
 - [ember-cli-typescript v2 beta](https://www.chriskrycho.com/2018/ember-cli-typescript-v2-beta.html)
 - [Ember Typescript Code Coverage - how to gist](https://gist.github.com/lifeart/5f75981d5f6262d1bfc4525aebfcf7d5)
 - [Type-Informed Design](https://www.chriskrycho.com/2018/type-informed-design.html)
-- [Typing Your Ember.js](https://www.chriskrycho.com/typing-your-ember.html) - 将 TypeScript 与 Ember.js 结合使用.
+- [Typing Your Ember.js](https://www.chriskrycho.com/typing-your-ember.html) - Using TypeScript with Ember.js.
 - [Ember.js, TypeScript, and Class Properties](https://www.chriskrycho.com/2018/ember-ts-class-properties.html)
 - [Set your Ember.js project up to use TypeScript](http://www.chriskrycho.com/2017/typing-your-ember-part-1.html)
 - [Class properties — some notes on how things differ from the Ember.Object world](https://www.chriskrycho.com/2018/typing-your-ember-update-part-2.html)
@@ -893,7 +894,7 @@
 - [201-created.com](https://blog.201-created.com/)
 - [airpair.com](https://www.airpair.com/ember.js)
 - [alexdiliberto.com](https://alexdiliberto.com/)
-- [balinterdi.com](https://balinterdi.com/blog/) - Balint Erdi 博客.
+- [balinterdi.com](https://balinterdi.com/blog/) - Balint Erdi blog.
 - [codeburst.io](https://codeburst.io/tagged/emberjs)
 - [codementor.io](https://www.codementor.io/community/topic/emberjs)
 - [dockyard.com](https://dockyard.com/blog/categories/ember)
@@ -903,9 +904,9 @@
 - [hackernoon.com](https://hackernoon.com/tagged/ember)
 - [lolma.us](https://lolma.us/en/blog)
 - [madhatted.com](https://madhatted.com/)
-- [medium.com/ember-ish](https://medium.com/ember-ish) - 适用于初学者和中级开发人员的 Ember.js 基础知识.
+- [medium.com/ember-ish](https://medium.com/ember-ish) - Ember.js essentials for beginners and intermediate devs.
 - [netguru.co](https://www.netguru.co/blog/topic/ember-js)
-- [programwitherik.com](https://www.programwitherik.com) - Ember.js 啧啧啧.
+- [programwitherik.com](https://www.programwitherik.com) - Ember.js tuts.
 - [rwjblue.com](http://rwjblue.com/)
 - [shipshape.io](https://shipshape.io/blog/)
 - [simplabs.com](https://simplabs.com/blog/)
@@ -917,9 +918,9 @@
 - [A deep dive into the Ember.js runloop](https://github.com/eoinkelly/ember-runloop-handbook)
 - [Developing an Ember.js Edge](https://gumroad.com/l/xlsx)
 - [Ember Data in the Wild](https://leanpub.com/emberdatainthewild)
-- [ember-cli 101](https://leanpub.com/ember-cli-101) - 阿道夫·布莱斯 (Adolfo Builes).
-- [Ember.js for Artisans](https://leanpub.com/emberforartisans) - 创建由 Laravel 支持的单页应用程序.
-- [Ember.js in Action](http://manning.com/skeie/) - 约阿希姆·哈根·斯基 (Joachim Haagen Skeie).
+- [ember-cli 101](https://leanpub.com/ember-cli-101) - By Adolfo Builes.
+- [Ember.js for Artisans](https://leanpub.com/emberforartisans) - Creating Single Page Apps backed by Laravel.
+- [Ember.js in Action](http://manning.com/skeie/) - By Joachim Haagen Skeie.
 - [Professor Frisby's Mostly adequate guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide-old/)
 - [Rock and Roll with Ember.js](http://rockandrollwithemberjs.com/)
 - [Ember.js Book (RU)](https://leanpub.com/ember-book)
@@ -930,22 +931,22 @@
 - [API](https://emberjs.com/api/)
 - [Glimmer.js](https://glimmerjs.com/)
 - [guides](https://guides.emberjs.com/)
-- [Ember Component Cheat Sheet](https://codingitwrong.com/2019/07/23/ember-component-cheat-sheet.html) - 前辛烷值
+- [Ember Component Cheat Sheet](https://codingitwrong.com/2019/07/23/ember-component-cheat-sheet.html) - pre Octane
 
 ### Codemods
-- [ember-es6-class-codemod](https://github.com/scalvert/ember-es6-class-codemod) - 用于将 Ember.js 对象转换为 es6 本机类的 codemod-cli 项目.
-- [ember-native-class-codemod](https://github.com/ember-codemods/ember-native-class-codemod) - 一个 codemod，用于将你的 ember 应用程序代码转换为带有装饰器的原生 JavaScript 类语法！
-- [ember-cli-mirage-faker-codemod](https://github.com/caseywatts/ember-cli-mirage-faker-codemod) - 这个 codemod 是为了帮助从通过 ember-cli-mirage 导入 faker 过渡到直接从 faker 导入它.
-- [ember-mocha-codemods](https://github.com/Turbo87/ember-mocha-codemods) - 用于 ember-mocha 的 Codemod 脚本.
-- [ember-module-migrator](https://github.com/rwjblue/ember-module-migrator) - 自动迁移新的 Ember.js 应用程序布局.
-- [ember-qunit-codemod](https://github.com/rwjblue/ember-qunit-codemod) - 此 codemod 旨在自动将您的项目从 ember-qunit@2 的旧 moduleFor* 语法转换为较新的语法.
-- [ember-test-helpers-codemod](https://github.com/simonihmig/ember-test-helpers-codemod) - Codemod 将您的 Ember.js 测试转换为使用 @ember/test-helpers.
-- [es5-getter-ember-codemod](https://github.com/rondale-sc/es5-getter-ember-codemod) - 此 codemod 旨在自动将您对 get 和 getProperties 的使用转换为使用传统的对象点表示法.
-- [qunit-dom-codemod](https://github.com/simplabs/qunit-dom-codemod) - 基本 codemod 自动将您的断言转换为 qunit-dom 断言.
-- [test-selectors-codemod](https://github.com/lorcan/test-selectors-codemod) - 用于修复 ember-test-selectors testSelector 助手弃用的代码模式.
-- [ember-on-codemod](https://github.com/craigbilner/ember-on-codemod) - 替换对 Ember.on 的使用.
-- [ember-memory-leaks-codemod](https://github.com/rajasegar/ember-memory-leaks-codemod) - 用于修复 Ember.js 应用程序中的内存泄漏的 codemod 集合.
-- [ember-3x-codemods](https://github.com/rajasegar/ember-3x-codemods) - 带有一系列转换的 Codemod 以解决 Ember.js 3.x 弃用问题.
+- [ember-es6-class-codemod](https://github.com/scalvert/ember-es6-class-codemod) - A codemod-cli project for converting Ember.js objects to es6 native classes.
+- [ember-native-class-codemod](https://github.com/ember-codemods/ember-native-class-codemod) - A codemod for transforming your ember app code to native JavaScript class syntax with decorators!
+- [ember-cli-mirage-faker-codemod](https://github.com/caseywatts/ember-cli-mirage-faker-codemod) - This codemod is to help transition from importing faker through ember-cli-mirage, to instead import it directly from faker.
+- [ember-mocha-codemods](https://github.com/Turbo87/ember-mocha-codemods) - Codemod scripts for ember-mocha.
+- [ember-module-migrator](https://github.com/rwjblue/ember-module-migrator) - Automated migration for new Ember.js application layout.
+- [ember-qunit-codemod](https://github.com/rwjblue/ember-qunit-codemod) - This codemod is intended to automatically convert your projects from the older moduleFor* syntax of ember-qunit@2 to the newer syntax.
+- [ember-test-helpers-codemod](https://github.com/simonihmig/ember-test-helpers-codemod) - Codemod to transform your Ember.js tests to use @ember/test-helpers.
+- [es5-getter-ember-codemod](https://github.com/rondale-sc/es5-getter-ember-codemod) - This codemod is intended to automatically convert your usage of get, and getProperties to use traditional object dot notation.
+- [qunit-dom-codemod](https://github.com/simplabs/qunit-dom-codemod) - Basic codemod to automatically convert your assertions to qunit-dom assertions.
+- [test-selectors-codemod](https://github.com/lorcan/test-selectors-codemod) - A codemode for fixing the ember-test-selectors testSelector helper deprecation.
+- [ember-on-codemod](https://github.com/craigbilner/ember-on-codemod) - Replace use of Ember.on.
+- [ember-memory-leaks-codemod](https://github.com/rajasegar/ember-memory-leaks-codemod) - A collection of codemod's for fixing memory leaks in Ember.js applications.
+- [ember-3x-codemods](https://github.com/rajasegar/ember-3x-codemods) - A Codemod with a collection of transforms to address Ember.js 3.x deprecations.
 - [ember-computed-getter-codemod](https://github.com/Alonski/ember-computed-getter-codemod) - Ember.js Computed Getter Codemod.
 
 ### Community
@@ -972,54 +973,54 @@
 
 ### Discovery
 
-- [emberobserver](https://emberobserver.com/) - 灰烬观察者.
-- [emberjs.GitHub.io/rfcs/](https://emberjs.github.io/rfcs/) - Ember.js RFC.
+- [emberobserver](https://emberobserver.com/) - Ember Observer.
+- [emberjs.GitHub.io/rfcs/](https://emberjs.github.io/rfcs/) - Ember.js RFCs.
 
 ### Ember Releases
 
-- [Ember 3.10 Released](https://blog.emberjs.com/2019/05/21/ember-3-10-released.html) - 2019 年 5 月 21 日
-- [Ember 3.11](https://blog.emberjs.com/2019/07/15/ember-3-11-released.html) - 2019 年 7 月 15 日
-- [Ember 3.12](https://blog.emberjs.com/2019/08/16/ember-3-12-released.html) - 2019 年 8 月 16 日
-- [Ember 3.13 (Octane Preview)](https://blog.emberjs.com/2019/09/25/ember-3-13-released.html) - 2019 年 9 月 25 日
-- [Ember 3.14 (Octane Preview Cont.)](https://blog.emberjs.com/2019/11/18/ember-3-14-released.html) - 2019 年 11 月 18 日
-- [Ember 3.15 "Octane" Released](https://blog.emberjs.com/2019/12/20/ember-3-15-released.html) - 2019 年 12 月 20 日
-- [Ember 3.16](https://blog.emberjs.com/2020/02/12/ember-3-16-released.html) - 2020 年 2 月 12 日
-- [Ember 3.17](https://blog.emberjs.com/2020/03/16/ember-3-17-released.html) - 2020 年 3 月 16 日
-- [Ember 3.18](https://blog.emberjs.com/2020/05/05/ember-3-18-released.html) - 2020 年 5 月 5 日
-- [Ember 3.19](https://blog.emberjs.com/2020/06/26/ember-3-19-released.html) - 2020 年 6 月 26 日
-- [Ember 3.20](https://blog.emberjs.com/2020/07/29/ember-3-20-released.html) - 2020 年 7 月 29 日
-- [Ember 3.21](https://blog.emberjs.com/2020/09/02/ember-3-21-released.html) - 2020 年 9 月 2 日
-- [Ember 3.22](https://blog.emberjs.com/2020/10/20/ember-3-22-released.html) - 2020 年 10 月 20 日
+- [Ember 3.10 Released](https://blog.emberjs.com/2019/05/21/ember-3-10-released.html) - May 21, 2019
+- [Ember 3.11](https://blog.emberjs.com/2019/07/15/ember-3-11-released.html) - July 15, 2019
+- [Ember 3.12](https://blog.emberjs.com/2019/08/16/ember-3-12-released.html) - August 16, 2019
+- [Ember 3.13 (Octane Preview)](https://blog.emberjs.com/2019/09/25/ember-3-13-released.html) - Sep 25, 2019
+- [Ember 3.14 (Octane Preview Cont.)](https://blog.emberjs.com/2019/11/18/ember-3-14-released.html) - Nov 18, 2019
+- [Ember 3.15 "Octane" Released](https://blog.emberjs.com/2019/12/20/ember-3-15-released.html) - Dec 20, 2019
+- [Ember 3.16](https://blog.emberjs.com/2020/02/12/ember-3-16-released.html) - Feb 12, 2020
+- [Ember 3.17](https://blog.emberjs.com/2020/03/16/ember-3-17-released.html) - March 16, 2020
+- [Ember 3.18](https://blog.emberjs.com/2020/05/05/ember-3-18-released.html) - May 5, 2020
+- [Ember 3.19](https://blog.emberjs.com/2020/06/26/ember-3-19-released.html) - June 26, 2020
+- [Ember 3.20](https://blog.emberjs.com/2020/07/29/ember-3-20-released.html) - July 29, 2020
+- [Ember 3.21](https://blog.emberjs.com/2020/09/02/ember-3-21-released.html) - Sep 02, 2020
+- [Ember 3.22](https://blog.emberjs.com/2020/10/20/ember-3-22-released.html) - Oct 20, 2020
 
 ### Examples
 - [A list of open source Ember.js apps](https://github.com/EmberSherpa/open-source-ember-apps)
 - [Simple contact manager demo app for ember-orbit](https://github.com/cerebris/peeps-ember-orbit)
-- [API Docs](https://github.com/ember-learn/ember-api-docs) - 此应用程序旨在显示我们版本化的 API 文档.
-- [guides-app](https://github.com/ember-learn/guides-app) - 替换 emberjs/guides 和 Ember.js 指南.
-- [Builds](https://github.com/ember-learn/builds) - 这是 Ember.js 团队构建的应用程序，用于显示我们的各种发布渠道.
-- [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend) - HospitalRun 的 Ember.js 前端 [hospitalrun.io](http://hospitalrun.io/).
-- [Rancher](https://github.com/rancher/ui) - [Rancher](http://rancher.com) 是 Kubernetes 的企业管理.
-- [Super Rentals](https://github.com/ember-learn/super-rentals) - Super Rentals 是一个很好的入门项目，可以让您适应 Ember.js 的做事方式.
-- [Travis CI](https://github.com/travis-ci/travis-web) - Ember.js 网络客户端 [Travis CI](https://travis-ci.org/).
-- [Vault](https://github.com/hashicorp/vault/tree/master/ui/app) - 管理机密的工具 (Hashicorp).
-- [ember-osf-web](https://github.com/CenterForOpenScience/ember-osf-web) - 开放科学框架的 Ember.js 前端.
-- [ember-graphql-examples](https://github.com/chadian/ember-graphql-examples) - 在 Ember.js 中使用 GraphQL 的示例.
-- [ember-rolodex](https://github.com/rtablada/ember-rolodex) - 快速入门和 Super Rents 之间的 Ember.js 教程示例.
+- [API Docs](https://github.com/ember-learn/ember-api-docs) - This application was built to display our versioned API docs.
+- [guides-app](https://github.com/ember-learn/guides-app) - Replacement for emberjs/guides and the Ember.js Guides.
+- [Builds](https://github.com/ember-learn/builds) - This is the application that the Ember.js team built to display our various release channels.
+- [HospitalRun](https://github.com/HospitalRun/hospitalrun-frontend) - Ember.js front end for HospitalRun [hospitalrun.io](http://hospitalrun.io/).
+- [Rancher](https://github.com/rancher/ui) - [Rancher](http://rancher.com) is enterprise management for Kubernetes.
+- [Super Rentals](https://github.com/ember-learn/super-rentals) - Super Rentals is a good starter project to get acclimated to the Ember.js way of doing things.
+- [Travis CI](https://github.com/travis-ci/travis-web) - The Ember.js web client for [Travis CI](https://travis-ci.org/).
+- [Vault](https://github.com/hashicorp/vault/tree/master/ui/app) - A Tool for Managing Secrets (Hashicorp).
+- [ember-osf-web](https://github.com/CenterForOpenScience/ember-osf-web) - Ember.js front-end for the Open Science Framework.
+- [ember-graphql-examples](https://github.com/chadian/ember-graphql-examples) - Examples of using GraphQL in Ember.js.
+- [ember-rolodex](https://github.com/rtablada/ember-rolodex) - An example of what an Ember.js tutorial between the quick start and Super Rents could look like.
 - [ember-styleguide](https://github.com/ember-learn/ember-styleguide)
 - [Ghost Admin Client](https://github.com/TryGhost/Ghost-Admin)
-- [emberclear](https://github.com/NullVoxPopuli/emberclear)  - 加密聊天. 没有历史. 没有日志.  + 穆 &amp; TS.
+- [emberclear](https://github.com/NullVoxPopuli/emberclear) - Encrypted Chat. No History. No Logs.  + MU & TS.
 - [Ember.js nested engines example app + Fastboot.](https://github.com/catz/eng-test)
 - [Percy's frontend web application, built with Ember.js.](https://github.com/percy/percy-web)
-- [Fire Tracker](https://github.com/SCPR/fire-tracker) - KPCC 用于跟踪和研究加州野火的工具.
-- [skylines-project](https://github.com/skylines-project/skylines/tree/master/ember) - 实时跟踪、航班数据库和比赛框架.
-- [PIX](https://github.com/1024pix/pix-editor) -PIX.
+- [Fire Tracker](https://github.com/SCPR/fire-tracker) - KPCC's tool for following & researching California wildfires.
+- [skylines-project](https://github.com/skylines-project/skylines/tree/master/ember) - Live tracking, flight database and competition framework.
+- [PIX](https://github.com/1024pix/pix-editor) - PIX.
 - [ember-monorepo-demo](https://github.com/lennyburdette/ember-monorepo-demo)
 - [documize.com](https://github.com/documize/community)
 - [New York City Census Reporting Tool](https://github.com/NYCPlanning/labs-factfinder)
-- [Medicine Inventory](https://github.com/aalasolutions/ember-medical-inventory) - 使用 Ember CLI、Corber.io、ember-element-ui 开发的示例应用程序.
+- [Medicine Inventory](https://github.com/aalasolutions/ember-medical-inventory) - Sample application developed with Ember CLI, Corber.io, ember-element-ui.
 - [octane-ecommerce](https://github.com/betocantu93/octane-ecommerce) - Ember Octane + FastBoot + Algolia + PayPal + Formspree ([s](https://docs.google.com/presentation/d/1YaG26Fj-tVjyFV8LvQJkfIH89-HYdkfHfhdRz3bC2-k/edit#slide=id.g56ccd9a7f0_0_33), [v](https://www.youtube.com/watch?v=KnkWs18V9dA&feature=youtu.be), [d](https://octane-ecommerce.herokuapp.com/)).
 - [Rust Package Registry](https://github.com/rust-lang/crates.io) - [crates.io](https://crates.io)
-- [Ember.js RealWorld Implementation](https://github.com/gothinkster/ember-realworld) - Ember.js 代码库包含符合 RealWorld 规范和 API 的真实示例（CRUD、身份验证、高级模式等）.
+- [Ember.js RealWorld Implementation](https://github.com/gothinkster/ember-realworld) - Ember.js codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the RealWorld spec and API.
 - [A wild tomster appears](https://github.com/scudco/tomsweeper)
 - [An ember integration for building visual programming editors with blockly.](https://github.com/Program-AR/ember-blockly)
 - [https://www.submarinecablemap.com/](https://www.submarinecablemap.com/)
@@ -1028,25 +1029,25 @@
 
 
 ### Examples Glimmer
-- [breethe-client](https://github.com/simplabs/breethe-client) - 世界各地的空气质量数据.
-- [Glimmeroids](https://github.com/t-sauer/Glimmeroids) - 使用 Glimmer.js 的小行星实现.
-- [glimmer-hn-pwa](https://github.com/mhadaily/glimmer-hn-pwa) - 由 Glimmer.js 提供支持的黑客新闻渐进式 Web 应用程序演示.
-- [the-chosen](https://github.com/FLarra/the-chosen) - 创建 Glimmer.js 项目是为了在我们的 scrum 日常会议期间更轻松地学习和决定谁是下一个分享状态的人.
-- [glimmer_eats](https://github.com/James-Byrne/glimmer_eats) - 使用 Glimmer.js 构建的演示 PWA.
-- [built-with-spaghetti](https://github.com/gordonbisnor/built-with-spaghetti) - Built with Spaghetti 旨在充当网络艺术的门户.
-- [glimmer-live-chat](https://github.com/rajasegar/glimmer-live-chat) - 使用 Glimmer.js 制作的实时聊天应用程序.
-- [glimmer-synth](https://github.com/jimenglish81/glimmer-synth) - 使用 WebAudio 和 Glimmer.js 构建的合成器.
-- [glimmer-js-online-offline-demo](https://github.com/thomasbrus/glimmer-js-online-offline-demo) - Glimmer.js 应用示例：在线/离线浏览器事件.
-- [glimmer-qrious](https://github.com/c0urg3tt3/glimmer-qrious) - Glimmer.js 组件使用 QRious 库在网页中生成二维码.
-- [glimmerjs-address-book-demo](https://github.com/ttdonovan/glimmerjs-address-book-demo) - 示例 Glimmer.js 应用程序 - 地址簿演示.
-- [glimmer-dashboard](https://github.com/JustInToCoding/glimmer-dashboard) - Glimmer.js 仪表板示例.
-- [glimmer-redux-todo](https://github.com/bashmach/glimmer-redux-todo) - 用 Glimmer.js 和 Redux 编写的 Todo 应用程序.
-- [glimmer-pong](https://github.com/knownasilya/glimmer-pong) - 使用 Glimmer.js 和 SVG 编写的乒乓球游戏.
-- [glimmer-material](https://github.com/cyk/glimmer-material) - Web 材料组件的 Glimmer.js 包装器.
-- [glimmer-of-life](https://github.com/trentmwillis/glimmer-of-life) - 使用 Glimmer.js 实现 Conway 的生命游戏.
-- [vorfreude](https://github.com/chadian/vorfreude) - 当你迫不及待但又不得不等的时候.
-- [endless-hoops](https://github.com/mtmckenna/endless-hoops) - 这是一款用 JavaScript/Canvas/Glimmer.js 编写的篮球比赛.
-- [glimmer-hangman](https://github.com/BenSchoenmakers94/glimmer-hangman) - Glimmer.js 中著名游戏“Hangman”的实现.
+- [breethe-client](https://github.com/simplabs/breethe-client) - Air Quality Data for Locations around the World.
+- [Glimmeroids](https://github.com/t-sauer/Glimmeroids) - Asteroids implementation using Glimmer.js.
+- [glimmer-hn-pwa](https://github.com/mhadaily/glimmer-hn-pwa) - A Demonstration Of Hacker News Progressive Web App Powered By Glimmer.js.
+- [the-chosen](https://github.com/FLarra/the-chosen) - Glimmer.js project created to learn & decide easier during our scrum dailies meeting who is the next person to share status.
+- [glimmer_eats](https://github.com/James-Byrne/glimmer_eats) - A demo PWA built with Glimmer.js.
+- [built-with-spaghetti](https://github.com/gordonbisnor/built-with-spaghetti) - Built with Spaghetti aims to function as a gateway to web art.
+- [glimmer-live-chat](https://github.com/rajasegar/glimmer-live-chat) - A Live chat application crafted using Glimmer.js.
+- [glimmer-synth](https://github.com/jimenglish81/glimmer-synth) - Synthesizer built using WebAudio and Glimmer.js.
+- [glimmer-js-online-offline-demo](https://github.com/thomasbrus/glimmer-js-online-offline-demo) - Sample Glimmer.js app: online/offline browser events.
+- [glimmer-qrious](https://github.com/c0urg3tt3/glimmer-qrious) - Glimmer.js components using QRious library to generate QR code in webpage.
+- [glimmerjs-address-book-demo](https://github.com/ttdonovan/glimmerjs-address-book-demo) - Example Glimmer.js application - AddressBook Demo.
+- [glimmer-dashboard](https://github.com/JustInToCoding/glimmer-dashboard) - Glimmer.js dashboard example.
+- [glimmer-redux-todo](https://github.com/bashmach/glimmer-redux-todo) - Todo app written with Glimmer.js and Redux.
+- [glimmer-pong](https://github.com/knownasilya/glimmer-pong) - Pong game written using Glimmer.js and SVGs.
+- [glimmer-material](https://github.com/cyk/glimmer-material) - A Glimmer.js wrapper for Material Components for the Web.
+- [glimmer-of-life](https://github.com/trentmwillis/glimmer-of-life) - An implementation of Conway's Game of Life using Glimmer.js.
+- [vorfreude](https://github.com/chadian/vorfreude) - When you can't wait but have to.
+- [endless-hoops](https://github.com/mtmckenna/endless-hoops) - It's a basketball game written in JavaScript/Canvas/Glimmer.js.
+- [glimmer-hangman](https://github.com/BenSchoenmakers94/glimmer-hangman) - A implementation of the well-known game 'Hangman' in Glimmer.js.
 
 
 ### Gists
@@ -1088,15 +1089,15 @@
 
 ### Miscellaneous
 
-- [builtwithember](http://builtwithember.io/) - 由 Ember.js 提供支持的应用程序.
-- [emberwatch](https://github.com/emberwatch) - Ember.js 内容的社区中心.
+- [builtwithember](http://builtwithember.io/) - Apps powered by Ember.js.
+- [emberwatch](https://github.com/emberwatch) - The community hub for Ember.js content.
 
 ### Newsletters
 
-- [Ember Weekly](http://www.emberweekly.com/) - 最新的 Ember.js 新闻、技巧和代码直接发送到您的收件箱.
-- [Official Ember Blog](https://emberjs.com/blog/) - 重大公告，例如新的 Ember.js 版本发行说明或国情咨文信息.
-- [statusboard](https://emberjs.com/statusboard/) - 状态板.
-- [The Ember Times](https://the-emberjs-times.ongoodbits.com/) - 来自 Ember.js 学习团队的更新.
+- [Ember Weekly](http://www.emberweekly.com/) - The latest Ember.js news, tips, and code delivered directly to your inbox.
+- [Official Ember Blog](https://emberjs.com/blog/) - Big announcements like new Ember.js version release notes or State of the Union information.
+- [statusboard](https://emberjs.com/statusboard/) - STATUS BOARD.
+- [The Ember Times](https://the-emberjs-times.ongoodbits.com/) - Updates from the Ember.js Learning Team.
 
 ### Podcasts
 
@@ -1104,40 +1105,40 @@
 - [emberweekend](https://emberweekend.com/episodes)
 
 ### Sandboxes
-- [Ember Twiddle](https://ember-twiddle.com/) - 用于多个文件的 Ember.js Twiddle，可让您将工作保存在 GitHub 中.
-- [Ember @ Glitch](https://ember.glitch.me/) - Glitch.me 与 Ember.js.
-- [Ember @ CodeSandbox](https://codesandbox.io/s/github/mike-north/ember-new-output) - 带有 Ember.js 的 CodeSandbox.
-- [Ember Octane @ CodeSandbox](https://codesandbox.io/s/octane-starter-li841) - Ember Octane CodeSandbox 模板.
+- [Ember Twiddle](https://ember-twiddle.com/) - An Ember.js Twiddle for multiples files which lets you save your work in GitHub.
+- [Ember @ Glitch](https://ember.glitch.me/) - Glitch.me with Ember.js.
+- [Ember @ CodeSandbox](https://codesandbox.io/s/github/mike-north/ember-new-output) - CodeSandbox with Ember.js.
+- [Ember Octane @ CodeSandbox](https://codesandbox.io/s/octane-starter-li841) - Ember Octane CodeSandbox template.
 
 ### Screencasts
 
 - [BuildLab: Ember.js Screencasts for the determined.](https://www.youtube.com/channel/UC1ssGKlQh87Ubyuv1lEiY0g)
-- [Ember Screencasts](https://www.emberscreencasts.com/) - 为忙碌的开发者提供的每周截屏视频.
-- [EmberCasts](http://www.embercasts.com/) - 目前处于中断状态，而作者正在开发下一个版本的 Handlebars.
-- [EmberWatch - Screencasts](http://emberwatch.com/screencasts.html) - Ember.js 截屏视频的集合.
+- [Ember Screencasts](https://www.emberscreencasts.com/) - Weekly Screencasts for the Busy Developer.
+- [EmberCasts](http://www.embercasts.com/) - Currently on hiatus whilst the author works on the next version of Handlebars.
+- [EmberWatch - Screencasts](http://emberwatch.com/screencasts.html) - A collection of Ember.js screencasts.
 - [Community Groups App - Creating Records in Ember CLI Mirage (part 2a)](https://www.youtube.com/watch?v=4iqNcTUXurY)
 - [Community Groups App - Creating Records in Ember CLI Mirage (part 2b)](https://www.youtube.com/watch?v=eAI1LxgSOqw)
 - [Community Groups App - Debugging relationships in Ember CLI Mirage (part 3)](https://www.youtube.com/watch?time_continue=1&v=DRzPJ4RMT0w)
 
 ### Slides
 
-- [30 Days Of Ember](https://slides.com/poslinski_net/30-days-of-ember) - 大卫·波辛斯基.
+- [30 Days Of Ember](https://slides.com/poslinski_net/30-days-of-ember) - Dawid Pośliński.
 - [NaNoWriMo: How can Ember help you write a novel](https://slides.com/emma_be/nanowrimo-ember#/) - @EmmaDelecolle.
-- [Slides from Ember JS Berlin talk, Design Patterns in Ember](https://github.com/chadian/ember-js-berlin-design-patterns) - 通过@chadian.
-- [Rainy Day Ember Data](https://speakerdeck.com/tonywok/rainy-day-ember-data) - 托尼·施耐德 (@tonywok).
-- [Building Realtime Apps with Ember.js and WebSockets](https://www.slideshare.net/BenLimmer/building-realtime-apps-with-emberjs-and-websockets) - 本利默.
-- [Deploying a Location-Aware Ember Application](https://www.slideshare.net/BenLimmer/deploying-a-locationaware-ember-application) - 本利默.
-- [Developing Desktop Apps with Electron & Ember.js - FITC WebU2017](https://www.slideshare.net/anulman/developing-desktop-apps-with-electron-emberjs-fitc-webu2017) - 艾丹·努尔曼.
+- [Slides from Ember JS Berlin talk, Design Patterns in Ember](https://github.com/chadian/ember-js-berlin-design-patterns) - By @chadian.
+- [Rainy Day Ember Data](https://speakerdeck.com/tonywok/rainy-day-ember-data) - Tony Schneider (@tonywok).
+- [Building Realtime Apps with Ember.js and WebSockets](https://www.slideshare.net/BenLimmer/building-realtime-apps-with-emberjs-and-websockets) - Ben Limmer.
+- [Deploying a Location-Aware Ember Application](https://www.slideshare.net/BenLimmer/deploying-a-locationaware-ember-application) -  Ben Limmer.
+- [Developing Desktop Apps with Electron & Ember.js - FITC WebU2017](https://www.slideshare.net/anulman/developing-desktop-apps-with-electron-emberjs-fitc-webu2017) - Aidan Nulman.
 - [Developing Desktop Apps with Electron & Ember.js](https://www.slideshare.net/fitc_slideshare/developing-desktop-apps-with-electron-emberjs)
-- [Ember addons, served three ways](https://www.slideshare.net/mikelnorth/ember-addons-served-three-ways) - 迈克北.
-- [Ember At Scale](https://www.slideshare.net/chadhietala/ember-at-scale) - Chad Hietala，LinkedIn.
-- [EmberConf 2015 – Ambitious UX for Ambitious Apps](https://www.slideshare.net/sugarpirate/emberconf-2015-ambitious-ux-for-ambitious-apps) - 劳伦·伊丽莎白·谭.
-- [EmberConf 2016 – Idiomatic Ember: Finding the Sweet Spot of Performance & Productivity](https://www.slideshare.net/sugarpirate/emberconf-2016-idiomatic-ember-finding-the-sweet-spot-of-performance-productivity) - 劳伦·伊丽莎白·谭.
-- [Fun with Ember 2.x Features](https://www.slideshare.net/BenLimmer/fun-with-ember-2x-features) - 本利默.
-- [How do I Even Web App](https://www.slideshare.net/lydiaguarino/how-do-i-even-web-app) - Lydia Guarino 介绍了使用 Ember CLI 进行 Web 编程.
-- [Rapid prototyping and easy testing with ember cli mirage](https://www.slideshare.net/KrzysztofBiaek1/rapid-prototyping-and-easy-testing-with-ember-cli-mirage) - 克里斯托弗·比亚莱克.
-- [Start Me Up - Building an MVP with EmberJS, Firebase and Material Design](https://www.slideshare.net/PickNBook/start-me-up-building-an-mvp-with-emberjs-firebase-and-material-design) -布伦丹·奥哈拉.
-- [Upgrading Ember.js Apps](https://www.slideshare.net/BenLimmer/upgrading-emberjs-apps) - 本利默.
+- [Ember addons, served three ways](https://www.slideshare.net/mikelnorth/ember-addons-served-three-ways) - Mike North.
+- [Ember At Scale](https://www.slideshare.net/chadhietala/ember-at-scale) - Chad Hietala, LinkedIn.
+- [EmberConf 2015 – Ambitious UX for Ambitious Apps](https://www.slideshare.net/sugarpirate/emberconf-2015-ambitious-ux-for-ambitious-apps) - Lauren Elizabeth Tan.
+- [EmberConf 2016 – Idiomatic Ember: Finding the Sweet Spot of Performance & Productivity](https://www.slideshare.net/sugarpirate/emberconf-2016-idiomatic-ember-finding-the-sweet-spot-of-performance-productivity) - Lauren Elizabeth Tan.
+- [Fun with Ember 2.x Features](https://www.slideshare.net/BenLimmer/fun-with-ember-2x-features) - Ben Limmer.
+- [How do I Even Web App](https://www.slideshare.net/lydiaguarino/how-do-i-even-web-app) - An introduction to web programming with Ember CLI by Lydia Guarino.
+- [Rapid prototyping and easy testing with ember cli mirage](https://www.slideshare.net/KrzysztofBiaek1/rapid-prototyping-and-easy-testing-with-ember-cli-mirage) -  Krzysztof Bialek.
+- [Start Me Up - Building an MVP with EmberJS, Firebase and Material Design](https://www.slideshare.net/PickNBook/start-me-up-building-an-mvp-with-emberjs-firebase-and-material-design) - Brendan O'Hara.
+- [Upgrading Ember.js Apps](https://www.slideshare.net/BenLimmer/upgrading-emberjs-apps) - Ben Limmer.
 
 ### Styleguides
 
@@ -1149,29 +1150,29 @@
 
 ### Tools
 
-- [Ember Data Sails Adapter](https://github.com/bmac/ember-data-sails-adapter) - 用于 Sails.js 套接字的 Ember Data 适配器.
-- [Ember Data WordPress Adapter](https://github.com/HeyHumanAgency/Ember-Data-WordPress) - 用于 WordPress JSON API 的 Ember Data 适配器.
-- [Ember Gist](http://ember-gist.joostdvrs.com/) - 使用 GitHub Gist 演示 Ember CLI&#39;eque 应用程序.
-- [Ember Inspector](https://github.com/emberjs/ember-inspector)  - 将 Ember.js 选项卡添加到 Chrome 或 Firefox 开发人员工具，允许您检查应用程序中的 Ember.js 对象.  - 官方维护.
-- [Ember Perf](https://github.com/mike-north/ember-perf) - 在您的 ember.js 应用程序中测量用户感知的性能数据.
-- [ember-cli-diff](http://www.ember-cli-diff.org/) - 一个简单的工具来查看新的 ember 应用程序之间的差异.
-- [ember-cli](https://ember-cli.com/) - 雄心勃勃的网络应用程序的命令行界面.
-- [ember-data-model-maker](https://andycrum.github.io/ember-data-model-maker/) - 用于制作余烬数据模型和有效负载示例的 UI.
-- [Glimmer Playground](https://try.glimmerjs.com/) - 一个 Glimmer.js 游乐场.
-- [mber](https://github.com/izelnakri/mber)  - Ember CLI 替换. 目前阿尔法.
-- [remote-inspector](https://github.com/joostdevries/ember-cli-remote-inspector) - 允许您使用 websockets 通过网络检查在不同设备/浏览器上运行的应用程序.
-- [Ember Unused Components](https://github.com/vastec/ember-unused-components) - 此脚本在您的 Ember 项目中搜索未使用的组件
+- [Ember Data Sails Adapter](https://github.com/bmac/ember-data-sails-adapter) - An Ember Data adaptor for the Sails.js sockets.
+- [Ember Data WordPress Adapter](https://github.com/HeyHumanAgency/Ember-Data-WordPress) - An Ember Data adapter for the WordPress JSON API.
+- [Ember Gist](http://ember-gist.joostdvrs.com/) - Demo Ember CLI'eque apps using GitHub Gist.
+- [Ember Inspector](https://github.com/emberjs/ember-inspector) - Adds an Ember.js tab to Chrome or Firefox Developer Tools that allows you to inspect Ember.js objects in your application. - Officially maintained.
+- [Ember Perf](https://github.com/mike-north/ember-perf) - Measure user-percieved performance data in your ember.js app.
+- [ember-cli-diff](http://www.ember-cli-diff.org/) - A simple tool to see differences between new ember apps.
+- [ember-cli](https://ember-cli.com/) - The command line interface for ambitious web applications.
+- [ember-data-model-maker](https://andycrum.github.io/ember-data-model-maker/) - UI to make ember-data models & payload examples.
+- [Glimmer Playground](https://try.glimmerjs.com/) - An Glimmer.js playground.
+- [mber](https://github.com/izelnakri/mber) - Ember CLI replacement. Currently alpha.
+- [remote-inspector](https://github.com/joostdevries/ember-cli-remote-inspector) - Lets you inspect apps running on different devices/browsers over the network using websockets.
+- [Ember Unused Components](https://github.com/vastec/ember-unused-components) - This script searches for unused components in your Ember project
 
 ### Tutorials
 
 - [How to learn EmberJS in a hurry](https://medium.com/ember-ish/how-to-learn-emberjs-in-a-hurry-c6fdeae256a0)
-- [Discover Ember 2](https://www.ludu.co/course/ember) - 了解如何从头开始构建 Twitter 克隆.
-- [Ember Components: A Deep Dive](http://code.tutsplus.com/tutorials/ember-components-a-deep-dive--net-35551) - 深入了解使用 Ember.js 组件.
-- [Ember runloop handbook](https://github.com/eoinkelly/ember-runloop-handbook) - 深入了解 Ember.js 运行循环.
-- [Ember with Phoenix (AKA The PEEP Stack)](https://medium.com/peep-stack) - 开发一个 Ember.js 前端 [JSON API](http://jsonapi.org/)-compliant [Phoenix](http://www.phoenixframework.org/) 后端.
-- [Getting into Ember.js](http://code.tutsplus.com/tutorials/getting-into-emberjs--net-30709) - Ember 的五部分入门课程.
-- [Getting Started with Ember.js using Ember CLI](https://thetechcofounder.com/getting-started-with-ember/) - 使用 Ember CLI 构建 Todo 应用程序.
-- [yoember.com/](http://yoember.com/) - Ember.js 教程 - 从初学者到高级.
+- [Discover Ember 2](https://www.ludu.co/course/ember) - Learn how to build a Twitter clone from scratch.
+- [Ember Components: A Deep Dive](http://code.tutsplus.com/tutorials/ember-components-a-deep-dive--net-35551) - A closer look at using Ember.js Components.
+- [Ember runloop handbook](https://github.com/eoinkelly/ember-runloop-handbook) - A deep dive into the Ember.js runloop.
+- [Ember with Phoenix (AKA The PEEP Stack)](https://medium.com/peep-stack) - Developing an Ember.js front-end alongside a [JSON API](http://jsonapi.org/)-compliant [Phoenix](http://www.phoenixframework.org/) backend.
+- [Getting into Ember.js](http://code.tutsplus.com/tutorials/getting-into-emberjs--net-30709) - A five part introductory course to Ember.
+- [Getting Started with Ember.js using Ember CLI](https://thetechcofounder.com/getting-started-with-ember/) - Building a Todo app with Ember CLI.
+- [yoember.com/](http://yoember.com/) - Ember.js Tutorial - From beginner to advance.
 - [build-pacman](http://www.jeffreybiles.com/build-pacman)
 
 ### Twitter
@@ -1210,7 +1211,7 @@
 - [Maintaining an Ember App at Scale, with Chris Ng](https://www.youtube.com/watch?v=gyGZHydh0Hw&feature=em-uploademail)
 - [Jackie Luo: From React to Ember: A Modern Comparison](https://www.youtube.com/watch?v=7yxr4iBrZsw)
 - [Ember San Francisco Meetup at Square, October 2018](https://www.youtube.com/watch?v=ulWhjL0Aj5s)
-- [The Future of Ember js](https://www.youtube.com/watch?v=4b9VbB2bnfw) - 根据 EmberConf 2018 的演示文稿总结 Ember.js 即将发生的变化.
+- [The Future of Ember js](https://www.youtube.com/watch?v=4b9VbB2bnfw) - Summary of upcoming changes to Ember.js based on presentations from EmberConf 2018.
 - [Ember: The Next 10 Years | Tom Dale | EmberCamp Chicago 2018](https://www.youtube.com/watch?v=9cseB2xoT-0)
 - [Stop Coding: You Have a Product Gap | Sam Selikoff | EmberCamp Chicago 2018](https://www.youtube.com/watch?v=fYHgyIlGttk)
 - [Caveats of the Default Store - Ember London - September 2018](https://www.youtube.com/watch?v=EcKaDu0xo_A)
@@ -1224,20 +1225,20 @@
 - [Ember-cli In-Repo Addons with Jacob Bixby](https://www.youtube.com/watch?v=VYrMs1Zzpqs)
 - [ember-content-placeholders](https://pusher.com/sessions/meetup/emberfest/ember-content-placeholders)
 - [Ember.JS in the Year 2020](https://pusher.com/sessions/meetup/emberfest/emberjs-in-the-year-2020)
-- [EmberConf 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaOyfBnAndJxQ9PNVmKva0d) - EmberConf 2014 的会议视频.
-- [EmberConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU) - EmberConf 2015 的会议视频.
-- [EmberConf 2016](https://www.youtube.com/playlist?list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW) - EmberConf 2016 的会议视频.
-- [EmberConf 2017](https://www.youtube.com/playlist?list=PL4eq2DPpyBbna_5fLPqOqensqSZpGf-hT) - EmberConf 2017 的会议视频.
-- [EmberConf 2018](https://www.youtube.com/watch?v=NhtpXs0ZtUc&list=PL4eq2DPpyBbnjD5iLp55as9OvIdEDI_Kt) - EmberConf 2018 的会议视频.
-- [EmberConf 2019](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYWLWrHgmWsvzsQBSWCLHYL) - EmberConf 2019 的会议视频.
-- [EmberConf 2020](https://www.youtube.com/playlist?list=PL4eq2DPpyBbkC03mdzlyej6tcbEqrZK8N) - EmberConf 2020 的会议视频.
+- [EmberConf 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaOyfBnAndJxQ9PNVmKva0d) - Videos of the sessions from EmberConf 2014.
+- [EmberConf 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU) - Videos of the sessions from EmberConf 2015.
+- [EmberConf 2016](https://www.youtube.com/playlist?list=PL4eq2DPpyBblc8aQAd516-jGMdAhEeUiW) - Videos of the sessions from EmberConf 2016.
+- [EmberConf 2017](https://www.youtube.com/playlist?list=PL4eq2DPpyBbna_5fLPqOqensqSZpGf-hT) - Videos of the sessions from EmberConf 2017.
+- [EmberConf 2018](https://www.youtube.com/watch?v=NhtpXs0ZtUc&list=PL4eq2DPpyBbnjD5iLp55as9OvIdEDI_Kt) - Videos of the sessions from EmberConf 2018.
+- [EmberConf 2019](https://www.youtube.com/playlist?list=PLE7tQUdRKcyYWLWrHgmWsvzsQBSWCLHYL) - Videos of the sessions from EmberConf 2019.
+- [EmberConf 2020](https://www.youtube.com/playlist?list=PL4eq2DPpyBbkC03mdzlyej6tcbEqrZK8N) - Videos of the sessions from EmberConf 2020.
 - [ReactiveConf 2017 - Tom Dale: Secrets of the Glimmer VM](https://www.youtube.com/watch?v=nXCSloXZ-wc)
 - [ReactiveConf 2017](https://youtu.be/62xd25kEZ3o?t=27618)
 - [Tim Thomas - Using Ember.js to build Electron Apps](https://www.youtube.com/watch?v=ER1V_u0N7u4)
 - [Tom Dale on Static Analysis, Upstreaming Glimmer, and Ember in 2018](https://embermap.com/topics/the-embermap-podcast/tom-dale-on-static-analysis-upstreaming-glimmer-and-ember-in-2018)
 - [Tom Dale Talks EmberJS](https://www.slideshare.net/LinkedInPulse/tom-dale-ember-javascript-emberjs-linkedin)
 - [Using TypeScript in Ember](https://pusher.com/sessions/meetup/ember-london/using-typescript-in-ember)
-- [Web App Performance & Ember.js](https://www.youtube.com/watch?v=BelKk7dvA1A) - 网络应用程序性能和 Ember.js.
+- [Web App Performance & Ember.js](https://www.youtube.com/watch?v=BelKk7dvA1A) - Web App Performance & Ember.js.
 - [Why Ember CLI uses Broccoli](https://embermap.com/topics/intro-to-broccoli/why-ember-uses-broccoli)
 - [Developing ember apps on glitch.com](https://www.youtube.com/watch?v=uhXA6ECaknw)
 - [Chris Krycho: TypeScript and Ember js - Why and How?](https://www.youtube.com/watch?v=fFzxbBrvytU)
@@ -1249,21 +1250,21 @@
 - [Optional & upcoming features - Michał Staśkiewicz](https://www.youtube.com/watch?v=4XokzPT4rgg&t=0s&list=PLxt6MasYELQ5W3y8rwGa98GsyMBdhr_cp)
 - [Hybrid Apps with Ember/Glimmer](https://pusher.com/sessions/meetup/emberfest/hybrid-apps-with-emberglimmer)
 - [Productive Frontend Test Driven Development That Actually Works](https://www.youtube.com/watch?v=63Ya91f8W-8)
-- [EmberCamp 2018](https://www.youtube.com/watch?v=0ziETDm1QTI&list=PL4eq2DPpyBbm-vTgHMdBjUi1Qd5GiRIfW) - EmberCamp 2018 会议视频
-- [EmberCamp 2019](https://www.youtube.com/watch?v=a1HALof3r5M&list=PL4eq2DPpyBbmSKZLCqzMqdtpedlGrDQuc) - EmberCamp 2019 会议视频
+- [EmberCamp 2018](https://www.youtube.com/watch?v=0ziETDm1QTI&list=PL4eq2DPpyBbm-vTgHMdBjUi1Qd5GiRIfW) - Videos of the sessions from EmberCamp 2018
+- [EmberCamp 2019](https://www.youtube.com/watch?v=a1HALof3r5M&list=PL4eq2DPpyBbmSKZLCqzMqdtpedlGrDQuc) - Videos of the sessions from EmberCamp 2019
 - [Ember.js: The Documentary](https://www.youtube.com/watch?v=Cvz-9ccflKQ&vl=en)
-- [Ember.js: The Documentary (Русская версия)](https://www.youtube.com/watch?v=7Ym2ADCn77Q) - 俄语版本
+- [Ember.js: The Documentary (Русская версия)](https://www.youtube.com/watch?v=7Ym2ADCn77Q) - Russian langauge version
 - [GraphQL: The Documentary](https://www.youtube.com/watch?v=783ccP__No8&vl=en)
-- [GraphQL: The Documentary (Русская версия)](https://www.youtube.com/watch?v=i_rsfHMF3x4) - 俄语版本
+- [GraphQL: The Documentary (Русская версия)](https://www.youtube.com/watch?v=i_rsfHMF3x4) - Russian language version
 - [Ember and GraphQL: A Quick Example](https://www.youtube.com/watch?v=YxRvXgDIHW8)
 - [Ember Octane Livestream: Build a drum machine](https://www.youtube.com/watch?v=5znpEiwHpL4)
-- [Tracking in the Glimmer VM](https://www.youtube.com/watch?v=BjKERSRpPeI) - Chris Garrett 讨论了跟踪在 Ember 中的工作原理
+- [Tracking in the Glimmer VM](https://www.youtube.com/watch?v=BjKERSRpPeI) - Chris Garrett discusses how tracking works in Ember
 - [Commit Porto '19: Thriving through the hype cycle: an Ember.js story (Ricardo Mendes)](https://www.youtube.com/watch?v=ECkbVa0iC4k)
-- [Animating Across Routes with Ember Animated](https://www.youtube.com/watch?v=O4Mt-dDqkk0) - EmberMap 视频添加跨路线过渡动画
-- [Creating an Ember Application](https://www.youtube.com/watch?v=R2JdP4lb5Xw) - 即将推出的 Ember 系列中的第一篇
+- [Animating Across Routes with Ember Animated](https://www.youtube.com/watch?v=O4Mt-dDqkk0) - EmberMap video adding across-route tranistion animations
+- [Creating an Ember Application](https://www.youtube.com/watch?v=R2JdP4lb5Xw) - First in an upcoming series on Ember
 - [Ember and GraphQL: A Quick Example](https://www.youtube.com/watch?v=YxRvXgDIHW8)
-- [Stef & Rob: do we still need the built-in Input component?](https://www.youtube.com/watch?v=c0Rl6o9wLX0) Stefan Penner 和 Robert Jackson 争论内置输入组件
-- [Ember Octane - Great For Beginners](https://www.youtube.com/watch?v=iTPFsXcTAaY&feature=youtu.be) - 您可以只编写 HTML 和 CSS，并使用 Ember Octane 走得更远
+- [Stef & Rob: do we still need the built-in Input component?](https://www.youtube.com/watch?v=c0Rl6o9wLX0) Stefan Penner and Robert Jackson debate the built-in Input component
+- [Ember Octane - Great For Beginners](https://www.youtube.com/watch?v=iTPFsXcTAaY&feature=youtu.be) - You can just write HTML and CSS and get pretty far with Ember Octane
 - [Yet Another Test Runner by Kelly Sheldon @ Ember London](https://www.youtube.com/watch?v=HYwXL3f854Y&list=PL4eq2DPpyBbmvEzhyW9fhMzlctxwrn8JM&index=1)
 
 
@@ -1288,7 +1289,7 @@
 ### YouTube playlists
 - [Ember London 2018](https://www.youtube.com/watch?v=EcKaDu0xo_A&list=PL8xuokhAnn4rUlol6aspg-VYetu9BLsWV)
 - [Intercom Screencasts](https://www.youtube.com/playlist?list=PLpAr6J-75N27wctNT70O0lubaGTPjwi1L)
-- [Ember.js tutorial for beginners in 2020](https://www.youtube.com/watch?v=eQUvN9Ujs1s&list=PLk51HrKSBQ88wDXgPF-QLMfPFlLwcjTlo) - Shawn Chen 的 10 集系列
+- [Ember.js tutorial for beginners in 2020](https://www.youtube.com/watch?v=eQUvN9Ujs1s&list=PLk51HrKSBQ88wDXgPF-QLMfPFlLwcjTlo) - A 10 part series by Shawn Chen
 
 ## License
 

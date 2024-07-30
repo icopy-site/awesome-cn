@@ -132,6 +132,7 @@ Choose what you find more suitable for you:
 - [CheckMyDeck](https://checkmydeck.ofdgn.com/) - Check compatibility with Steam Deck of your games library.
 - [Deck Verified](https://www.steamdeck.com/en/verified) - Steam games compatible with Steam Deck by Valve.
 - [Repair Steam Deck](https://www.ifixit.com/Device/Steam_Deck) - Repair, disassembly, and troubleshooting information for the Steam Deck.
+- [Steam Deck Web App Generator](https://steam-deck-web-app-generator.vercel.app/) - Create shortcut scripts for your favorite websites to game mode.
 
 ## Community
 - [r/SteamDeck](https://reddit.com/r/SteamDeck) - Official subreddit.
