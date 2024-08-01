@@ -35,6 +35,7 @@ A curated list of bitcoin services and tools for software developers
 * [BTC Connect](https://developers.particle.network/reference/introduction-to-btc-connect) - Unified Bitcoin Layer-1 and Layer-2 wallet connection and account abstraction.
 * [Tatum](https://tatum.io/blockchain-api) - The blockchain development platform to build Web3 application. The go-to blockchain data API for Web3 developers.
 * [mempool.space](https://mempool.space/docs/api/rest) - Open source and self hostable REST, WebSocket and Electrum RPC API
+* [Satonomics](https://satonomics.xyz) - A better, FOSS, Bitcoin-only, self-hostable Glassnode
 
 ## Market Data API
 * [CoinMetrics.io](https://docs.coinmetrics.io/api/v2/) JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.
