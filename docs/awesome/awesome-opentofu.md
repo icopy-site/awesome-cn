@@ -27,11 +27,13 @@
 
 ## Features
 
-- [End-to-end encryption for state files](https://opentofu.org/docs/intro/whats-new/#state-encryption)
+- [1.8 - Override files for OpenTofu (.tofu)](https://opentofu.org/docs/intro/whats-new/#override-files-for-opentofu-keeping-compatibility)
+- [1.8 - Early variable and locals evaluation](https://opentofu.org/docs/intro/whats-new/#early-variablelocals-evaluation)
+- [1.7 - End-to-end encryption for state files](https://opentofu.org/docs/v1.7/intro/whats-new/#state-encryption)
+- [1.7 - Provider-defined functions](https://opentofu.org/docs/v1.7/intro/whats-new/#provider-defined-functions)
+- [1.7 - Removed block](https://opentofu.org/docs/v1.7/intro/whats-new/#removed-block)
+- [1.7 - Loopable import blocks](https://opentofu.org/docs/v1.7/intro/whats-new/#loopable-import-blocks)
 - [OCI-compliant registry support](https://twitter.com/OpenTofuOrg/status/1696913055576387599) 🚧
-- [Provider-defined functions](https://opentofu.org/docs/intro/whats-new/#provider-defined-functions)
-- [Removed block](https://opentofu.org/docs/intro/whats-new/#removed-block)
-- [Loopable import blocks](https://opentofu.org/docs/intro/whats-new/#loopable-import-blocks)
 
 ## Tools
 
@@ -51,6 +53,7 @@
 - [Terragrunt](https://github.com/gruntwork-io/terragrunt) - Keep your configurations DRY, work with multiple modules, and manage remote state.
 - [Terramate](https://github.com/terramate-io/terramate) - Automation, orchestration, and code generation for OpenTofu, Terraform, Kubernetes, and others.
 - [easy_infra](https://github.com/SeisoLLC/easy_infra) - Docker container to simplify and secure the use of infrastructure as code.
+- [pug](https://github.com/leg100/pug) - A terminal user interface for power users.
 - [tf](https://github.com/dex4er/tf) - Less verbose and more friendly command outputs.
 - [tfam](https://github.com/Ant0wan/tfam) - Rust-powered wrapper for concurrent Terraform/OpenTofu apply, enabling multi-deployment support.
 - [tfexe](https://github.com/Ant0wan/tfexe) - Rust-powered wrapper for seamless execution of tfswitch and Terraform/OpenTofu with version control.
