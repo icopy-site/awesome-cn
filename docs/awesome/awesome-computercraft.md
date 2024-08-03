@@ -35,8 +35,10 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 - [Advanced Peripherals](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals) -  A mod which adds various peripherals and APIs for interacting with other mods. 
 - [Computronics](https://wiki.vexatos.com/wiki:computronics) -  A mod which adds various peripherals, notably for detecting events in the world and for manipulation of sound. 
-- [Plethora](https://plethora.madefor.cc) -  A mod which adds peripherals and allows many blocks to be accessed as such. In addition, it also allows for manipulation of the player as a peripheral. 
+- [Plethora](https://plethora.madefor.cc) -  A mod which adds peripherals and allows many blocks to be accessed as such. In addition, it also allows for manipulation of the player as a peripheral.
+    - [Plethora Fabric](https://github.com/SwitchCraftCC/Plethora-Fabric) - A 1.19+ port of Plethora to Fabric.
 - [CC:C Bridge](https://modrinth.com/mod/cccbridge) - A mod that adds compatibility between ComputerCraft and [Create](https://modrinth.com/mod/create).
+- [sc-peripherals](https://github.com/SwitchCraftCC/sc-peripherals) - A mod that adds 3D printers which allow creating custom blocks and posters.
 - [Turtlematic](https://www.curseforge.com/minecraft/mc-mods/turtlematic) - A mod which expands the applications of turtles, making them extremely powerful.
 - [UnlimitedPeripheralWorks](https://www.curseforge.com/minecraft/mc-mods/unlimitedperipheralworks) - A mod which adds various peripherals to extend CC:T capabilities. Also adds a lot of peripherals for other mods.
 - [Roadworks](https://github.com/znepb/Roadworks) - A mod that adds traffic lights controllable by ComputerCraft.

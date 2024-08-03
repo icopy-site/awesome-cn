@@ -344,6 +344,7 @@ become an Angular expert.
 * [angular-authentication](https://github.com/nikosanif/angular-authentication) - An Angular application that demonstrates best practices for user authentication & authorization flows.
 * [ngx-security](https://github.com/mselerin/ngx-security) - Security directives for your Angular application to show/hide elements based on a user roles / permissions.
 * [ngx-clerk](https://github.com/anagstef/ngx-clerk) - An unofficial project that aims to provide a seamless integration of [Clerk](https://clerk.com) features into Angular applications.
+* [ng-supabase](https://github.com/rustygreen/ng-supabase) - An Angular component library for your [Supabase](https://supabase.com/) project!
 
 #### Builders
 
@@ -660,6 +661,7 @@ become an Angular expert.
 * [fullcalendar-angular](https://github.com/fullcalendar/fullcalendar-angular) - The official Angular component for FullCalendar.
 * [angular-year-calendar](https://github.com/IOMechs/angular-year-calendar) - A powerful and performant Angular year calendar library built with ❤️.
 * [@schedule-x/angular](https://github.com/schedule-x/schedule-x) - Material design event calendar.
+* [angular-calendar-timeline](https://github.com/oOps1627/angular-calendar-timeline) - A timeline for Angular 13+ that shows tasks or events on a timeline in different modes: days, weeks, and months. This library is pretty small and DOESN'T use big dependencies like JQuery or Moment.js. Library also supports SSR.
 
 #### Carousels
 
@@ -755,6 +757,7 @@ become an Angular expert.
 * [ngx-monaco-editor](https://github.com/jean-merelis/ngx-monaco-editor) - Monaco Code Editor for Angular.
 * [ngx-property-editor](https://github.com/heinerwalter/ngx-property-editor) - Angular library containing simple input components and a property editor component, which automatically builds a form for editing all properties of any object.
 * [ngx-tiptap](https://github.com/sibiraj-s/ngx-tiptap) - Angular bindings for [tiptap v2](https://tiptap.dev/).
+* [tinymce-angular](https://github.com/tinymce/tinymce-angular) - Official [TinyMCE](https://www.tiny.cloud/) Angular Component.
 
 #### File Upload
 
@@ -800,6 +803,7 @@ become an Angular expert.
 * [angular-code-input](https://github.com/AlexMiniApps/angular-code-input) - Robust and tested code (number/chars) input component for Angular 7 - 16+ projects. Ionic 4 - 7+ is supported, can be used in iOS and Android. Clipboard events are supported.
 * [ng-multiselect-dropdown](https://github.com/NileshPatel17/ng-multiselect-dropdown) - Multiple Select Dropdown Component.
 * [angular-iban](https://github.com/fundsaccess/angular-iban) - IBAN directives and pipes for Angular.
+* [ngx-autosize-input](https://github.com/joshuawwright/ngx-autosize-input) - An Angular directive that automatically adjusts the width of an input element. It shrinks and increases the width.
 
 ##### Validation
 
