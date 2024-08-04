@@ -229,14 +229,14 @@ ZeroNet is a decentralized web-like network of peer-to-peer users.
 
 ## Proxies(Instances)
 
-**WARNING: _Do not sign in into ZeroNet through public proxies as proxies have access to the private keys and there is chance for your identity to get stolen by the proxy._**
-
 | URL |  Allows to add new sites |
 | :--- | :--- |
 | https://0net-preview.com | :heavy_multiplication_x: |
 | https://proxy.zeronet.dev | :heavy_multiplication_x: |
 | https://portal.ngnoid.tv | :heavy_multiplication_x: |
 | https://zeronet.ipfsscan.io | :heavy_check_mark: |
+
+**WARNING: _Do not sign in into ZeroNet through public proxies as proxies have access to the private keys and there is chance for your identity to get stolen by the proxy._**
 
 ## Communities
 

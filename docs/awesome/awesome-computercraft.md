@@ -87,7 +87,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [Milo](https://github.com/kepler155c/opus-apps/wiki/Milo-(crafting---storage-system)) -  A crafting and inventory management system. Note that this depends on OpusOS and Plethora.
 - [Pine3D](https://github.com/Xella37/Pine3D) - A 3D rendering engine designed to be fast.
 - [PngLua](https://github.com/9551-Dev/pngLua) -  PNG parsing library designed for ComputerCraft.
-- [Pixelbox Lite](https://github.com/9551-Dev/apis/blob/main/pixelbox_lite.lua) - An insanely fast drawing character processing library.
+- [`Pixelbox Lite`](https://github.com/9551-Dev/pixelbox_lite) - A very fast and flexible teletext 2D rendering library for ComputerCraft.
 - [RedRun](https://gist.github.com/MCJack123/473475f07b980d57dd2bd818026c97e8) -  A small library for running processes in the background of CraftOS after exiting the program, similar to DOS TSRs.
 - [Tamperer](https://github.com/Fatboychummy-CC/Tamperer) -  A library allowing easy creation of settings menus.
 - [Tampl](https://github.com/9551-Dev/tampl) - A Lua tokenization and parsing library designed for dynamic code generation and injecting code into existing programs.
