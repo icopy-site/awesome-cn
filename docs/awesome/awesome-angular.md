@@ -350,7 +350,6 @@ become an Angular expert.
 
 * [Webpack](https://webpack.js.org)
 * [ESBuild](https://esbuild.github.io/)
-* [Nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI.
 * [Angular Builders](https://github.com/just-jeb/angular-builders) - This repo consolidates all the community builders (ES Build, Webpack, Jest, Bazel, and Timestamp) for the Angular build facade.
 * [Jest Builder](https://github.com/just-jeb/angular-builders/tree/master/packages/jest) - Jest builder for Angular build facade.
 * [Custom Webpack](https://github.com/just-jeb/angular-builders/tree/master/packages/custom-webpack)
@@ -499,6 +498,12 @@ become an Angular expert.
 * [i18n-ally](https://github.com/lokalise/i18n-ally) - All in one i18n extension for VS Code.
 * [ngx-translate-router](https://github.com/gilsdav/ngx-translate-router) - Translate routes using `ngx-translate`.
 
+#### Monorepos
+
+* [Nx](https://github.com/nrwl/nx) - Nx is a build system with built-in tooling and advanced CI capabilities. It helps you maintain and scale monorepos, both locally and on CI.
+* [Turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+* [Moon](https://moonrepo.dev/docs/guides/examples/angular) - A build system and monorepo management tool for the web ecosystem, written in Rust.
+
 #### Security
 
 * [Angular Security](https://angular.dev/best-practices/security) - Best Practices
@@ -522,6 +527,7 @@ become an Angular expert.
 * [ssr](https://angular.dev/guide/ssr#enable-server-side-rendering) - Documentation for the new SSR package built into the framework.
 * [angular-prerender](https://github.com/chrisguttandin/angular-prerender) - A command line tool to prerender Angular Apps.
 * [analogjs](https://analogjs.org/) - Fullstack Angular meta-framework supports both server-side rendering (SSR) and static site generation (SSG) of Angular applications.
+* [ngx-ssr-code-remover](https://github.com/xsip/ngx-ssr-code-remover) - Post processor to remove SSR Code from bundles when served.
 
 #### Site Templates
 
@@ -696,6 +702,8 @@ become an Angular expert.
 * [ngx-echarts](https://github.com/xieziyu/ngx-echarts) - Angular directive for [Apache ECharts](https://github.com/apache/incubator-echarts).
 * [angular-fusioncharts](https://github.com/fusioncharts/angular-fusioncharts) - Angular Component for [FusionCharts](https://www.fusioncharts.com) JavaScript Charting Library.
 * [ngu-flow](https://github.com/uiuniversal/ngu-flow) - Angular flow diagram library.
+* [highcharts-angular](https://github.com/highcharts/highcharts-angular) - Official minimal [Highcharts](https://www.highcharts.com/) integration for Angular.
+* [angular-highcharts](https://github.com/cebor/angular-highcharts) - Highcharts directive for Angular.
 
 #### Dates
 
@@ -852,6 +860,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ng-cloudimage-responsive](https://github.com/scaleflex/ng-cloudimage-responsive) - Cloudimage responsive plugin will make your website load the exact image size you need depending on your user's screen size.
 * [angular-cropperjs](https://github.com/matheusdavidson/angular-cropperjs) - [Cropper.js](https://github.com/fengyuanchen/cropperjs) integration for Angular 6+.
 * [cloudinary](https://cloudinary.com/documentation/angular_integration) - Angular SDK from Cloudinary.
+* [img-comparison-slider](https://github.com/sneas/img-comparison-slider) - Image comparison slider. Compare images before and after. Supports React, Vue, and Angular.
 
 #### Keyboard Mouse
 
@@ -1078,6 +1087,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [pupakit](https://github.com/bimeister/pupakit) - Angular UI Kit based on an atomic approach to building interfaces (Not production ready).
 * [ngwr](https://github.com/thekhegay/ngwr) - Angular UI kit to make stylish Angular applications.
 * [Windmillcode-Angular-CDK](https://github.com/WindMillCode/Windmillcode-Angular-CDK) - Provides a collection of reusable UI components, each crafted with attention to detail and performance.
+* [ng-vcl](https://github.com/vcl/ng-vcl) - Angular VCL ‒ an Angular component library based on the [VCL](https://vcl.github.io) CSS eco system.
 
 ##### Material Based
 
@@ -1180,6 +1190,7 @@ for the creation of web applications developed with Angular.
 * [Elite Ionic](https://eliteionic.com/) - Advanced training for Angular developers who want to create NEXT LEVEL native web applications.
 * [Ionic Themes](https://ionicthemes.com/tutorials) - Tutorials and templates.
 * [Ionic Start](https://ionicstart.com/) - Build web and native mobile applications with Ionic whilst learning modern reactive development with Angular.
+* [awesome-cordova-plugins](https://github.com/danielsogl/awesome-cordova-plugins) - Native features for mobile apps built with Cordova/PhoneGap and open web technologies. Complete with TypeScript support.
 
 #### NgRx
 

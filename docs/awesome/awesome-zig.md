@@ -150,6 +150,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [tiehuis/zig-raytrace](https://github.com/tiehuis/zig-raytrace) - Simple raytracer.
 * [donpdonp/zootdeck](https://github.com/donpdonp/zootdeck) - Fediverse GTK Desktop Reader.
 * [MasterQ32/ZigPaint](https://github.com/MasterQ32/ZigPaint) - A simple paint application. Used to create an OpenGL loader/wrapper and a minimal UI system.
+* [olexij-christian/zgtk3](https://github.com/olexij-christian/zgtk3) - GTK3 bindings.
 
 ## Misc libraries
 * [natecraddock/ziglua](https://github.com/natecraddock/ziglua) - Bindings for the Lua C API.

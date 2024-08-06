@@ -56,6 +56,10 @@ A curated list of bitcoin services and tools for software developers
 * [Green](https://blockstream.com/green/)
 * [Sparrow](https://sparrowwallet.com/)
 
+## Privacy projects
+* [Joinmarket](https://github.com/JoinMarket-Org/joinmarket-clientserver) - Decentralized CoinJoin implementation
+* [Jam](https://jamapp.org/) - User friendly frontend for Joinmarket
+
 ## Blockchain Explorers
 * [3xpl.com](https://3xpl.com/bitcoin) - Fastest ad-free universal block explorer.
 * [Chain.so](http://chain.so)
