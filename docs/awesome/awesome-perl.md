@@ -114,7 +114,7 @@ We also recommend these lists.
 *Libraries for serializing, formatting and parsing*
 
 * [BSON](https://metacpan.org/pod/BSON) - Binary JSON format
-* [CBOR::Free](https://metacpan.org/pod/CBOR::Free) - Support for (CBOR)[https://tools.ietf.org/html/rfc7049], IETF’s “binary JSON”
+* [CBOR::Free](https://metacpan.org/pod/CBOR::Free) - Support for [CBOR](https://tools.ietf.org/html/rfc7049), IETF’s “binary JSON”
 * [Data::Dumper::Simple](https://metacpan.org/pod/Data::Dumper::Simple) - Reduce and faster Data::Dumper and eval() equivalent
 * [Data::MessagePack](https://metacpan.org/pod/Data::MessagePack)
 * [JSON::PP](https://metacpan.org/pod/JSON::PP)

@@ -146,6 +146,10 @@ Further resources:
 #### Gesture Detection
 * [grt](https://github.com/nickgillian/grt) - The Gesture Recognition Toolkit (GRT) is a cross-platform, open-source, C++ machine learning library designed for real-time gesture recognition.
 
+<a name="cpp-reinforcement-learning"></a>
+#### Reinforcement Learning
+* [RLtools](https://github.com/rl-tools/rl-tools) - The fastest deep reinforcement learning library for continuous control, implemented header-only in pure, dependency-free C++ (Python bindings available as well).
+
 <a name="common-lisp"></a>
 ## Common Lisp
 
@@ -1135,7 +1139,7 @@ be
 * [PyBroker](https://github.com/edtechre/pybroker) - Algorithmic Trading with Machine Learning.
 * [Frouros](https://github.com/IFCA/frouros): Frouros is an open source Python library for drift detection in machine learning systems.
 * [CometML](https://github.com/comet-ml/comet-examples): The best-in-class MLOps platform with experiment tracking, model production monitoring, a model registry, and data lineage from training straight through to production.
-
+* [Okrolearn](https://github.com/Okerew/okrolearn): A python machine learning library created to combine powefull data analasys feautures with tensors and machine learning components, while mantaining support for other libraries.
 
 <a name="python-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization

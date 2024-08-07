@@ -208,7 +208,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [zigwasm/wasmtime-zig](https://github.com/zigwasm/wasmtime-zig) - Bindings of Wasmtime.
 * [batiati/mustache-zig](https://github.com/batiati/mustache-zig) - Mustache implementation.
 * [floscodes/zerve](https://github.com/floscodes/zerve) - Simple framework for writing web services and web apps.
-
+* [zon-dev/zinc](https://github.com/zon-dev/zinc) - Zinc is a framework focusing on high performance, usability, security, and extensibility.
 
 ## System tools
 * [pbui-project/pbui-main](https://github.com/pbui-project/pbui-main) - BSD/Linux core utilities written in Zig.

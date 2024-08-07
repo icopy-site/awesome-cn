@@ -57,10 +57,10 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 > Companies that provide products and services for, or regularly organise, hackathons.
 
 - [Eventornado](https://eventornado.com/) provides an all-in-one platform for organising a hackathon.
-- [Hackathon.com](https://hackathon.com/) from [BeMyApp Corporation](https://www.bemyapp.com/organize-your-hackathon.html) promotes events globally, and offers [commercial services](https://corporate.hackathon.com/).
+- [Hackathon.com](https://www.hackathon.com/) from [BeMyApp Corporation](https://www.bemyapp.com/organize-your-hackathon.html) promotes events globally, and offers [commercial services](https://corporate.hackathon.com/).
 - [HackerEarth](https://www.hackerearth.com/) is a commercial platform for sourcing, assessing, interviewing, and upskilling developers.
 - [Hack2Skill](https://hack2skill.com) hosts events on their [own platform](https://hack2skill.com/organizeHack) and [shares resources](https://blog.hack2skill.com/what-is-a-hackathon-a-complete-guide-about-hackathon) for technology innovators.
-- [HYPE](https://www.hypeinnovation.com/en/about) provides software to help idea and innovation managers collect and manage ideas.
+- [HYPE](https://www.hypeinnovation.com/about) provides software to help idea and innovation managers collect and manage ideas.
 - [Mercer | Mettl](https://mettl.com/about/) sees [hackathons as a tool](https://mettl.com/online-hackathons/) for building tech teams and fostering collaboration.
 - [Microsoft](https://www.microsoft.com/en-us/garage/blog/category/hackathons/) sponsors and [offers advice](https://learn.microsoft.com/en-us/power-platform/guidance/adoption/hackathons) for hackathons - see the [AcademicContent](https://github.com/microsoft/AcademicContent/blob/main/hackathon-content.md) repo for participants.
 - [Random Hacks of Kindness](https://github.com/randomhacks) was a global hackathon series for charities, non-profits and social enterprise (see also: [RHOK, Jr.](https://rhokjr.org/) and [RHOK CPH](https://www.rhok-cph.org/)).
@@ -82,7 +82,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [Hackathon Sponsorship](https://github.com/Neuro-Hack/sponsorship#readme) 🕶️  A crowdsourced 'Awesome List' of companies to contact.
 - [Hackalist](https://github.com/Hackalist/Hackalist.github.io#readme) - A list of upcoming hackathons from around the world. 
 - [Hack Club](https://github.com/hackclub/hackathons#readme) - A curated list of hackathons organized for high schoolers.
-- [Open Source Events](https://github.com/Catalyst-IN/OpenSourceEvents-Frontend) - This website contains a monthly calendar of events and hackathons.
+- [Open Source Events](https://github.com/Catalyst-IN/OpenSourceEvents-Frontend) - This website contains a monthly calendar of events and hackathons (project is archived as of Feb 5, 2024).
 - [Upcoding](https://github.com/sahanmndl/UpCoding-Web) - Get event details of competitive programming contests, hackathons etc.
 
 ### Teambuilding
@@ -96,8 +96,8 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 
 - [HELPq](https://github.com/ehzhang/helpq) - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 - [Hangar](https://github.com/AmericanAirlines/Hangar) - A Slack bot to help with judging and coaching at hackathons.
-- [Treehacks-MentorBot](https://github.com/TreeHacks/slack-mentorship) - Slackbot that provides mentors a channel to claim help requests and attendees to submit help requests within slack. Queues requests in a #mentors channel.
 - [Leadership & Governance](https://opensource.guide/leadership-and-governance/) - Handbook for open source project, that also applies well for hackathon teams.
+- [TreeHacks Slack Mentorship System](https://github.com/hacktx/slack-mentorship) - A Slack bot that queues requests in a #mentors channel (unmaintained as of 2015).
 
 ### Evaluating
 
