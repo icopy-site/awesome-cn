@@ -63,6 +63,7 @@
 - [Adafruit Blinka - SBC Compatibility](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux?view=all) - CircuitPython Libraries on Raspberry Pi and other compatible single-board computers (SBC) running Linux.
 - [Awesome List for the RP2040 Macropad](https://github.com/prcutler/awesome-macropad) - A list of awesome Macropad applications, macros, 3D printed plans, and more.
 - [Tod Kurt's CircuitPython Tips and Tricks](https://github.com/todbot/circuitpython-tricks) - A collection of tips and tricks for CircuitPython. Also available as an Adafruit [Learn Guide](https://learn.adafruit.com/todbot-circuitpython-tricks?view=all).
+- [Tod Kurt's CircuitPython `synthio` Tips and Tricks](https://github.com/todbot/circuitpython-synthio-tricks) - More tips and tricks from Tod Kurt about CircuitPython's `synthio` library.
 
 ## Frameworks
 
@@ -160,6 +161,7 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 - [Weekly community chat on Adafruit Discord server CircuitPython channel - Audio / Podcast edition](https://podcasts.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016) - Audio from the Discord chat space for CircuitPython, meetings are usually Mondays at 2pm ET, this is the audio version on [iTunes](https://podcasts.apple.com/us/podcast/circuitpython-weekly-meeting/id1451685016), Pocket Casts, [Spotify](https://adafru.it/spotify), and [XML feed](https://adafruit-podcasts.s3.amazonaws.com/circuitpython_weekly_meeting/audio-podcast.xml).
 - [The CircuitPython Show](https://www.circuitpythonshow.com/@circuitpythonshow) - an interview podcast with people in the CircuitPython community hosted  by Paul Cutler.
 - [The Best Python Podcasts](https://blog.adafruit.com/2019/03/22/the-best-python-podcasts-python-talkpython-mkennedy-pythonbites-brianokken/) - The Best Python Podcasts.
+- [The Bootloader](https://thebootloader.net) - hosted by CircuitPython community members Paul Cutler and Tod Kurt, this podcast often covers CircuitPython topics.
 
 ## Events
 
@@ -202,6 +204,8 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 - [Writing fast and efficient MicroPython](https://youtu.be/hHec4qL00x0) - Writing fast and efficient MicroPython by Damien George at PyCon Australia.
 - [More Fun with Hardware and CircuitPython -- IoT, Wearables, and More!](https://www.nnja.io/post/2021/pycon2021-more-fun-circuitpython/) - Nina Zakharenko at PyCon 2021.
 - [EuroPython 2022 talk video: Radomir Dopieralski - Game Development with CircuitPython](https://www.youtube.com/watch?v=2i6qhfq5u78) - Radomir Dopieralski
+- [Connecting Old to New with CircuitPython: Retrocomputer input devices on modern PCs](https://youtu.be/XhwI8ZHhbE8) - Jeff Epler at PyCon 2024
+- [Cutting the USB Cord: Wirelessly Programming CircuitPython](https://www.youtube.com/watch?v=eiQ9RIt-cNM) - Scott Shawcroft at PyCascades 2024
 
 ## Contributing
 

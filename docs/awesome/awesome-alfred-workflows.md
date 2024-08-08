@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="alfred-workflows/awesome-alfred-workflows"></div>
-> **Warning**<br/>
-> This list is deprecated in favour of [the official Alfred Gallery](https://alfred.app/).<br/>
+> [!WARNING]
+> This list is deprecated in favour of [the official Alfred Gallery](https://alfred.app/).
 > Future submissions should be directed there.
 
 

@@ -91,6 +91,12 @@ Language: English
 Notable Channels: `#dev-help`, `#dev-chat`, `#app-feedback`,`#design`, `#user-experience`, `#html`, `#css`, `#javascript`, `#typescript`, `js-framework`, `#react`, `#vue`, `#php`, `#dot-net`, `#devops`, __[`so much more`](https://github.com/mhxion/awesome-discord-communities/blob/master/badges.md#so-much-more)__ \
 Language: English
 
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/world_of_coding.webp">
+
+[__World of Coding__](https://discord.com/invite/program) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Reddit Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/reddit.webp">](badges.md#reddit-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://world-of-coding.tech/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/World-of-Coding) \
+Notable Channels: `#hire-devs`, `#coding-help`, `#programming-help`, `#hacking`, `#infosec`, `#linux`, `#web-dev`, `#game-dev`, `#js`, `#python` \
+Language: English
+
 ### Competitive Programming
 
 <img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/cp_community.webp">
@@ -98,6 +104,20 @@ Language: English
 [__CP Community__](https://discord.com/invite/algorithms) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://codeforces.com/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/Codeforces) \
 Notable Channels: `#beginner-questions`, `#general-cp`, `#problem-spoilers`, `#ioi`,`#icpc`, `#math`, `#errichto-yt`, `#vplanet` \
 Language: English
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/kilonova.webp">
+
+[__Kilonova__](https://discord.com/invite/Qa6Ytgh) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Homepage URL" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/homepage.webp">](https://kilonova.ro/) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/KiloProjects/Kilonova) \
+Notable Channels: `#general`, `#platform-errors`, `#platform-bugs`, `#suggestions`, `#support`, `#solution-discussions` \
+Language: Romanian \
+<br>
+
+<img align="left" height="94px" width="94px" alt="Server Icon" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/server_icons/roalgo.webp">
+
+[__RoAlgo__](https://discord.com/invite/roalgo) [<img height="16px" width="16px" alt="Official Badge" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/official.webp">](badges.md#official-identification-badge) [<img height="16px" width="16px" alt="Git Repository" src="https://raw.githubusercontent.com/mhxion/awesome-discord-communities/master/images/badges/git.webp">](https://github.com/roalgo-discord) \
+Notable Channels: `#general`, `#general-avansati`, `#resurse`, `#concursuri`, `#potd-problems`, `#ajutor`, `#cf-atcoder` \
+Language: Romanian, English \
+<br>
 
 ## Art of Computer Science
 
