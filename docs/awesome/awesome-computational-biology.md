@@ -105,4 +105,4 @@ A knowledge collection of databases, software and papers related to computationa
 - [BioGPT](https://github.com/microsoft/BioGPT) - LLM for Biomedical text generation
 - [GeneGPT](https://github.com/ncbi/GeneGPT) - LLM for biomedical information with several API.
 - [GenePT](https://github.com/yiqunchen/GenePT) - foundation LLM for single cell data
-- 
+- [scPRINT](https://github.com/cantinilab/scPRINT) - scPRINT is pretrained on 50M cells to denoise and perform zero imputation of any single cell RNAseq profile.

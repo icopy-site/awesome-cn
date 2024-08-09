@@ -345,6 +345,7 @@ become an Angular expert.
 * [ngx-security](https://github.com/mselerin/ngx-security) - Security directives for your Angular application to show/hide elements based on a user roles / permissions.
 * [ngx-clerk](https://github.com/anagstef/ngx-clerk) - An unofficial project that aims to provide a seamless integration of [Clerk](https://clerk.com) features into Angular applications.
 * [ng-supabase](https://github.com/rustygreen/ng-supabase) - An Angular component library for your [Supabase](https://supabase.com/) project!
+* [zitadel](https://zitadel.com/docs/examples/login/angular) - Secure authentication management for your application. Customize as you grow, with easy APIs and programmable workflows. Focus on growing, your login is in good hands.
 
 #### Builders
 
@@ -451,6 +452,7 @@ become an Angular expert.
 * [ngx-generic-rest-service](https://github.com/jm2097/ngx-generic-rest-service) - Wrapper for Angular services.
 * [@ngify/http](https://github.com/ngify/ngify/tree/main/packages/http) - A reactive HTTP client in the form of `@angular/common/http`, offers the following major features: typed response objects, streamlined error handling, request and response interception.
 * [ngx-http-annotations](https://github.com/manudss/ngx-http-annotations) - Updated fork of [ngx-http-rest](https://github.com/Mixalloff/ngx-http-rest), which allows you to interact with rest api in your Angular app through annotations.
+* [ng-http-loader](https://github.com/mpalourdio/ng-http-loader) - Smart Angular HTTP interceptor - Intercepts automagically HTTP requests and shows a spinkit spinner / loader / progress bar.
 
 #### Integrations
 
@@ -501,6 +503,7 @@ become an Angular expert.
 * [angular-ecmascript-intl](https://github.com/json-derulo/angular-ecmascript-intl) - Contains pipes to transform internationalization data using Intl.* browser APIs.
 * [i18n-ally](https://github.com/lokalise/i18n-ally) - All in one i18n extension for VS Code.
 * [ngx-translate-router](https://github.com/gilsdav/ngx-translate-router) - Translate routes using `ngx-translate`.
+* [intl-tel-input-ng](https://github.com/mpalourdio/intl-tel-input-ng) - An Angular component to easily integrate [intl-tel-input](https://github.com/jackocnr/intl-tel-input).
 
 #### Monorepos
 
@@ -865,6 +868,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [angular-cropperjs](https://github.com/matheusdavidson/angular-cropperjs) - [Cropper.js](https://github.com/fengyuanchen/cropperjs) integration for Angular 6+.
 * [cloudinary](https://cloudinary.com/documentation/angular_integration) - Angular SDK from Cloudinary.
 * [img-comparison-slider](https://github.com/sneas/img-comparison-slider) - Image comparison slider. Compare images before and after. Supports React, Vue, and Angular.
+* [@unpic/angular](https://unpic.pics/img/angular/) - Angular directive for responsive, high-performance images. Generates a responsive `<img>` tag that follows best practices, with the correct srcset, sizes and styles. Detects image URLs from most image CDNs and CMSs and can resize images with no build step.
 
 #### Keyboard Mouse
 

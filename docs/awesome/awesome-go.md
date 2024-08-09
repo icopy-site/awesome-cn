@@ -1026,6 +1026,7 @@ _Awesome game development libraries._
 
 - [Azul3D](https://github.com/azul3d/engine) - 3D game engine written in Go.
 - [Ebitengine](https://github.com/hajimehoshi/ebiten) - dead simple 2D game engine in Go.
+- [ecs](https://github.com/andygeiss/ecs) - Build your own Game-Engine based on the Entity Component System concept in Golang.
 - [engo](https://github.com/EngoEngine/engo) - Engo is an open-source 2D game engine written in Go. It follows the Entity-Component-System paradigm.
 - [fantasyname](https://github.com/s0rg/fantasyname) - Fantasy names generator.
 - [g3n](https://github.com/g3n/engine) - Go 3D Game Engine.
@@ -2667,6 +2668,7 @@ _Libraries for working with UUIDs._
 _Libraries for validation._
 
 - [checkdigit](https://github.com/osamingo/checkdigit) - Provide check digit algorithms (Luhn, Verhoeff, Damm) and calculators (ISBN, EAN, JAN, UPC, etc.).
+- [go-validator](https://github.com/tiendc/go-validator) - Validation library using Generics.
 - [gody](https://github.com/guiferpa/gody) - :balloon: A lightweight struct validator for Go.
 - [govalid](https://github.com/twharmon/govalid) - Fast, tag-based validation for structs.
 - [govalidator](https://github.com/asaskevich/govalidator) - Validators and sanitizers for strings, numerics, slices and structs.

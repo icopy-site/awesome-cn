@@ -48,6 +48,7 @@ Biological image analysis aims to increase our understanding of biology through 
 - [MorpholibJ](https://github.com/ijpb/MorphoLibJ) - Collection of mathematical morphology methods and plugins for ImageJ.
 - [PartSeg](https://github.com/4DNucleome/PartSeg) - A GUI and a library for segmentation algorithms.
 - [PyImSegm](https://github.com/Borda/pyImSegm) - Image segmentation - general superpixel segmentation and center detection and region growing.
+- [Salem²](https://github.com/JackieZhai/SALEM2) - Segment Anything in Light and Electron Microscopy via Membrane Guidance.
 - [Squidpy](https://github.com/scverse/squidpy) - Python framework that brings together tools from omics and image analysis to enable scalable description of spatial molecular data, such as transcriptome or multivariate proteins.
 - [StarDist](https://github.com/stardist/stardist) - Object detection with Star-convex shapes.
 - [Suite2p](https://github.com/MouseLand/suite2p) - Pipeline for processing two-photon calcium imaging data.
