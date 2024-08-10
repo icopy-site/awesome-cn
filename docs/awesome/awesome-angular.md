@@ -285,6 +285,7 @@ become an Angular expert.
 * [ng japan](https://www.youtube.com/@ng_japan) - (Japanese)
 * [StartupAngular](https://www.youtube.com/@StartupAngular) - (Japanese)
 * [The Code Angle](https://www.youtube.com/@TheCodeAngle)
+* [Brian Treese](https://www.youtube.com/@briantreese)
 
 ##### Style Guides
 
@@ -405,6 +406,7 @@ become an Angular expert.
 * [Angular Jester](https://marketplace.visualstudio.com/items?itemName=michael-fontecchio.angular-jester) - Generate Jest spec files for Angular projects.
 * [Nx Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console) - Spend less time looking up command line arguments and more time shipping incredible products.
 * [VS Code Angular HTML](https://marketplace.visualstudio.com/items?itemName=ghaschel.vscode-angular-html) - Syntax highlighting for angular HTML Template files.
+* [angular-scaffold](https://github.com/EPAM-JS-Competency-center/angular-scaffold) - Scaffold an Angular project with all tooling you need for production projects.
 
 #### Documentation tools
 

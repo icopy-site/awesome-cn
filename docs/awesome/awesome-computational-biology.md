@@ -23,6 +23,7 @@ A knowledge collection of databases, software and papers related to computationa
 - [LIPID MAPS](https://www.lipidmaps.org/databases/lmsd/overview) - Database of lipids.
 - [Rhea](https://www.rhea-db.org/) - Database of chemical reactions.
 - [Drug Repurposing Hub](https://repo-hub.broadinstitute.org/repurposing#download-data) - Collections of drug repurposing data containing drug, moa, target etc.
+- [Therapeutic Target Database](https://idrblab.net/ttd/full-data-download) - collections of drug-target, target-disease, and drug-disease dataset.
 ### Pathway
 - [PathwayCommons](https://www.pathwaycommons.org/) - Database of Pathways and Interactions.
 - [KEGG PATHWAY](https://www.genome.jp/kegg/pathway.html) - Collection fo drawn pathway maps.
@@ -48,7 +49,6 @@ A knowledge collection of databases, software and papers related to computationa
   - [DGIdb](https://www.dgidb.org/) - A database of drug-gene interactions and the druggable genome.
   - [Comparative Toxicogenomics Database](http://ctdbase.org/) - A database of Chemical-gene interactions, Chemical-disease associations, Gene-disease associations, and Chemical-phenotype associations.
   - [SNAP](https://snap.stanford.edu/biodata/datasets/10002/10002-ChG-Miner.html#:~:text=Dataset%20information,or%20activation%20of%20the%20drug.) - A dataset which contains Drug-gene interactions. 
-  - [Comparative Toxicogenomics Database](https://ctdbase.org/) - A database for drug-target interactions.
   - [Therapeutics Data Commons](https://tdcommons.ai/) - A database for a lot of tasks such as drug-target, drug-response, drug-drug interaction.
 - Drug (-Cell line) Response
   - [NCI60](https://dtp.cancer.gov/discovery_development/nci-60/) A database which focus on 60 cancer cell lines with many drugs.
@@ -63,6 +63,7 @@ A knowledge collection of databases, software and papers related to computationa
   - [HIPPIE](http://cbdm-01.zdv.uni-mainz.de/~mschaefer/hippie/) - Human Protein-Protein Interaction database.
 - Knowledge Graph
   - [Drug Mechanism Database (DrugMechDB)](https://github.com/SuLab/DrugMechDB/tree/2.0.1): database of the mechanism of action from a drug to a disease.
+  - [DRKG](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.
  
 ## API
 - [PubMed esearch](https://www.nlm.nih.gov/dataguide/edirect/esearch.html): API for searching articles in PubMed.
@@ -78,12 +79,10 @@ A knowledge collection of databases, software and papers related to computationa
 
 ## Drug Response Prediction
 - [drGAT](https://github.com/inoue0426/drGAT): A model for drug response prediction with gene explainability with attention mechanism.
-- 
 
 ### Drug Repurposing
 
-- [DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing and so on. 
-- [DRKG](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.
+- [DeepPurpose](https://github.com/kexinhuang12345/DeepPurpose) - A DL Library for Drug Repurposing. 
 
 ### Drug Target Interaction
 
