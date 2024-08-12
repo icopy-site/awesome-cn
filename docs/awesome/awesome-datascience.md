@@ -597,6 +597,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Julia for Data Science](https://www.manning.com/books/julia-for-data-science) - Early Access
 - [An Introduction to Statistical Learning](https://www.statlearning.com/) - Download Page
 - [Machine Learning For Absolute Beginners](https://www.amazon.in/Machine-Learning-Absolute-Beginners-Introduction-ebook/dp/B07335JNW1)
+- [Unifying Business, Data, and Code: Designing Data Products with JSON Schema](https://learning.oreilly.com/library/view/unifying-business-data/9781098144999/)
 
 #### Book Deals (Affiliated) 🛍
 

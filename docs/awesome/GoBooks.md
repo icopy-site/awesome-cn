@@ -122,7 +122,7 @@ Go 101 is a book focusing on Go syntax/semantics and all kinds of runtime relate
 <img src="https://book.gofarsi.ir/gofarsi-book-cover.jpg" width="120px"/>
 
 The first Persian open source book about golang deep dive.
-In this book, we discuss all deep topics related to the Go language, 
+In this book, we discuss all deep topics related to the Go language,
 from the basics to the advanced, with the aim of increasing the Gopher community in Iran.
 
 
