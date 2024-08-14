@@ -1,10 +1,10 @@
 <div class="github-widget" data-repo="candelibas/awesome-ionic"></div>
 ## Awesome Ionic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Ionic 资源的“很棒”列表 
+An "awesome" list of the Ionic resources 
 
 ### Ionic
-&gt; “Ionic 是用于使用 Web 技术开发混合移动应用程序的漂亮的开源前端 SDK.”
+> "Ionic is the beautiful, open source front-end SDK for developing hybrid mobile apps with web technologies."
 
 ##### Current Ionic version: 
 [![npm version](https://badge.fury.io/js/ionic-framework.svg)](https://badge.fury.io/js/ionic-framework)
@@ -61,7 +61,6 @@ Ionic 资源的“很棒”列表
 * [Authenticate Ionic with WordPress](https://auth0.com/authenticate/ionic2/wordpress)
 
 #### Unit Testing
-* [Ionic Unit Testing](http://lathonez.github.io/2017/ionic-2-unit-testing/)
 * [How to Unit Test an Ionic Application](http://www.joshmorony.com/how-to-unit-test-an-ionic-2-application/)
 * [Test Driven Development in Ionic: An Introduction to TDD](https://www.joshmorony.com/test-driven-development-in-ionic-2-an-introduction-to-tdd/)
 
@@ -97,12 +96,12 @@ Ionic 资源的“很棒”列表
 
 #### i18n & l10n
 * [Internationalize and Localize Your App With Angular 2](http://www.gajotres.net/ionic-2-internationalize-and-localize-your-app-with-angular-2/)
-* [attranslate](https://github.com/fkirc/attranslate) - JSON 和其他资源文件的半自动翻译
+* [attranslate](https://github.com/fkirc/attranslate) - Semi-automated translation of JSON and other resource files
 
 #### Tools
 * [Ionic2-vscode](https://marketplace.visualstudio.com/items?itemName=jgw9617.ionic2-vscode)
 * [Vim-ionic2](https://github.com/akz92/vim-ionic2)
-* [Ionic Vetur Intellisense](https://github.com/moduslabs/ionic/tree/master/packages/ionic-vetur) - Vetur 支持用于标签和属性自动完成的离子组件
+* [Ionic Vetur Intellisense](https://github.com/moduslabs/ionic/tree/master/packages/ionic-vetur) - Vetur support for Ionic Components for tag and attribute autocompletion
 
 #### Video Tutorials
 * [Ionic Quickstart](https://www.udemy.com/ionic-2-quickstart/)
@@ -135,9 +134,10 @@ Ionic 资源的“很棒”列表
 * [Ionic aiEyes - Azure Computer Vision API](https://github.com/brenopolanski/aiEyes)
 * [Ionic Soundboard](https://github.com/rkalis/ionic-soundboard)
 * [Ionic Country Explorer](https://github.com/SKempin/ionic-country-explorer)
+* [Ionic Timer App](https://github.com/imjohnbo/ionic2-timer)
 
 #### Contribute
-欢迎投稿！ 阅读 [contribution guidelines](https://github.com/candelibas/awesome-ionic/blob/master/CONTRIBUTING.md) 第一的.
+Contributions welcome! Read the [contribution guidelines](https://github.com/candelibas/awesome-ionic/blob/master/CONTRIBUTING.md) first.
 
 
 #### License

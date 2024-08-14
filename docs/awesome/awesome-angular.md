@@ -601,6 +601,7 @@ become an Angular expert.
 * [NobleUI](https://nobleui.com/angular/)
 * [ThemesBrand](https://themesbrand.com/judia/angular.html)
 * [Flatlogic](https://flatlogic.com/templates?framework%5B%5D=angular)
+* [Jet](https://docs.jetproject.dev/) - Jet is the ultimate Angular + Material Design boilerplate to build ambitious, robust web apps. Jet satisfies 60+ functional and non-functional stories.
 
 #### Testing
 
@@ -715,6 +716,7 @@ become an Angular expert.
 * [ngu-flow](https://github.com/uiuniversal/ngu-flow) - Angular flow diagram library.
 * [highcharts-angular](https://github.com/highcharts/highcharts-angular) - Official minimal [Highcharts](https://www.highcharts.com/) integration for Angular.
 * [angular-highcharts](https://github.com/cebor/angular-highcharts) - Highcharts directive for Angular.
+* [Foblex](https://flow.foblex.com/) - Angular Powered Flow-Chart Library.
 
 #### Dates
 
