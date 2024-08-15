@@ -134,6 +134,7 @@ Biological image analysis aims to increase our understanding of biology through 
 absence of a ground truth.
 - [TraJClassifier](https://imagej.net/plugins/trajclassifier) - Fiji plugin that loads trajectories from TrackMate, characterizes them using TraJ and classifiies them into normal diffusion, subdiffusion, confined diffusion and directed/active motion by a random forest approach (through Renjin).
 - [QuimP](https://github.com/CellDynamics/QuimP) - Software for tracking cellular shape changes and dynamic distributions of fluorescent reporters at the cell membrane.
+- [Ultrack](https://github.com/royerlab/ultrack) - Versatile cell tracking method for 2D, 3D, and multichannel timelapses, overcoming segmentation challenges in complex tissues.
 - [Usiigaci](https://github.com/oist/usiigaci) - Stain-free cell tracking in phase contrast microscopy enabled by supervised machine learning.
 
 ## Pathology

@@ -1044,6 +1044,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Divvy](http://mizage.com/divvy/) - Window management at its finest with its amazing Divvy Grid system.
 * [Hummingbird](https://hummingbirdapp.site/) - Easily move and resize windows without mouse clicks, from anywhere within a window.
 * [IntelliDock](https://mightymac.app/intellidock/) - Hides the Dock, Automatically.
+* [Loop](https://github.com/MrKai77/Loop) - Window management made elegant. [Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/MrKai77/Loop)
 * [Lasso](https://thelasso.app) - Intuitive and easy to use grid-based window manager.
 * [Magnet](http://magnet.crowdcafe.com/) - Window manager that keeps your workspace organized. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/id441258766)
 * [MakeItHome](https://github.com/Geckos-Ink/MakeItHome) - Extends your macOS' UI allowing you to access with the pointer in the "over screen", an extension of the interface for accessing quick actions, mainly fast switch of the most used running applications. ![Open-Source Software][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/it/app/makeithome-screen-extender/id6444596296?l=en-GB&mt=12)
@@ -1175,7 +1176,7 @@ If you come across websites offering pirated software or cracks, please post [HE
 *Here are some of the major software download sites, there are a number of OSX Mac software sites*
 
 * [Applite](https://aerolite.dev/applite) - User-friendly GUI app for Homebrew Casks. Install, update, and uninstall apps with a single click. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/milanvarady/Applite)
-* [Cakebrew](http://www.cakebrew.com) - GUI client for Homebrew. Install, check or remove apps, no command-line needed. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/brunophilipe/Cakebrew/)
+* [Cork](https://corkmac.app) - An intuitive and complete Homebrew GUI written in SwiftUI that supports all Homebrew features. [![Open-Source Software][OSS Icon]](https://github.com/buresdv/cork)
 * [Homebrew](https://brew.sh/) - The missing package manager for macOS. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Homebrew/brew/)
 * [MacPorts](https://www.macports.org/) - Open-source community initiative to design an easy-to-use system for compiling, installing, and upgrading either command-line, X11 or Aqua based open-source software on the Mac OS X operating system. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/macports/)
 * [MacUpdate Desktop](https://www.macupdate.com/) - Simplifies finding, buying and installing apps for your Mac.

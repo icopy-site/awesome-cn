@@ -696,6 +696,7 @@ become an Angular expert.
 * [ngx-drag-scroll](https://github.com/bfwg/ngx-drag-scroll) - A lightweight responsive Angular carousel library.
 * [ng-slider](https://github.com/Jaspero/ng-slider) - A light slider with no external dependencies.
 * [keen-slider](https://github.com/rcbyr/keen-slider) - The HTML touch slider carousel with the most native feeling you will get.
+* [ngx-darkbox-gallery-library](https://github.com/failed-successfully/ngx-darkbox-gallery-library) - A highly configurable lightbox themed gallery library for Angular applications using the Ivy engine (Angular 15+).
 
 #### Charts
 
@@ -780,6 +781,7 @@ become an Angular expert.
 * [ngx-property-editor](https://github.com/heinerwalter/ngx-property-editor) - Angular library containing simple input components and a property editor component, which automatically builds a form for editing all properties of any object.
 * [ngx-tiptap](https://github.com/sibiraj-s/ngx-tiptap) - Angular bindings for [tiptap v2](https://tiptap.dev/).
 * [tinymce-angular](https://github.com/tinymce/tinymce-angular) - Official [TinyMCE](https://www.tiny.cloud/) Angular Component.
+* [slate-angular](https://github.com/worktile/slate-angular) - Angular view layer for [Slate](https://github.com/ianstormtaylor/slate).
 
 #### File Upload
 
@@ -1025,6 +1027,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [signalstory](https://github.com/zuriscript/signalstory) - A state management library based on Angular signals. It offers a range of architectural options, from simple repository-based state management (signal-in-a-service) to orchestrating decoupled commands, handling side effects through encapsulated objects, and facilitating inter-store communication using an event-driven approach.
 * [ngx-sherlock](https://github.com/politie/ngx-sherlock) - `ngx-sherlock` is an Angular tooling library to be used with the [@politie/sherlock](https://github.com/politie/sherlock) distributed reactive state management library.
 * [tansu](https://github.com/AmadeusITGroup/tansu) - A lightweight, push-based state management library. It works well with [the Angular ecosystem](https://amadeusitgroup.github.io/tansu/#md:tansu-works-well-with-the-angular-ecosystem).
+* [@tethys/store](https://github.com/worktile/store) - A mini, yet powerful state management library for Angular.
 
 #### Storage
 
