@@ -78,7 +78,7 @@
 - [Clapper](https://rafostar.github.io/clapper) - Simple and modern media player.
 - [Footage](https://gitlab.com/adhami3310/Footage) - Application to trim, flip, rotate and crop individual clips.
 - [Aviator](https://flathub.org/apps/net.natesales.Aviator) - Utility for encoding with SVT-AV1 & Opus.
-- [G4Music](https://flathub.org/apps/com.github.neithern.g4music) - Play your music elegantly.
+- [Gapless](https://flathub.org/apps/com.github.neithern.g4music) - Play your music elegantly.
 - [Monophony](https://flathub.org/fr/apps/io.gitlab.zehkira.Monophony) - Stream music from YouTube.
 - [Collector](https://mijorus.it/projects/collector) - Dropover utility that allows to drag files/images/text into a collection window and drop them anywhere.
 - [Fotema](https://flathub.org/apps/app.fotema.Fotema) - Photo gallery with support for iOS Live Photos and Samsung Motion Photos and with map view.
