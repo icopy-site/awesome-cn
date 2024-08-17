@@ -494,7 +494,8 @@ become an Angular expert.
 
 #### Internationalization
 
-* [transloco](https://github.com/ngneat/transloco) - 🚀 😍 The internationalization (i18n) library for Angular.
+* [transloco](https://github.com/jsverse/transloco/) - 🚀 😍 The internationalization (i18n) library for Angular.
+* [transloco-keys-manager](https://github.com/jsverse/transloco-keys-manager) - Tools to help reduce monotonous work.
 * [ngx-tolgee](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
 * [typesafe-i18n](https://github.com/ivanhofer/typesafe-i18n) - A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.
 * [angular-l10n](https://github.com/robisim74/angular-l10n) - Angular library to translate texts, dates and numbers.
@@ -784,6 +785,8 @@ become an Angular expert.
 * [ngx-tiptap](https://github.com/sibiraj-s/ngx-tiptap) - Angular bindings for [tiptap v2](https://tiptap.dev/).
 * [tinymce-angular](https://github.com/tinymce/tinymce-angular) - Official [TinyMCE](https://www.tiny.cloud/) Angular Component.
 * [slate-angular](https://github.com/worktile/slate-angular) - Angular view layer for [Slate](https://github.com/ianstormtaylor/slate).
+* [BlockNoteAngular](https://github.com/dytab/BlockNoteAngular) - Unofficial [BlockNote](https://github.com/TypeCellOS/BlockNote) Angular wrapper.
+* [ngx-jodit](https://github.com/julianpoemp/ngx-jodit/) - Angular wrapper for [Jodit](https://github.com/xdan/jodit) WYSIWYG editor.
 
 #### File Upload
 
