@@ -2156,7 +2156,7 @@ _Libraries and tools for templating and lexing._
 - [raymond](https://github.com/aymerick/raymond) - Complete handlebars implementation in Go.
 - [Razor](https://github.com/sipin/gorazor) - Razor view engine for Golang.
 - [Soy](https://github.com/robfig/soy) - Closure templates (aka Soy templates) for Go, following the [official spec](https://developers.google.com/closure/templates/).
-- [sprig](https://github.com/Masterminds/sprig) - Useful template functions for Go templates.
+- [sprout](https://github.com/go-sprout/sprout) - Useful template functions for Go templates.
 - [tbd](https://github.com/lucasepe/tbd) - A really simple way to create text templates with placeholders - exposes extra builtin Git repo metadata.
 - [templ](https://github.com/a-h/templ) - A HTML templating language that has great developer tooling.
 
@@ -2177,6 +2177,7 @@ _Libraries for testing codebases and generating test data._
 - [commander](https://github.com/SimonBaeumer/commander) - Tool for testing cli applications on windows, linux and osx.
 - [cupaloy](https://github.com/bradleyjkemp/cupaloy) - Simple snapshot testing addon for your test framework.
 - [dbcleaner](https://github.com/khaiql/dbcleaner) - Clean database for testing purpose, inspired by `database_cleaner` in Ruby.
+- [dft](https://github.com/abecodes/dft) - Lightweight, zero dependency docker containers for testing (or more).
 - [dsunit](https://github.com/viant/dsunit) - Datastore testing for SQL, NoSQL, structured files.
 - [embedded-postgres](https://github.com/fergusstrange/embedded-postgres) - Run a real Postgres database locally on Linux, OSX or Windows as part of another Go application or test.
 - [endly](https://github.com/viant/endly) - Declarative end to end functional testing.

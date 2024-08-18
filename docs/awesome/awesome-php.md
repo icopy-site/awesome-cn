@@ -273,7 +273,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [AntiXSS](https://github.com/voku/anti-xss) - A library that tries to preventing Cross-Site Scripting (XSS) attacks by blacklisting.
 * [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium](https://github.com/jedisct1/libsodium).
-* [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 * [Optimus](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
 * [OWASP](https://owasp.org/) - Explore the world of cyber security.
 * [PHPGGC](https://github.com/ambionics/phpggc) - A library of PHP unserializable payloads along with a tool to generate them.
@@ -325,6 +324,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP Mess Detector](https://github.com/phpmd/phpmd) - A library that scans code for bugs, sub-optimal code, unused parameters and more.
 * [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 * [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
+* [Laravel Pint](https://github.com/laravel/pint) - A coding standards fixer library for Laravel.
 
 ### Static Analysis
 *Libraries for performing static analysis of PHP code.*
@@ -377,7 +377,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Self-hosted or cloud-based application performance monitoring & error tracking tools*
 
 * [Blackfire](https://www.blackfire.io) - A low-overhead code profiler.
-* [BugSnag](https://www.bugsnag.com/) - Error and Real User Monitoring. 
+* [BugSnag](https://www.bugsnag.com/) - Error and Real User Monitoring.
 * [Honeybadger](https://www.honeybadger.io/) - Error Tracking & Application Monitoring for Developers.
 * [Rollbar](https://rollbar.com/) - Error Logging & Tracking Service for Software Teams.
 * [Sentry](https://sentry.io/welcome/) - Application Performance Monitoring & Error Tracking Software.
@@ -439,7 +439,8 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Elephant.io](https://github.com/ElephantIO/elephant.io) - Yet another web socket library.
 * [Evenement](https://github.com/igorw/evenement) - An event dispatcher library.
 * [Event](https://github.com/thephpleague/event) - An event library with a focus on domain events.
-* [Fast CGI Client](https://github.com/hollodotme/fast-cgi-client) - A client to make synchronous/asynchronous requests through php-fpm socket. 
+* [Fast CGI Client](https://github.com/hollodotme/fast-cgi-client) - A client to make synchronous/asynchronous requests through php-fpm socket.
+* [FrankenPHP](https://frankenphp.dev/) - A modern PHP app server written in Go.
 * [Pawl](https://github.com/ratchetphp/Pawl) - An asynchronous web socket client.
 * [Prooph Event Store](https://github.com/prooph/event-store) - An event source component to persist event messages
 * [PHP Defer](https://github.com/php-defer/php-defer) - Golang's defer statement for PHP.
@@ -596,7 +597,7 @@ Libraries to help manage database schemas and migrations.
 * [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - An ANSI to HTML5 converter library.
 * [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - A library for manipulating and converting colors.
 * [Device Detector](https://github.com/matomo-org/device-detector) - Another library for parsing user agent strings.
-* [Hyphenation](https://github.com/heiglandreas/Org_Heigl_Hyphenator) - Text-Hyphenation based on the TeX-hyphenation Algorithm 
+* [Hyphenation](https://github.com/heiglandreas/Org_Heigl_Hyphenator) - Text-Hyphenation based on the TeX-hyphenation Algorithm
 * [Jieba-PHP](https://github.com/fukuball/jieba-php) - A PHP port of Python's jieba. Chinese text segmentation for natural language processing.
 * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - A lightweight PHP class for detecting mobile devices (including tablets).
 * [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
@@ -621,19 +622,22 @@ Libraries to help manage database schemas and migrations.
 * [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - A library for converting between units of measure.
 * [MathPHP](https://github.com/markrogoyski/math-php) - A math library for PHP.
 
-### Filtering and Validation
-*Libraries for filtering and validating data.*
+### Filtering, Sanitizing and Validation
+*Libraries for filtering, sanitizing and validating data.*
 
 * [Assert](https://github.com/beberlei/assert) - A validation library with a rich set of assertions. Supports assertion chaining and lazy assertions.
 * [Aura.Filter](https://github.com/auraphp/Aura.Filter) - Provides tools to validate and sanitize objects and arrays.
 * [CakePHP Validation](https://github.com/cakephp/validation) - Another validation library.
 * [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
+* [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according to standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries.
 * [JSON Schema](https://github.com/jsonrainbow/json-schema) - A [JSON Schema](https://json-schema.org/) validation library.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
 * [Respect Validation](https://github.com/Respect/Validation) - A simple validation library.
+* [Symfony HTML Sanitizer](https://github.com/symfony/html-sanitizer) - An HTML sanitizer library.
 * [Upload](https://github.com/brandonsavage/Upload) - A library for handling file uploads and validation.
 * [Valitron](https://github.com/vlucas/valitron) - Another validation library.
+* [Valinor](https://github.com/CuyZ/Valinor) - A library for mapping to strongly typed value objects.
 * [Volan](https://github.com/serkin/Volan) - Another simplified validation library.
 
 ### API
@@ -747,10 +751,10 @@ Libraries to help manage database schemas and migrations.
 * [ClassPreloader](https://github.com/ClassPreloader/ClassPreloader) - A library for optimizing autoloading.
 * [Ganesha](https://github.com/ackintosh/ganesha) - A PHP implementation of Circuit Breaker pattern.
 * [Hprose-PHP](https://github.com/hprose/hprose-php) - A cross-language RPC.
+* [Laravel Serializable Closure](https://github.com/laravel/serializable-closure) - A library that allows Closures to be serialized.
 * [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's noCAPTCHA (reCAPTCHA).
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
 * [Safe](https://github.com/thecodingmachine/safe) - All PHP functions, rewritten to throw exceptions instead of returning false.
-* [SuperClosure](https://github.com/jeremeamia/super_closure) - A library that allows Closures to be serialized.
 
 ## Software
 *Software for creating a development environment.*
@@ -760,9 +764,9 @@ Libraries to help manage database schemas and migrations.
 
 * [Brew PHP Switcher](https://github.com/philcook/brew-php-switcher) - Brew PHP switcher.
 * [HomeBrew](https://brew.sh/) - A package manager for OSX.
-* [Laravel Valet](https://laravel.com/docs/master/valet) - A development environment for macOS.
 * [PHP Brew](https://github.com/phpbrew/phpbrew) - A PHP version manager and installer.
 * [PHP Build](https://github.com/php-build/php-build) - Another PHP version installer.
+* [Static PHP CLI](https://github.com/crazywhalecc/static-php-cli) - Build or [download](https://dl.static-php.dev/static-php-cli/) static versions of PHP CLI and FPM.
 
 ### Development Environment
 *Software and tools for creating and sharing a development environment.*
@@ -775,7 +779,9 @@ Libraries to help manage database schemas and migrations.
 * [Expose](https://github.com/beyondcode/expose) - An open-source PHP tunneling service.
 * [Lando](https://lando.dev/) - Push-button development environments.
 * [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel.
+* [Laravel Herd](https://herd.laravel.com/) - A one click PHP development environment for macOS and Windows.
 * [Laradock](http://laradock.io/) - A full PHP development environment based on Docker.
+* [PHPMon](https://phpmon.app/) - A macOS menu bar app for managing PHP installations (works with [Laravel Valet](https://laravel.com/docs/master/valet)).
 * [Puppet](https://www.puppet.com) - A server automation framework and application.
 * [Takeout](https://github.com/tighten/takeout) - A Docker-based development-only dependency manager.
 * [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
@@ -856,14 +862,12 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [Programming with Anthony](https://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - A video series by Anthony Ferrara.
 * [SymfonyCasts](https://symfonycasts.com/) - Screencasts and tutorials about PHP and Symfony.
 
-
 ### PHP Conferences
 *PHP conferences.*
 
 * [Laracon EU](https://www.youtube.com/@LaraconEU) - Laracon EU is a 2-day event for people who are interested in learning Laravel and related technologies, or who want to share their knowledge with others.
 * [PHP[TEK]](https://tek.phparch.com/) - The longest-running web developer conference in the United States that has a focus on the PHP programming language.
 * [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) - A collection of videos from the PHP UK Conference.
-
 
 ### PHP Podcasts
 *Podcasts with a focus on PHP topics.*

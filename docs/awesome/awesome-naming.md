@@ -95,6 +95,7 @@ This is a curated list for when naming things is done right.
 ## Tools, Applications, Libraries, Frameworks
 
 - [clooney](https://github.com/GoogleChromeLabs/clooney) - A JavaScript library implementing the actor model for concurrent computation. The term is a reference to George Clooney who is also an actor.
+- [CockroachDB](https://web.archive.org/web/20150514123425/http://www.wired.co.uk/news/archive/2014-07/22/cockroachdb) - Database application, that is marketed as being so fault tolerant and resilient as a cockroach.
 - [horcrux](https://github.com/jesseduffield/horcrux) - Splits a file into encrypted fragments that only together can be decrypted again. In the Harry Potter universe, Horcruxes are fragments of a persons soul. To kill the person, all fragments must be destroyed.
 - [Puppeteer](https://github.com/puppeteer/puppeteer) - A browser automation library. If the browser is the puppet, this is the puppeteer.
 - [Safari](https://en.wikipedia.org/wiki/Safari_(web_browser)) - Web browser developed by Apple.
