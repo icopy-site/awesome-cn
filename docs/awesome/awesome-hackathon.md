@@ -21,7 +21,8 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [HackAssistant](https://github.com/HackAssistant/hackassistant) - Hackathon registration server.
 - [HackDash](https://github.com/impronunciable/hackdash) - Organize hackaton ideas into a dashboard.
 - [HackPortal](https://github.com/acmutd/hackportal) - A platform from HackUTD for user-friendly event management.
-- [HackathonManager](https://github.com/codeRIT/hackathon-manager) -  Hackathon registration & logistics, compatible with MyMLH.
+- [HackathonManager](https://github.com/codeRIT/hackathon-manager) - Hackathon registration & logistics, compatible with MyMLH.
+- [Hack the Back](https://github.com/hackthevalley/hack-the-back) - An elegant backend, with ready-made GraphQL and REST endpoints. 
 - [Hibiscus](https://github.com/HackSC/hibiscus) - An all-in-one, plug-and-play hackathon platform, created for HackSC.
 - [JunctionApp](https://github.com/hackjunction/JunctionApp) -  All-in-one hackathon platform for organisers, maintained by Junction.
 - [OpenHackathon](https://github.com/kaiyuanshe/OpenHackathon-Web) - Platform with Git-based Cloud Development Environment based on Next.js.
@@ -48,6 +49,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [Quill](https://github.com/techx/quill) - A registration system designed especially for large hackathons, maintained by HackMIT.
 - [LaraHack](https://github.com/ScientificClubofESI/LaraHack) - Administration system designed especially for hackathons and similar competitions.
 - [Ninjathon](https://github.com/shilomagen/hackathon-matching-platform) - Hackathon managing platform.
+- [Pepper](https://github.com/rohitdatta/pepper) - Designed to work with MyMLH for sign in.
 - [Sledge](https://github.com/HackRU/sledge) - A judging system for hackathons developed at Rutgers University.
 - [React Hackathon Board](https://github.com/hirako2000/react-hackathon-board) - Web application to manage Hackathon events.
 - [VersusVirus App](https://github.com/VersusVirus-Hackathons/VersusVirus-App) - For managing teams at large online hackathons.
