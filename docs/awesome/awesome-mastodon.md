@@ -123,7 +123,6 @@ This list is a collection of the best Mastodon resources.
 - [feed2toot](https://gitlab.com/chaica/feed2toot) - Automatically parses RSS feeds, identifies new posts and posts them on Mastodon (Python).
 - [aerialbot](https://github.com/doersino/aerialbot) - Respond with geotagged aerial imagery of a random location in the world.
 - [rust-trending](https://github.com/pbzweihander/rust-trending) - Post trending Rust repositories on Mastodon (inspired by TrendingGithub).
-- [translator](https://christopher.su/projects/translator/) - Translate any toot into the desired language using `@translator@toot.works [langcode]`.
 - [@TrendingBot@mastodon.social](https://mastodon.social/@TrendingBot) - Shows you what's trending on Mastodon.
 - [News Bot](https://botsin.space/@newsbot) - Mirrors Twitter accounts on Mastodon (ClojureScript), source available on [GitHub](https://github.com/yogthos/mastodon-bot).
 - [@HackerNewsBot@mastodon.social](https://mastodon.social/@HackerNewsBot) - Post Hacker News posts with over 100 upvotes.
