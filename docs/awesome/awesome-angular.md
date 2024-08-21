@@ -294,6 +294,17 @@ become an Angular expert.
 
 ---
 
+#### Accessibility
+
+* [digital.gov](https://digital.gov/guides/accessibility-for-teams/) - Accessibility for teams guide from USA government.
+* [WAI](https://www.w3.org/WAI/) - The W3C Web Accessibility Initiative (WAI) develops standards and support materials to help you understand and implement accessibility.
+* [webaim](https://webaim.org/) - Web accessibility in mind.
+* [WAVE](https://wave.webaim.org/) - WAVE Web Accessibility Evaluation Tools.
+* [axe Accessibility Linter](https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter) - Accessibility linting for HTML, Angular, React, Markdown, Vue, and React Native.
+* [Angular Material CDK - a11y](https://material.angular.io/cdk/a11y/overview) - The a11y package provides a number of tools to improve accessibility.
+* [PrimeNG](https://primeng.org/guides/accessibility) - PrimeNG accessibility guide.
+* [astral-accessibility](https://github.com/verto-health/astral-accessibility) - An open-source accessibility widget written in Angular.
+
 #### AI
 
 * [Generative AI web development with Angular YouTube Video](https://www.youtube.com/watch?v=5FdtPwZrkGw)
