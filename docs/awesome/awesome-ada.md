@@ -267,6 +267,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [ada-gui](https://github.com/jrcarter/Ada_GUI) - GUI implemented on its own task, so it doesn't require that its client give up a thread of control. Derived from [gnoga].
 - [adawebui](https://github.com/godunko/adawebui) - GUI based on [adawebpack].
 - [imgui-ada](https://github.com/Cre8or/ImGui-Ada) - Ada binding of the ImGui library.
+- [anuklear](https://github.com/ada-game-framework/anuklear) - Ada binding to the Nuklear GUI library and the Nuklear-SDL renderer.
 
 [gnoga]: https://sourceforge.net/projects/gnoga/
 [gtkada]: https://github.com/AdaCore/gtkada
@@ -384,7 +385,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [sl3p](https://github.com/jklmnn/sl3p) - Simple Layer 3 Protocol.
 - [smart-pointers](https://github.com/alire-project/smart_pointers) - A package providing a reference-counted access type Smart_Pointer.
 - [hungarian-algorithm](https://github.com/fastrgv/HungarianAlgorithm) - Hungarian Algorithm implementation in Ada.
-- [sal](https://www.stephe-leake.org/ada/sal.html) - SAL (Stephe's Ada Library).
+- [sal](https://web.archive.org/web/20240525031005/https://www.stephe-leake.org/ada/sal.html) - SAL (Stephe's Ada Library): customized containers, AUnit extensions and various generics.
 - [nb-ada](https://github.com/andgi/NBAda) - NBAda : An Ada library of lock-free data structures and algorithms.
 - [paraffin](https://sourceforge.net/projects/paraffin/) - A suite of Ada 2012 generics to facilitate iterative and recursive parallelism for multicore systems.
 - [deepend](https://sourceforge.net/projects/deepend/) - Deepend is a storage pool with subpool capabilities for Ada 2012, Ada 2005, and Ada 95.

@@ -1336,7 +1336,7 @@ English-language description for use by biologists.
 
 * [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2) - ***Nature***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=6286436358625670901)]. A canonical application of observation- and explanation- based method for protein structure prediction instead of first-principle-based methods.
 
-* [Human–machine collaboration for improving semiconductor process development](https://www.nature.com/articles/s41586-023-05773-7) - ***Nature***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=10295771969614897767&hl=en&as_sdt=0,5)]. [[Nature News](https://www.nature.com/articles/d41586-023-01353-x)].
+* [Human–machine collaboration for improving semiconductor process development](https://www.nature.com/articles/s41586-023-05773-7) - ***Nature***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=10295771969614897767)]. [[Nature News](https://www.nature.com/articles/d41586-023-01353-x)].
 
 * [A foundation model for generalizable disease detection from retinal images](https://www.nature.com/articles/s41586-023-06555-x) - ***Nature***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=3139988207343394501&hl=en&as_sdt=0,5)].
 
