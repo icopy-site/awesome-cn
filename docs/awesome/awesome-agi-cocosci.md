@@ -1338,7 +1338,7 @@ English-language description for use by biologists.
 
 * [Human–machine collaboration for improving semiconductor process development](https://www.nature.com/articles/s41586-023-05773-7) - ***Nature***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=10295771969614897767)]. [[Nature News](https://www.nature.com/articles/d41586-023-01353-x)].
 
-* [A foundation model for generalizable disease detection from retinal images](https://www.nature.com/articles/s41586-023-06555-x) - ***Nature***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=3139988207343394501&hl=en&as_sdt=0,5)].
+* [A foundation model for generalizable disease detection from retinal images](https://www.nature.com/articles/s41586-023-06555-x) - ***Nature***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=3139988207343394501)].
 
 * [Accurate medium-range global weather forecasting with 3D neural networks](https://www.nature.com/articles/s41586-023-06185-3) - ***Nature***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=7198604620204619820&hl=en&as_sdt=0,5)].
 
