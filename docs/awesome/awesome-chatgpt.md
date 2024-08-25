@@ -86,6 +86,7 @@
 - [16x Prompt](https://prompt.16x.engineer) - Cross-platform app to add source code and formatting instructions into prompt for coding tasks. ($)
 - [AI Chat](https://www.chatbar.top) - Cross-platform app that provides quick access to chatbots like ChatGPT from the menu bar. (Electron)
 - [ScreenSnapAI](https://screensnap.ai) - Native macOS app to chat about captured screenshots. ($)
+- [QChatGPT](https://github.com/timamus/QChatGPT) - ChatGPT cross-platform client made with the Quasar framework. (Electron)
 
 ## Web apps
 
@@ -166,6 +167,7 @@
 - [ChatGPT Infinity](https://github.com/adamlui/chatgpt-infinity) - Makes ChatGPT automatically answer random questions to increase your knowledge.
 - [Meeper](https://github.com/pas1ko/meeper) - Transcriptions, summary and more using ChatGPT and Whisper AI for meetings and any browser tab.
 - [YouTube Summary by TubeSum](https://chromewebstore.google.com/detail/tubesum/hkhihfjmjgledkdhmlohldmpnolcoabm) - Summarize YouTube videos.
+- [SwiftStyle AI](https://github.com/swiftstyleai/swiftstyleai) - An open-source Chrome extension that customizes content to match your unique style and brand voice.
 
 **User scripts**
 

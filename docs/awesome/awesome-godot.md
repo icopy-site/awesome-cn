@@ -9,6 +9,7 @@ Looking for third-party programming language support in Godot?
 See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 
+  - [XR] (#xr)
 
 ## Games
 
@@ -96,6 +97,17 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [Cheese Hunter](https://github.com/khairul169/cheese-hunter) - A game for Godot Engine Jam of March 2016.
 
+### XR
+
+#### Godot 4.1
+
+ - [Piggy Rescue](https://github.com/surreal6/piggyRescue) - Fun little example game where you chase and rescue little pigs.
+
+#### Godot 3.5
+
+ - [Beep Saber VR](https://github.com/NeoSpark314/BeepSaber) - Beat Saber clone in Godot.
+ - [Friday Night Funkin`](https://github.com/this-is-bennyk/Funkin-VR) - VR port of the popular rhythm game.
+
 ## Projects
 
 *Non-game Open source projects made with Godot (tools/utilities).*
@@ -125,6 +137,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 #### Godot 4.2+
 
+- [Godot XR Template](https://github.com/godotVR/godot-xr-template) - Template for a multi-level XR game.
 - [Maaack's Game Template](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 
 #### Godot 3.5+
@@ -244,11 +257,13 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [CSLocator (Contextual Service Locator)](https://codeberg.org/svetogam/cslocator) - Provides a clean interface to register and find objects through the scene tree like localized singletons.
 - [Dialogue Engine](https://github.com/Rubonnek/dialogue-engine) - Minimalistic dialogue engine that fits into your GUI nodes and automatically graphs the branching dialogues for easy debugging.
 - [Godot Google Play Game Services](https://github.com/Iakobs/godot-play-game-services) - Integrate Google Play Games Services in your Godot game.
+- [Godot XR Tools](https://github.com/godotvr/godot-xr-tools) - Basic components for XR development.
 - [LimboAI](https://github.com/limbonaut/limboai) - Behavior trees and state machines. Comes with editor, visual debugger, comprehensive demo and tutorial.
 - [Maaack's Game Template Plugin](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
 - [Maaack's Menus Template](https://github.com/Maaack/Godot-Menus-Template) - Template with a main menu, options menus, credits, and a scene loader.
 - [Maaack's Scene Loader](https://github.com/Maaack/Godot-Scene-Loader) - Scene loader that includes a loading screen, progress bar, and error handling.
 - [PixelPen](https://github.com/pixelpen-dev/pixelpen) - Pixel art drawing and animation: Common drawing tools such as selection, shape creation, mirroring, tiling, and animation features within the Godot editor.
+- [TerraBrush](https://github.com/spimort/TerraBrush) - Minimal Terrain heightmap editor that features sculpting, painting textures, LOD, and MultiZones.
 
 #### Godot 3.2+
 
