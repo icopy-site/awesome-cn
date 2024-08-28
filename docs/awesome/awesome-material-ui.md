@@ -76,6 +76,7 @@ A list of UI components built with Material-UI Design.
 - [Material-UI NestedMenuItem](https://github.com/azmenak/material-ui-nested-menu-item) - Drop-in replacement for MUI's MenuItem with infinitely nested menus, and open on hover.
 - [React-planet](https://github.com/innFactory/react-planet) - Create circular menus which looks like planets.
 - [MUI Phone Input](https://github.com/typesnippet/mui-phone-input) - Advanced, highly customizable phone input component for Material UI.
+- [mui-treasury](https://github.com/siriwatknp/mui-treasury) - A collection of ready-to-use components based on Material-UI.
 
 ## Applications
 

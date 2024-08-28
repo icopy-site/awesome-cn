@@ -65,6 +65,7 @@ Misc
 - [scapy-benchmarks](https://github.com/gpotter2/scapy-benchmarks) - A small test suite that tracks the evolution of Scapy's performance.
 - [sshame](https://github.com/HynekPetrak/sshame) - Tool to brute force SSH public-key authentication.
 - [TIDoS Framework](https://github.com/0xInfection/TIDoS-Framework) - The Offensive Manual Web Application Penetration Testing Framework.
+- [h2spacex](https://github.com/nxenon/h2spacex) - HTTP/2 low level library based on Scapy which can be used for Single Packet Attack (Race Condition on H2).
 
 ## Exploits
 
