@@ -49,7 +49,7 @@ Contributions are welcome. Please read the [contributing guideline](https://gith
 - [Capturing Galaxyset](https://www.paulschmitphotography.com/How-To-Guides/Capturing-Galaxyset) - A detailed tutorial on how to plan, execute and post-process a deepscape of the Andromeda galaxy aligned with a mountain in Southern Colorado.
 - [Chris White's Guide to Fixing Tilt and Spacing](https://overcastobservatory.com/products/guide-to-tilt-and-spacing-analysis-download-link-in-listing) - Annoying and hard to fix, tilt and spacing can ruin your imaging. This guide will help you eliminate them.
 - [Filters for Deep Sky Astrophotography](https://www.youtube.com/playlist?list=PLrzbdmripj1fIXrivZF1BT4BtJMZ6xvWo) - A video series that kicks off with a gentle introduction to filters and closes down comparing the most popular ones.
-- [Harry's PixInsight tutorials](http://www.harrysastroshed.com/Pixinsighthome.html) - Newcomer friendly, down-to-earth and comprehensive video tutorials.
+- [Harry's PixInsight tutorials](https://web.archive.org/web/20220115193835/http://www.harrysastroshed.com/Pixinsighthome.html) - Newcomer friendly, down-to-earth and comprehensive video tutorials.
 - [How to Eliminate Star Halos in PixInsight](https://digitalstars.wordpress.com/2019/10/27/tutorial-how-to-eliminate-star-halos-in-pixinsight/) - One of the more challenging issues in astrophotography. Charles Bracken, the author of "The Deep-Sky Imaging Primer", has you covered.
 - [How to Make a Padded Travel Box for Your Telescope](https://www.youtube.com/watch?v=90F_cBiZpH8) - Rig assembly on-site can be tedious. A more comfortable alternative is to assemble at home, then upon arrival at the imaging site, install on the mount.
 - [Independent Starless Processing](https://www.nightphotons.com/guides/star-addition) - This article details a simple and effective method to separate, process, and later reintroduce stars into an image without artifacts. It also discusses how to get more naturally looking stars from a narrowband dataset.
@@ -74,7 +74,7 @@ Contributions are welcome. Please read the [contributing guideline](https://gith
 ### Acquisition
 
 - [APT](https://www.astrophotography.app) - The Swiss army knife for your astro imaging sessions.
-- [Ekos](https://indilib.org/about/ekos.html) - An advanced cross-platform (Windows, macOS, Linux) observatory control and automation tool.
+- [Ekos](https://indilib.org) - An advanced cross-platform (Windows, macOS, Linux) observatory control and automation tool.
 - [NINA](https://nighttime-imaging.eu) - Free and very powerful astrophotography imaging suite.
 - [Nebulosity](https://github.com/celstark/OpenNebulosity) - Open source, powerful, and easy to use astrophotography software.
 - [Sequence Generator Pro](https://www.sequencegeneratorpro.com) - The classic fully automated night sky imaging.
