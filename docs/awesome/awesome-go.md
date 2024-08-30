@@ -1263,6 +1263,7 @@ _Libraries for manipulating images._
 - [imagick](https://github.com/gographics/imagick) - Go binding to ImageMagick's MagickWand C API.
 - [imaginary](https://github.com/h2non/imaginary) - Fast and simple HTTP microservice for image resizing.
 - [imaging](https://github.com/disintegration/imaging) - Simple Go image processing package.
+- [imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips.
 - [img](https://github.com/hawx/img) - Selection of image manipulation tools.
 - [ln](https://github.com/fogleman/ln) - 3D line art rendering in Go.
 - [mergi](https://github.com/noelyahan/mergi) - Tool & Go library for image manipulation (Merge, Crop, Resize, Watermark, Animate).
@@ -1836,6 +1837,7 @@ _Libraries for working with various layers of the network._
 - [tcp_server](https://github.com/firstrow/tcp_server) - Go library for building tcp servers faster.
 - [tcpack](https://github.com/lim-yoona/tcpack) - tcpack is an application protocol based on TCP to Pack and Unpack bytes stream in go program.
 - [tspool](https://github.com/two/tspool) - A TCP Library use worker pool to improve performance and protect your server.
+- [tun2socks](https://github.com/xjasonlyu/tun2socks) - A pure go implementation of tun2socks powered by [gVisor](https://gvisor.dev/) TCP/IP stack.
 - [utp](https://github.com/anacrolix/utp) - Go uTP micro transport protocol implementation.
 - [vssh](https://github.com/yahoo/vssh) - Go library for building network and server automation over SSH protocol.
 - [water](https://github.com/songgao/water) - Simple TUN/TAP library.
@@ -3362,6 +3364,7 @@ _Where to discover new Go libraries._
 - [GoSF - San Francisco, CA](https://www.meetup.com/golangsf)
 - [Istanbul Golang](https://www.meetup.com/Istanbul-Golang/)
 - [Lagos Gophers](https://www.meetup.com/GolangNigeria/)
+- [Nairobi Gophers](https://www.meetup.com/nairobi-gophers/)
 - [Seattle Go Programmers](https://www.meetup.com/golang/)
 - [Ukrainian Golang User Groups](https://www.meetup.com/uagolang/)
 - [Utah Go User Group](https://www.meetup.com/utahgophers/)

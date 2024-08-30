@@ -69,6 +69,8 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [netshell](https://github.com/lyqyd/cc-netshell) -  Access a computer's shell from another computer.
 - [OrangeBox](https://github.com/walksanatora/orangebox) - Virtualization support for ComputerCraft computers.
 - [rawshell](https://gist.github.com/MCJack123/8c8861e5e3082d2bed18d07641b5b2cc) -  A modern alternative to netshell supporting CraftOS-PC's "raw mode" format, with file transfers, encryption, passwords, WebSockets, and more.
+- [ShrekPrint](https://pinestore.cc/projects/115/shrekprint) - Printing software with full color and book support.
+- [ShrekWord](https://pinestore.cc/projects/114/shrekword) - Word-like document editor.
 - [unicornpkg](https://unicornpkg.madefor.cc) -  Modern package management that doesn't suck.
 - [FSEncrypt](https://gist.github.com/MCJack123/32c56917dc61da336ec0e8ca6aae39f8) -  Transparent filesystem encryption.
 

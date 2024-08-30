@@ -560,6 +560,7 @@ organized into intricate patterns that seem to be consistent across individuals.
 
 * [AutoDSL: Automated domain-specific language design for structural representation of procedures with constraints](https://aclanthology.org/2024.acl-long.659/) - ***ACL'24***, 2024. [[All Versions]()]. [[Project](https://autodsl.org/procedure/papers/acl24shi.html)]. The original paper on the automated design of DSLs. This paper introduces the AutoDSL framework to automate DSL-based constraint design across various domains. Utilizing domain specified experimental protocol corpora, AutoDSL optimizes syntactic constraints and abstracts semantic constraints. Quantitative and qualitative analyses of the DSLs designed by AutoDSL across five distinct domains highlight its potential as an auxiliary module for language models, aiming to improve procedural planning and execution.
 
+
 #### Imperative DSL Applications
 
 * [Biocoder: A programming language for standardizing and automating biology protocols](https://jbioleng.biomedcentral.com/track/pdf/10.1186/1754-1611-4-13.pdf) - ***Journal of Biological Engineering***, 2010. [[All Versions](https://scholar.google.com/scholar?start=0&hl=en&as_sdt=0,5&cluster=15572197190838916795)]. [[Project](https://github.com/nmz787/BioCoder)]. [[Microsoft Page](https://www.microsoft.com/en-us/download/details.aspx?id=52556)] This paper introduces BioCoder, a C++ library that enables biologists to express the exact steps needed to
