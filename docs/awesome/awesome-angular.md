@@ -326,6 +326,7 @@ become an Angular expert.
 * [angular-webxr-art-sample](https://github.com/google-gemini/angular-webxr-art-sample) - A WebXR Gallery that creates Generative AI images using [Vertex AI Image Generation](https://cloud.google.com/vertex-ai/generative-ai/docs/image/overview) and creates captioning using [Gemini Multimodel API](https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/overview#multimodal_models).
 * [global seo](https://www.globalseo.ai/integrations/angular) - Translate Angular app with AI.
 * [deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website.
+* [abbi-ng-ai-image-descriptor](https://github.com/slsfi/abbi-ng-ai-image-descriptor) - Angular web app for AI-generated image descriptions. You need an OpenAI API key to use the tool.
 
 #### Analytics
 
@@ -604,6 +605,7 @@ become an Angular expert.
 * [gradient-able-free-admin-template](https://github.com/codedthemes/gradient-able-free-admin-template) - Gradient able free bootstrap, angular, react admin template.
 * [mantis-free-angular-admin-template](https://github.com/codedthemes/mantis-free-angular-admin-template)
 * [datta-able-free-angular-admin-template](https://github.com/codedthemes/datta-able-free-angular-admin-template)
+* [angular-templates](https://github.com/hawkgs/angular-templates) - A set of Angular templates for common web apps.
 
 ##### Paid
 
@@ -659,6 +661,8 @@ become an Angular expert.
 * [angular-unit-test-helper](https://github.com/duluca/angular-unit-test-helper) - Helper functions to help write unit tests in Angular using mocks and spies.
 * [ngentest](https://github.com/allenhwkim/ngentest) - Angular6+ Unit Test Generator For Components, Directive, Services, and Pipes.
 * [angular-testing-kit](https://github.com/babybeet/angular-testing-kit) - A set of convenient utilities to make Angular testing with Jasmine and Karma simpler.
+* [nightwatch-plugin-angular](https://github.com/nightwatchjs/nightwatch-plugin-angular) - Official [Nightwatch](https://nightwatchjs.org/) plugin which adds component testing support for Angular apps. It uses the Webpack DevServer under the hood. Requires Nightwatch 2.4+.
+* [Puppeteer Angular Schematic](https://pptr.dev/guides/ng-schematics/#getting-started) - Adds [Puppeteer-based](https://github.com/puppeteer/puppeteer) e2e tests to your Angular project.
 
 #### Updating
 
@@ -1223,6 +1227,7 @@ for the creation of web applications developed with Angular.
 * [ngx-flagr](https://github.com/pBouillon/ngx-flagr) - Effortless feature flag management in Angular.
 * [module-federation-plugin](https://github.com/angular-architects/module-federation-plugin) - Module Federation allows loading separately compiled and deployed code (like micro frontends or plugins) into an application. This plugin makes Module Federation work together with Angular and the CLI.
 * [ng2-idle](https://github.com/moribvndvs/ng2-idle) - A module for responding to idle users in Angular applications.
+* [ng2-gauge](https://github.com/hawkgs/ng2-gauge) - SVG gauge component for Angular.
 
 ---
 

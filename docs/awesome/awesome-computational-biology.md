@@ -24,6 +24,10 @@ A knowledge collection of databases, software and papers related to computationa
 - [Rhea](https://www.rhea-db.org/) - Database of chemical reactions.
 - [Drug Repurposing Hub](https://repo-hub.broadinstitute.org/repurposing#download-data) - Collections of drug repurposing data containing drug, moa, target etc.
 - [Therapeutic Target Database](https://idrblab.net/ttd/full-data-download) - collections of drug-target, target-disease, and drug-disease dataset.
+- [ZINC ligand discovery database](https://zinc.docking.org/) - Free database of commercially-available compounds for virtual screening.
+- [MoleculeNet](http://moleculenet.ai/) - Benchmark for molecular machine learning.
+- [Ames Mutagenicity dataset](https://www.sciencedirect.com/science/article/abs/pii/S0166354220302412) - Dataset for predicting mutagenicity.
+- [ADCdb](https://www.antibody-drug.com/) - Database for antibody-drug conjugates.
 ### Pathway
 - [PathwayCommons](https://www.pathwaycommons.org/) - Database of Pathways and Interactions.
 - [KEGG PATHWAY](https://www.genome.jp/kegg/pathway.html) - Collection fo drawn pathway maps.
@@ -36,11 +40,21 @@ A knowledge collection of databases, software and papers related to computationa
 - [PROTEIN DATA BANK](https://www.rcsb.org/) - Database of the 3D shapes of proteins, nucleic acids, and complex assemblies.
 - [UniProt](https://www.uniprot.org/) - The collection of functional information on proteins.
 - [AlphaFold Protein Structure Database](https://alphafold.ebi.ac.uk/api-docs) - Database of 3D protein structures.
+- [RCSB Protein Data Bank (PDB)](https://www.rcsb.org/) - Repository of 3D structural data of large biological molecules.
+- [Critical Assessment of Structure Prediction (CASP)](https://predictioncenter.org/) - Experiment for advancing the methods of predicting protein structure from sequence.
+- [Uniclust](https://uniclust.mmseqs.com/) - Collection of clustered protein sequence databases.
+- [CATH database](https://www.cathdb.info/) - Hierarchical classification of protein domain structures.
 ### Genome
 - [Human Genome Resources at NCBI](https://www.ncbi.nlm.nih.gov/projects/genome/guide/human/index.shtml) - Database of image, proteomics, transcriptomics and systems biology.
 - [GenBank](https://www.ncbi.nlm.nih.gov/genbank/) - Database of genetic sequence offered by NCBI.
 - [UCSC Genome Browser](https://genome.ucsc.edu/) - Genome blowser offered by UCSC.
 - [cBioPortal](https://www.cbioportal.org/) - Database of Cancer Genomics. This has overall metaview for a lot of patients.
+- [10x Genomics Dataset](https://www.10xgenomics.com/resources/datasets) - Collection of single-cell datasets.
+- [The Genotype-Tissue Expression (GTEx)](https://gtexportal.org/home/) - Resource for studying human gene expression and regulation.
+- [Dependency Map (DepMap)](https://depmap.org/portal/) - Genome-wide CRISPR-Cas9 screens in cancer cell lines.
+- [Catalogue Of Somatic Mutations In Cancer (COSMIC)](https://cancer.sanger.ac.uk/cosmic) - Comprehensive resource for exploring somatic mutations in human cancers.
+- [MGnify](https://www.ebi.ac.uk/metagenomics/) - Free resource for archiving, analysis, and browsing of metagenomic and metatranscriptomic data.
+- [JASPAR](http://jaspar.genereg.net/) - Open-access database of curated, non-redundant transcription factor binding profiles.
 ### Disease
 - [KEGG DRUG](https://www.genome.jp/kegg/drug/) - Comprehensive drug information resource for approved drugs.
 - [DrugBank](https://www.drugbank.com/) - A database of drug and target maintained by the University of Alberta.
@@ -54,9 +68,12 @@ A knowledge collection of databases, software and papers related to computationa
   - [NCI60](https://dtp.cancer.gov/discovery_development/nci-60/) A database which focus on 60 cancer cell lines with many drugs.
   - [Genomics of Drug Sensitivity in Cancer (GDSC)](https://www.cancerrxgene.org/) - A database of drug sensitibity which has 1000 human cancer cell lines and 100s compounds.
   - [Cancer Cell Line Encyclopedia](https://sites.broadinstitute.org/ccle/) - A database of cancer cell lines. This has 1000 cell lines.
+  - [CellMiner Cross Database (CellMinerCDB)](https://discover.nci.nih.gov/cellminercdb/) - Integration of multiple cancer cell line databases.
 - Chemical Protein Interaction
   - [STITCH](http://stitch.embl.de/) - A database of Chemical Protein Interaction.
   - [BindingDB](https://www.bindingdb.org/rwd/bind/index.jsp) - A database of compounds and targes.
+  - [PDBBind](http://www.pdbbind.org.cn/) - Database of experimentally measured binding affinity data for biomolecular complexes.
+  - [CrossDocked2020](https://arxiv.org/abs/2001.01037) - Large-scale dataset for machine learning in structure-based virtual screening.
 - Protein-Protein Interaction
   - [STRING](https://string-db.org/) - Protein-Protein Interaction Networks for several organisms.
   - [BioGRID](https://thebiogrid.org/) - Database of Protein, Genetic and Chemical Interactions.
@@ -64,6 +81,11 @@ A knowledge collection of databases, software and papers related to computationa
 - Knowledge Graph
   - [Drug Mechanism Database (DrugMechDB)](https://github.com/SuLab/DrugMechDB/tree/2.0.1): database of the mechanism of action from a drug to a disease.
   - [DRKG](https://github.com/gnn4dr/DRKG) - A library for biological knowledge graph.
+### Clinical Trial
+- [ClinicalTrials.gov](https://clinicaltrials.gov/) - Database of privately and publicly funded clinical studies.
+- [ICD10](https://icd.who.int/browse10/2019/en) - International Classification of Diseases, 10th revision.
+- [EU Drug Regulating Authorities Clinical Trials DB (EudraCT)](https://eudract.ema.europa.eu/) - European database of clinical trials.
+- [MIMIC-IV](https://mimic.mit.edu/) - Freely accessible critical care database.
  
 ## API
 - [PubMed esearch](https://www.nlm.nih.gov/dataguide/edirect/esearch.html): API for searching articles in PubMed.

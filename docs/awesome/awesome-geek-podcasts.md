@@ -28,6 +28,7 @@ A curated list of podcasts we like to listen to.
 * [Advent of Computing](https://adventofcomputing.com/) - A podcast about the shocking, intriguing, and all too often relevant history of computing.
 * [AdminAdmin Podcast](https://adminadminpodcast.co.uk) - A podcast about system administration and (increasingly) DevOps and Cloud operations.
 * [Android Developers Backstage](http://androidbackstage.blogspot.com/) - Android Backstage, a podcast by and for Android developers. Hosted by developers from the Android engineering team, this show covers topics of interest to Android programmers, with in-depth discussions and interviews with engineers on the Android team at Google.
+* [APIs over IPAs](https://www.moesif.com/blog/podcasts) - A podcast about how to build an API-first business.
 * [Around IT In 256 Seconds](https://256.nurkiewicz.com/) - Podcast for developers, testers, SREs… and their managers. I explain complex and convoluted technologies in a clear way, avoiding buzzwords and hype. Never longer than 4 minutes and 16 seconds.
 * [Away From The Keyboard](http://awayfromthekeyboard.com/category/podcasts/) - Away From The Keyboard is where technologists tell their stories of how they started, how they grew, how they learned, and how they unwind.
 * [Away from Keyboard](https://changelog.com/afk) – Exploring the human side of creative work.

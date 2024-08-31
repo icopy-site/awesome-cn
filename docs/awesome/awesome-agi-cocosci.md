@@ -42,7 +42,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [Non-monotonic Logic](https://plato.stanford.edu/entries/logic-nonmonotonic/) - ***Plato Stanford***. A computational philosophy account on Non-monotonic Logic, a family of formal frameworks devised to capture and represent defeasible inference.
 
-* [Philosophical Writings of Peirce](https://4lib.org/book/702071/e8ffe8) - ***Courier Corporation***, 1955. [[All Versions](https://scholar.google.com/scholar?cluster=3917019015464129592&hl=en&as_sdt=0,5)]. Original writings by C. S. Peirce, the establisher of Abduction.
+* [Philosophical Writings of Peirce](https://4lib.org/book/702071/e8ffe8) - ***Courier Corporation***, 1955. [[All Versions](https://scholar.google.com/scholar?cluster=3917019015464129592)]. Original writings by C. S. Peirce, the philosopher who first introduces the concept of Abduction.
 
 * [The Inference to the Best Explanation](https://www.jstor.org/stable/2183532) - ***Philosophical Review***, 1965. [[All Versions](https://scholar.google.com/scholar?cluster=1416627814151433560&hl=en&as_sdt=0,5)]. Lipton's original paper on Inference to the Best Explanation as a special case of Abduction.
 
