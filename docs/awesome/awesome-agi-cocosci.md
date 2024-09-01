@@ -44,9 +44,9 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [Philosophical Writings of Peirce](https://4lib.org/book/702071/e8ffe8) - ***Courier Corporation***, 1955. [[All Versions](https://scholar.google.com/scholar?cluster=3917019015464129592)]. Original writings by C. S. Peirce, the philosopher who first introduces the concept of Abduction.
 
-* [The Inference to the Best Explanation](https://www.jstor.org/stable/2183532) - ***Philosophical Review***, 1965. [[All Versions](https://scholar.google.com/scholar?cluster=1416627814151433560&hl=en&as_sdt=0,5)]. Lipton's original paper on Inference to the Best Explanation as a special case of Abduction.
+* [Inference to the Best Explanation](https://www.hps.cam.ac.uk/files/lipton-inference.pdf) - ***Routledge***, 1991. [[All Versions](https://scholar.google.com/scholar?cluster=5097986614430666854)]. Lipton's original paper on Inference to the Best Explanation as a specialized condition of Abduction.
 
-* [Inference to the Best Explanation](https://hk1lib.org/book/3594789/f39e15?id=3594789&secret=f39e15) - ***Routledge***, 1991. [[All Versions](https://scholar.google.com/scholar?cluster=6494546505729177895&hl=en&as_sdt=0,5)]. Lipton's book on Inference to the Best Explanation as a special case of Abduction.
+* [The Inference to the Best Explanation](https://www.jstor.org/stable/2183532) - ***Philosophical Review***, 1965. [[All Versions](https://scholar.google.com/scholar?cluster=1416627814151433560&hl=en&as_sdt=0,5)].
 
 * [A Study of Thinking](https://www.taylorfrancis.com/books/mono/10.4324/9781315083223/study-thinking-jerome-bruner-jacqueline-goodnow-george-austin) - ***Routledge***, 1956. [[All Versions](https://scholar.google.com/scholar?cluster=17466297915128086930&hl=en&as_sdt=0,5)]. A classic book on thinking patterns.
 

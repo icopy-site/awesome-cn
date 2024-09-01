@@ -7,9 +7,9 @@
 
 ## Awesome Actions [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<!--lint ignore no-dead-urls-->![GitHub Actions status | sdras/awesome-actions](https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.svg)](https://github.com/sdras/awesome-actions/actions?workflow=Lint+Awesome+List)
 
-&gt; 与 GitHub Actions 相关的精选列表.
+> A curated list of awesome things related to GitHub Actions.
 
-操作由存储库中的 GitHub 平台事件直接触发，并在 Linux、Windows 或 macOS 虚拟机上或在容器内运行按需工作流作为响应. 借助 GitHub Actions，您可以自动化从创意到生产的工作流程.
+Actions are triggered by GitHub platform events directly in a repo and run on-demand workflows either on Linux, Windows or macOS virtual machines or inside a container in response. With GitHub Actions you can automate your workflow from idea to production.
 
 
 
@@ -18,14 +18,14 @@
 - [Official Site](https://github.com/features/actions)
 - [Official Documentation](https://help.github.com/en/actions)
 - [Official Actions organization](https://github.com/actions)
-  - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions 虚拟环境.
-  - [actions/runner](https://github.com/actions/runner) - GitHub 操作的运行器.
+  - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments.
+  - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions.
 - [GitHub Blog Announcement](https://github.blog/2018-10-17-action-demos/)
 
 ### Workflow Examples
 
-- [actions/starter-workflows](https://github.com/actions/starter-workflows) - 启动器工作流程管理.
-- [actions/example-services](https://github.com/actions/example-services) - 使用服务容器的示例工作流.
+- [actions/starter-workflows](https://github.com/actions/starter-workflows) - Starter workflow management.
+- [actions/example-services](https://github.com/actions/example-services) - Example workflows using service containers.
 
 ### Official Actions
 
@@ -33,30 +33,30 @@
 
 #### Workflow Tool Actions
 
-工作流程的工具操作.
+Tool actions for your workflow.
 
 <!--lint ignore awesome-spell-check-->
 
-- [actions/checkout](https://github.com/actions/checkout) - 在您的工作流程中设置您的存储库.
-- [actions/upload-artifact](https://github.com/actions/upload-artifact) - 从您的工作流程上传工件.
-- [actions/download-artifact](https://github.com/actions/download-artifact) - 从您的构建中下载工件.
-- [actions/cache](https://github.com/actions/cache) - 在 GitHub Actions 中缓存依赖项和构建输出.
-- [actions/github-script](https://github.com/actions/github-script) - 为 GitHub API 和工作流上下文编写脚本.
+- [actions/checkout](https://github.com/actions/checkout) - Setup your repository on your workflow.
+- [actions/upload-artifact](https://github.com/actions/upload-artifact) - Upload artifacts from your workflow.
+- [actions/download-artifact](https://github.com/actions/download-artifact) - Download artifacts from your build.
+- [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions.
+- [actions/github-script](https://github.com/actions/github-script) - Write a script for GitHub API and the workflow contexts.
 
 #### Actions for GitHub Automation
 
-自动管理问题、拉取请求和发布.
+Automate management for issues, pull requests, and releases.
 
-- [actions/create-release](https://github.com/actions/create-release) - 通过 GitHub Release API 创建发布的操作.
-- [actions/upload-release-asset](https://github.com/actions/upload-release-asset) - 通过 GitHub Release API 上传发布资产的操作.
-- [actions/first-interaction](https://github.com/actions/first-interaction) - 用于过滤来自首次贡献者的拉取请求和问题的操作.
-- [actions/stale](https://github.com/actions/stale) - 标记最近没有交互的问题和拉取请求.
-- [actions/labeler](https://github.com/actions/labeler) - 自动标记拉取请求的操作.
-- [actions/delete-package-versions](https://github.com/actions/delete-package-versions) - 从 GitHub Packages 中删除包的版本.
+- [actions/create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API.
+- [actions/upload-release-asset](https://github.com/actions/upload-release-asset) - An Action to upload a release asset via the GitHub Release API.
+- [actions/first-interaction](https://github.com/actions/first-interaction) - An action for filtering pull requests and issues from first-time contributors.
+- [actions/stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction.
+- [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests.
+- [actions/delete-package-versions](https://github.com/actions/delete-package-versions) - Delete versions of a package from GitHub Packages.
 
 #### Setup Actions
 
-使用特定版本的编程语言设置 GitHub Actions 工作流程.
+Set up your GitHub Actions workflow with a specific version of your programming languages.
 
 - [actions/setup-node: Node.js](https://github.com/actions/setup-node)
 - [actions/setup-python: Python](https://github.com/actions/setup-python)
@@ -66,21 +66,22 @@
 - [actions/setup-java: Java](https://github.com/actions/setup-java)
 - [actions/setup-ruby: Ruby](https://github.com/actions/setup-ruby)
 - [actions/setup-elixir: Elixir](https://github.com/actions/setup-elixir)
+- [actions/setup-julia: Julia](https://github.com/julia-actions/setup-julia)
 
 ### Create your Actions
 
 #### JavaScript and TypeScript Actions
 
-- [actions/toolkit](https://github.com/actions/toolkit) - 用于开发 GitHub Actions 的 GitHub 工具包.
-- [actions/hello-world-javascript-action](https://github.com/actions/hello-world-javascript-action) - 演示如何构建 JavaScript 操作的模板.
-- [actions/javascript-action](https://github.com/actions/javascript-action) - 创建一个 JavaScript 动作.
-- [actions/typescript-action](https://github.com/actions/typescript-action) - 创建一个 TypeScript 动作.
-- [actions/http-client](https://github.com/actions/http-client) - 一个轻量级的 HTTP 客户端，优化用于操作、带有泛型的 TypeScript 和异步等待.
+- [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
+- [actions/hello-world-javascript-action](https://github.com/actions/hello-world-javascript-action) - A template to demonstrate how to build a JavaScript action.
+- [actions/javascript-action](https://github.com/actions/javascript-action) - Create a JavaScript Action.
+- [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action.
+- [actions/http-client](https://github.com/actions/http-client) - A lightweight HTTP client optimized for use with actions, TypeScript with generics and async await.
 
 #### Docker Container Actions
 
-- [actions/hello-world-docker-action](https://github.com/actions/hello-world-docker-action) - 演示如何构建 Docker 操作的模板.
-- [actions/container-toolkit-action](https://github.com/actions/container-toolkit-action) - 使用动作/工具包创建容器动作的模板回购.
+- [actions/hello-world-docker-action](https://github.com/actions/hello-world-docker-action) - A template to demonstrate how to build a Docker action.
+- [actions/container-toolkit-action](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using actions/toolkit.
 
 ## Community Resources
 
@@ -92,7 +93,7 @@
 - [Publish a docker image to Dockerhub](https://github.com/elgohr/Publish-Docker-Github-Action)
 - [Create an issue using content from a file](https://github.com/peter-evans/create-issue-from-file)
 - [Publish GitHub Releases with Assets](https://github.com/softprops/action-gh-release)
-- [GitHub Project Automation+](https://github.com/alex-page/github-project-automation-plus) - 使用任何 webhook 事件自动化 GitHub 项目卡片.
+- [GitHub Project Automation+](https://github.com/alex-page/github-project-automation-plus) - Automate GitHub Project cards with any webhook event.
 - [Run GitHub Actions Locally with a web interface](https://github.com/phishy/wflow)
 - [Run GitHub Actions Locally in Terminal](https://github.com/nektos/act)
 - [Build and Publish Android debug APK](https://github.com/ShaunLWM/action-release-debugapk)
@@ -117,13 +118,13 @@
 - [Expose Git Commit Data As Environment Variables](https://github.com/rlespinasse/git-commit-data-action)
 - [Sync Defined Files/Binaries to Wiki or External Repositories](https://github.com/kai-tub/external-repo-sync-action)
 - [Create/Update/Delete a GitHub Wiki Page Based on Any File](https://github.com/Andrew-Chen-Wang/github-wiki-action)
-- [Prow GitHub Actions](https://github.com/jpmcb/prow-github-actions) - 策略执行、聊天操作和自动 PR 合并的自动化.
+- [Prow GitHub Actions](https://github.com/jpmcb/prow-github-actions) - Automation of policy enforcement, chat-ops, and automatic PR merging.
 - [Check GitHub Status in your Workflow](https://github.com/crazy-max/ghaction-github-status)
 - [Manage Labels on GitHub (create/rename/update/delete) as Code](https://github.com/crazy-max/ghaction-github-labeler)
 - [Continuous Distribution of Funding to your Project Contributors and Dependencies](https://github.com/protontypes/libreselery)
 - [Herald Rules for GitHub: Add Subscribers, Assignees, Labels, and More to Your PR](https://github.com/gagoar/use-herald-action)
-- [GitHub Codeowners Validator](https://github.com/mszostok/codeowners-validator)  - 确保 GitHub CODEOWNERS 文件的正确性. 它支持公共和私人 GitHub 存储库以及 GitHub Enterprise 安装.
-- [Copybara Action](https://github.com/olivr/copybara-action) - 在存储库之间移动和转换代码（非常适合从一个单一存储库维护多个存储库）.
+- [GitHub Codeowners Validator](https://github.com/mszostok/codeowners-validator) - Ensures the correctness of your GitHub CODEOWNERS file. It supports public and private GitHub repositories and also GitHub Enterprise installations.
+- [Copybara Action](https://github.com/olivr/copybara-action) - Move and transform code between repositories (ideal to maintain several repos from one monorepo).
 
 ### Collection of Actions
 
@@ -148,13 +149,13 @@
 
 ### Utility
 
-- [Setup `ssh-agent`](https://github.com/webfactory/ssh-agent) - 使用额外的 SSH 密钥运行 `ssh-agent` 以访问私有存储库.
+- [Setup `ssh-agent`](https://github.com/webfactory/ssh-agent) - Run `ssh-agent` with additional SSH keys to access private repositories.
 - [GitHub Actions Badges for your README](https://github.com/atrox/github-actions-badge)
 - [GitHub Actions for Python project with poetry](https://github.com/abatilo/actions-poetry)
 - [GitHub Actions for Python project with pyenv](https://github.com/gabrielfalcao/pyenv-action)
 - [GitHub Actions to compile LaTeX documents](https://github.com/xu-cheng/latex-action)
 - [Update Maxmind Databases](https://github.com/meetup/maxmind-updater)
-- [Debug with SSH over tmate](https://github.com/mxschmitt/action-tmate) - 通过提供 SSH 连接直接调试操作.
+- [Debug with SSH over tmate](https://github.com/mxschmitt/action-tmate) - Debug the Action directly by providing a SSH connection.
 - [Unlock git-crypt files](https://github.com/sliteteam/github-action-git-crypt-unlock)
 - [Golang CGO cross compiler](https://github.com/crazy-max/ghaction-xgo)
 - [Run your job on another architecture: arm32, aarch64 and others](https://github.com/uraimo/run-on-arch-action)
@@ -163,47 +164,49 @@
 - [Action to send LGTM reaction as image or GIF when we say lgtm](https://github.com/micnncim/action-lgtm-reaction)
 - [Generate build numbers across multiple scopes](https://github.com/zyborg/gh-action-buildnum)
 - [Publish GitHub release artifacts](https://github.com/skx/github-action-publish-binaries)
-- [Jekyll Diff Action](https://github.com/David-Byrne/jekyll-diff-action) - 在更改后对构建的 Jekyll 站点进行比较，并将结果评论回 GitHub.
+- [Jekyll Diff Action](https://github.com/David-Byrne/jekyll-diff-action) - Diffs the built Jekyll site after a change, and comments the result back to GitHub.
 - [Branch Protection Bot](https://github.com/benjefferies/branch-protection-bot) - Temporarily disable and re-enable "Include administrators" option in branch protection.
-- [Wait for commit statuses](https://github.com/WyriHaximus/github-action-wait-for-status) - 等到所有状态和检查都成功或其中任何一个失败并相应地设置其状态输出.
-- [Get Latest Tag](https://github.com/WyriHaximus/github-action-get-previous-tag) - 从 git 获取上一个标签.
-- [Create Milestone](https://github.com/WyriHaximus/github-action-create-milestone) - 根据标题和描述创建一个新的开放里程碑.
-- [Close Milestone](https://github.com/WyriHaximus/github-action-close-milestone) - 关闭给定的里程碑.
+- [Wait for commit statuses](https://github.com/WyriHaximus/github-action-wait-for-status) - Wait until all statuses and checks are successful or any of them has failed and set its status output accordingly.
+- [Get Latest Tag](https://github.com/WyriHaximus/github-action-get-previous-tag) - Get the previous tag from git.
+- [Create Milestone](https://github.com/WyriHaximus/github-action-create-milestone) - Create a new open milestone given the title and description.
+- [Close Milestone](https://github.com/WyriHaximus/github-action-close-milestone) - Close the given milestone.
 - [Action to enforce branch naming rules](https://github.com/deepakputhraya/action-branch-name)
 - [Expose slug of some GitHub variables](https://github.com/marketplace/actions/github-slug)
 - [awesome-lint as a GitHub Action](https://github.com/max/awesome-lint)
 - [Edit JSON File](https://github.com/deef0000dragon1/json-edit-action)
 - [Build Slate documentation](https://github.com/Decathlon/slate-builder-action)
-- [Read Properties](https://github.com/christian-draeger/read-properties) - 从“.properties”文件中读取值.
-- [Write Properties](https://github.com/christian-draeger/write-properties) - 将值写入“.properties”文件.
-- [Autotag](https://github.com/butlerlogic/action-autotag) - 当清单文件（即 `package.json`）版本更改时自动生成新标签.
-- [Apply templates with Jinja2](https://github.com/cuchi/jinja2-action) - 使用 Jinja2 模板引擎从模板生成文件.
-- [Has Changes](https://github.com/UnicornGlobal/has-changes-action) - 检查前面的步骤是否有代码更改.
-- [Mind Your Language Action](https://github.com/tailaiw/mind-your-language-action) - 检测问题和拉取请求中的冒犯性评论，并警告发件人.
-- [YAML/JSON/XML Converter](https://github.com/fabasoad/yaml-json-xml-converter-action) - 可互换地转换 YAML/JSON/XML 文件格式.
-- [NSFW Detection](https://github.com/fabasoad/nsfw-detection-action) - 检测已提交文件中的 NSFW 内容.
-- [Has Changed Path](https://github.com/MarceloPrado/has-changed-path) - 根据更改的路径有条件地运行操作.
-- [Linguist](https://github.com/fabasoad/linguist-action) - 检查存储库并在输出中生成有关使用的语言的信息.
-- [Twilio Voice Call](https://github.com/fabasoad/twilio-voice-call-action/) - 使用定义的文本进行 Twilio 语音通话.
-- [Setup Xcode](https://github.com/maxim-lobanov/setup-xcode) - 在适用于 macOS 图像的 Xcode 预安装版本之间切换.
-- [Setup Xamarin](https://github.com/maxim-lobanov/setup-xamarin) - 在预安装的 Xamarin 版本和适用于 macOS 图像的 Mono 之间切换.
-- [Memer Action](https://github.com/Bhupesh-V/memer-action) - 程序员模因 xD 的 GitHub 操作.
-- [Setup Cocoapods](https://github.com/maxim-lobanov/setup-cocoapods) - 设置特定版本的 Cocoapods.
-- [Public IP](https://github.com/haythem/public-ip) - 查询 GitHub actions runner 的公共 IP 地址.
+- [Read Properties](https://github.com/christian-draeger/read-properties) - Read values from `.properties` files.
+- [Write Properties](https://github.com/christian-draeger/write-properties) - Write values to `.properties` files.
+- [Autotag](https://github.com/butlerlogic/action-autotag) - Automatically generate a new tag when the manifest file (i.e. `package.json`) version changes.
+- [Apply templates with Jinja2](https://github.com/cuchi/jinja2-action) - Use the Jinja2 template engine to generate files from templates.
+- [Has Changes](https://github.com/UnicornGlobal/has-changes-action) - Check if there are code changes from previous steps.
+- [Mind Your Language Action](https://github.com/tailaiw/mind-your-language-action) - Detect offensive comments in issues and pull requests, and warn senders.
+- [YAML/JSON/XML Converter](https://github.com/fabasoad/yaml-json-xml-converter-action) - Converts YAML/JSON/XML file formats interchangeably.
+- [NSFW Detection](https://github.com/fabasoad/nsfw-detection-action) - Detect NSFW content in committed files.
+- [Has Changed Path](https://github.com/MarceloPrado/has-changed-path) - Conditionally run actions based on changed paths.
+- [Linguist](https://github.com/fabasoad/linguist-action) - Checks a repository and produces information about used languages in output.
+- [Twilio Voice Call](https://github.com/fabasoad/twilio-voice-call-action/) - Make Twilio voice call with defined text.
+- [Setup Xcode](https://github.com/maxim-lobanov/setup-xcode) - Switch between pre-installed versions of Xcode for macOS images.
+- [Setup Xamarin](https://github.com/maxim-lobanov/setup-xamarin) - Switch between pre-installed versions of Xamarin and Mono for macOS images.
+- [Memer Action](https://github.com/Bhupesh-V/memer-action) - A GitHub Action for Programmer Memes xD.
+- [Setup Cocoapods](https://github.com/maxim-lobanov/setup-cocoapods) - Setup specific version of Cocoapods.
+- [Public IP](https://github.com/haythem/public-ip) - Queries GitHub actions runner's public IP address.
 - [GitHub Actions for Lazarus/FPC](https://github.com/gcarreno/setup-lazarus)
-- [Twilio Fax](https://github.com/fabasoad/twilio-fax-action/) - 使用您的 Twilio 帐户通过传真发送文档.
-- [Setup Kubernetes tools](https://github.com/yokawasa/action-setup-kube-tools) - 在运行器上安装 Kubernetes 工具（kubectl、kustomize、helm、kubeval、conftest 和 yq）.
-- [Setup Elastic Cloud Control Tool](https://github.com/yokawasa/action-setup-ecctl) - 在运行器上安装特定版本的 ecctl.
-- [PowerShell Script](https://github.com/Amadevus/pwsh-script) - 使用工作流上下文（例如 `$github.token`）和 cmdlet 运行 PowerShell 脚本，返回值 =&gt; 操作输出.
+- [Twilio Fax](https://github.com/fabasoad/twilio-fax-action/) - Sends a document by fax using your Twilio account.
+- [Setup Kubernetes tools](https://github.com/yokawasa/action-setup-kube-tools) - Install Kubernetes tools (kubectl, kustomize, helm, kubeval, conftest, and yq) on the runner.
+- [Setup Elastic Cloud Control Tool](https://github.com/yokawasa/action-setup-ecctl) - Install a specific version of ecctl on the runner.
+- [PowerShell Script](https://github.com/Amadevus/pwsh-script) - Run PowerShell scripts with workflow contexts (e.g. `$github.token`) and cmdlets, return value => action output.
 - [Upload and Scan Files with VirusTotal](https://github.com/crazy-max/ghaction-virustotal)
 - [Import a GPG Key](https://github.com/crazy-max/ghaction-import-gpg)
-- [Compress with UPX](https://github.com/crazy-max/ghaction-upx) - 可执行文件的终极打包机.
-- [Pull the New Go Module Version Into the Proxy Cache](https://github.com/andrewslotin/go-proxy-pull-action)  - 确保最新版本的 Go 模块在代理缓存中. 还会在发布时更新 pkg.go.dev 文档.
-- [Delete Run Artifacts](https://github.com/marketplace/actions/delete-run-artifacts) - 在工作流运行结束时删除所有工件.
-- [GitHub Environment Variables Action](https://github.com/FranzDiebold/github-env-vars-action) - 公开环境变量，例如分支/标签名称、存储库 slug 和 ref slug.
-- [GitHub Action Locks](https://github.com/abatilo/github-action-locks/blob/master/README.md) - 保证 GitHub Action 工作流的原子执行.
-- [Paths Filter](https://github.com/dorny/paths-filter) - 根据 PR、功能分支或推送提交修改的文件有条件地运行操作.
-- [Minisauras](https://github.com/TeamTigers/minisauras) - 从您的基本分支中提取所有 JavaScript 和 CSS 文件，缩小它们并使用新分支创建拉取请求.
+- [Compress with UPX](https://github.com/crazy-max/ghaction-upx) - The Ultimate Packer for eXecutables.
+- [Pull the New Go Module Version Into the Proxy Cache](https://github.com/andrewslotin/go-proxy-pull-action) - Ensures the latest version of your Go module is in the proxy cache. Also updates the pkg.go.dev documentation upon release.
+- [Delete Run Artifacts](https://github.com/marketplace/actions/delete-run-artifacts) - Deletes all artifacts at the end of a workflow run.
+- [GitHub Environment Variables Action](https://github.com/FranzDiebold/github-env-vars-action) - Expose environment variables such as the branch/tag name, repository slug, and ref slug.
+- [GitHub Action Locks](https://github.com/abatilo/github-action-locks/blob/master/README.md) - Guarantee atomic execution of your GitHub Action workflows.
+- [Paths Filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits.
+- [Minisauras](https://github.com/TeamTigers/minisauras) -  Pulls all the JavaScript and CSS files from your base branch, minify them and creates a pull-request with a new branch.
+- [Website to GIF](https://github.com/PabloLec/website-to-gif) - Turn any webpage into a GIF to display on your README, docs, etc.
+- [Interactive Inputs - Runtime workflow inputs](https://github.com/boasiHQ/interactive-inputs) - Add dynamic inputs at runtime for your GitHub Actions workflows
 
 #### Environments
 
@@ -217,16 +220,16 @@
 #### Dependencies
 
 - [Install NPM Dependencies with Caching](https://github.com/bahmutov/npm-install)
-- [Highlight New NPM Dependencies](https://github.com/hiwelo/new-dependencies-action) - 对拉取请求的评论新增了 NPM 依赖信息.
+- [Highlight New NPM Dependencies](https://github.com/hiwelo/new-dependencies-action) - Comments on pull requests newly added NPM dependencies information.
 - [Cache NPM Dependencies](https://github.com/c-hive/gha-npm-cache)
 - [Cache Yarn Dependencies](https://github.com/c-hive/gha-yarn-cache)
 
 #### Semantic Versioning
 
-- [Next SemVers](https://github.com/WyriHaximus/github-action-next-semvers) - 根据给定的 semver 版本输出主要版本、次要版本和补丁版本的下一个版本.
+- [Next SemVers](https://github.com/WyriHaximus/github-action-next-semvers) - Output the next version for major, minor, and patch version based on the given semver version.
 - [Get latest SemVer and branch name given a search string](https://github.com/jessicalostinspace/github-action-get-regex-branch)
-- [Cut Release Branch](https://github.com/jessicalostinspace/cut-release-action) - 在给定分支前缀和可选语义版本的情况下剪切发布分支.
-- [Increment Semantic Version](https://github.com/christian-draeger/increment-semantic-version) - 根据给定的发布类型，修改给定的语义版本 (SemVer).
+- [Cut Release Branch](https://github.com/jessicalostinspace/cut-release-action) - Cuts a release branch given a branch prefix and optional semantic version.
+- [Increment Semantic Version](https://github.com/christian-draeger/increment-semantic-version) - Bump a given semantic version (SemVer), depending on given release type.
 
 ### Static Analysis
 
@@ -247,6 +250,7 @@
 - [Run performance testing with artillery.io](https://github.com/kenju/github-actions-artillery)
 - [Detect Flaky Tests with BuildPulse](https://github.com/Workshop64/buildpulse-action)
 - [Display Inline Code Annotations for Jest Tests](https://github.com/IgnusG/jest-report-action)
+- [Run Julia tests](https://github.com/julia-actions/julia-runtest)
 
 #### Linting
 
@@ -257,6 +261,7 @@
 - [Lint terraform files using tflint, with reviewdog output on the PR](https://github.com/reviewdog/action-tflint)
 - [autopep8: Automatically formats Python code to conform to the PEP 8 style guide](https://github.com/peter-evans/autopep8)
 - [Run `ergebnis/composer-normalize` to ensure your PHP project has a normalized `composer.json`](https://github.com/ergebnis/composer-normalize-action)
+- [Run `stolt/lean-package-validator` to ensure your package has only the required `runtime` artifacts](https://github.com/raphaelstolt/lean-package-validator-action)
 - [Run Go lint checks on PR event](https://github.com/ArangoGutierrez/GoLinty-Action)
 - [Node.js - Automatically run the `format` and/or `lint` script used by the package](https://github.com/MarvinJWendt/run-node-formatter)
 - [Stylelinter - GitHub Action that runs stylelint](https://github.com/exelban/stylelint)
@@ -285,13 +290,13 @@
 - [A vulnerability scanner for your docker images](https://github.com/phonito/phonito-scanner-action)
 - [Automatically approve and merge Dependabot updates](https://github.com/ridedott/dependabot-auto-merge-action)
 - [Run dlint security linter on your Python code](https://github.com/xen0l/dlint-check)
-- [AWS Secrets Manager Actions](https://github.com/say8425/aws-secrets-manager-actions) - 将 AWS Secrets Manager 机密定义为环境值.
+- [AWS Secrets Manager Actions](https://github.com/say8425/aws-secrets-manager-actions) - Define AWS Secrets Manager secrets to environment values.
 - [Linting your AWS IAM policy documents for correctness and security issues](https://github.com/xen0l/iam-lint)
-- [Secret Spreader](https://github.com/webfactory/secret-spreader) - 本身不是一个动作，而是一个跨存储库列表管理动作秘密的工具.
-- [Secrets Sync Action](https://github.com/google/secrets-sync-action) - 动作跨多个存储库同步秘密.
+- [Secret Spreader](https://github.com/webfactory/secret-spreader) - Not an action per se, but a tool to manage Actions Secrets across a list of repositories.
+- [Secrets Sync Action](https://github.com/google/secrets-sync-action) - Action syncs secrets across multiple repositories.
 - [Snyk Test Action](https://github.com/snyk/actions)
 - [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets)
-- [SecretHub](https://github.com/secrethub/actions) - 为您的秘密提供单一真实来源，并按需将它们加载到 GitHub Actions 中.
+- [SecretHub](https://github.com/secrethub/actions) - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
 
 #### Code Coverage
 
@@ -311,8 +316,8 @@
 - [Runs Lighthouse and posts results to PRs and Slack](https://github.com/foo-software/lighthouse-check-action)
 - [Run Lighthouse in CI using GitHub Actions](https://github.com/treosh/lighthouse-ci-action)
 - [Continuous Benchmarking and Benchmark Visualization for Go](https://github.com/bobheadxi/gobenchdata)
-- [Size Limit Action](https://github.com/andresz1/size-limit-action) - 在 PR 中评论你的 JS 的成本比较，如果超过限制则拒绝它们.
-- [Check bundlephobia](https://github.com/carlesnunez/check-my-bundlephobia) - 根据 bundlephobia.io 网站评论新的和修改的包大小，并拒绝超过阈值的 PR.
+- [Size Limit Action](https://github.com/andresz1/size-limit-action) - Comments cost comparison of your JS in PRs and rejects them if limit is exceeded.
+- [Check bundlephobia](https://github.com/carlesnunez/check-my-bundlephobia) - Comments new and modified package size according to bundlephobia.io website and rejects PR on threshold surpassed.
 
 ### Pull Requests
 
@@ -341,24 +346,24 @@
 - [Block PR merges when Checks for target branches are failing](https://github.com/cirrus-actions/branch-guard)
 - [Get generated static site screenshots updated by Pull Request](https://github.com/ssowonny/diff-pages-action)
 - [Add Labels Depending if the Pull Request Still in Progress](https://github.com/AlbertHernandez/working-label-action)
-- [Ticket Check Action](https://github.com/neofinancial/ticket-check-action) - 自动将票证或问题编号添加到所有合并请求标题的开头.
+- [Ticket Check Action](https://github.com/neofinancial/ticket-check-action) - Automatically add a ticket or issue number to the start of all Pull Request titles.
 - [Pull Request Lint With Regex](https://github.com/MorrisonCole/pr-lint-action)
 - [Pull Request Landmines](https://github.com/tylermurry/github-pr-landmine)
 - [Annotate a GitHub Pull Request Based on a Checkstyle XML-Report](https://github.com/staabm/annotate-pull-request-from-checkstyle)
-- [Pull Request Stats](https://github.com/flowwer-dev/pull-request-stats) - 打印有关评论者的相关统计数据.
-- [Pull Request Description Enforcer](https://github.com/derkinderfietsen/pr-description-enforcer) - 强制执行拉取请求的描述.
+- [Pull Request Stats](https://github.com/flowwer-dev/pull-request-stats) -  Print relevant stats about reviewers.
+- [Pull Request Description Enforcer](https://github.com/derkinderfietsen/pr-description-enforcer) - Enforces description on pull requests.
 
 ### GitHub Pages
 
 - [Deploy a Zola site to GitHub Pages](https://github.com/shalzz/zola-deploy-action)
 - [Build Hugo static content site and publish it to gh-pages branch](https://github.com/khanhicetea/gh-actions-hugo-deploy-gh-pages)
 - [Build a Jekyll site—with Custom Jekyll Plugins & Build Scripts—and deploy it back to the Gh-Pages Branch](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages)
-- [Google Dataset Search Metadata](https://www.github.com/openschemas/extractors/) - 和其他 schema.org 提取器使数据集可从 GitHub 页面中发现.
+- [Google Dataset Search Metadata](https://www.github.com/openschemas/extractors/) - And other schema.org extractors to make datasets discoverable from GitHub pages.
 - [GitHub Actions for deploying to GitHub Pages with Static Site Generators](https://github.com/peaceiris/actions-gh-pages)
 - [GitHub Action for Hexo](https://github.com/heowc/action-hexo)
 - [Deploy Google Analytics stats to GitHub Pages](https://github.com/cristianpb/analytics-google)
 - [A Jupyter Notebook Blogging Platform Powered by GitHub Actions, Pages and Jekyll](https://github.com/fastai/fastpages)
-- [Deploy A Static Site to GitHub Pages](https://github.com/appleboy/gh-pages-action) - 部署到自定义目录并忽略文件夹/文件.
+- [Deploy A Static Site to GitHub Pages](https://github.com/appleboy/gh-pages-action) - Deploy to custom directory and ignore folder/file.
 - [Deploy to GitHub Pages with Advanced Settings](https://github.com/crazy-max/ghaction-github-pages)
 
 ### Notifications and Messages
@@ -437,7 +442,7 @@
 - [Build And Push Your Docker Images Caching Each Stage To Reduce Build Time](https://github.com/whoan/docker-build-with-cache-action)
 - [Set up Docker Buildx](https://github.com/crazy-max/ghaction-docker-buildx)
 - [Convert Branch or Tag Name Into Docker-Compatible Image Tag](https://github.com/ankitvgupta/ref-to-tag-action/)
-- [Update a Container Repository Description From README.md](https://github.com/marketplace/actions/update-container-description-action) - 支持的注册表：Docker Hub、Quay、Harbor.
+- [Update a Container Repository Description From README.md](https://github.com/marketplace/actions/update-container-description-action) - Supported Registries: Docker Hub, Quay, Harbor.
 
 #### Kubernetes
 
@@ -454,7 +459,7 @@
 
 #### Terraform
 
-- [Generate terraform documentation](https://github.com/Dirrk/terraform-docs) - 使用 terraform-docs 为 terraform 模块生成文档.
+- [Generate terraform documentation](https://github.com/Dirrk/terraform-docs) - Uses terraform-docs to generate docs for terraform modules.
 - [An example of using Terraform to validate and apply GitHub administration](https://github.com/asgharlabs/github-terraform/tree/master/.github/workflows)
 
 ### External Services
@@ -472,14 +477,14 @@
 ### Frontend Tools
 
 - [Execute Gradle task](https://github.com/MrRamych/gradle-actions)
-- [JS Build Actions](https://github.com/elstudio/actions-js-build) - 运行 Grunt 或 Gulp 构建任务并提交文件更改.
+- [JS Build Actions](https://github.com/elstudio/actions-js-build) - Run Grunt or Gulp build tasks and commit file changes.
 - [GitHub Action for Gatsby CLI](https://github.com/jzweifel/gatsby-cli-github-action)
 - [Runs a WebPageTest audit and prints the results as commit comment](https://github.com/JCofman/webPagetestAction)
 - [GitHub Actions for Hugo extended](https://github.com/peaceiris/actions-hugo)
-- [Generate OG Image](https://github.com/BoyWithSilverWings/generate-og-image) - 从 Markdown 文件生成可自定义的开放图形图像.
+- [Generate OG Image](https://github.com/BoyWithSilverWings/generate-og-image) - Generate customisable open graph images from Markdown files.
 - [GitHub Actions for mdBook](https://github.com/peaceiris/actions-mdbook)
-- [Setup Mint](https://github.com/fabasoad/setup-mint-action) - 安装 Mint（用于编写单页应用程序的编程语言）.
-- [Gatsby AWS S3 Deployment](https://github.com/jonelantha/gatsby-s3-action) - 将 Gatsby 部署到 S3（支持 CloudFront）.
+- [Setup Mint](https://github.com/fabasoad/setup-mint-action) - Setup Mint (programming language for writing single page applications).
+- [Gatsby AWS S3 Deployment](https://github.com/jonelantha/gatsby-s3-action) - Deploy Gatsby to S3 (supports CloudFront).
 
 ### Machine Learning Ops
 
@@ -493,27 +498,32 @@
 
 ### Build
 
-- [run-cmake](https://github.com/lukka/run-cmake) - 构建 C/C++ 软件的多平台操作 [CMake](https://cmake.org) 和 [Ninja](https://ninja-build.org/).
-- [run-vcpkg](https://github.com/lukka/run-vcpkg) - 构建和安装 C/C++ 依赖项的多平台操作 [vcpkg](https://github.com/microsoft/vcpkg).
+- [run-cmake](https://github.com/lukka/run-cmake) - Multi platform action to build C/C++ software with [CMake](https://cmake.org) and [Ninja](https://ninja-build.org/).
+- [run-vcpkg](https://github.com/lukka/run-vcpkg) - Multi platform action to build and install C/C++ dependencies with [vcpkg](https://github.com/microsoft/vcpkg).
 - [Build Go applications for multiplatform](https://github.com/izumin5210/action-go-crossbuild)
 - [Generate ~/.m2/settings.xml for Maven builds](https://github.com/whelk-io/maven-settings-xml-action)
 - [Run Pascal Script](https://github.com/fabasoad/pascal-action)
-- [Setup Brainfuck](https://github.com/fabasoad/setup-brainfuck-action) - 设置 brainfuck 解释器.
+- [Setup Brainfuck](https://github.com/fabasoad/setup-brainfuck-action) - Setup brainfuck interpreter.
 - [Publish Go Binaries to GitHub Release Assets](https://github.com/wangyoucao577/go-release-action)
 - [Setup COBOL](https://github.com/fabasoad/setup-cobol-action)
+- [Check Gradle version](https://github.com/madhead/check-gradle-version) - Keep your Gradle version up to date.
 
 ### Database
 
-- [Setup Cassandra Schema](https://github.com/fabasoad/setup-cassandra-action) - 从 Cassandra 集群顶部提供的文件夹运行脚本.
+- [Setup Cassandra Schema](https://github.com/fabasoad/setup-cassandra-action) - Running scripts from the provided folder on top of Cassandra cluster.
+
+### Networking
+
+- [Setup ZeroTier](https://github.com/zerotier/github-action) - Connect your runner to a ZeroTier network.
 
 ### Localization
 
 - [Find and automatically fix typos and grammar issues in your code](https://github.com/sobolevn/misspell-fixer-action)
-- [Translation](https://github.com/fabasoad/translation-action) - 将文本从任何语言翻译成任何语言.
+- [Translation](https://github.com/fabasoad/translation-action) - Translate text from any language to any language.
 
 ### Fun
 
-- [Add equivalent of a like button in your README](https://github.com/ariary/Readme-Like-Button) - 可视化社区对自述文件某些部分的认可（可用作投票）.
+- [Add equivalent of a like button in your README](https://github.com/ariary/Readme-Like-Button) - Visualize community approval on some part of your readme (can be used as a poll).
 
 ### Cheat Sheet
 
@@ -530,8 +540,8 @@
 - [Zero Downtime Laravel Deployments with GitHub Actions](https://atymic.dev/blog/github-actions-laravel-ci-cd/)
 - [Building Custom GitHub Actions Pluralsight Course](https://www.pluralsight.com/courses/building-custom-github-actions/)
 - [Continuously Deploying Django to DigitalOcean with Docker and GitHub Actions](https://testdriven.io/blog/deploying-django-to-digitalocean-with-docker-and-github-actions/)
-- [Deploying Self-Hosted GitHub Actions Runners with Docker](https://testdriven.io/blog/github-actions-docker/) - 使用 Docker 和 Docker Swarm 将自托管 GitHub Actions 运行器部署到 DigitalOcean.
+- [Deploying Self-Hosted GitHub Actions Runners with Docker](https://testdriven.io/blog/github-actions-docker/) - Deploy self-hosted GitHub Actions runners with Docker and Docker Swarm to DigitalOcean.
 - [Setup Auto-scaled self-hosted GitHub Actions Runners on AWS Spot-instances](https://040code.github.io/2020/05/25/scaling-selfhosted-action-runners)
 - [Getting the Gist of GitHub Actions](https://gist.github.com/br3ndonland/f9c753eb27381f97336aa21b8d932be6)
 
- &gt; 如果您有更多资源可以分享，请不要犹豫，进行 PR. 查看 [https://github.com/sdras/awesome-actions/blob/master/contributing.md](https://github.com/sdras/awesome-actions/blob/master/contributing.md) 了解更多信息.
+> Please don't hesitate to make a PR if you have more resources to share. Check out [https://github.com/sdras/awesome-actions/blob/master/contributing.md](https://github.com/sdras/awesome-actions/blob/master/contributing.md) for more information.

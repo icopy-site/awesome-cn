@@ -89,7 +89,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Micro Frameworks
 *Micro frameworks and routers.*
 
-* [Laravel-Zero](https://laravel-zero.com) - A micro-framework for console applications.
+* [Laravel Zero](https://laravel-zero.com) - A micro-framework for console applications.
 * [Mezzio](https://getexpressive.org/) - A micro-framework by Laminas.
 * [Minicli](https://github.com/minicli/minicli) - Minimalist, dependency-free framework for building CLI-centric PHP applications.
 * [Silly](https://github.com/mnapoli/silly) - A micro-framework for CLI applications.
@@ -460,7 +460,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries and applications for taking payments and building online e-commerce stores.*
 
 * [Money](https://github.com/moneyphp/money) - A PHP implementation of Fowler's money pattern.
-* [Brick\Money](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
+* [Brick Money](https://github.com/brick/money) - A money library for PHP, with support for contexts, cash roundings, currency conversion.
 * [OmniPay](https://github.com/thephpleague/omnipay) - A framework agnostic multi-gateway payment processing library.
 * [Payum](https://github.com/payum/payum) - A payment abstraction library.
 * [Shopsys Framework](https://github.com/shopsys/shopsys/) - An open source e-commerce platform for in-house development teams.
@@ -570,7 +570,7 @@ Libraries to help manage database schemas and migrations.
 * [TwitterOAuth](https://github.com/abraham/twitteroauth) - A Twitter OAuth library.
 
 ### Markup and CSS
-*Libraries for working with markup and CSS formats.
+*Libraries for working with markup and CSS formats.*
 
 * [Cebe Markdown](https://github.com/cebe/markdown) - A fast and extensible Markdown parser.
 * [CommonMark PHP](https://github.com/thephpleague/commonmark) - Highly-extensible Markdown parser which fully supports the [CommonMark spec](https://spec.commonmark.org/).
@@ -614,7 +614,7 @@ Libraries to help manage database schemas and migrations.
 ### Numbers
 *Libraries for working with numbers.*
 
-* [Brick\Math](https://github.com/brick/math) - A library providing large number support: `BigInteger`, `BigDecimal` and `BigRational`.
+* [Brick Math](https://github.com/brick/math) - A library providing large number support: `BigInteger`, `BigDecimal` and `BigRational`.
 * [ByteUnits](https://github.com/gabrielelana/byte-units) - A library to parse, format and convert byte units in binary and metric systems.
 * [DecimalObject](https://github.com/php-collective/decimal-object) - A value object to handle decimals/floats easily and more precisely.
 * [IP](https://github.com/darsyn/ip) - An immutable value object for working with IPv4 and IPv6 addresses.
