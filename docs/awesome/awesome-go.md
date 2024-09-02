@@ -1463,6 +1463,7 @@ _Libraries for Machine Learning._
 - [golinear](https://github.com/danieldk/golinear) - liblinear bindings for Go.
 - [GoMind](https://github.com/surenderthakran/gomind) - A simplistic Neural Network Library in Go.
 - [goml](https://github.com/cdipaolo/goml) - On-line Machine Learning in Go.
+- [GoMLX](https://github.com/gomlx/gomlx) - An accelerated Machine Learning framework for Go.
 - [gonet](https://github.com/dathoangnd/gonet) - Neural Network for Go.
 - [Goptuna](https://github.com/c-bata/goptuna) - Bayesian optimization framework for black-box functions written in Go. Everything will be optimized.
 - [goRecommend](https://github.com/timkaye11/goRecommend) - Recommendation Algorithms library written in Go.
@@ -3036,6 +3037,7 @@ _Software written in Go._
 ### DevOps Tools
 
 - [abbreviate](https://github.com/dnnrly/abbreviate) - abbreviate is a tool turning long strings in to shorter ones with configurable separators, for example to embed branch names in to deployment stack IDs.
+- [alaz](https://github.com/ddosify/alaz) - Effortless, Low-Overhead, eBPF-based Kubernetes Monitoring.
 - [aptly](https://github.com/smira/aptly) - aptly is a Debian repository management tool.
 - [aurora](https://github.com/xuri/aurora) - Cross-platform web-based Beanstalkd queue server console.
 - [awsenv](https://github.com/soniah/awsenv) - Small binary that loads Amazon (AWS) environment variables for a profile.

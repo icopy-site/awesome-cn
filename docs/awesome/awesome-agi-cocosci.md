@@ -46,8 +46,6 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [Inference to the Best Explanation](https://www.hps.cam.ac.uk/files/lipton-inference.pdf) - ***Routledge***, 1991. [[All Versions](https://scholar.google.com/scholar?cluster=5097986614430666854)]. Lipton's original paper on Inference to the Best Explanation as a specialized condition of Abduction.
 
-* [The Inference to the Best Explanation](https://www.jstor.org/stable/2183532) - ***Philosophical Review***, 1965. [[All Versions](https://scholar.google.com/scholar?cluster=1416627814151433560&hl=en&as_sdt=0,5)].
-
 * [A Study of Thinking](https://www.taylorfrancis.com/books/mono/10.4324/9781315083223/study-thinking-jerome-bruner-jacqueline-goodnow-george-austin) - ***Routledge***, 1956. [[All Versions](https://scholar.google.com/scholar?cluster=17466297915128086930&hl=en&as_sdt=0,5)]. A classic book on thinking patterns.
 
 * [Abductive Reasoning and Learning](https://link.springer.com/book/10.1007/978-94-017-1733-5) - ***Springer***, 2000. [[All Versions](https://scholar.google.com/scholar?cluster=12074269365138058159&hl=en&as_sdt=0,5)]. An introductory account on abductive reasoning.

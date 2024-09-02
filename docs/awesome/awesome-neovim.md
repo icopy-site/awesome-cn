@@ -143,7 +143,7 @@
 - [tzachar/cmp-ai](https://github.com/tzachar/cmp-ai) - This is a general purpose AI source for nvim-cmp, easily adapted to any restapi supporting remote code completion.
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) - Minuet offers code completion from popular LLMs including OpenAI (compatible), Gemini, Claude, and more providers. Dance with intelligence in your code.
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Chat with your code as if you are in Cursor AI IDE.
-- [StubbornVegeta/llm.nvim](https://github.com/StubbornVegeta/llm.nvim) - Free large language model (LLM) support, provides commands to interact with LLM.
+- [Kurama622/llm.nvim](https://github.com/Kurama622/llm.nvim) - Free large language model (LLM) support, provides commands to interact with LLM.
 - [3v0k4/exit.nvim](https://github.com/3v0k4/exit.nvim) - Prompt LLMs (large language models) to write Vim commands.
 
 ## Programming Languages Support
@@ -222,6 +222,7 @@
 - [ChuufMaster/markdown-toc](https://github.com/ChuufMaster/markdown-toc) - Generate TOC in any markdown file from any other markdown file with customisable levels of headings and affordances for emojis and ensuring that it works on GitHub using relative paths.
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - An experimental markdown previewer.
 - [Kicamon/markdown-table-mode.nvim](https://github.com/Kicamon/markdown-table-mode.nvim) - Markdown format plugin like vim-table-mode but write in Lua.
+- [SCJangra/table-nvim](https://github.com/SCJangra/table-nvim) - A markdown table editor that formats the table as you type.
 
 ### PHP
 

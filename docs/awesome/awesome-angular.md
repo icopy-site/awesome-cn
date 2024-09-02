@@ -327,6 +327,7 @@ become an Angular expert.
 * [global seo](https://www.globalseo.ai/integrations/angular) - Translate Angular app with AI.
 * [deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website.
 * [abbi-ng-ai-image-descriptor](https://github.com/slsfi/abbi-ng-ai-image-descriptor) - Angular web app for AI-generated image descriptions. You need an OpenAI API key to use the tool.
+* [ng-flexbot](https://github.com/arolleaguekeng/ng-flexbot) - An open-source Angular UI library designed to create chatbots with just a few lines of code. It allows you to select from various models, such as GPT and Google Gemini, and customize the chatbot’s behavior using a prompt context.
 
 #### Analytics
 
@@ -1233,6 +1234,7 @@ for the creation of web applications developed with Angular.
 * [module-federation-plugin](https://github.com/angular-architects/module-federation-plugin) - Module Federation allows loading separately compiled and deployed code (like micro frontends or plugins) into an application. This plugin makes Module Federation work together with Angular and the CLI.
 * [ng2-idle](https://github.com/moribvndvs/ng2-idle) - A module for responding to idle users in Angular applications.
 * [ng2-gauge](https://github.com/hawkgs/ng2-gauge) - SVG gauge component for Angular.
+* [ngx-angular-query-builder](https://github.com/raysuelzer/ngx-angular-query-builder) - A new version of [angular2-query-builder](https://github.com/zebzhao/Angular-QueryBuilder) that supports modern Angular.  Used to create queries and filters.
 
 ---
 
@@ -1268,6 +1270,7 @@ for the creation of web applications developed with Angular.
 * [angular-ngrx-nx-realworld-example-app](https://github.com/stefanoslig/angular-ngrx-nx-realworld-example-app) - Real world application built with Angular 17, NgRx 17, & Nx 17.
 * [ngx-view-state](https://github.com/yurakhomitsky/ngx-view-state) - Library for handling Loading/Success/Error in NgRx.
 * [store-service](https://github.com/ngxp/store-service) - Adds an abstraction layer / facade between Angular components and the NgRx store.
+* [ngrx-entity-relationship](https://github.com/satanTime/ngrx-entity-relationship) - ORM selectors for Redux, `@ngrx/store`, `@ngrx/entity`, and `@ngrx/data`. Ease of relationships with entities.
 
 #### RxJS
 
