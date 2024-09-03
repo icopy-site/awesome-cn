@@ -46,8 +46,6 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [Inference to the Best Explanation](https://www.hps.cam.ac.uk/files/lipton-inference.pdf) - ***Routledge***, 1991. [[All Versions](https://scholar.google.com/scholar?cluster=5097986614430666854)]. Lipton's original paper on Inference to the Best Explanation as a specialized condition of Abduction.
 
-* [A Study of Thinking](https://www.taylorfrancis.com/books/mono/10.4324/9781315083223/study-thinking-jerome-bruner-jacqueline-goodnow-george-austin) - ***Routledge***, 1956. [[All Versions](https://scholar.google.com/scholar?cluster=17466297915128086930&hl=en&as_sdt=0,5)]. A classic book on thinking patterns.
-
 * [Abductive Reasoning and Learning](https://link.springer.com/book/10.1007/978-94-017-1733-5) - ***Springer***, 2000. [[All Versions](https://scholar.google.com/scholar?cluster=12074269365138058159&hl=en&as_sdt=0,5)]. An introductory account on abductive reasoning.
 
 * [Abductive Reasoning: Logical Investigations into Discovery and Explanation](https://link.springer.com/book/10.1007%2F1-4020-3907-7#authorsandaffiliationsbook) - ***Springer***, 2006. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Abductive+Reasoning%3A+Logical+Investigations+into+Discovery+and+Explanation&btnG=)]. An introductory account on abductive reasoning.
@@ -1171,6 +1169,8 @@ English-language description for use by biologists.
 * [Bounded Rationality](https://plato.stanford.edu/entries/bounded-rationality/) - ***Plato Stanford***. A computational philosophy account on Bounded Rationality, an elementary hypothesis of human intelligence in psychology and ecology.
 
 * [Instrumental Rationality](https://plato.stanford.edu/entries/rationality-instrumental/) - ***Plato Stanford***. A computational philosophy account on Instrumental Rationality, a dabate on whether an agent's decision is made intentionally or out of rational coherence.
+
+* [A Study of Thinking](https://www.taylorfrancis.com/books/mono/10.4324/9781315083223/study-thinking-jerome-bruner-jacqueline-goodnow-george-austin) - ***Routledge***, 1956. [[All Versions](https://scholar.google.com/scholar?cluster=17466297915128086930)]. This book is a pioneering account of how human beings achieve a measure of rationality in spite of the constraints imposed by time and ignorance. 
 
 
 * [Task switching](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(03)00028-7?large_figure=true&mobileUi=0) - ***Trends in Cognitive Sciences***, 2003. [[All Versions](https://scholar.google.com/scholar?cluster=676255515965300942&hl=en&as_sdt=0,5)]. [[Preprint](http://psychfiles.net/experimental/Monsell_2003.pdf)]. The original paper on ``switch cost'', where subjects' responses are substantially slower and, usually, more error-prone immediately after a task switch.
