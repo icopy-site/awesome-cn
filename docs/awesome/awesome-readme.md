@@ -32,6 +32,7 @@ images, screenshots, GIFs, text formatting, etc.
 - [Day8/re-frame](https://github.com/Day8/re-frame#readme) - Badges, logo, TOC, etc. Stands out by being a giant, well-written essay about the tech, how to use it, the philosophy behind it, and how it fits into the greater ecosystem.
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core#readme) - Project banner, super clear description (friendly to people brand new to the product), screenshot of the docs the tool generates, and concise links to other comprehensive pages explaining Getting Started, Joining the dbt Community, Bug Reports, Code Contribution, and Code of Conduct
 - [dowjones/react-dropdown-tree-select](https://github.com/dowjones/react-dropdown-tree-select#readme) - Clear readme with GIF screenshot for quick demo. Multiple badges, concise ToC, online playground, storybook, detailed description and more.
+- [dutrevis/spark-resources-metrics-plugin](https://github.com/dutrevis/spark-resources-metrics-plugin#readme) - Highlights an interactive Mermaid diagram in the Developer section, showcasing the code architecture. Has a patch-inspired logo, useful badges (CI, coverage, version links), and a concise ToC. Installation section is well-organized with expandable blocks for different scenarios. Usage section covers current functionalities and examples, also with expandable blocks. Includes technology badges, and also prior art and next steps sections.
 - [easybase/easybase-react](https://github.com/easybase/easybase-react#readme) - Project banner and logo. Badges. Expandable walkthrough sections. Concise description and purpose. TOC for easy navigation. GIFs for installation demo. Multiple informative visuals.
 - [emalderson/thephish](https://github.com/emalderson/ThePhish#readme) - Project logo, informative badges, useful TOC, clear description, screenshots, step-by-step installation and configuration guide, contributor guidelines, code of conduct, UML diagrams, coherent tags, issue and pull request templates, well-documented and well-commented code, examples.
 - [eylon-44/Buzz-OS](https://github.com/eylon-44/Buzz-OS#readme) - Project logo. Colorful emojis. GIFs for project demo, examples, and instructions. Fast and simple copy-paste instructions for installation and usage. Pretty table of contents. A quick overview of project's main features.
@@ -119,6 +120,10 @@ This can also be a dedicated section of your README.md files.
 - *Architecture*
     - ["ARCHITECTURE.md"](https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html) - *Alex Kladov*
     - ["Two open source projects with great documentation"](https://johnjago.com/great-docs/) - *John Jago*
+
+## Presentations
+
+- ["Build a Better README"](https://www.youtube.com/watch?v=vfZuFo1gTB8&list=PLA9_Hq3zhoFw6patag2gZcDjpugDLBStL&index=31) - *Jason A. Crome* at *The Perl and Raku Conference* in 2024 in Las Vegas, Nevada, USA.
 
 ## Tools
 

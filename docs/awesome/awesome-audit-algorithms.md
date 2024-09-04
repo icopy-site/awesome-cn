@@ -11,6 +11,7 @@ Nowadays, many algorithms (recommendation, scoring, classification) are operated
 
 ## Papers
 ### 2024
+- [LLMs hallucinate graphs too: a structural perspective](https://arxiv.org/abs/2409.00159) - (ArXiv) *Queries LLMs for known graphs and studies topological hallucinations. Proposes a structural hallucination rank.*
 - [Fairness Auditing with Multi-Agent Collaboration](https://arxiv.org/pdf/2402.08522) - (ECAI) *Considers multiple
 agents working together, each auditing the same platform for different tasks.*
 - [Mapping the Field of Algorithm Auditing: A Systematic Literature Review
