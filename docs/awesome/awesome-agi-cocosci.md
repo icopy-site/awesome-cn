@@ -48,8 +48,6 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [Abductive Reasoning and Learning](https://link.springer.com/book/10.1007/978-94-017-1733-5) - ***Springer***, 2000. [[All Versions](https://scholar.google.com/scholar?cluster=12074269365138058159)]. This book contains leading survey papers on the various aspects of Abduction, both logical and numerical approaches.
 
-* [Abductive Reasoning: Logical Investigations into Discovery and Explanation](https://link.springer.com/book/10.1007%2F1-4020-3907-7#authorsandaffiliationsbook) - ***Springer***, 2006. [[All Versions](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Abductive+Reasoning%3A+Logical+Investigations+into+Discovery+and+Explanation&btnG=)]. An introductory account on abductive reasoning.
-
 * [Abductive Cognition: The Epistemological and Eco-Cognitive Dimensions of Hypothetical Reasoning](https://link.springer.com/book/10.1007%2F978-3-642-03631-6) - ***Springer***, 2009. [[All Versions](https://scholar.google.com/scholar?cluster=8707351442527595188&hl=en&as_sdt=0,5)].
 
 * [Explanation and Abductive Inference](https://cognition.princeton.edu/sites/default/files/cognition/files/explanation_abductive_inference.pdf) - ***The Oxford Handbook of Thinking and Reasoning***, 2012. [[All Versions](https://scholar.google.com/scholar?cluster=16126850654692681562&hl=en&as_sdt=0,5)]. A handbook on the formulations of Abduction.

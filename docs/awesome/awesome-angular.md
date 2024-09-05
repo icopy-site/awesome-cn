@@ -381,6 +381,7 @@ become an Angular expert.
 * [ngx-electronify](https://github.com/bampakoa/ngx-electronify) - Angular CLI builder that runs your application in the desktop using Electron.
 * [dotenv-run](https://github.com/chihab/dotenv-run) - Seamlessly load environment variables. Supports cli, esbuild, rollup, vite, webpack, angular, ESM and Monorepos.
 * [ng-packagr](https://github.com/ng-packagr/ng-packagr) - Compile and package Angular libraries in Angular Package Format (APF).
+* [angular-env-builder](https://github.com/igorissen/angular-env-builder) - Builder to generate `src/environments/environment.ts` file based on your environment variables.
 
 #### CLI
 
@@ -746,6 +747,7 @@ become an Angular expert.
 * [highcharts-angular](https://github.com/highcharts/highcharts-angular) - Official minimal [Highcharts](https://www.highcharts.com/) integration for Angular.
 * [angular-highcharts](https://github.com/cebor/angular-highcharts) - Highcharts directive for Angular.
 * [Foblex](https://flow.foblex.com/) - Angular Powered Flow-Chart Library.
+* [zingchart-angular](https://github.com/zingchart/zingchart-angular) - [ZingChart](https://www.zingchart.com/) is a declarative, efficient, and simple JavaScript library for building responsive charts.
 
 #### Data Grids
 
@@ -763,6 +765,7 @@ become an Angular expert.
 * [angular-datatables](https://github.com/l-lin/angular-datatables) - An Angular2+ library for building complex HTML tables using the [DataTables](https://datatables.net) jQuery plug-in.
 * [angular-slickgrid](https://github.com/ghiscoding/Angular-Slickgrid) - A wrapper of the lightning fast & customizable [SlickGrid](https://github.com/mleibman/SlickGrid) datagrid. It also includes multiple styling themes.
 * [revogrid](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from Excel plus incredible performance.
+* [ZingGrid](https://www.zinggrid.com/docs/integrations/js-frameworks-&-libs/angular) - [ZingGrid](https://github.com/ZingGrid/zinggrid) is a JavaScript Web Component Library that allows developers to include interactive data tables in their web applications. The library can also be used in popular frameworks such as React, Angular, Vue, jQuery, and many more!
 
 #### Dates
 
@@ -844,6 +847,7 @@ become an Angular expert.
 * [ngx-filepond](https://github.com/pqina/ngx-filepond) - A handy [FilePond](https://github.com/pqina/filepond) adapter component for Angular.
 * [ngx-file-drop](https://github.com/georgipeltekov/ngx-file-drop) - Angular module for simple desktop file and folder drag and drop. This library does not need rxjs-compat.
 * [uppy](https://uppy.io/docs/angular/) - [Uppy](https://github.com/transloadit/uppy) is a sleek, modular JavaScript file uploader that integrates seamlessly with any application. It’s fast, has a comprehensible API and lets you worry about more important problems than building a file uploader.
+* [ngx-custom-material-file-input](https://github.com/daemons88/ngx-custom-material-file-input) - File input management for Angular Material.
 
 #### Forms
 
@@ -1085,6 +1089,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ngx-sherlock](https://github.com/politie/ngx-sherlock) - `ngx-sherlock` is an Angular tooling library to be used with the [@politie/sherlock](https://github.com/politie/sherlock) distributed reactive state management library.
 * [tansu](https://github.com/AmadeusITGroup/tansu) - A lightweight, push-based state management library. It works well with [the Angular ecosystem](https://amadeusitgroup.github.io/tansu/#md:tansu-works-well-with-the-angular-ecosystem).
 * [@tethys/store](https://github.com/worktile/store) - A mini, yet powerful state management library for Angular.
+* [angular-redux](https://github.com/reduxjs/angular-redux) - Unofficial Angular bindings for [Redux](https://redux.js.org/).
 
 #### Storage
 
@@ -1180,6 +1185,7 @@ for the creation of web applications developed with Angular.
 * [Flowbite](https://flowbite.com/docs/getting-started/angular/) - Open-source UI components built with Tailwind CSS with support for Angular.
 * [David UI Angular](https://github.com/david-ui-org/david-ui-angular) - Components library for enterprise-level projects based on Tailwind CSS and Angular.
 * [Tailkit UI](https://tailkit.com/) - Carefully crafted, easy to customize, fully responsive Tailwind CSS Components, Templates and Tools for your Tailwind CSS based projects.
+* [Preline UI](https://preline.co/docs/frameworks-angular.html#docs-on-this-page-sidebar) - [Preline](https://github.com/htmlstreamofficial/preline) is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 
 ##### Node Based
 
@@ -1277,6 +1283,7 @@ for the creation of web applications developed with Angular.
 * [ngx-view-state](https://github.com/yurakhomitsky/ngx-view-state) - Library for handling Loading/Success/Error in NgRx.
 * [store-service](https://github.com/ngxp/store-service) - Adds an abstraction layer / facade between Angular components and the NgRx store.
 * [ngrx-entity-relationship](https://github.com/satanTime/ngrx-entity-relationship) - ORM selectors for Redux, `@ngrx/store`, `@ngrx/entity`, and `@ngrx/data`. Ease of relationships with entities.
+* [ngx-signal-store-query](https://github.com/k3nsei/ngx-signal-store-query) - Signal Store feature that bridges with [Angular Query](https://tanstack.com/query/latest/docs/framework/angular/overview).
 
 #### RxJS
 
