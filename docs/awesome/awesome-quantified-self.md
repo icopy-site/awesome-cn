@@ -4,253 +4,223 @@
 
 
 
-&gt; 精心策划的令人敬畏的量化自我资源列表.
+> Carefully curated list of awesome Quantified Self resources.
 
-The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一种将技术融入个人日常生活各个方面的数据采集的运动，包括输入（例如消耗的食物、周围空气的质量）、状态（例如情绪、觉醒、血氧水平）和表现（心理和身体） .
+The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) is a movement to incorporate technology into data acquisition on aspects of a person's daily life in terms of inputs (e.g. food consumed, quality of surrounding air), states (e.g. mood, arousal, blood oxygen levels), and performance (mental and physical).
 
-欢迎投稿. 通过拉取请求添加链接或创建问题以开始讨论.
-
-看到服务关闭或硬件停止更新总是令人难过，这是我们收集的做出这个艰难决定的列表 [Archived](https://github.com/woop/awesome-quantified-self/blob/master/ARCHIVED.md)
+Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
 
 
 ## Websites and Resources
 
-- [Quantified Self](http://quantifiedself.com/) - 官方网站.
-- [Flowing Data](http://flowingdata.com/category/self-surveillance/) - 自我监督和量化新闻.
-- [Biohack Stack](https://biohackstack.com/) - 拥有“成堆”著名科学家的生物黑客社区.
-- [Wearables Database](http://vandrico.com/wearables/) - 每个身体部位可用的可穿戴设备列表.
-- [Wearables Table](https://quantifyme.io/) - 不错的可穿戴设备众包表.
-- [Wolfram Connected Devices Project](http://devices.wolfram.com/) - 物联网和量化自我设备列表.
-- [Quantified Self Institute](http://www.qsinstitute.org/) - 量化的自主研发创新项目.
-- [Biomindmap](https://biomindmap.com/) - 具有网络可视化选项的研究干预数据库. 
+- [Quantified Self](http://quantifiedself.com/) - Official website.
+- [Flowing Data](http://flowingdata.com/category/self-surveillance/) - Self surveillance and quantification news.
+- [Wolfram Connected Devices Project](http://devices.wolfram.com/) - IoT and Quantified Self device list.
 
 ## Articles & Blogs
 
-- [The Personal Analytics of My Life by Stephen Wolfram](http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/) - Stephen Wolfram 探索他收集的关于他的时间使用的数据.
-- [Measured Me](http://measuredme.com/) - 自我量化和自我优化的个人实验.
-- [Lifestream Blog](http://lifestreamblog.com/) - 社交数据聚合、生活记录、量化自我和数字遗产.
-- [Quantified Bob](https://www.quantifiedbob.com/) - 跟随一个人通过实验和个人分析寻求自我知识、改进和优化.
-- [Shadow of the Stream](https://mokestrel.wordpress.com/) - 量化自我、生活记录、日记、教育.
-- [QS on Medium](https://medium.com/@quantifiedself) - Medium 上的量化自我帖子.
-- [QS on Venture Beat](http://venturebeat.com/tag/quantified-self/) - 关于 Venture Beat 的量化自我文章.
-- [QS on Wired](https://www.wired.com/tag/quantified-self/) - Wired.com 上的量化自我文章.
-- [QS on LiveScience](http://www.livescience.com/topics/quantified-self) - 关于 LiveScience 的量化自我文章.
-- [Gwern](http://www.gwern.net/) - 深奥的博客，其中包括盲法自我实验和量化自我分析等主题.
-- [beepb00p](https://beepb00p.xyz) - 撰写关于量化自我的文章，拥有数据并构建基础设施.
-- [QS Experiments](https://blog.kto.to) - 基于科学的量化自我方法，共享原始数据和分析，模拟物理过程，健康追踪器比较和分析.
+- [The Personal Analytics of My Life by Stephen Wolfram](http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/) - Stephen Wolfram explores the data he has collected on the use of his time.
+- [Measured Me](http://measuredme.com/) - Personal experiment in self-quantification and self-optimization.
+- [Lifestream Blog](http://lifestreamblog.com/) - Social data aggregation, lifelogging, Quantified Self and digital legacy.
+- [Quantified Bob](https://www.quantifiedbob.com/) - Follow one guy's quest for self knowledge, betterment, and optimization through experimentation and personal analytics.
+- [Shadow of the Stream](https://mokestrel.wordpress.com/) - Quantified Self, lifelogging, journaling, education.
+- [QS on Medium](https://medium.com/@quantifiedself) - Quantified Self posts on Medium.
+- [QS on Venture Beat](http://venturebeat.com/tag/quantified-self/) - Quantified Self articles on Venture Beat.
+- [QS on Wired](https://www.wired.com/tag/quantified-self/) - Quantified Self articles on Wired.com.
+- [QS on LiveScience](http://www.livescience.com/topics/quantified-self) - Quantified Self articles on LiveScience.
+- [Gwern](http://www.gwern.net/) - Esoteric blog which includes blinded self-experiments & Quantified Self analyses amongst other topics.
+- [beepb00p](https://beepb00p.xyz) - Writing about Quantified Self, owning the data and building the infrastructure.
+- [QS Experiments](https://blog.kto.to) - Science-based approach for Quantified Self, sharing raw data and analysis, modelling physical processes, health trackers comparison and analysis.
+
 
 ## Books
 
--  [Your life, uploaded: The digital way to better memory, health, and productivity](https://www.amazon.com/Your-Life-Uploaded-Digital-Productivity-ebook/dp/B0043EV52G/) (2010) - 戈登贝尔和吉姆格梅尔
-- [The Quantified Self](https://www.amazon.com/Quantified-Self-Deborah-Lupton-ebook/dp/B01M0QCSF7/) (2016) - 黛博拉·勒普顿
-- [Self-Tracking](https://www.amazon.com/Self-Tracking-MIT-Press-Essential-Knowledge-ebook/dp/B01HNIVBZ4/) (2016) - 吉娜内夫和黎明纳弗斯
-- [Everyday Data Science](https://www.amazon.com/dp/B08TZ1MT3W/ref=cm_sw_r_cp_apa_fabc_a0ceGbWECF9A8) (2021) - 安德鲁·卡尔 [(cheaper PDF version)](http://gum.co/everydaydata)
+-  [Your life, uploaded: The digital way to better memory, health, and productivity](https://www.amazon.com/Your-Life-Uploaded-Digital-Productivity-ebook/dp/B0043EV52G/) (2010) - Gordon Bell & Jim Gemmell
+- [The Quantified Self](https://www.amazon.com/Quantified-Self-Deborah-Lupton-ebook/dp/B01M0QCSF7/) (2016) - Deborah Lupton
+- [Self-Tracking](https://www.amazon.com/Self-Tracking-MIT-Press-Essential-Knowledge-ebook/dp/B01HNIVBZ4/) (2016) - Gina Neff & Dawn Nafus
+- [Everyday Data Science](https://www.amazon.com/dp/B08TZ1MT3W/ref=cm_sw_r_cp_apa_fabc_a0ceGbWECF9A8) (2021) - Andrew N Carr [(cheaper PDF version)](http://gum.co/everydaydata)
 
 ## Talks
 
-- [Ted Talk: The Quantified Self](https://www.ted.com/talks/gary_wolf_the_quantified_self?language=en) - Gary Wolf 关于量化自我运动的 Ted 演讲.
-- [Tedx Talk: Wearable Tech Expands Human Potential](https://www.youtube.com/watch?v=FESv2CgyJag) - 劳伦·科斯坦蒂尼 (Lauren Costantini) 探讨了在量化自我时代作为人类意味着什么.
-- [Don't Unplug!!! How Technology Saved My Life and Can Save Yours Too](https://www.youtube.com/watch?v=EaYsr_ir1R8) - Chris Dancy（“地球上联系最紧密的人”）的主题演讲，他在演讲中探讨了技术如何通过关注他收集的关于他的生活的数据来帮助他成为一个更好的人.
+- [Ted Talk: The Quantified Self](https://www.ted.com/talks/gary_wolf_the_quantified_self?language=en) - Ted talk by Gary Wolf on the Quantified Self movement.
+- [Tedx Talk: Wearable Tech Expands Human Potential](https://www.youtube.com/watch?v=FESv2CgyJag) - Lauren Costantini explores what it means to be human in the age of the Quantified Self.
+- [Don't Unplug!!! How Technology Saved My Life and Can Save Yours Too](https://www.youtube.com/watch?v=EaYsr_ir1R8) - A keynote by Chris Dancy ("the Most Connected Man on Earth") in which he explores how technology helped him become a better person by paying attention to the data he collected about his life.
 
 ## Applications and Platforms
 
 ### Fitness
-- [Runkeeper](http://runkeeper.com/) - 户外健身活动追踪器（iOS 和安卓）.
-- [Endomondo](https://www.endomondo.com/) - 运动和健康统计跟踪器（iOS 和安卓）.
-- [Runtastic](https://www.runtastic.com/) - 跑步、骑自行车和健身 GPS 追踪器（iOS 和安卓）.
-- [Strava](https://www.strava.com/) - 体育活动跟踪和社交网络.
-- [Gym Hero](https://gymhero.me/) - 跟踪锻炼、力量训练和其他健身运动（iOS、Web）
-- [OpenTracks](https://opentracksapp.com/) - 尊重隐私的离线健身活动追踪器 (Android).
+- [Runkeeper](http://runkeeper.com/) - Outdoor fitness activity tracker (iOS & Android).
+- [Runtastic](https://www.runtastic.com/) - Running, cycling, and fitness GPS tracker (iOS & Android).
+- [Strava](https://www.strava.com/) - Athletic activity tracking and social network.
+- [Gym Hero](https://gymhero.me/) - Track workouts, strength training and other fitness exercise (iOS, Web)
+- [OpenTracks](https://opentracksapp.com/) - Privacy-respecting offline-capable fitness activity tracker (Android).
 
 ### Places & Travel
-- [RoadGoat](https://www.roadgoat.com/) - 旅行跟踪，与此处列出的许多平台（Web）的自动集成.
-- [Swarm](https://www.swarmapp.com/) - 通过 GPS 自动签到兴趣点（iOS 和 Android）.
-- [Arc](https://itunes.apple.com/us/app/arc-app-location-activity/id1063151918) - 通过 GPS (iOS) 跟​​踪您的行踪和去过的地方.
+- [RoadGoat](https://www.roadgoat.com/) - Travel tracking, automated integrations with many platforms listed here (Web).
+- [Swarm](https://www.swarmapp.com/) - Point of interest auto-checkins via GPS (iOS & Android).
+- [Arc](https://itunes.apple.com/us/app/arc-app-location-activity/id1063151918) - Track your movements and places visited via GPS (iOS).
 
 ### Aggregators & Dashboards
-- [Memento Labs](https://mementolabs.io) - 使用可穿戴设备和 A/B 测试的个性化健康行动计划. 
-- [Apple Health](http://www.apple.com/ios/health/)  - 适用于 Apple 设备的多用途跟踪平台. 跟踪活动、睡眠、营养、正念和其他指标.
-- [Google Fit](https://www.google.com/fit) - 用于存储、访问和管理健身数据的开放生态系统 (Android).
-- [Gyroscope](https://gyrosco.pe/) - 量化的自我健康仪表板（网络、iOS 和安卓）.
-- [Exist](https://exist.io/) - 在一个地方跟踪所有内容（网络、iOS 和 Android）.
-- [Zenobase](https://zenobase.com/) - 存储、聚合和可视化来自多个第 3 方来源（网络）的数据.
-- [Vital](https://tryvital.io/) - 像小部件一样的格子，将您所有的健身数据、可穿戴设备数据和家庭实验室测试结合在一起.
-- [Validic](https://validic.com/) - 基于云的平台，连接来自数字健康应用程序、设备和可穿戴设备的患者记录数据.
-- [FitnessSyncer](https://www.fitnesssyncer.com/) - 将健康和健身数据整合到一个集中式平台中.
-- [IoTool](https://iotool.io/) - 用于自动化和数据收集的智能手机物联网平台.
-- [Tictrac](https://tictrac.com/) - 健康和健身数据仪表板（网络）.
-- [QS Access](https://apps.apple.com/us/app/qs-access/id920297614) - 将 Apple Health 数据导出为 CSV 表格格式 (iOS).
-- [KeepTrack](https://play.google.com/store/apps/details?id=com.zagalaga.keeptrack&hl=en) - 多用途追踪器（Android）.
+- [Apple Health](http://www.apple.com/ios/health/) - Multi-purpose tracking platform for Apple devices. Tracks activities, sleep, nutrition, mindfulness, and other metrics.
+- [Google Fit](https://www.google.com/fit) - Open ecosystem to store, access, and manage fitness data (Android).
+- [Gyroscope](https://gyrosco.pe/) - Quantified Self health dashboard (web, iOS, & Android).
+- [Exist](https://exist.io/) - Track everything in one place (web, iOS & Android).
+- [Zenobase](https://zenobase.com/) - Store, aggregate and visualize your data from multiple 3rd party sources (web).
+- [Vital](https://tryvital.io/) - Plaid like widget that joins together all your fitness data, wearables data and at home lab tests.
+- [Validic](https://validic.com/) - Cloud-based platform that connects patient-recorded data from digital health applications, devices, and wearables.
+- [FitnessSyncer](https://www.fitnesssyncer.com/) - Joins health and fitness data into a single centralized platform.
+- [IoTool](https://iotool.io/) - Smartphone IoT platform for automation and data collection.
+- [Tictrac](https://tictrac.com/) - Dashboard for health and fitness data (web).
+- [QS Access](https://apps.apple.com/us/app/qs-access/id920297614) - Export Apple Health data into CSV table format (iOS).
+- [KeepTrack](https://play.google.com/store/apps/details?id=com.zagalaga.keeptrack&hl=en) - Multi-purpose tracker (Android).
+- [BiomarkerDash](https://github.com/NoTranslationLayer/biomarkerdash) - Simple dashboard to visualize trends in bloodwork biomarkers.
 
 ### Automation
-- [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en) - 自动化和事件触发应用程序 (Android).
-- [Apple Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) - 强大的自动化应用程序 (iOS).
-- [If This Then That (IFTTT)](https://ifttt.com/) - 很棒的条件自动化平台.
-- [Zapier](https://zapier.com/) - 自动执行应用程序之间的任务.
+- [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en) - Automation and event triggering app (Android).
+- [Apple Shortcuts](https://support.apple.com/guide/shortcuts/welcome/ios) - Powerful automation app (iOS).
+- [If This Then That (IFTTT)](https://ifttt.com/) - Awesome conditional automation platform.
+- [Zapier](https://zapier.com/) - Automate tasks between apps.
 
 ### Data Collection
-- [AskMeEvery](https://www.askmeevery.com/) - 通过电子邮件或文本问题自动输入数据.
-- [Reporter](http://www.reporter-app.com/) - 通过随机调查收集数据的跟踪应用程序 (iOS).
-- [Logsit](http://www.logsit.com/) - 量化自我和生活记录应用程序来跟踪您所做的事情 (iOS).
-- [LifeMetrics](https://lifemetrics.io/) - 每日问卷调查和自动生成的健康见解 (iOS).
+- [AskMeEvery](https://www.askmeevery.com/) - Automated data entry through email or text questions.
+- [Reporter](http://www.reporter-app.com/) - Tracking app that collects data through random surveys (iOS).
+- [Reflect](https://ntl.ai/reflect) - Tracking app with customizable forms and data insights (iOS).
+- [RTracker](https://janerob.com/rTracker/rTracker/iPhone/pages/rTracker-main.html) - Generic, customisable personal data tracker (iOS).
+- [Sink](https://sinkapp.io) - Voice-enabled Lifelogger for tracking anything with automatic sync to Google Sheets (iOS).
 
 ### Diet
-- [MyFitnessPal](http://www.myfitnesspal.com/) - 食物追踪和饮食计划应用程序（iOS 和安卓）.
-- [Fat Secret](https://www.fatsecret.com/) - 用于减肥的卡路里计数器和饮食追踪器（iOS 和安卓）.
-- [Calorie Counter](https://www.caloriecount.com/) - 营养数据库和卡路里计算应用程序（iOS 和安卓）.
-- [Cronometer](https://cronometer.com/) - 食物、活动和生物识别跟踪器（iOS 和安卓）.
-- [Zero](https://www.zerofasting.com/) - 一个简单的禁食追踪器，用于间歇性、昼夜节律和自定义禁食（iOS 和安卓）. 
-- [Vora](https://getvora.com/) - 禁食追踪器（iOS 和安卓）.
-- [Bitesnap](https://www.getbitesnap.com/) - 由计算机视觉支持的基于图像的食物记录应用程序（iOS 和 Android）.
-- [Coffee It](https://apps.apple.com/us/app/coffee-it-record-caffeine/id1216049514)  - 记录咖啡因摄入量，内部数据库与 Apple Health 同步.  (iOS)
-- [HiCoffee](https://apps.apple.com/us/app/hicoffee-caffeine-tracker/id1507361706) - 超级高效的咖啡因追踪器应用程序，支持 Apple Watch（iOS 和 Apple Watch）.
+- [MyFitnessPal](http://www.myfitnesspal.com/) - Food tracking and diet plan app (iOS & Android).
+- [Fat Secret](https://www.fatsecret.com/) - Calorie counter and diet tracker for weight loss (iOS & Android).
+- [Cronometer](https://cronometer.com/) - Food, activity, and biometric tracker (iOS & Android).
+- [Zero](https://www.zerofasting.com/) - A simple fasting tracker used for intermittent, circadian rhythm, and custom fasting (iOS & Android). 
+- [Bitesnap](https://www.getbitesnap.com/) - Image based food logging app powered by computer vision (iOS & Android).
+- [Coffee It](https://apps.apple.com/us/app/coffee-it-record-caffeine/id1216049514) - Record Caffeine intake, with database inside & Apple Health sync. (iOS)
+- [HiCoffee](https://apps.apple.com/us/app/hicoffee-caffeine-tracker/id1507361706) - Super efficient caffeine tracker app with Apple Watch support (iOS and Apple Watch).
+- [Nutriely](https://nutriely.com) - Food and nutrition tracking, diary. Focusing on detailed micro and vitamin breakdown. (Web)
 
 ### Goals
-- [GoalsOnTrack](http://www.goalsontrack.com/) - 基于 Web 的目标设定和跟踪软件（iOS 和 Android）.
-- [Lifetick](https://lifetick.com/) - 在线目标跟踪平台.
-- [stickK](http://www.stickk.com/) - 目标跟踪与货币承诺.
-- [Beeminder](https://www.beeminder.com/)  - 目标跟踪与货币承诺. 与许多设备和应用程序集成.
+- [GoalsOnTrack](http://www.goalsontrack.com/) - Web-based goal setting and tracking software (iOS & Android).
+- [Lifetick](https://lifetick.com/) - Online goal tracking platform.
+- [stickK](http://www.stickk.com/) - Goal tracking with a monetary commitment.
+- [Beeminder](https://www.beeminder.com/) - Goal tracking with a monetary commitment. Integrates with many devices and apps.
 - [Taskade](https://www.taskade.com/) - Simple and sharable tasks, checklists, and notes. (Web, iOS & Android).
 
 ### Habits
-- [Habitica](https://habitica.com) - 一个习惯追踪应用程序，将您的目标视为角色扮演游戏（Web、iOS 和 Android）.
-- [HabitBull](http://www.habitbull.com/) - 一个简单的移动习惯跟踪应用程序，用于建立和跟踪条纹（iOS 和 Android）.
-- [Strides](http://www.stridesapp.com/) - 通过 SMART 目标设置（Web、iOS）跟踪您的目标、习惯和项目的应用程序.
-- [Habit List](http://habitlist.com/) - 养成好习惯，改掉坏习惯，打造更好的你 (iOS).
-- [Streaks](https://streaksapp.com/) - 帮助您养成良好习惯的待办事项列表（iOS）.
-- [Taskade](https://taskade.com/)  - 在所有设备上同步的现代任务列表.  （网络、iOS、Android、Chrome、Mac 和 PC）.
-- [Productive](https://productiveapp.io/) - 习惯和每日目标跟踪器，具有灵活的日程安排、提醒和数据导出 (iOS).
-- [Everyday](https://everyday.app/)  - 适用于 Web、iOS 和 Android 的简单美观的习惯跟踪器. 有一个网络扩展，可以将其添加到浏览器的新选项卡中.
-- [Emoji Log](https://emojilog.rosano.ca) - 使用表情符号跟踪没有条纹的习惯.
-- [Conjure](https://conjure.so)  - 带有规则引擎、数据层、API、仪表板等的习惯、目标和时间跟踪器.  （网络、桌面、iOS、Android）.
+- [Habitica](https://habitica.com) - A habit tracking app which treats your goals like a role playing game (Web, iOS & Android).
+- [HabitBull](http://www.habitbull.com/) - A simple mobile habit tracking app to build and track streaks (iOS & Android).
+- [Strides](http://www.stridesapp.com/) - App to track your goals, habits and projects with SMART goal setting (Web, iOS).
+- [Habit List](http://habitlist.com/) - Create good habits, break bad ones, build a better you (iOS).
+- [Streaks](https://streaksapp.com/) - The to-do list that helps you form good habits (iOS).
+- [Taskade](https://taskade.com/) - Modern task lists that syncs across all your devices. (Web, iOS, Android, Chrome, Mac and PC).
+- [Productive](https://productiveapp.io/) - Habits and daily goals tracker with flexible scheduling, reminders and data export (iOS).
+- [Everyday](https://everyday.app/) - Simple and beautiful habit tracker for the Web, iOS and Android. Has a web extension to add it to your browser's new tab.
+- [Emoji Log](https://emojilog.rosano.ca) - Track habits without streaks using emoji.
+- [Conjure](https://conjure.so) - Habits, goals and time tracker with rules engine, data layer, API, dashboards and more. (Web, Desktop, iOS, Android).
 
 ### Health
-- [AlcDroid](http://alcdroid.flx-apps.com/) - 酒精消耗跟踪和 BAC 计算应用程序，提供有关您饮酒行为的各种统计数据 (Android).
-- [CureTogether](http://curetogether.com/) - 健康自我跟踪和协作网络.
-- [Symple](http://www.sympleapp.com/) - 症状日志和健康追踪器 (iOS).
+- [AlcDroid](http://alcdroid.flx-apps.com/) - Alcohol consumption tracking and BAC calculation app that offers various statistics regarding your drinking behavior (Android).
 
 ### Heart
-- [Cardiio](http://www.cardiio.com/) - 非接触式心率监测器 (iOS).
-- [Instant Heart Rate](http://www.azumio.com/s/instantheartrate/index.html) - 快速准确的移动心率监测器（iOS、Android、Windows）.
-- [HRV4Training](https://www.hrv4training.com/) - 使用智能手机摄像头跟踪心率变异性、压力和其他相关数据点，并接收个性化建议以优化您的健康和训练（iOS、Android）.
-- [Welltory](https://www.welltory.com/) - 首选健康应用程序，可让用户跟踪他们的心率变异性、压力和能量水平，以及来自不同可穿戴设备和应用程序的汇总健康和健身分析.
+- [Instant Heart Rate](http://www.azumio.com/s/instantheartrate/index.html) - Fast and accurate mobile heart rate monitor (iOS, Android, Windows).
+- [HRV4Training](https://www.hrv4training.com/) - Track Heart Rate Variability, Stress, and other contextual data points using your smartphone camera and receive personalized advice to optimize your health and training (iOS, Android).
+- [Welltory](https://www.welltory.com/) - The go-to health app that lets users track their heart rate variability, stress, and energy levels, along with aggregated health and fitness analytics from different wearable devices and apps.
 
 ### Media Consumption
-- [Goodreads](https://www.goodreads.com/) - 允许用户跟踪和评价书籍并与其他读者（Web、iOS、Android）建立联系. 
-- [HistoryHound](https://www.stclairsoft.com/HistoryHound/) - 可搜索的跨浏览器历史数据库，可以导出为 HTML (MacOS).
-- [Last.fm](http://www.last.fm/) - 通过桌面和移动应用程序或连接到音乐服务（Web、iOS、Android）来跟踪您收听的音乐.
-- [Trakt](https://trakt.tv/) - 自动跟踪您正在观看的电视和电影（网络、媒体播放器）.
-- [Pocket](https://getpocket.com/)  - 让您保存文章以供日后阅读（Web、iOS、Android）.
-- [PhotoStats](http://www.photostats.io/) - 使用机器学习（iOS、Android）的可视化、分析和自动标记的照片跟踪.
+- [Goodreads](https://www.goodreads.com/) - Lets users track and rate books and network with other readers (Web, iOS, Android). 
+- [HistoryHound](https://www.stclairsoft.com/HistoryHound/) - Searchable cross-browser history database that can be exported as HTML (MacOS).
+- [Last.fm](http://www.last.fm/) - Track the music you listen to by scrobbling via desktop and mobile apps or by connecting to music services (Web, iOS, Android).
+- [Trakt](https://trakt.tv/) - Automatically track TV & movies you're watching (Web, Media Players).
+- [Pocket](https://getpocket.com/)  - Lets you save articles to read later (Web, iOS, Android).
 - [WordCounter](https://wordcounterapp.com/) - Word count tracker for writers (Mac). 
-- [Podcast Tracker](http://www.podcasttracker.com/) - 让您记录、汇总和导出您的播客收听历史（Web）.
+- [Podcast Tracker](http://www.podcasttracker.com/) -  Lets you log, aggregate and export your podcast listening history (Web).
 
 ### Mind & Cognition
-- [Cambridge Brain Sciences](http://www.cambridgebrainsciences.com/) - 经科学验证的认知功能评估工具.
-- [Quantified Mind](http://www.quantified-mind.com/about) - 量化认知能力的测试和实验.
 
 ### Mood
-- [MoodCast](https://2appstudio.com/moodcast/) - 跟踪您的日常心情和活动 (Android).
-- [Daylio](http://daylio.webflow.io/)  - 无需写下一行即可记录您的一天. 高级版可导出数据.  （iOS 和安卓）.
-- [MoodNotes](http://moodnotes.thriveport.com/)  - 用可修改的微笑或皱眉的脸来捕捉你的感受. 可导出数据.  （iOS 和 Apple Watch）.
-- [MoodPanda](http://moodpanda.com/)  - 最古老的在线情绪追踪器之一. 评价你的心情并分享支持. 可导出数据. 通过 API（Web、iOS、Android）同步和扩展.
-- [MoodJam](http://moodjam.com/)  - 用颜色记录你的心情.  （仅限网络）.
-- [iMoodJournal](https://www.imoodjournal.com/)  - 情绪跟踪以 10 分制评分，从“非常好”到“再差不过了”. 可导出数据.  （Android、iOS、Apple Watch）.
-- [Perspective](https://itunes.apple.com/us/app/perspective-daily-journal/id1186753097?mt=8)  - 记录想法、情绪和兴趣，以帮助您反思和寻找观点.  （iOS）.
-- [Moods by Mokriya](https://itunes.apple.com/us/app/moods-tracking-for-better-mental-health/id1023271188?mt=8)  - 快速跟踪您的心情好坏. 使用词云指定感受. 没有数据导出选项.  （iOS、Apple Watch）.
+- [MoodCast](https://2appstudio.com/moodcast/) - Keep track of your daily mood & activities (Android).
+- [MoodJam](http://moodjam.com/) - Track your moods with colors. (Web only).
+- [iMoodJournal](https://www.imoodjournal.com/) - Mood Tracking on a 10-point scale from Really great to Couldn't be worse. Exportable data. (Android, iOS, Apple Watch).
+- [Perspective](https://itunes.apple.com/us/app/perspective-daily-journal/id1186753097?mt=8) - Journaling to captures Thoughts, Moods, and Interests with the goal of helping you reflect and find perspective. (iOS).
+- [Moods by Mokriya](https://itunes.apple.com/us/app/moods-tracking-for-better-mental-health/id1023271188?mt=8) - Quick track your mood as good, okay or bad. Specify feelings using a word cloud. No data export option. (iOS, Apple Watch).
 
 ### Sleep
-- [Sleep as Android](http://sleep.urbandroid.org/) - 具有可穿戴集成功能的全功能睡眠追踪器 (Android).
-- [SleepBot](https://mysleepbot.com/) - 智能闹钟和睡眠跟踪器（iOS 和安卓）.
-- [Sleep Cycle](https://www.sleepcycle.com/) - 智能闹钟和睡眠跟踪器（iOS 和安卓）.
-- [Pillow](https://neybox.com/pillow/) - 从您的 Apple Watch 或 iPhone (iOS) 追踪您的睡眠. 
-- [AutoSleep](http://autosleep.tantsissa.com/) - 通过 Apple Watch (iOS) 自动跟踪您的睡眠.
+- [Sleep as Android](http://sleep.urbandroid.org/) - Full featured sleep tracker with wearable integration (Android).
+- [Sleep Cycle](https://www.sleepcycle.com/) - Intelligent alarm clock and sleep tracker (iOS & Android).
+- [Pillow](https://neybox.com/pillow/) - Track your sleep from your Apple Watch or iPhone (iOS). 
 
 ### Tally
-- [Nomie](http://nomie.io/) - 私下跟踪您生活中的事件（iOS 和 Android）.
-- [Track This For Me](https://www.trackthisfor.me/) - 多用途跟踪平台（Android）.
-- [Instant](http://instantapp.today/) - 自动跟踪您的所有日常活动（iOS 和安卓）.
 
 ### Time
-- [Toggl](https://toggl.com/) - 时间跟踪器和员工时间表软件（iOS 和安卓）.
-- [Timesheet](http://timesheet.rauscha.com/) - Android 时间跟踪器 (Android).
-- [Hours Time Tracker](https://www.hourstimetracking.com/) - 很棒的时间跟踪应用程序 (iOS).
-- [Rescue Time](https://www.rescuetime.com/) - 自动跟踪您花费的时间（Mac、Windows、Android、Linux）.
-- [Qbserve](https://qotoqot.com/qbserve/) - 时间跟踪自动化：实时生产力反馈、项目跟踪、时间表和发票 (Mac).
-- [Timing](https://timingapp.com/)  - Mac 的自动时间和生产力跟踪. 帮助您按部就班地完成工作，并准确告诉您在每个文档、网站和应用程序 (Mac) 上花费的秒数.
-- [Quality Time](http://www.qualitytimeapp.com/) - 适用于 Android (Android) 的精确时间跟踪器.
-- [Manic Time](http://www.manictime.com/) - 跟踪计算机使用情况的自动时间跟踪软件 (Windows).
-- [Streaks](https://streaksapp.com/) - 帮助您养成习惯和跟踪目标的待办事项列表 (iOS).
-- [Moment](https://inthemoment.io/) - 跟踪在 iPhone 和 iPad (iOS) 上花费的时间.
-- [Hindsight](http://hindsightapp.io/) - 跟踪某事发生后的时间流逝（iOS、Apple Watch）.
-- [ActivityWatch](https://activitywatch.net/) - 开源自动时间跟踪器（Mac、Windows、Linux、Android）.
-- [Hourly](http://hourly-app.com) - 具有智能功能和漂亮设计的简约时间跟踪器 (iOS).
-- [Code Time](https://www.software.com/) - VS Code、Atom、Sublime Text 和其他编辑器的时间跟踪
+- [Toggl](https://toggl.com/) - Time tracker and employee timesheet software (iOS & Android).
+- [Timesheet](http://timesheet.rauscha.com/) - Android time tracker (Android).
+- [Hours Time Tracker](https://www.hourstimetracking.com/) - Awesome time tracking app (iOS).
+- [Rescue Time](https://www.rescuetime.com/) - Automatically tracks where you spend your time (Mac, Windows, Android, Linux).
+- [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: Real-time productivity feedback, project tracking, timesheets, and invoicing (Mac).
+- [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work and tells you exactly how many seconds you spent in each document, website and app (Mac).
+- [Quality Time](http://www.qualitytimeapp.com/) - Precise time tracker for Android (Android).
+- [Manic Time](http://www.manictime.com/) - Automatic time tracking software which tracks computer usage (Windows).
+- [Streaks](https://streaksapp.com/) - To do list that helps you form habits and track goals (iOS).
+- [Hindsight](http://hindsightapp.io/) - Tracks the passage of time since something happened (iOS, Apple Watch).
+- [ActivityWatch](https://activitywatch.net/) - Open source automated time tracker (Mac, Windows, Linux, Android).
+- [Hourly](http://hourly-app.com) - Minimalistic time tracker with smart functions and nice design (iOS).
+- [arbtt](https://arbtt.nomeata.de/) - Automatic, rule-based time tracker, which works by periodically snapshotting the metadata of your desktop window state. Rules are specified in the arbtt DSL and can be written retroactively (Linux, Mac, Windows).
 
 ### Wealth
-- [Mint](http://www.mint.com/) - 管理您的资金，支付账单并跟踪您的信用评分.
-- [Personal Capital](https://www.personalcapital.com/) - 财务软件和财富管理.
-- [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - 个人家庭预算软件.
-- [GNU Cash](https://www.gnucash.org/) - 个人和小型企业财务会计软件.
-- [Ledger](https://github.com/ledger/ledger) - 简单但功能强大的命令行记账.
-- [Credit Karma](https://www.creditkarma.com/) - 精益且信誉良好的信用评分跟踪器.
-- [Actual](https://actualbudget.com/) - 个人家庭预算软件.
-- [Lunch Money](https://lunchmoney.app/) - 用于导入交易、分类和预算的 Web 应用程序.
-- [Firefly III](https://github.com/firefly-iii/firefly-iii) - 免费和开源的个人理财经理
+- [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
+- [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
+- [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
+- [Ledger](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
+- [Credit Karma](https://www.creditkarma.com/) - Lean and reputable credit score tracker.
+- [Actual](https://actualbudget.com/) - Personal home budget software.
+- [Lunch Money](https://lunchmoney.app/) - Web app to import transactions, categorize, and budget.
+- [Firefly III](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
+- [Menot](https://www.menot.xyz) - Simple expense and finance tracker for multiple currencies, including crypto.
 
 ## Devices and Wearables
 
-- [Fitbit](http://www.fitbit.com/) - 很棒的活动追踪可穿戴设备，可以追踪步数、心率、睡眠质量和其他个人指标.
-- [Garmin](https://buy.garmin.com/en-US/US/wearables/c10002-p1.html) - 世界一流的可穿戴设备.
-- [TomTom](https://www.tomtom.com/en_us/sports/fitness-trackers/) - 健身追踪器和手表.
-- [Jawbone UP](https://jawbone.com/up) - 让您更健康的健身追踪器.
-- [Withings](http://www.withings.com/) - 活动跟踪和连接的设备.
-- [Nike Fuel](https://secure-nikeplus.nike.com/plus/what_is_fuel/) - 通用活动跟踪设备.
-- [Misfit](https://misfit.com/) - 可穿戴追踪设备.
-- [Pebble](https://www.pebble.com/) - 与您的移动设备配合使用的智能手表.
-- [Wahoo](http://wahoofitness.com/) - 联网的骑行、跑步和健身设备.
-- [Hexo Skin](http://www.hexoskin.com/) - 很棒的生物识别衬衫.
-- [Whoop](http://whoop.com/) - 运动表现监测.
-- [Zephyr BioHarness](https://www.zephyranywhere.com/products/bioharness-3) - 性能监控可穿戴设备.
-- [Apple Watch](http://www.apple.com/watch/) - 健身和其他以健康为导向的追踪.
-- [Amiigo](https://amiigo.com/) - 活动和健身房锻炼追踪器.
-- [Spire](https://spire.io/) - 通过测量呼吸来确定压力和注意力水平的活动跟踪器.
-- [Oura Ring](https://ouraring.com/) - 佩戴在手指上的高精度睡眠（和活动）追踪器，可测量 HR、HRV、温度和运动.
-- [Aidlab](https://www.aidlab.com/) - 智能且可破解的可穿戴设备，兼容特殊 T 恤和胸带.
-- [Gadgetbridge](https://gadgetbridge.org/) - 适用于各种可穿戴设备的 FOSS 健身追踪器应用程序.
-- [Dreem](https://dreem.com/)  - 用于监测和优化睡眠的消费级脑电图； 它还具有脉搏血氧仪、骨传导音频、加速度计和声波计.
-- [Foci](https://fociai.com/) - 自动跟踪焦点、流量、放松、疲劳和压力的可穿戴设备（夹子）.
+- [Fitbit](http://www.fitbit.com/) - Awesome activity tracking wearables to track steps, heart rate, quality of sleep, and other personal metrics.
+- [Garmin](https://buy.garmin.com/en-US/US/wearables/c10002-p1.html) - World-class range of wearables.
+- [Withings](http://www.withings.com/) - Activity tracking and connected devices.
+- [Wahoo](http://wahoofitness.com/) - Connected cycling, running, and fitness devices.
+- [Hexo Skin](http://www.hexoskin.com/) - Awesome biometric shirts.
+- [Whoop](http://whoop.com/) - Athletic performance monitoring.
+- [Zephyr BioHarness](https://www.zephyranywhere.com/products/bioharness-3) - Performance monitoring wearables.
+- [Apple Watch](http://www.apple.com/watch/) - Fitness and other health oriented tracking.
+- [Spire](https://spire.io/) - Activity tracker that determines stress and focus levels by measuring breathing.
+- [Oura Ring](https://ouraring.com/) - Highly-accurate sleep (and activity) tracker worn on the finger that measures HR, HRV, temperature, and movement.
+- [Aidlab](https://www.aidlab.com/) - Smart and hackable wearable, compatible with special T-shirts and chest straps.
+- [Gadgetbridge](https://gadgetbridge.org/) - FOSS fitness tracker app for use with a wide variety of wearables.
+- [Dreem](https://dreem.com/) - Consumer-grade EEG used to monitor and optimize sleep; it also has pulse oxymeter, bone conduction audio, accelerometer and sonometer.
 
 ## Research and Analysis
 
-- [23andMe](https://www.23andme.com/) - 基因检测和分析.
-- [Open Humans](https://www.openhumans.org/) - 数据共享和项目协作.
-- [Enlis](https://www.enlis.com/personal_edition.html) - 用于组织和分析基因组数据的软件.
-- [DNA Fit](https://www.dnafit.com/) - 健身和营养的遗传信息.
-- [Family Tree DNA](https://www.familytreedna.com/) - 血统、家族史和系谱的基因检测.
-- [Inside Tracker](https://www.insidetracker.com/) - 以科学为基础的性能和健康血液分析.
-- [Wellness FX](https://www.wellnessfx.com/) - 血液分析和健康检查.
-- [Human API](http://humanapi.co/) - 健康数据集成平台.
-- [DNA land](http://dna.land/) - DNA归因和科学研究.
-- [GenetiConcept](https://geneticoncept.com) - 健康、药物相互作用、健康和营养的基因检测.
-- [FoundMyFitness](https://www.foundmyfitness.com/genetics) - 综合基因报告来自自我上传的基因数据.
+- [23andMe](https://www.23andme.com/) - Genetic testing and analysis.
+- [Open Humans](https://www.openhumans.org/) - Data sharing and project collaboration.
+- [Enlis](https://www.enlis.com/personal_edition.html) - Software to organize and analyze your genomic data.
+- [DNA Fit](https://www.dnafit.com/) - Genetic information for fitness and nutrition.
+- [Family Tree DNA](https://www.familytreedna.com/) - Genetic testing for ancestry, family history and genealogy.
+- [Inside Tracker](https://www.insidetracker.com/) - Science-based blood analytics for performance and health.
+- [Wellness FX](https://www.wellnessfx.com/) - Blood analysis and health checkup.
+- [Human API](http://humanapi.co/) - Health data integration platform.
+- [FoundMyFitness](https://www.foundmyfitness.com/genetics) - Comprehensive genetic report from on self-uploaded genetic data.
 
 ## Open Source Projects
 
-- [Open mHealth](http://www.openmhealth.org/) - 开源健康数据集成工具.
-- [Heedy](https://github.com/heedy/heedy) - 所有量化自我数据的存储库.
-- [Quantifier](https://github.com/tsubery/quantifier) - 一个量化的自我应用程序，可以跟踪各种健身和生产力指标.
-- [Fluxtream](https://github.com/fluxtream/fluxtream-app) - 一个开源的非营利性个人数据可视化框架.
-- [Flow Dashboard](https://github.com/onejgordon/flow-dashboard) - 习惯追踪器和个人数据分析应用程序.
-- [BetterSelf](https://betterself.io) - 用于跟踪补充剂和习惯的开源应用程序
-- [QS Ledger](https://github.com/markwk/qs_ledger) - 使用 Jupyter Notebooks 基于 Python 构建的开源个人数据聚合器和数据分析.
-- [Awesome Biomarkers](https://github.com/markwk/awesome-biomarkers) - 了解更多有关血液检测、生物标志物以及技术和服务的信息，以帮助量化（和改善）您的健康状况！
-- [health-records](https://github.com/pacogomez/health-records) - 使用纯文本管理个人健康记录的工具.
-
+- [Open mHealth](http://www.openmhealth.org/) - Open source health data integration tools.
+- [Flow Dashboard](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
+- [Timeliner](https://github.com/mholt/timeliner) - A data aggregation and and timeline visualization tool.
+- [TimelineBuilder](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
+- [Me API](https://github.com/danfang/me-api) - An extensible, personal API with custom integrations.
+- [Memacs](https://github.com/novoid/Memacs) - Visualize your life in Orgmode.
+- [HumanProgrammingInrerface](https://github.com/karlicoss/HPI) - Unify, acces and interact with all of your personal data.
+- [Dogsheep](https://dogsheep.github.io/) - A collection of data exporters and tools for personal analytics using SQLite and/or Datasette.
+- [Chronicle](https://github.com/chronicle-app/chronicle-etl) - A CLI toolkit for extracting and working with your digital history.
+- [QS-Schema](https://github.com/QS-Schema/qs-schema) - Open schemes for QS applications.
+- [Datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data.
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Willem Pienaar](https://github.com/willempienaar) 已放弃该作品的所有版权和相关或邻接权.
+To the extent possible under law, [Willem Pienaar](https://github.com/willempienaar) has waived all copyright and related or neighboring rights to this work.

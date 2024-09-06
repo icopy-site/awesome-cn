@@ -748,6 +748,7 @@ become an Angular expert.
 * [angular-highcharts](https://github.com/cebor/angular-highcharts) - Highcharts directive for Angular.
 * [Foblex](https://flow.foblex.com/) - Angular Powered Flow-Chart Library.
 * [zingchart-angular](https://github.com/zingchart/zingchart-angular) - [ZingChart](https://www.zingchart.com/) is a declarative, efficient, and simple JavaScript library for building responsive charts.
+* [unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
 
 #### Data Grids
 
@@ -766,6 +767,7 @@ become an Angular expert.
 * [angular-slickgrid](https://github.com/ghiscoding/Angular-Slickgrid) - A wrapper of the lightning fast & customizable [SlickGrid](https://github.com/mleibman/SlickGrid) datagrid. It also includes multiple styling themes.
 * [revogrid](https://github.com/revolist/revogrid) - Powerful virtual data grid smartsheet with advanced customization. Best features from Excel plus incredible performance.
 * [ZingGrid](https://www.zinggrid.com/docs/integrations/js-frameworks-&-libs/angular) - [ZingGrid](https://github.com/ZingGrid/zinggrid) is a JavaScript Web Component Library that allows developers to include interactive data tables in their web applications. The library can also be used in popular frameworks such as React, Angular, Vue, jQuery, and many more!
+* [ngx-panemu-table](https://github.com/panemu/ngx-panemu-table) - An Angular table component. It is designed to be easy to use. Most work will be in TypeScript file, while the HTML file only needs to have a very simple `panemu-table` tag.
 
 #### Dates
 
