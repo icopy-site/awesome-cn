@@ -34,6 +34,7 @@
 - [Fractal](https://flathub.org/apps/org.gnome.Fractal) - Matrix client.
 - [Dino](https://dino.im) - XMPP Client.
 - [Dissent](https://flathub.org/apps/so.libdb.dissent) - Third-party Discord client prioritasing speed over feature completeness (with user theming through CSS).
+- [Tuba](https://apps.gnome.org/Tuba) - Client for federated social networks (Mastodon, GoToSocial, Akkoma). ![GNOME Circle][GNOME Circle]
 
 ### Office
 

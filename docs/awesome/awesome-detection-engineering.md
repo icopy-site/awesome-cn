@@ -21,6 +21,7 @@ All contributions are welcome, please carefully review the [contributing guideli
 - [Blue-team-as-Code - the Spiral of Joy | Den Iuzvyk, Oleg Kolesnikov](https://sansorg.egnyte.com/dl/KTc16ldiqv) - Blue-Team-as-Code: Lessons From Real-world Red Team Detection Automation Using Logs.
 - [Detection Development Lifecycle | Haider Dost et al.](https://medium.com/snowflake/detection-development-lifecycle-af166fffb3bc) - Snowflake’s implementation of the Detection Development Lifecycle.
 - [Threat Detection Maturity Framework | Haider Dost of Snowflake](https://medium.com/snowflake/threat-detection-maturity-framework-23bbb74db2bc) - A maturity matrix to measure the success of your threat detection program.
+- [Elastic's Detection Engineering Behavior Maturity Model](https://www.elastic.co/security-labs/elastic-releases-debmm) - Elastic's qualitative and quantitative approach to measuring threat detection program maturity.
 
 
 - [MITRE Cyber Analytics Repository (CAR)](https://car.mitre.org) - MITRE's well-maintained repository of detection content.
