@@ -28,11 +28,6 @@
 		<sup>Special thanks to:</sup>
 		<br>
 		<br>
-		<a href="https://standardresume.co/tech">
-			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="160"/>
-		</a>
-		<br>
-		<br>
 		<a href="https://workos.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome&utm_source=github">
 			<div>
 				<img src="https://sindresorhus.com/assets/thanks/workos-logo-white-bg.svg" width="200" alt="WorkOS">
@@ -110,20 +105,6 @@
 <br>
 
 
-
-<br>
-<hr>
-<br>
-<br>
-<div align="center">
-	<a href="https://app.codecrafters.io/join?via=sindre">
-		<img src="https://raw.githubusercontent.com/sindresorhus/awesome/assets/170270/ddb75194-c7e3-4720-861e-37d3b0394f0f" width="900">
-	</a>
-</div>
-<br>
-<br>
-<hr>
-<br>
 
 ## Platforms
 

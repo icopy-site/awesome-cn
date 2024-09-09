@@ -161,6 +161,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 - [HIFLD](https://hifld-geoplatform.opendata.arcgis.com/) - This site provides National foundation-level geospatial data within the open public domain that can be useful to support community preparedness, resiliency, research, and more.
 - [RAPT](https://rapt-fema.hub.arcgis.com/pages/data) - The Resilience Analysis & Planning Tool (RAPT) gives everyone easy access to important community data and analysis tools related to community resilience. The community resilience indicators in the RAPT were pulled from the Community Resilience Indicator Analysis (CRIA).
 - [Adaptation Clearinghouse](https://www.adaptationclearinghouse.org/) - Maintained by Georgetown's Climate Center, this is an extensive online database and networking site that serves policymakers and others who are working to help communities adapt to climate change.
+- [Extreme Heat Data Pathfinder](https://www.earthdata.nasa.gov/learn/pathfinders/disasters/extreme-heat-data-pathfinder) - A central repository hosting multiple datasets guiding users to relevant near-real-time data for extreme heat analysis and visualization based on NASA's remotely sensed data.
 
 
 ### Transportation
