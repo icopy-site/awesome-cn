@@ -1271,7 +1271,7 @@ English-language description for use by biologists.
 #### Science Education
 
 
-* [PersLEARN: Research Training through the Lens of Perspective Cultivation](https://aclanthology.org/2023.acl-demo.2/) - ***ACL'23***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=6242389165210232890)]. Scientific research is inherently shaped by its authors’ perspectives, influenced by various factorssuch as their personality, community, or society. Junior researchers often face challenges in identifying the perspectives reflected in the existing literature and struggle to develop their own viewpoints. To address the problem, this paper introduces PersLEARN, a tool designed to facilitate the cultivation of scientific perspectives, starting from a basic seed idea and progressing to a well-articulated framework.
+* [PersLEARN: Research Training through the Lens of Perspective Cultivation](https://aclanthology.org/2023.acl-demo.2/) - ***ACL'23***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=6242389165210232890)]. Scientific research is inherently shaped by its authors’ perspectives, influenced by various factors such as their personality, community, or society. Junior researchers often face challenges in identifying the perspectives reflected in the existing literature and struggle to develop their own viewpoints. To address the problem, this paper introduces PersLEARN, a tool designed to facilitate the cultivation of scientific perspectives, starting from a basic seed idea and progressing to a well-articulated framework.
 
 
 #### Democratization of Science
