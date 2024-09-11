@@ -76,6 +76,8 @@ All resources are freely available except those with a 💲 icon.
 * [CopyPasteMathjax](https://www.copypastemathjax.com/)
 * [Finance calculators](https://www.financecharts.com/pages/5724-retirement-calculators-and-stock-market-tips)
 * [Mathcheap](https://mathcheap.xyz)
+* [Midpoint Calculator](https://midpointcalculator.co)
+* [Quartiles Calculator](https://quartilecalculator.net)
 
 ## Questions and Answers
 
@@ -119,6 +121,12 @@ All resources are freely available except those with a 💲 icon.
 * [3blue1brown](https://www.3blue1brown.com/) - Animated Maths
 * [Mathsisfun](https://www.mathsisfun.com) simple text lightweight site for students up to highschool
 * [MathematicsIsAScience](https://calculus123.com/wiki/Peter_Saveliev) - Peter Saveliev (Professor of mathematics at Marshall University, Huntington WV, USA)
+
+## Meetings and Conferences
+
+* [MathsJam](https://mathsjam.com/) - monthly local recreational maths/puzzle meetups and an annual gathering in Staffordshire, England
+* [Talking Maths in Public](https://talkingmathsinpublic.uk/) - a conference for maths communicators, running every two years, usually in the UK
+* [Bridges](https://www.bridgesmathart.org/) - an annual conference on mathematical connections in art, music, architecture, and culture. The 2025 meeting is in Eindhoven, Netherlands.
 
 ## Misc
 * [Areas of mathematics on Wikipedia](https://en.wikipedia.org/wiki/Areas_of_mathematics)

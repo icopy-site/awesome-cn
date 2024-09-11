@@ -362,7 +362,7 @@
 	* SFML 2 - [bindbc-sfml](https://github.com/BindBC/bindbc-sfml)
 	* Imgui - immediate UI - [bindbc-imgui](https://github.com/Inochi2D/bindbc-imgui)
 	* Nuklear - immediate UI - [bindbc-nuklear](https://github.com/Timu5/bindbc-nuklear)
-	* raylib - [bindbc-raylib](https://github.com/o3o/bindbc-raylib)
+	* raylib3 - [bindbc-raylib3](https://github.com/o3o/bindbc-raylib3)
 	* bgfx - [bindbc-bgfx](https://github.com/GoaLitiuM/bindbc-bgfx)
 	* WebGPU - [bindbc-wgpu](https://github.com/gecko0307/bindbc-wgpu)
 	* Zstandard - compression - [bindbc-zstandard](https://github.com/ZILtoid1991/bindbc-zstandard)
