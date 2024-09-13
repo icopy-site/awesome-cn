@@ -28,7 +28,7 @@ platform.
 - [Turbo C 2.01](http://www.doshaven.eu/wp-content/uploads/2014/08/tc201.zip) - C IDE and compiler from Borland first released in 1987.
 - [Turbo C++ 1.01](http://www.doshaven.eu/wp-content/uploads/2014/08/tcpp101.zip) - C++ IDE and compiler from Borland released in 1991.
 - [Turbo C++ 3.0](https://archive.org/details/tcc_20210425) - C++ IDE and compiler from Borland released in 1992.
-  - [Online version.](https://sounddrill31.github.io/TurboCPP-Web/)
+  - [Online version.](https://turboc.pages.dev/)
 - [DIV Games Studio 2](https://archive.org/details/div2_iso) - IDE to develop DOS games in 2d, mode 7 and 3d. Released in 1998.
   - [Online version.](http://js.mikedx.co.uk/DIV1.html)
 - [T3X](https://t3x.org/t3x/#t3x7) - A small, portable, procedural, block-structured, recursive, almost typeless, and to some degree object-oriented programming language by Nils M. Holm.
