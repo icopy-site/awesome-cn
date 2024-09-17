@@ -752,6 +752,7 @@ become an Angular expert.
 * [Foblex](https://flow.foblex.com/) - Angular Powered Flow-Chart Library.
 * [zingchart-angular](https://github.com/zingchart/zingchart-angular) - [ZingChart](https://www.zingchart.com/) is a declarative, efficient, and simple JavaScript library for building responsive charts.
 * [unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
+* [angular-google-charts](https://github.com/FERNman/angular-google-charts) - A wrapper for the Google Charts library written in Angular.
 
 #### Data Grids
 
@@ -893,6 +894,8 @@ become an Angular expert.
 * [angular-iban](https://github.com/fundsaccess/angular-iban) - IBAN directives and pipes for Angular.
 * [ngx-autosize-input](https://github.com/joshuawwright/ngx-autosize-input) - An Angular directive that automatically adjusts the width of an input element. It shrinks and increases the width.
 * [angular-cc-library](https://github.com/timofei-iatsenko/angular-cc-library) - Library to support Credit Card input masking and validation.
+* [ngx-ui-switch](https://github.com/webcat12345/ngx-ui-switch) - A simple iOS 7 style switch component for Angular.
+* [olt-ngx-ui-switch](https://github.com/OuterlimitsTech/olt-ngx-ui-switch) - NGX UI Switch (Forked) to latest version of Angular.
 
 ##### Validation
 
