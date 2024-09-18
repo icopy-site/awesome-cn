@@ -5,11 +5,12 @@ Bluetooth Low Energy (BLE): Low-power wireless communication protocol enabling e
 
 A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](https://withintent.com).
 
-![](https://img.shields.io/badge/Contents-43-green) ![](https://img.shields.io/github/last-commit/dotintent/awesome-ble/main)
+![](https://img.shields.io/github/last-commit/dotintent/awesome-ble/main)
 
 
 
 ## Documentation
+
 _Official specifications, standards, and technical documentation about the Bluetooth Low Energy (BLE) protocol._
 
 - [Android Bluetooth Low Energy](https://developer.android.com/guide/topics/connectivity/bluetooth/ble-overview) - Overview about BLE in Android.
@@ -23,6 +24,7 @@ _Official specifications, standards, and technical documentation about the Bluet
 - [Wikipedia Bluetooth Low Energy](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy) - The wiki page for Bluetooth Low Energy (BLE).
 
 ## Library
+
 _Software libraries and frameworks for integrating Bluetooth Low Energy (BLE) functionality into various platforms, including mobile, embedded systems, and IoT devices._
 
 - [bluepy](https://github.com/IanHarvey/bluepy) - A Python interface for Bluetooth LE on Linux.
@@ -31,6 +33,7 @@ _Software libraries and frameworks for integrating Bluetooth Low Energy (BLE) fu
 - [SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - The all-in-one C/C++/Python/Rust Bluetooth LE library for MacOS, iOS, Windows, and Linux.
 
 ## iOS
+
 _iOS libraries, tools, and resources for developing Bluetooth Low Energy (BLE) applications on Apple devices._
 
 - [AsyncBluetooth](https://github.com/manolofdez/AsyncBluetooth) - A small library that adds concurrency to CoreBluetooth APIs.
@@ -40,12 +43,14 @@ _iOS libraries, tools, and resources for developing Bluetooth Low Energy (BLE) a
 - [Swifty Sensors](https://github.com/codeinversion/sensors-swift) - Bluetooth LE Sensor Manager for iOS and macOS.
 
 ## KMM
+
 _Resources and libraries for building Bluetooth Low Energy (BLE) applications using the Kotlin Multiplatform Mobile (KMM) framework._
 
 - [BlueFalcon](https://github.com/Reedyuk/blue-falcon) - A Bluetooth kotlin multiplatform "Cross-Platform" library for iOS and Android.
 - [Kable](https://github.com/JuulLabs/kable) - Kotlin Asynchronous Bluetooth Low Energy provides a simple Coroutines-powered API for interacting with Bluetooth Low Energy devices.
 
 ## Android
+
 _Android libraries, tools, and resources for integrating Bluetooth Low Energy (BLE) functionality into Android applications._
 
 - [Android BluetoothGatt Sample](https://github.com/android/connectivity-samples/tree/main/BluetoothLeGatt) - An example application demonstrating how to use BluetoothGatt API on Android.
@@ -56,23 +61,31 @@ _Android libraries, tools, and resources for integrating Bluetooth Low Energy (B
 - [SmartGattLib](https://github.com/movisens/SmartGattLib) - SmartGattLib is a Java library that simplifies the work with Bluetooth SMART devices (a.k.a. Bluetooth Low Energy in Bluetooth 4.0). It provides all UUIDs of the adopted GATT specification and an convenient way to interpret the characteristics (e.g. Heart Rate, BatteryLevel).
 
 ## Flutter
+
 _Flutter libraries, tools, and resources for developing Bluetooth Low Energy (BLE) applications using the Flutter framework for both iOS and Android._
 
 - [Flutter Blue Plus](https://github.com/boskokg/flutter_blue_plus) - Flutter Blue Plus is a bluetooth plugin for Flutter, a new app SDK to help developers build modern multi-platform apps.
 - [Flutter Reactive BLE](https://github.com/PhilipsHue/flutter_reactive_ble) - Flutter Reactive BLE is a Flutter library that handles BLE operations for multiple devices.
 
 ## Tool
+
 _Development and testing tools for Bluetooth Low Energy (BLE) applications, including analyzers, debuggers, and simulators._
 
 - [Bettercap](https://github.com/bettercap/bettercap) - A easily extensible and portable framework for security researchers to test BLE security.
 - [nRF Connect](https://github.com/NordicSemiconductor/pc-nrfconnect-core) - An application framework for developing, testing, and provisioning devices based on Nordic Semiconductor chips.
 
 ## Web
+
 _Web-based resources, frameworks, and tools for building Bluetooth Low Energy (BLE) applications using JavaScript and web technologies._
 
 - [Web Bluetooth Device Info](https://github.com/urish/web-bluetooth-device-info) - Web Bluetooth demo to get information about a connected Bluetooth device.
 - [Web Bluetooth Samples](https://github.com/WebBluetoothCG/demos) - A collection of Web Bluetooth API usage examples.
 
+## Security
+
+_Security related resources around BLE._
+
+- [Awesome Bluetooth Security](https://github.com/engn33r/awesome-bluetooth-security) - An awesome repo related to Bluetooth (and also BLE) realted security
 
 ## Contributing
 

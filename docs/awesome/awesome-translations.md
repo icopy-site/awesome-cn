@@ -126,6 +126,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 ### Machine translation
 - [Approaches to Machine Translation](http://engineering.fuoye.edu.ng/journal/index.php/engineer/article/view/26/pdf) - A paper-review on different techniques for machine translation.
 - [Neural Machine Translation](https://jair.org/index.php/jair/article/view/12007/26611) - A paper-review that trace back the origins of modern NMT architectures to word and sentence embeddings and earlier examples of the encoder-decoder network family. It will conclude with a short survey of more recent trends in the field.
+- [Awesome New Languages in Machine Translation](https://github.com/slone-nlp/awesome-new-languages-in-machine-translation) - A list of initiatives for supporting MT (mostly with opensource models) for new languages (mostly lower-resourced ones).
 
 ## Blogs
 

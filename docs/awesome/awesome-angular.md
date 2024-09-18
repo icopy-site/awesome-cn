@@ -183,6 +183,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [This is Angular](https://dev.to/this-is-angular)
 * [daily.dev](https://app.daily.dev/tags/angular)
 * [qupaya](https://qupaya.com/blog/)
+* [Offering Solutions](https://offering.solutions/blog/)
 
 ##### Books
 
@@ -245,6 +246,7 @@ become an Angular expert.
 * [Simplified Courses](https://www.simplified.courses/angular-training) - Angular Training by Expert Brecht Billiet!
 * [Marmicode](https://www.eventbrite.fr/o/younes-jaaidi-marmicode-29329031085)
 * [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2)
+* [Offering Solutions](https://offering.solutions/trainings/)
 
 ##### On-Site Training
 
@@ -253,6 +255,7 @@ become an Angular expert.
 * [Angular.DE (Germany)](https://angular.de/schulungen/angular-intensiv/)
 * [Workshops.DE (Germany)](https://workshops.de/seminare-schulungen-kurse/angular-typescript/)
 * [Simplified Courses](https://www.simplified.courses/angular-training) - Angular Training by Expert Brecht Billiet!
+* [Offering Solutions](https://offering.solutions/trainings/)
 
 ##### YouTube Channels
 
@@ -565,6 +568,7 @@ become an Angular expert.
 * [angular-prerender](https://github.com/chrisguttandin/angular-prerender) - A command line tool to prerender Angular Apps.
 * [analogjs](https://analogjs.org/) - Fullstack Angular meta-framework supports both server-side rendering (SSR) and static site generation (SSG) of Angular applications.
 * [ngx-ssr-code-remover](https://github.com/xsip/ngx-ssr-code-remover) - Post processor to remove SSR Code from bundles when served.
+* [treaty](https://github.com/treatyjs/treaty) - The meta framework for Angular. An alternative to Analog.
 
 #### Site Templates
 
@@ -896,6 +900,7 @@ become an Angular expert.
 * [angular-cc-library](https://github.com/timofei-iatsenko/angular-cc-library) - Library to support Credit Card input masking and validation.
 * [ngx-ui-switch](https://github.com/webcat12345/ngx-ui-switch) - A simple iOS 7 style switch component for Angular.
 * [olt-ngx-ui-switch](https://github.com/OuterlimitsTech/olt-ngx-ui-switch) - NGX UI Switch (Forked) to latest version of Angular.
+* [auto-complete](https://github.com/ng2-ui/auto-complete) - Angular Auto Complete component and directive.
 
 ##### Validation
 
@@ -1200,6 +1205,7 @@ for the creation of web applications developed with Angular.
 * [Tailkit UI](https://tailkit.com/) - Carefully crafted, easy to customize, fully responsive Tailwind CSS Components, Templates and Tools for your Tailwind CSS based projects.
 * [Preline UI](https://preline.co/docs/frameworks-angular.html#docs-on-this-page-sidebar) - [Preline](https://github.com/htmlstreamofficial/preline) is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 * [ngxtw](https://github.com/William-Mba/ngxtw) - Tailwind CSS components for Angular Enterprise Applications. Super easy to use and customize.
+* [Metronic](https://keenthemes.com/metronic/tailwind/docs/getting-started/integration/angular) - A comprehensive toolkit of UI components built with Tailwind CSS, enabling you to create modern, scalable web applications quickly and efficiently.
 
 ##### Node Based
 
