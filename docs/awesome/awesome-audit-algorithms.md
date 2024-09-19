@@ -115,5 +115,12 @@ ranking and review recommendation systems, with demographic parity, exposure, an
 - [Adversarial Learning](https://dl.acm.org/citation.cfm?id=1081950) - (KDD) *Reverse engineering of remote linear classifiers, using membership queries.*
 
 ## Related Events
+
+### 2024
+* [1st International Conference on Auditing and Artificial Intelligence](https://www.ircg.msm.uni-due.de/ai/)
+* [Regulatable ML Workshop (RegML'24)](https://regulatableml.github.io/)
+
+### 2023
+* [Supporting User Engagement in Testing, Auditing, and Contesting AI (CSCW User AI Auditing)](https://cscw-user-ai-auditing.github.io/)
 * [Workshop on Algorithmic Audits of Algorithms (WAAA)](https://algorithmic-audits.github.io)
 * [Regulatable ML Workshop (RegML'23)](https://regulatableml.github.io/)

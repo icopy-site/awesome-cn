@@ -441,6 +441,10 @@ become an Angular expert.
 
 #### Generators
 
+##### Go
+
+* [goxygen](https://github.com/Shpota/goxygen) - Goxygen generates back-end Go code, connects it with front-end components, provides a Dockerfile for the application, and creates docker-compose files that run in development and production environments.
+
 ##### NET
 
 * [abp](https://github.com/abpframework/abp) - Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET.
@@ -1173,6 +1177,7 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [ng-vcl](https://github.com/vcl/ng-vcl) - Angular VCL ‒ an Angular component library based on the [VCL](https://vcl.github.io) CSS eco system.
 * [ngx-ui](https://ngxui.com/docs) - NGXUI from [Omnedia](https://github.com/omnedia) is a collection of standalone components that you can simply install and use in your Angular projects. It primarily features components, blocks, and templates geared towards creating landing pages and user-facing marketing materials.
 * [po-angular](https://github.com/po-ui/po-angular) - Component library based on Angular. Documentation in Portuguese.
+* [pastanaga-angular](https://github.com/plone/pastanaga-angular) - An Angular implementation of Pastanaga design system offering a set of re-usable UI components which are covering typical needs of any web application. It is maintained by [Plone](http://plone.org/) and [Guillotina](http://guillotina.io/) communities.
 
 ##### Material Based
 
@@ -1206,6 +1211,8 @@ for the creation of web applications developed with Angular.
 * [Preline UI](https://preline.co/docs/frameworks-angular.html#docs-on-this-page-sidebar) - [Preline](https://github.com/htmlstreamofficial/preline) is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
 * [ngxtw](https://github.com/William-Mba/ngxtw) - Tailwind CSS components for Angular Enterprise Applications. Super easy to use and customize.
 * [Metronic](https://keenthemes.com/metronic/tailwind/docs/getting-started/integration/angular) - A comprehensive toolkit of UI components built with Tailwind CSS, enabling you to create modern, scalable web applications quickly and efficiently.
+* [Rectangle UI](https://github.com/jarretthuang/rectangle-ui) - A code-first UI component library for Angular.
+* [Mamba UI](https://github.com/Microwawe/mamba-ui) - A free and open-sourced UI kit with 150+ Tailwind CSS components and templates.
 
 ##### Node Based
 
