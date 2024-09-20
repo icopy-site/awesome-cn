@@ -457,6 +457,7 @@ become an Angular expert.
 * [workik](https://workik.com/angular-code-generator) - AI Angular code generator that supports all Angular frameworks and libraries.
 * [generator-jhipster-ionic](https://github.com/jhipster/generator-jhipster-ionic) - You can use it to generate an Ionic app that talks to a JHipster backend.
 * [create-tauri-app](https://github.com/tauri-apps/create-tauri-app) - Rapidly scaffold out a new Tauri app project.
+* [skulljs](https://skulljs.github.io/) - Skulljs aims to give a standardized file structure to create web applications based on popular Javascript / Typescript frameworks.
 
 ##### Spring Boot
 
@@ -470,6 +471,7 @@ become an Angular expert.
 * [graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
 * [hasura](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
 * [tailcall](https://tailcall.run/blog/graphql-angular-client/) - This comprehensive guide dives into five powerful approaches for integrating GraphQL into your Angular applications.
+* [apollo-orbit](https://github.com/wassim-k/apollo-orbit) - A fully-featured GraphQL client for Angular with modular state management.
 
 #### HTTP
 
@@ -1023,6 +1025,15 @@ Angular 7+ Validator, a library handle validation messages easy and automatic.
 * [angular-markdown-editor](https://github.com/ghiscoding/angular-markdown-editor) - Angular Markdown Editor. All-in-one Markdown Editor and Preview.
 * [ngx-markdoc](https://github.com/notiz-dev/ngx-markdoc) - [Markdoc](https://markdoc.dev) component for Angular applications.
 
+#### Media
+
+* [angular-audio-context](https://github.com/chrisguttandin/angular-audio-context) - An Angular wrapper for the Web Audio API's AudioContext.
+* [silicon-audio-wave](https://github.com/joldibaev/silicon-audio-wave) - Very simple audio wave system from Silicon.
+* [ngx-plyr](https://github.com/atom-platform/ngx-plyr) - Angular 17+ bindings for [plyr](https://github.com/sampotts/plyr) video and audio player. Supports everything that original library supports.
+* [byteark-player-angular](https://github.com/byteark/byteark-player-angular) - Player Container from [ByteArk](https://www.byteark.com/).
+* [Vidstack](https://github.com/vidstack/player) - A framework and collection of UI components for building and managing custom media players on the web. You can use this library to build your own player (see our examples), or use our production-ready Default Layout and customize it to match your brand and site. See this [installation guide](https://www.vidstack.io/docs/player/getting-started/installation/angular?styling=default-layout&provider=video).
+* [dyte-io/ui-kit](https://github.com/dyte-io/ui-kit) - Dyte's UI library for creating meeting interfaces.
+
 #### Mixed utilities
 
 * [rx-angular](https://github.com/rx-angular/rx-angular) - RxAngular offers a toolkit for handling fully reactive apps with the main focus on runtime performance, template rendering, and developer experience.
@@ -1259,7 +1270,6 @@ for the creation of web applications developed with Angular.
 * [ngx-csv-parser](https://github.com/tofiqquadri/ngx-csv-parser) - CSV Parser for Angular by Developers Hive.
 * [angular-tag-cloud-module](https://github.com/d-koppenhagen/angular-tag-cloud-module) - With this module, you can generate word clouds / tag clouds.
 * [ngx-lipsum](https://github.com/d-koppenhagen/ngx-lipsum) - Easily use lorem-ipsum dummy texts in your angular app as directive, component or by using a service.
-* [angular-audio-context](https://github.com/chrisguttandin/angular-audio-context) - An Angular wrapper for the Web Audio API's AudioContext.
 * [ngx-parallax-stars](https://github.com/DerStimmler/ngx-parallax-stars) - Angular library to create beautiful stars with parallax effect.
 * [angular-twitter-timeline](https://github.com/mustafaer/angular-twitter-timeline) - Angular Public Twitter Timeline Widget.
 * [ng-parsel](https://github.com/angular-experts-io/ng-parsel) - Parse your Angular code base to JSON abstraction - Great for displaying APIs and running custom analysis.
