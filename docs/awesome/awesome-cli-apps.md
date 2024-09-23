@@ -23,8 +23,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Entertainment
 
-- [football-cli](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league.
-- [pockyt](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 - [newsboat](https://github.com/newsboat/newsboat) - An extendable RSS feed reader for text terminals.
 
 ### Music
@@ -43,15 +41,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [swaglyrics-for-spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
 - [dzr](https://github.com/yne/dzr) - deezer.com player.
 - [radio-active](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
-
-### Social Media
-
-- [facebook-cli](https://github.com/specious/facebook-cli) - Facebook command line interface.
-- [Rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on the terminal.
-- [tuir](https://gitlab.com/ajak/tuir) - Reddit TUI.
-- [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
-- [irssi](https://github.com/irssi/irssi) - IRC chat client.
-- [kirc](https://github.com/mcpcpc/kirc) - Tiny IRC client.
+- [mpvc](https://github.com/gmt4/mpvc) - Music player interfacing mpv.
 
 ### Video
 
@@ -79,6 +69,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Bible.Js CLI](https://github.com/BibleJS/BibleApp) - Bible.
 - [SpeedRead](https://github.com/sunsations/speed_read) - Spritz-alike speedreader.
 - [medium-cli](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories.
+
+### Chat
+
+- [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
+- [irssi](https://github.com/irssi/irssi) - IRC chat client.
+- [kirc](https://github.com/mcpcpc/kirc) - Tiny IRC client.
 
 ## Development
 

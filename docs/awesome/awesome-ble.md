@@ -1,6 +1,8 @@
 <div class="github-widget" data-repo="dotintent/awesome-ble"></div>
 ## Awesome BLE [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+![](https://raw.githubusercontent.com/dotintent/awesome-ble/master/.github/awesome-ble.png)
+
 Bluetooth Low Energy (BLE): Low-power wireless communication protocol enabling efficient data exchange between devices, ideal for IoT, wearables, and other battery-powered applications.
 
 A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](https://withintent.com).
@@ -29,6 +31,7 @@ _Software libraries and frameworks for integrating Bluetooth Low Energy (BLE) fu
 
 - [bluepy](https://github.com/IanHarvey/bluepy) - A Python interface for Bluetooth LE on Linux.
 - [bluez](http://www.bluez.org/) - The official Linux Bluetooth protocol stack.
+- [bumble](https://github.com/google/bumble) - Bumble is a full-featured Bluetooth stack written entirely in Python.
 - [pygatt](https://github.com/peplin/pygatt) - A Python library for interacting with BLE devices.
 - [SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - The all-in-one C/C++/Python/Rust Bluetooth LE library for MacOS, iOS, Windows, and Linux.
 

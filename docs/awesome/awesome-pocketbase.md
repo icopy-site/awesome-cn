@@ -69,6 +69,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [Fly.io](https://github.com/pocketbase/pocketbase/discussions/537) - Guide to deploy for free in Fly.io.
 - [LocalXpose](https://localxpose.io/docs/tutorials/expose-pocketbase-backend) - Allow public access to a localhost instance.
 - [PocketBase Docker](https://github.com/kdpuvvadi/pocketbase) - Docker images supporting multiple architectures and updated with latest PocketBase releases.
+- [PocketBase on Dokku](https://github.com/blockshiftnetwork/dokku-pocketbase) - Deploy PocketBase instances on Dokku effortlessly. 
 
 ## Native Go Plugins
 
