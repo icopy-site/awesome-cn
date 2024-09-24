@@ -47,6 +47,7 @@ Biological image analysis aims to increase our understanding of biology through 
 - [MicroSAM](https://github.com/computational-cell-analytics/micro-sam) - Tools for segmentation and tracking in microscopy build on top of SegmentAnything. Segment and track objects in microscopy images interactively.
 - [MorpholibJ](https://github.com/ijpb/MorphoLibJ) - Collection of mathematical morphology methods and plugins for ImageJ.
 - [PartSeg](https://github.com/4DNucleome/PartSeg) - A GUI and a library for segmentation algorithms.
+- [Proseg](https://github.com/dcjones/proseg) : A cell segmentation method for in situ spatial transcriptomics.
 - [PyImSegm](https://github.com/Borda/pyImSegm) - Image segmentation - general superpixel segmentation and center detection and region growing.
 - [Salem²](https://github.com/JackieZhai/SALEM2) - Segment Anything in Light and Electron Microscopy via Membrane Guidance.
 - [Squidpy](https://github.com/scverse/squidpy) - Python framework that brings together tools from omics and image analysis to enable scalable description of spatial molecular data, such as transcriptome or multivariate proteins.

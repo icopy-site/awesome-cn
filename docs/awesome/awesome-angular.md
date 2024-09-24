@@ -247,6 +247,7 @@ become an Angular expert.
 * [Marmicode](https://www.eventbrite.fr/o/younes-jaaidi-marmicode-29329031085)
 * [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2)
 * [Offering Solutions](https://offering.solutions/trainings/)
+* [liveloveapp](https://liveloveapp.com/) - Workshops are available for Cypress, NgRx, RxJS, AG Grid and web performance.
 
 ##### On-Site Training
 
@@ -256,6 +257,7 @@ become an Angular expert.
 * [Workshops.DE (Germany)](https://workshops.de/seminare-schulungen-kurse/angular-typescript/)
 * [Simplified Courses](https://www.simplified.courses/angular-training) - Angular Training by Expert Brecht Billiet!
 * [Offering Solutions](https://offering.solutions/trainings/)
+* [liveloveapp](https://liveloveapp.com/) - Workshops are available for Cypress, NgRx, RxJS, AG Grid and web performance.
 
 ##### YouTube Channels
 
@@ -292,6 +294,7 @@ become an Angular expert.
 * [StartupAngular](https://www.youtube.com/@StartupAngular) - (Japanese)
 * [The Code Angle](https://www.youtube.com/@TheCodeAngle)
 * [Brian Treese](https://www.youtube.com/@briantreese)
+* [Ben And Engineering](https://www.youtube.com/@the__b_a_e)
 
 ##### Style Guides
 
