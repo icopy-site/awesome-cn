@@ -9,7 +9,6 @@ Looking for third-party programming language support in Godot?
 See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 
-  - [XR] (#xr)
 
 ## Games
 
@@ -69,11 +68,11 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 #### Godot 4.3
 
+- [LibreAim](https://github.com/Nokorpo/LibreAim) - Libre FPS aim trainer made with Godot.
 - [OpenLiberty](https://github.com/FOSS-Supremacy/OpenLiberty) - An open-source reimplementation of Grand Theft Auto III on the Godot Engine.
 
 #### Godot 4.2
 
-- [LibreAim](https://github.com/Nokorpo/LibreAim) - Libre FPS aim trainer made with Godot.
 - [Reia](https://github.com/Quaint-Studios/Reia) - A free game that's an action adventure RPG for Desktop and Mobile with multiplayer, MMO, and offline support.
 
 #### Godot 3.2+

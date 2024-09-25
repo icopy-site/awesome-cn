@@ -1354,7 +1354,7 @@ English-language description for use by biologists.
 
 * [ChipNeMo: Domain-Adapted LLMs for Chip Design](https://arxiv.org/abs/2311.00176) - 2023. [[All Versions](https://scholar.google.com/scholar?cluster=5962372610489019326)].
 
-* [Single-atom alloy catalysts designed by first-principles calculations and artificial intelligence](https://www.nature.com/articles/s41467-021-22048-9) - ***Nature Communications***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=6593978922251447907&hl=en&as_sdt=0,5)].
+* [Single-atom alloy catalysts designed by first-principles calculations and artificial intelligence](https://www.nature.com/articles/s41467-021-22048-9) - ***Nature Communications***, 2021. [[All Versions](hhttps://scholar.google.com/scholar?cluster=6593978922251447907)]. This paper addresses the problem of new Single-atom-alloy catalysts (SAACs) discovery by applying a compressed-sensing data-analytics approach parameterized with density-functional inputs.
 
 * [Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences](https://www.pnas.org/doi/abs/10.1073/pnas.2016239118) - ***Proceedings of the National Academy of Sciences***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15181490380139888639&hl=en&as_sdt=0,5)].
 

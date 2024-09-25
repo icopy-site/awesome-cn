@@ -25,6 +25,13 @@ _Official specifications, standards, and technical documentation about the Bluet
 - [RN4870/71 Bluetooth Low Energy Module User's Guide](https://www.microchip.com/wwwproducts/en/RN4870) - User's guide for the RN4870/71 Bluetooth Low Energy module by Microchip.
 - [Wikipedia Bluetooth Low Energy](https://en.wikipedia.org/wiki/Bluetooth_Low_Energy) - The wiki page for Bluetooth Low Energy (BLE).
 
+## Framework
+
+_Framework useful to develop your BLE peripherals._
+
+- [Matter](https://github.com/project-chip/connectedhomeip) - Matter
+- [ESP-IDF](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework
+
 ## Library
 
 _Software libraries and frameworks for integrating Bluetooth Low Energy (BLE) functionality into various platforms, including mobile, embedded systems, and IoT devices._
