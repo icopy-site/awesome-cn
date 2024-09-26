@@ -1,8 +1,7 @@
 <div class="github-widget" data-repo="CUTR-at-USF/awesome-transit"></div>
 ## awesome-transit [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![RSS](https://img.shields.io/badge/Subscribe-RSS-blue.svg)](https://github.com/CUTR-at-USF/awesome-transit/commits/master.atom)
 
-##### Community list of transit APIs, apps, datasets, research, and software
-:bus::star2::train::star2::steam_locomotive:
+##### Community list of data standards, APIs, apps, tools, datasets, and research around open source technology of public transit.
 
 Have something to add or change? Open a [pull request](https://github.com/MobilityData/awesome-transit/pulls) or [issue](https://github.com/MobilityData/awesome-transit/issues) at [MobilityData/awesome-transit](https://github.com/MobilityData/awesome-transit).
 
@@ -10,19 +9,32 @@ Have something to add or change? Open a [pull request](https://github.com/Mobili
 
 
 
-### Reference resources
+### GTFS Reference resources
 
-- [GTFS.org](https://gtfs.org) official documentation site for the General Transit Feed Specification. Includes additional GTFS resources.
-- [Google Transit Developers](https://developers.google.com/transit/gtfs/) additional Google-specific documentation of GTFS.
-- [World Bank: Intro. to GTFS](https://olc.worldbank.org/content/introduction-general-transit-feed-specification-gtfs-and-informal-transit-system-mapping) free, online, self-paced course for learning about GTFS and GTFS Realtime.
-- [MBTA GTFS Onboarding](https://mybinder.org/v2/gh/mbta/gtfs_onboarding/main?urlpath=lab/tree/GTFS_Onboarding.ipynb) an interactive tutorial created by MBTA for GTFS static. A [stand-alone Docker image](https://github.com/mbta/gtfs_onboarding) is available on GitHub as well as a [hosted/no-install version](https://mybinder.org/v2/gh/mbta/gtfs_onboarding/main?urlpath=lab/tree/GTFS_Onboarding.ipynb) of the Jupyter notebook.
-- [TransitWiki](http://transitwiki.org) community wiki for transit planners. Like this repo, but better.
+- [GTFS.org](https://gtfs.org) official documentation site for the General Transit Feed Specification.
+
+#### Courses
+
+- [MobilityData - "Understanding GTFS: An intro and overivew](https://www.youtube.com/watch?v=SDz2460AjNo) - Video provides an overview of of the General Transit Feed Specification (GTFS) and why it is useful for transit agencies, riders, and policymakers. 
+- [World Bank - "Intro. to GTFS" online course](https://olc.worldbank.org/content/introduction-general-transit-feed-specification-gtfs-and-informal-transit-system-mapping) - A free, online, self-paced course for learning about GTFS and GTFS-realtime.
+- [Open Transit Data Toolkit](http://transitdatatoolkit.com/) - A series of lessons to help people utilize open transit data.
+- [ArcGIS - Introduction to GTFS](https://www.youtube.com/watch?v=8OQKHhu1VgQ&t=148s)
+- [GTFS-books](https://github.com/MobilityData/GTFS-books) - Comprehensive guides to GTFS and GTFS Realtime. These books were written by [Quentin Zervaas](https://github.com/HendX), and have been donated to [MobilityData](https://mobilitydata.org/) and made open access.
+- [MBTA GTFS Onboarding](https://mybinder.org/v2/gh/mbta/gtfs_onboarding/main?urlpath=lab/tree/GTFS_Onboarding.ipynb) - An interactive tutorial created by MBTA for GTFS static. A [stand-alone Docker image](https://github.com/mbta/gtfs_onboarding) is available on GitHub as well as a [hosted/no-install version](https://mybinder.org/v2/gh/mbta/gtfs_onboarding/main?urlpath=lab/tree/GTFS_Onboarding.ipynb) of the Jupyter notebook.
+- [Planetizen "Building a Transit Map Web App" course](https://courses.planetizen.com/course/building-transit-map-app) - A video tutorial on setting up your own web-based mapping application, with no coding experience required. 
+
+#### Consumer app guidance
+
+- [Google Transit Developers](https://developers.google.com/transit/gtfs/) - Additional Google-specific documentation of GTFS.
+- [Transit app Guidelines for Producing GTFS Static Data](https://resources.transitapp.com/article/458-guidelines-for-producing-gtfs-static-data-for-transit) - Additional Transit app-specific documentation of GTFS.
+- [Bing Maps Transit - Add your transit data to Bing Maps](https://www.bing.com/maps/transitcontentproviders) - Additional Bing-specific documentation of GTFS.
+- [Yandex Maps - Transport integration](https://yandex.ru/support/m-maps/transport.html?lang=en#connect-display) - Additional Yandex-specific documentation of GTFS.
 
 ### Community
 
 Places to ask questions and find other community resources.
 
-- [MobilityData Slack chat](https://share.mobilitydata.org/slack)
+- [MobilityData Slack chat](https://share.mobilitydata.org/slack) - Chatroom that includes channels #gtfs, #gtfs-validators #mobility-database  #gtfs-realtime #gtfs_best-practices #gtfs-pathways #gtfs-fares #gtfs-flex #trb-transit-data.
 - [Transit Developers mailing list](https://groups.google.com/forum/#!forum/transit-developers)
 - [OpenTripPlanner](https://github.com/opentripplanner/OpenTripPlanner) Community
     - [OpenTripPlanner User mailing list](https://groups.google.com/forum/#!forum/opentripplanner-users)
@@ -35,8 +47,8 @@ Places to ask questions and find other community resources.
 - [Transitous](https://transitous.org) - Community-run free and open public transport routing service.
 
 #### Local and regional groups
-- [Transit Techies NYC](https://transittechies.nyc/) - NYC-based in-person/online hybrid meetup for those interested in this repo. [Speaker list](https://transittechies.nyc/past) includes many contributors to this repo.
-- [German Open Transport Meetup](https://github.com/transportkollektiv/meetup/wiki) - You can participate in a [biweekly](https://hackmd.okfn.de/opentransportmeetup#) online meetup of the German-speaking open transport community.
+- [Transit Techies NYC](https://transittechies.nyc/) - NYC-based in-person/online hybrid meetup. [Speaker list](https://transittechies.nyc/past) includes many contributors to this repo.
+- [German Open Transport Meetup](https://github.com/transportkollektiv/meetup/wiki) - [Biweekly](https://hackmd.okfn.de/opentransportmeetup#) online meetup of the German-speaking open transport community.
 - [German Open Transport Data Quality Meetup](https://github.com/transportkollektiv/meetup/wiki) - Bimonthly online meetup of the German-speaking open transport community dedicated to data quality.
 
 ### Data
@@ -343,6 +355,8 @@ Converters from various static schedule formats to and from GTFS.
 - [transit_model](https://github.com/hove-io/transit_model) - A Rust library to convert to/from the following formats: GTFS, NTFS (for Navitia, see [Software for Creating APIs](#software-for-creating-apis)), TransXChange ([UK standard format](http://naptan.dft.gov.uk/transxchange/documentation.htm)), KV1 ([Netherland standard format](http://bison.connekt.nl/standaarden/)) or NeTEx ([European standard format](http://netex-cen.eu/)).
 - [transloc-gtfs-rectifier](https://github.com/laidig/transloc-gtfs-rectifier) - Python application that attempts to assign GTFS stop_ids to [TransLoc](http://transloc.com/) IDs using [TransLoc's API](https://market.mashape.com/transloc/openapi-1-2) ([TransLoc](http://transloc.com/) doesn't provide GTFS `stop_ids` in their API).
 - [Transmodel and IFF to GTFS](https://github.com/bliksemlabs/bliksemintegration) - Imports and syncs (Transmodel) BISON Koppelvlak1, IFF (a format written by HP/EDS, somewhat similiar to ATCO CIF) to import timetables of the railway networks. The internal pseudo-NETeX datastructure allows to export to GTFS and there are proof-of-concepts to export to other formats such as NETeX, GTFS and IFF.
+- [Transporter-Project transxchange-to-gtfs](https://github.com/Transporter-Project/transxchange-to-gtfs) TransXChange to GTFS converter written in Objective-C.
+- [TXC TransXChange publisher (UK Department for Transport)](https://www.gov.uk/government/publications/transxchange-publisher) - The TXC TransXChange publisher is a standalone software tool that can be used to publish TransXChange compliant XML documents in a format that’s easy to read and print.
 - [UK2GTFS](https://itsleeds.github.io/UK2GTFS/) - R package that converts UK format TransXchange (bus, metro, tram, ferry) and CIF (rail) timetables to GTFS.
 
 #### GTFS Data Collection and Maintenance Tools
@@ -517,18 +531,9 @@ Massachusetts Bay Transportation Authority (MBTA)](https://github.com/mbta).
 - [Cal-ITP Operational Data Standard (ODS)](https://docs.calitp.org/operational-data-standard/) -  Intended to address the lack of a standard format for representing transit schedules used by drivers, dispatchers, and planners to carry out transit operations. 
 - [Transport Operator Mobility-as-a-service Provider (TOMP)-API](https://github.com/TOMP-WG/TOMP-API) - Working group in the Netherlands with a goal to develop an API for use by Transport Operators and Mobility-as-a-service Providers for operator discovery, trip planning, end user interaction, booking, and payment.
 
-### Resources
+### Research and Commentary
 
-On-line courses, blog posts, and reports related to open transit data.
-
-#### On-line courses
-
-- [World Bank - "Intro. to GTFS" online course](https://olc.worldbank.org/content/introduction-general-transit-feed-specification-gtfs-and-informal-transit-system-mapping) - A free, online, self-paced course for learning about GTFS and GTFS-realtime.
-- [Open Transit Data Toolkit](http://transitdatatoolkit.com/) - A series of lessons to help people utilize open transit data.
-- [MBTA GTFS Onboarding](https://mybinder.org/v2/gh/mbta/gtfs_onboarding/main?urlpath=lab/tree/GTFS_Onboarding.ipynb) - An interactive tutorial created by MBTA for GTFS static. A [stand-alone Docker image](https://github.com/mbta/gtfs_onboarding) is available on GitHub as well as a [hosted/no-install version](https://mybinder.org/v2/gh/mbta/gtfs_onboarding/main?urlpath=lab/tree/GTFS_Onboarding.ipynb) of the Jupyter notebook.
-- [Planetizen "Building a Transit Map Web App" course](https://courses.planetizen.com/course/building-transit-map-app) - A video tutorial on setting up your own web-based mapping application, with no coding experience required. 
-- [GTFS-books](https://github.com/MobilityData/GTFS-books) - Comprehensive guides to GTFS and GTFS Realtime. These books were written by [Quentin Zervaas](https://github.com/HendX), and have been donated to [MobilityData](https://mobilitydata.org/) and made open access.
-
+Blog posts, and reports related to open transit data.
 
 #### Blog posts
 

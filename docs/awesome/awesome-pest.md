@@ -69,7 +69,7 @@ pest grammars.
 - [pest-ast](https://github.com/pest-parser/ast) - It can help to reduce boilerplate when converting pest parse trees to abstract syntax trees.
 - [pest_consume](https://crates.io/crates/pest_consume) - This crate can help with the parse tree traversing boilerplate.
 - [pest-test](https://crates.io/crates/pest-test) - It is a testing framework for pest grammars.
-
+- [pest_ascii_tree](https://crates.io/crates/pest_ascii_tree) - Output `Pairs` in a tree on the console
 
 ### CLI Debugger
 
