@@ -44,11 +44,10 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Top rated Angular stackoverflow questions Dashboard](https://dashboard.nbshare.io/apps/stackoverflow/top-angular-questions/)
 * [angular-logos](https://github.com/maartentibau/angular-logos) - Repo is dedicated to collecting all the different kinds of Angular badges and logos.
 * [made with angular](https://github.com/madewithangular/madewithangular.github.io) - A showcase of web apps built with Angular.  
-* [built with analog](https://github.com/TechShowcase/builtwithanalog) - Showcase and market your AnalogJS apps.
+* [built with angular](https://builtwithangular.dev/) - Discover apps of all sizes, including Open Source and Indie developer projects.
 * [angular.love](https://angular.love/) - Polish community for Angular fans.
 * [angular hub](https://github.com/angular-sanctuary/angular-hub) - Curated list of Angular events and communities.
 * [angular space](https://www.angularspace.com/) - Your Hub for Learning and Growing as an Angular Developer.
-* [opensauced pizza](https://app.opensauced.pizza/explore/topic/angular/dashboard/filter/recent) - Insights on GitHub repositories using the Angular topic.
 * [angular-memes](https://github.com/dzhavat/angular-memes) - A collection of Angular memes.
 * [ngx.tools](https://github.com/ngxtools/ngx.tools) - Discover Angular packages, libraries and schematics with this [search engine](https://ngx.tools).
 * [builtwith trends](https://trends.builtwith.com/framework/Angular) - Angular Usage Statistics.
