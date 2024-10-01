@@ -9,10 +9,6 @@ _Apache Spark is an open-source cluster-computing framework. Originally develope
 
 Users of Apache Spark may choose between different the Python, R, Scala and Java programming languages to interface with the Apache Spark APIs.
 
-
-
-
-
 ## Packages
 
 ### Language Bindings

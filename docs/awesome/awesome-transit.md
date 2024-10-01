@@ -112,6 +112,7 @@ Software that you can set up to provide an API to transit and multimodal data.
 Tools for transit agencies.  See also [GTFS Data Collection and Maintenance Tools](#gtfs-data-collection-and-maintenance-tools) for tools specific to GTFS.
 
 - [Remix](http://getremix.com/) - A webapp that lets transit agencies easily plan routes.
+- [Next Train API](https://github.com/data-creative/next-train-api) - Serves any GTFS feed as a JSON API. Transit agencies and developers alike can deploy the open source code to their own Heroku server.
 - [AC Transit RestroomFinder](https://github.com/actransitorg/ACTransit.RestroomFinder) - Pinpoints the nearest authorized restroom for bus operator and field staff, using GPS and on-screen map.
 - [AC Transit Training and Education Department (TED) application](https://github.com/actransitorg/ACTransit.Training) - This application supports the District's training operations for transportation and maintenance employees, primarily in the positions of Bus Operators and Heavy Duty Coach Mechanics (Apprentice and Journey), although the system supports new courses and apprenticeship programs.
 - [AC Transit Customer Relations application (CusRel)](https://github.com/actransitorg/ACTransit.CusRel) - Public transit ticketing system for customer issues and feedback with: inter-departmental routing with notifications, department/person assigments, simple workflow, ticket searching, pre-canned reports, daily reminders and more.
@@ -171,6 +172,7 @@ Apps people use when taking transit.
 - [opentripplanner-client-library](https://github.com/CUTR-at-USF/opentripplanner-client-library) - A Kotlin Multiplatform library for making API requests and parsing responses from an OpenTripPlanner v2 server for trip plans, bike rental info, and server metadata for Android, iOS, and web.
 - [Transito](http://git.sr.ht/~mil/transito) - FOSS data-provider-agnostic public transportation app that let's you route between locations using openly available public GTFS feeds (sourced from the [Mobility Database](https://database.mobilitydata.org/)). Utilizing the [Mobroute Go API](http://sr.ht/~mil/mobroute), the Transito app lets you performs routing calculations right on your phone. Cross-platform app currently supporting Android & Linux.
 - [Transportr](https://github.com/grote/Transportr) An Android app that uses [public-transport-enabler](https://github.com/schildbach/public-transport-enabler) in order to connect to many different transport networks worldwide.
+- [Next Train - Connecticut](https://github.com/data-creative/NextTrainCT) - A React-native mobile app for searching train schedules published by the Shore Line East transit agency in Connecticut. Relies on a deployment of the [Next Train API](https://github.com/data-creative/next-train-api).
 - [Offi Directions](https://gitlab.com/oeffi/oeffi) - An Android app that provides trip planning, schedules, live departure times, and disruption information for transport authorities in Europe and beyond.
 - [Trufi App](https://github.com/trufi-association/trufi-app) - A cross-platform Flutter app that uses [OpenTripPlanner](http://www.opentripplanner.org/)
 - [MACS Transit Android App](https://github.com/yeSpud/MACSTransitApp) - A bus tracker app for Android devices for the MACS Transit system in Fairbanks, Alaska. Uses RouteMatch APIs.
@@ -354,6 +356,7 @@ Converters from various static schedule formats to and from GTFS.
 
 - [bus-router](https://github.com/atlregional/bus-router) - Python script that generates missing shapes.txt for GTFS using routing from [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) or [OSRM](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
 - [gtfs-blocks-to-transfers](https://github.com/TransitApp/GTFS-blocks-to-transfers) - A Python tool to convert GTFS blocks, defined by setting [trip.block\_id](https://github.com/google/transit/blob/master/gtfs/spec/en/reference.md#example-blocks-and-service-day) into a series of [trip-to-trip transfers (proposal)](https://github.com/google/transit/pull/303).
+- [GTFS Diff](https://transport.data.gouv.fr/tools/gtfs_diff) - GTFS Diff is a specification created by transport.data.gouv.fr and aims at providing a simple and unified way to express differences between GTFS files.
 - [GTFS Editor](https://github.com/conveyal/gtfs-editor) - A (self-hosted) web-based GTFS editing framework. (Note: this project has been deprecated in favor of [IBI Data Tools](https://github.com/ibi-group/datatools-ui).)
 - [GTFS Editor for Vagrant](https://github.com/laidig/vagrant-gtfs-editor) - Quickly set up the GTFS editor (above) using [Vagrant](https://www.vagrantup.com/)
 - [static-GTFS-manager](https://github.com/WRI-Cities/static-GTFS-manager) - A (self-hosted) browser-based user interface for creating, editing, exporting static GTFS (see [related post](https://groups.google.com/forum/#!topic/transit-developers/GFz5rTJTB0I)). 
@@ -367,6 +370,7 @@ Converters from various static schedule formats to and from GTFS.
 - [gtfs-station-builder](https://github.com/kostjerry/gtfs-station-builder) - UI tool to help build the internal structure of stations (including pathways.txt)
 - [GTFS Text-to-Speech Tester](https://github.com/BlinkTagInc/node-gtfs-tts) - A command-line tool that reads GTFS stop names out loud using Text-to-Speech to determine which need Text-to-Speech values for tts_stop_name in stops.txt.
 - [Spare GTFS-Flex Builder](https://sparelabs.com/en/spare-gtfs-flex-builder) - A free tool that helps transit agencies easily create, manage, and export their transportation data in GTFS-Flex format. 
+- [Swiftly](https://goswift.ly/) - Tool generate realtime transit data.
 
 #### GTFS Merge Tools
 - [combine_gtfs_feeds](https://github.com/psrc/combine_gtfs_feeds) - A Python tool to combine multiple gtfs feeds into one feed/dataset.
@@ -489,36 +493,40 @@ Massachusetts Bay Transportation Authority (MBTA)](https://github.com/mbta).
 - [SIRI 1.3 POJOs (Android-compatible)](https://github.com/CUTR-at-USF/onebusaway-siri-api-v13-pojos/wiki) - Android-compatible Plain Old Java Objects (POJOSs) used for data binding (deserliazing XML/JSON) responses for SIRI v1.3 APIs.  Used by the [SIRI REST Client](https://github.com/CUTR-at-USF/SiriRestClient/wiki).
 - [pysiri2validator](https://github.com/laidig/pysiri2validator) - Simple validator for SIRI 2.0 written in Python 3.
 - [Edwig](https://github.com/af83/edwig) - A golang server for real-time public transport data exchange, using the SIRI protocol.
+- [BISON](https://bison.dova.nu/standaarden/nederlands-siri-profiel) - Netherlands implementation of SIRI.
 
 ### Other multimodal data formats
 
-- [Alliance for Parking Data Standards (APDS)](https://www.allianceforparkingdatastandards.org/) - Formed by the [International Parking Institute (IPI)](https://www.parking.org/), the [British Parking Association (BPA)](http://www.britishparking.co.uk/), and the [European Parking Association (EPA)](http://www.europeanparking.eu/), APDS is a not-for-profit organization with the mission to develop, promote, manage, and maintain a uniform global standard that will allow organizations to share parking data across platforms worldwide.  APDS Version 1.0 documents are [here](https://www.allianceforparkingdatastandards.org/resources).
+#### Widely adopted
+- [APDS](https://www.allianceforparkingdatastandards.org/) - Alliance for Parking Data Standards: formed by the [International Parking Institute (IPI)](https://www.parking.org/), the [British Parking Association (BPA)](http://www.britishparking.co.uk/), and the [European Parking Association (EPA)](http://www.europeanparking.eu/). APDS is a not-for-profit organization with the mission to develop, promote, manage, and maintain a uniform global standard that will allow organizations to share parking data across platforms worldwide.
+- [DATEX](https://datex2.eu/) - EU data standard for road traffic and travel information.
+- [GBFS](https://gbfs.org/) - General Bikeshare Feed Specification: open data standard for real-time information about bikeshare, scootershare, mopedshare, and carshare.
+    - [gbfs R package](https://github.com/simonpcouch/gbfs) - Functions to interface with GBFS feeds in R, allowing users to save and accumulate tidy .rds datasets for specified cities/bikeshare programs.
+- [MDS](https://github.com/openmobilityfoundation/mobility-data-specification) - Mobility Data Specification: A format to implement realtime data sharing, measurement and regulation for municipalities and mobility as a service providers. It is meant to ensure that governments have the ability to enforce, evaluate and manage providers. Maintained by the [Open Mobility Foundation](https://www.openmobilityfoundation.org/).
+- [NeTex](http://netex-cen.eu/) - A general purpose XML format designed for the exchange of complex static transport data among distributed systems managed by the [CEN standards process](https://www.cencenelec.eu/european-standardization/european-standards/).
+- [TODS](https://ods.calitp.org/) - Transit Operational Data Standard: standard format for representing transit schedules used by drivers, dispatchers, and planners to carry out transit operations. 
+- [TOMP](https://github.com/TOMP-WG/TOMP-API) - Transport Operator Mobility-as-a-service Provider API: API standard for use by transport operators and mobility-as-a-service providers for operator discovery, trip planning, end user interaction, booking, and payment.
+
+#### Pilot or development stage
 - [CurbLR](https://github.com/curblr/curblr-spec) - A specification for curb regulations.
 - [Dyno-Demand](https://github.com/osplanning-data-standards/dyno-demand) - A GTFS-based travel demand data format focusing on individual passenger *demand* suitable for dynamic network modeling developed by San Francisco County Transportation Authority, LMZ LLC, and UrbanLabs LLC.
 - [Dyno-Path](https://github.com/osplanning-data-standards/dyno-path) - (Under development - see [this post](https://github.com/osplanning-data-standards/GTFS-PLUS/pull/52#issuecomment-331231000)) Data for individual passenger *trajectories*.
-- [General Bikeshare Feed Specification (GBFS)](https://github.com/NABSA/gbfs) - Open data standard for real-time bikeshare information developed by members of the [North American Bikeshare Association (NABSA)](http://nabsa.net/).
-    - [gbfs-validator](https://github.com/PierrickP/gbfs-validator) - 3rd party tool to validate GBFS feeds.
-    - [gbfs R package](https://github.com/ds-civic-data/gbfs) - Functions to interface with GBFS feeds in R, allowing users to save and accumulate tidy .rds datasets for specified cities/bikeshare programs.
-    - [GBFS Documentation Platform](https://gbfs.mobilitydata.org/) - Documentation platform for the General Bikeshare Feed Specification, maintaned by [MobilityData](https://mobilitydata.org/). View the GBFS specification, change proposals, policy guides, and technical tools.
-- [GTFS-flex](https://github.com/MobilityData/gtfs-flex) - A data format that models flexible public transportation services as an extension to GTFS.
 - [GTFS-plus](https://github.com/osplanning-data-standards/GTFS-PLUS) - A GTFS-based transit network format for *vehicle and capacity data* suitable for dynamic transit modeling developed by Puget Sound Regional Council, UrbanLabs LLC, LMZ LLC, and San Francisco County Transportation Authority.
 - [GTFS-ride](https://github.com/ODOT-PTS/GTFS-ride) - An open, fixed-route transit ridership data standard developed through a partnership between the Oregon Department of Transportation and Oregon State University.
 - [GTFS-stat](https://github.com/osplanning-data-standards/GTFS-STAT) - An extension to a GTFS transit network with additional files that contain performance data developed by UrbanLabs LLC and San Francisco County Transportation Authority.
-- [General Modeling Network Specification (GMNS)](https://github.com/zephyr-data-specs/GMNS) - A format for sharing routable road network files designed to be used in multi-modal static and dynamic transportation planning and operations models. Volpe/FHWA partnership with Zephyr Foundation.
-- [General Travel Network Specification](https://zephyrtransport.org/trb17projects/7-general-travel-network-specification/) - A planned data specification for sharing travel demand model networks.
-- [Managed and Tolled Lanes Feed Specification (MTLFS)](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - Proposal for a schema that comprise the Managed and Tolled Lanes Tolling Feed Specification (MTLFS) and defines the fields used in all of those files developed by [Santa Clara Valley Transportation Authority](http://www.vta.org/).
-- [Mobility as a Service API](https://github.com/maasglobal/maas-tsp-api/blob/master/specs/Booking.md) - A set of open documents and test suite that defines a MaaS-compatible API.
-- [Mobility Data Specification (MDS)](https://github.com/openmobilityfoundation/mobility-data-specification) - A format to implement realtime data sharing, measurement and regulation for municipalities and mobility as a service providers. It is meant to ensure that governments have the ability to enforce, evaluate and manage providers. Maintained by the [Open Mobility Foundation](https://www.openmobilityfoundation.org/).
+- [GMNS](https://github.com/zephyr-data-specs/GMNS) - General Modeling Network Specification: A format for sharing routable road network files designed to be used in multi-modal static and dynamic transportation planning and operations models. Volpe/FHWA partnership with Zephyr Foundation.
+- [GTNS](https://zephyrtransport.org/trb17projects/7-general-travel-network-specification/) - General Travel Network Specification: A planned data specification for sharing travel demand model networks.
+- [IXSI](https://github.com/RWTH-i5-IDSG/ixsi) -  interface for exchanging information between a travel information system and a sharing system (carshare, bikeshare).
+- [MTLFS](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - Managed and Tolled Lanes Feed Specification: Proposal for a schema that comprise the Managed and Tolled Lanes Tolling Feed Specification (MTLFS) and defines the fields used in all of those files developed by [Santa Clara Valley Transportation Authority](http://www.vta.org/).
+- [MaaS API](https://github.com/maasglobal/maas-tsp-api/blob/master/specs/Booking.md) - A set of open documents and test suite that defines a MaaS-compatible API.
 - [NCHRP 08-119 Developing Data Standards and Guidance for Transportation Planning and Traffic Operations - Phase 1 (Anticipated)](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4543) - The objective of this research is to develop standards and/or guidance to be used and adopted by the transportation community in collecting, managing, and sharing static and real-time data for transportation planning and operations.
-- [NeTex](http://netex-cen.eu/) - A general purpose XML format designed for the exchange of complex static transport data among distributed systems managed by the [CEN standards process](https://www.cencenelec.eu/european-standardization/european-standards/).
 - [OMX: The Open Matrix data file format](https://github.com/osPlanning/omx) - A structured collection of two-dimensional array objects and associated metadata, for possible use in the transportation modeling industry.
-- [Open Sales and Distribution Model (OSDM)](https://github.com/UnionInternationalCheminsdeFer/OSDM) - Aims to substantially simplify the booking process for customers of rail trips and to lower complexity and distribution costs for distributors and railway carriers. Contains a specification of an offline model and on-line API. Maintained by the [International Union of Railways (UIC)](https://github.com/UnionInternationalCheminsdeFer).
+- [OJP](https://github.com/VDVde/OJP) - Open Journey Planner.
+- [OSDM](https://github.com/UnionInternationalCheminsdeFer/OSDM) - Open Sales and Distribution Model: Aims to substantially simplify the booking process for customers of rail trips and to lower complexity and distribution costs for distributors and railway carriers. Contains a specification of an offline model and on-line API. Maintained by the [International Union of Railways (UIC)](https://github.com/UnionInternationalCheminsdeFer).
 - [SAE Shared and Digital Mobility Committee](http://articles.sae.org/15799/) - Appears to be working on a data standard for car share and transportation network companies (TNCs) / rideshare.
 - [shared-row](https://github.com/d-wasserman/shared-row) - A specification for right-of-way (ROW) for a SharedStreets Reference.
 - [TCRP G-16 Development of Transactional Data Specifications for Demand-Responsive Transportation (In progress)](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4120) - The objective of this research is to develop technical specifications for transactional data for entities involved in the provision of demand-responsive transportation.  Expected completion date is late 2018.
-- [TIDES project](https://github.com/TIDES-transit/TIDES) -  Transit ITS Data Exchange Specification (TIDES) is a proposed effort to create standard data structures, APIs, and data management tools for historical transit ITS data including AVL, APC and AFC Data.
-- [Cal-ITP Operational Data Standard (ODS)](https://docs.calitp.org/operational-data-standard/) -  Intended to address the lack of a standard format for representing transit schedules used by drivers, dispatchers, and planners to carry out transit operations. 
-- [Transport Operator Mobility-as-a-service Provider (TOMP)-API](https://github.com/TOMP-WG/TOMP-API) - Working group in the Netherlands with a goal to develop an API for use by Transport Operators and Mobility-as-a-service Providers for operator discovery, trip planning, end user interaction, booking, and payment.
+- [TIDES](https://github.com/TIDES-transit/TIDES) -  Transit ITS Data Exchange Specification (TIDES) is a proposed effort to create standard data structures, APIs, and data management tools for historical transit ITS data including AVL, APC and AFC Data.
 
 ### Research and Commentary
 
@@ -565,6 +573,6 @@ To the extent possible under law, [MobilityData](https://mobilitydata.org/),[Cen
 ## About
 This is a community resource for informational use only - listing of a project/product does not imply endorsement.
 
-This list is built and mantainted by open source community contirbutors like you! [MobilityData](https://mobilitydata.org/) stewards the project. 
+This list is built and maintained by open source community contributors like you! [MobilityData](https://mobilitydata.org/) stewards the project. 
 
-#Awesome-transit was originally created by [Luqmaan Dawoodjee](https://github.com/luqmaan) and was stewarded by the [Center for Urban Transportation Research](https://www.cutr.usf.edu/) at the [University of South Florida](http://www.usf.edu/) for several years before the project was transfered to MobilityData.
+#Awesome-transit was originally created by [Luqmaan Dawoodjee](https://github.com/luqmaan) and was stewarded by the [Center for Urban Transportation Research](https://www.cutr.usf.edu/) at the [University of South Florida](http://www.usf.edu/) for several years before the project was transferred to MobilityData.

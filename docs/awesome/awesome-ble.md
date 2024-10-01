@@ -3,7 +3,7 @@
 
 ![](https://raw.githubusercontent.com/dotintent/awesome-ble/master/.github/awesome-ble.png)
 
-Bluetooth Low Energy (BLE): Low-power wireless communication protocol enabling efficient data exchange between devices, ideal for IoT, wearables, and other battery-powered applications.
+**Bluetooth Low Energy (BLE)**: Low-power wireless communication protocol enabling efficient data exchange between devices, ideal for IoT, wearables, and other battery-powered applications.
 
 A collaborative list of Awesome Bluetooth Low Energy resources by [🔴 intent](https://withintent.com).
 
@@ -31,6 +31,7 @@ _Framework useful to develop your BLE peripherals._
 
 - [Matter](https://github.com/project-chip/connectedhomeip) - Matter
 - [ESP-IDF](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework
+- [Zephyr](https://github.com/zephyrproject-rtos/zephyr) - Zephyr
 
 ## Library
 
@@ -76,6 +77,7 @@ _Flutter libraries, tools, and resources for developing Bluetooth Low Energy (BL
 
 - [Flutter Blue Plus](https://github.com/boskokg/flutter_blue_plus) - Flutter Blue Plus is a bluetooth plugin for Flutter, a new app SDK to help developers build modern multi-platform apps.
 - [Flutter Reactive BLE](https://github.com/PhilipsHue/flutter_reactive_ble) - Flutter Reactive BLE is a Flutter library that handles BLE operations for multiple devices.
+- [Flutter BLELib](https://github.com/dotintent/FlutterBleLib) - Bluetooth Low Energy library for Flutter with support for simulating peripherals.
 
 ## Tool
 
@@ -83,6 +85,7 @@ _Development and testing tools for Bluetooth Low Energy (BLE) applications, incl
 
 - [Bettercap](https://github.com/bettercap/bettercap) - A easily extensible and portable framework for security researchers to test BLE security.
 - [nRF Connect](https://github.com/NordicSemiconductor/pc-nrfconnect-core) - An application framework for developing, testing, and provisioning devices based on Nordic Semiconductor chips.
+- [BLE Simulator](https://play.google.com/store/apps/details?id=com.withintent.ble.simulator&hl=en) - A mobile app able to clone BLE devices and script their interaction. Useful to debug and quick prototyping.
 
 ## Web
 
