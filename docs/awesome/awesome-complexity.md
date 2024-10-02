@@ -44,7 +44,7 @@ A curated list of resources related to complex systems, the scientific field stu
 
 - [Complex Systems Society](https://cssociety.org/home) - Scientific society for the study of complex systems.
 - [Complexity research](https://complexityresearch.slack.com/) - Informal slack community for keeping up to date with new findings in complex systems research.
-- [Complexity Weekend](https://www.complexityweekend.com/) - Complexity community of practice.
+- [Complexity Adventures](https://www.complexityadventures.com/) - Complexity community of practice (formerly known as Complexity Weekend).
 
 ## Organizations
 

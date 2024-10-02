@@ -27,6 +27,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [mdsteele/ziegfried](https://github.com/mdsteele/ziegfried) - A general-purpose memory allocator.
 * [suirad/Seal](https://github.com/suirad/Seal) - An allocator that wraps another allocator and detects if memory is leaked after usage.
 * [Hejsil/zig-gc](https://github.com/Hejsil/zig-gc) - A super simple mark-and-sweep garbage collector.
+* [dbandstra/zig-hunk](https://github.com/dbandstra/zig-hunk) - Basic "Hunk" memory allocator, based on the hunk system from id Software's Quake engine.
 
 
 ## Audio
@@ -34,6 +35,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [hazeycode/zig-alsa](https://github.com/hazeycode/zig-alsa) - Bindings for ALSA (libasound).
 * [dantecatalfamo/sndio-zig](https://github.com/dantecatalfamo/sndio-zig) - Bindings for [sndio](https://sndio.org).
 * [orhun/linuxwave](https://github.com/orhun/linuxwave) - Generate music from the entropy of Linux.
+* [dbandstra/zig-wav](https://github.com/dbandstra/zig-wav) - Simple WAV file parser and writer.
 
 
 ## Bootables
@@ -129,6 +131,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [kooparse/zalgebra](https://github.com/kooparse/zalgebra) - Linear algebra library for games and real-time computer graphics.
 * [floooh/pacman.zig](https://github.com/floooh/pacman.zig) - A Pacman clone.
 * [dantecatalfamo/OpenCSE](https://github.com/dantecatalfamo/OpenCSE) - Free implementation of the Can't Stop Express dice game.
+* [dbandstra/oxid](https://github.com/dbandstra/oxid) - Arcade-style game where you fight waves of monsters in a fixed-screen maze.
 
 
 ## GUI
@@ -162,6 +165,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [vbrusca/ZigMatrixUtils](https://github.com/vbrusca/ZigMatrixUtils) - Matrix manipulation and utility library.
 * [mlarouche/zigimg](https://github.com/mlarouche/zigimg) - Library for reading and writing different image formats.
 * [bfactory-ai/zignal](https://github.com/bfactory-ai/zignal) - Image processing library inspired by [dlib](http://dlib.net/).
+* [dbandstra/zig-pcx](https://github.com/dbandstra/zig-pcx) - PCX image format decoder and encoder.
 * [ziglibs/known-folders](https://github.com/ziglibs/known-folders) - Provides access to well-known folders across several operating systems.
 * [SasLuca/zig-nanoid](https://github.com/SasLuca/zig-nanoid) - Battle-tested, tiny, secure, URL-friendly, unique string ID generator. Now available in pure Zig.
 * [kassane/libvlc-zig](https://github.com/kassane/libvlc-zig) - Bindings for libVLC media framework.

@@ -27,7 +27,7 @@ Contributions are welcome. Please read the [contributing guideline](https://gith
 - [Signal, Noise and Histograms](https://jonrista.com/the-astrophotographers-guide/astrophotography-basics/signal-noise-and-histograms/) - Part of Jon Rista's Astrophotography Basics series, this article provides a great bit of theory around signals, noise and histograms.
 - [Sky-Watcher AZ-GTI: The Perfect Mount for Mobile Astrophotography](https://web.archive.org/web/20221205012955/https://milkywayphotographers.com/article/2021/03/11/sky-watcher-az-gti-the-perfect-mount-for-mobile-astrophotography/) - The Sky-Watcher AZ-GTI mount was never meant for astrophotography. Oh, the irony!
 - [The Differences between CCD and CMOS Sensors](https://www.atik-cameras.com/news/difference-between-ccd-cmos-sensors/) - One of the best explanations to CCD vs. CMOS camera sensors.
-- [The best solution of 55mm back focal length](https://astronomy-imaging-camera.com/tutorials/best-back-focus-length-solutions-55mm/) - Guidance on how to reach the 55mm back focal length with ASI cameras.
+- [The best solution of 55mm back focal length](https://www.zwoastro.com/2024/09/26/the-best-solution-of-55mm-back-focal-length/) - Guidance on how to reach the 55mm back focal length with ASI cameras.
 
 
 ## Books

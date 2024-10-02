@@ -24,6 +24,7 @@ to the capacity of the targeted models, using the Rademacher complexity.*
 - [Auditing Fairness by Betting](https://arxiv.org/pdf/2305.17570.pdf) - (Neurips) [[Code]](https://github.com/bchugg/auditing-fairness) *Sequential methods that allows for the continuous monitoring of incoming data from a black-box classifier or regressor.*
 ### 2023
 - [Privacy Auditing with One (1) Training Run](https://neurips.cc/virtual/2023/poster/70925) - (NeurIPS - best paper) *A scheme for auditing differentially private machine learning systems with a single training run.*
+- [Auditing fairness under unawareness through counterfactual reasoning](https://www.sciencedirect.com/science/article/pii/S0306457322003259) - (Information Processing & Management) *Shows how to unveil whether a black-box model, complying with the regulations, is still biased or not.*
 - [XAudit : A Theoretical Look at Auditing with Explanations](https://arxiv.org/pdf/2206.04740.pdf) - (Arxiv) *Formalizes the role of explanations in auditing and investigates if and how model explanations
 can help audits.*
 - [Keeping Up with the Language Models: Robustness-Bias Interplay in NLI Data and Models](https://arxiv.org/pdf/2305.12620.pdf) - (Arxiv) *Proposes a way to extend the shelf-life of auditing datasets by using language models themselves; also finds problems with the current bias auditing metrics and proposes alternatives -- these alternatives highlight that model brittleness superficially increased the previous bias scores.*
