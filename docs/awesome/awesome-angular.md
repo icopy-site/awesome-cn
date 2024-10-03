@@ -536,6 +536,8 @@ become an Angular expert.
 * [ngx-sentry](https://github.com/DSI-HUG/ngx-sentry) - Angular wrapper for [Sentry JavaScript SDK](https://github.com/getsentry/sentry-javascript).
 * [ngx-fabric-wrapper](https://github.com/zefoy/ngx-fabric-wrapper) - Angular wrapper library for [Fabric](http://fabricjs.com/).
 * [ngx-three-globe](https://github.com/omnedia/ngx-three-globe) - An Angular library that provides an interactive, 3D globe visualization built using [Three.js](https://threejs.org).
+* [vike-angular](https://github.com/vikejs/vike-angular) - Angular integration for [Vike](https://github.com/vikejs/vike), a fast Vite-based frontend framework.
+* [stream-chat-angular](https://github.com/GetStream/stream-chat-angular) - Angular Chat SDK ➜ Stream Chat. Build a chat app with ease.
 
 #### Internationalization
 
@@ -923,6 +925,7 @@ become an Angular expert.
 * [ngx-sub-form](https://github.com/cloudnc/ngx-sub-form) - Utility library for breaking down an Angular form into multiple components.
 * [forms-typed](https://github.com/gparlakov/forms-typed) - Want types in your forms? Want to have nested forms? This is library can help.
 * [ngx-vest-forms](https://github.com/simplifiedcourses/ngx-vest-forms) - A lightweight adapter for Angular template-driven forms integrated with vest.js for validation.
+* [ngx-currency](https://github.com/nbfontana/ngx-currency) - Currency mask module for Angular.
 
 ##### Form Controls
 
@@ -947,6 +950,7 @@ become an Angular expert.
 * [ngx-ui-switch](https://github.com/webcat12345/ngx-ui-switch) - A simple iOS 7 style switch component for Angular.
 * [olt-ngx-ui-switch](https://github.com/OuterlimitsTech/olt-ngx-ui-switch) - NGX UI Switch (Forked) to latest version of Angular.
 * [auto-complete](https://github.com/ng2-ui/auto-complete) - Angular Auto Complete component and directive.
+* [ngx-otp-input](https://github.com/pkovzz/ngx-otp-input) - One time password input library for Angular.
 
 ##### Validation
 
