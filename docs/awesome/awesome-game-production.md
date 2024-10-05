@@ -45,6 +45,7 @@ Links to articles, hosted elsewhere. These may disappear or change location over
 - [What Makes a Good Game Producer? Part 1](https://www.gamedeveloper.com/production/what-makes-a-good-game-producer-part-1) - Explores the qualities and skills that make for a successful game producer, including leadership, communication, and adaptability, with insights from experienced industry professionals.
 - [What Makes a Good Game Producer? Part 2](https://www.gamedeveloper.com/production/what-makes-a-good-game-producer-part-2) - Delves deeper into the role of a game producer, including project management, risk assessment, and team coordination, and provides tips for aspiring producers on how to develop their skills and excel in the role.
 - [Five tips on being a better producer](https://www.gamesindustry.biz/five-tips-on-being-a-better-producer) - The title might feel gimicky, but there are a few very important pieces of advice, which are worth considering.
+- 🎓 [Production Pipeline: a Design Tool?](https://gdkeys.com/production-pipeline-a-design-tool/) - A broad overview of a common production timeline: milestones, deliverables, dos and don'ts. Beware though, as presented pipeline is just one of the many: different studios tend to flavor this pipeline with their own set of adjustments.
 
 
 ### Game Production Best Practices and Tips
@@ -151,6 +152,7 @@ To stay up-to-date, consider subscribing to all or some of the below resources. 
 - [fedoruk.works](https://t.me/beardpm) - Quality project management content, not game development specific (<img src="https://raw.githubusercontent.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg" width="16">).
 - [Kryuchkov about outsourcing](https://t.me/KPOutsourcing) - Software Delivery Management Consultant Alexander Kryuchkov shares his advice about managing projects. I like him a lot because basically every post is highly practical and is packed with experience. Must read for any Project Manager (<img src="https://raw.githubusercontent.com/lipis/flag-icons/blob/main/flags/4x3/ua.svg" width="16">).
 - [Game Developer](https://www.gamedeveloper.com/rss.xml) - RSS feed of the gamedeveloper.com (ex. gamasutra.com) - both news and articles, all about game development (including production).
+- [Naavik](https://naavik.co/feed) - A very high-quality business-focused blog to stay up-to-date on the industry. Check out their "Deep Dives" series for case studies on the failures and successes of pupular titles and studios.
 
 ## 🌐 Websites and other resources
 
