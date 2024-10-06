@@ -47,7 +47,6 @@ Links to articles, hosted elsewhere. These may disappear or change location over
 - [Five tips on being a better producer](https://www.gamesindustry.biz/five-tips-on-being-a-better-producer) - The title might feel gimicky, but there are a few very important pieces of advice, which are worth considering.
 - 🎓 [Production Pipeline: a Design Tool?](https://gdkeys.com/production-pipeline-a-design-tool/) - A broad overview of a common production timeline: milestones, deliverables, dos and don'ts. Beware though, as presented pipeline is just one of the many: different studios tend to flavor this pipeline with their own set of adjustments.
 
-
 ### Game Production Best Practices and Tips
 
 - 🔥 [Breaking The Wheel](https://www.breakingthewheel.com/getting-started-breaking-wheel/) - Justin Fischer's absolutely awesome collection of best practices and tips to leading game production. Must read.
@@ -60,6 +59,14 @@ Links to articles, hosted elsewhere. These may disappear or change location over
 - 🎓 [Writing Good User Stories](https://www.easyagile.com/training/writing-good-user-stories.pdf) - A concise and easy to understand explanation of the user story and acceptance criteria concepts. Some theses might be arguable, but still worth bookmarking as a hands-on  (PDF).
 - [Basics of User Story Mapping](https://www.easyagile.com/training/introduction-to-user-story-mapping.pdf) - Same as above, a very concise and well explained user story mapping technique (PDF).
 - [Building an Agile User Story Map](https://www.easyagile.com/training/building-user-story-maps.pdf) - Hands-on guide to building a user story map (PDF).
+
+### Open Minimalist Modules
+
+If you're new to project management and/or production role, I strongly recommend you familirize yourself with these super practical and easy to understand project management systems and set of principles.
+
+- 🎓 [Nearly Universal Principles of Projects](https://nupp.guide/) - NUPP is a collection of nearly universal principles of projects: those we’d do well to follow in all projects, regardless of the methodologies and approaches that we use, to maximize our success.
+- 🎓 [P3.express](https://p3.express/) - P3.express is a minimalist, practical project management system. It’s easy to learn, easy to use, and easy to teach.
+- 🎓 [micro.P3.express](https://micro.p3.express/) - micro.P3.express is a flavor of P3.express designed for micro-projects with approximately 1 to 7 team members.
 
 ### Designing a Production Process
 
@@ -106,7 +113,6 @@ Many post-mortems here are back from the day, and might seem outdated and not us
 ## 🔧 Tools and templates
 
 As a producer, you might need a few tools to help you deliver the damn thing. Some of these may not be useful to you directly, but I might have include one if I think you should at least know such a tool exists. This is to help you gain a few credits in your team.
-
 
 ### Tools
 
