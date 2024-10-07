@@ -250,6 +250,7 @@ become an Angular expert.
 * [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2)
 * [Offering Solutions](https://offering.solutions/trainings/)
 * [liveloveapp](https://liveloveapp.com/) - Workshops are available for Cypress, NgRx, RxJS, AG Grid and web performance.
+* [Angular Material 3 Theming System: Complete Guide](https://angular-material.dev/courses/overview/m3-ng-components) - The only course you will need for Angular Material 3 Theming.
 
 ##### On-Site Training
 
@@ -933,6 +934,7 @@ become an Angular expert.
 * [forms-typed](https://github.com/gparlakov/forms-typed) - Want types in your forms? Want to have nested forms? This is library can help.
 * [ngx-vest-forms](https://github.com/simplifiedcourses/ngx-vest-forms) - A lightweight adapter for Angular template-driven forms integrated with vest.js for validation.
 * [ngx-currency](https://github.com/nbfontana/ngx-currency) - Currency mask module for Angular.
+* [ngx-super-forms](https://github.com/naologic/ngx-super-forms) - This library adds some much-needed features on top of Angular forms and Reactive forms, to make it more developer friendly.
 
 ##### Form Controls
 

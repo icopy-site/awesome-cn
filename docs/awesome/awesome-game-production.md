@@ -53,7 +53,7 @@ Links to articles, hosted elsewhere. These may disappear or change location over
 
 ### Agile Project Management
 
-- [User Story Mapping for Games - An Example](https://blog.agilegamedevelopment.com/2016/04/user-story-mapping-for-games-example.html) - If using Agile on your project, User Story Mapping can greatly help prioritize and plan releases. This article gives a _very brief_ explanation and provides and example.
+- [User Story Mapping for Games - An Example](https://web.archive.org/web/20230201152834/https://blog.agilegamedevelopment.com/2016/04/user-story-mapping-for-games-example.html) - If using Agile on your project, User Story Mapping can greatly help prioritize and plan releases. This article gives a _very brief_ explanation and provides and example. Replaced original link with Web Archive version, as it became unavailable.
 - 🤯 [AgileEVM – Earned Value Management in Scrum Projects](https://www.projectmanagement.com/content/attachments/itstratpm_080812105311.pdf) - Thesis (theoretical) on the AgileEVM - adaptation of the classic <a name="agile-evm" href="#evm">EVM</a>, that uses Scrum's key values.
 - 🤯 [Measuring Integrated Progress on Agile Software Development Projects](https://www.methodsandtools.com/archive/archive.php?id=61) - A little bit more practical article on how to actually calculate AgileEVM.
 - 🎓 [Writing Good User Stories](https://www.easyagile.com/training/writing-good-user-stories.pdf) - A concise and easy to understand explanation of the user story and acceptance criteria concepts. Some theses might be arguable, but still worth bookmarking as a hands-on  (PDF).

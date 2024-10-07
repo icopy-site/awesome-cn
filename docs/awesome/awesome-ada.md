@@ -658,6 +658,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [ada-magic](https://www.mapusoft.com/ada-to-c-changer/) - SofCheck AdaMagic is ACATS validated and certified Ada compiler targeting C and/or C++ (4 command line switches for fine tuning). ObjectAda and several other commercial compilers share engine with AdaMagic. MapuSoft distributes AdaMagic as integral component of AppCOE.
 - [cappulada](https://github.com/Componolit/Cappulada) - Ada binding generator for C++.
 - [asis2xml](https://github.com/simonjwright/asis2xml) - Converts Ada sources' ASIS representation to XML, so as to make it easier to develop reporting and transformational tools using (for example) XSLT.
+- [winforms2gtk](https://github.com/fdesp87/winforms2gtk) - Helper conversor of Visual Basic Microsoft Windows Forms applications to Gtk and Ada.
 
 ### Shells, Interpreters and Emulators
 - [sparforte](https://sparforte.com/) - SPARforte programming language is an Ada-like scripting language, previously known as business user shell (bush). Can be used as interactive UNIX shell replacement.
