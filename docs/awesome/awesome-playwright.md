@@ -73,6 +73,7 @@
 - [qase](https://github.com/qase-tms/qase-javascript/tree/master/qase-playwright) - Playwright Qase Reporter, send test executions to [qase](https://qase.io/).
 - [echoed](https://github.com/mrasu/echoed) - Makes tests observable by visualizing OpenTelemetry data in HTML.
 - [playwright-slack-report](https://github.com/ryanrosello-og/playwright-slack-report) - Publish your Playwright test results to your favorite Slack channel(s).
+- [TestCollab](https://github.com/TCSoftInc/playwright-integration) - Run Playwright scripts and populate results back into [TestCollab](https://testcollab.com) test management tool.
 
 ## Showcases
 
