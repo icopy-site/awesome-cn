@@ -85,12 +85,11 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - Structure and Interpretation of Computer Programs - [MIT OCW](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus/), [HTML book](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html), [Byford's playlist](https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF), [Javascript book](https://github.com/source-academy/sicp?tab=readme-ov-file), [Python book](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html), [Berkeley](https://romanbird.github.io/sicp/#e682e189-1f90-4713-9dfe-35c92b7d1cdf) - Fundamental principles of computer programming in Scheme, including recursion, abstraction, modularity, and programming language design and implementation.
 ## Introductory<a name=programming_language_theory_introductory></a>
 ### Books<a name=programming_language_theory_introductory_books></a>
-- [Pennsylvania. Software Foundations](https://softwarefoundations.cis.upenn.edu/) - A broad introduction series to the mathematical underpinnings of reliable software. It's composed of proof scripts for the Coq proof assistant. It's is intended for a broad range of readers, With no specific background assumed.
+- [Pierce. Software Foundations. Pennsylvania](https://softwarefoundations.cis.upenn.edu/) - A broad introduction series to the mathematical underpinnings of reliable software. It's composed of proof scripts for the Coq proof assistant. It's is intended for a broad range of readers, With no specific background assumed.
 ## Formal Verification<a name=programming_language_theory_formal_verification></a>
 ### Lecture Notes<a name=programming_language_theory_formal_verification_lecture_notes></a>
 - [UW CSE505 18au Principles of PL](https://sites.google.com/cs.washington.edu/cse-505-18au/home) - Techniques for thinking crisply about programming languages, write some fascinating programs, and discuss various design tradeoffs.
 ### Books<a name=programming_language_theory_formal_verification_books></a>
-- [Pierce. Software Foundations](https://softwarefoundations.cis.upenn.edu/) - A broad introduction series to the mathematical underpinnings of reliable software with Coq proof assistant. It's intended for a broad range of readers, with no specific background assumed.
 - [Chlipala. Formal Reasoning About Programs](http://adam.chlipala.net/frap) - A book introducing both machine-checked proof with Coq Proof Assistant and approaches to formal reasoning about program correctness.
 - [Lean Proof Assistant](https://lean-lang.org/documentation/) - Lean Proof Assistant.
 ## Type Theory<a name=programming_language_theory_type_theory></a>
