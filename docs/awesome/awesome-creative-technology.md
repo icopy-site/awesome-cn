@@ -52,6 +52,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Blackbow**](https:&#x2F;&#x2F;www.blackbow.cn&#x2F;) | [Beijing] | projection mapping, digital art and cultural experiences | [🌐](https:&#x2F;&#x2F;www.blackbow.cn&#x2F;career&#x2F;)
 | [**Blublu**](http:&#x2F;&#x2F;www.blu-blu.com&#x2F;) | [Hangzhou] | projection mapping, immersive experiences for museums and workspace | [📧](https://github.com/j0hnm4r5/awesome-creative-technology/blob/master/mailto:blu@blu-blu.com)
 | [**Bluecadet**](https:&#x2F;&#x2F;www.bluecadet.com&#x2F;) | [Philadelphia] [NYC] | experience design across digital and physical environments, visitor centers | [🌐](https:&#x2F;&#x2F;www.bluecadet.com&#x2F;contact&#x2F;careers&#x2F;#custom-shortcode-4)
+| [**Brain**](https:&#x2F;&#x2F;brain.wtf) | [LA] | s very serious art studio | 
 | [**BRC Imagination Arts**](https:&#x2F;&#x2F;www.brcweb.com&#x2F;) | [Burbank, CA] [Edinburgh] [Amsterdam] | brand and cultural stories, strategy, animation, digital and hybrid experiences | 
 | [**BRDG Studios**](https:&#x2F;&#x2F;www.brdg.co&#x2F;) | [Philadelphia] | digital moments in physical spaces, retail environments, art galleries, events | [🌐](https:&#x2F;&#x2F;brdg.co&#x2F;careers&#x2F;)
 | [**BREAKFAST**](https:&#x2F;&#x2F;breakfastny.com&#x2F;) | [NYC] | software-&#x2F;hardware-driven artworks, flip discs | [🌐](https:&#x2F;&#x2F;breakfaststudio.com&#x2F;jobs)
@@ -92,6 +93,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Game Seven**](https:&#x2F;&#x2F;www.gamesevenmktg.com&#x2F;) | [NYC] [LA] | intersection of sport and culture, brand stories | [🌐](https:&#x2F;&#x2F;www.gameseven.agency&#x2F;careers)
 | [**Geeksart**](http:&#x2F;&#x2F;geeks-art.com&#x2F;) | [Guangzhou] [Shanghai] | media sculptures, new media exhibition | [🌐](http:&#x2F;&#x2F;geeks-art.com&#x2F;join-us&#x2F;)
 | [**Giant Spoon**](https:&#x2F;&#x2F;giantspoon.com&#x2F;) | [NYC] [LA] | translate cultural trends into big ideas, experiential, gaming | [🌐](https:&#x2F;&#x2F;giantspoon.com&#x2F;#careers)
+| [**Groove Jones**](https:&#x2F;&#x2F;groovejones.com&#x2F;) | [Dallas] | XR, AR, VR, volumetric scanning, popups | [🌐](https:&#x2F;&#x2F;groovejones.com&#x2F;workwithus&#x2F;)
 | [**Hotel Creative**](https:&#x2F;&#x2F;hotelcreative.com&#x2F;) | [London] | retail, branding, exhibitions, events | [📧](https://github.com/j0hnm4r5/awesome-creative-technology/blob/master/mailto:jobs@hotelcreative.com)
 | [**Hovercraft**](https:&#x2F;&#x2F;www.hovercraftstudio.com&#x2F;) | [Denver] [Portland] | interactive installations, site-specific content, retail, sports | [🌐](https:&#x2F;&#x2F;hovercraftstudio.com&#x2F;careers?job&#x3D;freelance-creative-partners)
 | [**HUSH**](https:&#x2F;&#x2F;heyhush.com&#x2F;) | [NYC] | marketing and advertising, retail and DTC, architecture | [🌐](https:&#x2F;&#x2F;www.heyhush.com&#x2F;people)
@@ -135,6 +137,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Optimist**](https:&#x2F;&#x2F;optimistinc.com&#x2F;) | [LA] [NYC] [London] [Amsterdam] [Hamburg] [Berlin] [Prague] | architects of subculture, creative, design, strategy, production, content, brand experience | [🌐](https:&#x2F;&#x2F;optimistinc.com&#x2F;job-openings.html)
 | [**Ouchhh Studio**](https:&#x2F;&#x2F;ouchhh.tv&#x2F;) | [Istanbul] | public art, poetic public experiences, data as a paint, algorithm as a brush | 
 | [**Patten Studio**](https:&#x2F;&#x2F;www.pattenstudio.com&#x2F;) | [NYC] | informed by research at the MIT Media Lab, experiences that connect people | [🌐](https:&#x2F;&#x2F;www.pattenstudio.com&#x2F;about&#x2F;)
+| [**Pneuhaus**](https:&#x2F;&#x2F;pneu.haus) | [Island] | using inflatables to investigate the fundamental properties of perceptual experience in order to incite curiosity and wonder | 
 | [**Potion Design**](https:&#x2F;&#x2F;www.potiondesign.com&#x2F;) | [NYC] | design and technology studio, interactive, musuems | [🌐](https:&#x2F;&#x2F;www.potiondesign.com&#x2F;work-with-us)
 | [**pretty bloody simple**](https:&#x2F;&#x2F;www.prettybloodysimple.com) | [Munich] | interactive experiences, analog and digital, musuems | 
 | [**RadicalMedia**](https:&#x2F;&#x2F;www.radicalmedia.com&#x2F;) | [NYC] [LA] | commercials, documentaries, music videos, branded experiences, &amp; immersive environments | [📧](https://github.com/j0hnm4r5/awesome-creative-technology/blob/master/mailto:careers@radicalmedia.com)
