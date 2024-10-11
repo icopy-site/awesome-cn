@@ -1440,7 +1440,6 @@ English-language description for use by biologists.
 * [Unit of visual working memory: A Boolean map provides a better account than an object does](https://psycnet.apa.org/record/2019-27729-001) - ***Journal of Experimental Psychology***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=14909735035752892020&hl=en&as_sdt=0,5)].
 
 
-* [Learning Triadic Belief Dynamics in Nonverbal Communication from Videos](https://arxiv.org/abs/2104.02841) - ***CVPR'21***, 2021. [[All Versions](https://scholar.google.com/scholar?cluster=15365483338824697316&hl=en&as_sdt=0,5)]. Theory of Mind in the perception level, introduced as a computer vision task.
 
 * [Ten-month-old infants infer the value of goals from the costs of actions](https://dspace.mit.edu/bitstream/handle/1721.1/112291/ivc_full_preprint.pdf?sequence=1&isAllowed=y) - ***Science***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=11862940312128630925&hl=en&as_sdt=0,5)]. A piece of evidence for children's capability on ToM.
 

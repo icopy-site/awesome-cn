@@ -135,7 +135,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Integration Digest](https://wearecommunity.io/collections/DLY4smPzao). A monthly curated newsletter aggregating the latest news in API Management, iPaaS, ESB, integration frameworks, message brokers, etc.
 - [Grok](https://grok.computer). Free daily summary of the internet for software engineers. [Archive](https://grok.computer/newsletter)
 - [Tech Talks Weekly](https://techtalksweekly.substack.com/). A free weekly newsletter that brings all the recently uploaded tech talks across [+100 engineering conferences](https://techtalksweekly.substack.com/p/tech-conferences) like Devoxx, NDC, GOTO, StrangeLoop, ... right into your inbox. [Archive](https://techtalksweekly.substack.com/archive).
-
+- [CodeDegen Daily](https://codedegen.substack.com/) A daily, mostly free, No BS newsletter for programming information in general you'r just one click away.
 ### ObjectiveC
 
 - [ObjC](https://www.objc.io/). Free monthly issues covering the most important aspects of advanced iOS and OS X development.
@@ -146,12 +146,14 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [C# Digest](https://csharpdigest.net/). A weekly newsletter featuring only the top 5 links for C# and .NET developers. [Archive](https://csharpdigest.net/digests).
 - [Awesome .Net Newsletter](https://dotnet.libhunt.com/newsletter). A collection of awesome .Net libraries, tools & frameworks.
 - [ASP.NET Core News](https://aspnetcore.news/). A weekly newsletter about everything ASP.NET Core, Blazor, SignalR, and similar.
+- [C# Insights](https://csharpinsights.com/). A free, weekly newsletter for .NET developers, to stay up-to-date with the latest news, enhancements, tips and tricks in the world of C# and .NET development. [Archive](https://newsletter.csharpinsights.com/).
 
 ### Node.js
 
 - [Node Weekly](https://nodeweekly.com/). A free, once–weekly e-mail round-up of Node.js news and articles.
 - [npm Weekly](https://www.npmjs.com/npm-weekly). What we’re working on, thinking about, and talking about NPM
 - [Awesome Node.js Newsletter](https://nodejs.libhunt.com/newsletter). A weekly overview of the most popular Node.js news, articles and packages.
+- [Node.js Security Newsletter](https://www.nodejs-security.com/newsletter). Everything in and around the Node.js security ecosystem, direct to your inbox.
 
 ### Swift
 
@@ -325,6 +327,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Serverless Status](https://serverless.email/). A weekly newsletter about serverless architectures and paradigms, function-as-a-service, AWS Lambda, etc.
 - [Google Cloud Weekly Newsletter](https://www.gcpweekly.com/). This Google Cloud Weekly is a summary of the week's top news, tutorials, videos, podcasts associated to the Google Cloud ecosystem, it's well worth reading.
 - [Last Week in AWS](https://www.lastweekinaws.com/). A weekly roundup of news from Amazon's cloud ecosystem.
+- [Cloud Study Weekly](https://cloudstudy.net/newsletter). This weekly newsletter features the latest news headlines in cloud computing, upcoming conferences related to cloud and DevOps, as well as weekly deals and freebies on cloud-native technologies.
 
 ### Kubernetes
 
@@ -355,6 +358,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [The ML Engineer Newsletter](https://ethical.institute/mle.html). Receive updates on open source frameworks, tutorials and articles curated by machine learning professionals. Obtain insights on best practices, tools and techniques in machine learning explainability, reproducibility, model evaluation, feature analysis and beyond.
 - [True Positive Weekly](https://aiweekly.substack.com/). The most important artificial intelligence and machine learning links of the week.
 - [Air Around AI](https://airaroundai.substack.com/). Air Around AI is a weekly newsletter of the top news, best tutorials, product launches and super tips on AI.
+- [The Batch](https://www.deeplearning.ai/the-batch/). The weekly DeepLearning.AI newsletter that highlights the most practical research papers, industry shaping applications and high impact business news.
 
 ## Blockchain / Cryptocurrencies
 
@@ -374,6 +378,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [MindByte Weekly Pulse](https://mindbyte.beehiiv.com) Fuel your week with MindByte Weekly Pulse, your indispensable guide to navigating the dynamic world of GitHub, Azure, and .NET. Discover the latest insights, tips, and trends, curated by an industry expert, delivered to your inbox every week.
 - [TechTok Today](https://techtok.today). Daily summarised and curated news in technology (as newsletter and in-website stories) picked from the most popular sources and fresh engineering blogs articles from leading tech companies.
 - [Weekly Engineering Newsletter](https://weeklyengineeringnewsletter.substack.com). Every Sunday, delivering a digest of the week's most fascinating finds in the tech world.
+- [Hacking Scale](https://newsletter.betterstack.com/). A bi-weekly newsletter about building and scaling software from engineers at Better Stack.
 
 ## Leadership
 
@@ -415,6 +420,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Senior Mindset](https://seniormindset.com). Get a series of curated essays on the mindset of a senior software engineer.
 - [Weekly Robotics](https://weeklyrobotics.com/). A weekly newsletter with news, projects and research related to robotics.
 - [Future Crunch](https://futurecrunch.com). A fortnightly newsletter with all the good news you don't get to hear about, in science, the environment, and across the world. You can see a feed of their good news [here](https://futurecrun.ch/goodnews).
+- [Simply Explained](https://newsletter.simplyexplained.com/). Monthly newsletter to tickle your curiosity. Mostly science and technology news.
 
 ## Resilience
 
@@ -439,6 +445,10 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Founder Weekly](http://www.founderweekly.com/). A free weekly newsletter for entrepreneurs featuring best curated content, must read articles, how to guides, tips and tricks, resources, events and more.
 - [Founders Grid](https://smash.vc/founders-grid/). A weekly newsletter for startup founders that rounds up the best resources from startup ecosystem.
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/). Cutting edge news regarding entrepreneurship, growth, investing and startups sourced from the best Reddit posts.
+
+## Productivity
+
+- [The Productivity Newsletter](https://newsletter.productivity.directory)
 
 ## Miscellaneous
 
