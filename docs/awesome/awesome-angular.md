@@ -300,6 +300,7 @@ become an Angular expert.
 * [Brian Treese](https://www.youtube.com/@briantreese)
 * [Ben And Engineering](https://www.youtube.com/@the__b_a_e)
 * [JSgigs](https://www.youtube.com/@jsgigs4909)
+* [Sebastian Persson](https://www.youtube.com/@DevBySeb)
 
 ##### Style Guides
 
@@ -352,6 +353,7 @@ become an Angular expert.
 * [angulartics2](https://github.com/angulartics/angulartics2) - Vendor-agnostic analytics for Angular2 applications.
 * [angular-google-tag-manager](https://github.com/mzuccaroli/angular-google-tag-manager) - A service library for integrate google tag manager in your angular project.
 * [litlyx](https://github.com/Litlyx/litlyx) - The easiest dev-centric analytics tool. Litlyx is an open-source analytics solution for any JavaScript framework. Setup takes less then 30 seconds and just one line of code!
+* [plausible](https://github.com/plausible/analytics) - Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics. Works without any extra configuration on [single page applications](https://plausible.io/docs/spa-support).
 
 #### Authentication
 
@@ -876,6 +878,8 @@ become an Angular expert.
 * [ng-condition](https://github.com/nigrosimone/ng-condition) - An alternative directive to `*ngIf; else` that simplifies conditions in HTML templates.
 * [ngx-sticky-kit](https://github.com/matheo/ngx-sticky-kit) - Angular Sticky makes HTML elements sticky. For instance, the header, the menu, the sidebar or any other block can be stuck at the desired position.
 * [ngx-ellipsis](https://github.com/lentschi/ngx-ellipsis) - Multiline text with ellipsis for Angular 9+.
+* [ngx-func-pipe](https://github.com/ko1ebayev/ngx-func-pipe) - A simple and lightweight Angular pipe that allows you to call a function directly from your Angular templates.
+* [ngx-pipes-toolkit](https://github.com/SlyTed/ngx-pipes-toolkit) - A complementary pipes library for Angular.
 
 #### Drag and Drop
 
@@ -944,6 +948,7 @@ become an Angular expert.
 * [ngx-vest-forms](https://github.com/simplifiedcourses/ngx-vest-forms) - A lightweight adapter for Angular template-driven forms integrated with vest.js for validation.
 * [ngx-currency](https://github.com/nbfontana/ngx-currency) - Currency mask module for Angular.
 * [ngx-super-forms](https://github.com/naologic/ngx-super-forms) - This library adds some much-needed features on top of Angular forms and Reactive forms, to make it more developer friendly.
+* [tripetto](https://gitlab.com/tripetto) - Tripetto’s FormBuilder SDK contains fully customizable components for equipping apps and websites with a comprehensive form building and deploying solution. Follow this [quickstart](https://tripetto.com/sdk/docs/getting-started/usage-with-angular/) to use FormBuilder with Angular.
 
 ##### Form Controls
 
@@ -1128,6 +1133,7 @@ become an Angular expert.
 * [angular-toolbox](https://github.com/pechemann/angular-toolbox) - A library that provides useful tools for Angular apps development.
 * [ngx-lift](https://github.com/wghglory/ngx-lift) - This project has been crafted to enhance and simplify your Angular development experience. In the dynamic web development landscape, Angular stands out as a robust framework, and `ngx-lift` and `clr-lift` complement it by offering a collection of utilities, operators, and components.
 * [firestitch](https://github.com/orgs/Firestitch/repositories) - [Firestitch](https://firestitch.com/) has a ton of open source Angular solutions.
+* [ngx-tools](https://github.com/studiohyperdrive/ngx-tools) - A mono-repo providing several of the Angular based packages created and maintained by the [Studio Hyperdrive](https://studiohyperdrive.be/) team.
 
 #### Modals
 
