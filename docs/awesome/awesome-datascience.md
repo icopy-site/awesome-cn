@@ -148,7 +148,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Data Scientist with Python](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python)
 - [Programming with Julia](https://www.udemy.com/course/programming-with-julia/)
 - [Scaler Data Science & Machine Learning Program](https://www.scaler.com/data-science-course/)
-
+- [Data Science Skill Tree](https://labex.io/skilltrees/data-science)
 
 
 ### Intensive Programs

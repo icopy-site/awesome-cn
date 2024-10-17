@@ -773,6 +773,14 @@ become an Angular expert.
 * [@schedule-x/angular](https://github.com/schedule-x/schedule-x) - Material design event calendar.
 * [angular-calendar-timeline](https://github.com/oOps1627/angular-calendar-timeline) - A timeline for Angular 13+ that shows tasks or events on a timeline in different modes: days, weeks, and months. This library is pretty small and DOESN'T use big dependencies like JQuery or Moment.js. Library also supports SSR.
 
+#### Captcha
+
+* [ngx-turnstile](https://github.com/verto-health/ngx-turnstile) - Cloudflare Turnstile for Angular.
+* [ng-hcaptcha](https://github.com/leNicDev/ng-hcaptcha) - Provides an easy to use component for [hCaptcha](https://hcaptcha.com/).
+* [angular-yandex-smart-captcha](https://github.com/flowXM/angular-yandex-smart-captcha) - This library adds the Yandex SmartCaptcha component to your Angular application, providing an easy way to integrate CAPTCHA protection into your forms and other user interactions.
+* [go-captcha-angular](https://github.com/wenlng/go-captcha-angular) - A simple, easy-to-use, interactive, and secure behavioral verification code that implements verification modes such as text/graphic clicking, sliding/dragging, and rotation.
+* [ng-recaptcha-2](https://github.com/LakhveerChahal/ng-recaptcha-2) - Angular 18 fork of [ng-recaptcha](https://github.com/DethAriel/ng-recaptcha). Alternatively, you create your own service that implements Google's reCAPTCHA with the help of this [article](https://ben-5.azurewebsites.net/2024/9/5/google-recaptcha-v3-with-angular/#google_vignette).
+
 #### Carousels
 
 * [ngu-carousel](https://github.com/uiuniversal/ngu-carousel) - Angular Universal carousel.
@@ -1092,6 +1100,7 @@ become an Angular expert.
 * [ngx-maplibre-gl](https://github.com/maplibre/ngx-maplibre-gl) - Angular binding of maplibre-gl.
 * [@angular/google-maps](https://github.com/angular/components/blob/main/src/google-maps/README.md) - This component provides a Google Maps Angular component that implements the Google Maps JavaScript API.
 * [ng-azure-maps](https://github.com/arnaudleclerc/ng-azure-maps) - An Angular library, mostly an HTML-driven wrapper of the azure-maps-controls package, allowing you to easily integrate its functionalities into an Angular application.
+* [HERE maps API for JavaScript](https://www.here.com/docs/bundle/maps-api-for-javascript-developer-guide/page/topics/angular-practices.html) - You can integrate [HERE](https://www.here.com/) Maps with Angular to display interactive maps, geocode addresses, calculate routes, and more, all within the context of your Angular application.
 
 #### Markdown
 
