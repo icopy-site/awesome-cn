@@ -822,6 +822,7 @@ become an Angular expert.
 * [zingchart-angular](https://github.com/zingchart/zingchart-angular) - [ZingChart](https://www.zingchart.com/) is a declarative, efficient, and simple JavaScript library for building responsive charts.
 * [unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
 * [angular-google-charts](https://github.com/FERNman/angular-google-charts) - A wrapper for the Google Charts library written in Angular.
+* [ngx-flexmonster](https://github.com/flexmonster/ngx-flexmonster) - A powerful and fully customizable JavaScript component for web reporting. It is packed with all core features for data analysis and can easily become a part of your Angular data visualization project.
 
 #### Cookies
 
@@ -960,6 +961,7 @@ become an Angular expert.
 * [ngx-currency](https://github.com/nbfontana/ngx-currency) - Currency mask module for Angular.
 * [ngx-super-forms](https://github.com/naologic/ngx-super-forms) - This library adds some much-needed features on top of Angular forms and Reactive forms, to make it more developer friendly.
 * [tripetto](https://gitlab.com/tripetto) - Tripetto’s FormBuilder SDK contains fully customizable components for equipping apps and websites with a comprehensive form building and deploying solution. Follow this [quickstart](https://tripetto.com/sdk/docs/getting-started/usage-with-angular/) to use FormBuilder with Angular.
+* [ngx-smart-forms](https://github.com/AditechGH/ngx-smart-forms) - This workspace contains Angular libraries that streamline form handling and validation by simplifying form creation, validation, and error display, and offering advanced customization and performance boosts.
 
 ##### Form Controls
 
@@ -995,6 +997,8 @@ become an Angular expert.
 * [angular-reactive-validation](https://github.com/davidwalschots/angular-reactive-validation) - Reactive Forms validation shouldn't require the developer to write lots of HTML to show validation messages. This library makes it easy.
 * [ngx-formcontrol-errors](https://github.com/dgonzalez870/ngx-formcontrol-errors) - A directive for showing errors in Angular form controls.
 * [error-tailor](https://github.com/ngneat/error-tailor) - Making sure your tailor-made error solution is seamless!
+* [ngx-validator-pack](https://github.com/dynimorius/ngx-validator-pack) - A collection of validators designed
+to simplify usage and allow quick customization.
 
 #### Icons
 
@@ -1080,6 +1084,7 @@ become an Angular expert.
 * [angular-svg-round-progressbar](https://github.com/crisbeto/angular-svg-round-progressbar) - Angular module that uses SVG to create a circular progressbar.
 * [ng-circle-progress](https://github.com/bootsoon/ng-circle-progress) - A simple circle progress component created for Angular based on SVG Graphics.
 * [ngx-loading-buttons](https://github.com/dkreider/ngx-loading-buttons) - A lightweight Angular library to add a loading spinner to your Angular Material buttons.
+* [ngx-fastboot](https://github.com/KernelPanic92/ngx-fastboot) - A dynamic configuration loader for Angular applications. It optimizes the startup performance by loading configurations in a separate chunk during compilation.
 
 #### Loggers
 
