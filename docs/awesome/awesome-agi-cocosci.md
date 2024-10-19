@@ -1410,7 +1410,7 @@ English-language description for use by biologists.
 
 * [Bayesian Brains without Probabilities](https://www.sciencedirect.com/science/article/pii/S1364661316301565?via%3Dihub) - ***Trends in Cognitive Sciences***, 2016. [[All Versions](https://scholar.google.com/scholar?cluster=13076510377612067772&hl=en&as_sdt=0,5)]. A perspective on human probabilistic modeling without explicit probabilistic computation.
 
-* [Rational quantitative attribution of beliefs, desires and percepts in human mentalizing](https://www.nature.com/articles/s41562-017-0064) - ***Nature Human Behavior***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=9377509910551057835&hl=en&as_sdt=0,5)].
+* [Rational quantitative attribution of beliefs, desires and percepts in human mentalizing](https://www.nature.com/articles/s41562-017-0064) - ***Nature Human Behavior***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=9377509910551057835)]. [[Preprint](https://cbmm.mit.edu/sites/default/files/publications/article.pdf)]. This paper presents a model of core mentalizing computations: inferring jointly an actor’s beliefs, desires and percepts from how they move in the local spatial environment. The proposed Bayesian theory of mind (BToM) model is based on probabilistically inverting artificial-intelligence approaches to rational planning and state estimation, which extend classical expected-utility agent models to sequential actions in complex, partially observable domains.
 
 * [Machine theory of mind](http://proceedings.mlr.press/v80/rabinowitz18a/rabinowitz18a.pdf) - ***ICML'18***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=6267278380616425333&hl=en&as_sdt=0,5)].
 
