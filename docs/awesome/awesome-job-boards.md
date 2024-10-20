@@ -7,11 +7,11 @@ A curated list of awesome niche job boards.
 
 ## Artificial Intelligence (AI)
 
+* [AI Jobs](https://www.moaijobs.com/) - AI Jobs in ML, Data Science, Engineering, and Research
 * [AI Jobs Dev](https://aijobs.dev) - Discover companies looking to hire AI, ML, Data Science & Big Data engineers and connect with them
 * [AI Jobs](https://aijobs.app) – Jobs in Artificial Intelligence (AI)
-* [ai-jobs.net](https://ai-jobs.net/) - Jobs in AI and Big Data
+* [aijobs.net](https://aijobs.net/) - Jobs in AI and Big Data
 * [AI/ML Jobs](https://www.aimljobs.fyi) - Jobs at Top AI Companies and Startups, Updated Daily!
-* [AI Jobs Board](https://aijobsboard.net) - Jobs in AI/ML
 
 ## Big Data
 
@@ -76,7 +76,7 @@ A curated list of awesome niche job boards.
 ## InfoSec
 
 * [NinjaJobs](https://ninjajobs.org/) - A community-run job platform developed by InfoSec professionals
-* [infosec-jobs.com](https://infosec-jobs.com/) - A fresh and lean InfoSec jobs board
+* [isecjobs.com](https://isecjobs.com/) - A fresh and lean InfoSec jobs board
 
 ## Programming
 
@@ -106,7 +106,6 @@ A curated list of awesome niche job boards.
 * [Jobs In JS](https://jobsinjs.com/)
 * [JavaScript Developer Board](https://javascriptjob.xyz/)
 * [Vue.js Jobs](https://vuejobs.com/)
-* [React Jobs](https://reactjsjob.com)
 * [Svelte Jobs](https://sveltejobs.com/)
 * [Javascript Works](https://javascript.works-hub.com/) - Local and remote JavaScript opportunities, articles and open-source
 * [JSJobbs](https://jsjobbs.com/)
@@ -141,19 +140,16 @@ A curated list of awesome niche job boards.
 
 * [Rust Jobs](https://www.rustjobs.com) - A job board dedicated to the Rust programming language
 * [Rust Jobs](https://rustjobs.dev) - The go-to hiring platform for Rust engineering talent
-* [Rust Jobs - Remote and OnSite](https://rustjob.xyz)
 
 ### Scala
 * [Scala Jobs](https://scalajobs.com)
-
-### Java
-* [JavaProHire](https://javaprohire.com/) - A job board crafted with a laser focus on Java developers
 
 ### TypeScript
 * [TypeScript Jobs](https://typescriptjobs.dev)
 
 ## Remote
 
+* [100% Work From Anywhere jobs](https://www.realworkfromanywhere.com/) - Fully remote jobs to live and work from anywhere
 * [We Work Remotely](https://weworkremotely.com/)
 * [DailyRemote](https://dailyremote.com/)
 * [Werkington](https://www.werkington.com/)
@@ -185,6 +181,7 @@ A curated list of awesome niche job boards.
 
 * [Relocate.me](https://relocate.me/) - Verified relocation packages
 * [underpin](https://www.underpin.company/) - Tech jobs and job search advice from an actual recruiter
+* [Christian Tech Jobs](https://www.christiantechjobs.io/) - Tech jobs at Christian companies
 
 ### Canada
 
@@ -194,7 +191,9 @@ A curated list of awesome niche job boards.
 
 * [GermanTech Jobs](https://germantechjobs.de/) - Dedicated Tech Job Board for Germany
 * [SwissDev Jobs](https://swissdevjobs.ch/) - Jobs for Software Developers from the EU that want to work in Switzerland
-* [WeJob.ch](https://WeJob.ch/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) - Developers and IT Jobs in Switzerland 🇨🇭
+* [DanishTech.co](https://danishtech.co/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) - Dedicated Tech Job Board for Denmark 🇩🇰
+* [Next Level Jobs EU](https://nextleveljobs.eu/?utm_source=github&utm_medium=referral&utm_campaign=tramcar-awesome-job-boards) - €100k+ Software Engineering Jobs 🇪🇺
+* [Work In Tech](https://www1.communitech.ca/jobs) - Find your next role at Canada's fastest-growing tech companies
 
 ### United Kingdom
 
@@ -202,7 +201,6 @@ A curated list of awesome niche job boards.
 
 ## Writing
 
-* [Write the Docs Job Board](https://jobs.writethedocs.org/) - Jobs for people who care about documentation
 
 ## Various
 * [WorkInGreen.jobs](https://workingreen.jobs/) - Greentech related jobs

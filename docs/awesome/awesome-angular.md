@@ -568,6 +568,7 @@ become an Angular expert.
 * [ngx-translate-router](https://github.com/gilsdav/ngx-translate-router) - Translate routes using `ngx-translate`.
 * [intl-tel-input-ng](https://github.com/mpalourdio/intl-tel-input-ng) - An Angular component to easily integrate [intl-tel-input](https://github.com/jackocnr/intl-tel-input).
 * [ng-intl](https://github.com/antimprisacaru/ng-intl) - Type-safe, reactive Angular i18n library. Lazy-loaded translations, signal-based reactivity, full TypeScript support. Efficient, flexible, and scalable internationalization for Angular projects.
+* [ngx-easy-i18n-js](https://github.com/gabrie-allaigre/ngx-easy-i18n-js) - The easy internationalization (i18n) library for Angular.
 
 #### Monorepos
 
@@ -710,6 +711,7 @@ become an Angular expert.
 * [ngx-testing-tools](https://github.com/remscodes/ngx-testing-tools) - Provides high-level utilities and reduces boilerplate for testing Angular applications.
 * [angular-testing-kit](https://github.com/lazycuh/angular-testing-kit) - A set of convenient utilities to make Angular testing with Jasmine and Karma simpler.
 * [playwright-ng-schematics](https://github.com/playwright-community/playwright-ng-schematics) - Adds Playwright Test to your Angular project.
+* [docker-ng-cli-karma](https://github.com/trion-development/docker-ng-cli-karma) - Angular docker image capable of running Karma with Chrome.
 
 #### Updating
 
@@ -1126,6 +1128,7 @@ to simplify usage and allow quick customization.
 * [Vidstack](https://github.com/vidstack/player) - A framework and collection of UI components for building and managing custom media players on the web. You can use this library to build your own player (see our examples), or use our production-ready Default Layout and customize it to match your brand and site. See this [installation guide](https://www.vidstack.io/docs/player/getting-started/installation/angular?styling=default-layout&provider=video).
 * [dyte-io/ui-kit](https://github.com/dyte-io/ui-kit) - Dyte's UI library for creating meeting interfaces.
 * [ngx-youtube-player](https://github.com/orizens/ngx-youtube-player) - Angular component based on [YouTube player iframe API](https://developers.google.com/youtube/iframe_api_reference).
+* [ngx-videogular](https://github.com/videogular/ngx-videogular) - An HTML5 video player for Angular 2.0. Videogular is a wrapper over the HTML5 video tag, so you can just add whatever you want. This provides a very powerful, but simple to use solution, for everybody.
 
 #### Mixed utilities
 

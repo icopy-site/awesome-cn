@@ -73,6 +73,7 @@
 ### Operating systems/Kernels
 
 - [Vinix](https://github.com/vlang/vinix) - Small and simple OS in V. Runs bash.
+- [V-Unikernel](https://github.com/vlang/unikernel) - A unikernel is a computer program statically linked with the operating system code on which it depends.
 
 ### Package managers
 
@@ -199,6 +200,7 @@
 - [vplot](https://github.com/erdetn/vplot) - V wrapper for GNU Plot (`gnuplot_i`).
 - [vsl](https://github.com/vlang/vsl) - VSL is a Scientific Library with a great variety of different modules. Although most modules offer pure-V definitions, VSL also provides modules that wrap known C libraries among other backends that allow high performance computing as an alternative. Also provides opinionated wrappers for OpenBLAS, LAPACKE, MPI, OpenCL among other libraries.
 - [vtl](https://github.com/vlang/vtl) - The V Tensor Library is a numerical computing library supporting n-dimensional data structure, backed by VSL.
+- [NeuralNetworks-V-Module](https://github.com/Eliyaan/NeuralNetworks-V-Module) - This is a V module to create neural networks.
 
 ### Serial Communications
 
@@ -307,6 +309,7 @@
 #### VS Code
 
 - [vscode-vlang](https://github.com/vlang/vscode-vlang) - V Language extension for Visual Studio Code.
+- [v-analyzer](https://github.com/vlang/v-analyzer) - Bring IDE features for the V programming language to VS Code.
 
 #### Vim
 

@@ -76,6 +76,7 @@ This list includes all the best tools, tutorials and examples related to the awe
 - [[TodaysTuts] Construct 2 - Behaviors](https://www.youtube.com/playlist?list=PLO3K3VFvlU6B1InGyrx7Iz7w_MDizWlXK) - Tutorials about Behaviours.
 - Let's Make Games: [[PONG]](https://www.youtube.com/watch?v=cvItNHEMB80) [[ASTEROIDS]](https://www.youtube.com/watch?v=nYULTk2BpKY) [[Flappy Bird]](https://www.youtube.com/watch?v=eBccn1qMB_U) - Tutorials on how to make specifi games.
 - [Construct 2 Tutorials - Breakout Clone](https://www.youtube.com/playlist?list=PL59F92017DA9887DB) - Learn how to create a Brakeout game.
+- [Lessis Games](https://www.youtube.com/@lessisgames8555/playlists) - Tutorials & more.
 
 ### Other Sources
 
@@ -83,6 +84,7 @@ This list includes all the best tools, tutorials and examples related to the awe
 - [[MVA] Developing Windows 10 Games with Construct 2 (Advanced)](https://mva.microsoft.com/en-US/training-courses/developing-windows-10-games-with-construct-2-16335) - Advanced course about making games.
 - [[Udemy FREE!] Learn Construct 2](https://www.udemy.com/learn-construct-2-creating-a-pixel-platformer-in-html5/) - Creating a Pixel Platformer in HTML5.
 - [[TutPlus] Construct 2 Tutorials](https://gamedevelopment.tutsplus.com/categories/construct-2) - General tutorials.
+- [How To Construct Demo](https://howtoconstructdemos.com/) - Demo samples.
 
 ## E-Books
 - [Level Zero](https://www.construct.net/blogs/construct-official-blog-1/level-zero-free-construct-2-book-853) - Complete book on how to make games.
