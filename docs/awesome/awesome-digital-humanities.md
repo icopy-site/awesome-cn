@@ -52,14 +52,10 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 ## Data Annotation
 
-- [Annotation Studio](https://app.annotationstudio.org/) - Suite of tools for collaborative web-based annotation, developed by MIT's HyperStudio. 
+- [Annotation Studio](https://www.annotationstudio.org/) - Suite of tools for collaborative web-based annotation, developed by MIT's HyperStudio. 
 - [CATMA](https://catma.de/) - Computer Assisted Text Markup and Analysis.
 - [Glycerine](https://glycerine.io/) - Provides a suite of IIIF image annotation tools and end-to-end workflows for researchers, curators and students to collaborate on projects across repositories and publish research ouputs.
 - [Recogito](https://recogito.pelagios.org/) - Semantic Annotation for images and texts.
-
-## Data Augmentation
-
-- [AutoCat](https://autocat.apps.allenai.org/) - Create simple text classification models online. Provided by the Allen Institute for AI (AI2).
 
 ## DH Centers
 
@@ -69,7 +65,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Digital Humanities Lab - Universität Basel](https://dhlab.philhist.unibas.ch/en/) - The Digital Humanities is an interdisciplinary institution of the University of Basel.
 - [HDLab](http://hdlab.stanford.edu/) - Humanities + Design a Research Lab at Stanford University.
 - [Humanités numériques Unversity of Geneva](https://www.unige.ch/lettres/humanites-numeriques/) - The aim of the Chair is to teach the use of digital technology to all human sciences, according to the methods and issues specific to the Humanities.
-- [Ladhul dhCenter](https://www.unil.ch/ladhul/fr/home.html) - Laboratoire de cultures et humanités digitales de l'Université de Lausanne.
+- [Ladhul dhCenter](http://www.dhlausanne.ch/) - Laboratoire de cultures et humanités digitales de l'Université de Lausanne.
 - [Luxembourg Centre for Contemporary and Digital History](https://www.c2dh.uni.lu/) - Research on new digital methods and tools for historical research and teaching.
 - [Roy Rosenzweig Center for History and New Media](https://rrchnm.org/) - Creators of Zotero and other amazing open-source software tools for historians.
 
@@ -106,20 +102,19 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Awesome Web Archiving](https://github.com/iipc/awesome-web-archiving) - Resources to archive the web.
 - [Carolina Digital Humanities Initiative Tools Page](http://digitalhumanities.unc.edu/resources/tools/) - It provides a range of platforms, plug-ins, readings, and other items that might be of use for DH researchers.
 - [DH Toychest](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools) - Guides, tools, and other resources for practical work in the digital humanities by researchers, teachers, and students. Curated by [Alan Liu](http://liu.english.ucsb.edu/), University of California, Santa Barbara.
-- [DiRT (Digital Research Tools)](https://dirtdirectory.org/) - The DiRT Directory is a registry of digital research tools for scholarly use. DiRT makes it easy for digital humanists and others conducting digital research to find and compare resources ranging from content management systems to music OCR, statistical analysis packages to mind-mapping software.
 - [Digital Textuality Resource Pages](http://digitaltextuality.pbworks.com/w/page/68178062/Digital%20Textuality%20Resource%20Pages) - Inspired by Alan Liu's ToyChest, Kimberly Knight and her students at U. Texas (Dallas) keep in this repository a list of tools for text production, visualization, still image work, sound work, and video and animation; includes some student reviews of tools.
 - [Duke University's DH Tools catalog](https://digitalhumanities.duke.edu/tools) - This list includes tools that Duke supports and tools that have been used by Duke digital projects. Some of the tools are made specifically for DH and others that can be re-purposed quite effectively for Humanities research.
 - [FID Romanistik](https://www.fid-romanistik.de/forschungsdaten/suche-nach-forschungsdaten/fid-internetressourcen/tools/) - Curated list of tools and resources for digital humanists in German.
 - [GLAMS Workbench](https://glam-workbench.net/) - A collection of tools, tutorials, examples, and hacks to help you work with data from galleries, libraries, archives, and museums (the GLAM sector). The primary focus is Australia and New Zealand, but new collections are being added all the time.
 - [Social Sciences & Humanities Open Marketplace](https://marketplace.sshopencloud.eu/) - A discovery portal which pools and contextualises resources for Social Sciences and Humanities research communities: tools, services, training materials, datasets, publications and workflows.
 - [TAPoR 3](http://tapor.ca/home) - TAPoR is a gateway to the tools used in sophisticated text analysis and retrieval. It was redesigned in order to integrate the DiRT (Digital Research Tools) directory.
-- [Taxonomy of Digital Research Activities in the Humanities (TaDiRAH)](http://tadirah.dariah.eu/vocab/) - This taxonomy has been developed for use by community-driven sites and projects that aim to structure information relevant to digital humanities and make it more easily discoverable. The taxonomy is expected to be particularly useful to endeavors aiming to collect information on digital humanities tools, methods, projects, or readings.
+- [Taxonomy of Digital Research Activities in the Humanities (TaDiRAH)](https://tadirah.info/) - This taxonomy has been developed for use by community-driven sites and projects that aim to structure information relevant to digital humanities and make it more easily discoverable. The taxonomy is expected to be particularly useful to endeavors aiming to collect information on digital humanities tools, methods, projects, or readings.
 
 ## Platforms
 
 - [DHSlack](https://github.com/amandavisconti/DHslack/blob/master/CodeOfConduct.md) - Slack channels for digital humanities scholars.
-- [HSS Digital](https://digital.hssonline.org/) - Digital scholarship in the history of science initiative.
-- [Perspectives on History](https://www.historians.org/publications-and-directories/perspectives-on-history/digital-history) - The newsmagazine of the American Historical Association.
+- [HSS Digital](https://hssonline.org/page/digitalprojects) - Digital scholarship in the history of science initiative.
+- [Perspectives on History](https://www.historians.org/community-careers/digital-history-resources/) - The newsmagazine of the American Historical Association.
 - [wethink.hypotheses.org](https://wethink.hypotheses.org/) - Collaborative Digital History.
 - [Wikipedia](https://en.wikipedia.org/wiki/Digital_history) - Digital history is the use of digital media to further historical analysis, presentation, and research.
 
@@ -136,8 +131,6 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 ## Twitter
 
-- [CH-Centren by @Mareike2405](https://twitter.com/i/lists/732799503221284864) - List of DH centers by Mareike König.
-- [DH-People by @Mareike2405](https://twitter.com/i/lists/900392225842049024) - List of DH people by Mareike König.
 - [Digital History by @moritzmaehr](https://twitter.com/moritzmaehr/lists/digital-history) - List of Digital History people by Moritz Mährg.
 - [Digital Humanities by @GrandjeanMartin](https://twitter.com/GrandjeanMartin/lists/digital-humanities) - List of Digital Humanities people by Martin Grandjean.
 - [Digital Humanities by @normanlippert](https://twitter.com/normanlippert/lists/digital-humanities) - List of Digital Humanities people by Norman Lippert.
@@ -156,7 +149,7 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [Framework for Information Literacy for Higher Education](http://www.ala.org/acrl/standards/ilframework) - How to teach digital literacy.
 - [Humanities Data Analysis](https://www.humanitiesdataanalysis.org/) - A practical guide to data-intensive humanities research using the Python programming language.
 - [Intro Cultural Analytics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) - Analyze cultural artifacts with Python.
-- [Introduction to Digital Humanities (DH101)](http://dh101.humanities.ucla.edu/) - Collection of resources/online coursebook based on the *Introduction to Digital Humanities (DH101)* course at [UCLA](http://www.ucla.edu/).
+- [Introduction to Digital Humanities (DH101)](https://asandersgarcia.humspace.ucla.edu/courses/dh101f18/) - Collection of resources/online coursebook based on the *Introduction to Digital Humanities (DH101)* course at [UCLA](http://www.ucla.edu/).
 - [Jupyter Notebooks for Digital Humanities](https://github.com/quinnanya/dh-jupyter/blob/master/README.md) - A diverse range of Jupyter notebooks, comprising research materials, course content, Python tutorials, and specific analysis tools.
 - [Missing Semester](https://missing.csail.mit.edu/) - Useful tools that are not taught in class.
 - [New Languages for NLP](https://new-languages-for-nlp.github.io/course-materials/intro.html) - Learn how to annotate linguistic data and train statistical language models using cutting-edge natural language processing (NLP) tools.
@@ -174,4 +167,4 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [StorylineJS](http://storyline.knightlab.com/) - Tell the story behind the numbers.
 - [StorymapJS](https://storymap.knightlab.com/) - Maps that tell stories.
 - [TimelineJS](https://timeline.knightlab.com/) - Easy-to-make, beautiful timelines.
-- [Vistorian.online](https://vistorian.online/) - Interactive Visualizations for Dynamic and Multivariate Networks.
+- [Vistorian.online](https://vistorian.github.io/) - Interactive Visualizations for Dynamic and Multivariate Networks.

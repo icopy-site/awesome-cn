@@ -33,7 +33,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 - [Cake](https://github.com/cake-build/cake) _(label: Good-first-issue)_ <br> Cake (C# Make) is a free and open source cross-platform build automation system with a C# DSL for tasks such as compiling code, copying files and folders, running unit tests, compressing files and building NuGet packages.
 - [grok.net](https://github.com/Marusyk/grok.net) _(label: good-first-issue)_ <br> Cross platform .NET grok implementation
-- [OpenRA](https://github.com/OpenRA/OpenRA) _(label: Easy)_ <br> A Real Time Strategy game engine supporting early Westwood classics such as Command & Conquer: Red Alert.
 - [osu!](https://github.com/ppy/osu) _(label: good-first-issue)_ <br> Music game. Rhythm is just a click away!
 - [Uno Platform](https://github.com/unoplatform/uno) _(label: good-first-issue)_ <br> OSS project for creating pixel-perfect, single-source C# and XAML apps which run natively on iOS, Android, macOS, Linux and Web via WebAssembly.
 
@@ -266,7 +265,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Jupyter notebook](https://github.com/jupyter/notebook) _(label: good-first-issue)_ <br> Jupyter interactive notebook.
 - [Kinto](https://github.com/Kinto/kinto) _(label: easy-pick)_ <br> A lightweight JSON storage service with synchronisation and sharing abilities.
 - [Kinto.sh](https://github.com/rbreaves/kinto) _(label: first-timers-only)_ <br> Make Linux & Windows type like a mac.
-- [Mailpile](https://github.com/mailpile/Mailpile) _(label: Low-Hanging-Fruit)_ <br> A free & open modern, fast email client with user-friendly encryption and privacy features
 - [matplotlib](https://github.com/matplotlib/matplotlib) _(label: good-first-issue)_ <br> Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python.
 - [MindsDB](https://github.com/mindsdb/mindsdb) _(label: good-first-issue)_ <br> MindsDB is an open source AI layer for existing databases.
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy) _(label: help-wanted)_ <br> An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
