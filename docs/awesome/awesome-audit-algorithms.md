@@ -10,7 +10,9 @@ Nowadays, many algorithms (recommendation, scoring, classification) are operated
 
 
 ## Papers
+
 ### 2024
+- [Auditing Local Explanations is Hard](https://arxiv.org/abs/2407.13281) - (NeurIPS) *Gives the (prohibitive) query complexity of auditing explanations.*
 - [LLMs hallucinate graphs too: a structural perspective](https://arxiv.org/abs/2409.00159) - (complex networks) *Queries LLMs for known graphs and studies topological hallucinations. Proposes a structural hallucination rank.*
 - [Fairness Auditing with Multi-Agent Collaboration](https://arxiv.org/pdf/2402.08522) - (ECAI) *Considers multiple
 agents working together, each auditing the same platform for different tasks.*

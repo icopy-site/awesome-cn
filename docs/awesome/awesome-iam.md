@@ -27,15 +27,26 @@
     <strong>Drag and drop your auth.</strong><br/>
     Add authentication, user management, and authorization to your app with a few lines of code.
   </a>
-  <!-- Comment this sponsorship call-to-action if there is a sponsor logo to increase its impact. -->
-  <!--
+</p>
+
+<p align="center">
+  <a href="https://www.cerbos.dev/?utm_campaign=brand_cerbos&utm_source=awesome_iam&utm_medium=github&utm_content=&utm_term=">
+    <img width="600" src="https://raw.githubusercontent.com/kdeldycke/awesome-iam/main/assets/cerbos-banner.svg">
+    <br/>
+    Build scalable, fine-grained authorization for your apps. <strong>Try Cerbos</strong>, an authorization management system for authoring, testing, and deploying access policies.
+  </a>
+</p>
+
+<!-- Comment this sponsorship call-to-action if there is a sponsor logo to increase its impact. -->
+<!--
+<p align="center">
   <a href="https://github.com/sponsors/kdeldycke">
     <strong>Yᴏᴜʀ Iᴅᴇɴᴛɪᴛʏ & Aᴜᴛʜᴇɴᴛɪᴄᴀᴛɪᴏɴ Pʀᴏᴅᴜᴄᴛ ʜᴇʀᴇ!</strong>
     <br/>
     <sup>Add a link to your company or project here: back me up via a GitHub sponsorship.</sup>
   </a>
-  -->
 </p>
+-->
 
 ---
 

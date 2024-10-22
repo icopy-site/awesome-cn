@@ -134,6 +134,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [Kristify](https://kristify.madefor.cc/) - Software for highly customizable Krist shops in modern versions of ComputerCraft, powered by [Basalt](https://basalt.madefor.cc).
 - [LP](https://github.com/migeyel/lp) - A Krist shop which dynamically adjusts buy and sell prices based on supply and demand.
 - [msks](https://github.com/MasonGulu/msks) -  A modern, simple shop for the Krist virtual currency.
+- [printshop](https://github.com/znepb/printshop) - A Krist shop which sells 3D prints and posters, also allowing players to print their own designs.
 
 ### Mod-specific programs
 

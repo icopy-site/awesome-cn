@@ -52,10 +52,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 - [Alda](https://github.com/alda-lang/alda) _(label: low-hanging-fruit)_ <br> A music programming language for musicians. 🎶
 
-## ClojureScript
-
-- [LightTable](https://github.com/LightTable/LightTable) _(label: good-first-issue)_ <br> The Next Generation code editor! One of the top funded projects on KickStarter.
-
 ## Dart
 
 - [dart.dev](https://github.com/dart-lang/site-www) _(label: beginner)_ <br> A website covering Dart language and common libraries, for developers of Dart libraries, web apps, server-side code, and mobile (Flutter) apps.
@@ -78,7 +74,7 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Helm](https://github.com/kubernetes/helm) _(label: good-first-issue)_ <br> The Kubernetes Package Manager
 - [httpexpect](https://github.com/gavv/httpexpect) _(label: help-wanted)_ <br> End-to-end HTTP and REST API testing for Go.
 - [Hugo](https://github.com/gohugoio/hugo) _(label: GoodFirstIssue)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
-- [Kanister](https://github.com/kanisteroio/kanister) _(label: good-first-issue)_ <br> A Data Protection Workflow Management Engine
+- [Kanister](https://github.com/kanisterio/kanister) _(label: good-first-issue)_ <br> A Data Protection Workflow Management Engine
 - [Killgrave](https://github.com/friendsofgo/killgrave) _(label: good-first-issue)_ <br> Simple way to generate mock servers in Go.
 - [Kubernetes](https://github.com/kubernetes/kubernetes) _(label: good-first-issue)_ <br> Production-Grade Container Scheduling and Management System
 - [lxd](https://github.com/lxc/lxd) _(label: easy)_ <br> System container and virtual machine manager.
@@ -104,7 +100,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [JabRef](https://github.com/JabRef/jabref) _(label: good-first-issue)_ <br> Desktop application for managing literature references using modern Java features including JavaFX. Dedicated to code quality and constructive feedback: Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions.
 - [OpenMetadata](https://github.com/open-metadata/OpenMetadata) _(label: good first issue)_ <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
 - [QuestDB](https://github.com/questdb/questdb) _(label: Good first issue)_ <br> Questdb is a fast open source SQL time series database.
-- [SirixDB](https://github.com/sirixdb/sirix) _(label: good-first-issue)_ <br> SirixDB is an evolutionary, versioned NoSQL document store (XML and JSON) written (mostly) in Java. It stores compact snapshots during commits with many concepts borrowed from ZFS and Git. Each revision is indexed and the document store can be queried with temporal queries. It's especially well suited for modern hardware.
 - [Strongbox](https://github.com/strongbox/strongbox) _(label: good-first-issue)_ <br> Strongbox is an artifact repository manager written in Java.
 - [TEAMMATES](https://github.com/TEAMMATES/teammates) _(label: good-first-issue)_ <br> TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students.
 - [Trino (formerly Presto SQL)](https://github.com/trinodb/trino) _(label: good-first-issue)_ <br> A distributed SQL query engine for big data. Ask for guidance on project's Slack.
@@ -120,7 +115,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [appsmith](https://github.com/appsmithorg/appsmith) _(label: good-first-issue)_ <br> Drag & Drop internal tool builder
 - [AVA](https://github.com/sindresorhus/ava) _(label: good-for-beginner)_ <br> Futuristic test runner.
 - [Babel](https://github.com/babel/babel) _(label: good-first-issue)_ <br> A compiler for writing next generation JavaScript.
-- [Binari](https://github.com/BrandonArmand/Binari) _(label: up-for-grabs)_ <br> Interactive code editor with a live binary tree visual designed to teach new developers the fundementals of dynamic programming.
 - [Botpress](https://github.com/botpress/botpress) _(label: contributor-friendly)_ <br> The only sane way to build great bots.
 - [Brave Browser](https://github.com/brave/brave-browser) _(label: good-first-issue)_ <br> Desktop browser for macOS, Windows, and Linux.
 - [Check It Out](https://github.com/jwu910/check-it-out) _(label: good-first-issue)_ <br> Check It Out is an ncurses-like CLI to let the user interactively navigate and select a git branch to check out.
@@ -151,7 +145,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Letra Extension](https://github.com/jayehernandez/letra-extension) _(label: good-first-issue)_ <br> Passively learn a new language every time you open a new tab.
 - [material-ui](https://github.com/mui-org/material-ui) _(label: good-first-issue)_ <br> React components for faster and easier web development. Build your own design system, or start with Material Design.
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=✓&q=is:open+label:"Up+For+Grabs"+label:"Difficulty/1:Easy"+label:"Tech/Go") _(label: n/a)_ <br> Open source Slack-alternative in Golang and React
-- [md-page](https://github.com/oscarmorrison/md-page) _(label: good-first-issue)_ <br> Create a webpage with just markdown.
 - [Meteor](https://github.com/meteor/meteor) _(label: good-first-issue)_ <br> Meteor is an ultra-simple environment for building modern web applications.
 - [Mocha](https://github.com/mochajs/mocha) _(label: good-first-issue)_ <br> Javascript test framework for Node.js and the browser.
 - [Moment.js](https://github.com/moment/moment) _(label: Up-For-Grabs)_ <br> A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
@@ -206,7 +199,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 - [Atrium](https://github.com/robstoll/atrium) _(label: good-first-issue)_ <br> Multiplatform assertion library for Kotlin
 - [Hexagon](https://github.com/hexagonkt/hexagon) _(label: help-wanted)_ <br> A microservices toolkit written in Kotlin
-- [Kotlin Libraries Playground](https://github.com/LouisCAD/kotlin-libraries-playground) _(label: good-first-issue)_ <br> A playground to gain a wider and deeper knowledge of the libraries in the Kotlin ecosystem. Also the official sample for gradle refreshVersions.
 - [Non-Blocking SirixDB HTTP(S)-Server](https://github.com/sirixdb/sirix) _(label: good-first-issue)_ <br> A non-blocking HTTP(S)-Server for SirixDB, a temporal, evolutionary NoSQL document store for XML and JSON.
 
 ## LaTeX
@@ -352,18 +344,14 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Manifest](https://github.com/mnfst/manifest) _(label: good first issue)_ <br> Manifestis an open-source Backend-as-a-Service allowign developers to create a backend easily and quickly.
 - [Node Efficientnet](https://github.com/ntedgi/node-efficientnet) _(label: good first issue)_ <br> EfficientNet Image Recognition model for Node JS ( written with tensorflow.js ).
 - [OpenMetadata](https://github.com/open-metadata/OpenMetadata) _(label: good first issue)_ <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.
+- [Oppia](https://github.com/oppia/oppia) _(label: good first issue)_ <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
 - [reatom](https://github.com/artalar/reatom) _(label: good-first-issue)_ <br> Reatom is declarative and reactive state manager, designed for both simple and complex applications.
 - [Storybook JS](https://github.com/storybookjs/storybook) _(label: good first issue)_ <br> Storybook is a frontend workshop for building UI components and pages in isolation.
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp) _(label: good-first-issue)_ <br> A 0-legacy, tiny & fast web framework as a replacement of Express.
 - [TypeScript](https://github.com/Microsoft/TypeScript) _(label: good-first-issue)_ <br> A superset of JavaScript that compiles to clean JavaScript output.
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) _(label: good first issue)_ <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
-- [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good-first-issue)_ <br> A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
-- [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good first issue)_ <br> A text editor for various coding entities
+- [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good-first-issue)_ <br> A code editor redefined and optimized for building and debugging modern web and cloud applications.
 - [Vite](https://github.com/vitejs/vite) _(label: good first issue)_ <br> Next generation frontend tooling. It's fast! Alternative to Create React App
-
-## Typescript
-
-- [Oppia](https://github.com/oppia/oppia) _(label: good first issue)_ <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
 
 
 ## Contribute
