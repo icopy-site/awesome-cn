@@ -502,6 +502,7 @@ become an Angular expert.
 * [ng-http-loader](https://github.com/mpalourdio/ng-http-loader) - Smart Angular HTTP interceptor - Intercepts automagically HTTP requests and shows a spinkit spinner / loader / progress bar.
 * [ngx-signalify](https://github.com/alcfeoh/ngx-signalify) - A small library to convert RxJs Observables into Angular Signals.
 * [angular-odata](https://github.com/diegomvh/angular-odata) - A fluent API for querying, creating, updating and deleting OData resources in Angular.
+* [ngx-http-retry](https://github.com/itpixelz/ngx-http-retry) - An Angular service that provides HTTP methods (GET, POST, PUT, DELETE) with built-in retry logic using RxJS's `retry` operator.
 
 #### Integrations
 
@@ -906,6 +907,7 @@ become an Angular expert.
 * [ngx-func-pipe](https://github.com/ko1ebayev/ngx-func-pipe) - A simple and lightweight Angular pipe that allows you to call a function directly from your Angular templates.
 * [ngx-pipes-toolkit](https://github.com/SlyTed/ngx-pipes-toolkit) - A complementary pipes library for Angular.
 * [ngx-nullish](https://github.com/piecioshka/ngx-nullish) - Angular Structural Directive, which replaces `*ngIf` with Nullish Coalescing operator.
+* [ngx-interpolation](https://github.com/yassine-klilich/ngx-interpolation) - An Angular lightweight library to interprate string interpolation expressions.
 
 #### Drag and Drop
 
@@ -1005,6 +1007,7 @@ become an Angular expert.
 * [olt-ngx-ui-switch](https://github.com/OuterlimitsTech/olt-ngx-ui-switch) - NGX UI Switch (Forked) to latest version of Angular.
 * [auto-complete](https://github.com/ng2-ui/auto-complete) - Angular Auto Complete component and directive.
 * [ngx-otp-input](https://github.com/pkovzz/ngx-otp-input) - One time password input library for Angular.
+* [ngx-show-hide-password](https://github.com/osahner/ngx-show-hide-password) - Add split input button to password or text input. Toggles input type between "text" and "password".
 
 ##### Validation
 

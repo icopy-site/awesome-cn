@@ -338,7 +338,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 *Database Libraries, SQL Servers, ODBC Drivers, and Tools*
 
 * [ClickHouse](https://github.com/ClickHouse/clickhouse-cpp) - C++ client for ClickHouse DBMS. [Apache2]
-* [DuckDB](https://duckdb.org/) - in-process SQL OLAP Database Management System. [MIT]
+* [CrossDB](https://github.com/crossdb-org/crossdb) - Ultra High-performance Lightweight Embedded and Server OLTP RDBMS. [MPL-2.0] [website](https://crossdb.org/)
+* [DuckDB](https://duckdb.org/) - in-process SQL OLAP Database Management System. [MIT] [website](https://duckdb.org/)
 * [hiberlite](https://github.com/paulftw/hiberlite) - C++ Object-relational mapping for sqlite3. [BSD]
 * [Hiredis](https://github.com/redis/hiredis) - A minimalistic C client library for the Redis database. [BSD]
 * [Infinity](https://github.com/infiniflow/infinity) - The AI-native database built for LLM applications, providing incredibly fast vector and full-text search. [Apache2]
