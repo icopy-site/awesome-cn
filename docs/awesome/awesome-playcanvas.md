@@ -56,6 +56,7 @@
 - [playcanvas-spine](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
 - [playcanvas-tween](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
 - [playcanvas-vue](https://github.com/isobolewski/playcanvas-vue) - A PlayCanvas integration with Vue.js.
+- [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast](https://github.com/recastnavigation/recastnavigation) for PlayCanvas
 - [tween.js](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
 - [Solar Tools](https://solargames.io/tools/) - A commercial toolkit for PlayCanvas that includes a GPU instancer, terrain and effects scripts, multiplayer etc.
 - [Sublime Completions](https://github.com/playcanvas/sublime-completions) - Sublime Text Autocompletion for the PlayCanvas API.

@@ -67,6 +67,9 @@ SparkSQL has [serveral built-in Data Sources](https://spark.apache.org/docs/late
 
 * [Apache Beam](https://beam.apache.org/) <img src="https://img.shields.io/github/last-commit/apache/beam.svg"> - Unified data processing engine supporting both batch and streaming applications. Apache Spark is one of the supported execution environments.
 
+### Data quality
+
+
 ### Testing
 
 
