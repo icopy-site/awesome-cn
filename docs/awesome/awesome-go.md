@@ -1261,6 +1261,7 @@ _Libraries for manipulating images._
 - [go-cairo](https://github.com/ungerik/go-cairo) - Go binding for the cairo graphics library.
 - [go-gd](https://github.com/bolknote/go-gd) - Go binding for GD library.
 - [go-nude](https://github.com/koyachi/go-nude) - Nudity detection with Go.
+- [go-qrcode](https://github.com/yeqown/go-qrcode) - Generate QR codes with personalized styles, allowing adjustments to color, block size, shape, and icons.
 - [go-webcolors](https://github.com/jyotiska/go-webcolors) - Port of webcolors library from Python to Go.
 - [go-webp](https://github.com/kolesa-team/go-webp) - Library for encode and decode webp pictures, using libwebp.
 - [gocv](https://github.com/hybridgroup/gocv) - Go package for computer vision using OpenCV 3.3+.
@@ -3465,6 +3466,7 @@ _Add the group of your city/country here (send **PR**)_
 - [gocryforhelp](https://github.com/ninedraft/gocryforhelp) - Collection of Go projects that needs help. Good place to start your open-source way in Go.
 - [Golang Developer Jobs](https://golangjob.xyz) - Developer Jobs exclusively for Golang related Roles.
 - [Golang News](https://golangnews.com) - Links and news about Go programming.
+- [Golang Nugget](https://mondaynugget.com/golang/) - A weekly roundup of the best Go content, delivered to your inbox every Monday.
 - [Golang Resources](https://golangresources.com) - A curation of the best articles, exercises, talks and videos to learn Go.
 - [Golang Weekly](https://discu.eu/weekly/golang/) - Each monday projects, tutorials and articles about Go.
 - [golang-graphics](https://github.com/mholt/golang-graphics) - Collection of Go images, graphics, and art.

@@ -146,7 +146,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 #### Applications in AI
 
-* [Functional genomic hypothesis generation and experimentation by a robot scientist](https://www.nature.com/articles/nature02236) - ***Nature***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=17461972625475533182&hl=en&as_sdt=0,5)]. A canonical application of logical abduction on biodesign.
+* [Functional genomic hypothesis generation and experimentation by a robot scientist](https://www.nature.com/articles/nature02236) - ***Nature***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=17461972625475533182)]. This paper describes a physically implemented robotic system that applies techniques from artificial intelligence to carry out cycles of scientific experimentation. The system automatically originates hypotheses to explain observations, devises experiments to test these hypotheses, physically runs the experiments using a laboratory robot, interprets the results to falsify hypotheses inconsistent with the data, and then repeats the cycle. The system is applied to the determination of gene function using deletion mutants of yeast (Saccharomyces cerevisiae) and auxotrophic growth experiments. The authors built and tested a detailed logical model (involving genes, proteins and metabolites) of the aromatic amino acid synthesis pathway.
 
 * [Interpretation as abduction](https://www.sciencedirect.com/science/article/abs/pii/0004370293900154?via%3Dihub) - ***Artificial Intelligence***, 1993. [[All Versions](https://scholar.google.com/scholar?cluster=12658433318211361322&hl=en&as_sdt=0,5)]. A computational account on interpretation as Abduction.
 

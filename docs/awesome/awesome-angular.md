@@ -355,6 +355,7 @@ become an Angular expert.
 * [litlyx](https://github.com/Litlyx/litlyx) - The easiest dev-centric analytics tool. Litlyx is an open-source analytics solution for any JavaScript framework. Setup takes less then 30 seconds and just one line of code!
 * [plausible](https://github.com/plausible/analytics) - Simple, open source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics. Works without any extra configuration on [single page applications](https://plausible.io/docs/spa-support).
 * [@blue-cardinal/ngx-google-analytics](https://github.com/blue-cardinal/ngx-google-analytics) - This package provides a module that injects the Google Analytics tag manager script into your Angular project. It provides some guard rails against including the tag manager script in a dev environment.
+* [oculr-ngx](https://github.com/Progressive-Insurance/oculr-ngx) - An analytics library that makes collecting data in an Angular app simple.
 
 #### Authentication
 
@@ -379,6 +380,7 @@ become an Angular expert.
 * [ngx-clerk](https://github.com/anagstef/ngx-clerk) - An unofficial project that aims to provide a seamless integration of [Clerk](https://clerk.com) features into Angular applications.
 * [ng-supabase](https://github.com/rustygreen/ng-supabase) - An Angular component library for your [Supabase](https://supabase.com/) project!
 * [zitadel](https://zitadel.com/docs/examples/login/angular) - Secure authentication management for your application. Customize as you grow, with easy APIs and programmable workflows. Focus on growing, your login is in good hands.
+* [appwrite](https://github.com/appwrite/appwrite) - Using Appwrite, you can easily integrate your [Angular app](https://appwrite.io/docs/quick-starts/angular) with user authentication and multiple sign-in methods, a database for storing and querying users and team data, storage and file management, image manipulation, cloud functions, and more services.
 
 #### Builders
 
@@ -837,6 +839,7 @@ become an Angular expert.
 * [unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
 * [angular-google-charts](https://github.com/FERNman/angular-google-charts) - A wrapper for the Google Charts library written in Angular.
 * [ngx-flexmonster](https://github.com/flexmonster/ngx-flexmonster) - A powerful and fully customizable JavaScript component for web reporting. It is packed with all core features for data analysis and can easily become a part of your Angular data visualization project.
+* [ngx-graph](https://github.com/swimlane/ngx-graph) - Graph visualization library for Angular.
 
 #### Cookies
 
@@ -1147,6 +1150,7 @@ to simplify usage and allow quick customization.
 * [dyte-io/ui-kit](https://github.com/dyte-io/ui-kit) - Dyte's UI library for creating meeting interfaces.
 * [ngx-youtube-player](https://github.com/orizens/ngx-youtube-player) - Angular component based on [YouTube player iframe API](https://developers.google.com/youtube/iframe_api_reference).
 * [ngx-videogular](https://github.com/videogular/ngx-videogular) - An HTML5 video player for Angular 2.0. Videogular is a wrapper over the HTML5 video tag, so you can just add whatever you want. This provides a very powerful, but simple to use solution, for everybody.
+* [voicecapture-angular](https://github.com/angular-a11y/voicecapture-angular) - The library offers customizable options for handling voice input and transcription, making it a flexible solution for enhancing user interfaces.
 
 #### Mixed utilities
 
