@@ -9,9 +9,9 @@
 
 Awesome Regex curates the best regular expression tools, tutorials, libraries, and other resources, covering all major regex flavors.
 
-> Regular expressions (regex or regexp) are a powerful and concise way to search, parse, and process text. They're built into many programming languages, text editors, IDEs, database engines, word processors, and other tools.
+> [Regular expressions](https://en.wikipedia.org/wiki/Regular_expression) (regex or regexp) are a powerful and concise way to search, parse, and process text. They're built into many programming languages, text editors, IDEs, database engines, word processors, and other tools.
 
-Contributions are welcome. Add links through pull requests ([guidelines](https://github.com/slevithan/awesome-regex/blob/master/CONTRIBUTING.md)) or create an issue to start a discussion.
+Contributions are welcome. Add links through pull requests ([guidelines](https://github.com/slevithan/awesome-regex/blob/master/CONTRIBUTING.md)).
 
 <details>
   <summary>📖 <b>Glossary</b></summary>
@@ -26,6 +26,17 @@ Contributions are welcome. Add links through pull requests ([guidelines](https:/
   - Ex: Ruby swapped its regex implementation twice from version 1.8 ➜ 1.9 ➜ 2.0, so each used a distinct flavor. The Ruby 2.0+ flavor is referred to here as either “Ruby” or “Onigmo” (the underlying regex library).
 - **Non-backtracking engine:** A regex implementation that uses a non-backtracking algorithm and runs in linear time. This rules out worst case performance from superlinear backtracking, but it's slower with some patterns and precludes some useful features like backreferences.
 </details>
+
+### Featured resource
+
+<a href="https://github.com/slevithan/regex">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/slevithan/regex@4.1.0/media/regex-logo-dark.svg?sanitize=true">
+    <img alt="regex logo" height="100" align="right" src="https://cdn.jsdelivr.net/gh/slevithan/regex@4.1.0/media/regex-logo.svg">
+  </picture>
+</a>
+
+[`regex`](https://github.com/slevithan/regex) is a lightweight JavaScript library for more readable, high-performance, native JavaScript regexes with powerful features including free spacing, atomic groups, possessive quantifiers, subroutines, subroutine definition groups, and context-aware interpolation.
 
 
 
@@ -271,23 +282,18 @@ Many regexes found online are low quality. It's risky to use regexes you don't f
 
 *Open source JavaScript libraries for advanced regex use and processing.*
 
-### Regex builders
+### Alternative regex builders and engines
 
 - [regex](https://github.com/slevithan/regex) - A template tag for extended, readable, high-performance JavaScript regexes.
 - [XRegExp](https://github.com/slevithan/xregexp) \[[*home*](https://xregexp.com/)] - Extended regex syntax, flags, and utils; useful for backcompat.
+- [incr-regex-package](https://github.com/nurulc/incr-regex-package) - Partial/incremental matching, used by [react-rxinput](https://github.com/nurulc/react-rxinput) for input validation with a regex mask.
+- Use other engines via WASM bindings: [node-re2](https://github.com/uhop/node-re2) (RE2), [rregex](https://github.com/2fd/rregex) (Rust's `regex`), [vscode-oniguruma](https://github.com/microsoft/vscode-oniguruma) (Oniguruma).
 
 ### Abstracted regex syntax
 
 - [Rexx](https://github.com/yyytcool/rexx) - A template tag that uses structured syntax with variables and comments.
 - [Melody](https://github.com/yoav-lavi/melody) \[[*docs*](https://yoav-lavi.github.io/melody/book/)] - A language that compiles to regexes.
 - Compose with functions: [compose-regexp.js](https://github.com/compose-regexp/compose-regexp.js), [VerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) (implementations for [many languages](https://verbalexpressions.github.io/)), [magic-regexp](https://github.com/unjs/magic-regexp) \[[*home*](https://regexp.dev/)], [Super Expressive](https://github.com/francisrstokes/super-expressive) \[[*playground*](https://nartc.github.io/ng-super-expressive/)].
-
-### Alternative regex engines
-
-- [incr-regex-package](https://github.com/nurulc/incr-regex-package) - Partial/incremental matching, used by [react-rxinput](https://github.com/nurulc/react-rxinput) for input validation with a regex mask.
-- [node-re2](https://github.com/uhop/node-re2) - Bindings for RE2.
-- [rregex](https://github.com/2fd/rregex) - Bindings for Rust's `regex`.
-- [vscode-oniguruma](https://github.com/microsoft/vscode-oniguruma) - Bindings for Oniguruma.
 
 ### Regex processors
 

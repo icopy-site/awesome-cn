@@ -218,7 +218,6 @@ Templates to help you get started with building a Cosmos SDK blockchain.
 ### GUI
 
 * [REStake](https://restake.app) - Auto-compounder app for Cosmos blockchains using Authz ([source](https://github.com/eco-stake/restake)).
-* [Yieldmos](https://yieldmos.com) - Staking and LP rewards auto-compounder using Authz.
 * [Cosmfaucet](https://github.com/scalalang2/cosmfaucet) - Self-hosted faucet service for Cosmos based blockchain.
 * [Cosmos Notifier](https://cosmos-notifier.decrypto.online) - Governance notification tool for Telegram and Discord ([source](https://github.com/shifty11/cosmos-notifier)).
 * [IBC Anywhere](https://ibc.reece.sh/) - IBC token transfers including multi-chain hops.
