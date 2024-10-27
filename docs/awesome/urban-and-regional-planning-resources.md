@@ -103,6 +103,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 - [CDC Social Vulnerability Index](https://www.atsdr.cdc.gov/placeandhealth/svi/index.html) - CDC Social Vulnerability Index (CDC SVI) uses 15 U.S. census variables to help local officials identify communities that may need support before, during, or after disasters based on their level of social vulnerability. Additional Information: [Download](https://www.atsdr.cdc.gov/placeandhealth/svi/data_documentation_download.html).
 - [EJ Screen](https://www.epa.gov/ejscreen/understanding-ejscreen-results) - EJSCREEN uses maps and reports to present three kinds of information: Environmental indicators, demographic indicators and EJ Indexes. Additional Information: [Download](https://www.epa.gov/ejscreen/download-ejscreen-data).
+- [Extreme Heat Dashboard](https://liheap-and-extreme-heat-hhs-acf.hub.arcgis.com/) - This dashboard, developed by the U.S. Department of Health and Human Services Low Income Home Energy Assistance Program (LIHEAP)  can help planners understand extreme heat and energy needs and impacts to vulnerable communities.
 - [H+T Index](https://htaindex.cnt.org/) - The Housing and Transportation (H+T®) Affordability Index provides a comprehensive view of affordability that includes both the cost of housing and the cost of transportation at the neighborhood level. Provided by the Center for Neighborhood Technology.
 - [Location Affordability Index](https://www.hudexchange.info/programs/location-affordability-index/) - The Location Affordability Index (LAI) works to close this gap by providing estimates of household housing and transportation costs at the neighborhood level along with constituent data on the built environment and demographics.
 - [Opportunity Atlas](https://www.opportunityatlas.org/) - These [datasets provided by Opportunity Insights](https://opportunityinsights.org/data/?geographic_level=0&topic=0&paper_id=1652#resource-listing) allow you to analyze social mobility and a variety of other outcomes from life expectancy to patent rates by neighborhood, college, parental income level, and racial background.
@@ -116,6 +117,7 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 - [County Health Rankings](https://www.countyhealthrankings.org/) - The annual Rankings provide a revealing snapshot of how health is influenced by where we live, learn, work, and play.
 - [HealthData.gov](https://healthdata.gov/) - This site is dedicated to making high value health data in the United States more accessible to entrepreneurs, researchers, and policy makers in the hopes of better health outcomes for all.
+- [Heat and Health Tracker](https://ephtracking.cdc.gov/Applications/heatTracker/) - A resource that presents localized information on public health impacts of extreme heat that can help to better allocate resources to prepare for heat events. The tool includes heat burden data (historic heat-related illness, heat-related emergency department visits, and heat-worker health), heat exposure trends, and a spatial index tool identifying heat effects by ZIP Code Tabulation Area (ZCTA).
 - [CDC Places](https://www.cdc.gov/places/index.html) - A CDC collaboration that allows local health departments and jurisdictions regardless of population size and urban-rural status to better understand the burden and geographic distribution of health-related outcomes in their areas and assist them in planning public health interventions.
 - [USALEEP](https://www.cdc.gov/nchs/nvss/usaleep/usaleep.html) - Estimates of life expectancy at birth—the average number of years a person can expect to live—for most of the census tracts in the United States for the period 2010-2015.
 - [WHO Data](https://www.who.int/data) - The World Health Organization's (WHO) health data collections featuring international datasets on health indicators and related data.
@@ -156,14 +158,15 @@ Open Data Sites and national scale datasets should be near the top of each secti
 
 ### Resilience and Natural Hazards
 
-- [Sea Level Rise Viewer](https://coast.noaa.gov/slr/) - NOAA provided map viewer is to provide federal, state, and local coastal resource managers and planners with a preliminary look at sea level rise and coastal flooding impacts.
-- [Earth Quake Data](https://www.ngdc.noaa.gov/hazard/earthqk.shtml) - NOAA provided data includes a global record of significant earth quakes going back to 2150 BC to present with geographic information.
-- [National Risk Index](https://www.fema.gov/flood-maps/products-tools/national-risk-index) - The National Risk Index is an online mapping application from FEMA that identifies communities most at risk to 18 natural hazards.
-- [HIFLD](https://hifld-geoplatform.opendata.arcgis.com/) - This site provides National foundation-level geospatial data within the open public domain that can be useful to support community preparedness, resiliency, research, and more.
-- [RAPT](https://rapt-fema.hub.arcgis.com/pages/data) - The Resilience Analysis & Planning Tool (RAPT) gives everyone easy access to important community data and analysis tools related to community resilience. The community resilience indicators in the RAPT were pulled from the Community Resilience Indicator Analysis (CRIA).
 - [Adaptation Clearinghouse](https://www.adaptationclearinghouse.org/) - Maintained by Georgetown's Climate Center, this is an extensive online database and networking site that serves policymakers and others who are working to help communities adapt to climate change.
+- [Community Resilience Estimates for Heat](https://www.census.gov/data/experimental-data-products/cre-heat.html) - An experimental dataset developed by the U.S. Census Bureau that measures social vulnerability and exposure to extreme heat at the household level.
+- [Earth Quake Data](https://www.ngdc.noaa.gov/hazard/earthqk.shtml) - NOAA provided data includes a global record of significant earth quakes going back to 2150 BC to present with geographic information.
 - [Extreme Heat Data Pathfinder](https://www.earthdata.nasa.gov/learn/pathfinders/disasters/extreme-heat-data-pathfinder) - A central repository hosting multiple datasets guiding users to relevant near-real-time data for extreme heat analysis and visualization based on NASA's remotely sensed data.
-
+- [HIFLD](https://hifld-geoplatform.opendata.arcgis.com/) - This site provides National foundation-level geospatial data within the open public domain that can be useful to support community preparedness, resiliency, research, and more.
+- [National Risk Index](https://www.fema.gov/flood-maps/products-tools/national-risk-index) - The National Risk Index is an online mapping application from FEMA that identifies 
+- [RAPT](https://rapt-fema.hub.arcgis.com/pages/data) - The Resilience Analysis & Planning Tool (RAPT) gives everyone easy access to important community data and analysis tools related to community resilience. The community resilience indicators in the RAPT were pulled from the Community Resilience Indicator Analysis (CRIA).
+communities most at risk to 18 natural hazards.
+- [Sea Level Rise Viewer](https://coast.noaa.gov/slr/) - NOAA provided map viewer is to provide federal, state, and local coastal resource managers and planners with a preliminary look at sea level rise and coastal flooding impacts.
 
 ### Transportation
 - [Accessibility Observatory](http://access.umn.edu/data/datasets/) - As part of the Access Across America series the Accessibility Observatory at UMN evaluates multiple modes of transportation accessibility in major U.S. metropolitan areas. Reports are published annually, and select data sets are available through the University of Minnesota's Digital Conservatory.
@@ -253,6 +256,7 @@ A collection of urban planning related data specifications and standards for use
 
 ### Environmental
 - [EPA Data Standards](https://www.epa.gov/data-standards) - A chart with links to the diversity of data standards adopted by EPA.
+- [Extreme Heat Data Pathfinder](https://www.earthdata.nasa.gov/learn/pathfinders/disasters/extreme-heat-data-pathfinder) - Developed by NASA, this tool is a central repository hosting multiple datasets guiding users to relevant near-real-time data for planning around extreme heat.
 
 ### Transportation
 
