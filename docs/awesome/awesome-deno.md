@@ -214,6 +214,7 @@ This list is a collection of the best Deno modules and resources.
 - [watch](https://github.com/jinjor/deno-watch) - A file watcher.
 - [wu-diff-js](https://github.com/bokuweb/wu-diff-js) - A diff library to compute differences between two slices using wu(the O(NP)) algorithm.
 - [PLS](https://github.com/roj1512/pls) - Use 2 lines to persist localStorage in any database, including, but not limited to, MongoDB, PostgreSQL and Redis.
+- [deno_kv_fs](https://github.com/hviana/deno_kv_fs) Deno KV file system, compatible with Deno deploy. Makes use of Web Streams API.
 
 ### Validation
 
@@ -277,7 +278,6 @@ This list is a collection of the best Deno modules and resources.
 
 - [crux.land](https://crux.land/) - A free registry service meant for hosting small ( < 10kB) single deno scripts.
 - [Deno PKG](https://denopkg.com/) - An easier way to use code from GitHub in your Deno project.
-- [Denopkg.dev](https://denopkg.dev/) - Use any public/private repository from GitHub/GitLab in your Deno project.
 - [deno.land/x/](https://deno.land/x/) - The official 3rd party module registry.
 - [nest.land](https://nest.land) - An immutable, blockchain powered Deno package registry. 🥚
 
@@ -308,6 +308,7 @@ This list is a collection of the best Deno modules and resources.
 - [denoversion](https://github.com/lucascaro/denoversion) - SemVer and git version management for Deno.
 - [denox](https://github.com/BentoumiTech/denox) - Like packages.json scripts, but for Deno with permissions support.
 - [deno.mk](https://github.com/MarkTiedemann/deno.mk) - Cross-platform Makefile for installing and running Deno.
+- [Deno Dig](https://github.com/theGEBIRGE/DenoDig) - A tool for extracting application code and npm packages from stand-alone Deno executables.
 - [deno_docker](https://github.com/denoland/deno_docker) - Latest dockerfiles and images for Deno - alpine, centos, debian, ubuntu.
 - [dev_server](https://github.com/zhmushan/dev_server) - Let TypeScript files be used directly in the script tag.
 - [dmm](https://github.com/drashland/dmm) - Lightweight Deno Module Manager
@@ -364,7 +365,6 @@ This list is a collection of the best Deno modules and resources.
 - [Create your first News CLI app using Deno](https://medium.com/javascript-in-plain-english/creating-your-first-news-cli-app-using-deno-e1470398c627)
 - [Continuous Integration with Deno](https://semaphoreci.com/blog/continuous-integration-with-deno)
 - [The Hidden Superpower of Deno: xeval](https://stefanbuck.com/blog/hidden-superpower-deno-xeval)
-- [Test coverage in Deno with Codecov and GitHub Actions](https://v1rtl.site/blog/coverage-in-deno)
 - Deno REST API with Oak Tutorial Series [0](https://www.robinwieruch.de/deno-tutorial), [1](https://www.robinwieruch.de/deno-oak), [2](https://www.robinwieruch.de/deno-oak-rest-api)
 - [Getting Started with Deno](https://sabe.io/tutorials/getting-started-with-deno)
 - [How to deploy a Deno app using Docker](https://sabe.io/tutorials/how-to-deploy-deno-app-docker)

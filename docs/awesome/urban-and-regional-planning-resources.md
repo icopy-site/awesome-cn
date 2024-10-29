@@ -256,7 +256,6 @@ A collection of urban planning related data specifications and standards for use
 
 ### Environmental
 - [EPA Data Standards](https://www.epa.gov/data-standards) - A chart with links to the diversity of data standards adopted by EPA.
-- [Extreme Heat Data Pathfinder](https://www.earthdata.nasa.gov/learn/pathfinders/disasters/extreme-heat-data-pathfinder) - Developed by NASA, this tool is a central repository hosting multiple datasets guiding users to relevant near-real-time data for planning around extreme heat.
 
 ### Transportation
 
