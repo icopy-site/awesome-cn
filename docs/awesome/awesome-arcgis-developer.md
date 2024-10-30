@@ -70,16 +70,15 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [ArcGIS Maps SDK for Unity samples](https://developers.arcgis.com/unity/sample-code/) - Esri's official ArcGIS Maps SDK for Unity product team samples.
 - [ArcGIS Maps SDK for Unreal Engine samples](https://developers.arcgis.com/unreal-engine/sample-code/) - Esri's official ArcGIS Maps SDK for Unreal Engine product team samples.
 - [ArcGIS REST JS demos](https://github.com/Esri/arcgis-rest-js/tree/master/demos) - Demo apps built by Esri's REST JS maintainers.
-- [ArcGIS Runtime API for .NET Android samples](https://developers.arcgis.com/net/android/sample-code/) - Esri's official ArcGIS Runtime Android product team samples.
-- [ArcGIS Runtime API for .NET iOS samples](https://developers.arcgis.com/net/ios/sample-code/) - Esri's official ArcGIS Runtime .NET product team samples.
-- [ArcGIS Runtime API for Java samples](https://developers.arcgis.com/java/sample-code/) - Esri's official ArcGIS Runtime Java product team samples.
-- [ArcGIS Runtime API for .NET UWP samples](https://developers.arcgis.com/net/uwp/sample-code/) - Esri's official ArcGIS Runtime .NET product team samples.
-- [ArcGIS Runtime API for .NET WPF samples](https://developers.arcgis.com/net/wpf/sample-code/) - Esri's official ArcGIS Runtime .NET product team samples.
-- [ArcGIS Runtime API for Android Java samples](https://developers.arcgis.com/android/java/sample-code/) - Esri's official ArcGIS Runtime Android product team samples for Java.
-- [ArcGIS Runtime API for Android Kotlin samples](https://developers.arcgis.com/android/kotlin/sample-code/) - Esri's official ArcGIS Runtime Android product team samples for Kotlin.
-- [ArcGIS Runtime API for iOS sample code](https://developers.arcgis.com/ios/swift/sample-code/) - Esri's official ArcGIS Runtime iOS product team samples.
-- [ArcGIS Runtime API for Qt C++ sample code](https://developers.arcgis.com/qt/cpp/sample-code/) - Esri's official ArcGIS Runtime Qt product team samples for C++.
-- [ArcGIS Runtime API for Qt QML sample code](https://developers.arcgis.com/qt/qml/sample-code/) - Esri's official ArcGIS Runtime Qt product team samples for QML.
+- [ArcGIS Maps SDK for Java samples](https://developers.arcgis.com/java/sample-code/) - Esri's official ArcGIS Maps SDK for Java product team samples. (deprecated)
+- [ArcGIS Maps SDK for .NET MAUI samples](https://developers.arcgis.com/net/maui/sample-code/) - Esri's official ArcGIS Maps SDK MAUI product team samples.
+- [ArcGIS Maps SDK for .NET UWP samples](https://developers.arcgis.com/net/uwp/sample-code/) - Esri's official ArcGIS Maps SDK for .NET product team samples.
+- [ArcGIS Maps SDK for .NET WinUI samples](https://developers.arcgis.com/net/winui/sample-code/) - Esri's official ArcGIS Maps SDK WinUI product team samples.
+- [ArcGIS Maps SDK for .NET WPF samples](https://developers.arcgis.com/net/wpf/sample-code/) - Esri's official ArcGIS Maps SDK for .NET product team samples.
+- [ArcGIS Maps SDK for Android Java samples](https://developers.arcgis.com/android/java/sample-code/) - Esri's official ArcGIS Maps SDK for Android product team samples for Java.
+- [ArcGIS Maps SDK for Android Kotlin samples](https://developers.arcgis.com/android/kotlin/sample-code/) - Esri's official ArcGIS Maps SDK for Android product team samples for Kotlin.
+- [ArcGIS Maps SDK for iOS sample code](https://developers.arcgis.com/ios/swift/sample-code/) - Esri's official ArcGIS Maps SDK for iOS product team samples.
+- [ArcGIS Maps SDK for Qt C++ sample code](https://developers.arcgis.com/qt/cpp/sample-code/) - Esri's official ArcGIS Maps SDK for Qt product team samples for C++.
 - [arcgis-js-api-starter-apps](https://github.com/hhkaos/arcgis-js-api-starter-apps) - Collection of boilerplates to get started with the ArcGIS API for JavaScript 4.x.
 - [Esri/arcgis-js-vscode-snippets](https://github.com/Esri/arcgis-js-vscode-snippets) - Collection of Visual Studio Code snippets for common code patterns for the ArcGIS API for JavaScript.
 - [Esri/developer-support](https://github.com/Esri/developer-support) - Community samples to help be successful with all ArcGIS developer products (Python, NET, JavaScript, Android…).
@@ -116,19 +115,19 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 
 - [ArcGIS Data Interoperability Extension](https://esri-es.github.io/awesome-arcgis/arcgis/products/extensions/data-interoperability/) - Desktop tool to transform +400 data formats. 
 - [FME Server](https://www.safe.com/integrate/) - ETL allowing to easily transform almost any dataset into an ArcGIS compatible format and vice-versa. Support for 500+ formats and technologies.
-- [Integromat](https://www.integromat.com/en/integrations/survey123) - iPaaS to automate repetitive tasks involved in using Survey123 and make your work easier.
+- [Make.com](https://www.make.com/en/integrations/survey123) - iPaaS to automate repetitive tasks involved in using Survey123 and make your work easier.
 - [node-red-contrib-arcgis-rest](https://flows.nodered.org/node/node-red-contrib-arcgis-rest) - Query, delete, update or insert data with low-code programming for event-driven applications of the JS Foundation.
 - [Zapier for ArcGIS](https://marketplace.arcgis.com/listing.html?id=5ab7936269f8449b82b0f5c78695ab38) - iPaaS to automate integrations without writing any code.
 - [Tray.io](https://tray.io/connectors/arcgis-integrations) - Manual, scheduled and webhook triggers to apply edits, get features, layers, etc. using Tray Platform's ArcGIS connector.
 
 ## Debugging tools
 
+- [cors-test.codehappy.dev](https://cors-test.codehappy.dev/) - App to test CORS requests.
 - [Fiddler Classic](https://www.telerik.com/fiddler/fiddler-classic) - Windows tool that logs HTTP(s) network traffic.
 - [GeoJSONLint](https://geojsonlint.com/) - Validate and view your GeoJSON.
 - [json-schema.org](https://json-schema.org/) - Vocabulary that allows you to annotate and validate JSON documents (include multiple validators).
 - [mapbox/geojson-vt/debug](http://mapbox.github.io/geojson-vt/debug/) - Validate GeoJSON or TopoJSON.
 - [Postman interceptor](https://www.postman.com/product/postman-interceptor/) - Interceptor enables you to sync cookies from your browser and capture network requests directly from Chrome.
-- [test-cors.org](https://test-cors.org) - App to test CORS requests. You can either send the CORS request to a remote server (to test if CORS is supported), or send the CORS request to a test server (to explore certain features of CORS).
 - [netbalancer.com](https://netbalancer.com/) - Windows application for local network traffic control and monitoring.
 
 ## Design and styling
@@ -160,8 +159,8 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 ## Helpers
 
 - [arcgis-geometry-calculations](https://github.com/hhkaos/arcgis-geometry-calculations) - Web application to create and grab ArcGIS geometry calculations.
-- [arcgis-js-api-camera-helper](https://github.com/gavinr/arcgis-js-api-camera-helper) - Web application to get the camera position JSON object for 3D web apps in the ArcGIS API for JavaScript 4.x.
-- [arcgis-js-api-extent-helper](https://github.com/gavinr/arcgis-js-api-extent-helper) -  Web application to get the map extent JSON object for web apps in the ArcGIS API for JavaScript 4.x.
+- [arcgis-js-api-camera-helper](https://github.com/pjmclaughlin1979/arcgis-js-api-camera-helper) - Web application to get the camera position JSON object for 3D web apps in the ArcGIS API for JavaScript 4.x.
+- [arcgis-js-api-extent-helper](https://arcgis-js-api-extent-helper.gavinr.com/) -  Web application to get the map extent JSON object for web apps in the ArcGIS API for JavaScript 4.x.
 - [ArcGIS JS API Module Butler](https://marketplace.visualstudio.com/items?itemName=ScottDavis.vscode-arcgis-js-api-module-butler&ssr=false#overview) - VSCode extension for quickly adding ES import statements for the @arcgis/core package without leaving your current code context.
 - [epsg.io](https://github.com/maptiler/) - Website to discover and transform coordinate systems from all over the world.
 - [esri-loader](https://github.com/Esri/esri-loader) - A tiny library to help you lazy-load the ArcGIS API for JavaScript (i.e. from the CDN) in applications built with popular JavaScript frameworks and bundlers.
@@ -201,11 +200,10 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 - [Client-side Geometry Engine](https://esri-es.github.io/arcgis-search/?search=geometry+engine&utm_source=chrome-extension#gsc.tab=0&gsc.q=geometry%20engine%20site:developers.arcgis.com&gsc.sort=) - Allows you to test spatial relationships, calculate new geometries, and measure lengths, areas, distances, etc.
 	- [ArcGIS API for JavaScript `geometryEngine`](https://developers.arcgis.com/javascript/latest/api-reference/esri-geometry-geometryEngine.html) - Works for browsers and Node.js.
 	- [ArcGIS API for Python `arcgis.geometry`](https://developers.arcgis.com/python/api-reference/arcgis.geometry.html)
-	- [ArcGIS Runtime API for .NET `GeometryEngine`](https://developers.arcgis.com/net/api-reference/api/netwin/Esri.ArcGISRuntime/Esri.ArcGISRuntime.Geometry.GeometryEngine.html)
-	- [ArcGIS Runtime API for Android `GeometryEngine`](https://developers.arcgis.com/android/api-reference/reference/com/esri/arcgisruntime/geometry/GeometryEngine.html)
-	- [ArcGIS Runtime API for iOS `AGSGeometryEngine`](https://developers.arcgis.com/ios/api-reference/interface_a_g_s_geometry_engine.html)
-	- [ArcGIS Runtime API for Java `GeometryEngine`](https://developers.arcgis.com/java/api-reference/reference/com/esri/arcgisruntime/geometry/GeometryEngine.html)
-	- [ArcGIS Runtime API for Qt `GeometryEngine`](https://developers.arcgis.com/qt/cpp/api-reference/esri-arcgisruntime-geometryengine.html)
+	- [ArcGIS Maps SDK for .NET `GeometryEngine`](https://developers.arcgis.com/net/api-reference/api/netwin/Esri.ArcGISRuntime/Esri.ArcGISRuntime.Geometry.GeometryEngine.html)
+	- [ArcGIS Maps SDK for Android `GeometryEngine`](https://developers.arcgis.com/android/api-reference/reference/com/esri/arcgisruntime/geometry/GeometryEngine.html)
+	- [ArcGIS Maps SDK for iOS `AGSGeometryEngine`](https://developers.arcgis.com/ios/api-reference/interface_a_g_s_geometry_engine.html)
+	- [ArcGIS Maps SDK for Qt `GeometryEngine`](https://developers.arcgis.com/qt/cpp/api-reference/esri-arcgisruntime-geometryengine.html)
 <!--lint disable double-link-->
 - [Spatial analysis service](https://developers.arcgis.com/rest/analysis/api-reference/getting-started.htm) - Process spatial datasets to discover relationships and patterns.
 - [Turf.js](https://www.npmjs.com/package/@turf/simplify) - Geospatial analysis for browsers and Node.js.
@@ -258,10 +256,10 @@ You can [file an issue](https://github.com/ArcGIS/awesome-arcgis-developer/issue
 
 Esri welcomes contributions from anyone and everyone. You can [issue a pull request](https://github.com/ArcGIS/awesome-arcgis-developer/pulls) to propose an update, but before doing it, please:
 
-- Check the [contributing guidelines for this repo](https://github.com/Esri/awesome-arcgis-developer/blob/main/CONTRIBUTING.md).
+- Check the [contributing guidelines for this repo](https://github.com/Esri/awesome-arcgis-developer/blob/master/./CONTRIBUTING.md).
 - Take a look at [previously logged issues](https://github.com/ArcGIS/awesome-arcgis-developer/issues). 
 
-For more information please see our [guidelines for contributing](https://github.com/esri/contributing).
+For more information please see Esri's [guidelines for contributing](https://github.com/esri/contributing).
 
 <!--lint disable no-emphasis-as-heading-->
 

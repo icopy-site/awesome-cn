@@ -117,6 +117,7 @@ Contributions are welcome. Please read the [contributing guideline](https://gith
 ### Other
 
 - [FocusMax](https://ccdware.com/focusmax_overview/) - Accurate, automated and repeatable focusing.
+- [Modulation Transfer Function and Image Sampling Analyzer](https://www.rc-astro.com/mtf-analyzer/) - This online tool provides insight into the capabilities of a given imaging system. It computes key values such as plate scale, stellar full-width at half-maximum (FWHM), diffraction limit and presents a graph of the system's modulation transfer function (MTF). Very useful for evaluating the performance of a telescope and camera combination.
 
 
 
@@ -141,7 +142,7 @@ Contributions are welcome. Please read the [contributing guideline](https://gith
 - [Low Level Landscape Lighting](http://lowlevellighting.org/) - A method for lighting the landscape for night-scape photography. This is its official site.
 - [Messier](https://www.messier-objects.com/) - All objects from the Messier catalogue with lots of background information and images.
 - [Nikon DSLR models matrix](https://www.astrophotography.app/nikon.php) - A list of Nikon models with useful reference information such as sensor and pixel size, quantum efficiency, shutter life, etc.
-- [Online Narrowband RGB Combination Preview Tool](https://www.bintel.com.au/narrowband-preview-tool/index.php) - This tool allows you to upload black and white source images (filtered eg. Ha, Sii, Oiii or R, G, B), then shows every possible permutation for the various combinations/palettes.
+- [Online Narrowband RGB Combination Preview Tool](https://web.archive.org/web/20240928205042/https://www.bintel.com.au/narrowband-preview-tool/index.php) - This tool allows you to upload black and white source images (filtered eg. Ha, Sii, Oiii or R, G, B), then shows every possible permutation for the various combinations/palettes.
 - [Photons to Photos](https://www.photonstophotos.net) - Interactive charts with sensor data contributed by people around the world.
 - [Rouzastro equipment reviews](https://rouzastro.com/reviews/) - A growing list of equipment reviews. The experiences and results may prove useful for those looking at new gear.
 - [Sharpless](http://www.sharplesscatalog.com/sharpless.aspx) - Images of all objects from the Sharpless catalogue each with capture and background information.

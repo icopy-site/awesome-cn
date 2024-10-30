@@ -26,7 +26,8 @@
 Libraries for creating web maps:
 
 - [antvis L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization. ![GitHub stars](https://img.shields.io/github/stars/antvis/L7?style=social)
-- [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/latest/) - Modern JavaScript API and web component library for building interactive web apps for the browser.
+- [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/latest/) - Modern JavaScript API and web component library for building interactive 2D and 3D web apps for the browser.
+- [ArcGIS REST JS](https://github.com/Esri/arcgis-rest-js) - Compact, modular JavaScript wrappers for the ArcGIS REST API that run in Node.js and modern browsers. ![GitHub stars](https://img.shields.io/github/stars/Esri/arcgis-rest-js?style=social)
 - [Bertin.js](https://github.com/neocarto/bertin) - A JavaScript library for visualizing geospatial data and making thematic maps for the web. ![GitHub stars](https://img.shields.io/github/stars/neocarto/bertin?style=social)
 - [Cesium.js](https://github.com/CesiumGS/cesium) - An open-source JavaScript library for world-class 3D mapping of geospatial data. ![GitHub stars](https://img.shields.io/github/stars/CesiumGS/cesium?style=social)
 - [d3-geo](https://github.com/d3/d3-geo) - A library for creating maps based on D3.js. ![GitHub stars](https://img.shields.io/github/stars/d3/d3-geo?style=social)
@@ -145,6 +146,7 @@ Restful APIs for consuming geospatial data on the fly:
 
 - [Address API](https://gisco-services.ec.europa.eu/addressapi/docs/) - Pan-European address data with geocoding and reverse-geocoding.
 - [API Geo](https://api.gouv.fr/les-api/api-geo) - Official French geographical data API.
+- [ArcGIS location services](https://developers.arcgis.com/rest/location-based-services/) - Basemaps, Geocoding, Places, routing, and GeoEnrichment.
 - [bng2latlong](https://www.getthedata.com/bng2latlong) - Converts British National Grid to latitude and longitude.
 - [breezometer](https://docs.breezometer.com/api-documentation/introduction/) - Air Quality, Weather, Pollen, and Environmental data.
 - [Country State City API](https://countrystatecity.in/) - Database of city, state, and country data.
@@ -155,7 +157,7 @@ Restful APIs for consuming geospatial data on the fly:
 - [GraphHopper Route Optimization API](https://www.graphhopper.com/route-optimization/) - Solves various vehicle routing problems.
 - [movebank-api](https://github.com/movebank/movebank-api-doc) - Platform for animal tracking data.
 - [OpenAQ](https://openaq.org/) - Largest open-source air quality data platform.
-- [Open Charge Map API](https://openchargemap.org/site/develop/api) - Public registry of electric vehicle charging locations.
+- [Open Charge Map API](https://openchargemap.org/site/develop#api) - Public registry of electric vehicle charging locations.
 - [OpenCage](https://opencagedata.com/api) - Forward and reverse geocoding API using open data.
 - [Open-Meteo](https://open-meteo.com/) - Global weather forecast API.
 - [Open Notify](http://open-notify.org/Open-Notify-API/) - ISS location and number of people in space.
