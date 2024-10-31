@@ -1049,6 +1049,8 @@ Javascript
 
 * ⭐ [Parenscript](https://common-lisp.net/project/parenscript/) - A translator from Common Lisp to Javascript. [3-clause BSD][15]. See [Trident-mode](https://github.com/johnmastro/trident-mode.el), an Emacs mode that provides live interaction with the browser.[unlicence][5].
   * [paren6](https://github.com/BnMcGn/paren6/) - a set of ES6 macros for Parenscript.
+  * [paren-async](https://github.com/Junker/paren-async) async/await for Parenscript.
+  * [paren-jquery](https://github.com/Junker/paren-jquery) - Jquery-style macros for Parenscript. MIT.
 * [JSCL](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
 * [CL-JavaScript](http://marijnhaverbeke.nl/cl-javascript/) - A translator from Javascript to Common Lisp. Not available on Quicklisp. [Expat][14].
 * [parse-js](http://marijnhaverbeke.nl/parse-js/) - A package for parsing ECMAScript 3. [zlib][33].
@@ -1163,6 +1165,8 @@ Others
 * [trivial-download](https://github.com/eudoxia0/trivial-download) - Download files. [MIT][200].
 * [cl-cookie](https://github.com/fukamachi/cl-cookie) HTTP Cookie (jar) manager: parse and write (set-)cookie headers, compare cookies, optional cookie attribute sanity check. [MIT][200]
 * [dns-client](https://github.com/Shinmera/dns-client) - DNS record client. See [documentation](https://shinmera.github.io/dns-client/). [zlib][33].
+* [mobiledetect](https://github.com/Junker/mobiledetect) - System for detecting mobile devices (including tablets) in User-Agent strings. MIT.
+* [random-ua](https://github.com/Junker/random-ua) - Random User-Agent generator for Common Lisp. BSD_2Clause.
 
 
 ### Email
