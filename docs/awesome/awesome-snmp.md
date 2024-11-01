@@ -19,7 +19,8 @@ _Helpful to write SNMP applications._
 - [openSNMP](https://sourceforge.net/projects/opensnmp/) - BSD licensed multi-threaded implementation of SNMPv3.
 
 ### C#
-- [C# SNMP Library](https://github.com/lextudio/sharpsnmplib) - MIT licensed SNMP library for .NET with extensive SNMP standard support, latest .NET platform targets, as well as rich manager/agent samples. [#SNMP Pro](https://pro.sharpsnmp.com] is a commercial extension that adds enterprise MIB support.
+- [C# SNMP Library](https://github.com/lextudio/sharpsnmplib) - MIT licensed SNMP library for .NET with extensive SNMP standard support, latest .NET platform targets, as well as rich manager/agent samples.
+- [SNMP Pro](https://pro.sharpsnmp.com) - Commercial extension that adds enterprise MIB support.
 - [SnmpSharpNet](https://github.com/rqx110/SnmpSharpNet) - Simple Network Management Protocol (SNMP) .Net library written in C# (csharp). Implements protocol version 1, 2 and 3.
 
 ### Erlang
