@@ -1018,6 +1018,8 @@ become an Angular expert.
 * [auto-complete](https://github.com/ng2-ui/auto-complete) - Angular Auto Complete component and directive.
 * [ngx-otp-input](https://github.com/pkovzz/ngx-otp-input) - One time password input library for Angular.
 * [ngx-show-hide-password](https://github.com/osahner/ngx-show-hide-password) - Add split input button to password or text input. Toggles input type between "text" and "password".
+* [ngx-phone-field](https://github.com/alex-mirankov/ngx-phone-field) - An Angular directive that provides international phone input with country flag dropdowns. It integrates with Angular forms, supporting both Reactive Forms and Template-Driven Forms.
+* [ngx-rabe-star](https://github.com/Avotraina/ngx-rabe-star) - An Angular library that provides a customizable star rating component for your Angular application.
 
 ##### Validation
 
@@ -1073,6 +1075,7 @@ to simplify usage and allow quick customization.
 * [@unpic/angular](https://unpic.pics/img/angular/) - Angular directive for responsive, high-performance images. Generates a responsive `<img>` tag that follows best practices, with the correct srcset, sizes and styles. Detects image URLs from most image CDNs and CMSs and can resize images with no build step.
 * [ngx-advanced-img](https://github.com/bmartinson/ngx-advanced-img) - Angular attribute directives suite that provides various HTML img feature extensions.
 * [ngx-unsplash](https://github.com/BerryCloud/ngx-unsplash) - Angular service for proxied [Unsplash API](https://unsplash.com/developers).
+* [ngx-img-cropper](https://github.com/web-dave/ngx-img-cropper) - Image cropping tool for Angular.
 
 #### Keyboard Mouse
 
