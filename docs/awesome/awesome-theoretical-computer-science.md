@@ -163,11 +163,6 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Foundations of Machine Learning](https://simons.berkeley.edu/programs/machinelearning2017) - Aims to grow the reach and impact of computer science theory within machine learning.
 - [Toward Theoretical Understanding of Deep Learning](https://unsupervised.cs.princeton.edu/deeplearningtutorial.html)
 - [A Brief Introduction to Theoretical Foundations of Machine Learning and Machine Teaching](https://simons.berkeley.edu/talks/tbd-288) - Formal methods and machine learning can inform each other from deductive and inductive reasoning perspectives.  This talk aims to facilitate the dialogue between the two communities by establishing some fundamental concepts in learning theory.
-## Conferences<a name=machine_learning_theory_conferences></a>
-- [COLT](https://www.learningtheory.org/).
-## Research Groups<a name=machine_learning_theory_research_groups></a>
-- [Simons Institute. Machine Learning Research Pod](https://simons.berkeley.edu/research-pods/machine-learning-research-pod).
-- [Harvard Machine Learning Foundations Group](https://mltheory.org/).
 ## Other<a name=machine_learning_theory_other></a>
 - [Blum. Intro Machine Learning Theory](https://www.cs.cmu.edu/~avrim/Talks/mlt.pdf).
 - [Blum, et.al. Machine Learning, Game Theory, and Mechanism Design for a Networked World](https://www.cs.cmu.edu/~mblum/search/AGTML35.pdf).
@@ -268,13 +263,18 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Watrous. Quantum Computational Complexity](https://arxiv.org/abs/0804.3401) - A survey on the intersection of computational complexity and quantum computing.
 - [Harrow & Ashley Montanaro. Quantum Computational Supremacy](https://www.nature.com/articles/nature23458) - A remarkable paper on quantum supremacy.
 - [Cook. An Overview of Computational Complexity](https://dl.acm.org/doi/abs/10.1145/1283920.1283938?casa_token=I0zkxGUh7zoAAAAA:qUozzyaWcba56dq5q6CXVo2JvGVOzcXY2J8HKoI-OZxEbxhVXlQlWF0pg5ttfs8X8pznp5j7Bbrktg) - A historical overview of computational complexity.
+## Community<a name=community></a>
+## Conferences & Workshops<a name=community_conferences__workshops></a>
+### Aggregators<a name=community_conferences__workshops_aggregators></a>
+- [Hermann's Conferences in TCS](https://www.lix.polytechnique.fr/~hermann/conf.php) - TCS Conferences collected in one table.
 - [CS Theory Events Aggregator](https://cstheory-events.org/) - An aggregator for CS theory workshops and schools.
 - [Theory Announcements](https://dmatheorynet.blogspot.com/) - DMANET spreads information on conferences, workshops, seminars etc. relating to discrete mathematics and algorithms.
-- [Conferences in TCS](http://www.nicolas-hermann.net/conf.html) - TCS Conferences collected in one table.
+- [Salamon's List](https://cstheory.stackexchange.com/a/7901/57686) - Selected Conferences.
+### Live<a name=community_conferences__workshops_live></a>
+- [Simons' Institute](https://simons.berkeley.edu/) - Programs, Events, and workshops, that aim toward maximizing impact and engagement across the theoretical computer science community.
 - [TCS+](https://www.youtube.com/user/TCSplusSeminars) - A series of online seminars in theoretical computer science. The goal is to make engaging talks accessible to the widest possible audience.
-- [Oxford-Warwick Complexity Meetings](https://www.dcs.warwick.ac.uk/~igorcarb/complexity-meetings.html) - Online informal talks dedicated to topics of interest in computational complexity theory and related areas. The goal is to serve as a forum for discussion and quick dissemination of results.
-- [Simons' Public Lectures](https://simons.berkeley.edu/programs) - Programs, Events, and workshops, that aim toward maximizing impact and engagement across the theoretical computer science community.
 - [CMU Theory](https://www.youtube.com/channel/UCWFp4UWNiOv71j0sPbdNiqw) - Aims for a mathematical understanding of fundamental issues in Computer Science, and to use this understanding to produce better algorithms, protocols, and systems, as well as identify the inherent limitations of efficient computation.
+### Archived<a name=community_conferences__workshops_archived></a>
 - [Turing Lectures. ACM](https://amturing.acm.org/lectures.cfm)
 - ACM A.M. Turing Laureate Interview. Berkeley - Interviews with Berkeley's Turing award winners. - [Shafi Goldwasser and Silvio Micali](https://www.youtube.com/watch?v=yBRbSzPgG4A)
 - Berkeley in the 80s - Interviews with eminent figures in Berkeley's theoretical computer science. - [Shafi Goldwasser](https://www.youtube.com/watch?v=7D4hIe7M4qU&t=1s)
@@ -282,16 +282,23 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - Lex Podcast - Informal discussions podcast. - [Donald Knuth 1](https://www.youtube.com/watch?v=2BdBfsXbST8) | [Donald Knuth 2](https://www.youtube.com/watch?v=EE1R8FYUJm0) | [Silvio Micali](https://www.youtube.com/watch?v=zNdhgOk4-fE) | [Richard Karp](https://www.youtube.com/watch?v=KllCrlfLuzs) | [Scott Aaronson 1](https://www.youtube.com/watch?v=uX5t8EivCaM) | [Scott Aaronson 2](https://www.youtube.com/watch?v=nAMjv0NAESM)
 - [Computational Complexity](https://www.youtube.com/channel/UCzBw287tly0c2lE6a-9XymA) - Collection of workshops.
 - [Chi-Ning Chou. What is Computation? From Turing Machines to Black Holes and Neurons](https://www.youtube.com/playlist?list=PLUxf7X3NCfHNqOFlnnX9nSTENSzZoOLVp) (see also [main website](https://cnchou.github.io/mini-course/)) - Accessible mini-course that introduces high-level stories of TCS and its intersections with other fields.
+## Magazines & Newsletter<a name=community_magazines__newsletter></a>
 - [EATCS Bulletin](https://eatcs.org/index.php/on-line-issues) - Surveys, tutorials, conferences reports, events, open problems and solutions, PhD Theses, and entertaining contributions.
 - [SIGACT News](https://dl.acm.org/loi/sigact) - ACM's official theoretical computer science news feed.
 - [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS) - It provides monographs written by leaders that give tutorial coverage of subjects, research retrospectives as well as survey papers that offer state-of-the-art reviews fall within the scope of the journal.
 - [Quanta Magazine](https://www.quantamagazine.org/tag/computational-complexity) - Features breakthroughs in the field, written in an accessible style for non-experts.
+## Blogs<a name=community_blogs></a>
 - [Theory of Computing Blog Aggregator](https://theory.report/) - A blog Aggregator for all blogs related to TCS.
+## Jobs<a name=community_jobs></a>
 - [Rubinstein & Weinberg. Research Masters in TCS](https://www.cs.princeton.edu/~smattw/masters/masters.html) - A list of master programs in TCS.
 - [CS Theory Jobs](https://cstheory-jobs.org) - TCS Jobs announcements.
 - [Yaroslavtsev. Hires spreadsheet 2022](http://grigory.us/blog/posts/) - A crowdsourced spreadsheet created to collect information about theory hires in year 2022.
+## Online Communities<a name=community_online_communities></a>
 - [TCS Stack Exchange](https://cstheory.stackexchange.com/) - Stack Exchange (QnA) of theoretical computer science.
 - [TCS Subreddit](https://www.reddit.com/r/theoreticalcs)- Theoretical computer science's subreddit.
+## Associations<a name=community_associations></a>
+- [ACM's SigACT](https://sigact.org/)
+- [European Association of TCS](https://www.eatcs.org/)
 ## Other Resources<a name=other_resources></a>
 ## Blog Posts and Essays<a name=other_resources_blog_posts_and_essays></a>
 - [Omer Reingold. The Practice of Theory Research](https://omereingold.wordpress.com/cs-163-the-practice-of-theory-research/) - A research methods course, concentrating on the how rather than the what. It focuses on research practices common for computer science theory research.
@@ -321,11 +328,6 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Shasha & Lazere. Out of their Minds: The Lives and Discoveries of 15 Great Computer Scientists](https://www.springer.com/gp/book/9780387982694) - Interviews with era's greatest scientists about their inspirations, discoveries, and personal interests.
 ## Cheat Sheets<a name=other_resources_cheat_sheets></a>
 - [TCS Cheat Sheet](https://www.cosy.sbg.ac.at/~held/teaching/aads/TCS-cheat_sheet.pdf) - A sheet of notes containing essential toolboxes needed by any theoretical computer scientist.
-## Network Groups<a name=other_resources_network_groups></a>
-- [SIGACT](https://www.sigact.org/articles/web_pages.html) - Info page of ACM's Special Interest Group on Algorithms and Computation Theory.
-- [PolyTCS](https://polytcs.wordpress.com/) - A project which promotes massive collaborations to solve theoretical computer science problems.
-- [Complexity Network](https://sites.google.com/view/complexitynetwork/home) - Hosts collaboration between the three computational complexity groups at Imperial College London, University of Oxford and University of Warwick. It promotes smooth flow of ideas between the three groups and beyond.
-- [List of TCS Conferences and Workshops](https://cstheory.blogoverflow.com/theoretical-computer-science-conferences-and-workshops/) - A list of conferences and workshops in theoretical computer science.
 ## Related Lists<a name=related_lists></a>
 - [Algorithms](https://github.com/tayllan/awesome-algorithms).
 - [Mathematics](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics.

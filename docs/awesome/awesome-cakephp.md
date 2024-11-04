@@ -221,6 +221,7 @@ Additional lists you might find useful:
 - 🍰 [CRUD plugin](https://github.com/FriendsOfCake/crud) - CakePHP Application development on steroids - rapid prototyping / scaffolding & production-ready code.
 - [Alt3/Swagger plugin](https://github.com/alt3/cakephp-swagger) - Swagger 2.0 documentation for your CakePHP APIs using swagger-php and swagger-ui.
 - 🍰 [CakeDC/Api plugin](https://github.com/CakeDC/cakephp-api) - All-in-one solution to provide a complete API. It includes versioning, renderers, CRUD, authentication, extensions (paginate, filter, HATEOAS), and much more.
+- [BryanCrowe/ApiPagination plugin](https://github.com/bcrowe/cakephp-api-pagination) - Automatically adds fully configurable pagination metadata from CakePHP’s built-in pagination to JsonView or XmlView API responses by encapsulating payload data in an envelope.
 - 🍰 [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) - A plugin which allows using [Fractal transformers](https://fractal.thephpleague.com/transformers/) for your API output.
 - 🍰 [MixerApi](https://mixerapi.com) - Streamline development of modern RESTful APIs for your team's CakePHP project.
 - 🍰 [SwaggerBake plugin](https://github.com/cnizzardini/cakephp-swagger-bake) - This plugin automatically builds OpenAPI from your existing models and routes for display in Swagger and Redoc.
@@ -239,6 +240,7 @@ Additional lists you might find useful:
 
 - [Bruteforce](https://github.com/Ali1/cakephp-bruteforce/) - Simple way to add Brute Force Protection to your installation without involving database.
 - 🍰 [Captcha plugin](https://github.com/dereuromark/cakephp-captcha) - Simple, unobtrusive and extendable captcha solution providing by default an image based math captcha.
+- [BryanCrowe/EncryptedType plugin](https://github.com/bcrowe/cakephp-encrypted-type) - A straightforward solution that enables field-level (column) encryption within the application layer before data is stored or transmitted to the database, supporting regulatory compliance, zero-trust security, end-to-end encryption, and contextual awareness.
 - 🍰 [Expose plugin](https://github.com/dereuromark/cakephp-expose) - Expose entities through additional UUIDs instead of their AIID primary keys to obfuscate those IDs and data associated with these numerically ordered values.
 - 🍰 [Muffin/Obfuscate plugin](https://github.com/usemuffin/obfuscate) - Primary key obfuscation/shortening using UUIDs, HashIds, Optimus, Tiny and/or custom obfuscation strategies.
 - 🍰 [Muffin/Throttle plugin](https://github.com/usemuffin/throttle) - A plugin for rate limiting (API) requests.
@@ -254,6 +256,7 @@ Additional lists you might find useful:
 *Plugins and repositories around app skeletons.*
 
 - [App template](https://github.com/cakephp/app) - An empty CakePHP project for use with composer.
+- [BS flavored App template](https://github.com/dereuromark/cakephp-app) - An empty CakePHP project with BS5 and FontAwesome out of the box.
 
 ## Social
 *Plugins around social features.*

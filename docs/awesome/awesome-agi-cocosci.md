@@ -1383,13 +1383,13 @@ English-language description for use by biologists.
 
 * [Intentionality](https://plato.stanford.edu/entries/intentionality/) - ***Plato Stanford***.
 
+* [Mental Imagery](https://plato.stanford.edu/entries/mental-imagery/) - ***Plato Stanford***.
+
 <!--* [Cognitive Science](https://plato.stanford.edu/entries/cognitive-science/) - ***Plato Stanford***.
 
 * [The Mind/Brain Identity Theory](https://plato.stanford.edu/entries/mind-identity/) - ***Plato Stanford***.
 
 * [Mental Representation](https://plato.stanford.edu/entries/mental-representation/) - ***Plato Stanford***.
-
-* [Mental Imagery](https://plato.stanford.edu/entries/mental-imagery/) - ***Plato Stanford***.
 
 * [Temporal Consciousness](https://plato.stanford.edu/entries/consciousness-temporal/) - ***Plato Stanford***.
 
