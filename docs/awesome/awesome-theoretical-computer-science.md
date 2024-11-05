@@ -9,10 +9,16 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ---
 
 ## Broad Intros<a name=broad_intros></a>
+## Lecture Notes<a name=broad_intros_lecture_notes></a>
+- [Barak. Introduction to TCS](https://introtcs.org/public/index.html) - A modern, brief, and accessible text which introduces theoretical computer science for undergrads. It includes topics not usually included in standard undergrad text-books.
+## Lecture Videos Playlists<a name=broad_intros_lecture_videos_playlists></a>
+- [Yanofsky. Theoretical Computer Science](https://www.youtube.com/playlist?list=PLCqUsBXxq16yBaN_hpo7dY2l9N-ZLtI-X) - undergrad introduction to theory of computation
+- [Anil Ada. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLKzLTB8HeSUIuln-o1mbXfTr8HmIhiGEg) - A series of lectures on selected notable topics in theoretical computer science.
+- [O'Donnell. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv) - A series of lectures on selected notable topics in theoretical computer science.
 ## Books<a name=broad_intros_books></a>
-- [Moore & Mertens. The Nature of Computation](http://nature-of-computation.org/) - It spans complexity of mazes and games; optimization in theory and practice; randomized algorithms, interactive proofs, and pseudorandomness; Markov chains and phase transitions; and of quantum computing. It provides accessible explanations
 - [Wigderson. Mathematics and Computation: A Theory Revolutionizing Technology and Science](https://www.math.ias.edu/files/Book-online-Aug0619.pdf) - A sweeping survey of complexity theory, emphasizing the field’s insights and challenges. It explains the ideas and motivations leading to key models, notions, and results.
-## Handbooks<a name=handbooks></a>
+- [Moore & Mertens. The Nature of Computation](http://nature-of-computation.org/) - It spans complexity of mazes and games; optimization in theory and practice; randomized algorithms, interactive proofs, and pseudorandomness; Markov chains and phase transitions; and of quantum computing. It provides accessible explanations
+## Handbooks<a name=broad_intros_handbooks></a>
 - [Atallah & Blanton. Algorithms and Theory of Computation Handbook: General Concepts and Techniques](https://www.routledge.com/Algorithms-and-Theory-of-Computation-Handbook-Volume-1-General-Concepts/Atallah-Blanton/p/book/9781138113930) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
 - [Atallah & Blanton. Algorithms and Theory of Computation Handbook: Special Topics and Techniques](https://www.routledge.com/Algorithms-and-Theory-of-Computation-Handbook-Volume-2-Special-Topics/Atallah-Blanton/p/book/9780367384845) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
 - [Handbook of Theoretical Computer Science. Volume A: Algorithms and Complexity](https://mitpress.mit.edu/books/handbook-theoretical-computer-science-volume) - A complete comprehensive encyclopediac handbook which surveys all related areas to theoretical computer science.
@@ -21,17 +27,12 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ## Introductory<a name=theory_of_computation_introductory></a>
 ### Lecture Notes<a name=theory_of_computation_introductory_lecture_notes></a>
 - [Watrous. Introduction to The Theory of Computing](https://cs.uwaterloo.ca/~watrous/ToC-notes/) - undergrad introduction to theory of computation
-### Lecture Videos Playlists<a name=theory_of_computation_introductory_lecture_videos_playlists></a>
-- [Yanofsky. Theoretical Computer Science](https://www.youtube.com/playlist?list=PLCqUsBXxq16yBaN_hpo7dY2l9N-ZLtI-X) - undergrad introduction to theory of computation
-- [Anil Ada. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLKzLTB8HeSUIuln-o1mbXfTr8HmIhiGEg) - A series of lectures on selected notable topics in theoretical computer science.
-- [O'Donnell. Great Ideas in Theoretical Computer Science. CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv) - A series of lectures on selected notable topics in theoretical computer science.
 ### MOOC<a name=theory_of_computation_introductory_mooc></a>
 - [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) - It teaches basic concepts in theoretical computer science, such as NP-completeness, and what they imply for solving tough algorithmic problems.
 - [Computability, Complexity & Algorithms. Georgia Institute of Technology](https://www.udacity.com/course/computability-complexity-algorithms--ud061) - It focuses on the big fundamental questions of computing, and how understanding the power and limitations of algorithms helps us develop the tools to make real-world computers smarter, faster and safer.
 ### Books<a name=theory_of_computation_introductory_books></a>
 - [Sipser. Introduction to Theory of Computation](https://www.cengage.com/c/introduction-to-the-theory-of-computation-3e-sipser/9781133187790/) - A standard text for introducing theory of computation for undergrads.
 - [Hopcroft, Motwani & Ullman. Introduction to Automata Theory, Languages, and Computation](https://www.pearson.com/us/higher-education/program/Hopcroft-Introduction-to-Automata-Theory-Languages-and-Computation-3rd-Edition/PGM64331.html) - Introductory undergrad textbook for automata, languages and theory of computation topics.
-- [Barak. Introduction to TCS](https://introtcs.org/public/index.html) - A modern, brief, and accessible text which introduces theoretical computer science for undergrads. It includes topics not usually included in standard undergrad text-books.
 ### Puzzles and Problem Sets<a name=theory_of_computation_introductory_puzzles_and_problem_sets></a>
 - [Zhu & Ko. Problem Solving in Automata, Languages, and Complexity](https://onlinelibrary.wiley.com/doi/book/10.1002/0471224642) - A problem-set text for automata, languages, and complexity.
 ## Computational Complexity<a name=theory_of_computation_computational_complexity></a>
@@ -105,6 +106,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 ## Algorithms<a name=algorithms></a>
 ## General<a name=algorithms_general></a>
 ### Lecture Notes<a name=algorithms_general_lecture_notes></a>
+- [Erik Demaine. Advanced Data Structures. MIT](https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/) - It covers major results and current directions of research in data structure.
 - [Arora. Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall15/cos521/) - Notably uses ideas such as randomness, approximation, high dimensional geometry. Faces uncertainty, approaches to handle big data, handling intractability, heuristic approaches, ..etc.
 ### Books<a name=algorithms_general_books></a>
 - [Knuth. The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) - A legendary series by Donald Knuth on design and analysis of algorithms.
@@ -131,8 +133,15 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Du & Ko. Design and Analysis of Approximation Algorithms](https://u.pcloud.link/publink/show?code=XZpzNWXZSCkVs6BKd5RzyNhoRzfJCJoaqSok) - A technique-oriented approach provides a unified view. It includes detailed algorithms, proofs, analyses, examples, and applications from research papers.
 - [Vijay Vazirani. Approximation Algorithms](https://u.pcloud.link/publink/show?code=XZgHNWXZkdvT8L18drSSgLP9vqBIDmbPreD7)
 ## Parameterized<a name=algorithms_parameterized></a>
+### Lecture Videos Playlist<a name=algorithms_parameterized_lecture_videos_playlist></a>
+- [Parametarized Algorithms by Warsaw](https://www.youtube.com/playlist?list=PLzdZSKerwrXpr6hWq1s63a42YbkocAK1Q)
 ### Books<a name=algorithms_parameterized_books></a>
 - Fedor Fomin. Parametrized Algorithms - Modern comprehensive explanation of recent tools and techniques with exercises, for graduate students.
+## Learning-augmented<a name=algorithms_learning-augmented></a>
+### Lecture Notes<a name=algorithms_learning-augmented_lecture_notes></a>
+- [Indyk & Daskalakis. Learning-augmented Algorithms. MIT](https://stellar.mit.edu/S/course/6/sp19/6.890/materials.html)
+### Big List<a name=algorithms_learning-augmented_big_list></a>
+- [Algorithms with Predictions](https://algorithms-with-predictions.github.io/)
 ## Information/Coding Theory<a name=informationcoding_theory></a>
 ## Lecture Notes<a name=informationcoding_theory_lecture_notes></a>
 - [Madhu Sudan. Essential Coding Theory](http://people.seas.harvard.edu/~madhusudan/courses/Spring2020/) - Some elements of Algorithmic tasks of encoding and decoding and its connections with error-correction; These codes are now tools in the design and analysis of algorithms, and also in many aspects of computational complexity. The focus is on constructions of algorithmic and asymptotic importance. Requires only basic mathematical maturity.
@@ -184,6 +193,66 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Simons Institute. Economics and Computation Program](https://simons.berkeley.edu/programs/economics2015) - The intersection is motivated by applications such as large-scale digital auctions and markets, and fundamental questions such as the computational complexity of Nash equilibria and complexity and approximation in mechanism design. Also, To productively model and study the Internet and its novel computational phenomena, Models and insights can be gained from from game theory and economic theory. The computational point of view, on the other hand, is essential to understand a world in which markets are networked and the default platforms of economic transactions are algorithmic.
 - [Simons Institute. Learning and Games Program](https://simons.berkeley.edu/programs/games2022) - The intersection is manifested by (1) Data input to machine learning algorithms are generated by self-interested parties, (2) Machine learning is used to optimize economic systems or acts, (3) Machine learning models used in critical systems are becoming prone to adversarial attacks, and (4) Several machine learning approaches can be framed as finding the equilibrium of a game.
 - [Eva Tardos. Learning and Efficiency in Games](https://simons.berkeley.edu/events/openlectures2015-fall-1) - How to quantify the impact of strategic user behavior on overall performance in games including traffic routing as well as online auctions.
+## Math and Logic<a name=math_and_logic></a>
+## General<a name=math_and_logic_general></a>
+### Lecture Videos Playlist<a name=math_and_logic_general_lecture_videos_playlist></a>
+- [Lehman, Leighton & Meyer. Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/) - An introduction to discrete mathematics oriented toward computer science and engineering. - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
+### Books<a name=math_and_logic_general_books></a>
+- [Knuth, Graham & Patashnik. Concrete Mathematics: A Foundation for Computer Science](https://www.pearson.com/us/higher-education/product/Graham-Concrete-Mathematics-A-Foundation-for-Computer-Science-2nd-Edition/9780134389981.html) - An expansion of the Mathematical Preliminaries section in Knuth's classic Art of Computer Programming, but the style of presentation is more leisurely, and individual topics are covered more deeply.
+- [Aho & Ullman. Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html) - A classic math-oriented introduction to computer science.
+- [Tu Delft. Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13) - A textbook for a one quarter introductory course in theoretical computer science.
+- [Comprehensive Mathematics for Computer Scientists](https://www.springer.com/series/5517) - A series dedicated to math topics and their relevance to computer science.
+- [Krantz. Handbook of Logic and Proof Techniques for Computer Science](https://www.maa.org/press/maa-reviews/handbook-of-logic-and-proof-techniques-for-computer-science) - A concise offered as an accessible reference on mathematical logic for the professional computer scientist.
+- [Makinson. Sets, Logic and Maths for Computing](https://www.springer.com/gp/book/9783030422172) - It presents a careful selection of the material most needed by students in their first two years studying computer science.
+- [Yves Nievergelt. Logic, Mathematics, and Computer Science: Modern Foundations with Practical Applications](https://www.springer.com/gp/book/9781493932221) - For lower undergraduates, It introduces the reader to logic, proofs, sets, and number theory, Focusing on foundations. It provides complete details and derivations of formal proofs.
+- [Lacona. LOGIC: Lecture Notes for Philosophy, Mathematics, and Computer Science](https://link.springer.com/book/10.1007/978-3-030-64811-4) - Suitable for undergraduate introductions to logic and early graduate courses on logic.
+- [Ben-Ari. Mathematical Logic for Computer Science](https://www.springer.com/gp/book/9781447141280) - Semantic tableaux are used because they are theoretically sound and easy to understand.
+- [Jeremy Kun. A Programmer's Introduction to Mathematics](https://pimbook.org/) - Uses your familiarity with ideas from programming and software to teach mathematics.
+- [Vince. Foundation Mathematics for Computer Science: A Visual Approach](https://www.springer.com/gp/book/9783030420772) - A range of mathematical topics to provide a solid foundation for an undergraduate course in computer science, starting with a review of number systems and their relevance to digital computers, and finishing with differential and integral calculus.
+- [Oberguggenberger & Ostermann. Analysis for Computer Scientists: Foundations, Methods, and Algorithms](https://www.springer.com/gp/book/9783319911540) - Presents an algorithmic approach to mathematical analysis, with a focus on modelling and on the applications of analysis.
+### Lecture Notes<a name=math_and_logic_general_lecture_notes></a>
+- [Paluszynski. Calculus for Computer Scientists](https://www.math.uni.wroc.pl/~mpal/academic/2013/lecture_notes.pdf) - calculus lecture notes taught for undergrad computer science students
+## TCS Toolkit<a name=math_and_logic_tcs_toolkit></a>
+### Lecture Videos Playlists<a name=math_and_logic_tcs_toolkit_lecture_videos_playlists></a>
+- [O'Donnell. CS Theory Toolkit](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory - alternatively: [bilibili](https://www.bilibili.com/video/BV1Ry4y1e7zR)
+- [Madhur Tulsiani. Mathematical Toolkit](https://home.ttic.edu/~madhurt/courses/toolkit2021/index.html) - Things prof. Madhur wish he knew in first year of grad school.
+- [Harsha & Strivastava. Toolkit for Theoretical Computer Science. Tata Institute](https://www.tifr.res.in/~prahladh/teaching/2020-21/toolkit/)
+### Lecture Notes<a name=math_and_logic_tcs_toolkit_lecture_notes></a>
+- [Gregory Valiant. The Modern Algorithmic Toolbox. Stanford](https://web.stanford.edu/class/cs168/) - It covers hashing, dimension reduction, linear and convex programming, gradient descent and regression, sampling and estimation, compressive sensing, linear-algebraic techniques (principal components analysis, singular value decomposition, spectral techniques), and an intro to differential privacy.
+- [Zhou. A Theorist's Toolkit. Illinois](https://yuanz.web.illinois.edu/teaching/B609fa16/) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
+- [O'Donnell. A Theorist's Toolkit. CMU](https://www.cs.cmu.edu/~odonnell/toolkit13/) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
+- [Arora. Thinking Like a Theorist. Princeton](https://www.cs.princeton.edu/courses/archive/fall07/cos597D/Site/lectopics.html) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
+- [Arora. A Theorist's Toolkit. Princeton](https://www.cs.princeton.edu/courses/archive/fall02/cs597D/) - Aimed primarily at first and second year graduate students who plan to do research in theoretical computer science. We will introduce probabilistic, algebraic, combinatorial, and algorithmic methods useful in proofs.
+- [Kelner. Topics in Theoretical Computer Science: An Algorithmist's Toolkit. MIT](https://ocw.mit.edu/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/) - It covers a collection of geometric techniques that apply broadly in modern algorithm design.
+- [Maji & Valiant. Theoretical Computer Science Toolkit. Purdue](https://www.cs.purdue.edu/homes/hmaji/teaching/Spring%202023/CS-58500-Spring-2023.html)
+### Books<a name=math_and_logic_tcs_toolkit_books></a>
+- [Jukna. Extremal Combinatorics](https://web.vu.lt/mif/s.jukna/EC_Book_2nd/index.html) - Combinatorial techniques written largely with an eye to their applications in TCS, and mostly in complexity
+## Discrete Mathematics<a name=math_and_logic_discrete_mathematics></a>
+### General<a name=math_and_logic_discrete_mathematics_general></a>
+#### Lecture Notes<a name=math_and_logic_discrete_mathematics_general_lecture_notes></a>
+- [Aspnes. Notes on Discrete Mathematics](https://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf) - Fall 2017 of the Yale course CPSC 202a, Mathematical Tools for Computer Science.
+- [Halpern. CS 2802: Discrete Structures - Honors. 2020. Cornell](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-notes.html) - Honors lecture notes on discrete math - [Homework](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-homework.html)
+#### Books<a name=math_and_logic_discrete_mathematics_general_books></a>
+- [Rosen. Handbook of Discrete and Combinatorial Mathematics](https://www.taylorfrancis.com/books/handbook-discrete-combinatorial-mathematics-kenneth-rosen-douglas-shier-wayne-goddard/e/10.1201/9781315156484) - A complete survey of roughly all topics of discrete math and their relevance to computing and communication engineering.
+- [Rosen. Discrete Mathematics and Its Applications](https://www.mheducation.com/highered/product/discrete-mathematics-applications-rosen/M9780073383095.html) - A canonical discrete math textbook, accessible for even high school students.
+- [Rosenberg & Trystram. Understand Mathematics, Understand Computing: Discrete Mathematics That All Computing Students Should Know](https://www.springer.com/gp/book/9783030583750) - It endows the reader with an operational conceptual and methodological understanding of discrete mathematics for computing
+- [Gries & Schneider. A Logical Approach to Discrete Math](https://www.springer.com/gp/book/9780387941158) - It attempts to change the way we teach logic to beginning students. Instead of teaching logic as a subject in isolation, we regard it as a basic tool and show how to use it.
+#### MOOC<a name=math_and_logic_discrete_mathematics_general_mooc></a>
+- [Introduction to Discrete Mathematics for Computer Science. UC San-Diego](https://www.coursera.org/specializations/discrete-mathematics) - Learn the language of Computer Science. Learn the math that defines computer science, and practice applying it through mathematical proofs and Python code.
+### Probabilistic Method<a name=math_and_logic_discrete_mathematics_probabilistic_method></a>
+#### Lecture Notes<a name=math_and_logic_discrete_mathematics_probabilistic_method_lecture_notes></a>
+- [Yufei. Probabilistic Methods in Combinatorics. MIT](https://ocw.mit.edu/courses/18-226-probabilistic-methods-in-combinatorics-fall-2022/pages/syllabus/) and [Yufei's Graph Theory book](https://yufeizhao.com/gtacbook/) - Showing some combinatorial object exists and prove that a certain random construction works with positive probability. The course focuses on methodology as well as combinatorial applications.
+#### Lecture Videos Playlist<a name=math_and_logic_discrete_mathematics_probabilistic_method_lecture_videos_playlist></a>
+- [Luke Postle. Probablistic Methods. Waterloo](https://www.youtube.com/playlist?list=PL2BdWtDKMS6nRF72s3TOGyBqXwMVHYiLU)
+#### Books<a name=math_and_logic_discrete_mathematics_probabilistic_method_books></a>
+- [Alon & Spencer. The Probabilistic Method](https://www.wiley.com/en-us/The+Probabilistic+Method%2C+4th+Edition-p-9781119061953) -  A standard reference for researchers in probabilistic methods in combinatorics. Shows also connections to theoretical computer science.
+### Graph Theory<a name=math_and_logic_discrete_mathematics_graph_theory></a>
+#### Lecture Videos Playlist<a name=math_and_logic_discrete_mathematics_graph_theory_lecture_videos_playlist></a>
+- [Graph Theory by Waterloo](https://www.youtube.com/playlist?list=PL2BdWtDKMS6mplieDd_vls0TBX9Fq2jht)
+### Other<a name=math_and_logic_discrete_mathematics_other></a>
+- [Mariconda & Tonolo. Discrete Calculus: Methods for Counting](https://www.springer.com/gp/book/9783319030371) - An introduction to combinatorics, finite calculus, formal series, recurrences, and approximations of sums. Readers will find also deep insights into a range of less common topics rarely considered within a single book.
+## Transition To Pure Rigour Math<a name=math_and_logic_transition_to_pure_rigour_math></a>
+- Velleman. How to Prove it: A Structured Approach. - It transitions from solving problems to proving theorems by teaching them the techniques needed to read and write proofs.
 ## Physics<a name=physics></a>
 ## Lecture Notes<a name=physics_lecture_notes></a>
 - [Arora. The Computational Universe](https://www.cs.princeton.edu/courses/archive/spring11/cos116/lectures.php) - Takes us on a broad sweep of scientific knowledge and related technologies: propositional logic of the ancient Greeks (microprocessors); quantum mechanics (silicon chips); network and system phenomena (internet and search engines); computational intractability (secure encryption); and efficient algorithms (genomic sequencing).
@@ -204,65 +273,12 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Walter Dean. Computational Complexity Theory and the Philosophy of Mathematics](https://academic.oup.com/philmat/article/27/3/381/5613215) - It highlights the significance of complexity theory relative to questions traditionally asked by philosophers of mathematics while also attempting to isolate some new ones.
 - [Stanford Encyclopedia of Philosophy. Computational Complexity Theory](https://plato.stanford.edu/entries/computational-complexity/) - The foundations of complexity theory, and its potential significance on philosophy of computer science, philosophy of mathematics and epistemology.
 - [Philip Davis. Toward a Philosophy of Computation](https://www.jstor.org/stable/40247755) - Philosophical implication of mathematization and computerization of the world.
-## Math/Logic Preliminaries<a name=mathlogic_preliminaries></a>
-## General<a name=mathlogic_preliminaries_general></a>
-### Lecture Videos Playlist<a name=mathlogic_preliminaries_general_lecture_videos_playlist></a>
-- [Lehman, Leighton & Meyer. Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/) - An introduction to discrete mathematics oriented toward computer science and engineering. - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
-### Books<a name=mathlogic_preliminaries_general_books></a>
-- [Knuth, Graham & Patashnik. Concrete Mathematics: A Foundation for Computer Science](https://www.pearson.com/us/higher-education/product/Graham-Concrete-Mathematics-A-Foundation-for-Computer-Science-2nd-Edition/9780134389981.html) - An expansion of the Mathematical Preliminaries section in Knuth's classic Art of Computer Programming, but the style of presentation is more leisurely, and individual topics are covered more deeply.
-- [Aho & Ullman. Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html) - A classic math-oriented introduction to computer science.
-- [Tu Delft. Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13) - A textbook for a one quarter introductory course in theoretical computer science.
-- [Comprehensive Mathematics for Computer Scientists](https://www.springer.com/series/5517) - A series dedicated to math topics and their relevance to computer science.
-- [Krantz. Handbook of Logic and Proof Techniques for Computer Science](https://www.maa.org/press/maa-reviews/handbook-of-logic-and-proof-techniques-for-computer-science) - A concise offered as an accessible reference on mathematical logic for the professional computer scientist.
-- [Makinson. Sets, Logic and Maths for Computing](https://www.springer.com/gp/book/9783030422172) - It presents a careful selection of the material most needed by students in their first two years studying computer science.
-- [Yves Nievergelt. Logic, Mathematics, and Computer Science: Modern Foundations with Practical Applications](https://www.springer.com/gp/book/9781493932221) - For lower undergraduates, It introduces the reader to logic, proofs, sets, and number theory, Focusing on foundations. It provides complete details and derivations of formal proofs.
-- [Lacona. LOGIC: Lecture Notes for Philosophy, Mathematics, and Computer Science](https://link.springer.com/book/10.1007/978-3-030-64811-4) - Suitable for undergraduate introductions to logic and early graduate courses on logic.
-- [Ben-Ari. Mathematical Logic for Computer Science](https://www.springer.com/gp/book/9781447141280) - Semantic tableaux are used because they are theoretically sound and easy to understand.
-- [Jeremy Kun. A Programmer's Introduction to Mathematics](https://pimbook.org/) - Uses your familiarity with ideas from programming and software to teach mathematics.
-- [Vince. Foundation Mathematics for Computer Science: A Visual Approach](https://www.springer.com/gp/book/9783030420772) - A range of mathematical topics to provide a solid foundation for an undergraduate course in computer science, starting with a review of number systems and their relevance to digital computers, and finishing with differential and integral calculus.
-- [Oberguggenberger & Ostermann. Analysis for Computer Scientists: Foundations, Methods, and Algorithms](https://www.springer.com/gp/book/9783319911540) - Presents an algorithmic approach to mathematical analysis, with a focus on modelling and on the applications of analysis.
-### Lecture Notes<a name=mathlogic_preliminaries_general_lecture_notes></a>
-- [Paluszynski. Calculus for Computer Scientists](https://www.math.uni.wroc.pl/~mpal/academic/2013/lecture_notes.pdf) - calculus lecture notes taught for undergrad computer science students
-## TCS Inspired<a name=mathlogic_preliminaries_tcs_inspired></a>
-### Lecture Videos Playlists<a name=mathlogic_preliminaries_tcs_inspired_lecture_videos_playlists></a>
-- [O'Donnell. CS Theory Toolkit](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory - alternatively: [bilibili](https://www.bilibili.com/video/BV1Ry4y1e7zR)
-- [Madhur Tulsiani. Mathematical Toolkit](https://home.ttic.edu/~madhurt/courses/toolkit2021/index.html) - Things prof. Madhur wish he knew in first year of grad school.
-- [Harsha & Strivastava. Toolkit for Theoretical Computer Science. Tata Institute](https://www.tifr.res.in/~prahladh/teaching/2020-21/toolkit/)
-### Lecture Notes<a name=mathlogic_preliminaries_tcs_inspired_lecture_notes></a>
-- [Gregory Valiant. The Modern Algorithmic Toolbox. Stanford](https://web.stanford.edu/class/cs168/) - It covers hashing, dimension reduction, linear and convex programming, gradient descent and regression, sampling and estimation, compressive sensing, linear-algebraic techniques (principal components analysis, singular value decomposition, spectral techniques), and an intro to differential privacy.
-- [Zhou. A Theorist's Toolkit. Illinois](https://yuanz.web.illinois.edu/teaching/B609fa16/) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
-- [O'Donnell. A Theorist's Toolkit. CMU](https://www.cs.cmu.edu/~odonnell/toolkit13/) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
-- [Arora. Thinking Like a Theorist. Princeton](https://www.cs.princeton.edu/courses/archive/fall07/cos597D/Site/lectopics.html) - It covers a large number of the math/CS topics that you need to know for reading and doing research in Computer Science Theory.
-- [Arora. A Theorist's Toolkit. Princeton](https://www.cs.princeton.edu/courses/archive/fall02/cs597D/) - Aimed primarily at first and second year graduate students who plan to do research in theoretical computer science. We will introduce probabilistic, algebraic, combinatorial, and algorithmic methods useful in proofs.
-- [Kelner. Topics in Theoretical Computer Science: An Algorithmist's Toolkit. MIT](https://ocw.mit.edu/courses/18-409-topics-in-theoretical-computer-science-an-algorithmists-toolkit-fall-2009/) - It covers a collection of geometric techniques that apply broadly in modern algorithm design.
-- [Maji & Valiant. Theoretical Computer Science Toolkit. Purdue](https://www.cs.purdue.edu/homes/hmaji/teaching/Spring%202023/CS-58500-Spring-2023.html)
-### Books<a name=mathlogic_preliminaries_tcs_inspired_books></a>
-- [Jukna. Extremal Combinatorics](https://web.vu.lt/mif/s.jukna/EC_Book_2nd/index.html) - Combinatorial techniques written largely with an eye to their applications in TCS, and mostly in complexity
-## Discrete Mathematics<a name=mathlogic_preliminaries_discrete_mathematics></a>
-### Lecture Notes<a name=mathlogic_preliminaries_discrete_mathematics_lecture_notes></a>
-- [Aspnes. Notes on Discrete Mathematics](https://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf) - Fall 2017 of the Yale course CPSC 202a, Mathematical Tools for Computer Science.
-- [Halpern. CS 2802: Discrete Structures - Honors. 2020. Cornell](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-notes.html) - Honors lecture notes on discrete math - [Homework](https://www.cs.cornell.edu/courses/cs2802/2020fa/cs2802-20f-homework.html)
-### Books<a name=mathlogic_preliminaries_discrete_mathematics_books></a>
-- [Alon & Spencer. The Probabilistic Method](https://www.wiley.com/en-us/The+Probabilistic+Method%2C+4th+Edition-p-9781119061953) -  A standard reference for researchers in probabilistic methods in combinatorics. Shows also connections to theoretical computer science.
-- [Rosen. Discrete Mathematics and Its Applications](https://www.mheducation.com/highered/product/discrete-mathematics-applications-rosen/M9780073383095.html) - A canonical discrete math textbook, accessible for even high school students.
-- [Rosen. Handbook of Discrete and Combinatorial Mathematics](https://www.taylorfrancis.com/books/handbook-discrete-combinatorial-mathematics-kenneth-rosen-douglas-shier-wayne-goddard/e/10.1201/9781315156484) - A complete survey of roughly all topics of discrete math and their relevance to computing and communication engineering.
-- [Rosenberg & Trystram. Understand Mathematics, Understand Computing: Discrete Mathematics That All Computing Students Should Know](https://www.springer.com/gp/book/9783030583750) - It endows the reader with an operational conceptual and methodological understanding of discrete mathematics for computing
-- [Gries & Schneider. A Logical Approach to Discrete Math](https://www.springer.com/gp/book/9780387941158) - It attempts to change the way we teach logic to beginning students. Instead of teaching logic as a subject in isolation, we regard it as a basic tool and show how to use it.
-- [Mariconda & Tonolo. Discrete Calculus: Methods for Counting](https://www.springer.com/gp/book/9783319030371) - An introduction to combinatorics, finite calculus, formal series, recurrences, and approximations of sums. Readers will find also deep insights into a range of less common topics rarely considered within a single book.
-### MOOC<a name=mathlogic_preliminaries_discrete_mathematics_mooc></a>
-- [Introduction to Discrete Mathematics for Computer Science. UC San-Diego](https://www.coursera.org/specializations/discrete-mathematics) - Learn the language of Computer Science. Learn the math that defines computer science, and practice applying it through mathematical proofs and Python code.
-## Transition To Pure Rigour Math<a name=mathlogic_preliminaries_transition_to_pure_rigour_math></a>
-- Velleman. How to Prove it: A Structured Approach. - It transitions from solving problems to proving theorems by teaching them the techniques needed to read and write proofs.
 ## Surveys & Monographs<a name=surveys__monographs></a>
 - [Sommaruga & Strahm. Turing’s Revolution: The Impact of His Ideas about Computability](https://link.springer.com/book/10.1007/978-3-319-22156-4) - A collection of historical, technical and philosophical papers.
 - [Harry Lewis. Ideas That Created the Future: Classic Papers of Computer Science ](https://mitpress.mit.edu/9780262045308/ideas-that-created-the-future/) - Classic papers by thinkers ranging from Aristotle and Leibniz to Norbert Wiener and Gordon Moore that chart the evolution of computer science.
+- [Building Bridges I](https://rd.springer.com/book/10.1007/978-3-540-85221-6), [Building Bridges II](https://link.springer.com/book/10.1007/978-3-662-59204-5), [Fete of Combinatorics and Computer Science](https://link.springer.com/book/10.1007/978-3-642-13580-4) - Collected works in celebration of Laszlo Lovasz, Connecting discrete math with computer science.
 - [Fortnow & Homer. A Short History of Computational Complexity](https://www.researchgate.net/profile/Lance-Fortnow/publication/220530495_A_Short_History_of_Computational_Complexity/links/0deec52bd7ab603fef000000/A-Short-History-of-Computational-Complexity.pdf) - A historical overview of computational complexity.
 - [Goldreich. Providing Sound Foundations for Cryptography: On the Work of Shafi Goldwasser and Silvio Micali](http://www.wisdom.weizmann.ac.il/~oded/sst.html) - It explains the remarkable work of Shafi and Silvio and their works' implications on foundations of cryptography.
-- [Building Bridges I](https://rd.springer.com/book/10.1007/978-3-540-85221-6), [Building Bridges II](https://link.springer.com/book/10.1007/978-3-662-59204-5), [Fete of Combinatorics and Computer Science](https://link.springer.com/book/10.1007/978-3-642-13580-4) - Collected works in celebration of Laszlo Lovasz, Connecting discrete math with computer science.
-- [Entropy, Search, Complexity](https://link.springer.com/book/10.1007/978-3-540-32777-6) - A collection of survey papers in the fields of entropy, search and complexity. It includes also search theory and quantum source coding. Recommended to both researchers and students.
-- [Watrous. Quantum Computational Complexity](https://arxiv.org/abs/0804.3401) - A survey on the intersection of computational complexity and quantum computing.
-- [Harrow & Ashley Montanaro. Quantum Computational Supremacy](https://www.nature.com/articles/nature23458) - A remarkable paper on quantum supremacy.
-- [Cook. An Overview of Computational Complexity](https://dl.acm.org/doi/abs/10.1145/1283920.1283938?casa_token=I0zkxGUh7zoAAAAA:qUozzyaWcba56dq5q6CXVo2JvGVOzcXY2J8HKoI-OZxEbxhVXlQlWF0pg5ttfs8X8pznp5j7Bbrktg) - A historical overview of computational complexity.
 ## Community<a name=community></a>
 ## Conferences & Workshops<a name=community_conferences__workshops></a>
 ### Aggregators<a name=community_conferences__workshops_aggregators></a>
@@ -275,32 +291,20 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [TCS+](https://www.youtube.com/user/TCSplusSeminars) - A series of online seminars in theoretical computer science. The goal is to make engaging talks accessible to the widest possible audience.
 - [CMU Theory](https://www.youtube.com/channel/UCWFp4UWNiOv71j0sPbdNiqw) - Aims for a mathematical understanding of fundamental issues in Computer Science, and to use this understanding to produce better algorithms, protocols, and systems, as well as identify the inherent limitations of efficient computation.
 ### Archived<a name=community_conferences__workshops_archived></a>
-- [Turing Lectures. ACM](https://amturing.acm.org/lectures.cfm)
-- ACM A.M. Turing Laureate Interview. Berkeley - Interviews with Berkeley's Turing award winners. - [Shafi Goldwasser and Silvio Micali](https://www.youtube.com/watch?v=yBRbSzPgG4A)
-- Berkeley in the 80s - Interviews with eminent figures in Berkeley's theoretical computer science. - [Shafi Goldwasser](https://www.youtube.com/watch?v=7D4hIe7M4qU&t=1s)
-- [Simons' Theory Shorts](https://www.youtube.com/playlist?list=PLgKuh-lKre134Psz9KECgjuwJ47l3IvqW) - Short accessible videos which populate theory of computation.
-- Lex Podcast - Informal discussions podcast. - [Donald Knuth 1](https://www.youtube.com/watch?v=2BdBfsXbST8) | [Donald Knuth 2](https://www.youtube.com/watch?v=EE1R8FYUJm0) | [Silvio Micali](https://www.youtube.com/watch?v=zNdhgOk4-fE) | [Richard Karp](https://www.youtube.com/watch?v=KllCrlfLuzs) | [Scott Aaronson 1](https://www.youtube.com/watch?v=uX5t8EivCaM) | [Scott Aaronson 2](https://www.youtube.com/watch?v=nAMjv0NAESM)
+- [Turing Laureates Lectures](https://www.youtube.com/playlist?list=PLn0nrSd4xjjYCkOxtYqozyDuwt-4sC2L6) and [Turing Laureates Interviews](https://www.youtube.com/playlist?list=PLn0nrSd4xjjaSLBSzmno-3Ods6FJE9nlO) - ACM Turing Award Laureates delivers a lecture before a forum of their choice on a subject of their choice.
 - [Computational Complexity](https://www.youtube.com/channel/UCzBw287tly0c2lE6a-9XymA) - Collection of workshops.
-- [Chi-Ning Chou. What is Computation? From Turing Machines to Black Holes and Neurons](https://www.youtube.com/playlist?list=PLUxf7X3NCfHNqOFlnnX9nSTENSzZoOLVp) (see also [main website](https://cnchou.github.io/mini-course/)) - Accessible mini-course that introduces high-level stories of TCS and its intersections with other fields.
 ## Magazines & Newsletter<a name=community_magazines__newsletter></a>
 - [EATCS Bulletin](https://eatcs.org/index.php/on-line-issues) - Surveys, tutorials, conferences reports, events, open problems and solutions, PhD Theses, and entertaining contributions.
 - [SIGACT News](https://dl.acm.org/loi/sigact) - ACM's official theoretical computer science news feed.
 - [Foundations and Trends in Theoretical Computer Science](https://www.nowpublishers.com/TCS) - It provides monographs written by leaders that give tutorial coverage of subjects, research retrospectives as well as survey papers that offer state-of-the-art reviews fall within the scope of the journal.
 - [Quanta Magazine](https://www.quantamagazine.org/tag/computational-complexity) - Features breakthroughs in the field, written in an accessible style for non-experts.
-## Blogs<a name=community_blogs></a>
-- [Theory of Computing Blog Aggregator](https://theory.report/) - A blog Aggregator for all blogs related to TCS.
-## Jobs<a name=community_jobs></a>
-- [Rubinstein & Weinberg. Research Masters in TCS](https://www.cs.princeton.edu/~smattw/masters/masters.html) - A list of master programs in TCS.
-- [CS Theory Jobs](https://cstheory-jobs.org) - TCS Jobs announcements.
-- [Yaroslavtsev. Hires spreadsheet 2022](http://grigory.us/blog/posts/) - A crowdsourced spreadsheet created to collect information about theory hires in year 2022.
-## Online Communities<a name=community_online_communities></a>
-- [TCS Stack Exchange](https://cstheory.stackexchange.com/) - Stack Exchange (QnA) of theoretical computer science.
-- [TCS Subreddit](https://www.reddit.com/r/theoreticalcs)- Theoretical computer science's subreddit.
 ## Associations<a name=community_associations></a>
-- [ACM's SigACT](https://sigact.org/)
+- [ACM's SIGACT](https://sigact.org/)
 - [European Association of TCS](https://www.eatcs.org/)
-## Other Resources<a name=other_resources></a>
-## Blog Posts and Essays<a name=other_resources_blog_posts_and_essays></a>
+## Blogs<a name=community_blogs></a>
+### Aggregators<a name=community_blogs_aggregators></a>
+- [Theory of Computing Blog Aggregator](https://theory.report/) - A blog Aggregator for all blogs related to TCS.
+### Selected Posts and Essays<a name=community_blogs_selected_posts_and_essays></a>
 - [Omer Reingold. The Practice of Theory Research](https://omereingold.wordpress.com/cs-163-the-practice-of-theory-research/) - A research methods course, concentrating on the how rather than the what. It focuses on research practices common for computer science theory research.
 - [Omer Reingold. TOC: a Personal Perspective (2021)](https://theorydish.blog/2021/04/15/toc-a-personal-perspective-2021/) - In celebration of 25 years for “TOC: a Scientific Perspective (1996),” by Oded Goldreich and Avi Wigderson. It spots the light on a criticism directed to TCS, that it is not as deep as Math and not as useful as CS.
 - [Blum. You and Your Research: An Advice to a Beginning Graduate Student](https://www.cs.cmu.edu/~mblum/research/pdf/grad.html) - Manuel Blum, A very popular figure in TCS, gives research advices for juniors.
@@ -316,7 +320,20 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Princeton's Companion. Advice to a Young Mathematician](http://assets.press.princeton.edu/chapters/gowers/gowers_VIII_6.pdf) - Five contributors draw on their experiences of mathematical life and research, and to offer advice that they might have liked to receive when they were just setting-out on their careers.
 - [Terry. Career Advice](https://terrytao.wordpress.com/career-advice/) - A collection of various pieces of advice on academic career issues in mathematics, roughly arranged by the stage of career at which the advice is most pertinent.
 - [Igor Pak. How to Start a Paper](https://igorpak.wordpress.com/2022/10/26/how-to-start-a-paper/) - Why should you introduce a conceptual preliminary motivating the story of your paper.
-## Popular Science<a name=other_resources_popular_science></a>
+## Jobs<a name=community_jobs></a>
+- [Rubinstein & Weinberg. Research Masters in TCS](https://www.cs.princeton.edu/~smattw/masters/masters.html) - A list of master programs in TCS.
+- [CS Theory Jobs](https://cstheory-jobs.org) - TCS Jobs announcements.
+- [Yaroslavtsev. Hires spreadsheet 2022](http://grigory.us/blog/posts/) - A crowdsourced spreadsheet created to collect information about theory hires in year 2022.
+## Online Communities<a name=community_online_communities></a>
+- [TCS Stack Exchange](https://cstheory.stackexchange.com/) - Research-oriented Q&A of theoretical computer science.
+- [TCS Subreddit](https://www.reddit.com/r/theoreticalcs)- Theoretical computer science's subreddit.
+## Other<a name=other></a>
+## Podcasts<a name=other_podcasts></a>
+- Lex Fridman - [Donald Knuth 1](https://www.youtube.com/watch?v=2BdBfsXbST8) | [Donald Knuth 2](https://www.youtube.com/watch?v=EE1R8FYUJm0) | [Silvio Micali](https://www.youtube.com/watch?v=zNdhgOk4-fE) | [Richard Karp](https://www.youtube.com/watch?v=KllCrlfLuzs) | [Scott Aaronson 1](https://www.youtube.com/watch?v=uX5t8EivCaM) | [Scott Aaronson 2](https://www.youtube.com/watch?v=nAMjv0NAESM)
+- [Berkeley in the 80s](https://www.youtube.com/playlist?list=PLUFeA6y-5sFmXMJv2uAmMig3Urgfkg_2O) - Interviews with eminent figures in Berkeley.
+- [Simons' Theory Shorts](https://www.youtube.com/playlist?list=PLgKuh-lKre134Psz9KECgjuwJ47l3IvqW) - Short accessible videos which populate theory of computation.
+- [ACM ByteCast](https://www.youtube.com/playlist?list=PLn0nrSd4xjjbCHzgtvc9HDRU80HHaD0Lr) - Researchers, practitioners and innovators who are at the intersection of research and practice, sharing their experiences, lessons, visions for the future.
+## Popular Science<a name=other_popular_science></a>
 - [The Legacy of Alan Turing: Pushing the Boundaries of Computation (Volume 18, Issue 3, Spring 2012). ACM, XRDS](https://dl.acm.org/toc/xrds/2012/18/3) - ACM's students magazine special issue for theory of computation.
 - [Fortnow. The Golden Ticket: P, NP, and the Search for the Impossible](https://goldenticket.fortnow.com) - A nontechnical introduction to P-NP, its rich history, and its algorithmic implications for everything we do with computers and beyond.
 - [Ausiello. The Making of a New Science: A Personal Journey Through the Early Years of Theoretical Computer Science](https://link.springer.com/book/10.1007/978-3-319-62680-2) - A story about people, pioneers with diverse backgrounds and characters who established a new field.
@@ -326,7 +343,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Teuscher. Alan Turing: Life and Legacy of a Great. Springer](https://link.springer.com/book/10.1007/978-3-662-05642-4) - Essays which spans the entire rich spectrum of Turing's life, research work and legacy.
 - [Petzold. The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine](http://www.charlespetzold.com/AnnotatedTuring/) -  A Guided Tour through Alan Turing's Historic Paper on Computability and the Turing Machine.
 - [Shasha & Lazere. Out of their Minds: The Lives and Discoveries of 15 Great Computer Scientists](https://www.springer.com/gp/book/9780387982694) - Interviews with era's greatest scientists about their inspirations, discoveries, and personal interests.
-## Cheat Sheets<a name=other_resources_cheat_sheets></a>
+## Cheat Sheets<a name=other_cheat_sheets></a>
 - [TCS Cheat Sheet](https://www.cosy.sbg.ac.at/~held/teaching/aads/TCS-cheat_sheet.pdf) - A sheet of notes containing essential toolboxes needed by any theoretical computer scientist.
 ## Related Lists<a name=related_lists></a>
 - [Algorithms](https://github.com/tayllan/awesome-algorithms).

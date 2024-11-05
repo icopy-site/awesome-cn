@@ -660,6 +660,7 @@ become an Angular expert.
 * [mantis-free-angular-admin-template](https://github.com/codedthemes/mantis-free-angular-admin-template)
 * [datta-able-free-angular-admin-template](https://github.com/codedthemes/datta-able-free-angular-admin-template)
 * [angular-templates](https://github.com/hawkgs/angular-templates) - A set of Angular templates for common web apps.
+* [LightNap](https://github.com/SharpLogic/LightNap) - LightNap (lightweight .NET Core/Angular/PrimeNG) is a full stack starter kit designed to provide a boost to Single Page Applications (SPA). It includes built-in support for ASP.NET Core Identity, JWT token management, and administrative features for managing identity, offering a solid foundation to be extended for any application scenario.
 
 ##### Paid
 
@@ -821,6 +822,7 @@ become an Angular expert.
 * [ngx-hm-carousel](https://github.com/ZouYouShun/ngx-hm-carousel) - A light carousel for Angular 18+, supports mobile touch with [HammerJs](https://hammerjs.github.io/).
 * [ngx-stories](https://github.com/Gauravdarkslayer/ngx-stories) - An Angular component to render Instagram like stories.
 * [carousel-library](https://github.com/GreenFlag31/carousel-library) - A versatile Angular library providing a feature-rich, simple, and performant carousel component.
+* [ngx-simple-gallery](https://github.com/zolcsi/ngx-simple-gallery) - A lightweight gallery library for Angular 18 that presents all images as thumbnails, expanding them to full size upon clicking or tapping.
 
 #### Charts
 
@@ -1021,6 +1023,8 @@ become an Angular expert.
 * [ngx-show-hide-password](https://github.com/osahner/ngx-show-hide-password) - Add split input button to password or text input. Toggles input type between "text" and "password".
 * [ngx-phone-field](https://github.com/alex-mirankov/ngx-phone-field) - An Angular directive that provides international phone input with country flag dropdowns. It integrates with Angular forms, supporting both Reactive Forms and Template-Driven Forms.
 * [ngx-rabe-star](https://github.com/Avotraina/ngx-rabe-star) - An Angular library that provides a customizable star rating component for your Angular application.
+* [ngx-mat-birthday-input](https://github.com/rbalet/ngx-mat-birthday-input) - An Angular Material library for entering a birthday.
+* [ngx-countries-dropdown](https://github.com/kapilkumar0037/ngx-countries-dropdown) - Angular library with customizable countries dropdown component with flags, dial code, language and currency details.
 
 ##### Validation
 
@@ -1034,6 +1038,7 @@ become an Angular expert.
 * [ngx-validator-pack](https://github.com/dynimorius/ngx-validator-pack) - A collection of validators designed
 to simplify usage and allow quick customization.
 * [ngx-error-msg](https://github.com/fakeJan499/ngx-error-msg) - The error message mapping library for Angular.
+* [ngx-form-errors](https://github.com/NationalBankBelgium/ngx-form-errors) - Display form validation errors for Angular Reactive forms.
 
 #### Icons
 
@@ -1192,6 +1197,7 @@ to simplify usage and allow quick customization.
 * [ngx-lift](https://github.com/wghglory/ngx-lift) - This project has been crafted to enhance and simplify your Angular development experience. In the dynamic web development landscape, Angular stands out as a robust framework, and `ngx-lift` and `clr-lift` complement it by offering a collection of utilities, operators, and components.
 * [firestitch](https://github.com/orgs/Firestitch/repositories) - [Firestitch](https://firestitch.com/) has a ton of open source Angular solutions.
 * [ngx-tools](https://github.com/studiohyperdrive/ngx-tools) - A mono-repo providing several of the Angular based packages created and maintained by the [Studio Hyperdrive](https://studiohyperdrive.be/) team.
+* [ngx-utility](https://github.com/OPI-PIB/ngx-utility) - Various helpers for forms, zones, DOM manipulation, HTTP requests, and more.  
 
 #### Modals
 

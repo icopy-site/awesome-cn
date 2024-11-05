@@ -220,7 +220,7 @@ Templates to help you get started with building a Cosmos SDK blockchain.
 * [REStake](https://restake.app) - Auto-compounder app for Cosmos blockchains using Authz ([source](https://github.com/eco-stake/restake)).
 * [Cosmfaucet](https://github.com/scalalang2/cosmfaucet) - Self-hosted faucet service for Cosmos based blockchain.
 * [Cosmos Notifier](https://cosmos-notifier.decrypto.online) - Governance notification tool for Telegram and Discord ([source](https://github.com/shifty11/cosmos-notifier)).
-* [IBC Anywhere](https://ibc.reece.sh/) - IBC token transfers including multi-chain hops.
+* [Skip:Go](https://go.skip.build) - IBC token transfers, automated swapping and multi-hop routing ([source](https://github.com/skip-mev/skip-go-app)).
 
 ### Bots
 
@@ -251,9 +251,9 @@ A list of wallets supporting Cosmos chains is <https://cosmos.network/ecosystem/
 
 ## Blogs
 
-**Disclaimer: This community-maintained repo does not reflect the views of any official entity.**
-
 As the ecosystem grows, so does the content. DYOR and follow the projects you find interesting.
+
+**Disclaimer: This community-maintained repo does not reflect the views of any official entity.**
 
 * [What is Cosmos?](https://cosmos.network/intro/)
 * [Cosmos Blog](https://blog.cosmos.network/)
