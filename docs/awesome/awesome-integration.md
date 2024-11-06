@@ -17,7 +17,7 @@ System integration is the process of linking together different IT systems (com
 - [Apigee](https://cloud.google.com/apigee) - A leading API management solution from Google that provides comprehensive API management capabilities and helps you create, secure, and scale APIs with ease.
 - [Azure API Management](https://azure.microsoft.com/en-us/services/api-management/) - A hybrid, multicloud management platform for APIs across all environments, which enables you to manage APIs with ease, secure them, and gain insights into their performance.
 - [DigitMarket API Manager](https://www.torryharris.com/products/digitmarket-api-manager-for-api-management) - A complete package from Torry Harris that helps you manage your APIs and turn them into tools that can drive your business forward.
-- [Gravitee.io API Management (⭐189)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
+- [Gravitee.io API Management (⭐190)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
 - [IBM API Connect](https://www.ibm.com/cloud/api-connect) - A complete, intuitive, and scalable API platform that allows you to create, expose, manage, and monetize APIs across clouds.
 - [Kong Enterprise](https://konghq.com/products/kong-enterprise) - A comprehensive service connectivity platform that provides a range of API management capabilities and allows you to manage APIs, microservices, and service meshes with ease.
 - [Layer7 API Management](https://www.broadcom.com/products/software/api-management) - A continuous API management solution from Broadcom that provides comprehensive API management capabilities and helps you manage APIs throughout their lifecycle.
@@ -93,7 +93,7 @@ System integration is the process of linking together different IT systems (com
   - [Offset Explorer](https://www.kafkatool.com) - GUI application for managing and using Apache Kafka clusters, formerly known as Kafka Tool.
   - [Service Bus Explorer (⭐2k)](https://github.com/paolosalvatori/ServiceBusExplorer) - GUI app for Azure Service Bus, offering advanced features like import/export functionality and the ability to test topic, queues, subscriptions, relay services, notification hubs, and events hubs.
 - Mocking tools
-  - [Imposter (⭐366)](https://github.com/outofcoffee/imposter) - Mock server for REST APIs, OpenAPI (and Swagger) specifications, SOAP web services (and WSDL files), Salesforce and HBase APIs.
+  - [Imposter (⭐367)](https://github.com/outofcoffee/imposter) - Mock server for REST APIs, OpenAPI (and Swagger) specifications, SOAP web services (and WSDL files), Salesforce and HBase APIs.
   - [Microcks (⭐1.4k)](https://github.com/microcks/microcks) - Open-source Kubernetes-native tool for API mocking and testing, supporting AsyncAPI, OpenAPI, Postman Collections, etc.
   - [Mockable](https://www.mockable.io/) - Simple configurable service to mock out RESTful API or SOAP web-services.
   - [Mockbin (⭐89)](https://github.com/zuplo/mockbin) - Easily generate custom endpoints to test HTTP requests, and view the request logs from that API for free.
@@ -157,7 +157,7 @@ System integration is the process of linking together different IT systems (com
 - [Software AG webMethods Integration Server](https://www.softwareag.com/en_corporate/platform/integration-apis/webmethods-integration.html) - An integration platform that enables faster integration of any application.
 - [TIBCO BusinessWorks](https://www.tibco.com/products/tibco-businessworks) - A platform that implements enterprise patterns for hybrid integrations.
 - [UltraESB](https://www.adroitlogic.com/products/ultraesb/) - An ESB that supports zero-copy proxying for extreme performance utilizing Direct Memory Access and Non-Blocking IO.
-- [WSO2 Enterprise Integrator (⭐375)](https://github.com/wso2/product-ei) - An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers.
+- [WSO2 Enterprise Integrator (⭐374)](https://github.com/wso2/product-ei) - An API-centric, cloud-native, and distributed integration platform designed to provide a robust solution for software engineers.
 
 <!--lint disable-->
 <!--lint enable-->
@@ -181,7 +181,7 @@ System integration is the process of linking together different IT systems (com
 *The Integration frameworks section includes software tools and libraries that help developers implement and manage integration patterns in their applications. These frameworks are based on well-established Enterprise Integration Patterns (EIPs), which provide a standard vocabulary and architecture for designing and implementing integration solutions. The frameworks in this section can help simplify the process of integrating different systems, applications, and data sources by providing pre-built connectors, message routing, and transformation capabilities.*
 - [Apache Camel (⭐5.5k)](https://github.com/apache/camel) - A powerful integration framework that uses Enterprise Integration Patterns to connect and unify different transport APIs.
 - [Ballerina (⭐3.6k)](https://github.com/ballerina-platform/ballerina-lang) - An open-source programming language that simplifies the creation, usage, and combination of network services.
-- [Frank!Framework (⭐129)](https://github.com/frankframework/frankframework) - A Low-Code Java-based messaging framework to connect your system and application data, that is completely configurable through XML configurations.
+- [Frank!Framework (⭐130)](https://github.com/frankframework/frankframework) - A Low-Code Java-based messaging framework to connect your system and application data, that is completely configurable through XML configurations.
 - [Spring Integration (⭐1.5k)](https://github.com/spring-projects/spring-integration) - An extension of the Spring programming model that supports Enterprise Integration Patterns, allowing for streamlined integration of various systems.
 
 <!--lint disable-->
@@ -772,7 +772,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 - [BSON](https://bsonspec.org/) - Binary-encoded serialization format for JSON-like documents that is designed to be lightweight and efficient. It supports rich data types and is widely used in NoSQL databases, such as MongoDB.
 - [CSV](https://datatracker.ietf.org/doc/html/rfc4180) - A simple and widely used data format that stores tabular data in plain text. It is easy to read and write, and can be processed by most programming languages.
 - [JSON](https://datatracker.ietf.org/doc/html/rfc8259) - A lightweight and easy-to-read data format that is widely used for data exchange. It supports a wide range of data types and is compatible with many programming languages.
-- [NDJSON (⭐681)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+- [NDJSON (⭐682)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 - [Protocol Buffers (⭐65k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
 - [XML](https://www.w3.org/TR/xml11/) - A flexible and widely used markup language that is used for storing and exchanging structured data. It supports rich data types and is compatible with many programming languages.
 - [YAML (⭐347)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
