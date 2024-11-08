@@ -36,7 +36,7 @@ Contributions are welcome. Add links through pull requests ([guidelines](https:/
   </picture>
 </a>
 
-[`regex`](https://github.com/slevithan/regex) is a lightweight JavaScript library for more readable, high-performance, native JavaScript regexes with powerful features including free spacing, atomic groups, possessive quantifiers, subroutines, subroutine definition groups, and context-aware interpolation.
+[Regex+](https://github.com/slevithan/regex) is a lightweight JavaScript library for more readable, high-performance, native JavaScript regexes with powerful features including free spacing, atomic groups, possessive quantifiers, subroutines, subroutine definition groups, and context-aware interpolation.
 
 
 
@@ -284,7 +284,7 @@ Many regexes found online are low quality. It's risky to use regexes you don't f
 
 ### Alternative regex builders and engines
 
-- [regex](https://github.com/slevithan/regex) - A template tag for extended, readable, high-performance JavaScript regexes.
+- [Regex+](https://github.com/slevithan/regex) - A template tag for extended, readable, high-performance JavaScript regexes.
 - [Oniguruma-To-ES](https://github.com/slevithan/oniguruma-to-es) - Convert Oniguruma patterns to native JavaScript regexes.
 - [XRegExp](https://github.com/slevithan/xregexp) \[[*home*](https://xregexp.com/)] - Extended regex syntax, flags, and utils; useful for backcompat.
 - [incr-regex-package](https://github.com/nurulc/incr-regex-package) - Partial/incremental matching, used by [react-rxinput](https://github.com/nurulc/react-rxinput) for input validation with a regex mask.
@@ -378,5 +378,5 @@ Many regexes found online are low quality. It's risky to use regexes you don't f
 
 - Chrome extension: [Regex](https://chromewebstore.google.com/detail/regex/pmihaiejckejbpjdnildimfkpcpnohlo) - Regex search on webpages via `Ctrl+Shift+F`.
 - Quiz: [regex101 Regex Quiz](https://regex101.com/quiz) - Requires sign-in.
-- Games: [Regex Crossword](https://regexcrossword.com/), [regexle](https://regexle.com/), [Regex Machina](https://codepip.com/games/regex-machina/).
+- Games: [Regex Crossword](https://regexcrossword.com/), [regexle](https://regexle.com/), [Regex Machina](https://codepip.com/games/regex-machina/) ($).
 - Comics: [xkcd](https://xkcd.com/208/), [Garabato Kid](https://twitter.com/garabatokid/status/1147063121678389253).

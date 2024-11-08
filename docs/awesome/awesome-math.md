@@ -149,7 +149,7 @@ All resources are freely available except those with a 💲 icon.
 ## Foundations of Mathematics
 ### Transition To Pure Rigour Math
 * 📝 [Basic Concepts of Mathematics](http://www.trillia.com/zakon1.html) - Elias Zakon
-* 📝 [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/) - Richard Hammak (Virginia Commonwealth University)
+* 📝 [Book of Proof](https://richardhammack.github.io/BookOfProof/) - Richard Hammak (Virginia Commonwealth University)
 * 📖 [How to Prove It: A Structured Approach (3rd Edition)](https://ia800501.us.archive.org/7/items/how-to-prove-it-a-structured-approach-daniel-j.-velleman/How%20to%20Prove%20It%20A%20Structured%20Approach%20%28Daniel%20J.%20Velleman%29.pdf) - Daniel J. Velleman (Professor).
 
 ### Set Theory
@@ -327,7 +327,7 @@ All resources are freely available except those with a 💲 icon.
 ### Differential Geometry
 
 * 📝 [Introduction to Differential Geometry](https://people.math.ethz.ch/~salamon/PREPRINTS/diffgeo.pdf) - Joel W. Robbin, Dietmar A. Salamon
-* 📝 [Notes on Differential Geometry and Lie Groups](http://www.seas.upenn.edu/~jean/diffgeom.pdf) - Jean Gallier (University of Pennsylvania)
+* 📝 [Notes on Differential Geometry and Lie Groups](https://www.cis.upenn.edu/~jean/gbooks/manif.html) - Jean Gallier (University of Pennsylvania)
 * 📝 [Topics in Differential Geometry](http://www.mat.univie.ac.at/~michor/dgbook.pdf) - Peter W. Michor
 * 📝 [Lectures on Differential Geometry](http://mysite.science.uottawa.ca/rossmann/Differential%20Geometry%20book_files/Diffgeo.pdf) - Wulf Rossmann
 * 📝 [An Introduction to Riemannian Geometry](http://www.matematik.lu.se/matematiklu/personal/sigma/Riemann.pdf) - Sigmundur Gudmundsson (Lund University)
