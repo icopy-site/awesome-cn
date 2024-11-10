@@ -276,6 +276,7 @@ Additional lists you might find useful:
 - 🍰 [Templating](https://github.com/dereuromark/cakephp-templating) - HTML snippets as value objects, (Font) icons, and templating topics.
 - 🍰 [Tools:Tree](https://github.com/dereuromark/cakephp-tools) - Tree helper to work with Core Tree behavior and handle tree structure output.
 - 🍰 [TwigView plugin](https://github.com/cakephp/twig-view) - A plugin to use the Twig Templating Language for views.
+- 🍰 [XlsView plugin](https://github.com/impronta48/cakephp-xlsview) - A view class to easily generate XLS using PHPSpreadsheet.
 
 ## Testing
 *Plugins/Tools for testing codebases and generating test data.*

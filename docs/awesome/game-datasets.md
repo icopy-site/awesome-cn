@@ -133,10 +133,10 @@ ______________________________________________________________________
 - [320K Roblox App Google Store Reviews](https://www.kaggle.com/datasets/bwandowando/322k-roblox-app-google-store-reviews) - Google Store reviews of Roblox.
 - [380,000 Guesses Dataset - Higher or Lower?](https://www.kaggle.com/sdobson46/higher-or-lower-game) - Real-world game data of guessing a number.
 - [Age of Empires 2: Definitive Edition 225.000 Games](https://www.kaggle.com/datasets/nicoelbert/aoe-matchups) - Data about match ups, outcomes and game states over the time in 225.000 AoE2 matches.
-- [Animal Crossing New Horizons NookPlaza Catalog](https://www.kaggle.com/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset) - Comprehensive inventory of items, villagers, clothing, fish/bugs etc.
+- [Animal Crossing New Horizons Catalog](https://www.kaggle.com/datasets/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset) - Comprehensive inventory of items, villagers, clothing, fish/bugs etc.
 - [Board Game Data](https://www.kaggle.com/mrpantherson/board-game-data) - Data from board games.
 - [Board Games Dataset](https://www.kaggle.com/datasets/sujaykapadnis/board-games) - Board Games Dataset from [BoardGameGeek](https://www.boardgamegeek.com/).
-- [Board Games Dataset](https://www.kaggle.com/gabrio/board-games-dataset) - Attributes and the ratings from board games in [BoardGameGeek](https://www.boardgamegeek.com/).
+- [Board Games Dataset](https://www.kaggle.com/datasets/gabrio/board-games-dataset) - Attributes and the ratings from board games in [BoardGameGeek](https://www.boardgamegeek.com/).
 - [Boardgaming Online Game Records](https://www.kaggle.com/jingking/boardgaming-online-processed-game-records) - Playthroughs of board games.
 - [bravefrontier_data](https://github.com/cheahjs/bravefrontier_data) - Mobile game data, items and missions information.
 - [CartolaFC](https://www.kaggle.com/schiller/cartolafc) - Popular brazilian fantasy football (from 2014 to 2017).
@@ -195,7 +195,7 @@ ______________________________________________________________________
 - [StarData](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
 - [Super Trunfo - Dinossaurs 2](https://www.kaggle.com/kandebonfim/super-trunfo-dinossaurs-2) - Cards of this game.
 - [Terra Mystica Snellman Statistics](https://www.kaggle.com/lemonkoala/terra-mystica) - Game logs and statistics.
-- [The Complete Pokemon Dataset](https://www.kaggle.com/rounakbanik/pokemon) - Pokemon data from all generations.
+- [The Complete Pokemon Dataset](https://www.kaggle.com/datasets/rounakbanik/pokemon) - Pokemon data from all generations.
 - [The Quick, Draw! Dataset](https://github.com/googlecreativelab/quickdraw-dataset) - Collection of 50 million drawings across 345 categories.
 - [Travian buildings](https://www.kaggle.com/cblesa/travian-buildings) - Time, cost and bonus of buildings.
 - [World of Warcraft Avatar History](https://www.kaggle.com/mylesoneill/warcraft-avatar-history) - Collection of records. [Website](http://mmnet.iis.sinica.edu.tw/dl/wowah/).
@@ -203,22 +203,25 @@ ______________________________________________________________________
 
 ### Related
 
+- [Computer Games Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/computer-games-dataset) - Gaming World: A Comprehensive Computer Games Dataset.
 - [Daily Game Companies Historical Stock Price](https://www.kaggle.com/datasets/psycon/game-companies-historical-stock-price-2022-04) - Game Companies Historical Stock Price 08.2022.
 - [Google Play Store Apps](https://www.kaggle.com/lava18/google-play-store-apps) - Data from Play Store apps.
 - [JVC Game Reviews](https://www.kaggle.com/floval/jvc-game-reviews) - Video game data from [JeuxVideo.com](http://www.jeuxvideo.com/).
 - [Kickstarter Datasets](https://webrobots.io/kickstarter-datasets/) - Projects details.
 - [Metacritic games](https://www.kaggle.com/destring/metacritic-reviewed-games-since-2000) - Games data from [metacritc](https://www.metacritic.com).
+- [Nintendo Games](https://www.kaggle.com/datasets/joebeachcapital/nintendo-games) - Nintendo games for all platforms scraped from [metacritc](https://www.metacritic.com).
 - [Over 13,000 Steam Games](https://www.kaggle.com/kingburrito666/over-13000-steam-games) - Prices of video games from Steam.
+- [PC Games Sales](https://www.kaggle.com/datasets/khaiid/most-selling-pc-games) - Dataset of the best selling PC games.
 - [PEW-Gaming-Broadband](https://data.world/jshep512/pew-gaming-broadband) - Questions about video games.
 - [Steam Game Data](https://github.com/CraigKelly/steam-data) - Combination of Steam API and Steam Spy.
 - [Steam Games Dataset](https://www.kaggle.com/datasets/nikatomashvili/steam-games-dataset) - Dataset scraped from Steam search system.
 - [Steam Review Datasets](https://github.com/mulhod/steam_reviews) - Steam user reviews.
 - [Steam Store Games](https://www.kaggle.com/datasets/nikdavis/steam-store-games) - Information about 27,000 games scraped from Steam and SteamSpy APIs.
-- [Steam Video Games](https://www.kaggle.com/tamber/steam-video-games) - Steam user interactions.
+- [Steam Video Games](https://www.kaggle.com/datasets/tamber/steam-video-games) - Steam user interactions.
 - [Vandal Game Reviews](https://www.kaggle.com/floval/12-000-video-game-reviews-from-vandal) - Game data from [Vandal.com](https://vandal.elespanol.com/).
 - [Video Game DATA](https://www.kaggle.com/juttugarakesh/video-game-data) - Video games released.
 - [Video Game Sales with Ratings](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings) - Video game sales and rating from [metacritc](https://www.metacritic.com).
-- [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales) - Sales data from games.
+- [Video Game Sales](https://www.kaggle.com/datasets/gregorut/videogamesales) - Sales data from games.
 - [Video Games Data](https://www.kaggle.com/datasets/maso0dahmed/video-games-data) - Video games synopse.
 - [Video Games Review](https://www.kaggle.com/launay10christian/video-games-review) - Reviews on [JeuxVideo.com](http://www.jeuxvideo.com/).
 - [Video Games Sales 2019](https://www.kaggle.com/ashaheedq/video-games-sales-2019) - Sales and scores for games.

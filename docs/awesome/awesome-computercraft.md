@@ -100,7 +100,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 - [RedRun](https://gist.github.com/MCJack123/473475f07b980d57dd2bd818026c97e8) -  A small library for running processes in the background of CraftOS after exiting the program, similar to DOS TSRs.
 - [Tamperer](https://github.com/Fatboychummy-CC/Tamperer) -  A library allowing easy creation of settings menus.
 - [Tampl](https://github.com/9551-Dev/tampl) - A Lua tokenization and parsing library designed for dynamic code generation and injecting code into existing programs.
-- [Telem](https://telem.cc) - A telemetry library for peripherals, facilitating in-game and cloud-based monitoring dashboards for storage, energy, and machinery.
+- [Telem](https://telem.cyberbit.dev) - A telemetry library for peripherals, facilitating in-game and cloud-based monitoring dashboards for storage, energy, and machinery.
 - [VeriCode](https://gist.github.com/MCJack123/7752c85918bcf23ada028abd615e8750) -  Provides simple code signing functions for safely transferring code over modems.
 
 ### Fun
