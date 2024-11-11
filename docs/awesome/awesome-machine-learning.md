@@ -1140,6 +1140,7 @@ be
 * [Frouros](https://github.com/IFCA/frouros): Frouros is an open source Python library for drift detection in machine learning systems.
 * [CometML](https://github.com/comet-ml/comet-examples): The best-in-class MLOps platform with experiment tracking, model production monitoring, a model registry, and data lineage from training straight through to production.
 * [Okrolearn](https://github.com/Okerew/okrolearn): A python machine learning library created to combine powefull data analasys feautures with tensors and machine learning components, while mantaining support for other libraries.
+* [Opik](https://github.com/comet-ml/opik): Evaluate, trace, test, and ship LLM applications across your dev and production lifecycles.
 
 <a name="python-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization
@@ -1336,6 +1337,10 @@ be
 * [Maze](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
 * [RLlib](https://github.com/ray-project/ray) - RLlib is an industry level, highly scalable RL library for tf and torch, based on Ray. It's used by companies like Amazon and Microsoft to solve real-world decision making problems at scale.
 * [DI-engine](https://github.com/opendilab/DI-engine) - DI-engine is a generalized Decision Intelligence engine. It supports most basic deep reinforcement learning (DRL) algorithms, such as DQN, PPO, SAC, and domain-specific algorithms like QMIX in multi-agent RL, GAIL in inverse RL, and RND in exploration problems.
+
+<a name="python-speech-recognition"></a>
+#### Speech Recognition
+* [EspNet](https://github.com/espnet/espnet) - ESPnet is an end-to-end speech processing toolkit for tasks like speech recognition, translation, and enhancement, using PyTorch and Kaldi-style data processing.
 
 <a name="ruby"></a>
 ## Ruby

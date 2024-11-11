@@ -556,6 +556,7 @@ become an Angular expert.
 * [ngx-xapi](https://github.com/BerryCloud/ngx-xapi) - Lightweight Angular wrapper for [xAPI](https://xapi.com/).
 * [angular-rsocket](https://github.com/saleweaver/angular-rsocket) - This service allows you to easily connect to an [RSocket](https://rsocket.io/) server, handle streams and messages, and manage authentication tokens flexibly via a token provider.
 * [ngx-pendo](https://github.com/yociduo/ngx-pendo) - A simple wrapper to load Pendo in Angular.
+* [ngx-surreal](https://github.com/vandaeldev/ngx-surreal) - Lightweight Angular wrapper for the [SurrealDB](https://surrealdb.com/) JavaScript SDK.
 
 #### Internationalization
 
@@ -807,6 +808,7 @@ become an Angular expert.
 * [angular-yandex-smart-captcha](https://github.com/flowXM/angular-yandex-smart-captcha) - This library adds the Yandex SmartCaptcha component to your Angular application, providing an easy way to integrate CAPTCHA protection into your forms and other user interactions.
 * [go-captcha-angular](https://github.com/wenlng/go-captcha-angular) - A simple, easy-to-use, interactive, and secure behavioral verification code that implements verification modes such as text/graphic clicking, sliding/dragging, and rotation.
 * [ng-recaptcha-2](https://github.com/LakhveerChahal/ng-recaptcha-2) - Angular 18 fork of [ng-recaptcha](https://github.com/DethAriel/ng-recaptcha). Alternatively, you create your own service that implements Google's reCAPTCHA with the help of this [article](https://ben-5.azurewebsites.net/2024/9/5/google-recaptcha-v3-with-angular/#google_vignette).
+* [ngx-slider-recaptcha](https://github.com/mrzinkowin/ngx-slider-recaptcha) - Customizable Angular library that provides a slider-based CAPTCHA component to help secure forms from spam and bot submissions.
 
 #### Carousels
 
@@ -1131,6 +1133,7 @@ to simplify usage and allow quick customization.
 * [ng-circle-progress](https://github.com/bootsoon/ng-circle-progress) - A simple circle progress component created for Angular based on SVG Graphics.
 * [ngx-loading-buttons](https://github.com/dkreider/ngx-loading-buttons) - A lightweight Angular library to add a loading spinner to your Angular Material buttons.
 * [ngx-fastboot](https://github.com/KernelPanic92/ngx-fastboot) - A dynamic configuration loader for Angular applications. It optimizes the startup performance by loading configurations in a separate chunk during compilation.
+* [nx-svg-loaders](https://github.com/ngeenx/nx-svg-loaders) - Angular, React, Svelte, Vue SVG loader/spinner collection.
 
 #### Loggers
 
@@ -1211,6 +1214,7 @@ to simplify usage and allow quick customization.
 * [dialog](https://github.com/ngneat/dialog) - A simple to use, highly customizable, and powerful modal.
 * [ngx-modal-ease](https://github.com/GreenFlag31/modal-library) - `ngx-modal-ease` is a versatile Angular library providing a lightweight, simple, and performant modal.
 * [ngx-smart-modal](https://github.com/maximelafarie/ngx-smart-modal) - Modal/Dialog component crafted for Angular (Ivy-compatible).
+* [up-window-angular](https://github.com/criar-art/up-window-angular) - An Angular library designed to create dynamic, customizable modals and window-based components for web applications.
 
 #### Notifications
 
@@ -1445,6 +1449,7 @@ for the creation of web applications developed with Angular.
 * [ngx-lamp](https://github.com/omnedia/ngx-lamp) - A simple component library to create a lamp.
 * [ngx-globe](https://github.com/omnedia/ngx-globe) - A simple component library to create a container with an animated globe.
 * [ngx-copypaste](https://github.com/JsDaddy/ngx-copypaste) - A pure and awesome copy paste directive for Angular.
+* [ngx-morse](https://github.com/monkeyscript/ngx-morse) - A simple morse code encoder and decoder for Angular.
 
 ---
 

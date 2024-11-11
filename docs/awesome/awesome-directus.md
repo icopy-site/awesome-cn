@@ -78,6 +78,7 @@
 - [Classified Group](https://github.com/formfcw/directus-extension-classified-group) - A group to which a class can be assigned for custom styling.
 - [Tokenized Preview](https://github.com/formfcw/directus-extension-tokenized-preview) - An endpoint that adds an active auth token to your preview URL.
 - [Umami Analytics](https://github.com/egidiusmengelberg/directus-extension-umami) - Add Umami analytics to Directus.
+- [Auto generate file transformations](https://github.com/utomic-media/directus-extension-auto-generate-file-transformations) - Automatically generate selected file transformations on upload 
 
 ### Extension Scripts
 
