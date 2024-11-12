@@ -4,8 +4,16 @@
 A curated list of awesome Java frameworks, libraries and software.
 
 
+  - [Architecture](#architecture)  
 
 ## Projects
+
+### Architecture
+
+_Frameworks and libraries that help implementing and verifying design and architecture concepts._
+
+- [ArchUnit](https://github.com/TNG/ArchUnit) - Test library for specifying and asserting architecture rules.
+- [jMolecules](https://github.com/xmolecules/jmolecules) - Annotations and interfaces to express design and architecture concepts in code.
 
 ### Bean Mapping
 
@@ -25,7 +33,7 @@ _Tools that handle the build cycle and dependencies of an application._
 
 - [Apache Maven](https://maven.apache.org) - Declarative build and dependency management that favors convention over configuration. It might be preferable to Apache Ant, which uses a rather procedural approach and can be difficult to maintain.
 - [Bazel](https://bazel.build) - Tool from Google that builds code quickly and reliably.
-- [Buck](https://github.com/facebook/buck) - Encourages the creation of small, reusable modules consisting of code and resources.
+- [Buck2](https://github.com/facebook/buck2) - Encourages the creation of small, reusable modules consisting of code and resources.
 - [Gradle](https://gradle.org) - Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.
 
 ### Bytecode Manipulation
@@ -74,13 +82,6 @@ _Libraries that provide TUI frameworks, or building blocks related functions._
 - [Jexer](https://gitlab.com/AutumnMeowMeow/jexer) - Advanced console (and Swing) text user interface (TUI) library, with mouse-draggable windows, built-in terminal window manager, and sixel image support. Looks like [Turbo Vision](https://en.wikipedia.org/wiki/Turbo_Vision).
 - [Text-IO](https://github.com/beryx/text-io) - Aids the creation of full console-based applications.
 - [Lanterna](https://github.com/mabe02/lanterna) - Easy console text-GUI library, similar to curses. (LGPL-3.0-only)
-
-### Cluster Management
-
-_Frameworks that can dynamically manage applications inside of a cluster._
-
-- [Apache Aurora](https://aurora.apache.org) - Mesos framework for long-running services and cron jobs.
-- [Singularity](http://getsingularity.com) - Mesos framework that makes deployment and operations easy. It supports web services, background workers, scheduled jobs, and one-off tasks.
 
 ### Code Analysis
 
@@ -257,7 +258,7 @@ _Libraries that help to realize the [Inversion of Control](https://en.wikipedia.
 - [Feather](https://github.com/zsoltherpai/feather) - Ultra-lightweight, JSR-330-compliant dependency injection library.
 - [Governator](https://github.com/Netflix/governator) - Extensions and utilities that enhance Google Guice.
 - [Guice](https://github.com/google/guice) - Lightweight and opinionated framework that completes Dagger.
-- [HK2](https://javaee.github.io/hk2/) - Lightweight and dynamic dependency injection framework.
+- [HK2](https://eclipse-ee4j.github.io/glassfish-hk2/) - Lightweight and dynamic dependency injection framework.
 - [JayWire](https://github.com/vanillasource/jaywire) - Lightweight dependency injection framework. (LGPL-3.0-only)
 
 ### Development
@@ -510,7 +511,6 @@ _Libraries for serializing and deserializing JSON to and from Java objects._
 _Current implementations of the JVM/JDK._
 
 - [Adopt Open JDK](https://adoptopenjdk.net) - Community-driven OpenJDK builds, including both HotSpot and OpenJ9.
-- [Avian](https://github.com/ReadyTalk/avian) - JVM with JIT, AOT modes and iOS port.
 - [Corretto](https://aws.amazon.com/corretto/) - No-cost, multiplatform, production-ready distribution of OpenJDK by Amazon. (GPL-2.0-only WITH Classpath-exception-2.0)
 - [Dragonwell8](https://github.com/alibaba/dragonwell8) - Downstream version of OpenJDK optimized for online e-commerce, financial, logistics applications.
 - [Graal](https://github.com/oracle/graal) - Polyglot embeddable JVM. (GPL-2.0-only WITH Classpath-exception-2.0)
@@ -538,6 +538,7 @@ _Libraries that log the behavior of an application._
 - [SLF4J](http://www.slf4j.org) - Abstraction layer/simple logging facade.
 - [tinylog](https://tinylog.org/v2/) - Lightweight logging framework with static logger class.
 - [OpenTracing Toolbox](https://github.com/zalando/opentracing-toolbox) - Collection of libraries that build on top of OpenTracing and provide extensions and plugins to existing instrumentations.
+- [Flogger](https://google.github.io/flogger/) - Flogger is a fluent logging API for Java. It supports a wide variety of features, and has many benefits over existing logging APIs.
 
 ### Machine Learning
 
@@ -586,7 +587,6 @@ _Tools that help send messages between clients to ensure protocol independency._
 _Tools for creating and managing microservices._
 
 - [ActiveRPC](https://rpc.activej.io) - Lightweight and fast library for complex high-load distributed applications and Memcached-like solutions.
-- [Apollo](https://spotify.github.io/apollo/) - Libraries for writing composable microservices.
 - [Armeria](https://github.com/line/armeria) - Asynchronous RPC/REST client/server library built on top of Java 8, Netty, HTTP/2, Thrift and gRPC.
 - [consul-api](https://github.com/Ecwid/consul-api) - Client for the Consul API: a distributed, highly available and datacenter-aware registry/discovery service.
 - [Eureka](https://github.com/Netflix/eureka) - REST-based service registry for resilient load balancing and failover.
@@ -1012,7 +1012,6 @@ _Everything related to the creation and handling of random data._
 
 _Provide environments to run tests for a specific use case._
 
-- [ArchUnit](https://github.com/TNG/ArchUnit) - Test library for specifying and asserting architecture rules.
 - [Apache JMeter](http://jmeter.apache.org) - Functional testing and performance measurements.
 - [Arquillian](http://arquillian.org) - Integration and functional testing platform for Java EE containers.
 - [cdi-test](https://github.com/guhilling/cdi-test) - JUnit extension for easy and efficient testing of CDI components.

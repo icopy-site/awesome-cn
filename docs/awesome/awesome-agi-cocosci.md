@@ -160,7 +160,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [Abduction in Logic Programming](https://web.stanford.edu/class/cs227/Readings/Abudction%20in%20LP.pdf) - ***Computational Logic***, 2002. [[All Versions](https://scholar.google.com/scholar?cluster=902643678163312237&hl=en&as_sdt=0,5)]. The revised version of the ALP paper.
 
-* [Bayesian Abductive Logic Programs: A Probabilistic Logic for Abductive Reasoning](https://www.cs.utexas.edu/~ml/papers/raghavan.starai10.pdf) - ***IJCAI'11***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=4453424083730209198&hl=en&as_sdt=0,5)].
+* [Bayesian Abductive Logic Programs: A Probabilistic Logic for Abductive Reasoning](https://dl.acm.org/doi/abs/10.5555/2283696.2283887) - ***IJCAI'11***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=4453424083730209198)]. [[Preprint](https://www.cs.utexas.edu/~ml/papers/raghavan.starai10.pdf)]. This work introduces Bayesian Abductive Logic Programs (BALP), a probabilistic logic that adapts Bayesian Logic Programs (BLPs) for abductive reasoning. Like BLPs, BALPs also combine first-order logic and Bayes nets. However, unlike BLPs, which use deduction to construct Bayes nets, BALPs employ logical abduction. As a result, BALPs are more suited for problems like plan/activity recognition that require abductive reasoning.
 
 * [Abductive Plan Recognition by Extending Bayesian Logic Programs](https://www.cs.utexas.edu/~ml/papers/raghavan.ecml11.pdf) - ***ECML'11***, 2011. [[All Versions](https://scholar.google.com/scholar?cluster=7276511797197017483&hl=en&as_sdt=0,5)].
 

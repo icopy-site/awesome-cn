@@ -346,6 +346,7 @@
 - [echasnovski/mini.nvim#mini.pick](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-pick.md) - Module of `mini.nvim` with general purpose interactive non-blocking picker that has one window design, toggleable preview, flexible and fast default match, and much more.
 - [echasnovski/mini.nvim#mini.extra](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-extra.md) - Module of `mini.nvim` with extra functionality for its modules. Contains 20+ 'mini.pick' pickers, 'mini.ai' textobjects, and more.
 - [fdschmidt93/telescope-egrepify.nvim](https://github.com/fdschmidt93/telescope-egrepify.nvim) - Telescope plugin for better `rg` flags in `live_grep`.
+- [crispgm/telescope-heading.nvim](https://github.com/crispgm/telescope-heading.nvim) - Telescope extension to switch between headings of AsciiDoc, Markdown, Vimdoc, etc.
 
 <!--lint disable double-link -->
 <!--lint enable double-link -->
@@ -1165,6 +1166,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [altermo/iedit.nvim](https://github.com/altermo/iedit.nvim) - Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way.
 - [ptdewey/yankbank-nvim](https://github.com/ptdewey/yankbank-nvim) - Enable streamlined access to recent yanks and deletions in a quick-access popup menu.
 - [OXY2DEV/foldtext.nvim](https://github.com/OXY2DEV/foldtext.nvim) - Dynamic & stylized foldtext.
+- [tummetott/unimpaired.nvim](https://github.com/tummetott/unimpaired.nvim) - Lua port of [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired).
 
 ### Comment
 
