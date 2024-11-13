@@ -154,7 +154,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [Abductive Inference in Bayesian Networks: A Review](https://link.springer.com/chapter/10.1007/978-3-540-39879-0_6) - ***Advances in Bayesian Networks***, 2004. [[All Versions](https://scholar.google.com/scholar?cluster=8502276402734843212&hl=en&as_sdt=0,5)].
 
-* [Abductive Logic Programming](https://academic.oup.com/logcom/article-abstract/2/6/719/942121?redirectedFrom=fulltext) - ***Journal of Logic Computation***, 1992. [[All Versions](https://scholar.google.com/scholar?cluster=18119357517656745518&hl=en&as_sdt=0,5)]. The original paper in ALP.
+* [Abductive Logic Programming](https://academic.oup.com/logcom/article-abstract/2/6/719/942121) - ***Journal of Logic Computation***, 1992. [[All Versions](https://scholar.google.com/scholar?cluster=18119357517656745518)]. This paper is a survey and critical overview of recent work on the extension of logic programming to perform abductive reasoning (abductive logic programming). The authors outline the general framework of abduction and its applications to knowledge assimilation and default reasoning; and they introduce an argumentation-theoretic approach to the use of abduction as an interpretation for negation as failure. 
 
 * [ACLP: Abductive Constraint Logic Programming](https://www.sciencedirect.com/science/article/pii/S0743106699000758) - ***The Journal of Logic Programming***, 1999. [[All Versions](https://scholar.google.com/scholar?cluster=14319574550421192429&hl=en&as_sdt=0,5)]. The original paper in ACLP.
 
