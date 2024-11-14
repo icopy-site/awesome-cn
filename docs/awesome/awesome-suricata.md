@@ -110,6 +110,11 @@
 - [Aristotle](https://github.com/secureworks/aristotle) - Simple Python program that allows for the filtering and modifying of Suricata and Snort rulesets based on interpreted key-value pairs present in the metadata keyword within each rule.
 
 
+## Plugins and Extensions
+
+- [suricata-zabbix](https://github.com/catenacyber/suricata-zabbix) - Zabbix application layer plugin for Suricata.
+
+
 ## Systems Using Suricata
 
 - [SELKS](https://github.com/StamusNetworks/SELKS) - A Suricata-based intrusion detection system/intrusion prevention system/network security monitoring distribution.

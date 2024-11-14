@@ -1,5 +1,5 @@
 <div class="github-widget" data-repo="vaticle/typedb-awesome"></div>
-[![TypeDB](https://github.com/vaticle/typedb/blob/b82ee7fa3c522072c3ff6f0ec6c093366171b03a/docs/banner.png)](https://typedb.com/philosophy/)
+[![TypeDB](https://github.com/typedb/typedb/blob/2c5e3114cb4d19085a329b379eef590d7a3e9eda/docs/banner.png)](https://typedb.com)
 
 ## Awesome TypeDB [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
