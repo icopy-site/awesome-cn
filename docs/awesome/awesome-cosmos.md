@@ -178,6 +178,7 @@ Modules or frameworks for virtual machines that run in the Cosmos SDK
 * [informalsystems/hermes](https://github.com/informalsystems/hermes) - IBC Relayer in Rust.
 * [confio/ts-relayer](https://github.com/confio/ts-relayer) - IBC Relayer in TypeScript.
 * [local-interchain](https://github.com/Reecepbcups/local-interchain) - Quickly spin up a local IBC development environment on any operating system.
+* [IBC-escrow-auditor](https://github.com/Cordtus/ibc-escrow) - Standalone tool to check and report on-chain token amounts against the IBC lockup account on counterparty chain.
 
 ## Testing
 
@@ -240,6 +241,7 @@ Templates to help you get started with building a Cosmos SDK blockchain.
 
 * [Cosmos Cache](https://github.com/Reecepbcups/cosmos-endpoint-cache) - Optimize Cosmos queries by caching responses for predefined sets of time (regex).
 * [cosmos-operator](https://github.com/strangelove-ventures/cosmos-operator) - Cosmos Operator is a kubernetes operator for managing cosmos nodes.
+* [Wallet-generator](https://github.com/Cordtus/wallet_generator) - Manually generate a keypair + wallet addresses from mnemonic, pubkey + wallet addresses from privkey, or wallet addresses from pubkey. Accepts arbitrary HDpath (incl. cointype)
 
 ## Ecosystem
 

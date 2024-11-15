@@ -134,7 +134,7 @@ _Collection of free and high quality assets to get your game to the next level._
 - [Kenney Assets](https://kenney.nl/) - High quality assets for your game, from 2D and 3D art to sound effects.
 - [OpenGameArt.org](https://opengameart.org/) - Repository offering a variety of open content assets.
 - [Game-Icons.net](http://game-icons.net/) - Repository containing heaps of cool game related graphics.
-- [bfxr.net](https://www.bfxr.net/) - Quickly create unique sound effects by pressing a few buttons, excellent for prototyping.
+- [Jsfxr](https://chr15m.itch.io/jsfxr) - Quickly create unique sound effects by pressing a few buttons, excellent for prototyping.
 - [freesound.org](https://freesound.org/) - Huge collaborative database of audio snippets, samples, recordings, bleeps.
 
 
