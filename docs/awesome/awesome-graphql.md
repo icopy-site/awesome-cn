@@ -726,7 +726,6 @@ If you want to contribute to this list (please do), send me a pull request.
 - [The GraphQL Guide](https://graphql.guide) by John Resig and Loren Sands-Ramshaw
 - [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe) by Bruce Williams and Ben Wilson
 - [The Road to GraphQL](https://www.roadtographql.com/)
-- [Learning GraphQL and Relay](https://www.packtpub.com/web-development/learning-graphql-and-relay) by Samer Buna
 - [Practical GraphQL](https://leanpub.com/book-graphql) by Daniel Schmitz
 - [Production Ready GraphQL](https://book.productionreadygraphql.com) by Marc-André Giroux
 - [Full Stack GraphQL Applications](https://www.manning.com/books/fullstack-graphql-applications) by William Lyon
@@ -787,12 +786,11 @@ If you want to contribute to this list (please do), send me a pull request.
 
 ### Blogs - Security
 
-- [Escape - The GraphQL Security Blog](https://blog.escape.tech) - Learn about GraphQL security, performance, testing and building production-ready APIs with the latest tools and best practices of the GraphQL ecosystem.
-- [9 GraphQL Security Best Practices](https://blog.escape.tech/9-graphql-security-best-practices/)
+- [Escape - The GraphQL Security Blog](https://escape.tech/blog) - Learn about GraphQL security, performance, testing and building production-ready APIs with the latest tools and best practices of the GraphQL ecosystem.
+- [9 GraphQL Security Best Practices](https://escape.tech/blog/9-graphql-security-best-practices/)
 - [Discovering GraphQL Endpoints and SQLi Vulnerabilities](https://medium.com/@localh0t/discovering-graphql-endpoints-and-sqli-vulnerabilities-5d39f26cea2e)
 - [Securing GraphQL API](https://lab.wallarm.com/securing-graphql-api/)
 - [Security Points to Consider Before Implementing GraphQL](https://nordicapis.com/security-points-to-consider-before-implementing-graphql/)
-- [GraphQL for Pentesters](https://www.acceis.fr/graphql-for-pentesters/) - Introduction to Basic Concepts, Security Considerations & Reconnaissance, Vulnerabilities and Attacks, Offensive Tools.
 - [Authorization Patterns in GraphQL](https://www.osohq.com/post/graphql-authorization)
 
 <a name="post" />

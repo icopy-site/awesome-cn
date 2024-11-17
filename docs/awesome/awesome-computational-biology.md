@@ -101,6 +101,10 @@ A knowledge collection of databases, software and papers related to computationa
 
 ## Drug Response Prediction
 - [drGAT](https://github.com/inoue0426/drGAT): A model for drug response prediction with gene explainability with attention mechanism.
+- [MOFGCN](https://github.com/weiba/MOFGCN/tree/main): GCN + heterogeneous network
+- [DeepDSC](https://ieeexplore-ieee-org.ezp2.lib.umn.edu/stamp/stamp.jsp?tp=&arnumber=8723620&tag=1): Autoencoder + Fully Connected NN
+- [DGDRP](https://github.com/minwoopak/heteronet): Multi-view embedding NN.
+- [DeepAEG](https://github.com/zhejiangzhuque/DeepAEG): GNN Embedding + Attention
 
 ### Drug Repurposing
 
