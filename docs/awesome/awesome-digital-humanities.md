@@ -17,7 +17,9 @@ This is a curated list of tools, resources, and services supporting the Digital 
 
 ## Corpus linguistics
 
+- [AntConc](https://www.laurenceanthony.net/software/antconc/) - A freeware corpus analysis toolkit for concordancing and text analysis.
 - [CorpusExplorer v2.0](http://www.CorpusExplorer.de) - Software for corpus linguists and text/data mining enthusiasts. The CorpusExplorer combines over 45 interactive visualizations under an user-friendly interface. Routine tasks such as text acquisition, cleaning or tagging are completely automated. The simple interface supports the use in university teaching and leads the users/students to fast and substantial results. The CorpusExplorer is open for many standards (XML, CSV, JSON, R, etc.) and also offers its own software development kit (SDK), which allows you to integrate all functions into your own programs.
+- [TXM](https://txm.gitpages.huma-num.fr/textometrie/en/) - The project brings together open-source Textometry software developments to set up a modular platform called TXM, in synergy with existing corpus technologies (Unicode, XML, TEI, NLP tools, CQP, R).
 
 ## Data Collection
 
@@ -38,7 +40,9 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [DocFetcher](http://docfetcher.sourceforge.net/) - Open Source desktop search application.
 - [Leipzig Corpus Miner (LCM)](https://ilcm.informatik.uni-leipzig.de/) - The LCM project pursues the development of an integrated research environment for the analysis of structured and unstructured data in a 'Software as a Service' architecture (SaaS). The research environment addresses requirements for the quantitative evaluation of large amounts of text data (e.g. 3 million news articles) using text mining methods and requirements for the reproducibility of data-driven research designs in the social sciences and the digital humanities.
 - [Lexos](http://lexos.wheatoncollege.edu) - Online tool for text analysis.
+- [Mallet](https://mimno.github.io/Mallet/) - Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text.
 - [Open Semantic Search](https://www.opensemanticsearch.org/) - Free Software for your own Search Engine, Explorer for Discovery of large document collections, Media Monitoring, Text Analytics, Document Analysis & Text Mining platform based on Apache Solr or Elasticsearch open-source enterprise-search and Open Standards for Linked Data, Semantic Web & Linked Open Data integration.
+- [Stylo](https://github.com/computationalstylistics/stylo) - R package for stylometric analyses.
 - [TinEye](https://tineye.com/) - Search by image or image section and find where that image appears online.
 - [Voyant](https://voyant-tools.org/) - Reading and analysis environment for digital texts.
 - [YouTube Metadata](https://mattw.io/youtube-metadata/) - It grabs singular details about a video and its uploader, playlist and its creator, or channel.

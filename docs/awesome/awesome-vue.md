@@ -567,6 +567,10 @@
 
 - [Vue.js: The Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI) by Honeypot (Feb 2020)
 
+## Companies Using Vue.js
+
+- [Companies Using Vue/Nuxt](https://github.com/cloydlau/companies-using-vue)
+
 ## Projects Using Vue.js
 
 ### Open Source
