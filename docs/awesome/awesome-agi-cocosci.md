@@ -632,6 +632,11 @@ English-language description for use by biologists.
 * [Errors are Useful Prompts: Instruction Guided Task Programming with Verifier-Assisted Iterative Prompting](https://arxiv.org/abs/2303.14100) - 2023. [[All Versions](https://scholar.google.com/scholar?cluster=8063693456660536915)]. [[Code](https://github.com/ac-rad/xdl-generation)]. [[Website](https://ac-rad.github.io/clairify/)]. This paper proposes CLAIRIFY, an approach that combines automatic iterative prompting with program verification to ensure programs written in data-scarce domain-specific language are syntactically valid and incorporate environment constraints.
 
 
+#### Cognitive Foundations
+
+
+
+
 
 ### Problem Solving
 
