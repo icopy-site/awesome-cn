@@ -62,7 +62,8 @@ images, screenshots, GIFs, text formatting, etc.
 - [nhn/tui.editor](https://github.com/nhn/tui.editor#readme) - Project logo. Clear overview of project features with a demo GIF. Badges. TOC for easy navigation. Colorful icons in front of titles.
 - [NSRare/NSGIF](https://github.com/NSRare/NSGIF#readme) - Project logo. GIF Demo. Usage artwork. Usage code samples.
 - [Owloops/updo](https://github.com/owloops/updo#readme) - Well-structured, visually appealing, and provides comprehensive information about the tool, from its purpose and features to installation and usage, in a clear and user-friendly manner.
-- [php-censor/php-censor](https://github.com/php-censor/php-censor#readme) - Multiple badges, project logo, screenshots, step-by-step installation and upgrading instructions, TOC for easy navigation.
+- [php-censor/php-censor](https://github.com/php-censor/php-censor#readme) - Multiple badges, project logo, feature list, video demo, step-by-step installation and upgrading instructions, TOC for easy navigation.
+- [PlexRipper/PlexRipper](https://github.com/PlexRipper/PlexRipper#readme) - Multiple badges, project logo, feature list, explanation, demonstration video, TOC for easy navigation.
 - [PostHog/posthog](https://github.com/PostHog/posthog#readme) - Custom-made section icons, demo GIF, deploy button, profile images for contributors, concise, clear structure, project logo.
 - [priyavrat-misra/xrays-and-gradcam](https://github.com/priyavrat-misra/xrays-and-gradcam#readme) - TOC for easy navigation. Clear introduction of what the project does. Complete list of all files in the repo and what their function is. Usage section. Clean and concise tables.
 - [React on lambda](https://github.com/sultan99/react-on-lambda#readme) - Project logo, comics to present the main idea, badges, examples with code snippets, demo projects, api documentations, editor configurations.
@@ -130,7 +131,6 @@ This can also be a dedicated section of your README.md files.
 
 - [Amazing GitHub Template](https://github.com/dec0dOS/amazing-github-template#readme) - Useful README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, SECURITY.md, GitHub Issues, Pull Requests and Actions templates to jumpstart your projects.
 - [Common Readme](https://github.com/hackergrrl/common-readme#readme) - A common readme style for Node. Includes a guide and a readme generator.
-- [Feedmereadmes](https://github.com/lappleapple/feedmereadmes#readme) - README editing and project analysis/feedback.
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats#readme) - Dynamically generated customizable GitHub cards for README. Stats, extra pins, top languages and WakaTime.
 - [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame#readme) - Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour.
 - [Make a README](https://www.makeareadme.com/) - A guide to writing READMEs. Includes an editable template with live Markdown rendering.
@@ -151,7 +151,6 @@ Embedding an animated gif in your README quickly demonstrates what your project 
 - [Giphy Capture](https://giphy.com/apps/giphycapture) - **FREE** - Easy to upload to giphy.com, with a slightly annoying UX.
 - [LICEcap](https://www.cockos.com/licecap/) - **FREE** - Less intuitive, but with more features.
 - [Peek](https://github.com/phw/peek#readme) - **FREE** - Simple and easy to use for Linux users.
-- [Recordit](https://recordit.co/) - **FREE** - Simple, clean UI, but it auto-uploads to Recordit.
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) - **FREE** - Open source, with a customizable UI and easily editable GIFs, easy to get started.
 - [terminalizer](https://github.com/faressoft/terminalizer) - **FREE** - Record your terminal and generate animated GIF images or share a web player.
 - [ttystudio](https://github.com/chjj/ttystudio#readme) - **FREE** - For command-line tools, a terminal-to-GIF recorder minus the headaches.
