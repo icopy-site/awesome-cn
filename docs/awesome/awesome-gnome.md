@@ -35,7 +35,8 @@
 - [Dino](https://dino.im) - XMPP Client.
 - [Dissent](https://flathub.org/apps/so.libdb.dissent) - Third-party Discord client prioritasing speed over feature completeness (with user theming through CSS).
 - [Tuba](https://apps.gnome.org/Tuba) - Client for federated social networks (Mastodon, GoToSocial, Akkoma). ![GNOME Circle][GNOME Circle]
-- [Pipeline](https://flathub.org/apps/de.schmidhuberj.tubefeeder) - Youtube Client
+- [Pipeline](https://flathub.org/apps/de.schmidhuberj.tubefeeder) - YouTube Client.
+- [Netsleuth](https://github.com/vmkspv/netsleuth) - Utility for the calculation and analysis of IP subnet values.
 
 ### Office
 
@@ -172,6 +173,7 @@
 - [Aurea](https://flathub.org/apps/io.github.cleomenezesjr.aurea) - Simple preview banner made to read metainfo files from Flatpak apps and represent them as they would on Flathub.
 - [Exhibit](https://flathub.org/apps/io.github.nokse22.Exhibit) - 3D model previewer based on the F3D library that supports many formats.
 - [Cartero](https://cartero.danirod.es) - Graphical HTTP client to perform HTTP requests and test web APIs.
+- [Dev Toolbox](https://flathub.org/apps/me.iepure.devtoolbox) - Toolbox for developers providing converters, formatters, Regex/Cron testers, hash generators and more.
 
 #### Design Tooling
 

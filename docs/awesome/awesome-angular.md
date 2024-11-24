@@ -301,6 +301,7 @@ become an Angular expert.
 * [Ben And Engineering](https://www.youtube.com/@the__b_a_e)
 * [JSgigs](https://www.youtube.com/@jsgigs4909)
 * [Sebastian Persson](https://www.youtube.com/@DevBySeb)
+* [Kobi Hari](https://www.youtube.com/@kobihari)
 
 ##### Style Guides
 
@@ -853,6 +854,7 @@ become an Angular expert.
 * [carousel-library](https://github.com/GreenFlag31/carousel-library) - A versatile Angular library providing a feature-rich, simple, and performant carousel component.
 * [ngx-simple-gallery](https://github.com/zolcsi/ngx-simple-gallery) - A lightweight gallery library for Angular 18 that presents all images as thumbnails, expanding them to full size upon clicking or tapping.
 * [@daelmaak/ngx-gallery](https://github.com/daelmaak/ngx-gallery) - Small, performant, responsive, dependency free, easy to use Angular 8+ gallery.
+* [ngx-custom-carousel](https://github.com/devendramilmile121/ngx-custom-carousel) - A feature-rich Angular 17 component crafted to elevate your carousel experience.
 
 #### Charts
 
@@ -995,6 +997,7 @@ become an Angular expert.
 * [ngx-jodit](https://github.com/julianpoemp/ngx-jodit/) - Angular wrapper for [Jodit](https://github.com/xdan/jodit) WYSIWYG editor.
 * [ngx-ace-wrapper](https://github.com/zefoy/ngx-ace-wrapper) - Angular wrapper library for [Ace](http://ace.c9.io/).
 * [ngx-quill-wrapper](https://github.com/zefoy/ngx-quill-wrapper) - Angular wrapper library for [Quill](http://quilljs.com/).
+* [ngx-tinymce](https://github.com/cipchk/ngx-tinymce) - [Tinymce](https://www.tiny.cloud/) components built with Angular.
 
 #### File Upload
 
@@ -1280,6 +1283,7 @@ to simplify usage and allow quick customization.
 * [qrcode.angular](https://github.com/OriginRing/qrcode.angular) - QR Code implementation based on Angular.
 * [ng-qrcode-svg](https://github.com/larscom/ng-qrcode-svg) - Simple QR code generator (SVG only) for Angular.
 * [ngx-qrcode-generator](https://github.com/mustafaer/ngx-qrcode-generator) - An Angular component that generates QR codes using the [QRious](https://github.com/neocotic/qrious) library.
+* [ngx-scanner-qrcode](https://github.com/id1945/ngx-scanner-qrcode) - This library is built to provide a solution scanner QR code. This library takes in raw images and will locate, extract, and parse any QR code found within.
 
 #### Scroll
 
