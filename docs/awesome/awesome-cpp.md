@@ -767,6 +767,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Wykobi](https://www.wykobi.com) - A C++ library of efficient, robust and simple to use C++ 2D/3D oriented computational geometry routines. [MIT]
 * [xtensor](https://github.com/xtensor-stack/xtensor) - A C++14 library for numerical analysis with multi-dimensional array expressions, inspired by NumPy syntax. [BSD 3-clause] [website](https://xtensor-stack.github.io/xtensor)
 * [universal](https://github.com/stillwater-sc/universal) - A C++14 header-only library implementing arbitrary posit arithmetic. The posit number system is a tapered floating point that is more efficient than IEEE floating point. Posits enable reproducible computational science. [MIT license]
+* [XAD](https://github.com/auto-differentiation/xad) - Powerful Automatic Differentiation for C++. [AGPL] [website](https://auto-differentiation.github.io/)
 
 ## Memory Allocation
 
@@ -1110,6 +1111,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [DynaMix](https://github.com/iboB/dynamix) - A library which allows you to compose and modify objects at run time. [MIT]
 * [emio](https://github.com/Viatorus/emio) - A safe and fast high-level and low-level character input/output library. [MIT]
 * [faker-cxx](https://github.com/cieslarmichal/faker-cxx) - C++20 Faker library for generating fake (but realistic) data for testing and development. [MIT]
+* [fast_float](https://github.com/fastfloat/fast_float) - Fast, Exact C++ from_chars, 4x to 10x faster than strtod, part of GCC 12, Chromium, Redis, Webkit/Safari. [Apache2/BSL-1.0/MIT]
 * [FastFormat](http://www.fastformat.org) - Fast, Safe C++ Formatting inspired by log4j and Pantheios. [Simplified BSD]
 * [fast_io](https://github.com/cppfastio/fast_io) - Significantly faster input/output for C++20. [MIT]
 * [fccf](https://github.com/p-ranav/fccf) - A command-line tool that recursively searches a directory to find C/C++ source code matching a search string. [MIT]

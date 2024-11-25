@@ -12,7 +12,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 [<img src="https://raw.githubusercontent.com/tomodachi94/awesome-computercraft/master/assets/cc-tweaked-logo.png" align="right" width="100">](https://computercraft.cc)
 
-> Useful libraries, programs, literature, and mods for [ComputerCraft](https://computercraft.info) and [its forks](https://computercraft.cc).
+> Useful programs, libraries, literature, and mods for [ComputerCraft](https://computercraft.info) and [its forks](https://computercraft.cc).
 
 **ComputerCraft** is a mod for Minecraft which adds computers which are programmable with the Lua programming language. **ComputerCraft: Tweaked** is a fork of the mod for newer Minecraft versions.
 
