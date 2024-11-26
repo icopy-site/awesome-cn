@@ -118,7 +118,6 @@ Data available for download:
 - [European population grids - GISCO](https://ec.europa.eu/eurostat/web/gisco/geodata/grids) - Population figures in grid cells.
 - [European Postcodes Point Data](https://ec.europa.eu/eurostat/web/gisco/geodata/administrative-units/postal-codes) - Location of postal codes across Europe.
 - [Geoboundaries](https://www.geoboundaries.org/) - The world's largest open, free political boundaries database.
-- [Geodata.gov.gr](https://geodata.gov.gr/en/dataset) - Open geospatial data for Greece.
 - [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/) - Open access to biodiversity data.
 - [Global Climate Monitor](https://www.globalclimatemonitor.org/) - Global open climate data.
 - [Global power plant database](https://datasets.wri.org/dataset/globalpowerplantdatabase) - Open source database of power plants.
@@ -127,7 +126,7 @@ Data available for download:
 - [HydroSHEDS](https://www.hydrosheds.org/) - Consistent hydrographic data for global applications.
 - [NASA Earth Data](https://search.earthdata.nasa.gov/search) - Search, discover, visualize, refine, and access NASA Earth Observation data in your browser with Earthdata Search.
 - [NASA Earth Observations](https://neo.gsfc.nasa.gov/) - Browse and download satellite data imagery.
-- [NASA SEDAC](https://sedac.ciesin.columbia.edu/data/set/urbanspatial-guppd-v1) - Global Urban Polygons and Points Dataset.
+- [NASA SEDAC](https://earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-uspat-guppd-v1-1.00) - Global Urban Polygons and Points Dataset.
 - [Natural Earth](https://www.naturalearthdata.com/) - Free vector and raster map data.
 - [OpenAerialMap](https://openaerialmap.org/) - Open service for accessing licensed imagery.
 - [OpenMapTiles](https://openmaptiles.org/) - Free OpenStreetMap Vector Tiles.
@@ -157,7 +156,7 @@ Restful APIs for consuming geospatial data on the fly:
 - [GraphHopper Route Optimization API](https://www.graphhopper.com/route-optimization/) - Solves various vehicle routing problems.
 - [movebank-api](https://github.com/movebank/movebank-api-doc) - Platform for animal tracking data.
 - [OpenAQ](https://openaq.org/) - Largest open-source air quality data platform.
-- [Open Charge Map API](https://openchargemap.org/site/develop#api) - Public registry of electric vehicle charging locations.
+- [Open Charge Map API](https://openchargemap.org) - Public registry of electric vehicle charging locations.
 - [OpenCage](https://opencagedata.com/api) - Forward and reverse geocoding API using open data.
 - [Open-Meteo](https://open-meteo.com/) - Global weather forecast API.
 - [Open Notify](http://open-notify.org/Open-Notify-API/) - ISS location and number of people in space.
@@ -169,7 +168,7 @@ Restful APIs for consuming geospatial data on the fly:
 - [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API) - Retrieve OpenStreetMap data.
 - [RainViewer](https://www.rainviewer.com/api.html) - Free weather radar and satellite data API.
 - [REST countries](https://restcountries.com/) - Get country information via a RESTful API.
-- [Sunrise and sunset](https://sunrise-sunset.org/api) - Provides sunset and sunrise times for locations.
+- [Sunrise and sunset](https://sunrise-sunset.org) - Provides sunset and sunrise times for locations.
 - [TomTom](https://developer.tomtom.com/api-explorer-index/documentation/product-information/introduction) - Geocoding, routing, traffic, and more.
 - [USGS earthquake data](https://earthquake.usgs.gov/fdsnws/event/1/) - Search earthquake data by various parameters.
 - [what3words](https://developer.what3words.com/public-api) - Converts 3-word addresses to coordinates.

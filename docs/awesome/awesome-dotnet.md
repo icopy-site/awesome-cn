@@ -261,6 +261,9 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Snappy for Windows](https://snappy.machinezoo.com/) - Snappy compression library for .NET baked on P/Invoke
 * [Snappy.Sharp](https://github.com/jeffesp/Snappy.Sharp) - An implementation of Google's Snappy compression algorithm in C#.
 
+## Configuration
+* [AgileConfig](https://github.com/dotnetcore/AgileConfig) - AgileConfig is a lightweight configuration center that helps you manage all your application's configurations through website.
+
 ## Continuous Integration
 * [TeamCity](https://www.jetbrains.com/teamcity/) - Ready to work, extensible and developer-friendly build server — out of the box **[$]**
 * [MyGet](https://www.myget.org/) - Continuous Integration and Deployment, Hosted Package Repository for NuGet, NPM, Bower and VSIX **[$]**
@@ -1168,6 +1171,7 @@ metadata in media files, including video, audio, and photo formats
 ## Web Servers
 
 * [EmbedIO](https://github.com/unosquare/embedio) - Web server built on Mono and cross-platform
+* [GenHTTP](https://github.com/Kaliumhexacyanoferrat/GenHTTP) - A lightweight, embeddable web server for quickly creating REST APIs
 * [SimpleW](https://github.com/stratdev3/SimpleW) - Simple Web Server, build your RestAPI, fast, lightweight and cross-platform. 
 * [XSP](https://github.com/mono/xsp) - Mono's ASP.NET hosting server. This module includes an Apache Module, a FastCGI module that can be hooked to other web servers as well as a standalone server used for testing (similar to Microsoft's Cassini)
 

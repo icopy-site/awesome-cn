@@ -24,6 +24,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 </p>
 
 
+
 ## Official Resources
 
 > Official resources for Algorand.
@@ -47,15 +48,15 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [Exodus](https://www.exodus.com/) - Exodus is a multi-cryptocurrency wallet that supports Algorand.
 - [A-Wallet](https://a-wallet.net/) - AWallet is an open source, HTML only, corporate friendly, and secure Algorand wallet.
 
-### Protocols 
+### Protocols
 
-- [Liquid Auth](https://github.com/algorandfoundation/liquid-auth) -  Liquid Auth is a self-hosted authentication service that provides a simple way to associate Passkeys to KeyPair(s) commonly found in cryptocurrencies. In addition to authentication, Liquid Auth provides a Peer to Peer signaling service. Not only can you authenticate users, but you can also establish secure connections between them.
+- [Liquid Auth](https://github.com/algorandfoundation/liquid-auth) - Liquid Auth is a self-hosted authentication service that provides a simple way to associate Passkeys to KeyPair(s) commonly found in cryptocurrencies. In addition to authentication, Liquid Auth provides a Peer to Peer signaling service. Not only can you authenticate users, but you can also establish secure connections between them.
 
 ## Blockchain Explorers
 
 > List of blockchain explorers for Algorand. Used to view transactions, accounts, assets, etc.
 
-- [Allo](https://allo.info) - Allo is a blockchain explorer for all of Algorand created by Nodely. 
+- [Allo](https://allo.info) - Allo is a blockchain explorer for all of Algorand created by Nodely.
 - [NFTExplorer](https://www.nftexplorer.app/) - Algorand Standard Asset (ASA) explorer built by [@TomassoAE](https://twitter.com/TommasoAE) and [JoshLmao](https://twitter.com/JoshLmao).
 - [Pera Explorer](https://explorer.perawallet.app/) - Algorand Accounts, Standard Asset (ASA) explorer built by [Pera Wallet](https://perawallet.app/)
 - [Algorand Ballet](https://akaalias.github.io/algorand-ballet/) - Algorand accounts' 2D graphs.
@@ -105,6 +106,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [MultiSig with Algorand for Co-operative Groups](https://developer.algorand.org/tutorials/decentralised-co-operative-unions-algorand-multisignature-account/) - Decentralised co-operative unions with Algorand Multisignature Account.
 - [Adding Notes to Transactions](https://developer.algorand.org/tutorials/v2-read-and-write-transaction-note-field-python/) - Read and Write to the Transaction Note Field with Python.
 - [Create Assets with a Stateful Smart Contract](https://developer.algorand.org/solutions/using-stateful-smart-contract-to-create-algorand-standard-asset/) - Using Stateful Smart Contract To Create Algorand Standard Asset.
+- [Artificial Intelligence on Algorand](https://developer.algorand.org/solutions/artificial-intelligence-on-algorand/) - Tutorial on using machine learning to predict the transaction volume of the USDC stablecoin on the Algorand blockchain.
 
 ## Development Tools
 
@@ -360,6 +362,9 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [algodaddy](https://www.algodaddy.org) - A blog website for Algorand community.
 - [directorydotalgo](https://directorydotalgo.xyz/) - Algorand's unofficial ecosystem directory of projects.
 - [staketaxcsv](https://github.com/hodgerpodger/staketaxcsv) - Python backend for [stake.tax](https://stake.tax) that generates taxable transactions CSVs for Algorand and other blockchains.
+- [Automated Prediction Market Maker on Algorand](https://github.com/dspytdao/Algo_AMM) - backend repository with project hosted at [algoAMM.com](https://algoamm.com).
+- [AlgoDepo](https://github.com/dspytdao/AlgoDepo) - Single Deposit App Algorand.
+- [AlgoDeposit](https://github.com/dspytdao/AlgoDeposit) - AMM Pool App Algorand.
 
 ## Algorand Request for Comments
 
@@ -404,7 +409,6 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [Aorist](https://aorist.art/) - NFT art gallery and marketplace.
 - [ASA cafe](https://asa.cafe/) - Algorand Standard Asset platform and decentralized marketplace built by [@CryptoRUSHGav](https://github.com/CryptoRUSHGav). ASA cafe lets users mint and trade freely using the most modern standards, such as ARC-19, in Algo, USDC, or one of ASA cafe's expanding list of curated non-network tokens.
 - [Grid](https://grid.zestbloom.com/) - The Grid is a lightweight, static site that executes in the clients frontend to retrieve an arbitrary list of live contracts for users to browse and interact with. The Grid is highly configurable allowing for any of the ZestBloom supported contracts and sale types to be displayed, but through means of a simple configuration file, what gets displayed may easily be constrained to only a specific collection or curated list of sales.
-
 
 ## Contributing
 

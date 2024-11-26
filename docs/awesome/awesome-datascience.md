@@ -88,6 +88,8 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [12 free Data Science projects to practice Python and Pandas](https://www.datawars.io/articles/12-free-data-science-projects-to-practice-python-and-pandas)
 - [Best CV/Resume for Data Science Freshers](https://enhancv.com/resume-examples/data-scientist/)
 - [Understand Data Science Course in Java](https://www.alter-solutions.com/articles/java-data-science)
+- [Data Analytics Interview Questions (Beginner to Advanced)](https://www.appliedaicourse.com/blog/data-analytics-interview-questions/)
+- [Top 100+ Data Science Interview Questions and Answers](https://www.appliedaicourse.com/blog/data-science-interview-questions/)
 
 ### Free Courses
 **[`^        back to top        ^`](#awesome-data-science)**

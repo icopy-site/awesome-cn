@@ -181,7 +181,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Video Hub App](https://github.com/whyboris/Video-Hub-App) _(label: good first issue)_ <br> Angular & Electron app for browsing and searching videos on your PC.
 - [Video.js](https://github.com/videojs/video.js) _(label: good first issue)_ <br> The player framework
 - [Vite](https://github.com/vitejs/vite) _(label: good first issue)_ <br> Next generation frontend tooling. It's fast! Alternative to Create React App
-- [Vue CLI](https://github.com/vuejs/vue-cli) _(label: good first issue)_ <br> Standard Tooling for Vue.js Development
 - [Vue Router](https://github.com/vuejs/vue-router) _(label: good first issue)_ <br> The official router for Vue.js.
 - [Vue.js](https://github.com/vuejs/vue) _(label: good first issue)_ <br> The Progressive JavaScript Framework.
 - [VuePress](https://github.com/vuejs/vuepress) _(label: good first issue)_ <br> Minimalistic Vue-powered static site generator
@@ -204,10 +203,6 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 - [Hexagon](https://github.com/hexagonkt/hexagon) _(label: help-wanted)_ <br> A microservices toolkit written in Kotlin
 - [Non-Blocking SirixDB HTTP(S)-Server](https://github.com/sirixdb/sirix) _(label: good first issue)_ <br> A non-blocking HTTP(S)-Server for SirixDB, a temporal, evolutionary NoSQL document store for XML and JSON.
 - [OpenCalc](https://github.com/Darkempire78/OpenCalc) _(label: good first issue)_ <br> A simple and beautiful calculator for Android.
-
-## LaTeX
-
-- [Algorithmic Pseudocode](https://github.com/just-a-visitor/algorithmic-pseudocode) _(label: good first issue)_ <br> A collection of language independent pseudocodes (pdf) for interview preparation and competitive programming.
 
 ## Markdown
 
