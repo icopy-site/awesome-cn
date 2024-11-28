@@ -63,7 +63,7 @@
 - [Yii2](https://github.com/tbreuss/yii2-inertia)
 - [Django](https://github.com/zodman/inertia-django)
 - [Fiber](https://github.com/theArtechnology/fiber-inertia)
-- [Node.js](https://github.com/jordankaerim/inertia-node)
+- [Node.js](https://github.com/haikyuu/inertia-node-adapter)
 - [Masonite](https://github.com/girardinsamuel/masonite-inertia)
 - [WordPress](https://github.com/boxybird/wordpress-inertia-plugin)
 - [Flask](https://github.com/j0ack/flask-inertia)
