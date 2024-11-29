@@ -17,7 +17,7 @@ System integration is the process of linking together different IT systems (com
 - [Apigee](https://cloud.google.com/apigee) - A leading API management solution from Google that provides comprehensive API management capabilities and helps you create, secure, and scale APIs with ease.
 - [Azure API Management](https://azure.microsoft.com/en-us/services/api-management/) - A hybrid, multicloud management platform for APIs across all environments, which enables you to manage APIs with ease, secure them, and gain insights into their performance.
 - [DigitMarket API Manager](https://www.torryharris.com/products/digitmarket-api-manager-for-api-management) - A complete package from Torry Harris that helps you manage your APIs and turn them into tools that can drive your business forward.
-- [Gravitee.io API Management (⭐197)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
+- [Gravitee.io API Management (⭐199)](https://github.com/gravitee-io/gravitee-api-management) - A flexible, lightweight, and open-source API management solution that provides comprehensive API management capabilities and helps you manage your APIs with ease.
 - [IBM API Connect](https://www.ibm.com/cloud/api-connect) - A complete, intuitive, and scalable API platform that allows you to create, expose, manage, and monetize APIs across clouds.
 - [Kong Enterprise](https://konghq.com/products/kong-enterprise) - A comprehensive service connectivity platform that provides a range of API management capabilities and allows you to manage APIs, microservices, and service meshes with ease.
 - [Layer7 API Management](https://www.broadcom.com/products/software/api-management) - A continuous API management solution from Broadcom that provides comprehensive API management capabilities and helps you manage APIs throughout their lifecycle.
@@ -26,7 +26,7 @@ System integration is the process of linking together different IT systems (com
 - [TIBCO Cloud Mashery](https://www.tibco.com/products/api-management) - A cloud-native API platform from TIBCO that enables you to deploy APIs anywhere and manage them from everywhere.
 - [Tyk API Management](https://tyk.io/api-lifecycle-management/) - A powerful API management solution that allows you to connect, build, and control APIs with ease.
 - [webMethods API](https://www.softwareag.cloud/site/product/webmethods-api.html) - A comprehensive API management solution from Software AG that provides full lifecycle API management capabilities and enables you to manage APIs in both on-premises and cloud environments.
-- [WSO2 API Manager (⭐856)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
+- [WSO2 API Manager (⭐857)](https://github.com/wso2/product-apim) - A fully open-source API management platform that provides comprehensive API management capabilities and allows you to manage APIs with ease.
 - [Zuplo API Management](https://zuplo.com) - Light-weight, fully-managed API Management platform, built for developers with unique features like GitOps, fast deployments to the edge, unlimited preview environments, full OpenAPI support, API monetization with Stripe, and more.
 
 <!--lint disable-->
@@ -35,9 +35,9 @@ System integration is the process of linking together different IT systems (com
 *API design, documentation, and life-cycle automation tools streamline the process of creating, maintaining, and evolving APIs. These tools offer efficient means to design consistent and scalable APIs, generate comprehensive documentation, and automate various stages of the API life-cycle, enhancing developer experience and promoting API adoption.*
 - [Dredd (⭐4.1k)](https://github.com/apiaryio/dredd) - Validate API description docs against backend implementation using this language-agnostic CLI tool.
 - [OpenAPI-GUI (⭐1.4k)](https://github.com/Mermade/openapi-gui) - Create and validate OpenAPI specs with ease using this intuitive graphical user interface.
-- [OpenAPI Diff (⭐836)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
-- [OpenAPI Generator (⭐21k)](https://github.com/OpenAPITools/openapi-generator) - Automate the creation of API client libraries, server stubs, documentation and config files with this powerful OpenAPI Spec tool.
-- [OpenAPI Style Validator (⭐212)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
+- [OpenAPI Diff (⭐837)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+- [OpenAPI Generator (⭐22k)](https://github.com/OpenAPITools/openapi-generator) - Automate the creation of API client libraries, server stubs, documentation and config files with this powerful OpenAPI Spec tool.
+- [OpenAPI Style Validator (⭐213)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
 - [Spectral (⭐2.5k)](https://github.com/stoplightio/spectral) - Detect and fix errors in your JSON/YAML files using this linter tool that supports OpenAPI 3.0 & 2.0 and AsyncAPI.
 - [Swagger Editor (⭐8.9k)](https://github.com/swagger-api/swagger-editor) - Create, describe, and document your API with ease using this open source editor built specifically for OpenAPI-based APIs.
 - [Zally (⭐908)](https://github.com/zalando/zally) - Ensure the quality of your OpenAPI specs with this linter tool that provides extensive analysis and feedback.
@@ -64,10 +64,10 @@ System integration is the process of linking together different IT systems (com
 - [Ambassador Edge Stack](https://www.getambassador.io/products/edge-stack/api-gateway/) - A Kubernetes-native API Gateway that helps manage APIs at scale with its customizable routing, authentication, and rate-limiting features.
 - [Apache APISIX (⭐14k)](https://github.com/apache/apisix) - A dynamic, real-time, and high-performance API Gateway that leverages Apache plugins for enhanced functionality.
 - [Apache ShenYu (⭐8.4k)](https://github.com/apache/shenyu) - A Java native API Gateway for service proxy, protocol conversion and API governance.
-- [Gloo Edge (⭐6)](https://github.com/solo-io/gloo) - An Envoy Proxy-based API Gateway that provides advanced traffic management, security, and observability features for modern microservices architectures.
+- [Gloo Edge (⭐10)](https://github.com/solo-io/gloo) - An Envoy Proxy-based API Gateway that provides advanced traffic management, security, and observability features for modern microservices architectures.
 - [Kong API Gateway (⭐39k)](https://github.com/Kong/kong) - A cloud-native, platform-agnostic, and scalable API Gateway that supports plugins for easy integration with third-party services.
 - [KrakenD API Gateway (⭐2k)](https://github.com/devopsfaith/krakend-ce) - An ultra-high performance API Gateway that leverages middlewares for fast and efficient API management.
-- [Ocelot (⭐8.3k)](https://github.com/ThreeMammals/Ocelot) - A .NET API Gateway that provides a simple and elegant way to manage APIs with its intuitive routing and middleware configuration.
+- [Ocelot (⭐8.4k)](https://github.com/ThreeMammals/Ocelot) - A .NET API Gateway that provides a simple and elegant way to manage APIs with its intuitive routing and middleware configuration.
 - [Spring Cloud Gateway (⭐4.5k)](https://github.com/spring-cloud/spring-cloud-gateway) - An API Gateway built on top of the Spring ecosystem, providing advanced routing and filtering features for Spring applications.
 - [Traefik (⭐51k)](https://github.com/traefik/traefik) - A modern, open-source API Gateway that is designed to handle dynamic container environments such as Kubernetes, Docker Swarm, and Mesos. It provides load balancing, SSL/TLS termination, rate limiting, circuit breaking, and more.
 - [Tyk API Gateway (⭐9.7k)](https://github.com/TykTechnologies/tyk) - An open source Enterprise API Gateway that supports REST, GraphQL, TCP, and gRPC protocols. It provides advanced API management features such as rate limiting, access control, and analytics.
@@ -83,13 +83,14 @@ System integration is the process of linking together different IT systems (com
   - [curlie (⭐2.8k)](https://github.com/rs/curlie) - Frontend to curl with the ease of use of httpie without compromising on performance and features.
   - [HTTPie (⭐34k)](https://github.com/httpie/httpie) - User-friendly command-line HTTP client that simplifies HTTP request/response inspection and manipulation.
   - [Insomnia (⭐35k)](https://github.com/Kong/insomnia) - Cross-platform HTTP and GraphQL client designed to make API testing and debugging easier.
+  - [posting (⭐6.1k)](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
   - [Postman](https://www.postman.com/product/api-client/) - Comprehensive tool for simplifying API development and testing processes with features such as making HTTP requests, generating mock servers, and creating API documentation.
   - [resty (⭐2.6k)](https://github.com/micha/resty) - A Lua framework for building HTTP clients that provides a shell interface for interacting with REST services.
   - [SoapUI (⭐1.5k)](https://github.com/SmartBear/soapui) - Open-source web service testing application designed for testing SOAP and REST web services.
 - MQ clients
   - [JMSToolBox (⭐206)](https://github.com/jmstoolbox/jmstoolbox) - Universal JMS client designed to interact with a wide range of JMS-based message brokers.
   - [kcat (⭐5.4k)](https://github.com/edenhill/kcat) - Generic non-JVM producer and consumer for Apache Kafka, functioning as a netcat for Kafka.
-  - [MQTT Explorer (⭐3k)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
+  - [MQTT Explorer (⭐3.1k)](https://github.com/thomasnordquist/MQTT-Explorer) - All-round MQTT client with a structured topic overview, suitable for debugging and testing MQTT-based systems.
   - [Offset Explorer](https://www.kafkatool.com) - GUI application for managing and using Apache Kafka clusters, formerly known as Kafka Tool.
   - [Service Bus Explorer (⭐2k)](https://github.com/paolosalvatori/ServiceBusExplorer) - GUI app for Azure Service Bus, offering advanced features like import/export functionality and the ability to test topic, queues, subscriptions, relay services, notification hubs, and events hubs.
 - Mocking tools
@@ -97,7 +98,7 @@ System integration is the process of linking together different IT systems (com
   - [Microcks (⭐1.4k)](https://github.com/microcks/microcks) - Open-source Kubernetes-native tool for API mocking and testing, supporting AsyncAPI, OpenAPI, Postman Collections, etc.
   - [Mockable](https://www.mockable.io/) - Simple configurable service to mock out RESTful API or SOAP web-services.
   - [Mockbin (⭐95)](https://github.com/zuplo/mockbin) - Easily generate custom endpoints to test HTTP requests, and view the request logs from that API for free.
-  - [Mockoon (⭐6.5k)](https://github.com/mockoon/mockoon) - Easy-to-use tool for designing and running mock REST APIs.
+  - [Mockoon (⭐6.6k)](https://github.com/mockoon/mockoon) - Easy-to-use tool for designing and running mock REST APIs.
   - [MockServer (⭐4.6k)](https://github.com/mock-server/mockserver) - Easy mocking of any system you integrate with via HTTP or HTTPS.
   - [Mocky (⭐2k)](https://github.com/MockyAbstract/Mocky) - Free and unlimited online service for generating custom HTTP responses.
   - [Prism (⭐4.3k)](https://github.com/stoplightio/prism) - Open-source HTTP mock server that can mimic your API's behavior as if you already built it.
@@ -150,7 +151,7 @@ System integration is the process of linking together different IT systems (com
 - [Apache ServiceMix](https://servicemix.apache.org/) - An open-source integration container that combines the functionality of Apache ActiveMQ, Camel, CXF, and Karaf, providing a flexible solution.
 - [ArcESB](https://www.arcesb.com/integration/) - A versatile integration platform that seamlessly synchronizes data across applications, integrates with partners, and provides data accessibility.
 - [IBM App Connect](https://www.ibm.com/cloud/app-connect) - An integration platform that can connect applications, irrespective of the message formats or protocols they use, formerly known as IBM Integration Bus.
-- [NServiceBus (⭐2k)](https://github.com/Particular/NServiceBus) - A .NET-based service bus that offers an intuitive developer-friendly environment.
+- [NServiceBus (⭐2.1k)](https://github.com/Particular/NServiceBus) - A .NET-based service bus that offers an intuitive developer-friendly environment.
 - [Oracle Service Bus](https://www.oracle.com/middleware/technologies/service-bus.html) - An integration platform that connects, virtualizes, and manages interactions between services and applications.
 - [Oracle SOA Suite](https://www.oracle.com/middleware/technologies/soasuite.html) - A platform that enables system developers to set up and manage services and to orchestrate them into composite applications and business processes.
 - [Red Hat Fuse](https://developers.redhat.com/products/fuse/overview) - A cloud-native integration platform that supports distributed integration capabilities.
@@ -307,7 +308,7 @@ System integration is the process of linking together different IT systems (com
 - [Elsa Core (⭐6.5k)](https://github.com/elsa-workflows/elsa-core) - A library that enables workflow execution in any .NET Core application, making it easier to automate business processes in .NET environments.
 - [Flowable (⭐8k)](https://github.com/flowable/flowable-engine) - A set of open-source business process engines that are compact and efficient, making it easier to automate business processes in a scalable and reliable way.
 - [jBPM (⭐1.6k)](https://github.com/kiegroup/jbpm) - A toolkit for building business applications that helps you automate business processes and decisions, making it easier to manage complex workflows.
-- [StackStorm (⭐6k)](https://github.com/StackStorm/st2) - A robust automation engine that provides sensors, triggers, rules, workflows, and actions to help you automate and orchestrate complex workflows and applications.
+- [StackStorm (⭐6.1k)](https://github.com/StackStorm/st2) - A robust automation engine that provides sensors, triggers, rules, workflows, and actions to help you automate and orchestrate complex workflows and applications.
 - [Temporal (⭐12k)](https://github.com/temporalio/temporal) - An open-source platform that uses a workflow-as-code approach to make your applications more reliable and scalable. 
 
 <!--lint disable-->
@@ -777,7 +778,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 - [NDJSON (⭐686)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 - [Protocol Buffers (⭐65k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
 - [XML](https://www.w3.org/TR/xml11/) - A flexible and widely used markup language that is used for storing and exchanging structured data. It supports rich data types and is compatible with many programming languages.
-- [YAML (⭐348)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
+- [YAML (⭐349)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
 
 <!--lint disable-->
 <!--lint enable-->

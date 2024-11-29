@@ -566,6 +566,7 @@ become an Angular expert.
 * [ngx-pendo](https://github.com/yociduo/ngx-pendo) - A simple wrapper to load Pendo in Angular.
 * [ngx-surreal](https://github.com/vandaeldev/ngx-surreal) - Lightweight Angular wrapper for the [SurrealDB](https://surrealdb.com/) JavaScript SDK.
 * [ngx-filesize](https://github.com/amitdahan/ngx-filesize) - Angular wrapper for [filesize.js](https://filesizejs.com/).
+* [ngx-intercom-messenger](https://github.com/MaximBelov/ngx-intercom-messenger) - Angular 18+ Wrapper for [@intercom/messenger-js-sdk](https://www.npmjs.com/package/@intercom/messenger-js-sdk).
 
 #### Internationalization
 
@@ -628,6 +629,7 @@ become an Angular expert.
 * [ngx-ssr-code-remover](https://github.com/xsip/ngx-ssr-code-remover) - Post processor to remove SSR Code from bundles when served.
 * [treaty](https://github.com/treatyjs/treaty) - The meta framework for Angular. An alternative to Analog.
 * [analog-stuff](https://github.com/joshuamorony/analog-stuff) - Extra stuff for AnalogJS including `agx-remark-rehype`.
+* [ngx-trpc](https://github.com/lennybakkalian/ngx-trpc) - Angular tRPC client with SSR, RxJS, Signals and Subscriptions Support.
 
 #### Site Templates
 

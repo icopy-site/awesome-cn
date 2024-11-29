@@ -145,6 +145,8 @@ Anything](https://huggingface.co/spaces/radames/candle-segment-anything-wasm).
 - [yew-bootstrap](https://github.com/isosphere/yew-bootstrap) - A Yew wrapper for the Bootstrap 5 component library.
 - [Zu](https://github.com/RustVis/zu) - Yew web components, implementing Material Design.
 - [yew-nav-link](https://github.com/RAprogramm/yew-nav-link) - A navigational link that is aware of its active state based on the current route in the application.
+- [Rust Radix](https://github.com/RustForWeb/radix) - Rust port of Radix with support for Leptos and Yew.
+- [Rust shadcn/ui](https://github.com/RustForWeb/shadcn-ui) - Rust port of shadcn/ui with support for Leptos and Yew.
 
 ### Components
 
