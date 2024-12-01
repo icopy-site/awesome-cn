@@ -761,6 +761,7 @@ _Libraries for building and using SQL._
 - [go-elasticsearch](https://github.com/elastic/go-elasticsearch) - Official Elasticsearch client for Go.
 - [goes](https://github.com/OwnLocal/goes) - Library to interact with Elasticsearch.
 - [skizze](https://github.com/seiflotfy/skizze) - probabilistic data-structures service and storage.
+- [zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search.
 
 
 ## Date and Time
@@ -1069,7 +1070,7 @@ _Awesome game development libraries._
 - [nano](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework.
 - [Oak](https://github.com/oakmound/oak) - Pure Go game engine.
 - [Pitaya](https://github.com/topfreegames/pitaya) - Scalable game server framework with clustering support and client libraries for iOS, Android, Unity and others through the C SDK.
-- [Pixel](https://github.com/faiface/pixel) - Hand-crafted 2D game library in Go.
+- [Pixel](https://github.com/gopxl/pixel) - Hand-crafted 2D game library in Go.
 - [prototype](https://github.com/gonutz/prototype) - Cross-platform (Windows/Linux/Mac) library for creating desktop games using a minimal API.
 - [raylib-go](https://github.com/gen2brain/raylib-go) - Go bindings for [raylib](https://www.raylib.com/), a simple and easy-to-use library to learn videogames programming.
 - [termloop](https://github.com/JoelOtter/termloop) - Terminal-based game engine for Go, built on top of Termbox.
@@ -2099,6 +2100,7 @@ _Libraries that are used to help make your application more secure._
 - [optimus-go](https://github.com/pjebs/optimus-go) - ID hashing and Obfuscation using Knuth's Algorithm.
 - [passlib](https://github.com/hlandau/passlib) - Futureproof password hashing library.
 - [passwap](https://github.com/zitadel/passwap) - Provides a unified implementation between different password hashing algorithms
+- [qrand](https://github.com/bitfield/qrand) - Client for the ANU Quantum Numbers (AQN) API, providing quantum-mechanically secure random data.
 - [secret](https://github.com/rsjethani/secret) - Prevent your secrets from leaking into logs, std\* etc.
 - [secure](https://github.com/unrolled/secure) - HTTP middleware for Go that facilitates some quick security wins.
 - [secureio](https://github.com/xaionaro-go/secureio) - An keyexchanging+authenticating+encrypting wrapper and multiplexer for `io.ReadWriteCloser` based on XChaCha20-poly1305, ECDH and ED25519.
@@ -2425,9 +2427,9 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 _Libraries for accessing third party APIs._
 
 - [airtable](https://github.com/mehanizm/airtable) - Go client library for the [Airtable API](https://airtable.com/api).
-- [amazon-product-advertising-api](https://github.com/ngs/go-amazon-product-advertising-api) - Go Client Library for [Amazon Product Advertising API](https://affiliate-program.amazon.com/gp/advertising/api/detail/main.html).
 - [anaconda](https://github.com/ChimeraCoder/anaconda) - Go client library for the Twitter 1.1 API.
 - [appstore-sdk-go](https://github.com/Kachit/appstore-sdk-go) - Unofficial Golang SDK for AppStore Connect API.
+- [aws-encryption-sdk-go](https://github.com/chainifynet/aws-encryption-sdk-go) - Unofficial Go SDK implementation of the [AWS Encryption SDK](https://docs.aws.amazon.com/encryption-sdk/latest/developer-guide/index.html).
 - [aws-sdk-go](https://github.com/aws/aws-sdk-go-v2) - The official AWS SDK for the Go programming language.
 - [bqwriter](https://github.com/OTA-Insight/bqwriter) - High Level Go Library to write data into [Google BigQuery](https://cloud.google.com/bigquery) at a high throughout.
 - [brewerydb](https://github.com/naegelejd/brewerydb) - Go library for accessing the BreweryDB API.

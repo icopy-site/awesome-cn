@@ -105,8 +105,11 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Cornell. Functional Programming in Ocaml](https://www.cs.cornell.edu/courses/cs3110/2024sp) - A modern course on data structures and functional programming using OCaml.
 ## Algorithms<a name=algorithms></a>
 ## General<a name=algorithms_general></a>
-### Lecture Notes<a name=algorithms_general_lecture_notes></a>
+### Lecture Videos<a name=algorithms_general_lecture_videos></a>
+- [Demaine/Ku/Soloman. Introduction to Algorithms. MIT](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) - A first course on basic algorithms and data structures. — added by Erik himself!
+- [Demaine/Devadas/Lynch. Design and Analysis of algorithms. MIT](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/) - A second course on algorithms and data structures. — added by Erik himself!
 - [Erik Demaine. Advanced Data Structures. MIT](https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/) - It covers major results and current directions of research in data structure.
+### Lecture Notes<a name=algorithms_general_lecture_notes></a>
 - [Arora. Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall15/cos521/) - Notably uses ideas such as randomness, approximation, high dimensional geometry. Faces uncertainty, approaches to handle big data, handling intractability, heuristic approaches, ..etc.
 ### Books<a name=algorithms_general_books></a>
 - [Knuth. The Art of Computer Programming](https://en.wikipedia.org/wiki/The_Art_of_Computer_Programming) - A legendary series by Donald Knuth on design and analysis of algorithms.

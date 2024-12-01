@@ -60,6 +60,7 @@ Contributions are welcome. Please read the [contributing guideline](https://gith
 - [Light Vortex Astronomy's PixInsight tutorials](https://web.archive.org/web/20230509214425/https://www.lightvortexastronomy.com/tutorials.html) - An extensive collection of tutorials covering both pre- and post-processing workflows.
 - [Orion Nebula (M42) with a DSLR, Start to Finish](https://www.youtube.com/watch?v=Qb1ceFM-DkQ) - A complete walk-through. From planning to post-processing.
 - [RGB Stars From Narrowband Data](https://aiastro.wordpress.com/2020/06/02/rgb-stars-from-narroband-data/) - Narrowband palettes such as SHO, HOO, etc. produce uncalibrated stars. One way to fix star color is to shoot also in RGB, then blend. In this article, Alberto Ibañez suggests another approach that uses the already acquired narrowband data to achieve the same.
+- [Removing Color Artefacts From OSC Images](https://www.astroworldcreations.com/blog/removing-colour-artefacts-from-osc-images) - On his blog, Willem Jan Drijfhout explains how to remove color artefacts from images captured with a One-Shot-Color camera.
 - [Stacking Multiple Sessions in DSS - The Correct Way](https://www.youtube.com/watch?v=cmDy80d2krk) - Even though it's from year 2012, this video on stacking multiple imaging sessions is still relevant today.
 
 

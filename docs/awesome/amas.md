@@ -108,7 +108,6 @@
 - [Tim Smith](https://github.com/smithtimmytim/ama) - Front-end designer, nerd, and recovering coffee addict.
 - [Sam Verschueren](https://github.com/SamVerschueren/ama) - Full stack JavaScript developer and open source contributor.
 - [Haroen Viaene](https://github.com/Haroenv/ama) - Student mostly doing JS, open source everything, creating stuff at bullgit.
-- [Arjun Mayilvaganan](https://github.com/arjunmayilvaganan/ama) - Senior Year Student at CEG. Striving to make it as a Full stack developer.
 - [Kundan Singh](https://github.com/kundansingh1/ama) - Full Stack Javascript Developer, Biker, Traveller, Photographer.
 - [Michael Novotny](https://github.com/manovotny/ama) - JavaScript developer. Open source contributor. Insatiable learner. Standards and best practices enthusiast. Development is a lifestyle, not a job.
 - [Artem Sapegin](https://github.com/sapegin/ama) - Frontend developer at Here, creator of React Styleguidist and passionate photographer.

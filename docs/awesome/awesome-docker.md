@@ -812,8 +812,6 @@ Services to securely store your Docker images.
 
 [![Stargazers over time](https://starchart.cc/veggiemonk/awesome-docker.svg)](https://starchart.cc/veggiemonk/awesome-docker)
 
-## Contributor over time
-
 [contributing]: https://github.com/veggiemonk/awesome-docker/blob/master/.github/CONTRIBUTING.md
 [akito]: https://github.com/theAkito
 [calico]: https://github.com/projectcalico/calico
@@ -824,7 +822,7 @@ Services to securely store your Docker images.
 [deepfence]: https://github.com/deepfence
 [distribution]: https://github.com/docker/distribution
 [docker-flow]: https://github.com/docker-flow
-[docker-for-windows]: https://docs.docker.com/desktop/install/windows-install/
+[docker-for-windows]: https://docs.docker.com/desktop/setup/install/windows-install/
 [docker]: https://github.com/docker
 [editreadme]: https://github.com/veggiemonk/awesome-docker/edit/master/README.md
 [fgrehm]: https://github.com/fgrehm

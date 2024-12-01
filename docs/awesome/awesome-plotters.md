@@ -98,6 +98,7 @@ Software for controlling plotter hardware.
 - [saxi](https://github.com/nornagon/saxi) - Driver and library for the AxiDraw. Uses constant-acceleration motion planning and automatically resizes to paper.
 - [MP2300-Tools](https://github.com/Jan--Henrik/MP2300-Tools) - Software for converting HPGL to Graphtec's GPGL format, as well as CAD files for a Graphtec plotter pen adapter.
 - [Inkcut](https://github.com/inkcut/inkcut) - Application for controlling 2D plotters, cutters, engravers, and CNC machines.
+- [pypenwriter](https://github.com/Lana-chan/pypenwriter) - Python script to convert and send SVG drawings to the Panasonic PenWriter family of typewriter plotters.
 
 ### Vector Creation
 
@@ -135,6 +136,11 @@ Tools to create vector artwork from scratch or by conversion from other formats.
 - [plotting-maps](https://github.com/piebro/plotting-maps) - A simple web tool to create OpenStreetMap SVG maps for plotting.
 - [ThreadPlotter](https://github.com/LiciaHe/threadPlotter) - "A toolkit for the design and fabrication of delicate punch needle embroidery using X-Y plotters".
 - [PINTR](https://javier.xyz/pintr) - Plottable random line drawings from your images.
+- [REVDANCATT Plotter Tools](https://revdancatt.com/penplotter/) - A bunch of web-based pen plotter tools with SVG output.
+- [Flow Lines](https://msurguy.github.io/flow-lines/) - A tool for generating flow line representations using SVG paths / polylines.
+- [UJI](https://doersino.github.io/uji/) - A web-based generative art thing with SVG export.
+- [Studio](https://u840903.github.io/multiplication-mandalas/) - A web-based tool for creating multiplication mandalas.
+- [Rad Lines](https://msurguy.github.io/rad-lines/) - A web-based radial lines vector generation tool with SVG export.
 
 ### Vector Utilities
 
@@ -343,23 +349,16 @@ Where to find other plotter and drawbot friends.
 
 ## Plotter Art For Sale
 
-- [Paul Rickards](https://shop.paulrickards.com)
-- [Michael Fogleman](https://www.michaelfogleman.com/plotter)
-- [inconvergent](http://buy.inconvergent.net)
-- [Monica Rizzolli](https://www.saatchiart.com/account/artworks/155196)
-- [EmergentDesign](https://emergentdesign.bigcartel.com/products)
-- [BustBright](https://mkt.com/bustbright)
-- [Martin O'Leary](https://shop.mewo2.com)
-- [Geoffrey Bradway](https://www.chromatocosmos.com/)
-- [brubsby](http://shop.brubsby.com/)
-- [Arjan van der Meij](https://dutchplottr.nl/en/)
-- [Nadieh Bremer](https://shop.visualcinnamon.com/collections/pen-plotter-prints)
-- [Michelle Chandra](https://www.dirtalleydesign.com/)
-- [Pedro Alcocer](https://store.pedroalcocer.com/)
-- [AndyMakes](https://shop.andymakes.com/)
-- [Marcel Schwittlick](https://schwittlick.bigcartel.com/)
 - [Adam Fuhrer](https://adamfuhrer.bigcartel.com)
+- [AndyMakes](https://shop.andymakes.com/)
+- [Arjan van der Meij](https://dutchplottr.nl/en/)
+- [EmergentDesign](https://emergentdesign.bigcartel.com/products)
+- [inconvergent](http://buy.inconvergent.net)
 - [Ingrid Burrington](https://wares.lifewinning.com)
+- [Michael Fogleman](https://www.michaelfogleman.com/plotter)
+- [Michelle Chandra](https://www.dirtalleydesign.com/)
+- [Paul Rickards](https://shop.paulrickards.com)
+- [Pedro Alcocer](https://store.pedroalcocer.com/)
 
 ## Other Awesomes
 

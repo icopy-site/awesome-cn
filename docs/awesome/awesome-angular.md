@@ -567,6 +567,7 @@ become an Angular expert.
 * [ngx-surreal](https://github.com/vandaeldev/ngx-surreal) - Lightweight Angular wrapper for the [SurrealDB](https://surrealdb.com/) JavaScript SDK.
 * [ngx-filesize](https://github.com/amitdahan/ngx-filesize) - Angular wrapper for [filesize.js](https://filesizejs.com/).
 * [ngx-intercom-messenger](https://github.com/MaximBelov/ngx-intercom-messenger) - Angular 18+ Wrapper for [@intercom/messenger-js-sdk](https://www.npmjs.com/package/@intercom/messenger-js-sdk).
+* [ngx-katex](https://github.com/pusherman/ngx-katex) - A simple Angular wrapper for [KaTeX](https://github.com/KaTeX/KaTeX).
 
 #### Internationalization
 
@@ -1191,6 +1192,7 @@ to simplify usage and allow quick customization.
 * [ngx-action-logger](https://github.com/TALRACE/ngx-action-logger) - Logger for Angular applications, capable of both outputting data to the console or sending data to elastic.
 * [@Xilerth/ngx-logger](https://github.com/Xilerth/ngx-logger) - This library empowers developers to seamlessly integrate custom logging solutions tailored to their specific requirements, enabling efficient debugging, monitoring, and analytics.
 * [pretty-html-log](https://github.com/angular-extensions/pretty-html-log) - A module that allows you to pretty print the inner HTML of ComponentFixtures, DebugElements, NativeElements or even plain HTML strings to the console. This is very useful for debugging Angular component tests in Jest.
+* [log4ngx](https://github.com/secondbounce/log4ngx) - A Typescript logging framework for Angular projects, based on concepts used in Log4j, Log4net, etc.
 
 #### Maps
 
@@ -1335,6 +1337,7 @@ to simplify usage and allow quick customization.
 * [ng](https://github.com/bitfiber/ng) - An Angular-specific extension of [@bitfiber/rx](https://github.com/bitfiber/rx) built on top of RxJS, designed to manage reactive state, asynchronous workflows, and events in Angular applications. It provides a structured approach to handling complex data flows using emitters, states, groups, and stores, allowing seamless integration of various reactive sources like emitters, states, and observables.
 * [ngx-crud](https://github.com/henryruhs/ngx-crud) - CRUD services in Angular with effortless aborting, caching and observing.
 * [ngx-simple-state-manager](https://github.com/notnikola1/ngx-simple-state-manager) - Component-bound simple to handle state managment that is accessible application wide with type support and an observer to handle any reactive state changes if and when needed.
+* [ngx-state-machine](https://github.com/state-management/ngx-state-machine) -  An Angular wrapper for the [simple-state-machine](https://www.npmjs.com/package/@state-management/simple-state-machine) library. It integrates the state machine into Angular applications by making the `StateMachine` injectable as a service.
 
 #### Storage
 
