@@ -73,18 +73,18 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability. [![Open-Source Software][OSS Icon]](https://github.com/neovim/neovim) ![Freeware][Freeware Icon]
 * [Nova](https://nova.app/) - The beautiful, fast, flexible, native Mac code editor from Panic.
 * [Plain Text Editor](https://sindresorhus.com/plain-text-editor) - Simple distraction-free notepad. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1572202501)
-* [Sublime Text](http://www.sublimetext.com/3) - Sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraordinary features and amazing performance, [Sublime Text Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/editor-plugin.md#sublime-text-plugin). [![Awesome List][awesome-list Icon]](https://github.com/dreikanter/sublime-bookmarks#readme)
-* [SubEthaEdit](https://subethaedit.net/) - Powerful Text Editing. Write articles, code, notes or meeting minutes with friends – wherever they are. Ideal for extreme programming sessions, tutoring and creative writing [![Open-Source Software][OSS Icon]](https://github.com/subethaedit/SubEthaEdit)
+* [Sublime Text](http://www.sublimetext.com/3) - A popular, clean, and sleek editor with a plugin management system. For more plugins, check [Sublime Text Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/editor-plugin-zh.md#sublime-text-plugin). [![Awesome List][awesome-list Icon]](https://github.com/dreikanter/sublime-bookmarks#readme)
+* [SubEthaEdit](https://subethaedit.net/) - Powerful editor for writing, coding, and collaboration anytime, anywhere! [![Open-Source Software][OSS Icon]](https://github.com/subethaedit/SubEthaEdit)
 * [TextMate](https://macromates.com) - Editor that brings Apple's approach to operating systems into the world of text editors. [![Open-Source Software][OSS Icon]](https://github.com/textmate/textmate) ![Freeware][Freeware Icon]
 * [Tot](https://tot.rocks/) - Tot is an elegant, simple way to collect & edit text. It’s your tiny text companion! ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/tot/id1491071483)
-* [Vim](http://www.vim.org/) - Highly configurable text editor built to make creating and changing any kind of text very efficient, [Vim Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/editor-plugin.md#vim-plugin). [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/mhinz/vim-galore#readme)
+* [Vim](http://www.vim.org/) - An old terminal-based editor. For common plugins, check [Vim Common Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/editor-plugin-zh.md#vim-plugin). [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/mhinz/vim-galore#readme)
 * [Vimr](http://vimr.org/) - Refined Vim Experience for OS X. [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/) ![Freeware][Freeware Icon]
 * [Zed](https://zed.dev/) - A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. [![Open-Source Software][OSS Icon]](https://github.com/zed-industries/zed) ![Freeware][Freeware Icon]
 
 ### Office
 
 * [Keynote](https://apps.apple.com/app/keynote/id409183694?mt=12) - Build stunning presentations. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/keynote/id409183694?mt=12)
-* [LibreOffice](https://www.libreoffice.org) - LibreOffice is free and open-source software office software. Software is tested and used daily by a large and devoted user community. [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][Freeware Icon]
+* [LibreOffice](https://www.libreoffice.org) - Free, open-source office software used and tested daily by a large community. [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][Freeware Icon]
 * [Microsoft Office](https://products.office.com/en-us/mac/microsoft-office-for-mac) - Unmistakably Office, designed for Mac. [![App Store][app-store Icon]](https://www.apple.com/search/office?page=1&sel=accessories&f=software#!&f=software&fh=4649)
 * [Numbers](https://apps.apple.com/app/numbers/id409203825?mt=12) - Create impressive spreadsheets. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/numbers/id409203825?mt=12)
 * [OnlyOffice](https://www.onlyoffice.com/) - An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents. [![Open-Source Software][OSS Icon]](https://github.com/ONLYOFFICE/DesktopEditors) ![Freeware][Freeware Icon]
@@ -125,26 +125,25 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [FSNotes](https://fsnot.es/) - File System Notes is a modern notes manager, native on macOS and iOS. [![Open-Source Software][OSS Icon]](https://github.com/glushchenko/fsnotes) [![App Store][app-store Icon]](https://apps.apple.com/gb/app/fsnotes/id1277179284?mt=12)
 * [Gooba](https://goobapp.com/) - Writing app and task manager with a simple and interactive design.
 * [Inkdrop](https://www.inkdrop.info/) - Notebook app for Markdown lovers built on top of Electron.
-* [Joplin](https://joplinapp.org/) - Cross platform open-source notepad with markdown support and todo list manager with synchronisation capabilities. [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
-* [Logseq](https://logseq.com/) - Privacy-first, open-source knowledge base that works on top of local plain-text Markdown and Org-mode files. [![Open-Source Software][OSS Icon]](https://github.com/logseq/logseq) ![Freeware][Freeware Icon]
+* [Joplin](https://joplinapp.org/) - Cross-platform open-source notepad with markdown support and to-do list management. [![Open-Source Software][OSS Icon]](https://github.com/laurent22/joplin) ![Freeware][Freeware Icon]
+* [Logseq](https://logseq.com/) - Privacy-first, open-source knowledge base. [![OSS][OSS Icon]](https://github.com/logseq/logseq) ![Freeware][Freeware Icon]
 * [MarginNote 4](https://marginnote.com/) - In-depth PDF and EPUB reading, learning, managing and note taking app.
-* [massCode](https://github.com/massCodeIO/massCode) - Cross platform open-source code snippets manager for developers with markdown and mermaid support. [![Open-Source Software][OSS Icon]](https://github.com/massCodeIO/massCode) ![Freeware][Freeware Icon]
+* [massCode](https://masscode.io/) - Cross-platform open-source code snippets manager with markdown and mermaid support. [![Open-Source Software][OSS Icon]](https://github.com/massCodeIO/massCode) ![Freeware][Freeware Icon]
 * [MiaoYan](https://miaoyan.app/) - Lightweight Markdown app to help you write great sentences. 
 * [Notable](https://github.com/notable/notable) - The markdown-based note-taking app that doesn't suck.
 * [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html) - Note-taking app. ![Freeware][Freeware Icon]
 * [Notes](http://www.get-notes.com/) - Clean, simple note-taking app. [![Open-Source Software][OSS Icon]](https://github.com/nuttyartist/notes) ![Freeware][Freeware Icon]
 * [NotePlan 3](https://noteplan.co/) - Your tasks, notes, and calendar, plain-text markdown files.  [![App Store][app-store Icon]](https://apps.apple.com/en/app/noteplan-3/id1505432629)
 * [Noteship](https://noteship.com) - Turn notes into knowledge (spreadsheet view, heading summaries, etc.). Works offline, everything is saved locally. [![App Store][app-store Icon]](https://apps.apple.com/us/app/noteship/id1571711347?mt=12)
-* [Notion](https://www.notion.so/) - Notion is the all-in-one workspace. From notes, tasks, wikis, to database, Notion is all you need. Works great for teams and individuals.
+* [Notion](https://www.notion.so/) - All-in-one workspace for notes, tasks, wikis, and databases.
 * [OneNote](https://www.onenote.com/) - Note-taking app by Microsoft. ![Freeware][Freeware Icon]
 * [OutlineEdit 3](https://outlineedit.com) - Fully-featured outline editor, for everyone who loves great structured notes. [![App Store][app-store Icon]](https://apps.apple.com/us/app/outlineedit-3/id1608887438)
 * [Saber](https://saber.adil.hanney.org/) - Cross platform stylus and text notetaking app. Supports image and pdf imports, can sync. [![App Store][app-store Icon]](https://apps.apple.com/us/app/saber/id1671523739)[![Open-Source Software][OSS Icon]](https://github.com/adil192/saber)
-* [SideNotes](https://www.apptorium.com/sidenotes) - Quick notes on the screen side. Take notes while working with other apps. Use Markdown for text formatting.
+* [SideNotes](https://www.apptorium.com/sidenotes) - Quick notes on the screen side with Markdown support.
 * [Standard Notes](https://standardnotes.com/) - An end-to-end encrypted notes app for digitalists and professionals. [![Open-Source Software][OSS Icon]](https://github.com/standardnotes/app) ![Freeware][Freeware Icon]
 * [QOwnNotes](http://www.qownnotes.org/) - Open-source notepad with markdown support and todo list manager. [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
 * [Quick Note](https://quicknoteapp.com) - Colorful sticky notes in the Menu bar. [![App Store][app-store Icon]](https://apps.apple.com/in/app/quick-note-in-the-menu/id1472935217?mt=12)
-* [Quiver](http://happenapps.com/#quiver) - The Programmer's Notebook, lets you easily mix text, code, Markdown and LaTeX within one note, edit code with an awesome code editor and live preview Markdown and LaTeX.
-* [AliYuQue](https://www.yuque.com/install/desktop) - Cloud note-taking knowledge management, collaboration platform, Markdown based writing, support embedded flow chart, brain diagram, timing sequence, code rendering, Sketch board creation, personal knowledge sharing, etc. Compared to youdao cloud note and evernote similar products, which include all of its functions, support knowledge sharing and more powerful creation, collaboration and editor, it comes from alibaba ant financial.![Freeware][Freeware Icon]
+* [Quiver](http://happenapps.com/#quiver) - Mix text, code, Markdown, and LaTeX in one note with live preview.
 * [VNote](https://app.vnote.fun/) - A Qt-based application designed to provide a pleasant note-taking platform with excellent editing experience. [![Open-Source Software][OSS Icon]](https://github.com/vnotex/vnote/) ![Freeware][Freeware Icon]
 
 ### Journaling
@@ -156,62 +155,61 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 ### Writing
 
-* [novelWriter](https://github.com/vkbo/novelWriter) - an open source plain text editor designed for writing novels. It supports a minimal markdown-like syntax for formatting text. [![Open-Source Software][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
+* [novelWriter](https://github.com/vkbo/novelWriter) - Open-source plain text editor for writing novels with minimal markdown-like syntax. [![OSS][OSS Icon]](https://github.com/vkbo/novelWriter) ![Freeware][Freeware Icon]
 * [Scrivener](https://www.literatureandlatte.com/scrivener/overview/) - The quintessential word processor for writers.
 * [THORN](https://thorn.so) - All you need to power personal writing and website building.
 
 ### Ebooks
 
-* [Calibre](http://calibre-ebook.com/) - Free and open-source e-book computer software application suite which runs on multiple platforms, allows users to manage e-book collections as well as create, edit, and read e-books. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kovidgoyal/calibre)
+* [Calibre](http://calibre-ebook.com/) - Free, open-source e-book manager and reader. [![OSS][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
 * [Clearview](http://www.clearview-reader.com/clearview/) - Tabbed style e-book reader for PDF, EPUB (DRM free), CHM, and MOBI. [![App Store][app-store Icon]](https://apps.apple.com/us/app/clearview/id557090104?mt=12)
 * [iChm](https://github.com/NSGod/ichm) - Ebook reader for CHM (Microsoft Compiled HTML help) files. [![Open-Source Software][OSS Icon]](https://github.com/NSGod/ichm) ![Freeware][Freeware Icon]
 * [Kindle App](https://www.amazon.com/l/16571048011) - Amazon official reading app of kindle.
 * [Klib](http://klib.me/) - New way to manage highlights for Kindle and iBooks. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1196268448?mt=12&at=1000lv4R&ct=klib_me)
-* [Koodo Reader](https://www.koodoreader.com/en) - Koodo Reader is an all-in-one eBook reader for Windows, macOS, Linux, and the web, supporting over 15 formats. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/koodo-reader/koodo-reader)
-* [Scribus](https://www.scribus.net/) - Professional layout and publishing software supporting EPS and SVG import/export, and PDF support.  [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/scribus/) ![Freeware][Freeware Icon]
+* [Koodo Reader](https://www.koodoreader.com/en) - All-in-one eBook reader supporting over 15 formats. ![Freeware][Freeware Icon] [![OSS][OSS Icon]](https://github.com/koodo-reader/koodo-reader)
+* [Scribus](https://www.scribus.net/) - Professional layout and publishing software. [![OSS][OSS Icon]](https://sourceforge.net/projects/scribus/) ![Freeware][Freeware Icon]
 * [Sigil](https://sigil-ebook.com/) - Multi-platform EPUB ebook Editor. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Sigil-Ebook/Sigil)
-* [Simple Comic](https://apps.apple.com/us/app/simple-comic/id1497435571?mt=12) - EBook reader for graphic novels in PDF, CBZ, CBR format. Find command powered by Live Text on recent Macs   [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/Simple-Comic) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/simple-comic/id1497435571?mt=12)
+* [Simple Comic](https://apps.apple.com/us/app/simple-comic/id1497435571?mt=12) - EBook reader for PDF, CBZ, and CBR formats with Live Text search. [![Open-Source Software][OSS Icon]](https://github.com/MaddTheSane/Simple-Comic) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/simple-comic/id1497435571?mt=12)
 
 ### RSS
 
 * [Elytra](https://elytra.app) - A Simple & Private RSS Feed Reader with native rendering for macOS & iOS [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1433266971?pt=119194029&ct=awesomemac&mt=8)
 * [Feedy](https://krillapps.com/feedy/) - An elegant and lightweight RSS client and news reader for your Mac. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/feedy-rss-client/id588288104?ls=1&mt=12)
 * [Follow](https://github.com/RSSNext/Follow) 🧡 Next generation information browser. [![Open-Source Software][OSS Icon]](https://github.com/dyerc/Doughnut) ![Freeware][Freeware Icon]
-* [ReadKit](http://readkitapp.com/) 
-* [Leaf](http://www.rockysandstudio.com/) - Amazing news reader dedicated to help you enjoy your daily news and easily manage your subscriptions.
+* [Leaf](http://www.rockysandstudio.com/) - A news reader for managing subscriptions and enjoying daily news.
 * [NetNewsWire](https://ranchero.com/netnewswire/) - It’s a free and open source feed reader for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/brentsimmons/NetNewsWire)
 * [Doughnut](https://doughnutapp.com/) - Beautiful, open-source podcast catcher for Mac. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/dyerc/Doughnut)
-* [ReadKit](http://readkitapp.com/) - Mac read-later client supporting all major providers: Instapaper, Pocket and Readability. Even more, ReadKit is a full-featured RSS reader as well.
+* [ReadKit](http://readkitapp.com/) - Bookmark and RSS management client.
 * [Reeder 5](http://reederapp.com) - News reader for Feedbin, Feedly, Feed Wrangler and so on. [![App Store][app-store Icon]](https://apps.apple.com/pl/app/reeder-5/id1529448980?mt=12)
 * [Vienna](http://viennarss.github.io/) - RSS/Atom reader for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ViennaRSS/vienna-rss)
 
 ### Others
 
-* [SwifDoo PDF](https://www.swifdoo.com/) - The best PDF Editor/converter that’ll help you transform your PDF file, edit it, compress, or password-protect it in just a couple of simple steps
+* [SwifDoo PDF](https://www.swifdoo.com/) - PDF editor/converter for editing, compressing, and password-protecting PDFs.
 * [bindPDF](https://github.com/vishaltelangre/bindPDF) - Combine multiple PDF files into a single PDF file using a friendly UI. [![Open-Source Software][OSS Icon]](https://github.com/vishaltelangre/bindPDF) ![Freeware][Freeware Icon]
 * [CHM Reader](http://www.hewbo.com/chm-reader.html) - Read Compiled HTML (.chm) documents on your Mac. ![Freeware][Freeware Icon]
 * [Chmox](http://chmox.sourceforge.net/) - Read CHM documents on your Mac. ![Freeware][Freeware Icon]
 * [Highlights](https://highlightsapp.net) - The PDF Reader for Research on Mac, iPad & iPhone. ![Freeware][Freeware Icon]
 * [PDF Expert](https://pdfexpert.com/) - Read, annotate and edit PDFs, change text and images.
 * [PDF Pals](https://pdfpals.com) - Chat with PDF app for Mac. No file size limits!
-* [PDFgear](https://www.pdfgear.com/) - AI-integrated PDF editor providing view, edit, annotate, protect, convert, Copilot assistant, and more possibilities. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/pdfgear-pdf-editor-for-adobe/id1615523079)
+* [PDFgear](https://www.pdfgear.com/) - AI-integrated PDF editor. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/pdfgear-pdf-editor-for-adobe/id1615523079)
 * [PDF Reader Pro](http://www.pdfreaderpro.com) - You Can view, create, sign, convert and compress any PDF documents. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/pdf-reader-pro-your-pdf-office/id825459243?mt=12)
 * [Skim](http://skim-app.sourceforge.net) - PDF reader and note-taker for OS X. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/skim-app/) ![Freeware][Freeware Icon]
 * [SkyFonts](https://skyfonts.com/) - The simplest way to try, install, and manage fonts.
 * [Spillo](https://bananafishsoftware.com/products/spillo/) - Powerful, beautiful and amazingly fast Pinboard client for OS X.
 * [Tad](https://www.tadviewer.com) - Application for viewing and analyzing tabular data such as CSV files. [![Open-Source Software][OSS Icon]](https://github.com/antonycourtney/tad) ![Freeware][Freeware Icon]
 * [texifier](https://www.texifier.com/) - Great LaTeX editor for Mac with auto-update PDF and autocomplete LaTeX commands.
-* [UPDF](https://updf.com/) - Free PDF editor that makes it possible to read, annotate and edit PDFs, change text and images on Mac. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1619925971)
-* [Zotero](https://www.zotero.org/) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research. [![Open-Source Software][OSS Icon]](https://github.com/zotero/zotero/) ![Freeware][Freeware Icon]
+* [UPDF](https://updf.com/) - Free PDF editor for reading, annotating, and editing PDFs. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1619925971)
+* [Zotero](https://www.zotero.org/) - Free tool to collect, organize, annotate, cite, and share research. [![OSS][OSS Icon]](https://github.com/zotero/zotero/) ![Freeware][Freeware Icon]
 
 ## Developer Tools
 
 ### IDEs
 
 * [Android Studio](https://developer.android.com/studio/index.html) - The official IDE for Android, based on Intellij IDEA. [![Open-Source Software][OSS Icon]](http://tools.android.com/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/balsikandar/Android-Studio-Plugins#readme)
-* [CodeRunner](https://coderunnerapp.com) - A lightweight, multi-language programming text editor and IDE for quickly building, running and debugging code.
+* [CodeRunner](https://coderunnerapp.com) - Lightweight, multi-language programming text editor and IDE.
 * [Deco IDE](https://www.decoide.org) - The best IDE for building React Native apps. [![Open-Source Software][OSS Icon]](https://github.com/decosoftware/deco-ide) ![Freeware][Freeware Icon]
-* [Eclipse](https://www.eclipse.org) - Popular open-source IDE, mainly for Java but with plugin support for a wide array of languages and platforms. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+* [Eclipse](https://www.eclipse.org) - Popular open-source IDE for Java with plugin support for many languages. ![OSS][OSS Icon] ![Freeware][Freeware Icon]
 * [Espresso](http://espressoapp.com/) - The web editor for Mac is back. For people who make delightful, innovative and fast websites.
 * [JetBrains Toolbox App](https://www.jetbrains.com/toolbox/) - Manage installed JetBrains tools, download new ones and open recent projects. ![Freeware][Freeware Icon]
   * [AppCode](https://www.jetbrains.com/objc/) - Smart IDE for iOS/macOS development
@@ -223,13 +221,13 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
   * [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JVM languages. (**Free** for Students)
   * [PHPStorm](https://www.jetbrains.com/phpstorm/) - The Lightning-Smart PHP IDE.
   * [PyCharm](https://www.jetbrains.com/pycharm/) - Powerful Python IDE, which has professional version and community version.
-  * [Rider](https://www.jetbrains.com/rider/) - Cross-Platform C# IDE. It is an alternative to Visual Studio by Microsoft with the additional benefit of getting Resharper features that are not available on Visual Studio for Mac.
+  * [Rider](https://www.jetbrains.com/rider/) - Cross-platform C# IDE with Resharper features.
   * [WebStorm](http://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE by JetBrains. **FREE** for Students, check [here](https://www.jetbrains.com/student/) for more info.
 * [Haskell for Mac](http://haskellformac.com) - A Modern Development Environment for Haskell. [![App Store][app-store Icon]](https://itunes.apple.com/app/haskell-development-platform/id841285201)
-* [NetBeans IDE](https://netbeans.org/) - Free and open-source IDE, mainly used for Java development, but supports many other languages and frameworks. [![Open-Source Software][OSS Icon]](https://github.com/apache/netbeans) ![Freeware][Freeware Icon]
-* [Nova](https://nova.app/) - From the creators of Coda and Transmit, bring you a beautiful, fast, flexible, native Mac code editor from [Panic](https://panic.com/).
+* [NetBeans IDE](https://netbeans.org/) - Free, open-source IDE for Java and other languages. [![OSS][OSS Icon]](https://github.com/apache/netbeans) ![Freeware][Freeware Icon]
+* [Nova](https://nova.app/) - Beautiful, fast, flexible Mac code editor from [Panic](https://panic.com/).
 * [Visual Studio Code](https://code.visualstudio.com/) - Microsoft's free & open-source editor, TypeScript friendly, [VSCode Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/editor-plugin.md#vscode-plugin). [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/viatsko/awesome-vscode#readme)
-* [Xamarin Studio](https://www.visualstudio.com/vs/visual-studio-mac/) - Free cross platform C# IDE. Xamarin Studio supports iOS, Android and .Net development [![Open-Source Software][OSS Icon]](https://github.com/mono/monodevelop) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/benoitjadinon/awesome-xamarin#readme)
+* [Xamarin Studio](https://www.visualstudio.com/vs/visual-studio-mac/) - Free cross-platform C# IDE for iOS, Android, and .Net. [![OSS][OSS Icon]](https://github.com/mono/monodevelop) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/benoitjadinon/awesome-xamarin#readme)
 * [Xcode](https://developer.apple.com/xcode/) - Essential IDE for iOS/macOS development. [![App Store][app-store Icon]](https://itunes.apple.com/app/id497799835)
 * [Zed](https://zed.dev/) - A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. [![Open-Source Software][OSS Icon]](https://github.com/zed-industries/zed) ![Freeware][Freeware Icon]
 * [Spyder](https://www.spyder-ide.org/) - Powerful scientific environment written in Python, for Python.
@@ -237,21 +235,21 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 ### Developer Utilities
 
 * [BetterRename](http://www.publicspace.net/BetterRename/) - The most powerful and complete Mac file renaming application on the market. [![App Store][app-store Icon]](https://apps.apple.com/us/app/better-rename-11/id1501308038)
-* [Beyond Compare](http://www.scootersoftware.com/) - Compare files and folders using simple, powerful commands that focus on the differences you are interested in and ignore those you are not. ![Freeware][Freeware Icon]
+* [Beyond Compare](http://www.scootersoftware.com/) - Compare files and folders with powerful commands. ![Freeware][Freeware Icon]
 * [Bidbar](https://www.getbidbar.com) - Manage bash commands from the menu bar and run them with keyboard shortcuts.
-* [Cacher](https://www.cacher.io/) - Cloud-based, team-enabled code snippet manager with Gist sync, VSCode/Atom/Sublime packages and Mac/Windows/Linux/Web clients.
-* [CodeKit](https://codekitapp.com/) - Web development tool which can automatically compile Less, Sass, CoffeeScript, TypeScript, Jade and JavaScript, auto-refresh browsers and much more.
-* [CodeMenu](https://extiri.com/codemenu.html) - An advanced snippets manager with features like side window, access in IDEs using Suggestions app, natural language search, placeholders, code running, HTML preview and more.
+* [Cacher](https://www.cacher.io/) - Cloud-based code snippet manager with Gist sync and multi-platform support.
+* [CodeKit](https://codekitapp.com/) - Web development tool for compiling and auto-refreshing.
+* [CodeMenu](https://extiri.com/codemenu.html) - Advanced snippets manager with IDE integration, natural language search, and more.
 * [Conduktor](https://www.conduktor.io) - Kafka desktop client.  ![Freeware][Freeware Icon]
 * [CubicBezier](https://github.com/isaced/CubicBezier) - CubicBezier Generator for macOS. [![Open-Source Software][OSS Icon]](https://github.com/isaced/CubicBezier) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/cubicbezier/id1228492117?mt=12)
 * [Cutter](https://cutter.re/) - Powerful multi-platform reverse engineering tool. ![Open-Source Software][OSS Icon]
-* [DevHub](https://wangchujiang.com/DevHub/) - A feature-rich offline application, meticulously crafted to support developers in their daily tasks.  ![Open-Source Software][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/devhub/id6476452351)
+* [DevHub](https://wangchujiang.com/DevHub/) - Feature-rich offline app for developers. ![OSS][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/devhub/id6476452351)
 * [Dash](https://kapeli.com/dash) - Awesome API documentation browser and code snippet manager. ![Freeware][Freeware Icon]
 * [Deeplink Buddy](https://deeplinkbuddy.com) - Deeplink managers, made by developer for developers.
 * [DiffMerge](http://sourcegear.com/diffmerge/) - Application to visually compare and merge files. ![Freeware][Freeware Icon]
 * [EnvPane](https://github.com/hschmidt/EnvPane) - OS X preference pane for environment variables. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hschmidt/EnvPane)
 * [FinderGo](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/onmyway133/FinderGo)
-* [Finicky](https://johnste.github.io/finicky/) - Application that allows you to set up rules that decide which browser is opened for every link that would open the default browser. [![Open-Source Software][OSS Icon]](https://github.com/johnste/finicky) ![Freeware][Freeware Icon]
+* [Finicky](https://johnste.github.io/finicky/) - Set rules to decide which browser opens each link. [![OSS][OSS Icon]](https://github.com/johnste/finicky) ![Freeware][Freeware Icon]
 * [Gas Mask](https://github.com/2ndalpha/gasmask) - Simple hosts file manager for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/2ndalpha/gasmask)
 * [Gemini](https://macpaw.com/gemini) - Intelligent duplicate file finder.
 * [Hex Fiend](https://ridiculousfish.com/hexfiend/) - Fast and clever open source hex editor. [![Open-Source Software][OSS Icon]](https://github.com/ridiculousfish/HexFiend/) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/hex-fiend/id1342896380)
@@ -259,21 +257,21 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Icon Preview](https://sindresorhus.com/icon-preview) - Preview your app icon and menu bar icon. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id6480373509)
 * [iHosts](https://en.toolinbox.net/iHosts/) - The only `/etc/hosts` editor on Mac App Store. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1102004240?mt=12)
 * [ILLA Cloud](https://www.illacloud.com/) - Low-code internal tool builder. [![Open-Source Software][OSS Icon]](https://github.com/illacloud/illa-builder)
-* [ImHex](https://imhex.werwolv.net/) - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM. [![Open-Source Software][OSS Icon]](https://github.com/WerWolv/ImHex/) ![Freeware][Freeware Icon]
+* [ImHex](https://imhex.werwolv.net/) - Hex Editor for reverse engineers and programmers. [![OSS][OSS Icon]](https://github.com/WerWolv/ImHex/) ![Freeware][Freeware Icon]
 * [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Free website link checker for Mac. ![Freeware][Freeware Icon]
-* [Kaleidoscope](https://www.kaleidoscopeapp.com/) - Powerful compare tool for text, images and folders. Works perfectly with git, svn or other version control tools.
+* [Kaleidoscope](https://www.kaleidoscopeapp.com/) - Compare text, images, and folders.
 * [Koala](http://koala-app.com) - GUI application for Less, Sass, Compass and CoffeeScript compilation. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/oklai/koala/)
-* [Loca Studio](https://www.cunningo.com/locastudio/index.html) - Analyze, review, and edit app translations. Supports Xcode Localization Catalog (xcloc) and XLIFF 1.2 file formats. [![App Store][app-store Icon]](https://apps.apple.com/app/id1465684707)
+* [Loca Studio](https://www.cunningo.com/locastudio/index.html) - Analyze, review, and edit app translations. [![App Store][app-store Icon]](https://apps.apple.com/app/id1465684707)
 * [MacSystemColors](https://github.com/kaunteya/MacSystemColors) - Mac app that shows all system colors in light and dark mode for Cocoa developers. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/kaunteya/MacSystemColors)
-* [MJML](https://mjmlio.github.io/mjml-app/) - Framework that utilizes a semantic syntax and a rich standard components library, which allow users to easily create responsive emails. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/mjmlio/mjml)
-* [PaintCode](https://www.paintcodeapp.com/) - PaintCode is a unique vector drawing app that generates Objective-C or Swift code in real time, acting as a bridge between developers and graphic designers.
+* [MJML](https://mjmlio.github.io/mjml-app/) - Create responsive emails with a semantic syntax and rich components. [![OSS][OSS Icon]](https://github.com/mjmlio/mjml) ![Freeware][Freeware Icon]
+* [PaintCode](https://www.paintcodeapp.com/) - Vector drawing app that generates Objective-C or Swift code in real time.
 * [Pasteboard Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - Inspect the system pasteboards. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/Pasteboard-Viewer) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1499215709)
 * [PPRows](https://github.com/jkpang/PPRows) - Application to calculate how many lines of code you write. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/jkpang/PPRows)
-* [PushMate](https://pushmate.app) - PushMate is a MacOS app that solves common push notification problems by ensuring your push payloads are correct.
+* [PushMate](https://pushmate.app) - Solves common push notification problems on macOS.
 * [Responsively](https://responsively.app) - A must-have devtool for web developers for quicker responsive web development. [![Open-Source Software][OSS Icon]](https://github.com/responsively-org/responsively-app) ![Freeware][Freeware Icon]
 * [SCM Breeze](https://github.com/scmbreeze/scm_breeze) - Set of shell scripts (for bash and zsh) that enhance your interaction with git. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/scmbreeze/scm_breeze)
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - Terminal emulation which supports SSH, Telnet or other protocols.
-* [Site Sucker](https://ricks-apps.com/osx/sitesucker/) - SiteSucker is a Macintosh application that automatically downloads websites from the Internet. [![App Store][app-store Icon]](https://itunes.apple.com/in/app/sitesucker/id442168834?mt=12)
+* [Site Sucker](https://ricks-apps.com/osx/sitesucker/) - Automatically downloads websites. [![App Store][app-store Icon]](https://itunes.apple.com/in/app/sitesucker/id442168834?mt=12)
 * [SnippetsLab](https://www.renfei.org/snippets-lab/) - Easy-to-use code snippets manager.
 * [Solarized](http://ethanschoonover.com/solarized) - Clean and beautiful color theme. Works well with iTerm, JetBrains products, Vim etc.
 * [StarUML](http://staruml.io) - Powerful UML app.
@@ -284,11 +282,11 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [TeXstudio](http://www.texstudio.org) - Integrated writing environment for creating LaTeX documents. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/texstudio/) ![Freeware][Freeware Icon]
 * [Timelane](http://timelane.tools) - Visually profile your asynchronous code. [![Open-Source Software][OSS Icon]](https://github.com/icanzilb/Timelane) ![Freeware][Freeware Icon]
 * [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - Use the Touch Bar on any Mac. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
-* [Visual Paradigm](https://www.visual-paradigm.com/) - All-in-one UML, SysML, BPMN Modeling Platform for Agile, EA TOGAF ADM Process Management.
+* [Visual Paradigm](https://www.visual-paradigm.com/) - All-in-one UML, SysML, BPMN modeling platform.
 * [Woodpecker](http://www.woodpeck.cn) - View iOS app's Sandbox files, UserDefaults, Keychain items on a Mac. [![App Store][app-store Icon]](https://itunes.apple.com/app/woodpecker/id1333548463)
 * [WWDC](https://github.com/insidegui/WWDC) - The Mac OS unofficial WWDC app. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/insidegui/WWDC)
 * [Xcodes](https://github.com/RobotsAndPencils/XcodesApp) - Install and switch between multiple versions of Xcode. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/RobotsAndPencils/XcodesApp)
-* [XCSnippetsApp](https://github.com/MarcoEidinger/XCSnippetsApp) - Explore code snippets from the Swift and iOS community, view and edit the snippets before adding them conveniently to Xcode. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/MarcoEidinger/XCSnippetsApp)
+* [XCSnippetsApp](https://github.com/MarcoEidinger/XCSnippetsApp) - Explore, view, and edit Swift and iOS code snippets for Xcode. [![OSS][OSS Icon]](https://github.com/MarcoEidinger/XCSnippetsApp) ![Freeware][Freeware Icon]
 * [zeplin](https://www.zeplin.io/) - Collaboration tool for work between designers and developers. ![Freeware][Freeware Icon]
 * [ZOC Terminal](https://www.emtec.com/zoc/index.html) - Terminal emulator which supports SSH, telnet, connections and other protocols.
 * [Nib Unlocker](https://apps.apple.com/by/app/nib-unlocker/id1475697086) - .nib to .xib converter [![App Store][app-store Icon]](https://apps.apple.com/by/app/nib-unlocker/id1475697086?mt=12)
@@ -305,14 +303,14 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - Free, open-source, native Apple OS X app for testing HTTP/REST endpoints. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
 * [Insomnia](https://insomnia.rest/) - The most intuitive cross-platform REST API Client. [![Open-Source Software][OSS Icon]](https://github.com/getinsomnia/insomnia) ![Freeware][Freeware Icon]
 * [Paw](https://paw.cloud/) - Advanced HTTP client.
-* [Postman](https://www.getpostman.com) - Powerful GUI platform to make your API development faster & easier, from building API requests through testing, documentation and sharing.![Freeware][Freeware Icon]
-* [Katalon Studio](https://www.katalon.com) - Simplify API, Web, Mobile Automation Tests Free. Robust. Cross-platform. Automation testers from 160 countries with channels, GitHub repositories.![Freeware][Freeware Icon]
+* [Postman](https://www.getpostman.com) - GUI platform for API development. ![Freeware][Freeware Icon]
+* [Katalon Studio](https://www.katalon.com) - Simplify API, Web, and Mobile Automation Tests. ![Freeware][Freeware Icon]
 * [HTTPie](https://httpie.io/) - HTTPie is making APIs simple and intuitive for those building the tools of our time.![Freeware][Freeware Icon]
 * [bruno](https://www.usebruno.com/) - Bruno is a offline-only, fast and git-friendly opensource API client.![Freeware][Freeware Icon]
 
 ### Network Analysis
 
-* [Charles](https://www.charlesproxy.com/) - HTTP proxy / HTTP monitor / Reverse Proxy that enables a developer to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet.
+* [Charles](https://www.charlesproxy.com/) - HTTP proxy/monitor to view HTTP and HTTPS traffic.
 * [James](https://github.com/james-proxy/james) - Open-source proxy tool for checking and mapping requests with http as well as https. [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) - Network monitor with a world map for visualizing network connections.
 * [mitmproxy](https://mitmproxy.org/) - Interactive intercepting HTTP proxy for penetration testers and software developers. [![Open-Source Software][OSS Icon]](https://github.com/james-proxy/james) ![Freeware][Freeware Icon]
@@ -331,12 +329,12 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. [![Open-Source Software][OSS Icon]](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
 * [archey-osx](http://obihann.github.io/archey-osx/) - An archey script for OS X. [![Open-Source Software][OSS Icon]](https://github.com/obihann/archey-osx) ![Freeware][Freeware Icon]
 * [asciinema](https://github.com/asciinema/asciinema) - Easily record terminal sessions and replay them in a terminal as well as in a web browser. [![Open-Source Software][OSS Icon]](https://github.com/asciinema/asciinema) ![Freeware][Freeware Icon]
-* [autojump](https://github.com/wting/autojump/wiki) - Replace `cd` with an intelligent autojump to easily navigate directories from the command line. [![Open-Source Software][OSS Icon]](https://github.com/wting/autojump) ![Freeware][Freeware Icon]
+* [autojump](https://github.com/wting/autojump/wiki) - Replace `cd` with intelligent autojump. [![OSS][OSS Icon]](https://github.com/wting/autojump) ![Freeware][Freeware Icon]
 * [bash-it](https://github.com/Bash-it/bash-it) - Shameless ripoff of oh-my-zsh for bash. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [bat](https://github.com/sharkdp/bat) - A `cat(1)` clone with syntax highlighting and Git integration. [![Open-Source Software][OSS Icon]](https://github.com/sharkdp/bat) ![Freeware][Freeware Icon]
 * [bclm](https://github.com/zackelia/bclm) - macOS command-line utility to limit max battery charge. [![Open-Source Software][OSS Icon]](https://github.com/zackelia/bclm) ![Freeware][Freeware Icon]
-* [ClamAV](https://www.clamav.net/) - A cross-platform, open source antivirus engine for detecting trojans, viruses, malware & other malicious threats. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Cisco-Talos/clamav/)
-* [cmatrix](https://github.com/abishekvashok/cmatrix/) - CMatrix is based on the screensaver from The Matrix website. It shows text flying in and out in a terminal like as seen in "The Matrix" movie. It can scroll lines all at the same rate or asynchronously and at a user-defined speed. [![Open-Source Software][OSS Icon]](https://github.com/abishekvashok/cmatrix/) ![Freeware][Freeware Icon]
+* [ClamAV](https://www.clamav.net/) - Cross-platform, open-source antivirus engine. [![OSS][OSS Icon]](https://github.com/Cisco-Talos/clamav/) ![Freeware][Freeware Icon]
+* [cmatrix](https://github.com/abishekvashok/cmatrix/) - Terminal screensaver inspired by "The Matrix" movie. [![OSS][OSS Icon]](https://github.com/abishekvashok/cmatrix/) ![Freeware][Freeware Icon]
 * [cmus](https://cmus.github.io/) - Small, fast and powerful console music player for Unix-like operating systems. [![Open-Source Software][OSS Icon]](https://github.com/cmus) ![Freeware][Freeware Icon]
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - Good looking terminal emulator which mimics the old cathode display. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swordfish90/cool-retro-term)
 * [CSV2Notion Neo](https://github.com/TheAcharya/csv2notion-neo) - Upload & Merge CSV or JSON Data with Images to Notion Database. [![Open-Source Software][OSS Icon]](https://github.com/TheAcharya/csv2notion-neo) ![Freeware][Freeware Icon]
@@ -348,7 +346,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Glances](https://github.com/nicolargo/glances) - Glances is a cross-platform curses-based system monitoring tool. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nicolargo/glances)
 * [Go2Shell](https://itunes.apple.com/app/go2shell/id445770608?mt=12) - Go2Shell opens a terminal window to the current directory in Finder. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/go2shell/id445770608?mt=12)
 * [htop](https://github.com/hishamhm/htop) - htop is an interactive text-mode process viewer for Unix systems. It aims to be a better 'top'. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hishamhm/htop)
-* [httpie](https://httpie.org) - Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. [![Open-Source Software][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
+* [httpie](https://httpie.org) - Modern command line HTTP client. [![OSS][OSS Icon]](https://github.com/jakubroztocil/httpie) ![Freeware][Freeware Icon]
 * [hyper](https://hyper.is) - A terminal built on web technologies. [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) ![Freeware][Freeware Icon]
 * [iTerm2](http://www.iterm2.com) - iTerm2 is an amazing terminal emulator for OS X. [![Open-Source Software][OSS Icon]](https://github.com/gnachman/iTerm2) ![Freeware][Freeware Icon]
 * [job](https://github.com/liujianping/job) - JOB, make your short-term command as a long-term job. [![Open-Source Software][OSS Icon]](https://github.com/liujianping/job) ![Freeware][Freeware Icon]
@@ -363,8 +361,10 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [mycli](https://github.com/dbcli/mycli) - CLI for MySQL that can do auto-completion and syntax highlighting. [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) ![Freeware][Freeware Icon]
 * [ndm](https://720kb.github.io/ndm/) - Manage [npm](http://npmjs.org/) straight from the couch. [![Open-Source Software][OSS Icon]](https://github.com/720kb/ndm) ![Freeware][Freeware Icon]
 * [nushell](https://github.com/nushell/nushell) - nushell is a modern, GitHub-era shell written in Rust. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsh/) ![Freeware][Freeware Icon]
-* [nvm](https://github.com/nvm-sh/nvm) - Node Version Manager is a POSIX-compliant bash script to manage multiple active node.js versions. [![Open-Source Software][OSS Icon]](https://github.com/nvm-sh/nvm) ![Freeware][Freeware Icon]
-* [pgcli](https://www.pgcli.com) - Pgcli is a command line interface for Postgres with auto-completion and syntax highlighting. [![Open-Source Software][OSS Icon]](https://github.com/dbcli/pgcli) ![Freeware][Freeware Icon]
+* [nvm](https://github.com/nvm-sh/nvm) - POSIX-compliant bash script to manage multiple active node.js versions. [![OSS][OSS Icon]](https://github.com/nvm-sh/nvm) ![Freeware][Freeware Icon]
+* [pgcli](https://www.pgcli.com) - Pgcli is a command line interface for Postgres with auto-completion and syntax 
+* [OpenRecall](https://github.com/openrecall/openrecall) - Access your digital history, enhance memory and productivity, while maintaining privacy. [![OSS][OSS Icon]](https://github.com/openrecall/openrecall) ![Freeware][Freeware Icon]
+highlighting. [![Open-Source Software][OSS Icon]](https://github.com/dbcli/pgcli) ![Freeware][Freeware Icon]
 * [Rebound](https://github.com/shobrook/rebound/) - Instantly browse Stack Overflow results in your terminal when you get a compiler error. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [ripgrep (rg)](https://github.com/BurntSushi/ripgrep) - Very fast text searching tool similar to (but faster than) ack, ag or grep ![Freeware][Freeware Icon]
 * [Serial](https://www.decisivetactics.com/products/serial/) - Full-featured serial terminal for the Mac.
@@ -378,7 +378,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [TextQL](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV. [![Open-Source Software][OSS Icon]](https://github.com/dinedal/textql) ![Freeware][Freeware Icon]
 * [thefuck](https://github.com/nvbn/thefuck) - A interesting software that corrects errors in previous console commands. [![Open-Source Software][OSS Icon]](https://github.com/nvbn/thefuck)
 * [tldr](https://tldr.sh/) - Collaborative cheatsheets for console commands. [![Open-Source Software][OSS Icon]](https://github.com/tldr-pages/tldr) ![Freeware][Freeware Icon]
-* [tmux](https://github.com/tmux/tmux) - "Terminal multiplexer", it enables a number of terminals (or windows) to be accessed and controlled from a single terminal. tmux is intended to be a simple, modern, BSD-licensed alternative to programs such as GNU screen. [![Open-Source Software][OSS Icon]](https://github.com/tmux/tmux)
+* [tmux](https://github.com/tmux/tmux) - Terminal multiplexer to manage multiple terminals from a single terminal. [![OSS][OSS Icon]](https://github.com/tmux/tmux)
 * [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily. [![Open-Source Software][OSS Icon]](https://github.com/tmuxinator/tmuxinator)
 * [trash](https://github.com/sindresorhus/trash) - Move files and directories to the trash. ![Open-Source Software][OSS Icon]
 * [VisiData](https://visidata.org) - Terminal spreadsheet multitool for discovering and arranging data. [![Open-Source Software][OSS Icon]](https://github.com/saulpw/visidata) ![Freeware][Freeware Icon]
@@ -395,16 +395,16 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 * [AppJS](http://appjs.com/) - Lightweight JavaScript UI library for creating mobile webapps that behave like native apps. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/appjs/appjs)
 * [create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/create-dmg) ![Freeware][Freeware Icon]
-* [Electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine. [![Open-Source Software][OSS Icon]](https://github.com/pojala/electrino) ![Freeware][Freeware Icon]
+* [Electrino](https://github.com/pojala/electrino) - Desktop runtime for web apps using the system's browser engine. [![OSS][OSS Icon]](https://github.com/pojala/electrino) ![Freeware][Freeware Icon]
 * [Electron](http://electron.atom.io) - Build cross platform desktop application with JavaScript, HTML and CSS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/electron/electron)
-* [ionic](http://ionicframework.com/) - Build amazing native and progressive web apps with Angular and open web technologies. One app running on everything. [![Open-Source Software][OSS Icon]](https://github.com/driftyco/ionic) ![Freeware][Freeware Icon]
-* [MacGap](http://macgapproject.github.io/) - Provides a lightweight JavaScript API for OS X integration, such as displaying native notifications or writing data to a file. [![Open-Source Software][OSS Icon]](https://github.com/MacGapProject) ![Freeware][Freeware Icon]
-* [nw.js](http://nwjs.io) - Build desktop application with HTML and JavaScript. It lets you call all `Node.js` modules directly from DOM and enables a new way of writing applications with all Web technologies. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/nwjs/nw.js)
+* [ionic](http://ionicframework.com/) - Build native and web apps with Angular and open web technologies. [![OSS][OSS Icon]](https://github.com/driftyco/ionic) ![Freeware][Freeware Icon]
+* [MacGap](http://macgapproject.github.io/) - Lightweight JavaScript API for OS X integration. [![OSS][OSS Icon]](https://github.com/MacGapProject) ![Freeware][Freeware Icon]
+* [nw.js](http://nwjs.io) - Build desktop apps with HTML and JavaScript. [![OSS][OSS Icon]](https://github.com/nwjs/nw.js) ![Freeware][Freeware Icon]
 * [Qt](https://www.qt.io) - Cross-platform application framework.
 * [React Native for Ubuntu](https://github.com/CanonicalLtd/react-native) - Build Ubuntu desktop apps using React Native. [![Open-Source Software][OSS Icon]](https://github.com/CanonicalLtd/react-native) ![Freeware][Freeware Icon]
 * [React Native macOS](https://github.com/ptmt/react-native-desktop) - Build OS X desktop apps using React Native and Cocoa. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/ptmt/react-native-desktop)
 * [react-desktop](http://reactdesktop.js.org) - React UI Components for macOS Sierra. [![Open-Source Software][OSS Icon]](https://github.com/gabrielbull/react-desktop) ![Freeware][Freeware Icon]
-* [ReactXP](https://microsoft.github.io/reactxp/) - Microsoft official production, support platform Web, iOS, Android and Windows UWP is still an ongoing work. [![Open-Source Software][OSS Icon]](https://github.com/microsoft/reactxp) ![Freeware][Freeware Icon]
+* [ReactXP](https://microsoft.github.io/reactxp/) - Microsoft platform for Web, iOS, Android, and Windows UWP. [![OSS][OSS Icon]](https://github.com/microsoft/reactxp) ![Freeware][Freeware Icon]
 
 ### Version Control
 
@@ -432,9 +432,9 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Docker](https://www.docker.com/) - Powerful, performs operating-system-level virtualization. [![Open-Source Software][OSS Icon]](https://github.com/docker) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/veggiemonk/awesome-docker#readme)
 * [MacVirtue](https://naden.co) - Run free and unlimited Virtual Machines on your Mac.
 * [Multipass](https://multipass.run/) - Ubuntu VMs on demand for any workstation. [![Open-Source Software][OSS Icon]](https://github.com/canonical/multipass)
-* [OrbStack](https://orbstack.dev/) - OrbStack is a fast, light, and simple way to run Docker containers and Linux machines on macOS. ![Freeware][Freeware Icon]
+* [OrbStack](https://orbstack.dev/) - Fast, light, and simple way to run Docker containers and Linux machines on macOS. ![Freeware][Freeware Icon]
 * [Parallels](http://www.parallels.com/) - Powerful, easy-to-use VM. No free upgrade for each new Mac OS.
-* [Rancher Desktop](https://rancherdesktop.io) - Rancher Desktop is an app that provides container management and Kubernetes on the desktop. [![Open-Source Software][OSS Icon]](https://github.com/rancher-sandbox/rancher-desktop/blob/main/LICENSE)
+* [Rancher Desktop](https://rancherdesktop.io) - Container management and Kubernetes on the desktop. [![OSS][OSS Icon]](https://github.com/rancher-sandbox/rancher-desktop/blob/main/LICENSE)
 * [Lima](https://github.com/lima-vm/lima) - Lima launches Linux virtual machines with automatic file sharing and port forwarding. [![Open-Source Software][OSS Icon]](https://github.com/lima-vm/lima)
 * [QEMU](https://www.qemu.org/) - A free and open-source emulator and virtualizer that can perform hardware virtualization. [![Open-Source Software][OSS Icon]](https://github.com/qemu/qemu) ![Freeware][Freeware Icon]
 * [UTM](https://mac.getutm.app/) - UTM is an easy-to-use GUI for QEMU and can run ARM64, x64 and other VMs on M1 Macs. [![Open-Source Software][OSS Icon]](https://github.com/utmapp/UTM)
@@ -446,18 +446,18 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 ### Databases
 
 * [Apache Directory Studio](https://directory.apache.org/studio/) - LDAP browser and Active Directory client. [![Open-Source Software][OSS Icon]](https://directory.apache.org/sources.html) ![Freeware][Freeware Icon]
-* [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/) - Cross-platform database tool for using on Microsoft family on-premises and cloud data platforms such as MSSQL Server ![Freeware][Freeware Icon]
+* [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/) - Cross-platform database tool for Microsoft data platforms. ![Freeware][Freeware Icon]
 * [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - A faster, better and more stable redis desktop manager.[![Open-Source Software][OSS Icon]](https://directory.apache.org/sources.html)![Freeware][Freeware Icon]
 * [Base 2](http://menial.co.uk/base/) - Application for creating, designing, editing and browsing SQLite 3 database files.
 * [Beekeeper Studio](https://www.beekeeperstudio.io) - Smooth SQL editor and database manager [![Open-Source Software][OSS Icon]](https://github.com/beekeeper-studio/beekeeper-studio) ![Freeware][Freeware Icon]
 * [Bdash](https://github.com/bdash-app/bdash) - Modern SQL client application, supports MySQL, PostgreSQL (Redshift) and  BigQuery.[![Open-Source Software][OSS Icon] ](https://github.com/bdash-app/bdash) ![Freeware][Freeware Icon]
 * [Chrome MySQL Admin](https://github.com/yoichiro/chrome_mysql_admin) - Powerful Chrome app to manage your MySQL. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
 * [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor) - Core Data Editor lets you easily view, edit and analyze applications‘ data. [![Open-Source Software][OSS Icon]](https://github.com/luin/medis) ![Freeware][Freeware Icon]
-* [Dataflare](https://dataflare.app) - Simple and easy-to-use database client that supports Postgres, MySQL, DuckDB, libSQL, Cloudflare D1, and more.
+* [Dataflare](https://dataflare.app) - Simple database client supporting Postgres, MySQL, DuckDB, libSQL, Cloudflare D1, and more.
 * [DB Browser for SQLite](http://sqlitebrowser.org/) - Official home of the DB Browser for SQLite. [![Open-Source Software][OSS Icon]](https://github.com/sqlitebrowser/sqlitebrowser) ![Freeware][Freeware Icon]
 * [DBeaver](https://dbeaver.io/) - Universal SQL Client.
 * [ElectroCRUD](http://garrylachman.github.io/ElectroCRUD/) - Modern MySQL CRUD application. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/garrylachman/ElectroCRUD)
-* [FastoNoSQL](https://fastonosql.com/) - Cross-platform GUI client for Redis, Memcached, SSDB, LevelDB, RocksDB, UnQLite, LMDB, ForestDB, Pika and Dynomite key-value databases. [![Open-Source Software][OSS Icon]](https://github.com/fastogt/fastonosql) ![Freeware][Freeware Icon]
+* [FastoNoSQL](https://fastonosql.com/) - Cross-platform GUI client for various key-value databases. [![OSS][OSS Icon]](https://github.com/fastogt/fastonosql) ![Freeware][Freeware Icon]
 * [FastoRedis](https://fastoredis.com/) - Cross-platform professional GUI management tool for Redis. [![Open-Source Software][OSS Icon]](https://github.com/fastogt/fastoredis) ![Freeware][Freeware Icon]
 * [JackDB](https://www.jackdb.com/) - Secure, collaborative environment for your queries and data-driven insights. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
 * [Keylord](https://protonail.com) - Desktop GUI client for Redis, Bolt, LevelDB and Memcached key-value databases.
@@ -465,9 +465,9 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Medis](http://getmedis.com) - GUI Manager for Redis. [![Open-Source Software][OSS Icon]](https://github.com/luin/medis)
 * [Mingo](https://mingo.io/) - Easy to use MongoDB GUI with mind-blowing features.
 * [mongoDB.app](https://gcollazo.github.io/mongodbapp/) - The easiest way to get started with mongoDB on the Mac. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/gcollazo/mongodbapp)
-* [MongoDB](https://www.mongodb.com) - MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need. [![Open-Source Software][OSS Icon]](https://github.com/gcollazo/mongodbapp) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/ramnes/awesome-mongodb#desktop)
+* [MongoDB](https://www.mongodb.com) - Scalable, flexible document database with querying and indexing. [![OSS][OSS Icon]](https://github.com/gcollazo/mongodbapp) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/ramnes/awesome-mongodb#desktop)
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - The official MySQL GUI.
-* [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - Powerful and cost-effective database design tool which helps you build high-quality conceptual, logical and physical data models.
+* [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - Cost-effective database design tool for high-quality data models.
 * [neo4j](https://neo4j.com) - The leading graph database! [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/neo4j/neo4j)
 * [pgMagic🪄](https://pgmagic.app/?ref=awesomemac) - Chat to Postgres in natural language or SQL.
 * [pgModeler](https://pgmodeler.io) -  pgModeler is an open source data modeling tool designed for PostgreSQL. [![Open-Source Software][OSS Icon]](https://github.com/pgmodeler/pgmodeler) ![Freeware][Freeware Icon]
@@ -494,8 +494,8 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Professional graphic design software for Mac.
 * [Affinity Photo](https://affinity.serif.com/en-us/photo/) - Professional image editing software for Mac.
 * [Alchemy](http://al.chemy.org/) - Experimental, open-source drawing application with an emphasis on creating conceptual art. [![Open-Source Software][OSS Icon]](http://svn.al.chemy.org/)
-* [Amadine](https://amadine.com) - A vector drawing app that has everything a graphic designer needs wrapped in an uncluttered and intuitive interface.
-* [Art Text 3](https://www.belightsoft.com/art-text/) - This is graphic design software specifically tuned for lettering, typography, text mockups and various artistic text effects.
+* [Amadine](https://amadine.com) - Vector drawing app with an intuitive interface for graphic designers.
+* [Art Text 3](https://www.belightsoft.com/art-text/) - Graphic design software for lettering, typography, and text effects.
 * [Blender](https://www.blender.org/) - Free and open 3D creation software. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://developer.blender.org/)
 * [Colorpicker](https://colorpicker.fr/) - Colorpicker is a complete open-source colors manipulation tool with picking! [![Open-Source Software][OSS Icon]](https://github.com/toinane/colorpicker) ![Freeware][Freeware Icon]
 * [Draw.io](https://github.com/jgraph/drawio-desktop) Drawio is a diagramming and whiteboarding desktop app [![Open-Source Software][OSS Icon]](https://github.com/jgraph/drawio-desktop)
@@ -518,7 +518,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [RawTherapee](https://rawtherapee.com/) - A powerful cross-platform raw photo processing program! ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/Beep6581/RawTherapee)
 * [ScreenToLayers](https://github.com/duyquoc/ScreenToLayers) - Easily export your screen into a layered PSD file. [![Open-Source Software][OSS Icon]](https://github.com/duyquoc/ScreenToLayers) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/screentolayers/id1077317077)
 * [Sketch](http://www.sketchapp.com/) - Professional digital design for mac.
-    * [Sketch Cache Cleaner](https://yo-op.github.io/sketchcachecleaner/) - Deletes hidden Sketch history files that can take a lot of space on your hard drive and that you would probably never use. [![Open-Source Software][OSS Icon]](https://github.com/yo-op/sketchcachecleaner) ![Freeware][Freeware Icon]
+    * [Sketch Cache Cleaner](https://yo-op.github.io/sketchcachecleaner/) - Deletes hidden Sketch history files. [![OSS][OSS Icon]](https://github.com/yo-op/sketchcachecleaner) ![Freeware][Freeware Icon]
     * [Measure Plugin](http://utom.design/measure/) - Make it a fun to create spec for developers and teammates. [![Open-Source Software][OSS Icon]](https://github.com/utom/sketch-measure) ![Freeware][Freeware Icon]
     * [Sketch Toolbox Plugin Manager](http://sketchtoolbox.com/) - Simple plugin manager for Sketch. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/buzzfeed/Sketch-Toolbox)
     * [User Flows Plugin](https://abynim.github.io/UserFlows/) -  Generating flow diagrams from Artboards. [![Open-Source Software][OSS Icon]](https://github.com/abynim/UserFlows) ![Freeware][Freeware Icon]
@@ -531,7 +531,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 ### Prototyping and Mind-Mapping Tools
 
-* [Adobe XD (Experience Design)](http://www.adobe.com/products/experience-design.html) - First all-in-one cross-platform tool for designing and prototyping websites and mobile apps.
+* [Adobe XD](http://www.adobe.com/products/experience-design.html) - Tool for designing and prototyping websites and mobile apps.
 * [Axure RP 8](http://www.axure.com) - Prototypes, specifications and diagrams in one tool.
 * [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - Wire-framing tool that helps you work faster and smarter.
 * [Flinto](https://www.flinto.com/) - Quickly create interactive prototypes of mobile, desktop, or web apps.
@@ -584,7 +584,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 * [Amazing AI](https://sindresorhus.com/amazing-ai) - Generate images from text using Stable Diffusion. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1660147028)
 * [APNGb](https://github.com/mancunianetz/APNGb) - PNG image assembler/disassembler app. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
-* [Aspect](https://aspect.bildhuus.com) - Photo organization application with support for peer-to-peer based synchronization across devices. ![Freeware][Freeware Icon]
+* [Aspect](https://aspect.bildhuus.com) - Photo organization app with peer-to-peer sync. ![Freeware][Freeware Icon]
 * [Assetizr](https://assetizr.com) - Resizing images and optimising them for web and mobile applications.  ![Freeware][Freeware Icon]
 * [Couleurs](http://couleursapp.com) - Simple app for grabbing and tweaking the colors you see on your screen. ![Freeware][Freeware Icon]
 * [Diffusion Bee](https://diffusionbee.com/) - The easiest way to generate AI art on your computer with Stable Diffusion. [![Open-Source Software][OSS Icon]](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/) ![Freeware][Freeware Icon]
@@ -983,6 +983,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Numi](http://numi.io/) - Beautiful calculator app for Mac. ![Freeware][Freeware Icon]
 * [NextDNS](https://nextdns.io/) - The new firewall for the modern Internet. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/nextdns/id1464122853)
 * [Plash](https://sindresorhus.com/plash) - Make any website your desktop wallpaper. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/Plash) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/plash/id1494023538)
+* [rem](https://github.com/jasonjmcghee/rem) - An open source approach to locally record and enable searching everything you view on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/jasonjmcghee/rem) ![Freeware][Freeware Icon]
 * [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - An OS X app that adds a global delay of 1 second to the Cmd-Q shortcut. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/dteoh/SlowQuitApps)
 * [Speediness](https://sindresorhus.com/speediness) - Check your internet speed. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1596706466)
 * [Ultra TabSaver](https://github.com/Swift-open-source/UltraTabSaver) - The Open Source Tab Manager for Safari [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Swift-open-source/UltraTabSaver)      

@@ -238,6 +238,11 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) are themse
 * [Subtitling Conversion Framework (SCF)](https://github.com/Irt-Open-Source/scf) - Modules for converting subtitle formats, incl. EBU STL and EBU-TT files.
 * [Timed Text Toolkit (ttt)](https://github.com/skynav/ttt) - Tools that support/use the W3C Timed Text Markup Language (TTML).
 
+## Communication
+
+* [Intercom Manager](https://github.com/Eyevinn/intercom-manager) + [Intercom Frontend](https://github.com/Eyevinn/intercom-frontend) - Intercom system based on built by Eyevinn for SVT.
+* [DYI intercom](https://github.com/matiaspl/intercom) - Hardware + software intercom solution built around Murmur server and headless Mumble clients based on Rasperry Pi.
+
 ## Video Production
 
 * [AutoMix](https://github.com/InsanityRadio/automix/) - Web-based control surface for ATEM vision mixers with automated camera switching, designed for visualised radio.

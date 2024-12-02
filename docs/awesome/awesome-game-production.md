@@ -145,7 +145,7 @@ To stay up-to-date, consider subscribing to all or some of the below resources. 
 ### Newsletters
 
 - [Deconstructor of Fun](https://www.deconstructoroffun.com/) - Not directly production related, but offers in-depth analysis on recent gamedev events, e.g. Brawl Stars ditching lootboxes: why, how and what was the outcome. You want to know about things like this when leading the production of your next mobile action game. And they also have a [podcast](https://pca.st/5tK0).
-- [The GameDiscoverCo Newsletter](https://newsletter.gamediscover.co/) - Focused on the business side of game production and game discoverability, theit in-depth analysis on Steam-related topics is gold. Must-read.
+- [The GameDiscoverCo Newsletter](https://newsletter.gamediscover.co/) - Focused on the business side of game production and game discoverability, their in-depth analysis on Steam-related topics is gold. Must-read.
 
 ### Podcasts
 
