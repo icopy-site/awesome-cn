@@ -16,12 +16,36 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [JavaScript SDK](https://github.com/pocketbase/js-sdk) - Browser and Node.js for interacting with the PocketBase API. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase/js-sdk)
 - [Dart SDK](https://github.com/pocketbase/dart-sdk) - Multi-platform SDK for interacting with the PocketBase Web API. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase/dart-sdk)
 
+## Top PocketBase-specific Projects (>100 stars)
+
+- [pockethost.io](https://pockethost.io) - Free and pro PocketBase hosting. ![GitHub Repo stars](https://img.shields.io/github/stars/pockethost/pockethost)
+- [PocketBase Typegen](https://github.com/patmood/pocketbase-typegen) - Generate TypeScript types from the SQLite db file. ![GitHub Repo stars](https://img.shields.io/github/stars/patmood/pocketbase-typegen)
+- [PocketBase Docker](https://github.com/muchobien/pocketbase-docker) - Docker setup supporting multiple architectures and automatically updated with PocketBase releases. ![GitHub Repo stars](https://img.shields.io/github/stars/muchobien/pocketbase-docker)
+- [PocketBase+Stripe](https://github.com/mrwyndham/pocketbase-stripe) - Go extended PocketBase for Stripe subscription integration. ![GitHub Repo stars](https://img.shields.io/github/stars/mrwyndham/pocketbase-stripe)
+- [SvelteKit Starter](https://github.com/spinspire/pocketbase-sveltekit-starter) - A starter-kit showing how to use customized PocketBase as a backend to SvelteKit frontend. ![GitHub Repo stars](https://img.shields.io/github/stars/spinspire/pocketbase-sveltekit-starter)
+- [SvelteKit Auth](https://github.com/danawoodman/sveltekit-auth-example) - This project is designed as a sample implementation reference for getting authentication setup using SvelteKit. ![GitHub Repo stars](https://img.shields.io/github/stars/danawoodman/sveltekit-auth-example)
+- [SvelteKit PocketBase Auth](https://github.com/jianyuan/pocketbase-sveltekit-auth) - Demo login and registration pages with examples. [video](https://youtu.be/AxPB3e-3yEM). ![GitHub Repo stars](https://img.shields.io/github/stars/jianyuan/pocketbase-sveltekit-auth)
+
+
 ## Major Community Projects
 
 - [pocketpages.dev](https://pocketpages.dev) - Server-side JS pages and hosting for PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketpages)
 - [pockethost.io](https://pockethost.io) - Free and pro PocketBase hosting. ![GitHub Repo stars](https://img.shields.io/github/stars/pockethost/pockethost)
 - [pocodex.dev](https://pocodex.dev) - The unofficial PocketBase plugin repository and code exchange. ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocodex)
 - PocketPorts - NPM/Node.js packages ported to PocketBase JSVM. Official listing is hosted here in awesome-pocketbase.
+
+## JSVM Plugins
+
+* [pocketbase-otp](https://github.com/benallfree/pocketbase-otp) - One-Time Passwords for <=v0.22.* ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-otp)
+* [pocketpages](https://github.com/benallfree/pocketpages) - Server-side EJS pages for PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketpages)
+* [pocketbase-presigned-urls](https://github.com/benallfree/pocketbase-presigned-urls) - Serve file uploads from presigned S3 URLs. ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-presigned-urls)
+
+## Go Plugins
+
+- [Telegram auth](https://github.com/iamelevich/pocketbase-plugin-telegram-auth) - Add Telegram auth (Widget button and WebApp). ![GitHub Repo stars](https://img.shields.io/github/stars/iamelevich/pocketbase-plugin-telegram-auth)
+- [Ngrok](https://github.com/iamelevich/pocketbase-plugin-ngrok) - Expose local PocketBase to the internet with ngrok. ![GitHub Repo stars](https://img.shields.io/github/stars/iamelevich/pocketbase-plugin-ngrok)
+- [Proxy](https://github.com/iamelevich/pocketbase-plugin-proxy) - Proxy requests to another other host. Can be useful when you want to use separate server as frontend (like Next.js), but serve everything with same port. ![GitHub Repo stars](https://img.shields.io/github/stars/iamelevich/pocketbase-plugin-proxy)
+- [Webhooks](https://gist.github.com/cugu/9e74f75dcad3df74370c71ff3c02085a) - Add webhook support in the admin UI to send `create`, `update` and `delete` events on selected collections via POST request to other systems.
 
 ## React
 
@@ -85,13 +109,6 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [PocketBase Docker](https://github.com/kdpuvvadi/pocketbase) - Docker images supporting multiple architectures and updated with latest PocketBase releases. ![GitHub Repo stars](https://img.shields.io/github/stars/kdpuvvadi/pocketbase)
 - [PocketBase on Dokku](https://github.com/blockshiftnetwork/dokku-pocketbase) - Deploy PocketBase instances on Dokku effortlessly. ![GitHub Repo stars](https://img.shields.io/github/stars/blockshiftnetwork/dokku-pocketbase)
 
-## Native Go Plugins
-
-- [Telegram auth](https://github.com/iamelevich/pocketbase-plugin-telegram-auth) - Add Telegram auth (Widget button and WebApp). ![GitHub Repo stars](https://img.shields.io/github/stars/iamelevich/pocketbase-plugin-telegram-auth)
-- [Ngrok](https://github.com/iamelevich/pocketbase-plugin-ngrok) - Expose local PocketBase to the internet with ngrok. ![GitHub Repo stars](https://img.shields.io/github/stars/iamelevich/pocketbase-plugin-ngrok)
-- [Proxy](https://github.com/iamelevich/pocketbase-plugin-proxy) - Proxy requests to another other host. Can be useful when you want to use separate server as frontend (like Next.js), but serve everything with same port. ![GitHub Repo stars](https://img.shields.io/github/stars/iamelevich/pocketbase-plugin-proxy)
-- [Webhooks](https://gist.github.com/cugu/9e74f75dcad3df74370c71ff3c02085a) - Add webhook support in the admin UI to send `create`, `update` and `delete` events on selected collections via POST request to other systems.
-
 ## TypeScript tools
 
 - [pocketbase-jsvm](https://github.com/benallfree/pocketbase-jsvm) - JSVM typings. ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-jsvm)
@@ -135,12 +152,3 @@ Ports of NPM/Node.js packages to the PocketBase JSVM.
 | [Node.js](https://nodejs.org/docs/latest/api/) | [pocketbase-node](https://github.com/benallfree/pocketbase-node) | Node.js core packages (`fs`, `process`, etc)                   | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-node) |
 | [ejs](https://github.com/mde/ejs)              | [pocketbase-ejs](https://github.com/benallfree/pocketbase-ejs)   | Embedded JavaScript templates - [http://ejs.co](http://ejs.co) | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-ejs)  |
 | [marked](https://github.com/markedjs/marked)   | ✅ works without changes                                         | A markdown parser and compiler. Built for speed.               | ![GitHub Repo stars](https://img.shields.io/github/stars/markedjs/marked)            |
-
-## pocodex Plugins
-
-JS plugin ecosystem at pocodex.dev. _Mirrored from the pocodex project for convenience._
-
-| Name        | Description          | Installation Command                                           |                                                                                     |
-| ----------- | -------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| OTP         | One-Time Passwords   | [pocketbase-otp](https://github.com/benallfree/pocketbase-otp) | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-otp) |
-| PocketPages | Server-side JS pages | [pocketpages](https://github.com/benallfree/pocketpages)       | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketpages)    |

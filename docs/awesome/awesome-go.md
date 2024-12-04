@@ -264,6 +264,7 @@ _Libraries for building standard or basic Command Line applications._
 - [command-chain](https://github.com/rainu/go-command-chain) - A go library for configure and run command chains - such as pipelining in unix shells.
 - [commandeer](https://github.com/jaffee/commandeer) - Dev-friendly CLI apps: sets up flags, defaults, and usage based on struct fields and tags.
 - [complete](https://github.com/posener/complete) - Write bash completions in Go + Go command bash completion.
+- [console](https://github.com/reeflective/console) Closed-loop application library for Cobra commands, with oh-my-posh prompts, and more.
 - [Dnote](https://github.com/dnote/dnote) - A simple command line notebook with multi-device sync.
 - [elvish](https://github.com/elves/elvish) - An expressive programming language and a versatile interactive shell.
 - [env](https://github.com/codingconcepts/env) - Tag-based environment configuration for structs.
@@ -1661,7 +1662,6 @@ _These libraries were placed here because none of the other categories seemed to
 - [common](https://github.com/kubeservice-stack/common) - A library for server framework.
 - [conv](https://github.com/cstockton/go-conv) - Package conv provides fast and intuitive conversions across Go types.
 - [datacounter](https://github.com/miolini/datacounter) - Go counters for readers/writer/http.ResponseWriter.
-- [faker](https://github.com/neotoolkit/faker) - Fake data generator.
 - [faker](https://github.com/pioz/faker) - Random fake data and struct generator for Go.
 - [ffmt](https://github.com/go-ffmt/ffmt) - Beautify data display for Humans.
 - [gatus](https://github.com/TwinProduction/gatus) - Automated service health dashboard.
