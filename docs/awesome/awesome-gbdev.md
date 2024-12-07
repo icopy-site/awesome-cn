@@ -241,6 +241,7 @@ The [Choosing tools for Game Boy development](https://gbdev.io/guides/tools.html
 - [Assembler](https://github.com/ulrikdamm/Assembler) - Assembler written in Swift.
 - [llvm-gbz80](https://github.com/Bevinsky/llvm-gbz80) / [clang-gbz80](https://github.com/Bevinsky/clang-gbz80) - Clang/LLVM port to the GBZ80 CPU (similar to the deprecated [euclio/llvm-gbz80](https://github.com/euclio/llvm-gbz80)).
 - [gbdk-go](https://github.com/pokemium/gbdk-go) - A compiler translates Go programs to C code. The output C code is built into GB ROM by GBDK.
+- [Rust-GB](https://github.com/zlfn/rust-gb) - A compiler and library that enable the development of GB ROMs using Rust.
 
 ### Emulators
 
@@ -344,7 +345,7 @@ Fragments of code, effects, proof of concepts and generally non complete games.
 #### Timings
 
 - [Nitty Gritty Gameboy Cycle Timing](http://blog.kevtris.org/blogfiles/Nitty%20Gritty%20Gameboy%20VRAM%20Timing.txt)
-- [Mode3 Sprite Timing](https://www.reddit.com/r/EmuDev/comments/59pawp/gb_mode3_sprite_timing/)
+- [Mode3 Sprite Timing](https://old.reddit.com/r/EmuDev/comments/59pawp/gb_mode3_sprite_timing/)
 - [GameBoy Color DMA-Transfers v0.0.1](http://gameboy.mongenel.com/dmg/gbc_dma_transfers.txt)
 - [STAT interrupt timings](http://gameboy.mongenel.com/dmg/istat98.txt)
 - [Video Timing](https://github.com/jdeblese/gbcpu/wiki/Video-Timing)

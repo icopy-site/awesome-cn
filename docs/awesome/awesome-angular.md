@@ -386,6 +386,7 @@ become an Angular expert.
 * [zitadel](https://zitadel.com/docs/examples/login/angular) - Secure authentication management for your application. Customize as you grow, with easy APIs and programmable workflows. Focus on growing, your login is in good hands.
 * [appwrite](https://github.com/appwrite/appwrite) - Using Appwrite, you can easily integrate your [Angular app](https://appwrite.io/docs/quick-starts/angular) with user authentication and multiple sign-in methods, a database for storing and querying users and team data, storage and file management, image manipulation, cloud functions, and more services.
 * [permit](https://www.permit.io/) - An authorization-as-a-service solution that can be used with [Angular](https://www.permit.io/blog/how-to-implement-role-based-access-control-rbac-in-angular).
+* [ngxfire](https://github.com/teve-no/ngxfire) - Zoneless AngularFire replacement.
 
 #### Builders
 
@@ -515,6 +516,7 @@ become an Angular expert.
 * [ngx-http-retry](https://github.com/itpixelz/ngx-http-retry) - An Angular service that provides HTTP methods (GET, POST, PUT, DELETE) with built-in retry logic using RxJS's `retry` operator.
 * [ng-memento](https://github.com/terzurumluoglu/ng-memento) - Makes your application faster by preventing the same HTTP requests from being called again in your Angular project.
 * [ngx-suspense-of](https://github.com/Celtian/ngx-suspense-of) - Angular directive that adds suspense to your app.
+* [ngx-http-request-state](https://github.com/daiscog/ngx-http-request-state) - An Angular library for wrapping HttpClient responses with loading & error information.
 
 #### Integrations
 

@@ -142,7 +142,7 @@ _Tools for building blockchains._
 - [gosemble](https://github.com/LimeChain/gosemble) - A Go-based framework for building Polkadot/Substrate-compatible runtimes.
 - [gossamer](https://github.com/ChainSafe/gossamer) - A Go implementation of the Polkadot Host.
 - [kubo](https://github.com/ipfs/kubo) - A blockchain framework implemented in Go. It provides content-addressable storage which can be used for decentralized storage in DApps. It is based on the IPFS protocol.
-- [lnd](https://github.com/lightningnetwork/lnd) - A complete implementation of a Lighting Network node.
+- [lnd](https://github.com/lightningnetwork/lnd) - A complete implementation of a Lightning Network node.
 - [solana-go](https://github.com/gagliardetto/solana-go) - Go library to interface with Solana JSON RPC and WebSocket interfaces.
 - [tendermint](https://github.com/tendermint/tendermint) - High-performance middleware for transforming a state machine written in any programming language into a Byzantine Fault Tolerant replicated state machine using the Tendermint consensus and blockchain protocols.
 
@@ -1944,7 +1944,6 @@ _Unofficial libraries for package and dependency management._
 
 - [glide](https://github.com/Masterminds/glide) - Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip.
 - [godep](https://github.com/tools/godep) - dependency tool for go, godep helps build packages reproducibly by fixing their dependencies.
-- [gom](https://github.com/mattn/gom) - Go Manager - bundle for go.
 - [goop](https://github.com/nitrous-io/goop) - Simple dependency manager for Go (golang), inspired by Bundler.
 - [gop](https://github.com/lunny/gop) - Build and manage your Go applications out of GOPATH.
 - [gopm](https://github.com/gpmgo/gopm) - Go Package Manager.
