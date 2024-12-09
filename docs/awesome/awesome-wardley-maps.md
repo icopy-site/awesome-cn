@@ -21,6 +21,7 @@ This is a list of useful Wardley mapping resources and examples. Short URL: [lis
 - [LinkedIn Group](https://www.linkedin.com/groups/13604539/) - Wardley Maps Community.
 - [Mapping Maps Newsletter](https://twitter.com/MappingMapsNews) - Subscribe [here](https://bit.ly/2QlF0Wx). Newsletter [archive](https://bit.ly/2P9MEPu).
 - [#WardleyMaps](https://twitter.com/search?q=%23WardleyMaps) - Join the conversation.
+- [r/wardleymaps](https://www.reddit.com/r/wardleymaps/) - Subreddit for Wardley Maps.
 
 ## Reading
 
@@ -154,6 +155,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 
 - [OnlineWardleyMaps](https://github.com/damonsk/onlinewardleymaps) - Online open source mapping tool. For updates follow [@MapsAsCode](https://twitter.com/MapsAsCode) on Twitter. Hosted version available [here](https://onlinewardleymaps.com/). Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 - [Wardley Maps for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=damonsk.vscode-wardley-maps) - Render and edit Wardley maps within Visual Studio Code. This VSCode extention leverages the engine from OnlineWardleyMaps.com. Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
+- [Wardley Maps for Obsidian.md](https://github.com/damonsk/obsidian-wardley-maps) - Render and edit Wardley maps within Obsidian.md. This community plugin leverages the engine from OnlineWardleyMaps.com. Online documentation [Wardley Maps as Code](https://docs.onlinewardleymaps.com/).
 - [Wardley Maps for Jupyter Notebooks (ipywardley)](https://github.com/anjackson/ipywardley) - A plugin for generating Wardley maps in Jupyter Notebooks.
 - [MapScript](https://observablehq.com/collection/@ajbouh/mapscript) - Note MapScript is built on Observable. Read their [Terms of Service](https://observablehq.com/terms-of-service). MapScript [feature requests](https://mapscript.canny.io/feature-requests). Hosted version available [here](https://mapscript.org).
 - [Go-Wardley](https://github.com/DavidGamba/go-wardley) - Generates a Wardley map in SVG format from a HCL-based map description file.

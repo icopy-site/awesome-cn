@@ -145,8 +145,9 @@ Anything](https://huggingface.co/spaces/radames/candle-segment-anything-wasm).
 - [yew-bootstrap](https://github.com/isosphere/yew-bootstrap) - A Yew wrapper for the Bootstrap 5 component library.
 - [Zu](https://github.com/RustVis/zu) - Yew web components, implementing Material Design.
 - [yew-nav-link](https://github.com/RAprogramm/yew-nav-link) - A navigational link that is aware of its active state based on the current route in the application.
-- [Rust Radix](https://github.com/RustForWeb/radix) - Rust port of Radix with support for Leptos and Yew.
-- [Rust shadcn/ui](https://github.com/RustForWeb/shadcn-ui) - Rust port of shadcn/ui with support for Leptos and Yew.
+- [Rust Lucide](https://lucide.rustforweb.org) - Yew port of Lucide, a beautiful & consistent icon toolkit made by the community.
+- [Rust Radix](https://radix.rustforweb.org) - Yew port of Radix, a library of components, icons, colors, and templates for building high-quality, accessible UI.
+- [Rust shadcn/ui](https://shadcn-ui.rustforweb.org) - Yew port of shadcn/ui, a library of beautifully designed components that you can copy and paste into your apps.
 
 ### Components
 
@@ -183,6 +184,7 @@ Anything](https://huggingface.co/spaces/radames/candle-segment-anything-wasm).
 - [yew-nested-router](https://github.com/ctron/yew-nested-router) - A router that supported nesting, with Yew 0.20.
 - [turf](https://github.com/myFavShrimp/turf) - Macro based compile-time SCSS transpilation, CSS minification, and class name uniquification toolchain inspired by CSS modules.
 - [browser-panic-hook](https://github.com/ctron/browser-panic-hook) - A panic handler for browser environments, allowing to fail in an end-user friendly way.
+- [Rust Floating UI](https://floating-ui.rustforweb.org/) - Floating UI is a library that helps you create "floating" elements such as tooltips, popovers, dropdowns, and more.
 
 ### Wasm
 
