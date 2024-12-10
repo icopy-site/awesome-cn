@@ -2548,7 +2548,6 @@ _General utilities and tools to make your life easier._
 - [cmd](https://github.com/SimonBaeumer/cmd) - Library for executing shell commands on osx, windows and linux.
 - [command](https://github.com/txgruppi/command) - Command pattern for Go with thread safe serial and parallel dispatcher.
 - [config-file-validator](https://github.com/Boeing/config-file-validator) - Cross Platform tool to validate configuration files.
-- [contextplus](https://github.com/contextplus/contextplus) - Package contextplus provide more easy to use functions for contexts.
 - [cookie](https://github.com/syntaqx/cookie) - Cookie struct parsing and helper package.
 - [copy-pasta](https://github.com/jutkko/copy-pasta) - Universal multi-workstation clipboard that uses S3 like backend for the storage.
 - [countries](https://github.com/biter777/countries) - Full implementation of ISO-3166-1, ISO-4217, ITU-T E.164, Unicode CLDR and IANA ccTLD standards.
@@ -2699,7 +2698,6 @@ _General utilities and tools to make your life easier._
 - [tik](https://github.com/andy2046/tik) - Simple and easy timing wheel package for Go.
 - [tome](https://github.com/cyruzin/tome) - Tome was designed to paginate simple RESTful APIs.
 - [toolbox](https://github.com/viant/toolbox) - Slice, map, multimap, struct, function, data conversion utilities. Service router, macro evaluator, tokenizer.
-- [ugo](https://github.com/alxrm/ugo) - ugo is slice toolbox with concise syntax for Go.
 - [UNIS](https://github.com/esemplastic/unis) - Common Architecture™ for String Utilities in Go.
 - [upterm](https://github.com/owenthereal/upterm) - A tool for developers to share terminal/tmux sessions securely over the web. It’s perfect for remote pair programming, accessing computers behind NATs/firewalls, remote debugging, and more.
 - [usql](https://github.com/knq/usql) - usql is a universal command-line interface for SQL databases.
