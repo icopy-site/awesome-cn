@@ -107,7 +107,7 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 - [Internet Resilience Index (IRI)](https://pulse.internetsociety.org/resilience)- Developed by the Internet Society, the IRI monitors select, weighted indicators to measure Internet resilience
 - [ITU Data Hub](https://datahub.itu.int/) - a revamp of the ITU World ICT/Telecommunication Indicators Database (WTID), now free for non-commercial use
 - [SpeedChecker Insights](https://insights.speedchecker.com/) - Periodic country-level reports on mobile internet speeds, latency, and coverage
-- [Cloudflare Radar](https://radar.cloudflare.com/) - Invaluable resource on internet traffic, security, routing, outages, DNS, and more.
+- [Cloudflare Radar](https://radar.cloudflare.com/) - ([2024](https://blog.cloudflare.com/radar-2024-year-in-review/)) ([2023](https://blog.cloudflare.com/radar-2023-year-in-review/)) ([2022](https://blog.cloudflare.com/radar-2022-year-in-review/)) Invaluable resource on internet traffic, security, routing, outages, DNS, and more.
 - [GSMA - Enabling Rural Coverage](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/02/Enabling_Rural_Coverage_English_February_2018.pdf) - (Feb 2018) Regulatory and policy recommendations to foster mobile broadband coverage in developing countries.
 - [SimilarWeb - Mobile App Ranking](https://www.similarweb.com/apps/top/google/app-index/us/all/top-free) - Ranking of popular mobile apps across countries.
 - [Global Stats by StatCounter](http://gs.statcounter.com/) - Browser market share over time by browser, region, OS.
