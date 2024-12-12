@@ -1112,6 +1112,8 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [backdround/neowords.nvim](https://github.com/backdround/neowords.nvim) - Hops by any type of words. It gives fine control over `w`, `e`, `b`, `ge` movements.
 - [backdround/improved-ft.nvim](https://github.com/backdround/improved-ft.nvim) - Improve default `f`/`t` abilities.
 - [Mr-LLLLL/treesitter-outer](https://github.com/Mr-LLLLL/treesitter-outer) - Jump to outer node with smart.
+- [DanilaMihailov/beacon.nvim](https://github.com/DanilaMihailov/beacon.nvim) - Highlights cursor when it moves, changes windows and more. Inspired by Emacs beacon package.
+- [Aaronik/Treewalker.nvim](https://github.com/aaronik/Treewalker.nvim) - Move seamlessly around the abstract syntax tree.
 
 ### Tree-sitter Based
 
@@ -1396,6 +1398,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [Eandrju/cellular-automaton.nvim](https://github.com/Eandrju/cellular-automaton.nvim) - It lets you execute aesthetically pleasing, cellular automaton animations based on the content of Neovim buffer.
 - [alanfortlink/blackjack.nvim](https://github.com/alanfortlink/blackjack.nvim) - Classic Black Jack game.
 - [jim-fx/sudoku.nvim](https://github.com/jim-fx/sudoku.nvim) - Classic sudoku puzzle.
+- [csessh/aoc.vim](https://github.com/csessh/aoc.nvim) - Simple little elf who fetches Advent of Code puzzle input for you.
 
 ### Competitive Programming
 
