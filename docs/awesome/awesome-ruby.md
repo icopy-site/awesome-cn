@@ -763,6 +763,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [Maruku](https://github.com/bhollis/maruku) - A pure-Ruby Markdown-superset interpreter.
 * [Redcarpet](https://github.com/vmg/redcarpet) - A fast, safe and extensible Markdown to (X)HTML parser.
 * [word-to-markdown](https://github.com/benbalter/word-to-markdown) - Gem to convert Microsoft Word documents to Markdown.
+* [ZMediumToMarkdown](https://github.com/ZhgChgLi/ZMediumToMarkdown) - A powerful tool that allows you to effortlessly download and convert your Medium posts to Markdown format.
 
 ## Measurements
 
@@ -807,6 +808,7 @@ Where to discover new Ruby libraries, projects and trends.
 
 * [Dnsruby](https://github.com/alexdalitz/dnsruby) - A pure Ruby DNS client library which implements a stub resolver. It aims to comply with all DNS RFCs.
 * [RubyDNS](https://github.com/ioquatix/rubydns) - A high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon.
+* [PacketFu](https://github.com/packetfu/packetfu) - A library for reading and writing packets to an interface or to a libpcap-formatted file.
 
 ## Notifications
 
