@@ -960,7 +960,6 @@ become an Angular expert.
 * [ng-for-track-by-property](https://github.com/nigrosimone/ng-for-track-by-property) - Angular global trackBy property directive with strict type checking.
 * [ng-generic-pipe](https://github.com/nigrosimone/ng-generic-pipe) - Generic pipe for Angular application.
 * [ngxd](https://github.com/Indigosoft/ngxd) - NgComponentOutlet + Data-Binding + Full Lifecycle = NgxComponentOutlet for Angular 7+.
-* [ngx-quicklink](https://github.com/mgechev/ngx-quicklink) - Quicklink prefetching strategy for the Angular router.
 * [ngx-highlightjs](https://github.com/MurhafSousli/ngx-highlightjs) - Instant code highlighting, auto-detect language, super easy to use!
 * [ngx-sharebuttons](https://github.com/MurhafSousli/ngx-sharebuttons) - Angular share buttons.
 * [ngx-pipes](https://github.com/danrevah/ngx-pipes) - Useful pipes for Angular with no external dependencies!
@@ -982,6 +981,8 @@ become an Angular expert.
 * [ngx-href](https://github.com/rbalet/ngx-href) - A directive that allows href to understand Angular's router while retaining its default functionality.
 * [ng-dompurify](https://github.com/taiga-family/ng-dompurify) - This library implements [DOMPurify](https://github.com/cure53/DOMPurify) as Angular Sanitizer or Pipe. It delegates sanitizing to DOMPurify and supports the same configuration.
 * [ngx-windows](https://github.com/mateuszbilicz/ngx-windows) - Angular Windows Components and Services.
+* [ngx-quicklink](https://github.com/mgechev/ngx-quicklink) - Quicklink prefetching strategy for the Angular router.
+* [ngx-speculative-link](https://github.com/push-based/ngx-speculative-link) - An Angular implementation of [Speculative Rules API](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API) inspired by [quicklink](https://github.com/GoogleChromeLabs/quicklink) and ngx-quicklink.
 
 #### Drag and Drop
 
@@ -1061,6 +1062,7 @@ become an Angular expert.
 * [ngx-forms-core](https://github.com/Juulsgaard/ngx-forms-core) - This library provides strictly typed versions of the Angular form system. The classes extend the Angular form system and provide several tools to improve type strictness.
 * [ngx-focus-entities](https://github.com/klee-contrib/ngx-focus-entities) - Library for generating reactive Angular forms from a Focus4 representation generated with [TopModel](https://github.com/klee-contrib/topmodel).
 * [@TanStack/form](https://github.com/TanStack/form) - Designed with first-class TypeScript support, headless UI components, and a framework-agnostic design, it streamlines form handling and ensures a seamless experience across various front-end frameworks.
+* [@luistabotelho/angular-signal-forms](https://github.com/luistabotelho/angular-signal-forms) - Simple Angular library to implement forms with signals.
 
 ##### Form Controls
 

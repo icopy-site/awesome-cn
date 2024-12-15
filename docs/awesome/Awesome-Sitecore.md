@@ -233,7 +233,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Headless
 
 - [Sample](https://github.com/uniformdev/sitecore-jss-nextjs-starterkit) - A headless sample TODO
-
+- [Angular JSS starter kit for XM Cloud](https://github.com/Sitecore/jss/tree/release/22.0.0/packages/create-sitecore-jss/src/templates/angular-xmcloud) - Sitecore JSS Angular Starter Kit App for XM Cloud.
 
 ## Helix
 
@@ -464,3 +464,4 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [XM Cloud Introduction](https://github.com/Sitecore/XM-Cloud-Introduction) - A codebase for a series of XM Cloud sites managed by the Technical Marketing Team at Sitecore: new MVP website along with 3 websites of SUGCON events.
 - [FEaaS BYOC Example](https://github.com/Sitecore/feaas-nextjs-example) - A repo that demonstrates an example of BYOC components using best practices.
 - [Sitecore GraphQL Import](https://github.com/jbluemink/Sitecore-GraphQL-Import) - A console app showcases various capabilities of the Sitecore GraphQL API, such as retrieving Sitecore items, obtaining a list of websites, inserting sample items, and uploading media files.
+- [Node XM Cloud Proxy](https://github.com/Sitecore/jss/tree/release/22.0.0/packages/create-sitecore-jss/src/templates/node-xmcloud-proxy) - Node proxy application enables backend functionality and features equivalent to those in our Next.js starter kit for XM Cloud. Was introduced to support the new Angular starter kit. This proxy is designed to work with all SPA frameworks and can also be used to run React and Vue applications, laying the groundwork for future JSS starter kits built for other front-end JavaScript frameworks.
