@@ -315,6 +315,7 @@ become an Angular expert.
 
 * [Official Angular style guide](https://angular.dev/style-guide#)
 * [Infinum](https://infinum.com/handbook/frontend/angular/introduction)
+* [TypeScript style guide](https://mkosir.github.io/typescript-style-guide/)
 
 ---
 
@@ -472,6 +473,7 @@ become an Angular expert.
 * [Compodoc](https://github.com/compodoc/compodoc) - The missing documentation tool for your Angular application.
 * [ng-doc](https://github.com/ng-doc/ng-doc) - The documentation engine for Angular projects.
 * [docgeni](https://github.com/docgeni/docgeni) - A modern, powerful and out of the box documentation generator for Angular components lib and markdown docs.
+* [trakk.js](https://github.com/trakkjs/trakk-js) - Automatic Documentation Generation / Real-Time Code Execution Flow / Testing / Debugging / Onboarding for Front-End Applications.
 
 #### Generators
 
@@ -1578,6 +1580,7 @@ for the creation of web applications developed with Angular.
 * [ngx-morse](https://github.com/monkeyscript/ngx-morse) - A simple morse code encoder and decoder for Angular.
 * [ngx-back-button](https://github.com/rbalet/ngx-back-button) - A library for handling proper Angular back button capability.
 * [ngx-route-manager](https://github.com/perez247/ngx-route-manager) - A simple library to store all route urls used in the application.
+* [ng-whiteboard](https://github.com/mostafazke/ng-whiteboard) - Lightweight Angular whiteboard component.
 
 ---
 
