@@ -66,6 +66,8 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 with AI-Powered Palette Generator.
 - [Colorca](https://colorca.org/) - Design an accessible color palette for digital products in HSLuv color space
 - [ColorBeta](https://colorbeta.com/) - Advanced CSS Gradient Generator.
+- [Color Wheel](https://colorwheel.co/) - A color wheel based on the drawings by Goethe, Johann Wolfgang von from the year 1810.
+- [RGB HEX Code](https://rgbhexcode.com/) - HTML/CSS Color Picker & Converter.
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
@@ -89,6 +91,7 @@ with AI-Powered Palette Generator.
 - [Color Name List](https://github.com/meodai/color-names/) - Huge curated list of unique color names.
 - [Realtime Colors](https://www.realtimecolors.com) - Visualize Your Colors & Fonts On a Real Site.
 - [InclusiveColors](https://www.inclusivecolors.com/) - Create custom accessible Tailwind-style color palettes, with WCAG/APCA contrast checks and live previews on a mockup.
+- [ColorMagic](https://colormagic.app) - Generate color palettes with AI. Enter any keyword and generate a matching color palette.
 
 ## Articles
 - [Trendy Web Color Palettes and Material Design Color Schemes & Tools](http://www.awwwards.com/trendy-web-color-palettes-and-material-design-color-schemes-tools.html?utm_source=Twitter&utm_medium=Social&utm_campaign=Twitter-Blog-Color&utm_content=Twitter)

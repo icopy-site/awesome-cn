@@ -38,7 +38,6 @@
 * [xiconeditor](http://www.xiconeditor.com/)
 * [tool.lu favicon](http://tool.lu/favicon/)
 * [bitbug](http://www.bitbug.net/)
-* [iconogen](http://iconogen.com/)
 * [favicomatic](http://www.favicomatic.com/)
 * [RealFaviconGenerator](https://realfavicongenerator.net/)
 * [favicon.io](https://favicon.io/)
@@ -62,15 +61,9 @@
 
 * [neumorphism css generator](https://neumorphism.io/)
 * [css-triangle-generator](http://apps.eky.hk/css-triangle-generator/zh-hant)
-* [css3lib](http://css3lib.alloyteam.com/)
 * [csszengarden](http://www.csszengarden.com/)
-* [css3Preview](http://www.css88.com/tool/css3Preview/)
 * [CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
-* [pleeease](http://pleeease.io/play/)
 * [cssBeutify](http://tool.lu/css/)
-* [css3-tool](http://isux.tencent.com/css3/tools.html)
-* [css3 animation generator](http://isux.tencent.com/css3/tools.html)
-* [css3 maker](http://www.css3maker.com/index.html)
 * [css spritegen](http://spritegen.website-performance.org/)
 * [csssprites](http://csssprites.com/)
 * [sassme](http://sassme.arc90.com/)
@@ -79,10 +72,8 @@
 
 ### Image compression
 
-* [punypng](http://www.punypng.com/)
 * [webresizer](http://webresizer.com/resizer/)
 * [TinyPNG](https://tinypng.com)
-* [smushit](http://www.smushit.com/ysmush.it/)
 * [AlloyPhoto](http://alloyteam.github.io/AlloyPhoto/)
 * [Compressor.io](https://compressor.io/)
 * [Shrinkray](https://shrinkray.io)
@@ -95,14 +86,12 @@
 * [jsbeautifier](http://jsbeautifier.org/)
 * [jsfiddle](http://jsfiddle.net/)
 * [jsbin](http://jsbin.com/)
-* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 * [SmallDev.tools - JS formatter](https://smalldev.tools/javascript-formatter-online)
 * [Flatlogic CRUD Apps Generator](https://flatlogic)
 
 ### Pagespeed
 
 * [PageSpeed](https://developers.google.com/speed/pagespeed/insights/)
-* [YSlow](https://addons.mozilla.org/zh-cn/firefox/addon/yslow/)
 * [Alibench](http://alibench.com/)
 * [Webkaka](http://pagespeed.webkaka.com/)
 * [Modern IE Reporting tool](https://www.modern.ie/en-us/report)
@@ -186,8 +175,9 @@
 * [DataFormsJS](https://www.dataformsjs.com/en/playground)
 * [AnyChart Playground](https://playground.anychart.com/)
 
-### CheetSheet
+### CheatSheet
 * [Bootstrap CheatSheet](https://bootstrap-cheatsheet.themeselection.com/)
+* [Regex CheatSheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions/Cheatsheet)
 
 ### UI Builders
 * [Windframe](https://www.devwares.com/windframe/)
