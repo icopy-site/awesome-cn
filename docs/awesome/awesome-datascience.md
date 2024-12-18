@@ -1090,6 +1090,8 @@ Some data mining competition platforms
 - [Top Future Trends in Data Science in 2023](https://medium.com/the-modern-scientist/top-future-trends-in-data-science-in-2023-3e616c8998b8)
 - [How Generative AI Is Changing Creative Work](https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work)
 - [What is generative AI?](https://www.techtarget.com/searchenterpriseai/definition/generative-AI)
+- [Top 100+ Machine Learning Interview Questions (Beginner to Advanced)](https://www.appliedaicourse.com/blog/machine-learning-interview-questions/)
+
 
 ### Hobby
 - [Awesome Music Production](https://github.com/ad-si/awesome-music-production)

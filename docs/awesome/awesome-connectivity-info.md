@@ -39,6 +39,7 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 - [Speedtest Global Index](https://www.speedtest.net/global-index) - (2024) Index of mobile and fixed broadband speeds from around the world on a monthly basis.
 - cable.co.uk's Worldwide Broadband Price Comparison - ([2023](https://www.cable.co.uk/mobiles/worldwide-data-pricing/2023/worldwide_mobile_data_pricing_data.xlsx)) ([2022](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)) ([2019](https://www.cable.co.uk/broadband/speed/worldwide-speed-league/)) ([2018](https://www.cable.co.uk/broadband/pricing/worldwide-comparison/))  Index of broadband costs around the world based on fixed line/wireless access.
 - [Internet Poverty Index](https://internetpoverty.io/) 2024 - The Internet Poverty Index from [World Data Lab.](https://worddatalab.com/) 
+- [Emerging Digital Powerhouse Index](https://www.airgain.com/blog/emerging-digital-powerhouse-index/) 2024 - Ranking of OECD countries on factors ranging from tertiary enrollment to 5G connectivity.  Produced by wireless manufacturer [Airgain](https://www.airgain.com/). 
 
 ## Connectivity Maps
 
