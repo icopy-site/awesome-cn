@@ -372,6 +372,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [sqlite_modern_cpp](https://github.com/SqliteModernCpp/sqlite_modern_cpp) - Header only C++14 wrapper around sqlite library. [MIT]
 * [sqlite_orm](https://github.com/fnc12/sqlite_orm) - SQLite ORM light header only library for modern C++. [AGPL + paid MIT]
 * [sqlpp11](https://github.com/rbock/sqlpp11) - A type safe embedded domain specific language for SQL queries and results in C++. [BSD-2-Clause]
+* [TidesDB](https://github.com/tidesdb/tidesdb) - High-performance, durable, transactional embedded storage engine designed for flash and RAM optimization. [MPL-2.0] [website](https://tidesdb.com/)
 * [TileDB](https://github.com/TileDB-Inc/TileDB) - Fast Dense and Sparse Multidimensional Array DBMS. [MIT] [website](https://tiledb.io/)
 * [TinyORM](https://github.com/silverqx/TinyORM) - Modern C++ ORM library. [MIT] [website](https://www.tinyorm.org/)
 * [UnQLite](https://github.com/symisc/unqlite) - A self-contained, serverless, zero-configuration, transactional NoSQL engine. [BSD-2-Clause] [website](https://unqlite.org/)
@@ -974,6 +975,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [djinni](https://djinni.xlcpp.dev) - A tool for generating cross-language type declarations and interface bindings. [Apache2]
 * [Duktape](https://github.com/svaarala/duktape) - An embeddable JavaScript engine with compact footprint. [MIT] [website](http://duktape.org)
 * [JavaCpp](https://github.com/bytedeco/javacpp) - The missing bridge between Java and native C++. [Apache2]
+* [JerryScript](https://github.com/jerryscript-project/jerryscript) - Ultra-lightweight JavaScript engine for the Internet of Things. [Apache-2.0] [website](https://jerryscript.net/)
 * [libffi](https://github.com/libffi/libffi) - A portable foreign-function interface library. [MIT] [website](https://sourceware.org/libffi/)
 * [Lua](http://www.lua.org/) - A minimal and fast scripting engine for configuration files and basic application scripting. [MIT]
 * [LuaBridge](https://github.com/vinniefalco/LuaBridge) - A lightweight, dependency-free library for binding Lua to C++. [MIT]
