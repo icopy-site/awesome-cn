@@ -172,6 +172,7 @@ Academic institutions researching social enterprise:
 * [Skoll Foundation](https://en.wikipedia.org/wiki/Skoll_Foundation) - Large foundation investing in social entrepreneurs.
 * [Schwab Foundation for Social Entrepreneurship](https://en.wikipedia.org/wiki/Schwab_Foundation_for_Social_Entrepreneurship) - Advocates for social entrepreneurss on a global level.
 * [The Audacious Project](https://audaciousproject.org/) - A TED project funding social entrepreneurs and nonprofits.
+* [CA RISE](https://redf.org/ca-rise/) - A $25M California initiative providing capital ($100k-$500k grants) and technical assistance to employment social enterprises.
 
 ### Consultants
 * [CSED](https://csedottawa.ca) - Canada based nonprofit helping develop, launch, and grow social enterprises.
