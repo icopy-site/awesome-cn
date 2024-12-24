@@ -66,7 +66,6 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 - :free: [PNGGauntlet](http://pnggauntlet.com/) - Smash PNGs for faster sites
 - :free: [PNGoo](https://pngquant.org/PNGoo.0.1.1.zip) - Windows GUI for batch conversion.
 - :tada: [Pngyu](http://nukesaq88.github.io/Pngyu/) - simple PNG image file compression tool.
-- :tada: [SuperPNG Photoshop plug-in](http://www.fnordware.com/superpng/) — Mac and Windows. Comparison with "Save for Web"
 - :money_with_wings: [TinyPNG](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency.
 
 #### Texture Tools
@@ -159,9 +158,7 @@ _Great graphics placeholders and tools to turn that squared game into a picasso 
 
 - :tada: [goxel](https://github.com/guillaumechereau/goxel)
 - :free: [MagicaVoxel](https://ephtracy.github.io/)
-- :free: [Q-Block](http://kyucon.com/qblock/)
 - :free: [Sproxel](http://sproxel.blogspot.com.br/)
-- :free: [Vengi](https://mgerhardy.github.io/vengi/)
 
 ## Code
 
@@ -215,7 +212,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [FlashPunk](http://useflashpunk.net/) - free ActionScript 3 library designed for developing 2D Flash games.
 - :tada: :money_with_wings: [Flax Engine](https://flaxengine.com/) - multi-platform 3D game engine
 - :tada: [Foster](https://github.com/FosterFramework/Foster) - A small cross-platform 2D game framework in C#.
-- :money_with_wings: [GameMaker](http://www.yoyogames.com/en/gamemaker) - GameMaker accommodates the creation of cross-platform video games using drag and drop or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features.
+- :money_with_wings: [GameMaker](https://gamemaker.io/) - GameMaker accommodates the creation of cross-platform video games using drag and drop or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features.
 - :tada: [gameplay](http://gameplay3d.io/) - A free, open-source, cross-platform, 2D + 3D game framework written in C++. It is aimed towards indie game developers who are creating desktop and mobile games.
 - :money_with_wings: [GameSalad](https://gamesalad.com/) - Game Creation Engine for Mac and Windows.
 - :tada: [GB Studio](https://www.gbstudio.dev/) - A free and easy to use retro adventure game creator for your favourite handheld video game system.
@@ -345,7 +342,7 @@ _Audio editors, sounds collections and more._
 - :free: [Bfxr](https://www.bfxr.net/) - A tool to make sound effects for computer games.
 - :free: [Bosca Ceoil](http://boscaceoil.net/) - Online (and also desktop) music producer made by Terry Cavanagh. Simple, intuitive, has a distinctive retro-ish sound.
 - :free: [ChipTone](http://sfbgames.com/chiptone/) - Online sound effect generator
-- :free: [Famistudio](https://github.com/BleuBleu/FamiStudio) - FamiStudio NES Music Editor.  
+- :free: [Famistudio](https://github.com/BleuBleu/FamiStudio) - FamiStudio NES Music Editor.
 - :free: [FamiTracker](https://github.com/Dn-Programming-Core-Management/Dn-FamiTracker) - free windows tracker for producing music for the NES/Famicom-systems.
 - :tada: [jfxr](http://jfxr.frozenfractal.com) - A JavaScript port of the Bfxr sound effect generator.
 - :tada: [LMMS](https://lmms.io/) - Cross-platform music production software.
@@ -353,7 +350,6 @@ _Audio editors, sounds collections and more._
 - :tada: [MilkyTracker](https://github.com/milkytracker/MilkyTracker) - open source tracker for Mac/Linux/Windows platforms.
 - :tada: [musagi](http://www.drpetter.se/project_musagi.html) - open source, fairly large and sophisticated music editor and synthesizer
 - :moneybag: [Resemble](https://www.resemble.ai/unity) - Resemble's voice cloning engine within Unity
-- :tada: [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - Open Source MIDI sequencer.
 - :free: [Soundation](https://soundation.com/) - Online Professional music studio.
 - :free: [SunVox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker).
 
@@ -373,6 +369,7 @@ _Blogs, portals, magazines and more_
 - [Amit's Game Programming](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
 - [Designer Notes](http://www.designer-notes.com/)
 - [Emanuele Feronato's Blog](http://www.emanueleferonato.com/)
+- [GameIdea](https://gameidea.org)
 - [Gamasutra](http://www.gamasutra.com/)
 - [Game Development on StackExchange](http://gamedev.stackexchange.com/)
 - [GameDevs.org](http://gamedevs.org/)
@@ -501,6 +498,7 @@ _Online courses, tutorials, screencasts_
 
 ### General Game Development
 
+- :money_with_wings: [Chris Courses: Complete courses for an assortment of 2D games](https://chriscourses.com/)
 - :moneybag: [Coursera: Introduction to interactive Python programming](https://www.coursera.org/course/interactivepython1)
 - :free: [HandmadeHero: making 2D game from scratch](https://handmadehero.org/)
 - :free: [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations)
