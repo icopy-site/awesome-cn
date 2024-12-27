@@ -38,6 +38,7 @@
 - [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
 - [suricata_exporter](https://github.com/corelight/suricata_exporter) - Simple Prometheus exporter written in Go exporting stats metrics scraped from Suricata socket.
 
+
 ## Programming Libraries and Toolkits
 
 - [rust-suricatax-rule-parser](https://github.com/jasonish/rust-suricatax-rule-parser) - Experimental Suricata Rule Parser in Rust.
@@ -146,3 +147,4 @@
 - [Suriwire](https://github.com/regit/suriwire) - Wireshark plugin to display Suricata analysis info.
 - [bash_cata](https://github.com/isMTv/bash_cata) - A simple script that processes the generated Suricata eve-log in real time and, based on alerts, adds an ip-address to the MikroTik Address Lists for a specified time for subsequent blocking.
 - [suriGUI](https://github.com/control-owl/suriGUI) - GUI for Suricata + Qubes OS.
+- [SuriGuard](https://github.com/SEc-123/SuriGuard1) - Web-based management system for Suricata IDS/IPS, featuring advanced analytics and visualization capabilities.

@@ -48,16 +48,10 @@
 - [countdown.js](https://gist.github.com/flasozzi/ab6222ea15de5113555c32c855e9e326) - Simple countdown to dates.
 
   <img src="https://user-images.githubusercontent.com/17153908/95031000-bdd3e980-0689-11eb-83ce-49e2adbe1ca1.jpg" width="400"/>
-  
-- [HomeDateGreeting.js](https://gist.github.com/cassianomon/efffbe09d20013986cd4ffc0f362a3e2) - Date and time greeting with background from Unsplash. 
 
 - [daysUntilBirthday](https://github.com/lwitzani/daysUntilBirthday) - List of upcoming birthdays from contacts.
 
   <img src="https://raw.githubusercontent.com/lwitzani/daysUntilBirthday/main/fullySetupWidget.PNG" width="400"/>
-
-- [scriptable-calendar-widget](https://github.com/rudotriton/scriptable-calendar-widget) - Customizable calendar.
-
-  <img src="https://raw.githubusercontent.com/rudotriton/scriptable-calendar-widget/main/assets/scriptable-calendar-widget.jpg" width="400"/>
 
 - [ScriptableWordClockWidget](https://github.com/bitKrakenCode/ScriptableWordClockWidget) - Clock showing the current time in writing.
 
@@ -87,15 +81,9 @@
 
 ## Gaming
 
-- [MinecraftServerWidget.js](https://github.com/au5ton/scriptable.app/tree/main/MinecraftServerWidget) - Information about a Minecraft server.
-
 - [steam-wishlist.js](https://gist.github.com/brenoprata10/10d6bd1c8445a1181b899dd47c715577) - Shows items from a user's Steam wishlist.
 
 ## Health
-
-- [Covid iOS Widget](https://github.com/Hider-alt/covid-widget) - Covid-19 cases graph of a selected country.
-
-  <img src="https://raw.githubusercontent.com/Hider-alt/covid-widget/main/img/Mockup.png" width="800">
 
 - [Coronavirus.js](https://gist.github.com/planecore/e7b4c1e5db2dd28b1a023860e831355e) -  Covid-19 cases of a selected country.
 
@@ -143,17 +131,15 @@
 
   <img src="https://raw.githubusercontent.com/henningtillmann/sonntagsfrage/main/screenshot-1.png" width="400"/>
 
-- [tagesschau-widget](https://github.com/trbnhck/scriptable-scripts/tree/main/tagesschau-widget) - The latest article from the German news site _Tagesschau_.
-
-  <img src="https://camo.githubusercontent.com/a90be978f61e852bddd16233548c44211d3f2de1a2ac5285c352e0c0bfe0d4f9/68747470733a2f2f696d6775722e636f6d2f696f65576869792e6a7067" width="400"/>
-
 ## Social
 
 - [conversable-for-scriptable](https://github.com/andyngo/conversable-for-scriptable) - Contact icons to start conversations.
 
   <img src="https://raw.githubusercontent.com/andyngo/conversable-for-scriptable/main/conversable.png" width="400"/>
 
-- [ig-latest-post.js](https://github.com/supermamon/scriptable-scripts/blob/master/instagram-widgets/ig-latest-post.js) - The latest post from selected Instagram users.
+- [ig-latest-post.js](https://github.com/supermamon/scriptable-instagram-widgets) - The latest post from selected Instagram users.
+
+  <img src="https://raw.githubusercontent.com/supermamon/scriptable-instagram-widgets/refs/heads/master/img/iglp-2.png" width="400"/>
 
 - [termiWidget.js](https://gist.github.com/spencerwooo/7955aefc4ffa5bc8ae7c83d85d05e7a4) - Terminal-like output of subscriber amount.
 
@@ -166,6 +152,12 @@
 - [dm-toilet-paper.js](https://gist.github.com/marco79cgn/23ce08fd8711ee893a3be12d4543f2d2) - Toilet paper availability in a nearby drugstore.
 
   <img src="https://user-images.githubusercontent.com/9810829/96903902-b3418e80-1496-11eb-954c-1e2d9b8f9c69.JPG" width="400"/>
+
+## Space
+
+- [Launch Schedule](https://github.com/rik-rosseel/launch-schedule) - Upcoming space launches and info.
+
+  <img src="https://raw.githubusercontent.com/rik-rosseel/awesome-scriptable/assets/36194842/976f0107-3fae-4502-9d9a-2a8315986386.JPG" width="400"/>
 
 ## Sports
 
@@ -185,9 +177,11 @@
 
   <img src="https://raw.githubusercontent.com/p0fi/skiable-for-scriptable/main/cover.png" width="400"/>
 
-- [Upcoming Matches](https://gist.github.com/ilyichvismara/7895bb479e14a999f3cfd2c391f10597) - Upcoming matches of a football team.
-
 ## Tools
+
+- [bwh-monitor-widget-for-scriptable](https://github.com/f1tz/bwh-monitor-widget-for-scriptable) - BandWagonHost VPS Monitoring Widget.   
+
+  <img src="https://raw.githubusercontent.com/f1tz/bwh-monitor-widget-for-scriptable/main/imgs/widget_preview.jpg" width="400"/>
 
 - [bamboo-scriptable-widget](https://github.com/Korysam15/bamboo-scriptable-widget) - Status of build plans from Bamboo.   
 
@@ -203,11 +197,9 @@
 
 - [mz_invisible_widget.js](https://gist.github.com/mzeryck/3a97ccd1e059b3afa3c6666d27a496c9) - Creation of "invisible" backgrounds.
 
-- [PlexStreamsWidget.js](https://github.com/au5ton/scriptable.app/tree/main/PlexStreamsWidget) - Information about a Plesk server.
-
 - [PurpleAir-AQI-Scriptable-Widget](https://github.com/jasonsnell/PurpleAir-AQI-Scriptable-Widget) - Air Quality from PurpleAir sensor.
 
-  <img src="https://camo.githubusercontent.com/1fdb80ce7198c16a4fafd1586a45307bbf255962/68747470733a2f2f736978636f6c6f72732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f7769646765742d6c61746573742e6a706567" width="400"/>
+  <img src="https://camo.githubusercontent.com/30832e8a15e65027863fc897d902810c1cbd3160f7c0e0a6ae96d3c37720cdca/68747470733a2f2f736978636f6c6f72732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30382f6e65772d6171692e6a7067" width="400"/>
 
 - [scriptable-testflight-watcher](https://github.com/FifiTheBulldog/scriptable-testflight-watcher) - Get notifications about new spots in TestFlight betas.
 
@@ -220,8 +212,6 @@
 - [woocommerce-sales](https://gist.github.com/olikdesign/4c9c5549686c81e728b065286eb0e750) - Sales statistics from WooCommerce shop.
 
   <img src="https://user-images.githubusercontent.com/56842969/97914623-76a44b80-1d50-11eb-9273-b35b4b76a3f0.jpeg" width="400"/>
-
-- [xkcd.js](https://github.com/supermamon/scriptable-scripts/blob/master/xkcd-widget/xkcd.js) - Current or random xkcd comic.
 
 ## Traveling
 

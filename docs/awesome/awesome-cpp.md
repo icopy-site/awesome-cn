@@ -50,6 +50,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [rpp](https://github.com/TheNumbat/rpp) - Minimal Rust-inspired C++20 STL replacement. [MIT]
 * [SaneCppLibraries](https://github.com/Pagghiu/SaneCppLibraries) - a set of C++ platform abstraction libraries for macOS, Windows and Linux. [MIT] [website](https://pagghiu.github.io/SaneCppLibraries/)
 * [Seastar](https://github.com/scylladb/seastar) - An advanced, open-source C++ framework for high-performance server applications on modern hardware. [Apache-2.0 License] [seastar.io](http://seastar.io/)
+* [Siv3D](https://github.com/Siv3D/OpenSiv3D) - Siv3D (OpenSiv3D) is a C++20 framework for creative coding (2D/3D games, media art, visualizers, and simulators). [MIT] [website](https://siv3d.github.io/)
 * [STLport](http://www.stlport.org/) - An exemplary version of STL. [Free]
 * [STXXL](http://stxxl.sourceforge.net/) - Standard Template Library for Extra Large Data Sets. [Boost]
 * [tbox](https://github.com/tboox/tbox) - A glib-like multi-platform c library. [Apache2] [website](http://tboox.org/)
@@ -1093,6 +1094,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 ## Yaml
 
+* [LibYAML](https://github.com/yaml/libyaml) - A C library for parsing and emitting YAML. [MIT] [website](https://pyyaml.org/wiki/LibYAML)
 * [mini-yaml](https://github.com/jimmiebergmann/mini-yaml) - Single header YAML 1.0 C++11 serializer/deserializer. [MIT]
 * [yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++. [MIT]
 * [rapidyaml](https://github.com/biojppm/rapidyaml) - Rapid YAML is a C++ library to parse and emit YAML. [MIT]
