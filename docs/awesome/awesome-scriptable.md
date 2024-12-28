@@ -13,6 +13,10 @@
 
 
 
+## Art
+
+- [Random-Canvas](https://github.com/RiccStella/Random-Canvas) - Generates random images.
+
 ## Cars
 
 - [BMW Linker](https://github.com/opp100/bmw-scriptable-widgets) - Information about your BMW, like location or mileage.

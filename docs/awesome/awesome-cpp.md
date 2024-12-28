@@ -1096,8 +1096,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [LibYAML](https://github.com/yaml/libyaml) - A C library for parsing and emitting YAML. [MIT] [website](https://pyyaml.org/wiki/LibYAML)
 * [mini-yaml](https://github.com/jimmiebergmann/mini-yaml) - Single header YAML 1.0 C++11 serializer/deserializer. [MIT]
-* [yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++. [MIT]
 * [rapidyaml](https://github.com/biojppm/rapidyaml) - Rapid YAML is a C++ library to parse and emit YAML. [MIT]
+* [yaml-cpp](https://github.com/jbeder/yaml-cpp) - A YAML parser and emitter in C++. [MIT]
 
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above or maybe just not categorised yet*
@@ -1112,6 +1112,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Cheat Sheets of HackingCPP](https://hackingcpp.com/cpp/cheat_sheets.html) - Cool cheat sheets and infographics for algorithms, views, containers, randomness, etc.
 * [Concord](https://github.com/Cogmasters/concord) - A Discord API wrapper library written in C. [MIT] [website](https://cogmasters.github.io/concord)
 * [CPPItertools](https://github.com/ryanhaining/cppitertools) - Range-based for loop add-ons inspired by the Python builtins and itertools library. [BSD-2-Clause]
+* [CPP-JWT](https://github.com/arun11299/cpp-jwt) - JSON Web Token library for C++. [MIT]
 * [cpp-lazy](https://github.com/MarcDirven/cpp-lazy) - a fast and easy lazy evaluation library for C++11/14/17/20. [MIT]
 * [CRCpp](https://github.com/d-bahr/CRCpp) - Easy to use and fast C++ CRC library. [BSD-3-Clause]
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers. [Boost]
