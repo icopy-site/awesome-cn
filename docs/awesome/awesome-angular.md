@@ -614,6 +614,7 @@ become an Angular expert.
 * [ngx-translate-version](https://github.com/Celtian/ngx-translate-version) - Angular module that provides version to your language files.
 * [ngx-signal-translate](https://github.com/adamcsk1/ngx-signal-translate) - A signal-driven translation service.
 * [ngs-plural](https://github.com/andrei-shpileuski/ngs-plural) - A lightweight Angular library for handling pluralization in different languages using a pipe and a service. It simplifies the process of generating grammatically correct plural forms based on a numeric count and supports custom language rules.
+* [ngx-translate-messageformat-compiler](https://github.com/lephyrus/ngx-translate-messageformat-compiler) - Compiler for `ngx-translate` that uses [messageformat.js](https://github.com/messageformat/messageformat) to compile translations using ICU syntax for handling pluralization and gender.
 
 #### Module Federation
 
@@ -948,6 +949,7 @@ become an Angular expert.
 * [ngx-panemu-table](https://github.com/panemu/ngx-panemu-table) - An Angular table component. It is designed to be easy to use. Most work will be in TypeScript file, while the HTML file only needs to have a very simple `panemu-table` tag.
 * [ngx-grid](https://github.com/blueshiftone/ngx-grid) - A professional Angular data grid.
 * [@guiexpert/angular-table](https://github.com/guiexperttable/angular-19-table) - Framework-agnostic table library designed to seamlessly integrate with the major frameworks, including [Angular](https://gui.expert/getstarted/angular/).
+* [ngx-tabulator-tables](https://github.com/knackstedt/ngx-tabulator-tables) - Angular wrapper for the [Tabulator](https://tabulator.info/) table library.
 
 #### Dates
 
@@ -1183,6 +1185,7 @@ to simplify usage and allow quick customization.
 * [ngx-unsplash](https://github.com/BerryCloud/ngx-unsplash) - Angular service for proxied [Unsplash API](https://unsplash.com/developers).
 * [ngx-img-cropper](https://github.com/web-dave/ngx-img-cropper) - Image cropping tool for Angular.
 * [ngx-smart-cropper](https://github.com/kurti-vdb/ngx-smart-cropper) - Angular standalone component that allows users to upload, crop, and resize images with ease. It provides intuitive drag-and-resize functionality, grid overlays, and supports various aspect ratios and output formats.
+* [ngx-annotorious](https://github.com/vedph/ngx-annotorious) - Angular wrapper for [Annotorious V3](https://annotorious.dev/), a library that adds annotations to images.
 
 #### Keyboard Mouse
 

@@ -215,6 +215,12 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 * [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 * [yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
 
+### Finance
+
+See also [Payments](#payments) applications.
+
+* [e257-fi/tackler-ng](https://github.com/e257-fi/tackler-ng) [[tackler](https://crates.io/crates/tackler)] - Fast, reliable bookkeeping engine with native GIT SCM support for plain text accounting [![CI Badge](https://github.com/e257-fi/tackler-ng/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/e257-fi/tackler-ng/blob/main/.github/workflows/ci.yml)
+
 ### Games
 
 See also [Games Made With Piston](https://github.com/PistonDevelopers/piston/wiki/Games-Made-With-Piston).

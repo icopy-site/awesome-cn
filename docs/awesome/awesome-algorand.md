@@ -326,6 +326,19 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 
 - [NFDomains](https://nf.domains/) - Algorand name service and marketplace for Non-Fungible Domains (NFDs) — unique, readable aliases for wallet addresses.
 
+## SSI, DID and Verifiable Credentials
+
+> A list of W3C decentralized identifiers, verifiable credentials and Self sovereign identity service projects.
+
+- [GoPlausible](https://goplausible.com) - Provides [PLAUSIBLE protocol](https://github.com/GoPlausible), A W3C DIDs, Verifiable Credentials and Utility NFTs protocol built on Algorand, as well as [ThisDID](https://thisdid.com) Universal W3C DID/URI resolver.
+
+## AI and machine learning
+
+> A list of AI, ML and Data Science projects that leverage Algorand.
+
+- [Algorand-GPT](https://chatgpt.com/g/g-izA6hnC93-algorand-gpt) - An Algorand Assistant Expert with access to all Algorand documentation and chain data built on OpenAI's ChatGPT platform by GoPlausible.
+- [DID-GPT](https://chatgpt.com/g/g-rOCQculZQ-did-gpt) - A W3C DID resolver assistant built on OpenAI's ChatGPT platform by GoPlausible.
+
 ## Community Resources
 
 > The following contains sections related to open source projects, utilities, and news resources.
@@ -349,8 +362,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [galvanity](https://github.com/shmutalov/galvanity) - Galvanity is Algorand vanity address generator written in Go.
 - [genpyteal](https://github.com/runvnc/genpyteal) - Generate PyTeal from (mostly) normal Python.
 - [AgorHash](https://github.com/bafio89/agorhash) - Public, permissionless, decentralized and uncensorable free speech protocol.
-- [GoPlausible](https://github.com/GoPlausible) - Proof of anything protocol, built on Algorand. [Create or claim your first PLAUS on Algorand!](https://goplausible.com).
-- [QRCode Generator](https://github.com/emg110/algorand-qrcode)
+- [QRCode Generator](https://github.com/emg110/algorand-qrcode) - Uinversal QRCode generator module for Algorand ARC-26 URIs.
 - [algofractals](https://github.com/aorumbayev/algofractals) - Mint randomly generated mandelbrot fractals with embedded ARC69 tags. (Archived on Dec 31, 2023)
 - [algorewards](https://algorewards.github.io/) - Free and unofficial Algorand governance reward calculator. Hosted on GitHub Pages.
 - [algorand.dev](https://algorand.dev/) - Algorand Developer: The unofficial developer resource.
