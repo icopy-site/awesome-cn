@@ -57,7 +57,7 @@ Also see:
 Meet Magento Events bring together everyone from merchants through developers, solution and technology providers, and 
 marketers—and we continue to expand. 
 
-- [Meet Magento New York](https://meetmagentonyc.com/) - Meet Magento New York 
+- [Meet Magento New York](https://meetmagentonyc.com/) - Meet Magento New York
 - [Meet Magento UK](https://uk.meet-magento.com/) - Meet Magento UK 
 - [Meet Magento Baltics](https://meetmagentobaltics.com/) - Meet Magento Baltics
 
@@ -108,6 +108,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Magento 2 Url Data Integrity Checker](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) - Magento 2 module which can find potential url related problems in your catalog data
 - [Mage Wizard](https://github.com/clickAndMortar/mage-wizard) - Local web UI to view and create automatically modules, plugins, configs, observers, commands, crontabs, etc. directly in Magento 2 codebase
 - [Mage](https://github.com/GrimLink/mage) - Simplifies bin/magento commands by adding helpful shortcuts and time-saving tools to enhance your productivity.
+- [Magento Log Viewer - A Visual Studio Code Extension ](https://marketplace.visualstudio.com/items?itemName=MathiasElle.magento-log-viewer) - Provides a convenient way to view, watch and manage Magento log files and reports directly in your workspace.
 
 ## Open Source Extensions
 
@@ -330,8 +331,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Magento Github Repository](https://github.com/magento/magento2) - Github Repository.
 - [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog?nobounce=) - Developer Blog by
   Magento.
-- [Magento 2 data migration tool](https://github.com/magento/data-migration-tool) - Official Magento 1 to Magento 2
-  migration tool.
+- [Magento 2 data migration tool](https://github.com/magento/data-migration-tool) - Official Magento 1 to Magento 2 migration tool.
 - [Magento Coding Standards](https://github.com/magento/magento-coding-standard) - Official Magento2 Advanced Set of
   Rules for PHP_CodeSniffer.
 - [Magento 2 Architecture](https://github.com/magento/architecture) - A place where Magento architectural discussions

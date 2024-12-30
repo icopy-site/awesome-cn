@@ -706,6 +706,7 @@ _Libraries for building and using SQL._
 - [go-oci8](https://github.com/mattn/go-oci8) - Oracle driver for go that uses database/sql.
 - [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) - MySQL driver for Go.
 - [go-sqlite3](https://github.com/mattn/go-sqlite3) - SQLite3 driver for go that uses database/sql.
+- [go-sqlite3](https://github.com/ncruces/go-sqlite3) - This Go module is compatible with the database/sql driver. It allows embedding SQLite into your application, provides direct access to its C API, supports SQLite VFS, and also includes a GORM driver.
 - [godror](https://github.com/godror/godror) - Oracle driver for Go, using the ODPI-C driver.
 - [gofreetds](https://github.com/minus5/gofreetds) - Microsoft MSSQL driver. Go wrapper over [FreeTDS](https://www.freetds.org).
 - [KSQL](https://github.com/VinGarcia/ksql) - A Simple and Powerful Golang SQL Library
@@ -2293,6 +2294,7 @@ _Libraries for testing codebases and generating test data._
 - [mockhttp](https://github.com/tv42/mockhttp) - Mock object for Go http.ResponseWriter.
 - [mooncake](https://github.com/GuilhermeCaruso/mooncake) - A simple way to generate mocks for multiple purposes.
 - [moq](https://github.com/matryer/moq) - Utility that generates a struct from any interface. The struct can be used in test code as a mock of the interface.
+- [pgxmock](https://github.com/pashagolub/pgxmock) - A mock library implementing [pgx - PostgreSQL Driver and Toolkit](https://github.com/jackc/pgx/).
 - [timex](https://github.com/cabify/timex) - A test-friendly replacement for the native `time` package.
 - [xgo](https://github.com/xhd2015/xgo) - A general pureposed function mocking library.
 

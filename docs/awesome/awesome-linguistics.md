@@ -16,7 +16,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [Natural Language ToolKit (NLTK)](http://www.nltk.org/) - The most complete platform for building Python programs to work with human language data.
 * [Snowball](https://snowballstem.org/) - Snowball is a language in which stemming algorithms can be easily represented.
 * [Spacy](https://spacy.io/) - Industrial-strength  National Language Processing in Python.
-* [Mate Tools](http://hdl.handle.net/11022/1007-0000-0000-8E4E-A), webservice via [WebLicht](https://weblicht.sfs.uni-tuebingen.de/)
+* [Mate Tools](http://hdl.handle.net/11022/1007-0000-0000-8E4E-A), webservice via WebLicht
 * [UBIAI](https://ubiai.tools/) - Easy-to-use text annotation tool for teams with most comprehensive auto-annotation features. Supports NER, relations and document classification as well as OCR annotation for invoice labeling.
 * [textblob-de](https://github.com/markuskiller/textblob-de) - Nice alternative for spacy (see above).
 * [UralicNLP](https://github.com/mikahama/uralicNLP) - An open source Python library for processing morphologically rich and, for the most part, endangered Uralic languages. It can do morphological analysis, generation, lemmatization, disambiguation and lexical lookup for a great many Uralic languages.
