@@ -370,7 +370,7 @@ Software, tools, and platforms that employ models that draw inferences from data
 ### Digital Twins Tools and Platforms
 Software, tools, and platforms specifically marketed as helping support the creation, visualization, operation, or maintenance of [smart city digital twins](https://www.planning.org/publications/document/9209455/).
 - [OpenTwins](https://ertis-research.github.io/opentwins/) - An open source platform designed to facilitate the development of digital twins and is characterised by the exclusive use of open source components.
-- [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/) - Omiverse is a platform of APIs, SDKs, and services that enable developers to easily integrate Universal Scene Description (OpenUSD) and NVIDIA RTX rendering technologies into existing software tools and simulation workflows 
+- [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/) - Omiverse is a platform of APIs, SDKs, and services that enable developers to easily integrate Universal Scene Description (OpenUSD) and NVIDIA RTX rendering technologies into existing software tools and simulation workflows.
 
 ### Economic Development and Econometric Platforms
 Software, tools, and platforms that help planners understanding the economic impacts of decisions, from fiscal impact analysis to employment forecasting. 

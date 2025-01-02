@@ -123,7 +123,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/coq
 ### Tools
 
 - [Alectryon](https://github.com/cpitclaudel/alectryon) - Collection of tools for writing technical documents that mix Coq code and prose.
-- [Autosubst 2](https://github.com/uds-psl/autosubst2) - Tool that generates Coq code for handling binders in syntax, such as for renaming and substitutions.
+- [Autosubst-ocaml](https://github.com/uds-psl/autosubst-ocaml) - Tool that generates Coq code for handling binders in syntax, such as for renaming and substitutions.
 - [CFML](https://gitlab.inria.fr/charguer/cfml2) - Tool for proving properties of OCaml programs in separation logic.
 - [coq2html](https://github.com/xavierleroy/coq2html) - Alternative HTML documentation generator for Coq.
 - [coqdoc](https://coq.inria.fr/refman/using/tools/coqdoc.html) - Standard documentation tool that generates LaTeX or HTML files from Coq code.
