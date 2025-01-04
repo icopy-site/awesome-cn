@@ -1064,6 +1064,7 @@ Some data mining competition platforms
 - [How Generative AI Is Changing Creative Work](https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work)
 - [What is generative AI?](https://www.techtarget.com/searchenterpriseai/definition/generative-AI)
 - [Top 100+ Machine Learning Interview Questions (Beginner to Advanced)](https://www.appliedaicourse.com/blog/machine-learning-interview-questions/)
+- [Data Science Projects](https://github.com/veb-101/Data-Science-Projects)
 
 
 ### Hobby

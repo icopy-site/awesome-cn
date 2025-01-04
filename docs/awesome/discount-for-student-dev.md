@@ -348,6 +348,11 @@ Table of Contents
 * [Neptune](https://neptune.ai/research) [FREE] - Neptune is an experiment tracker for ML teams that struggle with debugging and reproducing experiments, sharing results, and messy model handovers free to use for Academic and research.
 * [Comet](https://www.comet.com/signup?plan=academic) [FREE] - Comet provides an end-to-end model evaluation platform for AI developers, with best-in-class LLM evaluations, experiment tracking, and production monitoring.
 
+## Screen Recorders
+
+* [1001 Record](https://1001record.com/educational-discount) [DISCOUNT] - 1001 Record is the best screen recording app for Mac with a built-in annotation tool and more. 60% Discount for students.
+
+
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
