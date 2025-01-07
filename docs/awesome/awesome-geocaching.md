@@ -31,6 +31,9 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/Fox
 - [My Geocaching Profile](https://mygeocachingprofile.com/) - Website to build a detailed profile of your geocaching accomplishments.
 - [CacheSleuth](https://www.cachesleuth.com/) - Website with many useful tools for geocaching (mainly text decoders).
 - [LonelyCache](https://www.lonelycache.com/) - Website with the list of geocaches that were not found in many years.
+- [GC Wizard Web View](https://gcwizard.net/) - A web view of the GC Wizard app.
+- [SolvedJigidi](https://solvedjigidi.com/) - The database of solved Jigidi geocaches.
+- [Webwigo](https://www.webwigo.net/) - Website for virtual playing of Wherigo geocaches.
 
 
 ## Apps
@@ -47,6 +50,8 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/Fox
 - [GeoGet](https://www.geoget.cz/doku.php/start) - `[Windows]` Geocache manager, where you can manage your final waypoints, add notes or waypoints to geocache or import/export geocache from/to GeoGet.
 - [GSAK (Geocaching Swiss Army Knife)](https://gsak.net/index.php/) - `[Windows]` Desktop app for managing geocaches and waypoints.
 - [GCC (GeoCache Calculator)](https://play.google.com/store/apps/details?id=eisbehr.gcc&hl=en&gl=US) - `[Android]` Calculator with over 250 different functions to calculate values.
+- [GC Wizard](https://blog.gcwizard.net/about/) - An open-source tool collection for Android and iOS. It was created to offer Geocachers an offline tool to support them with in-field mysteries and riddles.
+- [CacheStats](https://logicweave.com/) - `[Windows]` Application that displays your geocaching statistics.
 - [Caching on Kai](https://caching-on-kai.com/) - `[KaiOS]` Geocaching app for KaiOS users.
 - [Cacher](https://apps.garmin.com/apps/624aed67-b068-45b4-92af-cbc1885b7e1d) - `[Garmin]` Gatmin watch app for geocaching.
 

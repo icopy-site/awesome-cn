@@ -68,6 +68,7 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 - [Kronometer](https://apps.kde.org/kronometer/) A stopwatch application for KDE 📌.
 - [KWrite](https://apps.kde.org/kwrite/) - A text editor by KDE, based on the KDE Frameworks editor component 📌.
 - [RSI Break](https://apps.kde.org/rsibreak/) - RSIBreak can be used to remind you to take a break now and then 📌.
+- [Kraft](https://volle-kraft-voraus.de/) - Kraft simplifies to handle documents like invoices in your small business.
 
 ### System Administration
 
