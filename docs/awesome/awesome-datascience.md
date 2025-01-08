@@ -1065,6 +1065,8 @@ Some data mining competition platforms
 - [What is generative AI?](https://www.techtarget.com/searchenterpriseai/definition/generative-AI)
 - [Top 100+ Machine Learning Interview Questions (Beginner to Advanced)](https://www.appliedaicourse.com/blog/machine-learning-interview-questions/)
 - [Data Science Projects](https://github.com/veb-101/Data-Science-Projects)
+- [Is Data Science a Good Career?](https://www.scaler.com/blog/is-data-science-a-good-career/)
+
 
 
 ### Hobby

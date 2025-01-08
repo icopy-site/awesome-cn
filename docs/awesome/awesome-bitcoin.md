@@ -36,6 +36,7 @@ A curated list of bitcoin services and tools for software developers
 * [Tatum](https://tatum.io/blockchain-api) - The blockchain development platform to build Web3 application. The go-to blockchain data API for Web3 developers.
 * [mempool.space](https://mempool.space/docs/api/rest) - Open source and self hostable REST, WebSocket and Electrum RPC API
 * [kibō.money](https://kibo.money) - An open source Bitcoin Core data extractor and visualizer (aka FOSS Glassnode)
+* [Maestro](https://www.gomaestro.org/) - Advanced UTxO-indexing data layer to Supercharge Defi on Bitcoin
 
 ## Market Data API
 * [CoinMetrics.io](https://docs.coinmetrics.io/api/v2/) JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.

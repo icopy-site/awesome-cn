@@ -12,7 +12,7 @@
 
 ### Admin
 
-- [Flask-Admin](https://github.com/flask-admin/flask-admin) - Functional admin panel that provides a user interface for managing data based on your models.
+- [Flask-Admin](https://github.com/pallets-eco/flask-admin) - Functional admin panel that provides a user interface for managing data based on your models.
 
 ### APIs
 
@@ -125,7 +125,7 @@
 
 #### Tracing
 
-- [Flask-OpenTracing](https://github.com/opentracing-contrib/python-flask) - OpenTracing instrumentation.
+- [OpenTelemetry](https://opentelemetry-python-contrib.readthedocs.io/en/latest/instrumentation/flask/flask.html) - OpenTelemetry Flask Instrumentation.
 
 #### Testing
 
@@ -134,7 +134,7 @@
 
 ### Email
 
-- [Flask-Mail](https://pythonhosted.org/Flask-Mail/) - Provides simple email sending capabilities.
+- [Flask-Mail](https://flask-mail.readthedocs.io/) - Provides simple email sending capabilities.
 - [Flask-Mailman](https://pypi.org/project/flask-mailman/) - A port of `django.mail` for Flask.
 - [Flask-Mail-SendGrid](https://github.com/hamano/flask-mail-sendgrid) - Provides simple email base on Flask-Mail for sending email by SendGrid.
 
@@ -253,7 +253,7 @@
 
 - [Flask Web Development](https://www.oreilly.com/library/view/flask-web-development/9781491991725/) - Learn the framework from the ground up by developing, step-by-step, a real-world project.
 - [Real Python](https://realpython.com) - Learn Python programming, by example.
-- [Explore Flask](https://exploreflask.com/) - Best practices and patterns for developing web applications with Flask.
+- [Explore Flask](https://explore-flask.readthedocs.io/) - Best practices and patterns for developing web applications with Flask.
 
 ### Videos
 
