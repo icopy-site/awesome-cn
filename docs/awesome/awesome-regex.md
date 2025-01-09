@@ -119,6 +119,8 @@ Contributions are welcome. Add links through pull requests ([guidelines](https:/
 
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - Better and faster grep. Recursively searches directories while respecting gitignore rules and skipping hidden/binary files.
   - Flavors: Rust (default), PCRE.
+- [nomino](https://github.com/yaa110/nomino) - Rename files uses regexes.
+  - Flavor: Rust.
 
 ➕ **See also:** [Feature comparison of grep-like tools](https://beyondgrep.com/feature-comparison/).
 

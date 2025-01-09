@@ -112,6 +112,7 @@ This is a curated list for when naming things is done right.
 - [Bottleneck](https://en.wikipedia.org/wiki/Bottleneck#Computing) - A central part of a network/application that significantly limits throughput/performance and should ideally be eliminated.
 - [Brick](https://en.m.wikipedia.org/wiki/Brick_(electronics)) - When your device is so corrupted it virtually turns into a brick.
 - [camelCase, snake_case, kebab-case](https://en.wikipedia.org/wiki/Letter_case#Use_within_programming_languages) - Different case styles where the name illustrates its appearance.
+- [Code golf](https://en.wikipedia.org/wiki/Code_golf) - Writing a program in as few characters as possible. Just like how Golf players try to win in the fewest club strokes.
 - [Cookie licking](https://devblogs.microsoft.com/oldnewthing/20091201-00/?p=15843) - E.g. claiming a GitHub issue, then not working on it.
 - [Easter egg](https://en.wikipedia.org/wiki/Easter_egg_(media)) - A hidden feature especially in video games in reference to the Easter egg hunt.
 - [Floating point number](https://floating-point-gui.de/formats/fp/) - This representation can encode numbers at very different magnitudes with limited amount of digits by letting the radix point _float_ instead of being fixed in place.

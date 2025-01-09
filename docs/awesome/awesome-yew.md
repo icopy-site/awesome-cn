@@ -70,7 +70,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [Rquote](https://github.com/Altair-Bueno/rquote) - Rquote is a web application built using Rust and WebAssembly. It fetches Anime quotes from the Animechan API. [Live Demo](https://rquote.vercel.app/).
 - [yew-ssr-tide](https://github.com/zzy/yew-ssr-tide) - The example demonstrates Yew server-side rendering with tide & surf, it needs the **development version** of Yew.
 - [yew-ssr-actix-web](https://github.com/zzy/yew-ssr-actix-web) - The example demonstrates Yew server-side rendering with actix-web & reqwest, it needs the **development version** of Yew.
-- [PixelGuesser](https://github.com/tdooms/pixelguesser) - PixelGuesser is a real life party gam where players try to guess the contents of an image as quickly as possible. 
+- [PixelGuesser](https://github.com/tdooms/pixelguesser) - PixelGuesser is a real life party gam where players try to guess the contents of an image as quickly as possible.
 - [Crabtyper](https://github.com/brancobruyneel/crabtyper) - A speedtyping web app written in Rust.
 - [We-Come Monorepo](https://github.com/kabinetkmitb/wecome) - This is a monorepo for wecome KM ITB, [Live Demo](https://wecome-itb.com/).
 - [blog-rs](https://github.com/songday/blog-rs) - A blog system in which frontend and backend are ALL written in Rust. Backend powered by Warp and frontend built on Yew (WASM).
@@ -104,7 +104,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [Sentry Relay](https://github.com/getsentry/relay) - The Sentry Relay is a service that pushes some functionality from the Sentry SDKs as well as the Sentry server into a proxy process.
 - [Syre](https://github.com/syre-data/syre) - Scientific data management and insights.
 - [candle-wasm-examples](https://github.com/huggingface/candle) - Candle is a minimalist ML framework for Rust with a focus on performance (including GPU support) and ease of use. Try our online demos: [whisper](https://huggingface.co/spaces/lmz/candle-whisper), [LLaMA2](https://huggingface.co/spaces/lmz/candle-llama2), [T5](https://huggingface.co/spaces/radames/Candle-T5-Generation-Wasm), [yolo](https://huggingface.co/spaces/lmz/candle-yolo), [Segment
-Anything](https://huggingface.co/spaces/radames/candle-segment-anything-wasm).
+  Anything](https://huggingface.co/spaces/radames/candle-segment-anything-wasm).
 - [chipbox](https://github.com/chipnertkj/chipbox) - chipbox is an open-source desktop DAW written in Rust.
 - [Taxy](https://github.com/picoHz/taxy/tree/main) - A reverse proxy server with built-in WebUI, supporting TCP/HTTP/TLS/WebSocket, written in Rust.
 - [Proxelar](https://github.com/emanuele-em/proxelar) - Rust-based Man in the Middle proxy, an early-stage project aimed at providing visibility into network traffic.
@@ -226,6 +226,7 @@ Anything](https://huggingface.co/spaces/radames/candle-segment-anything-wasm).
 - [Yew - Rust & WebAsse-frontend framework](https://sudonull.com/post/11627-Yew-Rust-WebAsse-frontend-framework)
 - [Create a desktop app in Rust using Tauri and Yew](https://dev.to/stevepryde/create-a-desktop-app-in-rust-using-tauri-and-yew-2bhe)
 - [A code walkthrough video of Yew with a real-world app with Christopher Hunt and Kiki Carter](https://www.youtube.com/watch?v=ilrGIJGdqRo)
+- [Adding Tailwind to Yew](https://mikekrisher.com/writings/yew_and_tailwind)
 
 ## Courses
 
