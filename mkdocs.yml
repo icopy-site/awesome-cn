@@ -10,7 +10,7 @@ repo_url: 'https://github.com/icopy-site/awesome-cn'
 edit_uri: 'blob/master/docs/'
 
 # Copyright
-copyright: 'Copyright &copy; 2016 - 2019'
+copyright: 'Copyright &copy; 2016 - 2025'
 
 # Contents
 nav:
@@ -505,6 +505,9 @@ extra:
   search:
     language: 'jp'
   copyright: 'CC BY-NC-SA 4.0'
+  analytics:
+    provider: google
+    property: G-0T5HGMNQ9E
 
 extra_javascript:
   - 'https://cdnjs.loli.net/ajax/libs/pangu/3.3.0/pangu.min.js'
@@ -512,6 +515,7 @@ extra_javascript:
   - 'https://cdn.staticfile.org/jquery/3.3.1/jquery.min.js'
   - 'https://cdn.staticfile.org/github-repo-widget/e23d85ab8f/jquery.githubRepoWidget.min.js'
   - 'https://cdnjs.loli.net/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'
+  - 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6890694312814945'
 
 extra_css:
   - '_static/css/extra.css'
