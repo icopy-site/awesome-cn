@@ -84,6 +84,7 @@ Additional lists you might find useful:
 *Plugins for sending and parsing email.*
 
 - [Queue plugin](https://github.com/dereuromark/cakephp-queue) - A dependency-free queue-based mail solution using Mailer/Email class, allowing re-queue on (network) failure.
+- [SendGrid plugin](https://github.com/sprintcube/cakephp-sendgrid) - Email transport plugin for sending email via SendGrid API.
 
 ## File Manipulation
 *Plugins for file manipulation.*
