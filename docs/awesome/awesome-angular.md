@@ -354,6 +354,7 @@ become an Angular expert.
 * [deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website.
 * [abbi-ng-ai-image-descriptor](https://github.com/slsfi/abbi-ng-ai-image-descriptor) - Angular web app for AI-generated image descriptions. You need an OpenAI API key to use the tool.
 * [ng-flexbot](https://github.com/arolleaguekeng/ng-flexbot) - An open-source Angular UI library designed to create chatbots with just a few lines of code. It allows you to select from various models, such as GPT and Google Gemini, and customize the chatbot’s behavior using a prompt context.
+* [Frontend AI](https://www.webcrumbs.org/frontend-ai) - Ask for a component or upload an image, and instantly receive ready-to-use code without lifting a finger.
 
 #### Analytics
 
@@ -530,7 +531,7 @@ become an Angular expert.
 * [@ngify/http](https://github.com/ngify/ngify/tree/main/packages/http) - A reactive HTTP client in the form of `@angular/common/http`, offers the following major features: typed response objects, streamlined error handling, request and response interception.
 * [ngx-http-annotations](https://github.com/manudss/ngx-http-annotations) - Updated fork of [ngx-http-rest](https://github.com/Mixalloff/ngx-http-rest), which allows you to interact with rest api in your Angular app through annotations.
 * [ng-http-loader](https://github.com/mpalourdio/ng-http-loader) - Smart Angular HTTP interceptor - Intercepts automagically HTTP requests and shows a spinkit spinner / loader / progress bar.
-* [ngx-signalify](https://github.com/alcfeoh/ngx-signalify) - A small library to convert RxJs Observables into Angular Signals.
+* [ngx-signalify](https://github.com/alcfeoh/ngx-signalify) - A small library to convert RxJS Observables into Angular Signals.
 * [angular-odata](https://github.com/diegomvh/angular-odata) - A fluent API for querying, creating, updating and deleting OData resources in Angular.
 * [ngx-http-retry](https://github.com/itpixelz/ngx-http-retry) - An Angular service that provides HTTP methods (GET, POST, PUT, DELETE) with built-in retry logic using RxJS's `retry` operator.
 * [ng-memento](https://github.com/terzurumluoglu/ng-memento) - Makes your application faster by preventing the same HTTP requests from being called again in your Angular project.
@@ -872,6 +873,7 @@ become an Angular expert.
 * [angular-year-calendar](https://github.com/IOMechs/angular-year-calendar) - A powerful and performant Angular year calendar library built with ❤️.
 * [@schedule-x/angular](https://github.com/schedule-x/schedule-x) - Material design event calendar.
 * [angular-calendar-timeline](https://github.com/oOps1627/angular-calendar-timeline) - A timeline for Angular 13+ that shows tasks or events on a timeline in different modes: days, weeks, and months. This library is pretty small and DOESN'T use big dependencies like JQuery or Moment.js. Library also supports SSR.
+* [ngx-resource-calendar](https://github.com/by-pinja/ngx-resource-calendar) - Angular resource calendar library.
 
 #### Captcha
 
@@ -1264,6 +1266,7 @@ to simplify usage and allow quick customization.
 * [@Xilerth/ngx-logger](https://github.com/Xilerth/ngx-logger) - This library empowers developers to seamlessly integrate custom logging solutions tailored to their specific requirements, enabling efficient debugging, monitoring, and analytics.
 * [pretty-html-log](https://github.com/angular-extensions/pretty-html-log) - A module that allows you to pretty print the inner HTML of ComponentFixtures, DebugElements, NativeElements or even plain HTML strings to the console. This is very useful for debugging Angular component tests in Jest.
 * [log4ngx](https://github.com/secondbounce/log4ngx) - A Typescript logging framework for Angular projects, based on concepts used in Log4j, Log4net, etc.
+* [ngx-wlog](https://github.com/w5g-wywiwyg/ngx-wlog) - A logger for Angular applications, drawing inspiration from the .NET [NLog](https://nlog-project.org/).
 
 #### Maps
 
@@ -1300,6 +1303,7 @@ to simplify usage and allow quick customization.
 * [ngx-videogular](https://github.com/videogular/ngx-videogular) - An HTML5 video player for Angular 2.0. Videogular is a wrapper over the HTML5 video tag, so you can just add whatever you want. This provides a very powerful, but simple to use solution, for everybody.
 * [voicecapture-angular](https://github.com/angular-a11y/voicecapture-angular) - The library offers customizable options for handling voice input and transcription, making it a flexible solution for enhancing user interfaces.
 * [ngx-video-timeline](https://github.com/LennonReid/ngx-video-timeline) - Video playback progress bar component.
+* [ngx-cam-shoot](https://github.com/RzoDev/ngx-cam-shoot) - A streamlined Angular component that simplifies using your device's camera and accelerates image capture and saving.
 
 #### Mixed utilities
 
@@ -1462,6 +1466,7 @@ to simplify usage and allow quick customization.
 
 #### Storage
 
+* [rxdb](https://rxdb.info/) - RxDB can be used as an abstraction layer for [IndexedDB](https://rxdb.info/articles/angular-indexeddb.html).
 * [ngx-reactive-storage](https://github.com/e-oz/ngx-reactive-storage) - Wrapper around IndexedDB and localStorage that allows you to create databases and tables using a simple, promise-based API. Changes to the data can be seen with Angular Signals or RxJS Observables.
 * [ng2-webstorage](https://github.com/PillowPillow/ng2-webstorage) - LocalStorage and SessionStorage manager.
 * [ngx-indexed-db](https://github.com/assuncaocharles/ngx-indexed-db) - Wraps IndexedDB in an Angular service.
@@ -1665,7 +1670,8 @@ for the creation of web applications developed with Angular.
 
 * [rxjs](https://rxjs.dev/) - Reactive Extensions Library for JavaScript.
 * [learn-rxjs](https://github.com/btroncone/learn-rxjs) - Clear examples, explanations, and resources for RxJS.
-* [rxjs-course](https://github.com/angular-university/rxjs-course) - RxJs course from Angular University
+* [rxjs-course](https://github.com/angular-university/rxjs-course) - RxJS course from Angular University
+* [@mrOranger/RxJs](https://github.com/mrOranger/RxJs) - Theory with examples about the Reactive Programming paradigm, using the library RxJS.
 * [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics".
 * [rxjs-challenge](https://github.com/AngularWave/rxjs-challenge) - A set of little RxJS puzzles to practice your Observable skills.
 * [operators](https://github.com/jscutlery/devkit/tree/main/packages/operators) - This package regroups a couple of RxJS operators meant to simplify some common patterns.

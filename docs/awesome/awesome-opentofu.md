@@ -29,6 +29,8 @@
 
 <!--lint disable double-link-->
 
+- [1.9 - Provider iteration with for_each](https://opentofu.org/docs/intro/whats-new/#provider-iteration-for_each)
+- [1.9 - The -exclude flag](https://opentofu.org/docs/intro/whats-new/#the--exclude-flag)
 - [1.8 - Override files for OpenTofu (.tofu)](https://opentofu.org/docs/intro/whats-new/#override-files-for-opentofu-keeping-compatibility)
 - [1.8 - Early variable and locals evaluation](https://opentofu.org/docs/intro/whats-new/#early-variablelocals-evaluation)
 - [1.7 - End-to-end encryption for state files](https://opentofu.org/docs/v1.7/intro/whats-new/#state-encryption)

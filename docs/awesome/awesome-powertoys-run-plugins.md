@@ -48,6 +48,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [HexInspector](https://github.com/NaroZeol/PowerHexInspector) - Convert numbers between bases.
 - [LocalLLM](https://github.com/Darkdriller/PowerToys-Run-LocalLLm) - Query local LLM models with Ollama.
 - [JohnnyDecimal](https://github.com/seguri/PowerToys-Run-JohnnyDecimal) - Navigate through your JohnnyDecimal system.
+- [BrowserFavorite](https://github.com/Der-Penz/PowerToys-Run-BrowserFavorite) - Quickly open your Browser Bookmarks.
 
 ## Resources
 
