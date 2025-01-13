@@ -1066,6 +1066,8 @@ Some data mining competition platforms
 - [Top 100+ Machine Learning Interview Questions (Beginner to Advanced)](https://www.appliedaicourse.com/blog/machine-learning-interview-questions/)
 - [Data Science Projects](https://github.com/veb-101/Data-Science-Projects)
 - [Is Data Science a Good Career?](https://www.scaler.com/blog/is-data-science-a-good-career/)
+- [The Future of Data Science: Predictions and Trends](https://www.appliedaicourse.com/blog/future-of-data-science/)
+- [Data Science and Machine Learning: What’s The Difference?](https://www.appliedaicourse.com/blog/data-science-and-machine-learning-whats-the-difference/)
 
 
 

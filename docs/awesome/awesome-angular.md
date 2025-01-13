@@ -401,6 +401,7 @@ become an Angular expert.
 * [ngxfire](https://github.com/teve-no/ngxfire) - Zoneless AngularFire replacement.
 * [FusionAuth Angular SDK](https://fusionauth.io/docs/sdks/angular-sdk) - [FusionAuth](https://fusionauth.io/) SDK helps manage authentication state for your Angular app and provides functionality to login, register, and logout users. It also can be configured to automatically manage your refresh token.
 * [lbx-jwt](https://github.com/Service-Soft/lbx-jwt) - Provides JWT authentication for loopback applications. Includes storing roles inside tokens and handling refreshing. Built-in reuse detection.
+* [corbado](https://www.corbado.com/#signup-init) - [Integrate](https://docs.corbado.com/corbado-complete/frontend-integration/angular) Corbado with Angular to use passkeys for authentication.
 
 #### Builders
 
@@ -1108,6 +1109,7 @@ become an Angular expert.
 * [ngx-focus-entities](https://github.com/klee-contrib/ngx-focus-entities) - Library for generating reactive Angular forms from a Focus4 representation generated with [TopModel](https://github.com/klee-contrib/topmodel).
 * [@TanStack/form](https://github.com/TanStack/form) - Designed with first-class TypeScript support, headless UI components, and a framework-agnostic design, it streamlines form handling and ensures a seamless experience across various front-end frameworks.
 * [@luistabotelho/angular-signal-forms](https://github.com/luistabotelho/angular-signal-forms) - Simple Angular library to implement forms with signals.
+* [ngx-form-object](https://github.com/infinum/ngx-form-object) - ngx-form-object is an abstraction on top of Angular's reactive forms. It generates a form from a given model and automatically handles creation of nested forms (HasOne and HasMany model relationships).
 
 ##### Form Controls
 
@@ -1235,6 +1237,7 @@ to simplify usage and allow quick customization.
 * [ngx-retro-grid](https://github.com/omnedia/ngx-retro-grid) - This component creates a 3D perspective grid with customizable colors, rotation, and smooth animation, perfect for adding a nostalgic or futuristic visual effect to your application.
 * [ngx-bottom-sheet](https://github.com/ArslanAmeer/ngx-bottom-sheet) - A highly customizable and lightweight Angular service that provides a mobile-friendly bottom sheet component.
 * [@marxlnfcs/ngx-grid](https://github.com/marxlnfcs/ngx-grid) - Angular library to create a simple grid layout.
+* [ngx-flexbox](https://github.com/philipibovo/ngx-flexbox) - Designed as an alternative to [@angular/flexlayout](https://github.com/angular/flex-layout), ngx-flexbox provides Angular developers with component layout features using a custom layout API, media query observables, and injected DOM flexbox-2016 CSS stylings.
 
 #### Loaders
 
