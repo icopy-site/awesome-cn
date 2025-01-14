@@ -39,7 +39,7 @@
 *Projects centered around audio and audiovisual experiences.*
 
 - [beats](https://beats.gatunes.com/) - A semi-collaborative app with various rooms where anyone can create or modify an existing musical loop.
-- [Fathom VR](https://www.letsfathom.com/vr/play) - A WebXR version of the music discovery app Fathom, which lets you search for and explore clouds of related artists with spatialized audio.
+- [Fathom VR](https://www.letsfathom.com/vr) - A WebXR version of the music discovery app Fathom, which lets you search for and explore clouds of related artists with spatialized audio.
 - [TRACK](https://demos.littleworkshop.fr/track) - A linear ride through an immersive audiovisual experience developed by [Little Workshop](https://www.littleworkshop.fr/).
 
 ## Avatars

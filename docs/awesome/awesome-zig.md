@@ -174,6 +174,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [karlseguin/singleflight.zig](https://github.com/karlseguin/singleflight.zig) - Duplicate function call suppression.
 * [kassane/lean4-zig](https://github.com/kassane/lean4-zig) - Bindings for Lean 4 (theorem prover).
 * [attron/astroz](https://github.com/ATTron/astroz) - Astronomical and Spacecraft Toolkit.
+* [pblischak/zprob](https://github.com/pblischak/zprob) - Module for Random Number Distributions.
 
 
 ## Network
