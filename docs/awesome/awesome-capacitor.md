@@ -215,6 +215,7 @@ Independents plugins are listed here.
 - [Websocket Client](https://github.com/OrdinarySF/capacitor-websocket-client) - Capacitor WebSocket Client Plugin.
 - [Bing Translator](https://github.com/sabereen/capacitor-bing-translator) - A simple and **free** API for using [Bing Translator](https://bing.com/translator).
 - [Capacitor Calendar](https://github.com/ebarooni/capacitor-calendar) - A plugin for interacting with calendar and reminders.
+- [Capacitor voice recorder](https://github.com/tchvu3/capacitor-voice-recorder) - A plugin for simple voice recording.
 
 
 ## Cordova plugins

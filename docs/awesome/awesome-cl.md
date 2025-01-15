@@ -151,7 +151,6 @@ Cryptography
 * [trivial-ssh](https://github.com/eudoxia0/trivial-ssh) - An SSH client library. [Expat][14].
 * [cl-ssh-keys](https://github.com/dnaeon/cl-ssh-keys) - Common Lisp system for generating and parsing of OpenSSH keys. [BSD_3Clause][15].
 * [cl-bcrypt](https://github.com/dnaeon/cl-bcrypt) - Common Lisp system for parsing and generating bcrypt password hashes. [BSD_3Clause][15].
-  * see also [cl-pass](https://github.com/eudoxia0/cl-pass), using pbkdf2.
 * [gpgme](https://www.gnupg.org/download/index.en.html#gpgme) (GnuPG Made Easy) is the standard library to access GnuPG functions from programming languages. It provides an official Common Lisp system.
   * [gpgme lisp sources](https://git.gnupg.org/cgi-bin/gitweb.cgi?p=gpgme.git;a=tree;f=lang/cl;h=05151bdf839e513f534a1b423d59332a2e46fd5d;hb=HEAD) (not in Quicklisp). GPL2.
 * [cl-frugal-uuid](https://github.com/ak-coram/cl-frugal-uuid/) -  Common Lisp UUID library with zero dependencies. [MIT][200].
@@ -864,13 +863,12 @@ Library Manager
 * ⭐ [Quicklisp][16] - A library manager containing many libraries, with easy depencency management. [Expat][14].
   * [ql-https](https://github.com/rudolfochrist/ql-https) - shell out to cURL and use HTTPS by default.
   * [Quicklisp bundles](https://quicklisp.org/beta/bundles.html) -  self-contained sets of systems that are exported from Quicklisp and loadable without involving Quicklisp.
-* 👍 (NEW! as of May, 2023) [ocicl](https://github.com/ocicl/ocicl) - a new and experimental alternative to Quicklisp, built on tools from the world of containers. [MIT][200].
+* [ocicl](https://github.com/ocicl/ocicl) - a new and experimental alternative to Quicklisp, built on tools from the world of containers. [MIT][200].
 * [Ultralisp](http://ultralisp.org/) - A Quicklisp distribution which updates every 5 minutes and to which one can add his project in one click. [BSD][15].
 * [Roswell](https://github.com/roswell/roswell) - a Lisp implementation installer, script launcher and more. [MIT][200].
 * [Qlot](https://github.com/fukamachi/qlot) - A project-local library installer, similar to Bundler or Virtualenv. [Expat][14].
   * how to [use it from the Lisp REPL](https://github.com/svetlyak40wt/qlot-without-roswell) without Roswell.
-* [Quicksys](https://lisp.com.br/quicksys/) - install systems from multiple Quicklisp distributions. [MIT][200].
-* [Quickutil](https://github.com/stylewarning/quickutil) - A utility manager, similar to Quicklisp, but for small utilities rather than whole libraries. [3-clause BSD][15].
+* [vend](https://github.com/fosskers/vend) - Just vendor your dependencies! MPL-2.0.
 
 see also:
 
@@ -878,6 +876,8 @@ see also:
   * CLPM comes as a pre-built binary, supports HTTPS by default, supports installing multiple package versions, supports versioned systems, and more.
 * [trivial-system-loader](https://github.com/atgreen/trivial-system-loader) -  A system installation/loading abstraction for Common Lisp.
   * play nice with people using another library manager than Quicklisp: instead of hard-coding `(ql:quickload :mysystem)`, use `(tsl:load-system :mysystem)`. tsl:load-system will first try to use ocicl if available, then quicklisp, then plain asdf:load-system.
+* [Quicksys](https://lisp.com.br/quicksys/) - install systems from multiple Quicklisp distributions. [MIT][200].
+* [Quickutil](https://github.com/stylewarning/quickutil) - A utility manager, similar to Quicklisp, but for small utilities rather than whole libraries. [3-clause BSD][15].
 
 might help:
 
@@ -1351,6 +1351,7 @@ Event processing
 ----------------
 
 * [simple-tasks](https://github.com/Shinmera/simple-tasks) - A very simple task scheduling framework. [zlib][33].
+  * saves the return values and the task environment in case of failure, so we can inspect it later.
 * [deeds](https://github.com/Shinmera/deeds) - Deeds is an Extensible Event Delivery System. It allows for efficient event delivery to multiple handlers with a complex event filtering system. [zlib][33].
 * [cl-flow](https://github.com/borodust/cl-flow/) -  Data-flowish computation tree library for non-blocking concurrent Common Lisp. [MIT][200].
 * [event-glue](https://github.com/orthecreedence/event-glue) - simple eventing abstraction. No dependencies. It can be used anywhere you need a generic event handling system. [MIT][200].
@@ -1691,6 +1692,8 @@ Caching (serialization)
 * [cl-naive-store](https://gitlab.com/Harag/cl-naive-store) - a naive persisted, in memory (lazy loading), indexed, document store for Common Lisp. [MIT][200].
   - see [the introductory blog post](https://zaries.wordpress.com/2022/05/31/cl-naive-store/)
   - dare we add: used in production by the author's company (ASTN Group, see awesome-lisp-companies)
+* 🚀 [cl-binary-store](https://github.com/ajberkley/cl-binary-store) -  A fast Common Lisp binary serializer/deserializer. BSD_3Clause. See [reddit announce](https://www.reddit.com/r/Common_Lisp/comments/1hz5879/new_binary_serializationdeserialization_library/) (2025).
+  * "A super fast and customizable serializer/deserializer of Common Lisp objects to/from a very compact binary format. Equality of objects, circular references, and the full Common Lisp type system are supported. Specialized arrays (on SBCL) are stored/restore at lightning speed."
 
 See also the [Persistent object databases](#persistent-object-databases) section.
 
@@ -1709,6 +1712,8 @@ Compression / decompression
 * [zippy](https://github.com/Shinmera/zippy) -  A ZIP archive format library based on 3bz. [zlib][33].
 * [archive](https://github.com/froydnj/archive) - a library for reading and creating archive (tar, cpio) files. [BSD_3Clause][15]. A pure Common Lisp replacement for the `tar` program.
   * see its recent fork [cl-tar](https://common-lisp.net/project/cl-tar/) (2021). [Announce](https://www.timmons.dev/posts/new-project-cl-tar.html).
+* [deoxybyte-gzip](https://github.com/keithj/deoxybyte-gzip) -  Common Lisp interface to zlib via CFFI. GPL3.
+  * This system provides gzip and gunzip functions and a Gray-streams implementation, both built on a set of lower-level zlib functions.
 
 
 Configuration
