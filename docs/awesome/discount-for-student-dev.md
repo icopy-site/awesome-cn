@@ -175,8 +175,6 @@ Table of Contents
 
 ## Management Systems
 
-  * [Bitnami](https://bitnami.com) [FREE] - Install cloud applications in a single click. Business 3 plan (normally $49/month) for one year available via [Github Student Developer Pack](https://education.github.com/pack).
-
 * [PushBots](https://pushbots.com/for/education/) [FREE] - The easiest way to engage your mobile & web app users via push notifications. Free Premium account for 6 months.
 
 * [MongoDB](https://www.mongodb.com/students) [FREE] - A general purpose, document-based, distributed database built for modern application developers and for the cloud era.$200 in MongoDB Atlas Credits, plus access to MongoDB Compass and MongoDB University including free certification.
@@ -276,7 +274,7 @@ Table of Contents
 
  * [Autodesk Software](https://www.autodesk.com/education/free-software/featured) [FREE] - The Free Autodesk Education License includes Autodesk Maya, 3DS MAX, Softimage, Motion Builder, Mudbox, Inventor Professional...
  * [Shapr3D](https://www.shapr3d.com/education) [FREE] - Create manufacturing-ready models true to design vision. Shapr3D's educational license is free for students, teachers and faculty members of accredited educational institutions. The license is valid for one year (365 days) and can be renewed once it expires.
-
+ * [Solid Edge](https://resources.sw.siemens.com/en-US/download-solid-edge-student-edition/) [FREE] - Free professional 3D CAD software for students.
 
 ## Password Managers
 
@@ -299,8 +297,6 @@ Table of Contents
 * [Microsoft Office 365 Education](https://www.microsoft.com/en-au/education/products/office) [FREE] - Free access to Microsoft Office 365 software including Word, Excel, PowerPoint, OneNote, and Teams for students and teachers.
 
 * [Intel Tools for Students](https://software.intel.com/en-us/qualify-for-free-software/student) [FREE] - Free access to the select Intel® Software Development Products, including: Intel® XDK, Intel® Video Pro Analyzer, Intel® System Studio, Intel® Parallel Studio XE Composer Edition and Intel® Parallel Studio XE Cluster Edition (includes Fortran and C/C++).
-
-* [IBM Student Developer Community](https://developer.ibm.com/students/) [FREE] - Get easy access to the tools you need to develop the next great thing. Enjoy powerful technical and strategic resources from IBM.
 
 * [Exploratory](https://exploratory.io/) [FREE] - Exploratory’s Simple UI experience makes it possible for Anyone to use the latest and the most advanced innovation in Data Science to discover deep insights.Student Registration Available for pricing.
 
