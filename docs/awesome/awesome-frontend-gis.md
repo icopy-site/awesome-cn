@@ -225,6 +225,7 @@ A compilation of interesting web maps:
 - [ShadeMap](https://shademap.app/) - Every mountain, building and tree shadow in the world simulated for any date and time.
 - [ClimateArchive](https://climatearchive.org/) - An interactive visualisation of climate model data across time and space.
 - [Old Maps Online](https://www.oldmapsonline.org/) - Browse historical places and search for old maps with timeline.
+- [chronotrains](https://www.chronotrains.com) - Where can you go by train in 8h?
 
 ## 🌐 Web apps 
 Plug-and-play geospatial web apps:

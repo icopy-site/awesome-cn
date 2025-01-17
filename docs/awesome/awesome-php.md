@@ -74,6 +74,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Pico CMS](https://picocms.org/) - A stupidly simple, blazing fast, flat file CMS.
 * [Statamic](https://statamic.com/) - Build beautiful, easy-to-manage websites.
 * [Sulu](https://sulu.io/) - A user and developer friendly focused CMS and Platform based on the Symfony Framework.
+* [TYPO3](https://typo3.org) - An enterprise level CMS.
 * [WordPress](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
 
 ### Components
@@ -801,6 +802,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Eclipse for PHP Developers](https://www.eclipse.org/downloads/) - A PHP IDE based on the Eclipse platform.
 * [Apache NetBeans](https://netbeans.apache.org/front/main/index.html) - An IDE with support for PHP and HTML5.
+* [PhpEd](https://www.nusphere.com/products/phped.htm) - An IDE with professional commercial debugger.
 * [PhpStorm](https://www.jetbrains.com/phpstorm/) - A commercial PHP IDE.
 * [VS Code](https://code.visualstudio.com/) - An open source code editor.
 

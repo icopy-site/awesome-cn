@@ -103,7 +103,6 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [node-restify](https://github.com/restify/node-restify) - Framework specifically meant for REST API.
 * [Sails.js](https://sailsjs.org/) - Node.js Web framework embedding a command to generate automatically a REST API.
 * [mers](https://github.com/jspears/mers) - Express service exposing Mongoose finders as RESTful API.
-* [Baucis](https://git.kun.io/wprl/baucis) - Build scalable REST API based on your Mongoose entities.
 * [flatiron/resourceful](https://github.com/flatiron/resourceful) - Isomorphic Resource engine for JavaScript.
 * [loopback](https://loopback.io/) - Powerful Node.js framework for creating APIs and easily connecting to backend data sources.
 * [Feathers](https://feathersjs.com/) - is a real-time, micro-service web framework that gives you control over your data via RESTful resources, sockets and flexible plug-ins.
@@ -208,7 +207,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 * [RequestBin](https://requestbin.com/) - Inspect and debug webhook requests sent by your clients or third-party APIs.
 * [httpbin](https://httpbin.org) - HTTP request and response service - a/k/a Swiss Army Knife for HTTP.
-* [FakeRest](https://github.com/marmelab/FakeRest) - Patch XMLHttpRequest to fake a REST API client-side.
+* [FakeRest](https://github.com/marmelab/FakeRest) - Redirect fetch() calls to a client-side fake REST API.
 * [json-server](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping.
 * [Mocky.io](https://www.mocky.io/) - Free online service to create fake HTTP responses.
 * [MockServer](https://www.mock-server.com/) - Easy mocking of any system you integrate with via HTTP or HTTPS.
@@ -262,6 +261,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Assertible](https://assertible.com) - Continuously test and monitor your APIs after deployments and across environments.
 * [Moesif](https://www.moesif.com) - API Analytics for Debugging, Monitoring, and Usage Tracking for RESTful and GraphQL.
 * [Beeceptor](https://beeceptor.com/) - An HTTP inspecting, mocking and proxing service. Gives named endpoints for creating mock API endpoints and simulate responses.
+* [Apitally](https://apitally.io) - Analytics, request logging and monitoring for REST APIs with a focus on simplicity and data privacy.
 
 ## Miscellaneous
 
