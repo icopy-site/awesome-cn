@@ -100,7 +100,7 @@ Premade boilerplates for Fiber.
 - [gofiber/boilerplate](https://github.com/gofiber/boilerplate) - Official fiber boilerplate.
 - [fiber-boilerplate](https://github.com/thomasvvugt/fiber-boilerplate) - A boilerplate for the Fiber web framework.
 - [sujit-baniya/fiber-boilerplate](https://github.com/sujit-baniya/fiber-boilerplate) - Boilerplate on the top of fiber web framework with many middlewares and features.
-- [sujit-baniya/goravel](https://github.com/sujit-baniya/goravel) - Laravel similar boilerplate go Go with support for Gofiber or Gin.
+- [goravel/fiber](https://github.com/goravel/fiber) - Laravel similar boilerplate with support for Fiber.
 - [create-go-app/fiber-go-template](https://github.com/create-go-app/fiber-go-template) - Fiber backend template for Create Go App CLI.
 - [efectn/fiber-boilerplate](https://github.com/efectn/fiber-boilerplate) - Simple and scalable boilerplate to build powerful and organized REST projects with Fiber. 
 - [embedmode/fiberseed](https://github.com/embedmode/fiberseed) - Fiber boilerplate api with many middlewares.
@@ -109,7 +109,7 @@ Premade boilerplates for Fiber.
 - [amrebada/go-modules](https://github.com/amrebada/go-modules) - Nest JS like structure for Go Fiber.
 - [ingeniousambivert/fiber-bootstrapped](https://github.com/ingeniousambivert/fiber-bootstrapped) - A toolkit for Go projects embracing a service-centric architecture, inspired by the principles of FeathersJS. 
 - [sebajax/go-vertical-slice-architecture](https://github.com/sebajax/go-vertical-slice-architecture) - Vertical Slice Architecture code archetype using Fiber and Uber dig. A maintainable, and scalable code organization.
-
+- [go-rat/fiber-skeleton](https://github.com/go-rat/fiber-skeleton) - Fiber skeleton to powers web projects, support wire-based dependency injection.
 
 ## 📁 Recipes
 Recipes for Fiber.

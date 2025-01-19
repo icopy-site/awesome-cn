@@ -240,6 +240,7 @@
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) - Highly customisable markdown(latex & inline html) previewer.
 - [Kicamon/markdown-table-mode.nvim](https://github.com/Kicamon/markdown-table-mode.nvim) - Markdown format plugin like vim-table-mode but write in Lua.
 - [SCJangra/table-nvim](https://github.com/SCJangra/table-nvim) - A markdown table editor that formats the table as you type.
+- [nvim-telescope/telescope-bibtex.nvim](https://github.com/nvim-telescope/telescope-bibtex.nvim) - Telescope extension to search and paste BibTeX entries into your TeX files.
 
 ### PHP
 
@@ -677,7 +678,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ### Cursorline
 
-- [yamatsum/nvim-cursorline](https://github.com/yamatsum/nvim-cursorline) - A plugin that highlights cursor words and lines.
+- [ya2s/nvim-cursorline](https://github.com/ya2s/nvim-cursorline) - A plugin that highlights cursor words and lines.
 - [xiyaowong/nvim-cursorword](https://github.com/xiyaowong/nvim-cursorword) - Part of nvim-cursorline. Highlight the word under the cursor.
 - [sontungexpt/stcursorword](https://github.com/sontungexpt/stcursorword) - Highlight the word under the cursor (Improved and compact version of nvim-cursorline).
 - [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - Highlight the word under the cursor. Neovim's builtin LSP is available, it can be used to highlight more intelligently.
@@ -712,7 +713,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 - [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - A Lua fork of [vim-devicons](https://github.com/ryanoasis/vim-devicons).
 - [echasnovski/mini.nvim#mini.icons](https://github.com/echasnovski/mini.nvim/blob/main/readmes/mini-icons.md) - Module of `mini.nvim` meant as a general icon provider. Uses fixed set of highlight groups. Supports various categories, icon and style customizations, caching for performance. Integrates with built-in filetype matching.
-- [yamatsum/nvim-nonicons](https://github.com/yamatsum/nvim-nonicons) - Collection of configurations for nvim-web-devicons.
+- [ya2s/nvim-nonicons](https://github.com/ya2s/nvim-nonicons) - Collection of configurations for nvim-web-devicons.
 - [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - Help you pick 𝑨𝕃𝚻 Font Characters, Symbols Σ, Nerd Font Icons  & Emojis.
 - [2KAbhishek/nerdy.nvim](https://github.com/2KAbhishek/nerdy.nvim/) - Find and insert the latest nerd font glyphs.
 

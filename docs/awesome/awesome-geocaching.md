@@ -43,14 +43,13 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/Fox
 - [WhereYouGo](https://play.google.com/store/apps/details?id=menion.android.whereyougo&pcampaignid=web_share) - `[Android]` Open source, unofficial app for playing Whereigo geocaches.
 - [c:geo](https://play.google.com/store/apps/details?id=cgeo.geocaching) - `[Android]` The most popular free unofficial app for geocaching. Has many tools the official app doesn't have.
 - [Cachly](https://www.cachly.com/) - `[iOS]` Paid unofficial app for geocaching. Has many tools the official app doesn't have.
+- [GC Wizard](https://blog.gcwizard.net/about/) - An open-source tool collection for Android and iOS. It was created to offer Geocachers an offline tool to support them with in-field mysteries and riddles.
 - [Geocaching Buddy](https://gcbuddy.com/) - Paid geocaching app that recalculates waypoint formulas based on discovered clues when solving multi-caches.
 - [TBScan](https://tbscan.com/) - An app to discover trackables just by pointing your camera at the code.
 - [Raccoon](https://apps.apple.com/us/app/raccoon-geocaching-tool/id424398764) - `[iOS]` Geocaching app that should help you with multi or mystery caches.
 - [Geocaching4Locus](https://geocaching4locus.eu/) - `[Android]` Locus map add-on which allows you to download and import caches directly from Geocaching.com site.
 - [GeoGet](https://www.geoget.cz/doku.php/start) - `[Windows]` Geocache manager, where you can manage your final waypoints, add notes or waypoints to geocache or import/export geocache from/to GeoGet.
 - [GSAK (Geocaching Swiss Army Knife)](https://gsak.net/index.php/) - `[Windows]` Desktop app for managing geocaches and waypoints.
-- [GCC (GeoCache Calculator)](https://play.google.com/store/apps/details?id=eisbehr.gcc&hl=en&gl=US) - `[Android]` Calculator with over 250 different functions to calculate values.
-- [GC Wizard](https://blog.gcwizard.net/about/) - An open-source tool collection for Android and iOS. It was created to offer Geocachers an offline tool to support them with in-field mysteries and riddles.
 - [CacheStats](https://logicweave.com/) - `[Windows]` Application that displays your geocaching statistics.
 - [Caching on Kai](https://caching-on-kai.com/) - `[KaiOS]` Geocaching app for KaiOS users.
 - [Cacher](https://apps.garmin.com/apps/624aed67-b068-45b4-92af-cbc1885b7e1d) - `[Garmin]` Gatmin watch app for geocaching.
