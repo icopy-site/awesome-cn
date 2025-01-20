@@ -738,6 +738,7 @@ become an Angular expert.
 * [keycloakify-starter-angular-vite](https://github.com/keycloakify/keycloakify-starter-angular-vite) - Angular + Vite Starter for [Keycloakify 11](https://www.keycloakify.dev/).
 * [@rainerhahnekamp/angular-starter](https://github.com/rainerhahnekamp/angular-starter) - A starter project for a modern Angular 19 application.
 * [BoilerPlate-FirebaseAngular](https://github.com/Yewo-Devs/BoilerPlate-FirebaseAngular) - Starting point for apps built using .NET, Angular, and Firebase.
+* [extreme-angular](https://github.com/joematthews/extreme-angular) - A starter template with pre-configured dev tools that enforce best practices for creating clean, maintainable, and accessible web apps.
 
 ##### Paid
 
@@ -1244,6 +1245,7 @@ to simplify usage and allow quick customization.
 * [ngx-bottom-sheet](https://github.com/ArslanAmeer/ngx-bottom-sheet) - A highly customizable and lightweight Angular service that provides a mobile-friendly bottom sheet component.
 * [@marxlnfcs/ngx-grid](https://github.com/marxlnfcs/ngx-grid) - Angular library to create a simple grid layout.
 * [ngx-flexbox](https://github.com/philipibovo/ngx-flexbox) - Designed as an alternative to [@angular/flexlayout](https://github.com/angular/flex-layout), ngx-flexbox provides Angular developers with component layout features using a custom layout API, media query observables, and injected DOM flexbox-2016 CSS stylings.
+* [ngx-van](https://github.com/otodockal/ngx-van) - Tiny replacement for HTML nav element with mobile side nav menu built-in. Good old nav element on desktop, sliding side nav on mobile. No duplication.
 
 #### Loaders
 
@@ -1547,6 +1549,7 @@ to simplify usage and allow quick customization.
 * [po-angular](https://github.com/po-ui/po-angular) - Component library based on Angular. Documentation in Portuguese.
 * [pastanaga-angular](https://github.com/plone/pastanaga-angular) - An Angular implementation of Pastanaga design system offering a set of re-usable UI components which are covering typical needs of any web application. It is maintained by [Plone](http://plone.org/) and [Guillotina](http://guillotina.io/) communities.
 * [ngx-nighthawk](https://github.com/evenuxjs/ngx-nighthawk) - It offers a comprehensive set of components that are highly configurable and user-friendly. This package integrates the best open-source tools, such as Bootstrip — a streamlined version of Bootstrap that focuses solely on Grid and Utility features.
+* [tableau-ui-angular](https://github.com/serionist/tableau-ui-angular) -  A third-party component library that brings Tableau-style components to Angular.
 
 ##### Material Based
 
