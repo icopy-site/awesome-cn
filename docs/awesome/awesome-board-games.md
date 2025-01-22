@@ -1679,7 +1679,7 @@
 | ------: | -------: | -----: |
 |  3 - 10 |        8 | 10-15m |
 
-### [Who Wants to Be a Millionare](http://www.boardgamecapital.com/who-wants-to-be-a-millionaire-rules.htm)
+### [Who Wants to Be a Millionare](https://www.boardgamecapital.com/who-wants-to-be-a-millionaire-rules.htm)
 
 > Ever wanted to play the popular Game Show game Who Wants To Be A Millionaire? Check out this board game version of Who Wants To Be A Millionaire. Other than the TV cameras, Regis Philbin, and the real money, this is the same game including easy laughable \$100 questions, life lines, and a over 2,000 questions.
 
