@@ -83,7 +83,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Moonbeam](https://www.gomoonbeam.com/) - Better blogs in a fraction of the time.
 - [copy.ai](https://www.copy.ai/) - Write better marketing copy and content with AI.
 - [Anyword](https://anyword.com/) - Anyword's AI writing assistant generates effective copy for anyone.
-- [Contenda](https://contenda.co/) - Create the content your audience wants, from content you've already made.
 - [Hypotenuse AI](https://www.hypotenuse.ai/) - Turn a few keywords into original, insightful articles, product descriptions and social media copy.
 - [Lavender](https://www.lavender.ai/) - Lavender email assistant helps you get more replies in less time.
 - [Lex](https://lex.page/) - A word processor with artificial intelligence baked in, so you can write faster.
@@ -272,6 +271,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Sora](https://openai.com/sora) - An AI model that can create realistic and imaginative scenes from text instructions.
 - [Luma Dream Machine](https://lumalabs.ai/dream-machine) - An AI model that makes high quality, realistic videos fast from text and images.
 - [Infinity AI](https://infinity.ai/) - Infinity is a video foundation model that allows you to craft your characters and then bring them to life.
+- [KLING AI](https://klingai.com/) - Tools for creating imaginative images and videos.
 
 ### Animation
 

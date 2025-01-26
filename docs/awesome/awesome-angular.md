@@ -479,6 +479,8 @@ become an Angular expert.
 * [storybook-addon-angular-router](https://github.com/Jakob-em/storybook-addon-angular-router) - A simple plugin to make working with the Angular router in [Storybook](https://storybook.js.org/) easier.
 * [hawkeye](https://github.com/angular-experts-io/hawkeye) - A powerful tool designed to help developers visualize and optimize their JavaScript bundles. With our intuitive interface, you can gain deep insights into your project’s bundle structure, identifying large modules, dependencies, and assets that may be impacting performance.
 * [ngx-script-optimizer](https://github.com/Mohid123/ngx-script-optimizer) - A lightweight Angular library designed to supercharge your third-party script handling.
+* [ngx-dev-toolbar](https://github.com/alfredoperez/ngx-dev-toolbar) - A powerful development toolbar for Angular applications to improve your developer productivity directly in the browser.
+* [ngx-rename](https://github.com/Khumozin/ngx-rename) - This repository contains PowerShell and Bash scripts to rename an Angular project folder and update relevant files, such as angular.json, package.json, tsconfig.json, and other configuration files.
 
 #### Documentation tools
 

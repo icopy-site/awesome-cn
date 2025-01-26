@@ -92,7 +92,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Numbers](https://apps.apple.com/app/numbers/id409203825?mt=12) - Create impressive spreadsheets. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/numbers/id409203825?mt=12)
 * [OnlyOffice](https://www.onlyoffice.com/) - An office suite that combines text, spreadsheet and presentation editors allowing to create, view and edit local documents. [![Open-Source Software][OSS Icon]](https://github.com/ONLYOFFICE/DesktopEditors) ![Freeware][Freeware Icon]
 * [Pages](https://apps.apple.com/app/pages/id409201541?mt=12) - Documents that stand apart. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/pages/id409201541?mt=12)
-* [SoftMaker Office](https://www.softmaker.com/en/softmaker-office) - A complete office suite that aims for full compatibility with Microsoft Office documents
+* [SoftMaker Office](https://www.softmaker.com/en/softmaker-office) - A complete office suite that aims for full compatibility with Microsoft Office documents.
 * [WPS](https://www.wps.com/mac) - Is a cross-platform office software suite. ![Freeware][Freeware Icon]
 
 ### Markdown Tools
@@ -177,7 +177,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 ### RSS
 
-* [Elytra](https://elytra.app) - A Simple & Private RSS Feed Reader with native rendering for macOS & iOS [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1433266971?pt=119194029&ct=awesomemac&mt=8)
+* [Elytra](https://elytra.app) - A Simple & Private RSS Feed Reader with native rendering for macOS & iOS. [![App Store][app-store Icon]](https://apps.apple.com/app/apple-store/id1433266971?pt=119194029&ct=awesomemac&mt=8)
 * [Feedy](https://krillapps.com/feedy/) - An elegant and lightweight RSS client and news reader for your Mac. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/feedy-rss-client/id588288104?ls=1&mt=12)
 * [Follow](https://github.com/RSSNext/Follow) 🧡 Next generation information browser. [![Open-Source Software][OSS Icon]](https://github.com/dyerc/Doughnut) ![Freeware][Freeware Icon]
 * [Leaf](http://www.rockysandstudio.com/) - A news reader for managing subscriptions and enjoying daily news.
@@ -205,7 +205,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [texifier](https://www.texifier.com/) - Great LaTeX editor for Mac with auto-update PDF and autocomplete LaTeX commands.
 * [UPDF](https://updf.com/) - Free PDF editor for reading, annotating, and editing PDFs. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1619925971)
 * [Zotero](https://www.zotero.org/) - Free tool to collect, organize, annotate, cite, and share research. [![OSS][OSS Icon]](https://github.com/zotero/zotero/) ![Freeware][Freeware Icon]
-* [Collate](https://collate.one/get-started) - Free tool to collect, summarize and query PDFs with AI. All offline and free [![App Store][app-store Icon]](https://apps.apple.com/us/app/collateai/id6447429913) ![Freeware][Freeware Icon]
+* [Collate](https://collate.one/get-started) - Free tool to collect, summarize and query PDFs with AI. All offline and free. [![App Store][app-store Icon]](https://apps.apple.com/us/app/collateai/id6447429913) ![Freeware][Freeware Icon]
 
 ## Developer Tools
 
@@ -1054,6 +1054,7 @@ highlighting. [![Open-Source Software][OSS Icon]](https://github.com/dbcli/pgcli
 * [Keyboard Cowboy](https://github.com/zenangst/KeyboardCowboy) - The missing keyboard shortcut utility for macOS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/zenangst/KeyboardCowboy)
 * [Keyboard Maestro](http://www.keyboardmaestro.com) - Automate routine actions based on triggers from keyboard, menu, location, added devices, and more.
 * [Keytty](http://keytty.com) - App to keep your hands on the keyboard. Move, click, scroll, drag and more with a few strokes.
+* [Launchy](https://apple.co/3PLI2AH) - An app launcher and switcher that utilizes a radial menu.
 * [Lazy](https://www.lazy-app.com/) - Keyboard-driven commands to manage your surroundings directly from your mac.
 * [Linear Mouse](https://linearmouse.app/) - Full control of mouse. Change the speed, scrolling direction, pointer type and much more. [![Open-Source Software][OSS Icon]](https://github.com/linearmouse/linearmouse)
 * [Macaify](https://macaify.com) - Fast use of ChatGPT, lightweight, clean, keyboard-first. ![Freeware][Freeware Icon]
