@@ -1060,6 +1060,7 @@ _Display non-editable events in a Calendar_
 
 - [vue-goodshare](https://github.com/koddr/vue-goodshare) - Vue.js component for social share with beautiful button design. Simple install, extensive documentation, developer support, SEO friendly, clean code without scripts tracking user activity on the page, high speed. Work with Vue.js 2.x.
 - [vue-share-modal](https://github.com/sttatusx/vue-share-modal) - A pure, lightweight, and beautiful share modal for Vue 3.
+- [vue3-social-sharing](https://github.com/hedint/vue3-social-sharing) - Style agnostic Vue 3 plugin for social sharing your links on major social networks.
 
 #### QR Code
 
@@ -1095,6 +1096,7 @@ _Display non-editable events in a Calendar_
 - [@kolirt/vue-web3-auth](https://github.com/kolirt/vue-web3-auth) - 💎 Web3 authentication for Vue3 apps based on WalletConnect v2 and wagmi
 - [zoom-image](https://willnguyen1312.github.io/zoom-image/) - A little yet powerful framework agnostic library to zoom image on the web
 - [vue-wheel-spinner](https://github.com/ilyasozkurt/vue-wheel-spinner) - A simple, customizable wheel of fortune component. [See Demo](https://vue-wheel-spinner-demo.vercel.app/)
+- [vue-progress-circle](https://github.com/keiwen/vue-progress-circle) - Circle progress bar component for vue3
 
 #### Tabs
 
@@ -1112,6 +1114,7 @@ _Let the user create & edit data_
 ##### Picker
 
 - [vue-scroll-picker](https://github.com/wan2land/vue-scroll-picker) - A scroll picker component for Vue 2.x. Support all gestures of mouse(also wheel) and touch.
+- [vue-roller-picker](https://github.com/keiwen/vue-roller-picker) - Roll-designed selector component for vue3
 
 ##### Generator
 
@@ -1214,6 +1217,7 @@ _Display images_
 - [vue-simple-password-meter](https://github.com/miladd3/vue-simple-password-meter) - Lightweight password strength meter with no dependency
 - [v-use-places-autocomplete](https://github.com/wobsoriano/v-use-places-autocomplete) - 📍 Vue composable for Google Maps Places Autocomplete.
 - [vuetify-inline-fields](https://github.com/webdevnerdstuff/vuetify-inline-fields) - Vuetify Inline Fields Component Library offers a comprehensive collection of reusable UI components to create elegant and efficient inline form fields within your applications.
+- [vue-integer-plusminus](https://github.com/keiwen/vue-integer-plusminus) - Integer input component for vue3 with increment and decrement buttons, fitting as spinbutton, allowing keyboard functionalities
 
 ##### Wizard
 
