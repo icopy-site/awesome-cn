@@ -130,6 +130,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Consensus](https://consensus.app/search/) - Consensus is a search engine that uses AI to find answers in scientific research.
 - [Synthical](https://synthical.com) - AI-powered collaborative research environment.
 - [scite](https://scite.ai/) - A platform for discovering and evaluating scientific articles.
+- [SciSpace](https://typeset.io/) - An AI research assistant for understanding scientific literature.
 
 ### Other text generators
 
@@ -231,6 +232,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [KREA](https://www.krea.ai/) - Generate high quality visuals with an AI that knows about your styles, concepts, or products.
 - [Nightcafe](https://creator.nightcafe.studio/) - NightCafe Creator is an AI Art Generator app with multiple methods of AI art generation.
 - [Leonardo AI](https://leonardo.ai/) - Create production-quality visual assets for your projects with unprecedented quality, speed, and style.
+- [Recraft](https://www.recraft.ai/) - An AI tool that lets creators easily generate and iterate original images, vector art, illustrations, icons, and 3D graphics.
 
 ### Graphic design
 
