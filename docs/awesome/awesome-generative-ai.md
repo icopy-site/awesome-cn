@@ -123,6 +123,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Sybill](https://www.sybill.ai/) - Sybill generates summaries of sales calls, including next steps, pain points and areas of interest, by combining transcript and emotion-based insights.
 - [Loopin AI](https://www.loopinhq.com/) - Loopin is a collaborative meeting workspace that not only enables you to record, transcribe & summaries meetings using AI, but also enables you to auto-organise meeting notes on top of your calendar.
 - [Fireflies.ai](https://fireflies.ai/) - Fireflies.ai helps your team transcribe, summarize, search, and analyze voice conversations.
+- [Read AI](https://www.read.ai/) - An AI copilot for wherever you work, making your meetings, emails, and messages more productive with summaries, content discovery, and recommendations.
 
 ### Academia
 
@@ -270,16 +271,20 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Synthesia](https://www.synthesia.io/) - Create videos from plain text in minutes.
 - [Rephrase AI](https://www.rephrase.ai/) - Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.
 - [Hour One](https://hourone.ai/) - Turn text into video, featuring virtual presenters, automatically.
-- [D-ID](https://www.d-id.com/) - Create and interact with talking avatars at the touch of a button.
 - [Colossyan](https://www.colossyan.com/) - Learning & Development focused video creator. Use AI avatars to create educational videos in multiple languages.
 - [Fliki](https://fliki.ai/) - Create text to video and text to speech content with ai powered voices in minutes.
 - [Pictory](https://pictory.ai/) - Pictory's powerful AI enables you to create and edit professional quality videos using text.
 - [Pika](https://pika.art/) - An idea-to-video platform that brings your creativity to motion.
-- [HeyGen](https://app.heygen.com/) - Turn scripts into talking videos with customizable AI avatars in minutes.
 - [Sora](https://openai.com/sora) - An AI model that can create realistic and imaginative scenes from text instructions.
 - [Luma Dream Machine](https://lumalabs.ai/dream-machine) - An AI model that makes high quality, realistic videos fast from text and images.
 - [Infinity AI](https://infinity.ai/) - Infinity is a video foundation model that allows you to craft your characters and then bring them to life.
 - [KLING AI](https://klingai.com/) - Tools for creating imaginative images and videos.
+
+### Avatars
+
+- [D-ID](https://www.d-id.com/) - Create and interact with talking avatars at the touch of a button.
+- [HeyGen](https://app.heygen.com/) - Turn scripts into talking videos with customizable AI avatars in minutes.
+- [RenderNet](https://rendernet.ai/) - RenderNet AI is a tool for generating images and videos, providing control over character design, composition, and style.
 
 ### Animation
 
