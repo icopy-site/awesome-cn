@@ -119,7 +119,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 ### General Section
 
 - [O’Reilly Programming Newsletter](https://www.oreilly.com/programming/newsletter.html). Receive weekly Programming news and insights from industry insiders.
-- [Programming Digest](https://programmingdigest.net/). A weekly newsletter for software engineers featuring top 5 links. [Archive](https://programmingdigest.net/digests).
+- [Programming Digest](https://programmingdigest.net/). A carefully curated weekly newsletter for software engineers.
 - [Weekly Dev Tips](https://ardalis.com/tips). A weekly email each Wednesday with a new software development tip. Topics range from git to career to web development to personal development and teamwork.
 - [LLVM Weekly](http://llvmweekly.org). A weekly newsletter covering developments in LLVM, Clang, and related projects.
 - [Discover dev](https://www.discoverdev.io). Weekly digest of the best engineering blogs from across the web. [Archive](https://www.discoverdev.io/archive).
@@ -143,7 +143,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 ### C\#
 
-- [C# Digest](https://csharpdigest.net/). A weekly newsletter featuring only the top 5 links for C# and .NET developers. [Archive](https://csharpdigest.net/digests).
+- [C# Digest](https://csharpdigest.net/). A carefully curated weekly newsletter for .NET developers.
 - [Awesome .Net Newsletter](https://dotnet.libhunt.com/newsletter). A collection of awesome .Net libraries, tools & frameworks.
 - [ASP.NET Core News](https://aspnetcore.news/). A weekly newsletter about everything ASP.NET Core, Blazor, SignalR, and similar.
 - [C# Insights](https://csharpinsights.com/). A free, weekly newsletter for .NET developers, to stay up-to-date with the latest news, enhancements, tips and tricks in the world of C# and .NET development. [Archive](https://newsletter.csharpinsights.com/).
@@ -383,7 +383,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 ## Leadership
 
 - [Software Lead Weekly](https://softwareleadweekly.com/). Insightful articles about company culture, leadership and building software in general.
-- [Tech Lead Digest](https://techleaddigest.net/). A weekly newsletter with five interesting stories about building teams, leadership, and engineering culture.
+- [Leadership in Tech](https://leadershipintech.com/). A carefully curated weekly newsletter for CTOs, engineering managers and senior engineers to become better leaders.
 - [Engineering Leadership Snacks](https://engineeringleadership.kulkarniankita.com/). Weekly Snacks on Actionable Leadership tips, a Deep-dive and free Toolbox to excel as a Leader.
 - [Engineering Leadership](https://newsletter.eng-leadership.com/). Weekly newsletter for becoming a great engineering leader.
 
@@ -392,6 +392,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [tldrMarketing](https://tldrmarketing.com). Get the latest breaking news and trends about digital marketing without all the fluff.
 - [Zero to Marketing](https://zerotomarketing.com/). A weekly email with 5-minute case study with actionable tips.
 - [The Content Odyssey](https://newsletter.mktodyssey.com/). Biweekly tried-and-tested content growth experiments.
+- [The Marketing Newsletter](http://themarketingnewsletter.org) - Ideas to help marketers and creators grow faster and work smarter
 
 ## Business/Finance
 
