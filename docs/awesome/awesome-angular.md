@@ -261,6 +261,7 @@ become an Angular expert.
 * [liveloveapp](https://liveloveapp.com/) - Workshops are available for Cypress, NgRx, RxJS, AG Grid and web performance.
 * [Angular Material 3 Theming System: Complete Guide](https://angular-material.dev/courses/overview/m3-ng-components) - The only course you will need for Angular Material 3 Theming.
 * [lowgular](https://courses.lowgular.edu.pl/) - The best courses for your career path as an Angular Frontend Developer.
+* [Angular UI](https://angular-ui.com/) - Get ready to build your next web application using Angular with interactive courses and exercises.
 
 ##### On-Site Training
 
@@ -1174,6 +1175,7 @@ to simplify usage and allow quick customization.
 * [ngx-error-msg](https://github.com/fakeJan499/ngx-error-msg) - The error message mapping library for Angular.
 * [ngx-form-errors](https://github.com/NationalBankBelgium/ngx-form-errors) - Display form validation errors for Angular Reactive forms.
 * [ngx-iban-validator](https://github.com/SKaDiZZ/ngx-iban-validator) - IBAN Validator for your reactive Angular forms, comes without any dependencies and can be used even outside of Angular as standalone function in any JS project. It can perform format, digit, and length IBAN validations.
+* [ngx-validators](https://github.com/marcellodotgg/ngx-validators) - A library that provides additional Angular Validators, including the ones Angular provides.
 
 #### Icons
 
@@ -1303,6 +1305,7 @@ to simplify usage and allow quick customization.
 * [HERE maps API for JavaScript](https://www.here.com/docs/bundle/maps-api-for-javascript-developer-guide/page/topics/angular-practices.html) - You can integrate [HERE](https://www.here.com/) Maps with Angular to display interactive maps, geocode addresses, calculate routes, and more, all within the context of your Angular application.
 * [ngx-gaia-gis](https://github.com/Olympus-Analytics/ngx-gaia-gis) - An Angular service that simplifies map creation and interaction using the powerful [OpenLayers](https://openlayers.org/) library.
 * [ngx-google-maps-places](https://github.com/lekhmanrus/ngx-google-maps-places) - Wrapper for new Google Maps Places API, making it easier to integrate Google Places functionality into Angular applications.
+* [angular-yandex-maps](https://github.com/ddubrava/angular-yandex-maps) - Yandex.Maps Angular components that implement the Yandex.Maps JavaScript API.
 
 #### Markdown
 

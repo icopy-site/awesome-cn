@@ -89,6 +89,7 @@ Choose what you find more suitable for you:
 - [EmulationStation DE](https://gitlab.com/es-de/emulationstation-de) - Frontend for browsing and launching games from various collections.
 - [PCSX2](https://github.com/PCSX2/pcsx2) - PS2 Emulator.
 - [RPCS3](https://github.com/RPCS3/rpcs3) - PS3 Emulator.
+- [shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 Emulator.
 - [PPSSPP](https://github.com/hrydgard/ppsspp) - PSP Emulator.
 - [Vita3K](https://github.com/Vita3K/Vita3K) - PS Vita Emulator.
 - [bsnes](https://github.com/bsnes-emu/bsnes) - SNES Emulator.

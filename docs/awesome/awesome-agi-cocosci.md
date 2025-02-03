@@ -1381,6 +1381,7 @@ English-language description for use by biologists.
 
 * [Artificial Intelligence for Retrosynthetic Planning Needs Both Data and Expert Knowledge](https://pubs.acs.org/doi/full/10.1021/jacs.4c00338) - ***Journal of the American Chemical Society***, 2024. [[All Versions](https://scholar.google.com/scholar?cluster=10595951443492961310)]. The development of AI synthesis planners trained solely on reaction-example-data has stagnated and is not on par with the performance of “hybrid” algorithms combining AI with expert knowledge. This Perspective examines possible causes of these shortcomings, extending beyond the established reasoning of insufficient quantities of reaction data. The authors advocate augmenting the unique capabilities of AI with the knowledge base and the reasoning strategies of domain experts.
 
+
 * [Optimizing Spaced Repetition Schedule by Capturing the Dynamics of Memory](https://ieeexplore.ieee.org/abstract/document/10059206) - ***IEEE Transactions on Knowledge and Data Engineering***, 2023. [[All Versions](https://scholar.google.com/scholar?cluster=949715967083833369&hl=en&as_sdt=0,10)].
 
 * [LEGAL-BERT: The Muppets straight out of Law School](https://aclanthology.org/2020.findings-emnlp.261/) - ***EMNLP'20***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=11254432523766039890&hl=en&as_sdt=0,5)]. Generating answers to legal questions, analyze contracts, and summarizing legal documents, making legal knowledge more accessible to non-experts.
