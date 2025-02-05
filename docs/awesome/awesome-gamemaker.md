@@ -176,8 +176,8 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 ## Audio
 
+- [GMEXT-FMOD](https://github.com/YoYoGames/GMEXT-FMOD) - Official support for FMOD in GameMaker.
 - [FML](https://github.com/Nikkilae/fml) - GameMaker bindings for the FMOD Studio API.
-- [FMODGMS](https://github.com/mstop4/FMODGMS) - This doesn't support everything FMOD has to offer and the project itself has been put on-hold.
 - [Echo/Delay Effect](https://madwolf-studios.itch.io/audio-echodelay-effect-for-gamemaker-studio-2) - Optimized delay effect. 💸
 - [wavload](https://github.com/nkrapivin/wavload) - Demonstrates how to externally load .wav files.
 - [audioExt](https://github.com/tabularelf/audioExt) - Sound External Loader/Unloader Manager.

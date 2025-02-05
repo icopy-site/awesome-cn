@@ -999,6 +999,16 @@ The original story that inspired Miyazaki's film adaptation. Has a colorful, fun
 
 > Sophie has the great misfortune of being the eldest of three daughters, destined to fail miserably should she ever leave home to seek her fate. But when she unwittingly attracts the ire of the Witch of the Waste, Sophie finds herself under a horrid spell that transforms her into an old lady. Her only chance at breaking it lies in the ever-moving castle in the hills: the Wizard Howl's castle. To untangle the enchantment, Sophie must handle the heartless Howl, strike a bargain with a fire demon, and meet the Witch of the Waste head-on. Along the way, she discovers that there's far more to Howl—and herself—than first meets the eye.
 
+#### [The Neverending Story](https://www.goodreads.com/book/show/27712.The_Neverending_Story) _by [Michael Ende](https://en.wikipedia.org/wiki/Michael_Ende)_ [4.18] :fire:
+
+The story is a beautifully layered tale that blurs reality and fiction, filled with vivid characters and profound reflections that linger long after reading. - [@benya2bfh](https://github.com/benya2bfh)
+
+> This epic work of the imagination has captured the hearts of millions of readers worldwide since it was first published. Its special story within a story is an irresistible invitation for readers to become part of the book itself.
+
+> The story begins with a lonely boy named Bastian and the strange book that draws him into the beautiful but doomed world of Fantastica. Only a human can save this enchanted place by giving its ruler, the Childlike Empress, a new name. But the journey to her tower leads through lands of dragons, giants, monsters, and magic, and once Bastian begins his quest, he may never return. As he is drawn deeper into Fantastica, he must find the courage to face unspeakable foes and the mysteries of his own heart.
+
+> Readers, too, can travel to the wondrous, unforgettable world of Fantastica if they will just turn the page...
+
 #### [The Saga of Eric the Viking](https://www.goodreads.com/book/show/700349.The_Saga_of_Eric_the_Viking) _by [Terry Jones](https://en.wikipedia.org/wiki/Terry_Jones), [Michael Foreman](https://github.com/RichardLitt/awesome-fantasy/blob/master/<https://en.wikipedia.org/wiki/Michael_Foreman_(author/illustrator)>)\_ [3.94]
 
 One of the earliest books I can recall reading. This book is the best. - [@RichardLitt](https://github.com/RichardLitt)
