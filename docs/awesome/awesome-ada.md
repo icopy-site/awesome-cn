@@ -309,11 +309,13 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [ahven](http://ahven.stronglytyped.org/) - Ahven is a simple unit test library and framework for the Ada programming.
 language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [aunit](https://github.com/AdaCore/aunit) - Ada unit testing framework.
+- [bbt](https://github.com/LionelDraghi/bbt) - Simple tool to black box check the behavior of an executable through the command line.
 - [gnatbdd](https://github.com/briot/gnatbdd) - Behavior Driven Development in Ada.
 - [scripted-testing](https://github.com/simonjwright/scripted_testing) - Supports functional testing using Tcl scripts.
 
 ### Logging
 - [alog](https://www.codelabs.ch/alog/) - Alog is a stackable logging framework for Ada.
+- [elogs](https://github.com/kevlar700/elogs) - Logging framework for embedded systems absent of runtime errors.
 
 ### Machine Learning
 - [fuzzyml](https://sourceforge.net/projects/fuzzyml/) - Fuzzy machine learning framework.
@@ -444,6 +446,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [aforth](https://github.com/samueltardieu/aforth) - Embeddable Forth interpreter written in Ada.
 - [parser-tools](https://github.com/flyx/ParserTools) - Tools for writing lexers / parsers in Ada.
 - [xia](https://github.com/simonjwright/xia) - An Ada implementation of XPath 1.0.
+- [ada-lisp-embedded](https://github.com/BrentSeidel/Ada-Lisp-Embedded) - Embeddable Lisp interpreter.
 
 ### Format Readers, Writers and Checkers
 - [ini-files](https://github.com/zertovitch/ini-files) - The Ini file manager consists of a package, Config, which can read and modify informations from various configuration files known as "ini" files.
@@ -493,7 +496,6 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 [template-parser]: https://github.com/AdaCore/templates-parser
 
 ### Graphics and Multimedia
-- [orka](https://github.com/onox/orka) - The OpenGL 4.6 Rendering Kernel in Ada 2012.
 - [opengl-ada](https://github.com/flyx/OpenGLAda) - Thick Ada binding for OpenGL and GLFW.
 - [adagl](https://github.com/godunko/adagl) - Multiplatform Ada/OpenGL bindings (ported to native/OpenGL, A2JS/WebGL and WASM/WebGL).
 - [sdlada](https://github.com/Lucretia/sdlada) - Ada 2012 bindings to SDL 2.

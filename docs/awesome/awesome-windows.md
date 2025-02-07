@@ -123,6 +123,7 @@
 * [Komorebi](https://lgug2z.github.io/komorebi/) - Tiles windows dynamically. [![Open-Source Software][oss]](https://github.com/LGUG2Z/komorebi)
 * [QTTabBar](https://qttabbar.wikidot.com/) - Adds tabs to Explorer.
 * [Rainmeter](https://www.rainmeter.net/) - Displays customizable skins and widgets. [![Open-Source Software][oss]](https://github.com/rainmeter/rainmeter)
+* [Sucrose Wallpaper Engine](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers. [![Open-Source Software][oss]](https://github.com/Taiizor/Sucrose)
 * [Wallpaper Engine](https://www.wallpaperengine.io/) - Animated wallpapers for you dekstop. ![paid]
 * [WindHawk](https://windhawk.net/) - A list of useful software Tweaks. [![Open-Source Software][oss]](https://github.com/ramensoftware/windhawk)
 * [ZBar](https://www.zhornsoftware.co.uk/archive/index.html#zbar) - Manages taskbars across multiple monitors.
@@ -169,6 +170,7 @@
 * [Spacedrive](https://www.spacedrive.com/) - Cross-platform file manager with cloud integration. [![Open-Source Software][oss]](https://github.com/spacedriveapp/spacedrive)
 * [WinSCP](https://winscp.net/) - Free open source SFTP, FTP, WebDAV and SCP client.
 * [Xftp 7](https://www.netsarang.com/en/xftp/) - Flexible SFTP/FTP client with advanced features for efficient file transfers. ![paid]
+* [Files](https://files.community/) - A modern file manager that helps users organize their files and folders. [![Open-Source Software][oss]](https://github.com/files-community/Files)
 
 ## Game Stores
 
@@ -235,6 +237,7 @@
 * [OpenOffice](https://www.openoffice.org/) - Focuses on stability and legacy format support. [![Open-Source Software][oss]](https://openoffice.apache.org/source.html)
 * [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html) - Opens documents instantly with minimal memory usage. [![Open-Source Software][oss]](https://github.com/sumatrapdfreader/sumatrapdf)
 * [WPS Office](https://www.wps.com/office-free) - Offers mobile-desktop sync with built-in PDF tools.
+* [PDFGear](https://www.pdfgear.com/) - Full-featured and free PDF editor, which provides read, edit, annotation, page management, and print PDF documents.
 
 ## Password Managers
 
@@ -410,8 +413,12 @@
 
 Thanks to all contributors without you this project would not exist.
 
-<a href='https://raw.githubusercontent.com/0PandaDEV'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/70103896?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='0PandaDEV'/></a> <a href='https://raw.githubusercontent.com/syntaxboybe'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/113691000?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='syntaxboybe'/></a> <a href='https://raw.githubusercontent.com/onthejobtraining'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/75716685?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='onthejobtraining'/></a> <a href='https://raw.githubusercontent.com/peazip'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/479850?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='peazip'/></a> <a href='https://raw.githubusercontent.com/luismgallegosc'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/7239898?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='luismgallegosc'/></a> <a href='https://raw.githubusercontent.com/rodrigocfd'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/1283868?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='rodrigocfd'/></a> <a href='https://raw.githubusercontent.com/Yukai-Qian'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/100383998?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Yukai-Qian'/></a> <a href='https://raw.githubusercontent.com/n0vella'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/197369591?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='n0vella'/></a> <a href='https://raw.githubusercontent.com/obvTiger'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/83970850?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='obvTiger'/></a> 
+<a href='https://raw.githubusercontent.com/0PandaDEV'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/70103896?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='0PandaDEV'/></a> <a href='https://raw.githubusercontent.com/syntaxboybe'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/113691000?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='syntaxboybe'/></a> <a href='https://raw.githubusercontent.com/onthejobtraining'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/75716685?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='onthejobtraining'/></a> <a href='https://raw.githubusercontent.com/NoCrypt'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/57245077?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='NoCrypt'/></a> <a href='https://raw.githubusercontent.com/peazip'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/479850?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='peazip'/></a> <a href='https://raw.githubusercontent.com/luismgallegosc'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/7239898?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='luismgallegosc'/></a> <a href='https://raw.githubusercontent.com/rodrigocfd'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/1283868?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='rodrigocfd'/></a> <a href='https://raw.githubusercontent.com/Taiizor'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/41683699?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Taiizor'/></a> <a href='https://raw.githubusercontent.com/Yukai-Qian'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/100383998?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Yukai-Qian'/></a> <a href='https://raw.githubusercontent.com/n0vella'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/197369591?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='n0vella'/></a> <a href='https://raw.githubusercontent.com/obvTiger'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/83970850?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='obvTiger'/></a> 
 
 Please, consider supporting me as it is a lot of work to maintain this list! Thanks a lot.
 
 <a href="https://buymeacoffee.com/pandadev_"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+
+[oss]: /assets/opensource.svg
+[paid]: /assets/paid.svg
+[star]: /assets/star.svg

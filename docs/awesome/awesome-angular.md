@@ -605,6 +605,7 @@ become an Angular expert.
 * [ngx-barcode6](https://github.com/efgiese/ngx-barcode6) - An Angular component for Angular 9+ for creating 1-D barcodes based on [JsBarcode](https://github.com/lindell/JsBarcode).
 * [ngx-viz](https://github.com/vedph/ngx-viz) - Simple Angular [viz.js](https://viz-js.com/) wrapper to render [DOT graphs](https://graphviz.org/doc/info/lang.html).
 * [ngx-reactify](https://github.com/knackstedt/ngx-reactify) - Library to make running Angular and React applications together easy.
+* [solidgate](https://github.com/solidgate-tech/angular-sdk) - With its Angular SDK, you can add Solidgate Payment Form.
 
 #### Internationalization
 
@@ -1410,6 +1411,7 @@ to simplify usage and allow quick customization.
 * [Angular-html5qrcode](https://github.com/mohamedfakhreldin/Angular-html5qrcode) - This library provides an Angular wrapper for the [html5-qrcode](https://github.com/mebjas/html5-qrcode) library, allowing developers to easily integrate QR code and barcode scanning functionalities into their applications.
 * [ngx-kjua](https://github.com/werthdavid/ngx-kjua) - Angular QR-Code generator component using [kjua](https://github.com/lrsjng/kjua).
 * [ngx-qrcode](https://github.com/GNURub/ngx-qrcode) - A simple Angular 18+ component to generate QR codes. Based on [react-native-qrcode-skia](https://github.com/enzomanuelmangano/react-native-qrcode-skia) library.
+* [ngx-scan-detect](https://github.com/sezmars/ngx-scan-detect) - Detects barcode or QR code scanning on document and emits the scanned code.
 
 #### Scroll
 
@@ -1501,6 +1503,7 @@ to simplify usage and allow quick customization.
 * [ng-web-apis/storage](https://github.com/taiga-family/ng-web-apis/blob/main/libs/storage/README.md) - This is a library to use Web Storage API with Angular.
 * [ngx-odm](https://github.com/voznik/ngx-odm) - Angular 14+ wrapper for RxDB.
 * [signaldb](https://github.com/maxnowack/signaldb) - A local JavaScript database with a MongoDB-like interface and TypeScript support, enabling optimistic UI with signal-based reactivity. It integrates easily with Angular, Solid.js, Preact, and Vue, simplifying data management with schema-less design, in-memory storage, and fast queries.
+* [dexie](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB.
 
 #### Tooltips
 
