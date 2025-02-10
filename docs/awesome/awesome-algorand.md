@@ -62,7 +62,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
 - [Algorand Ballet](https://akaalias.github.io/algorand-ballet/) - Algorand accounts' 2D graphs.
 - [Algorand Multiverse](https://algo3d.live/) - Algorand accounts' 3D graphs.
 - [Asalytic](https://www.asalytic.app/) - Analyze the Algorand NFT space.
-- [Dappflow](https://app.dappflow.org/explorer/home) - Algorand Private Network Explorer (supports Sandbox in `localhost`).
+- [AlgoSurf](https://algo.surf/) - Algorand Network Explorer (supports LocalNet in `localhost`).
 - [Bitquery](https://explorer.bitquery.io/algorand) - Actionable, insightful blockchain GraphQL APIs for more than 30 blockchains. One of the highlighted features is the ability to query a list of Algorand block proposers.
 - [Lora](https://lora.algokit.io/mainnet) - Lora is a powerful visual tool designed to streamline the Algorand local development experience. It acts as both a network explorer and a tool for building and testing your Algorand applications.
 

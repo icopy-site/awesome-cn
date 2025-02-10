@@ -257,16 +257,17 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 ### Community providers
 
 - [terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) - Terraform Docker provider.
-- [terraform-provider-terracurl](https://github.com/devops-rob/terraform-provider-terracurl) - Provider to make managed and unmanaged API calls to your target endpoint.
-- [terraform-provider-value](https://github.com/pseudo-dynamic/terraform-provider-value) - Value Provider for Terraform.
-- [terraform-provider-uname](https://github.com/julienlevasseur/terraform-provider-uname) - Uname Provider for Terraform.
+- [terraform-provider-minio](https://github.com/aminueza/terraform-provider-minio) - Terraform provider for managing MinIO S3 buckets and IAM Users.
 - [terraform-provider-proxmox](https://github.com/Telmate/terraform-provider-proxmox) - Terraform Proxmox provider.
+- [terraform-provider-terracurl](https://github.com/devops-rob/terraform-provider-terracurl) - Provider to make managed and unmanaged API calls to your target endpoint.
+- [terraform-provider-uname](https://github.com/julienlevasseur/terraform-provider-uname) - Uname Provider for Terraform.
+- [terraform-provider-value](https://github.com/pseudo-dynamic/terraform-provider-value) - Value Provider for Terraform.
 
 ## Testing
 
-- [clarity](https://github.com/xchapter7x/clarity) - A declarative test framework for Terraform for unit testing.
-- [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform) - Provides a set of Test Kitchen plugins which enable a system to use Test Kitchen to converge a Terraform configuration and verify the resulting Terraform state with InSpec controls.
-- [rspec-terraform](https://github.com/bsnape/rspec-terraform) - RSpec tests for your Terraform modules.
+- [clarity](https://github.com/xchapter7x/clarity) - A declarative test framework for Terraform for unit testing. :skull:
+- [kitchen-terraform](https://github.com/newcontext-oss/kitchen-terraform) - Provides a set of Test Kitchen plugins which enable a system to use Test Kitchen to converge a Terraform configuration and verify the resulting Terraform state with InSpec controls. :skull:
+- [rspec-terraform](https://github.com/bsnape/rspec-terraform) - RSpec tests for your Terraform modules. :skull:
 - [terraform_validate](https://github.com/elmundio87/terraform_validate) - Assists in the enforcement of user-defined standards in Terraform. :skull:
 - [terraform-compliance](https://github.com/terraform-compliance/cli) - BDD Testing for Terraform Files.
 - [terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
@@ -298,9 +299,12 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [fuzzy-terraform-rm](https://github.com/paololazzari/fuzzy-terraform-rm) - A fuzzy-finder command-line tool for removing resources from terraform state.
 - [gaia](https://github.com/gaia-app/gaia) - Gaia is a Terraform 🌍 UI for your modules, and self-service infrastructure 👨‍💻. :skull:
 - [hatchet](https://github.com/hatchet-dev/hatchet-v1-archived) - An all-in-one Terraform management tool. :skull:
+- [hcl2json](https://github.com/tmccombs/hcl2json) - Convert hcl2 to json.
 - [hcldump](https://github.com/magodo/hcldump) - Dump the HCL (v2) abstract syntax tree.
+- [hcledit](https://github.com/mercari/hcledit) - Go package to edit HCL configuration
 - [hcledit](https://github.com/minamijoyo/hcledit) - A command line editor for HCL.
 - [hclgrep](https://github.com/magodo/hclgrep) - Syntax based grep for HCL(v2).
+- [hq](https://github.com/miller-time/hq) - command-line HCL processor
 - [iam-policy-json-to-terraform](https://github.com/flosell/iam-policy-json-to-terraform) - Small tool to convert an IAM Policy in JSON format into a Terraform aws_iam_policy_document
 - [Infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in your CLI and pull requests.
 - [inframap](https://github.com/cycloidio/inframap) - Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
@@ -391,6 +395,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [tfgen](https://github.com/refl3ction/tfgen) - Terraform code generator for consistent codebase and DRY.
 - [tfgpt](https://github.com/flavius-dinu/tfgpt) - A CLI tool that integrates Terraform with OpenAI's GPT-3.5 Turbo to provide explanations for Terraform commands and concepts.
 - [tfjson](https://github.com/palantir/tfjson) - Utility to read in a Terraform plan file and dump it out in JSON. :skull:
+- [tfk8s](https://github.com/jrhouston/tfk8s) - A tool for converting Kubernetes YAML manifests to Terraform HCL
 - [tflint](https://github.com/terraform-linters/tflint) - Terraform linter for detecting errors that can not be detected by `terraform plan`
 - [tfmake](https://github.com/tfmake/tfmake) - Automating Terraform with the power of make.
 - [tfmask](https://github.com/cloudposse-archives/tfmask) - Terraform utility to mask select output from `terraform plan` and `terraform apply`
@@ -414,11 +419,13 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [tfvaultenv](https://github.com/oulman/tfvaultenv) - tfvaultenv reads secrets from HashiCorp Vault and outputs environment variables for various Terraform providers with those secrets.
 - [tfwrapper](https://github.com/manheim/tfwrapper) - Rubygem providing rake tasks for running Hashicorp Terraform sanely.
 - [tgf](https://github.com/coveooss/tgf) - Terragrunt frontend for executing Terragrunt/Terraform through Docker.
+- [threatcl](https://github.com/threatcl/threatcl) - Documenting your Threat Models with HCL
 - [tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager inspired by tfenv
 - [tpm](https://github.com/Madh93/tpm) - A package manager for Terraform providers.
 - [travelgrunt](https://github.com/ivanilves/travelgrunt) - cd inside [mono]repos without fatigue!
 - [validIaC](https://github.com/gofireflyio/validiac) - ValidIaC combines the best open-source tools to help ensure Terraform best practices, hygiene & security.
 - [xterrafile](https://github.com/devopsmakers/xterrafile) Systematically manage external modules from the module registry, git, or local directories for use in Terraform (written in Go). :skull:
+- [yj](https://github.com/sclevine/yj) - CLI - Convert between YAML, TOML, JSON, and HCL. Preserves map order.
 - [yor](https://github.com/bridgecrewio/yor) - Automatically tag and trace infrastructure as code frameworks (Terraform, Cloudformation, and Serverless).
 
 ### CI
@@ -432,10 +439,13 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 
 ## Libraries
 
+- [hcl-rs](https://github.com/martinohmann/hcl-rs) - HCL parsing and encoding libraries for rust with serde support
+- [hcl4j](https://github.com/bertramdev/hcl4j) - HCL parser in Java
 - [nu_plugin_hcl](https://github.com/Yethal/nu_plugin_hcl) - HCL parser plugin for [Nushell](https://github.com/nushell/nushell)
 - [pyhcl](https://github.com/virtuald/pyhcl) - HCL parser in Python
 - [python-hcl2](https://github.com/amplify-education/python-hcl2/) - HCL2 parser in Python
 - [rhcl](https://github.com/winebarrel/rhcl) - Pure Ruby HCL parser :skull:
+- [tree-sitter-hcl](https://github.com/tree-sitter-grammars/tree-sitter-hcl) - HCL grammar for tree-sitter
 
 ## Boilerplates
 
@@ -499,8 +509,9 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [Intellij](https://plugins.jetbrains.com/plugin/7808-terraform-and-hcl)
 - [Terraform-ls](https://github.com/hashicorp/terraform-ls) (Terraform Language Server)
 - [Terraform-lsp](https://github.com/juliosueiras/terraform-lsp) (Language Server Protocol for Terraform)
-- [Vim-Terraform](https://github.com/hashivim/vim-terraform)
+- [vim-hcl](https://github.com/jvirtanen/vim-hcl) - Syntax highlighting for HCL
 - [Vim-Terraform-Completion](https://github.com/juliosueiras/vim-terraform-completion)
+- [Vim-Terraform](https://github.com/hashivim/vim-terraform)
 - [VS Code](https://marketplace.visualstudio.com/items?itemName=hashicorp.terraform)
 
 ## License
