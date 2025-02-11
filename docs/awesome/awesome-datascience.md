@@ -1068,7 +1068,8 @@ Some data mining competition platforms
 - [Is Data Science a Good Career?](https://www.scaler.com/blog/is-data-science-a-good-career/)
 - [The Future of Data Science: Predictions and Trends](https://www.appliedaicourse.com/blog/future-of-data-science/)
 - [Data Science and Machine Learning: What’s The Difference?](https://www.appliedaicourse.com/blog/data-science-and-machine-learning-whats-the-difference/)
-
+- [AI in Data Science: Uses, Roles, and Tools](https://www.scaler.com/blog/ai-in-data-science/)
+- [Top 13 Data Science Programming Languages](https://www.appliedaicourse.com/blog/data-science-programming-languages/)
 
 
 ### Hobby

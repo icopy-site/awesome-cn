@@ -260,7 +260,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 #### Nonparametric Model
 
-* [A Bayesian Analysis of Some Non-parametric Problems](https://people.stat.sc.edu/hansont/stat740/Ferguson1973.pdf) - ***The Annals of Statistics***, 1973. [[All Versions](https://scholar.google.com/scholar?cluster=3969163427460060902&hl=en&as_sdt=0,5)]. A classic review on non-parametric problems.
+* [A Bayesian Analysis of Some Non-parametric Problems](https://www.jstor.org/stable/2958008?seq=1) - ***The Annals of Statistics***, 1973. [[All Versions](https://scholar.google.com/scholar?cluster=3969163427460060902)]. [[Preprint](https://people.stat.sc.edu/hansont/stat740/Ferguson1973.pdf)]. A classic review on non-parametric problems.
 
 * [Mixtures of Dirichlet Process with Applications to Bayesian Nonparametric Problems](https://people.eecs.berkeley.edu/~jordan/courses/281B-spring04/readings/antoniak.pdf) - ***The Annals of Statistics***, 1974. [[All Versions](https://scholar.google.com/scholar?cluster=17937202534282344046&hl=en&as_sdt=0,5)]. The original paper on Dirichlet Process modeling for non-parametric problems.
 

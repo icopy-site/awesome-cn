@@ -640,6 +640,7 @@ Other places you can look for MicroPython Libraries:
 
 * [micropython-nunchuck](https://github.com/kfricke/micropython-nunchuck) - Driver for Nunchuk game controller, I2C interface.
 * [esp32-microgamepad-ble](https://github.com/insighio/esp32-microgamepad-ble) - Dual analog joystick on ESP32 over BLE (Nordic UART Service - NUS) using MicroPython.
+* [micropython-joystick-2-unit](https://github.com/HowManyOliversAreThere/micropython-joystick-2-unit) - Driver for the [M5Stack Joystick 2 Unit](https://docs.m5stack.com/en/unit/Unit-JoyStick2).
 
 #### Keyboard
 
@@ -1098,7 +1099,8 @@ Other places you can look for MicroPython Libraries:
 * [micropython-redis](https://github.com/dwighthubbard/micropython-redis) - A Redis client implementation designed for use with MicroPython.
 * [picoredis](https://github.com/SpotlightKid/picoredis) - A very minimal Redis client (not only) for MicroPython.
 * [micropg](https://github.com/nakagami/micropg) - PostgreSQL database driver for MicroPython.
-* [micropg_lite](https://github.com/TimonW-Dev/micropg_lite) - PostgreSQL database driver for MicroPython, based on micropg but aiming to require less memory with some compromises in functionality.
+* [micropg_lite](https://github.com/TimonW-Dev/micropg_lite) - Lightweight version of micropg with some slight limitations (e.g. error handling), in order to run on low-RAM microcontrollers (works with ESP8266).
+* [micropg_superlite](https://github.com/TimonW-Dev/micropg_superlite) - The lightest PostgreSQL database driver for micropython based on micropg_lite/micropg, but has even stronger restrictions in functionality and focuses only on the absolutely necessary functions.
 * [micropython-cratedb](https://github.com/crate/micropython-cratedb/) - MicroPython driver for CrateDB databases.
 * [nmongo](https://github.com/nakagami/nmongo) - MongoDB client for CPython and MicroPython, with MongoDB shell-like APIs.
 * [MicroPyDatabase](https://github.com/sungkhum/MicroPyDatabase) - A low-memory JSON-based database for MicroPython.
