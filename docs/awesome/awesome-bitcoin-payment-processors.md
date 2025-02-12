@@ -15,7 +15,7 @@ Self-Hosted payment processors run on your server and provide you with a full co
 
 | Processor | Fees | Lightning | Directly to Your Wallet | Conversion to Fiat | Requirements |
 | --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
-| [BTCPay Server](https://btcpayserver.org/) | No fees | Yes | Yes | Via [Payment Forwarding](https://www.blockonomics.co/views/payment_forwarding.html) and [Exchange Integration](https://redbtc.org/flows/integrations/kraken-exchange/) | 2 GB RAM, 80 GB Storage, Docker |
+| [BTCPay Server](https://btcpayserver.org/) | No fees | Yes | Yes | Via [Strike plugin](https://github.com/Marfusios/strike-btcpayserver-plugin) or [Exchange Integration](https://redbtc.org/flows/integrations/kraken-exchange/) | 2 GB RAM, 80 GB Storage, Docker |
 | [One Time Address](https://github.com/alexk111/One-Time-Address) | No fees | No | Yes | No | NodeJS |
 | [CryptoWoo](https://www.cryptowoo.com/) | $34 - $99 per year | No | Yes | No | PHP 5.6+, Wordpress 4.3+, WooCommerce 3.0+ |
 | [BitcartCC](https://bitcartcc.com) | No fees | Yes | Yes | No | 1 GB RAM, 10 GB Storage, Docker |
@@ -46,7 +46,9 @@ The following processors use their own wallets, not yours, for receiving payment
 
 ⚠ They not only collect data about payments, they have full control over the funds. There are many risks associated with custodians, which might end up with lost/locked funds.
 
-⚠ Most of them have KYC/AML requirements, which poses a serious threat to your and your customers' privacy.
+⚠ Most of them have KYB/KYC/AML requirements, which poses a serious threat to your and your customers' privacy.
+
+⚠ They have country-based restrictions for merchants and merchants' customers.
 
 | Processor | Fees | Lightning | Directly to Your Wallet | Conversion to Fiat | Requirements |
 | --------- |:----:|:---------:|:-----------------------:|:------------------:| ------------ |
@@ -60,6 +62,9 @@ The following processors use their own wallets, not yours, for receiving payment
 | [NOWPayments](https://nowpayments.io/) | ≤0.5% | No | No | No | KYC/AML procedure applied to certain clients, wallet addresses and select assets. |
 | [ElenPAY](https://elenpay.tech) | ≤1% | Yes | Yes | No (Soon) | Low KYC |
 | [Speed](https://tryspeed.com/) | 1% | Yes | No | No | No |
+| [Sheepy](https://www.sheepy.com/) | 1% + $0.25 | No | No | Yes | Requires [KYB documents](https://www.sheepy.com/faq/what-documents-are-required-to-verify-my-merchant-account) |
+| [ALFAcoins](https://www.alfacoins.com/) | 0.99% | No | No | No | Requires KYB documents |
+| [Apirone](https://apirone.com/) | 1% | No | No | No | No |
 
 ## Backers 💝
 
