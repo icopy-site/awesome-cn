@@ -588,6 +588,7 @@ Read the paper [here](https://arxiv.org/abs/1902.06714).
 * [Knet](https://github.com/denizyuret/Knet.jl) - Koç University Deep Learning Framework.
 * [Flux](https://fluxml.ai/) - Relax! Flux is the ML library that doesn't make you tensor
 * [MLJ](https://github.com/alan-turing-institute/MLJ.jl) - A Julia machine learning framework.
+* [CluGen](https://github.com/clugen/CluGen.jl/) - Multidimensional cluster generation in Julia.
 
 <a name="julia-natural-language-processing"></a>
 #### Natural Language Processing
@@ -742,7 +743,7 @@ on MNIST digits[DEEP LEARNING].
 * [Optunity](https://optunity.readthedocs.io/en/latest/) - A library dedicated to automated hyperparameter optimization with a simple, lightweight API to facilitate drop-in replacement of grid search. Optunity is written in Python but interfaces seamlessly with MATLAB.
 * [MXNet](https://github.com/apache/incubator-mxnet/) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, JavaScript and more.
 * [Machine Learning in MatLab/Octave](https://github.com/trekhleb/machine-learning-octave) - Examples of popular machine learning algorithms (neural networks, linear/logistic regressions, K-Means, etc.) with code examples and mathematics behind them being explained.
-
+* [MOCluGen](https://github.com/clugen/MOCluGen/) - Multidimensional cluster generation in MATLAB/Octave.
 
 <a name="matlab-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization
@@ -970,6 +971,7 @@ be
 * [Haystack](https://github.com/deepset-ai/haystack) - A framework for building industrial-strength applications with Transformer models and LLMs.
 * [CometLLM](https://github.com/comet-ml/comet-llm) - Track, log, visualize and evaluate your LLM prompts and prompt chains.
 * [Transformers](https://github.com/huggingface/transformers) - A deep learning library containing thousands of pre-trained models on different tasks. The goto place for anything related to Large Language Models.
+* [TextCL](https://github.com/alinapetukhova/textcl) - Text preprocessing package for use in NLP tasks.
 
 <a name="python-general-purpose-machine-learning"></a>
 #### General-Purpose Machine Learning
@@ -1022,6 +1024,7 @@ be
 * [hebel](https://github.com/hannes-brt/hebel) - GPU-Accelerated Deep Learning Library in Python. **[Deprecated]**
 * [Chainer](https://github.com/chainer/chainer) - Flexible neural network framework.
 * [prophet](https://facebook.github.io/prophet/) - Fast and automated time series forecasting framework by Facebook.
+* [skforecast](https://github.com/skforecast/skforecast) - Python library for time series forecasting using machine learning models. It works with any regressor compatible with the scikit-learn API, including popular options like LightGBM, XGBoost, CatBoost, Keras, and many others.
 * [gensim](https://github.com/RaRe-Technologies/gensim) - Topic Modelling for Humans.
 * [tweetopic](https://centre-for-humanities-computing.github.io/tweetopic/) - Blazing fast short-text-topic-modelling for Python.
 * [topicwizard](https://github.com/x-tabdeveloping/topic-wizard) - Interactive topic model visualization/interpretation framework.
@@ -1141,6 +1144,7 @@ be
 * [CometML](https://github.com/comet-ml/comet-examples): The best-in-class MLOps platform with experiment tracking, model production monitoring, a model registry, and data lineage from training straight through to production.
 * [Okrolearn](https://github.com/Okerew/okrolearn): A python machine learning library created to combine powefull data analasys feautures with tensors and machine learning components, while mantaining support for other libraries.
 * [Opik](https://github.com/comet-ml/opik): Evaluate, trace, test, and ship LLM applications across your dev and production lifecycles.
+* [pyclugen](https://github.com/clugen/pyclugen) - Multidimensional cluster generation in Python.
 
 <a name="python-data-analysis--data-visualization"></a>
 #### Data Analysis / Data Visualization
@@ -1505,6 +1509,7 @@ be
 * [igraph](https://igraph.org/r/) - binding to igraph library - General purpose graph library.
 * [MXNet](https://github.com/apache/incubator-mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, JavaScript and more.
 * [TDSP-Utilities](https://github.com/Azure/Azure-TDSP-Utilities) - Two data science utilities in R from Microsoft: 1) Interactive Data Exploration, Analysis, and Reporting (IDEAR) ; 2) Automated Modelling and Reporting (AMR).
+* [clugenr](https://github.com/clugen/clugenr/) - Multidimensional cluster generation in R.
 
 <a name="r-data-analysis--data-visualization"></a>
 #### Data Manipulation | Data Analysis | Data Visualization

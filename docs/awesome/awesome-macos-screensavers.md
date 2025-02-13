@@ -167,6 +167,14 @@ Free
 
 Free
 
+### SwiftBubble
+
+> Recreation of the soap bubble screen saver from apple's promotional videos for the new MacBook 12"
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/swiftbubble.png)](https://github.com/nemesit/SwiftBubble)
+
+Free (Open Source)
+
 ## Retro
 
 ### PongSaver
@@ -242,6 +250,14 @@ Free
 Free
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/kernelPanic.png)](https://github.com/dessibelle/Blue-Screen-Saver)
+
+### octoscreen
+
+> An OS X screensaver with octicons
+
+Free (Open Source)
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/octoscreen.png)](https://github.com/orderedlist/octoscreen)
 
 ## Graphics
 
