@@ -244,7 +244,7 @@ Content about: Spring Boot, Kotlin \
 Featured playlists: `Spring Boot`. \
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/AZvfbMG12CAiznGPiO_45ZvLNxJuNECfzSq9mScGEH6k8C7wDF69aWRGCVI7pSh-2dMJEOUzy70=s176-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ArjanCodes)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/v3WB04HYuR2G-HJTrgIZKLsfAU36PHsvPS3X-4SZgB28Ov6gxE5Jb2_QZ94Ta2PRngopLYu5=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/c/ArjanCodes)
 
 [**ArjanCodes**](https://www.youtube.com/c/ArjanCodes) \
 Content about: Python, Software Design \
@@ -1001,7 +1001,7 @@ Content about: Game Graphics, Shaders, Rays \
 Featured playlists: `Shader Coding`, `Fractals`, `Ray Marching`, `Unity Tutorials`. \
 <br />
 
-[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/WorLpefw5Z5z8olLP763eKUqF90fZuVvhNitJRwJQJ0BeNiJapvsrTahX6rwWHmgjrs1IYNVnWc=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Gdconf)
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/NTUIaPtPtvg2MfVmPhR32gmMW8UwO7cCzoSYJTxDTISb8fHdBxcxgPbbnBEgrlkfjlBoUY4zyQ=s160-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@Gdconf)
 
 [**GDC**](https://www.youtube.com/@Gdconf) \
 Content about: Conferences about inner functionality of top videogames \

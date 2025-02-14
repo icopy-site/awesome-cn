@@ -25,6 +25,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [HackAssistant](https://github.com/HackAssistant/hackassistant) - Hackathon registration server.
 - [Hackatuning](https://github.com/leognmotta/hackatuning) - Early stage hackathon management platform. `js`
 - [HackathonManager](https://github.com/codeRIT/hackathon-manager) - Hackathon registration & logistics, compatible with MyMLH.
+- [Hackathon Management System](https://github.com/Teplitsa/hackathon) - A comprehensive WordPress plugin by [Teplitsa](https://hms.te-st.org/). `php`
 - [HackDash](https://github.com/impronunciable/hackdash) - Organize hackaton ideas into a dashboard.
 - [Hackerspace3](https://github.com/govhackaustralia/hackerspace3) - Competition Management System for the GovHack Hackathon. `ruby`
 - [HackPortal](https://github.com/acmutd/hackportal) - A platform from HackUTD for user-friendly event management.
@@ -44,6 +45,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [Devpost](https://github.com/challengepost) - U.S. company whose customers market developer tools and jobs to the community.
 - [Hacksuite](https://github.com/DevtranetHQ/Hacksuite) - A fullstack suite of apps from Devtranet for hosting virtual hackathons.
 - [Hackworks](https://github.com/hackworks) ([docs](https://help.hackworks.com/knowledge)) - Open innovation challenge platform from experienced event organizers in Canada. 
+- [Nosu](https://www.nosu.io/) - New VC funded AI tools for announcing, generating and quickly checking hackathon projects from true fans of the genre.
 - [Stackref](https://github.com/StackRef) ([docs](https://docs.stackref.com/)) - Internal hackathon and ideation, with cloud provisioning and judging features.
 - [TAIKAI](https://github.com/taikai) - Connects creators and companies, using hackathons, bounties and hiring challenges.
 
@@ -111,6 +113,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 
 ### Coaching
 
+- [Awesome README](https://github.com/matiassingers/awesome-readme) - A list to inspire your coaches to motivate your teams to document their efforts ...with panache.
 - [HELPq](https://github.com/ehzhang/helpq) - Queue application with interfaces for mentors and hackers to answer/submit questions, respectively.
 - [Hangar](https://github.com/AmericanAirlines/Hangar) - A Slack bot to help with judging and coaching at hackathons.
 - [Leadership & Governance](https://opensource.guide/leadership-and-governance/) - Handbook for open source project, that also applies well for hackathon teams.
