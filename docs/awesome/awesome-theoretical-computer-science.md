@@ -348,6 +348,7 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Shasha & Lazere. Out of their Minds: The Lives and Discoveries of 15 Great Computer Scientists](https://www.springer.com/gp/book/9780387982694) - Interviews with era's greatest scientists about their inspirations, discoveries, and personal interests.
 ## Cheat Sheets<a name=other_cheat_sheets></a>
 - [TCS Cheat Sheet](https://www.cosy.sbg.ac.at/~held/teaching/aads/TCS-cheat_sheet.pdf) - A sheet of notes containing essential toolboxes needed by any theoretical computer scientist.
+- [Useful Inequalities Cheat Sheet](http://www.lkozma.net/inequalities_cheat_sheet/)
 ## Related Lists<a name=related_lists></a>
 - [Algorithms](https://github.com/tayllan/awesome-algorithms).
 - [Mathematics](https://github.com/rossant/awesome-math) - Freely available lecture notes on mathematics.
