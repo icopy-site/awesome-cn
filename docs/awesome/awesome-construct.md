@@ -18,8 +18,8 @@ This list includes all the best tools, tutorials and examples related to the awe
 
 
 
-
 ## Community
+
 - [Discord Server](https://discord.gg/8RJBHbX) - [Scirra Forum Thread](https://www.construct.net/forum/construct-2/general-discussion-17/there-is-a-construct-2-discord-117214).
 - [FAQ](https://www.construct.net/forum/construct-2/how-do-i-18/how-do-i-frequently-asked-ques-41236)
 - [Forums](https://www.construct.net/forum)
@@ -29,11 +29,13 @@ This list includes all the best tools, tutorials and examples related to the awe
 - [Facebook](https://www.facebook.com/ConstructTeam/)
 
 ## Games Showcase
+
 - [Games on Steam](http://steamcommunity.com/sharedfiles/filedetails/?id=103535227) - List of Steam games made with the engine.
 - [Games on itch.io](https://itch.io/games/tag-construct-2/tag-construct-3) - List of itch.io games made with the engine.
 - [Games made with Construct](https://www.madewithconstruct.com/) - A website that list all the games made with the engine.
 
 ## Hosting
+
 - [itch.io](http://www.itch.io) - Platform where to host, showcase, promote or sell your games - **Free**.
 - [GitHub Pages](http://pages.github.com) - Platform where to host an exported game as a static website - **Free**.
 - [Surge](https://surge.sh/) - Platform where to host an exported game as a static website - **Free/Paid**.
@@ -41,19 +43,33 @@ This list includes all the best tools, tutorials and examples related to the awe
 - [Netlify](https://www.netlify.com/) - Platform where to host an exported game as a static website - **Free/Paid**.
 
 ## Tools
+
 - [Rex's Plugins Tool](https://rexrainbow.github.io/C2RexDoc/c2rexplugins.weebly.com/index.html) - The personnal addon manager of Rex.Rainbow.
 - [FrameworkJS for Construct2](https://c2.frameworkjs.eth.limo/) - Use Construct 2 to develop apps [in development]
 
-## Export 
+### Develop
+
+- [[Fábio Smuu] SDK Plugins Construct 2](https://github.com/FabioSmuu/SDK_PluginC2)
+- [[Scirra] SDK Plugins Construct 3 - Official](https://github.com/Scirra/Construct-Addon-SDK)
+- [[ConstructFund] C3IDE2-cli](https://github.com/ConstructFund/c3ide2-cli)
+
+## Export
+
 - [ElectronForConstruct](https://electronforconstruct.armaldio.xyz) - Export your games using Electron instead of NW.js.
 - [AppPlayer-Electron](https://github.com/Floflis/AppPlayer-Electron) - Preview Construct 2 apps/games in an Electron prebuilt exe - as if Electron were a normal browser! Currently Windows only, but soon™ for Mac and Linux
 - [Chowdren](https://mp2.dk/chowdren/) - Blazingly fast runtime for Clickteam Fusion and Scirra Construct.
 
 ## Plugins/Behaviors/Effects
+
 - [[Kyatric] C2 Plugins and Behaviors List](https://www.construct.net/forum/extending-construct-2/addons-29/c2-plugins-and-behaviors-list-42712) - Complete list of Plugins and Behaviours available on the forums.
 - [[Kyatric] WebGL Effects List](https://www.construct.net/forum/extending-construct-2/effects-31/webgl-effects-list-51897) - Complete list of Effects available on the forums.
 
 ## Tutorials
+
+### Fórum
+
+- [[Rafael Trigo] Construct 3 Tutorials](https://www.construct.net/en/tutorials/construct-tutorials-2525) - list of all my tutorials in Construct 3 by Rafael Trigo
+
 ### YouTube
 
 - [[ArcadEdGames] Construct 2 Tutorials](https://www.youtube.com/playlist?list=PLmyh0_jcCzcoPTgHkm4CJSw_sdK5lPSb_) - YouTube channel about making all sort of stuff.
@@ -76,7 +92,15 @@ This list includes all the best tools, tutorials and examples related to the awe
 - [[TodaysTuts] Construct 2 - Behaviors](https://www.youtube.com/playlist?list=PLO3K3VFvlU6B1InGyrx7Iz7w_MDizWlXK) - Tutorials about Behaviours.
 - Let's Make Games: [[PONG]](https://www.youtube.com/watch?v=cvItNHEMB80) [[ASTEROIDS]](https://www.youtube.com/watch?v=nYULTk2BpKY) [[Flappy Bird]](https://www.youtube.com/watch?v=eBccn1qMB_U) - Tutorials on how to make specifi games.
 - [Construct 2 Tutorials - Breakout Clone](https://www.youtube.com/playlist?list=PL59F92017DA9887DB) - Learn how to create a Brakeout game.
-- [Lessis Games](https://www.youtube.com/@lessisgames8555/playlists) - Tutorials & more.
+- [[Marcos Game Dev] Lessis Games](https://www.youtube.com/@lessisgames8555/playlists) - Tutorials & more.
+- [[Marcos Game Dev] Super Mario Bros. no Construct 2 e 3](https://www.youtube.com/playlist?list=PLuDpKE2ECBou7QX1vZa7dFt6n3mTbnYAD) - Learn how to create Super Mario Bros. mechanics in Construct 2 or 3, faithfully recreated from the NES classic!
+- [[Marcos Game Dev] Curso Metroidvania 1.0](https://www.youtube.com/playlist?list=PLuDpKE2ECBou-kcov-1DdbnNHLjxGiwDp) - The version 1.0 of the Metroidvania Course, recorded in 2018, is now free! Follow the lessons to create your own metroidvania in Construct 2 or 3!
+- [[Marcos Game Dev] Plataforma Gostosinho - Técnicas de Polimento para Construct 3](https://www.youtube.com/playlist?list=PLuDpKE2ECBovsRiINMYss6iOHJYCN8MNe) - It all started with one question: 'Can you polish a game without adding new art?' The 'Plataforma Gostosinho' series answers this by transforming a basic platformer into a game that’s fun to play in Construct 3!
+- [[Marcos Game Dev] Recriando Megaman X no Construct 2 (ou Construct 3)](https://www.youtube.com/playlist?list=PLuDpKE2ECBovmH0TG_ye_Wrg9CATAiB1p) - Learn to create Megaman X mechanics like the iconic X-buster, intense boss battles, and special powers in Construct 2 or 3! Detailed, intermediate-level videos (with some advanced content).
+- [[Marcos Game Dev] Curso Beat'em Up no Construct 2 (ou Construct 3)](https://www.youtube.com/playlist?list=PLuDpKE2ECBovMW6iHOWwa0zy5_g_7KL2l) - Create an amazing beat'em up with combos, local 4-player multiplayer, multiple enemies, and more in Construct 2 or 3! Not recommended for beginners.
+- [[Marcos Game Dev] Criando Roguelike no Construct 2 (ou Construct 3)](https://www.youtube.com/playlist?list=PLuDpKE2ECBosjwzkBzyTCOGr8WDLXflY6) - Learn to create a roguelike with RANDOM LEVEL GENERATION, multiple enemies, and a complete platformer character! NOT recommended for beginners.
+- [[Marcos Game Dev] Criando Menu Principal no Construct 2](https://www.youtube.com/playlist?list=PLuDpKE2ECBoulD0kDJNLmFc32nphXvY3U) - Learn to create a main menu that works for almost any game (focus on desktop). Includes fullscreen/window mode, control mapping, language switch, audio settings, and more.
+- [Marcos Game Dev](https://www.youtube.com/@MarcosGameDev/videos) - Tutorials & more.
 
 ### Other Sources
 
@@ -87,11 +111,14 @@ This list includes all the best tools, tutorials and examples related to the awe
 - [How To Construct Demo](https://howtoconstructdemos.com/) - Demo samples.
 
 ## E-Books
+
 - [Level Zero](https://www.construct.net/blogs/construct-official-blog-1/level-zero-free-construct-2-book-853) - Complete book on how to make games.
 
 ## Useful Links
+
 - [Game Assets by Andre Antonio Schmitzht](https://game-assets.zeef.com/andre.antonio.schmitz) - Resources and tools for creating assets used in games: graphics, modeling, animation, audio, music, video, maps and others.
-- [Game Development by David Arcila](https://game-development.zeef.com/david.arcila) - "*The biggest list of game development resources on the web*".
+- [Game Development by David Arcila](https://game-development.zeef.com/david.arcila) - "_The biggest list of game development resources on the web_".
 
 ## License
+
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
