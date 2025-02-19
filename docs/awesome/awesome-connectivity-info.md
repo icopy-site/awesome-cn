@@ -52,6 +52,7 @@ A list of connectivity indexes, maps, and reports to help you better understand 
 - [Africa Bandwidth Maps](http://www.africabandwidthmaps.com/) - Paul Hamilton's map of African terrestrial fibre and microwave networks.
 - [Telegeography Submarine Cable Map](https://www.submarinecablemap.com/) - Interactive submarine fibre optic cables.
 - Telegeography Annual Submarine Cable Update - ([2024](https://submarine-cable-map-2024.telegeography.com/)) ([2023](https://submarine-cable-map-2023.telegeography.com/)) ([2022](http://submarine-cable-map-2022.telegeography.com/)) ([2021](http://submarine-cable-map-2021.telegeography.com/)) ([2020](http://submarine-cable-map-2020.telegeography.com/))  ([2019](http://submarine-cable-map-2019.telegeography.com/)) ([2018](http://submarine-cable-map-2018.telegeography.com/))  
+- [Submarine Telecoms Forum](https://subtelforum.com/online-map/) - SubTelForum has an excellent interactive map and directory of undersea cables as well as an annual almanac.
 - [Telegeography Cloud Infrastructure Map](https://www.cloudinfrastructuremap.com/) - Map of cloud infastructure providers around the world.
 - [ITU Interactive Transmission Map](http://www.itu.int/itu-d/tnd-map-public/) - Online map of terrestrial fibre and microwave networks from ITU.
 - [GSMA Mobile Coverage Maps @ Mobile World Live](http://maps.mobileworldlive.com/) - Somewhat dated but still useful map of mobile network coverage on country by country basis.
