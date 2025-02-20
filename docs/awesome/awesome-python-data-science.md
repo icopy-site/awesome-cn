@@ -45,8 +45,6 @@
 
 ### TensorFlow
 
-### MXNet
-
 ### JAX
 * [JAX](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
 * [FLAX](https://github.com/google/flax) - A neural network library for JAX that is designed for flexibility.
