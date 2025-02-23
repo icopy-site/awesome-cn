@@ -11,28 +11,31 @@
 
 
 
-## PlayCanvas
+## PlayCanvas Products
 
-- [Editor](https://playcanvas.com/) - Browser-based, real-time collaborative WebGL Editor.
-- [Engine](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
-- [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
-- [NPM Package](https://www.npmjs.com/package/playcanvas) - Node.js packages of the PlayCanvas engine run-time.
-- [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
-- [Reference](https://api.playcanvas.com/) - API reference manual for the engine run-time.
-- [SuperSplat](https://playcanvas.com/supersplat/editor) - 3D Gassuian Splat Editor.
-- [Texture Tool](https://playcanvas.com/texture-tool) - Tool for reprojecting textures.
-- [User Manual](https://developer.playcanvas.com/user-manual/) - PlayCanvas user guide.
+- [PlayCanvas Engine](https://github.com/playcanvas/engine) - Open source JavaScript graphics application framework.
+- [PlayCanvas React](https://github.com/playcanvas/react) - Open source React wrapper for the PlayCanvas Engine.
+- [PlayCanvas Web Components](https://github.com/playcanvas/web-components) - Open source Web Components wrapper for the PlayCanvas Engine.
+- [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
+- [SuperSplat](https://superspl.at/) - Open source platform for editing and publishing 3D Gaussian Splats.
+- [Model Viewer](https://playcanvas.com/viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
+- [Texture Tool](https://github.com/playcanvas/texture-tool) - Open source tool for reprojecting textures.
+- [PCUI](https://github.com/playcanvas/pcui) - Open source front-end framework used by the PlayCanvas toolset.
 
 ## Community
 
-- [Forum](https://forum.playcanvas.com/)
-- [Twitter](https://twitter.com/playcanvas)
 - [Discord Server](https://discord.gg/RSaMRzg)
 - [Facebook](https://www.facebook.com/playcanvas/)
-- [HTML5GameDevs Forum](https://www.html5gamedevs.com/tags/playcanvas/)
-- [Openbase](https://openbase.com/js/playcanvas)
+- [Forum](https://forum.playcanvas.com/)
+- [LinkedIn](https://www.linkedin.com/company/playcanvas)
 - [Reddit](https://www.reddit.com/r/PlayCanvas/)
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/playcanvas)
+- [X](https://x.com/playcanvas)
+- [YouTube](https://www.youtube.com/@playcanvas)
+
+## Documentation
+
+- [API Reference](https://api.playcanvas.com/) - API reference manual for the engine run-time.
+- [User Manual](https://developer.playcanvas.com/user-manual/) - PlayCanvas user guide.
 
 ## Tutorials
 
@@ -88,6 +91,7 @@
 - [Realise](https://gaffen.itch.io/realise) - A video game to accompany the new EP from Hearse Pileup.
 - [Ride Along 2](https://vimeo.com/152996271) - Using WebGL to promote a Hollywood movie release.
 - [Rugby World Cup](https://www.youtube.com/watch?v=onOJBCC8R7A) - Promoting the Rugby World Cup in London's Piccadilly Circus.
+- [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
 - [Virtual Statues](https://playcanv.as/e/p/cLkf99ZV/) - A digital museum built with 3D Gaussian Splatting.
 - [Wild Rift](https://unlock.wildrift.leagueoflegends.com/) - Solve the puzzle to unlock a League of Legends: Wild Rift character.
 
