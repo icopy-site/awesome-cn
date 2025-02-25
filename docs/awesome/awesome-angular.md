@@ -413,6 +413,7 @@ become an Angular expert.
 * [Logto](https://logto.io/) - An open-source Auth0 alternative for modern apps and SaaS products, supporting OIDC, OAuth 2.0 and SAML open standards for authentication and authorization. This [quickstart](https://docs.logto.io/quick-starts/angular#prerequisites) can help you use Logto with Angular.
 * [MojoAuth](https://mojoauth.com/) - The Simplest Way to [integrate](https://docs.mojoauth.com/guides/angular) passkeys.
 * [SuperTokens](https://supertokens.com) - Configure your [Angular](https://supertokens.com/docs/quickstart/frontend-setup) application to use SuperTokens for authentication.
+* [Agilicus](https://www.agilicus.com/) - Single sign-on for any user—first party, third party, joint venture, contractor, or vendor. Enforce multi-factor authentication everywhere.  These are various [samples of integrations](https://github.com/Agilicus/samples) to the Agilicus Platform.
 
 #### Builders
 
@@ -1063,6 +1064,7 @@ become an Angular expert.
 * [ng-dompurify](https://github.com/taiga-family/ng-dompurify) - This library implements [DOMPurify](https://github.com/cure53/DOMPurify) as Angular Sanitizer or Pipe. It delegates sanitizing to DOMPurify and supports the same configuration.
 * [ngx-windows](https://github.com/mateuszbilicz/ngx-windows) - Angular Windows Components and Services.
 * [ngx-speculative-link](https://github.com/push-based/ngx-speculative-link) - An Angular implementation of [Speculative Rules API](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API) inspired by [quicklink](https://github.com/GoogleChromeLabs/quicklink) and ngx-quicklink.
+* [ngx-signal-pipes](https://github.com/wassim-k/ngx-signal-pipes) - Transform Angular signals with functional pipes.
 
 #### Drag and Drop
 
@@ -1244,6 +1246,7 @@ to simplify usage and allow quick customization.
 * [coolshapes](https://github.com/ngxpert/coolshapes) -  An Angular library aiming at allowing developers to use cool-looking abstract shapes with little grainy gradients from [coolshapes](https://coolshap.es/).
 * [lucide](https://github.com/lucide-icons/lucide) - An open-source icon library that provides 1000+ vector (svg) files for displaying icons and symbols in digital and non-digital projects. The library aims to make it easier for designers and developers to incorporate icons into their Angular projects by providing an official [package](https://lucide.dev/guide/packages/lucide-angular).
 * [iconic](https://github.com/nginf/iconic) - Angular library to provide components of open-source icon libraries.
+* [angular-phosphor-icons](https://github.com/aromero86/angular-phosphor-icons) - Set of components designed for utilizing [Phosphor Icons](https://phosphoricons.com/) in Angular via directives.
 
 #### Images
 
@@ -1660,6 +1663,7 @@ for Bootstrap 5 & Angular 17.
 * [design-angular-kit](https://github.com/italia/design-angular-kit) - A toolkit based on Bootstrap Italia
 for the creation of web applications developed with Angular.
 * [ngx-bootstrap-components](https://github.com/dotted-labs/ngx-bootstrap-components) - This library provides a set of Angular components integrated with Bootstrap, designed to be used with Angular's latest features like signals and the OnPush change detection strategy. The components are standalone, meaning they can be imported directly without the need for an encompassing Angular module.
+* [yoozsoft](https://www.yoozsoft.com/ys-ng/home) - Widgets built using Bootstrap 5, CSS, and NG Bootstrap 17 with APIs designed for the Angular ecosystem.
 
 ##### Tailwind CSS Based
 

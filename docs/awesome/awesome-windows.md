@@ -183,6 +183,7 @@
 * [Itch.io](https://itch.io/app/) - Platform for discovering and distributing indie games. [![Open-Source Software][oss]](https://github.com/itchio/itch)
 * [LuaStudio](https://scormpool.com/luastudio) - Free game development tool using Lua/LuaJIT with multi-platform export capabilities.
 * [Origin](https://www.origin.com/en-in/store/) - EA's digital game distribution platform.
+* [Playnite](https://playnite.link/) - Playnite is an open-source video game library manager that unifies game collections from various platforms. [![Open-Source Software][oss]](https://github.com/JosefNemec/Playnite/)
 * [Steam](https://store.steampowered.com/) - Leading digital game distribution platform with extensive library management.
 * [Unity](https://unity3d.com/) - Popular game engine with comprehensive learning resources.
 * [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) - Professional game engine with 5% revenue share model.
@@ -250,12 +251,14 @@
 
 ## Productivity
 
+
 * [Cold Turkey](https://getcoldturkey.com) - Website blocker with strict enforcement mechanisms.
 * [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Fast application instance switcher.
 * [f.lux](https://stereopsis.com/flux/) - Automatic screen color temperature adjustment.
 * [File Juggler](https://www.filejuggler.com/) - Automated file organization with smart actions and PDF parsing.
 * [Inkdrop](https://www.inkdrop.info/) - Markdown-focused note-taking application.
 * [Jan](https://jan.ai) - Offline private AI assistant with CPU/GPU support. [![Open-Source Software][oss]](https://github.com/janhq/jan)
+* [Joplin](https://joplinapp.org/) - Joplin is an open-source note-taking and task management application that allows users to organize their notes, to-do lists, and even sync them across devices. Key Features of Joplin Markdown Support – Allows notes to be formatted using Markdown, making them highly customizable and easy to organize. Cross-Device Syncing – Syncs notes across multiple devices, including desktop, mobile, and cloud storage services. End-to-End Encryption – Ensures your notes are securely encrypted, protecting sensitive information from unauthorized access.  
 * [KatMouse](https://www.ehiti.de/katmouse/) - Universal scrolling utility for Windows.
 * [Keywiz](https://mularahul.github.io/keyviz/) - Real-time keystroke visualization tool. [![Open-Source Software][oss]](https://github.com/mulaRahul/keyviz)
 * [MultiCommander](https://multicommander.com/) - Professional file manager.
@@ -296,8 +299,10 @@
 
 ## Screenshot
 
+
 * [Capter](https://github.com/decipher3114/Capter) - A simple screenshot tool made in rust. ![oss]
 * [Flameshot](https://flameshot.org/) - Customizable screenshot tool with an easy-to-use interface and built-in editor. [![Open-Source Software][oss]](https://github.com/flameshot-org/flameshot)
+* [Greenshot](https://getgreenshot.org/) - Greenshot is a light-weight screenshot software tool for Windows. [![Open-Source Software][oss]](https://github.com/greenshot/greenshot)
 * [Lightshot](https://app.prntscr.com/en/index.html) - A fast and intuitive screenshot tool that allows capturing and editing images instantly.
 * [ShareX](https://getsharex.com/) - Powerful, open-source screenshot and screen recording tool with advanced editing options. [![Open-Source Software][oss]](https://github.com/ShareX/ShareX)
 
@@ -320,8 +325,10 @@
 
 ## System Utilities
 
+
 * [Advanced Renamer](https://www.advancedrenamer.com/) - Batch file renamer with support for metadata and regex.
 * [balenaEtcher](https://etcher.balena.io/) - Flash OS images to SD cards & USB drives safely and easily. [![Open-Source Software][oss]](https://github.com/balena-io/etcher)
+* [BleachBit](https://www.bleachbit.org/) - BleachBit is a free and open-source system cleaner designed to free up disk space. [![Open-Source Software][oss]](https://github.com/bleachbit/bleachbit)
 * [CleanMyPC](https://macpaw.com/cleanmypc) - System cleanup and optimization utility. ![paid]
 * [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html) - CPU monitoring and information tool.
 * [Fan Control](https://getfancontrol.com/) - Highly focused fan controlling software. [![Open-Source Software][oss]](https://github.com/Rem0o/FanControl.Releases) ![star]

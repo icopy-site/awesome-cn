@@ -35,6 +35,8 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Supastarter](https://supastarter.dev) - Supabase starter with Next.js, authentication, mail templates, landing page, dashboard and blog.
 - [RedwoodJS Supabase Quickstart](https://github.com/redwoodjs/redwoodjs-supabase-quickstart) - Supabase Quickstart example app with RedwoodJS.
 - [Basejump](https://usebasejump.com) - Open source Next.js starter with teams, personal accounts, invitations, Tailwind, i18n. Fully tested schema.
+- [Supanext](https://www.supanext.com/) - Supabase starter with Next.js, including AI app examples, auth, billing, settings, landing page, blog, and more.
+- [SupaSasS Lite](https://github.com/Razikus/supabase-nextjs-template) - Open source Next.js SasS template (with 2FA, and example app)
 
 ## Data Migration Tools
 
@@ -56,6 +58,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Supabase Cache Helpers](https://github.com/psteinroe/supabase-cache-helpers) - Collection of framework specific Cache utilities for working with Supabase.
 - [Postgres WASM by Snaplet and Supabase](https://supabase.com/blog/postgres-wasm) - Tool to run Postgres in the browser.
 - [Bemi for Supabase JS](https://github.com/BemiHQ/bemi-supabase-js) - Open-source platform for automatic data change tracking.
+- [Supabase automated self host](https://github.com/singh-inder/supabase-automated-self-host) - Self-host Supabase with Caddy and Authelia. Just run ONE script.
 
 ## Online Courses
 
@@ -79,6 +82,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [How to Manage Your Supabase Database with Directus](https://directus.io/guides/directus-plus-supabase/) - Directus Studio provides a means to browse, manage, and visualize database content through a no-code app and this guide shows how to setup Supabase with Directus.
 - [Supabase admin panel tutorial with Retool](https://retool.com/blog/supabase-tutorial-admin-panel/) - Retool helps teams to build internal tools quickly. Learn how to setup an admin panel using Retool and Supabase.
 - [Set up a monorepo with Supabase and Turborepo](https://philipp.steinroetter.com/posts/supabase-turborepo) - Talks about how a codebase is migrated to a turborepo-powered pnpm monorepo that ships 3 NextJS apps, a Preact widget, a React Native app and two Fastify servers out of a single repository, all speaking to the same Supabase instance.
+- [How to Implement RBAC (Role-Based Access Control) in Supabase](https://www.permit.io/blog/how-to-implement-rbac-in-supabase) - Learn how to implement Role-Based Access Control (RBAC) authorization into a Supabase application with Permit.io.
 
 ## Other interesting articles
 
@@ -86,3 +90,4 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [How Fleeting Notes Migrated 1000+ Users from Firebase to Supabase (Stripe, Firebase, Supabase)](https://fleetingnotes.app/posts/migrating-from-firebase-to-supabase/) - Walks through the process of how Fleeting Notes (a note-taking application) migrated from Firebase to Supabase in terms of Stripe integration and its databases.
 - [Ultimate guide to testing on Supabase using pgTAP](https://usebasejump.com/blog/testing-on-supabase-with-pgtap) - How to test RLS policies and requests to Supabase.
 - [Migrating from Firebase to Supabase: Lessons Learned](https://emergence-engineering.com/blog/firestore-supabase-migration) - A detailed walkthrough of the migration workflow in terms of the various aspects of the BaaS, and their differences in terms of realtime subscriptions and data types.
+- [Supabase vs Firebase: Choosing the Right Backend for Your Project](https://www.jakeprins.com/blog/supabase-vs-firebase-2024) - A detailed comparison between Supabase and Firebase. Discover the key differences between the two platforms and the advantages of choosing Supabase over Firebase.

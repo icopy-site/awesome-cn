@@ -22,7 +22,7 @@ Here are some awesome tools for dealing with CSV:
 - [PapaParse](https://www.papaparse.com) - A powerful in-browser CSV parser.
 - [d3-dsv](https://github.com/d3/d3-dsv) - d3.js parser and formatter module for delimiter-separated values.
 - [CSVKit](https://csvkit.readthedocs.io/) - CSV utilities that includes csvsql / csvgrep / csvstat and more.
-- [XSV](https://github.com/BurntSushi/xsv) - A fast CSV command-line toolkit written in Rust.
+- [QSV](https://github.com/dathere/qsv) - A fast CSV command-line toolkit written in Rust, (an update to xsv).
 - [sed (gnu tool)](https://www.gnu.org/software/sed/manual/sed.html) - Stream editor.
 - [gawk (gnu tool)](https://www.gnu.org/software/gawk/manual/gawk.html) - Text processing and data extraction using [awk](http://pubs.opengroup.org/onlinepubs/009695399/utilities/awk.html).
 - [awk by example](https://github.com/learnbyexample/Command-line-text-processing/blob/master/gnu_awk.md#default-field-separation) - Comprehensive examples of using awk.
@@ -38,12 +38,12 @@ Here are some awesome tools for dealing with CSV:
 - [CSV to SQL](http://www.convertcsv.com/csv-to-sql.htm) - Online tool to create insert/update/delete etc from CSV data.
 - [C#: kbCSV](https://github.com/kentcb/KBCsv/blob/master/README.md) - An efficient, easy to use .NET parsing and writing library for CSV.
 - [csvprintf](https://github.com/archiecobbs/csvprintf) - UNIX command line utility for parsing and formatting output based on CSV files.
-- [Mockaroo](https://www.mockaroo.com/) - Random data generator for CSV / JSON / SQL / Excel.
 - [Ron's Data Edit](https://www.ronsplace.eu/Products/RonsDataEdit) (new modern version of [Ron's CSV Editor](https://www.ronsplace.eu/products/ronseditor)) - Handles big files, does miraculous things. A timeless editor for a timeless format.
 - [Rainbow CSV plugins](https://github.com/mechatroner/rainbow_csv#rainbow-csv-in-other-editors) - Collection of text editor plugins for CSV/TSV syntax highlighting. Available for [Vim](https://github.com/mechatroner/rainbow_csv), [VS Code](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv), [Atom](https://atom.io/packages/rainbow-csv), [Sublime Text](https://packagecontrol.io/packages/rainbow_csv) and other editors.
 - [ExtendsClass](https://extendsclass.com/csv-diff.html) - A simple CSV comparator.
 - [Mighty Merge](https://mightymerge.io/) - join/union csv files.
 - [Modern CSV](https://www.moderncsv.com/) - A tool for editing CSV files and viewing large files.
+- [Data Wrangler](https://github.com/microsoft/vscode-data-wrangler) - Data Wrangler is a code-centric data cleaning tool that is integrated into VS Code and VS Code Jupyter Notebooks.
 
 ### Repair or Validate CSV
 
@@ -91,6 +91,13 @@ Here are some awesome tools for dealing with CSV:
 - [Falsehoods Programmers Believe About CSVs](https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs) - Jesse Donat.
 - [ASCII Delimited Text - Not CSV or TAB delimited text](https://ronaldduncan.wordpress.com/2009/10/31/text-file-formats-ascii-delimited-text-not-csv-or-tab-delimited-text/) - Ronald Duncan.
 
+## Generate Data
+
+- [Fake Name Generator](https://www.fakenamegenerator.com/order.php) - Generate fake names with other identity data in bulk for testing.
+- [Mockium](https://softwium.com/mockium/) - Test data generator for CSV / JSON / SQL / XML.
+- [Mockaroo](https://www.mockaroo.com/) - Random data generator for CSV / JSON / SQL / Excel.
+
+
 ## Data
 
 - [US Data.gov](https://catalog.data.gov/dataset?res_format=CSV) - 18789+ CSV datasets.
@@ -98,7 +105,6 @@ Here are some awesome tools for dealing with CSV:
 - [Reference data in csv](https://datahub.io/collections/reference-data) - Easy-to-use reference data in CSV and JSON formats.
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of high-quality open datasets in public domains.
 - [United Nations data](https://data.un.org) - Data from the UN
-- [Fake Name Generator](https://www.fakenamegenerator.com/order.php) - Generate fake names with other identity data in bulk for testing.
 
 ## Conferences
 
@@ -116,7 +122,7 @@ Here are some awesome tools for dealing with CSV:
 - [CSV Schema Language](http://digital-preservation.github.io/csv-schema/csv-schema-1.2.html) - A language for defining and validating CSV data.
 - [csv,specs](https://github.com/csvspecs) - Comma-Separated Values (CSV) Format Specifications (and Tests) incl. CSV v1.0, CSV v1.1, CSV Strict, CSV <3 Numerics, CSV<3 JSON, CSV <3 YAML.
 - [Tabular Data Resource](http://frictionlessdata.io/specs/tabular-data-resource/) - A [Data Resource](http://frictionlessdata.io/specs/data-resource/) specialized for describing tabular data like CSV files or spreadsheets
-- [CSVY](https://csvy.org/) - A standard for adding a YAML header to CSV files to describe their format
+- [CSVY](https://github.com/csvy/csvy.github.io/blob/master/index.md) - A standard for adding a YAML header to CSV files to describe their format
 
 ## META: Other similar lists
 
@@ -139,7 +145,7 @@ To experience the fun of contributing, see [Contributing](https://github.com/sec
 
 `*` <span id='footnote1' ></span> I'm the author of [NimbleText](https://NimbleText.com/Live). Of course I put it first on the list. If I didn't personally rate it I wouldn't have spent so much time making and improving it.
 
-`**` <span id='footnote2' ></span> I wrote `agnes` but don't really endorse it for others to use (thus haven't migrated the source code to GitHub). It's slow and non-streaming. I'd go with `papa-parse`. On the plus side, `agnes` has a more comprehensive test suite and simpler api than most.
+`**` <span id='footnote2' ></span> I wrote `agnes` but don't particularly endorse it for others to use (thus haven't migrated the source code to GitHub). It's slow and non-streaming. I'd go with `papa-parse`. On the plus side, `agnes` has a more comprehensive test suite and simpler api than most.
 
 `***` <span id='footnote3' ></span> Mine too.
 

@@ -102,6 +102,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [C#](https://github.com/PRCV1/pocketbase-csharp-sdk) - PocketBase Client in C#. ![GitHub Repo stars](https://img.shields.io/github/stars/PRCV1/pocketbase-csharp-sdk)
 - [Rust](https://github.com/sreedevk/pocketbase-sdk-rust) - PocketBase Client in Rust. ![GitHub Repo stars](https://img.shields.io/github/stars/sreedevk/pocketbase-sdk-rust)
 - [PHP](https://github.com/mkay-development/pocketbase-php-sdk) - PocketBase Client in PHP. ![GitHub Repo stars](https://img.shields.io/github/stars/mkay-development/pocketbase-php-sdk)
+- [Unity (Multiplatform)](https://github.com/Sov3rain/pocketbase-unity) - PocketBase client for Unity 3D game engine. ![GitHub Repo stars](https://img.shields.io/github/stars/Sov3rain/pocketbase-unity)
 
 ## Self Hosting
 

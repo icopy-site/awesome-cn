@@ -242,6 +242,7 @@ ______________________________________________________________________
 
 - [Academic Torrents](http://academictorrents.com/) - Sharing enormous datasets.
 - [Awesome ACG](https://github.com/soruly/awesome-acg) - Technologies related to anime, comic and games.
+- [Awesome Esports](https://github.com/strift/awesome-esports) - Competitiosn using video games.
 - [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) - Collection of open-source games.
 - [AWS Datasets](https://aws.amazon.com/datasets/) - Amazon public datasets.
 - [data.world](https://data.world) - Datasets.
