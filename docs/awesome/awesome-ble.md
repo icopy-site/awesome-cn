@@ -45,6 +45,7 @@ _Software libraries and frameworks for integrating Bluetooth Low Energy (BLE) fu
 - [bumble](https://github.com/google/bumble) - Bumble is a full-featured Bluetooth stack written entirely in Python.
 - [pygatt](https://github.com/peplin/pygatt) - A Python library for interacting with BLE devices.
 - [SimpleBLE](https://github.com/OpenBluetoothToolbox/SimpleBLE) - The all-in-one C/C++/Python/Rust Bluetooth LE library for MacOS, iOS, Windows, and Linux.
+- [Moddable](https://github.com/Moddable-OpenSource/moddable) - JavaScript libraries and tools for microcontrollers development. Includes BLE functionality.
 
 ## iOS
 
