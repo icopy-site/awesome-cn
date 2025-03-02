@@ -22,6 +22,7 @@
 * [Nix Notes](https://github.com/noteed/nix-notes) - A collection of short notes about Nix, each contributing to the same virtual machine image.
 * [Nix Pills](https://nixos.org/guides/nix-pills/) - The best way to learn, with examples.
 * [Nix Shorts](https://github.com/alper/nix-shorts) - A collection of short notes about how to use Nix, updated for Nix Flakes.
+* [Nix Starter Config](https://github.com/Misterio77/nix-starter-configs) - A few simple Nix Flake templates for getting started with NixOS + home-manager.
 * [nix.dev](https://nix.dev/) - An opinionated guide for developers about getting things done using the Nix ecosystem.
 * [NixOS & Flakes Book](https://github.com/ryan4yin/nixos-and-flakes-book) - An unofficial and opinionated NixOS & Flakes book for beginners.
 * [NixOS Asia Tutorial Series](https://nixos.asia/en/tutorial) - A series of high-level tutorials on using Nix Flakes, NixOS, home-manager, etc.
@@ -33,6 +34,7 @@
 
 <!-- * [Hound](https://search.nix.gsc.io) - Handily search across all or selected Nix-related repositories. -->
 * [Nix Package Versions](https://lazamar.co.uk/nix-versions/) - Find all versions of a package that were available in a channel and the revision you can download it from.
+* [nix-search-tv](https://github.com/3timeslazy/nix-search-tv) - CLI fuzzy finder for packages and options from Nixpkgs, Home Manager, and more.
 * [Noogle](https://noogle.dev/) - Nix API search engine allowing to search functions based on their types and other attributes.
 * [Home Manager Option Search](https://mipmip.github.io/home-manager-option-search/) - Search through all 2000+ Home Manager options and read how to use them.
 * [NüschtOS Search](https://github.com/NuschtOS/search) - Simple and fast static-page NixOS option search.
@@ -97,7 +99,7 @@
 * [nix-prefetch](https://github.com/msteen/nix-prefetch) - A universal tool for updating source checksums.
 * [nix-tree](https://github.com/utdemir/nix-tree) - Interactively browse the dependency graph of Nix derivations.
 * [nurl](https://github.com/nix-community/nurl) - Generate Nix fetcher calls from repository URLs.
-* [nvd](https://gitlab.com/khumba/nvd) - Diff package versions between two store paths; it's especially useful for comparing NixOS generations on rebuild.
+* [nvd](https://git.sr.ht/~khumba/nvd) - Diff package versions between two store paths; it's especially useful for comparing NixOS generations on rebuild.
 * [statix](https://github.com/nerdypepper/statix) - A linter/fixer to check for and fix antipatterns in Nix code.
 
 ## Development

@@ -334,6 +334,7 @@ become an Angular expert.
 * [PrimeNG](https://primeng.org/guides/accessibility) - PrimeNG accessibility guide.
 * [astral-accessibility](https://github.com/verto-health/astral-accessibility) - An open-source accessibility widget written in Angular.
 * [a11y-accessibility-first](https://github.com/gagdmac/a11y-accessibility-first) - An Angular template compliant with WCAG 2.2, incorporating an accessibility component to enhance overall accessibility in your project.
+* [ngx-accessible-ui](https://github.com/ShakeelKadri/ngx-accessible-ui) - Accessible Navigation & Menu Directives for Angular 9+. Directives comply with WCAG 2.1 Level AA and the European Accessibility Act 2025, ensuring a highly inclusive web experience.
 
 #### AI
 
@@ -360,6 +361,7 @@ become an Angular expert.
 * [Frontend AI](https://www.webcrumbs.org/frontend-ai) - Ask for a component or upload an image, and instantly receive ready-to-use code without lifting a finger.
 * [Gurubase](https://gurubase.io/g/angular) - Angular Guru leverages up-to-date information from the Angular documentation, Stack Overflow, and articles across the internet to answer your questions.
 * [Design Shift](https://designshift.dev/) - Generate Angular components you want from [Uizard](https://uizard.io/)  layouts.
+* [UI2CODE](https://ui2code.ai/) - UI to Code Converter in seconds with AI.
 
 #### Analytics
 
@@ -1216,6 +1218,7 @@ become an Angular expert.
 * [jsonforms](https://github.com/eclipsesource/jsonforms) - Customizable JSON Schema-based forms with React, Angular and Vue support out of the box.
 * [jsonforms-angular-seed](https://github.com/eclipsesource/jsonforms-angular-seed) - Angular-based JSON Forms seed app.
 * [ng-formworks](https://github.com/zahmo/ng-formworks) - An Angular [JSON Schema](https://json-schema.org/) Form builder, similar to, and mostly API compatible with, [Angular Schema Form](http://schemaform.io/examples/bootstrap-example.html), [React JSON Schema Form](https://rjsf-team.github.io/react-jsonschema-form/), and [JSON Form](https://ulion.github.io/jsonform/playground/).
+* [schema-forms](https://github.com/Jaspero/schema-forms) - A library for building forms through standard JSON schemas.
 
 ##### Validation
 
