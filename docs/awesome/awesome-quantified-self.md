@@ -176,6 +176,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Lunch Money](https://lunchmoney.app/) - Web app to import transactions, categorize, and budget.
 - [Firefly III](https://github.com/firefly-iii/firefly-iii) - A free and open source personal finance manager
 - [Menot](https://www.menot.xyz) - Simple expense and finance tracker for multiple currencies, including crypto.
+- [Just Simple Finance](https://www.justsimple.finance) - An easy-to-use personal finance app (iOS and Android).
 
 ## Devices and Wearables
 
@@ -213,7 +214,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [TimelineBuilder](https://github.com/facebookresearch/personal-timeline) - A data aggregation and and timeline visualization tool by Facebook.
 - [Me API](https://github.com/danfang/me-api) - An extensible, personal API with custom integrations.
 - [Memacs](https://github.com/novoid/Memacs) - Visualize your life in Orgmode.
-- [HumanProgrammingInrerface](https://github.com/karlicoss/HPI) - Unify, acces and interact with all of your personal data.
+- [HumanProgrammingInterface](https://github.com/karlicoss/HPI) - Unify, acces and interact with all of your personal data.
 - [Dogsheep](https://dogsheep.github.io/) - A collection of data exporters and tools for personal analytics using SQLite and/or Datasette.
 - [Chronicle](https://github.com/chronicle-app/chronicle-etl) - A CLI toolkit for extracting and working with your digital history.
 - [QS-Schema](https://github.com/QS-Schema/qs-schema) - Open schemes for QS applications.

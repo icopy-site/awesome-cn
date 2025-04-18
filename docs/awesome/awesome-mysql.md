@@ -82,6 +82,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [PyMySQL](https://github.com/PyMySQL/PyMySQL) - MySQL database connector for Python.
 - [Ruby Mysql2 gem](https://github.com/brianmario/mysql2) - MySQL driver for Ruby and Rails projects.
 - [MyZql](https://github.com/speed2exe/myzql) - MySQL and MariaDB driver in native Zig.
+- [wtx](https://github.com/c410-f3r/wtx) - Client for MySQL/MariaDB/Percona written in Rust
 
 ## Deployment
 
@@ -161,6 +162,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 *Tools that prevents leaking of sensitive data from database (encryption, masking and tokenization, honey-pots, etc)*
 
 - [Acra](https://github.com/cossacklabs/acra) - SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system.
+- [myldapsync](https://github.com/6eh01der/myldapsync) - Synchronize MySQL or MariaDB users with users in an LDAP directory.
 
 ## Server
 

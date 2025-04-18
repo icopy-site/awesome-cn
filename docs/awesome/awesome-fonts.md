@@ -14,7 +14,6 @@ A curated list of fonts and typography resources.
 ## Free fonts
 
 #### Collections
-* [Crella](https://crella.net/free-fonts/) - Fonts offered for free for commercial use.
 * [Fontshare](https://www.fontshare.com/) - A free fonts service launched by the Indian Type Foundry (ITF)
 * [Font Squirrel](https://www.fontsquirrel.com/) - A curated collection of free fonts from a variety of foundries
 * [Gidole](http://gidole.github.io/) - Open source, modern DIN
@@ -148,6 +147,7 @@ moji font: ᵺ ༐ 💰     ༐ ⑀     🅰️ И     € ❎ ㏂ 𝔭 ᇉ     
 * [Fixedsys Excelsior](https://github.com/kika/fixedsys)
 * [Hasklig](https://github.com/i-tu/Hasklig)
 * [Iosevka](https://github.com/be5invis/Iosevka) - Spatially efficient monospace font family for programming. Built from code.
+* [JetBrains Maple Mono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - The free and open-source font fused with JetBrains Mono & Maple Mono
 * [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
 * [Lilex](https://github.com/mishamyrt/Lilex) - Modern programming font containing a set of ligatures for common programming multi-character combinations
 * [Monoid](https://github.com/larsenwork/monoid)

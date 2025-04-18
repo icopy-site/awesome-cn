@@ -82,6 +82,8 @@ The interdisciplinary of Mathematics and Computer Science; It is distinguished b
 - [Pudlák. Logical Foundations of Mathematics and Computational Complexity: A Gentle Introduction](https://www.springer.com/gp/book/9783319001180) - Presents a wide range of results in logic and computational complexity.
 ## Programming Language Theory<a name=programming_language_theory></a>
 ## Basics<a name=programming_language_theory_basics></a>
+### Lecture Notes<a name=programming_language_theory_basics_lecture_notes></a>
+- [Cambridge Foundations of CS](https://www.cl.cam.ac.uk/teaching/2425/FoundsCS/materials.html) - It teaches programming and presents some fundamental principles of computer science, especially algorithm design.
 ### Books<a name=programming_language_theory_basics_books></a>
 - Structure and Interpretation of Computer Programs - [MIT OCW](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/pages/syllabus/), [HTML book](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html), [Byford's playlist](https://www.youtube.com/playlist?list=PL7BcsI5ueSNFPCEisbaoQ0kXIDX9rR5FF), [Javascript book](https://github.com/source-academy/sicp?tab=readme-ov-file), [Python book](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html), [Berkeley for self-study](https://romanbird.github.io/sicp/#e682e189-1f90-4713-9dfe-35c92b7d1cdf), and [Berkeley 2024](https://cs61a.org/) - Fundamental principles of computer programming in Scheme, including recursion, abstraction, modularity, and programming language design and implementation.
 ## Introductory<a name=programming_language_theory_introductory></a>

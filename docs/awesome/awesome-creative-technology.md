@@ -94,6 +94,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Geeksart**](http:&#x2F;&#x2F;geeks-art.com&#x2F;) | [Guangzhou] [Shanghai] | media sculptures, new media exhibition | [🌐](http:&#x2F;&#x2F;geeks-art.com&#x2F;join-us&#x2F;)
 | [**Giant Spoon**](https:&#x2F;&#x2F;giantspoon.com&#x2F;) | [NYC] [LA] | translate cultural trends into big ideas, experiential, gaming | [🌐](https:&#x2F;&#x2F;giantspoon.com&#x2F;#careers)
 | [**Groove Jones**](https:&#x2F;&#x2F;groovejones.com&#x2F;) | [Dallas] | XR, AR, VR, volumetric scanning, popups | [🌐](https:&#x2F;&#x2F;groovejones.com&#x2F;workwithus&#x2F;)
+| [**Hirsch &amp; Mann**](https:&#x2F;&#x2F;www.hirschandmann.com&#x2F;) | [London] | digital and physical experiences for premium brands worldwide, experiential retail marketing, installation design | [🌐](https:&#x2F;&#x2F;www.hirschandmann.com&#x2F;jobs&#x2F;)
 | [**Hotel Creative**](https:&#x2F;&#x2F;hotelcreative.com&#x2F;) | [London] | retail, branding, exhibitions, events | [📧](https://github.com/j0hnm4r5/awesome-creative-technology/blob/master/mailto:jobs@hotelcreative.com)
 | [**Hovercraft**](https:&#x2F;&#x2F;www.hovercraftstudio.com&#x2F;) | [Denver] [Portland] | interactive installations, site-specific content, retail, sports | [🌐](https:&#x2F;&#x2F;hovercraftstudio.com&#x2F;careers?job&#x3D;freelance-creative-partners)
 | [**HUSH**](https:&#x2F;&#x2F;heyhush.com&#x2F;) | [NYC] | marketing and advertising, retail and DTC, architecture | [🌐](https:&#x2F;&#x2F;www.heyhush.com&#x2F;people)
@@ -142,6 +143,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**pretty bloody simple**](https:&#x2F;&#x2F;www.prettybloodysimple.com) | [Munich] | interactive experiences, analog and digital, musuems | 
 | [**RadicalMedia**](https:&#x2F;&#x2F;www.radicalmedia.com&#x2F;) | [NYC] [LA] | commercials, documentaries, music videos, branded experiences, &amp; immersive environments | [📧](https://github.com/j0hnm4r5/awesome-creative-technology/blob/master/mailto:careers@radicalmedia.com)
 | [**Rare Volume**](https:&#x2F;&#x2F;rarevolume.com&#x2F;) | [NYC] | design and technology studio, interactive video walls | [🌐](https:&#x2F;&#x2F;rarevolume.com&#x2F;about&#x2F;)
+| [**Recursive**](https:&#x2F;&#x2F;recursive.digital&#x2F;) | [Eastbourne, UK] | AV, Lighting, Content and Software to transform spaces for brands, venues, and people | 
 | [**Red Paper Heart**](https:&#x2F;&#x2F;redpaperheart.com) | [NYC] | art from real world interaction | [📧](https://github.com/j0hnm4r5/awesome-creative-technology/blob/master/mailto:jobs@redpaperheart.com)
 | [**Relative Scale**](https:&#x2F;&#x2F;relativescale.com&#x2F;) | [Raleigh] | bespoke digital products and experiences for brands and institutions | 
 | [**RGI Creative**](https:&#x2F;&#x2F;www.rgicreative.com&#x2F;) | [Cleveland] | corporate experience design, museums exhibits and displays | [🌐](https:&#x2F;&#x2F;www.rgicreative.com&#x2F;contactform)
@@ -192,6 +194,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**y&#x3D;f(x)**](https:&#x2F;&#x2F;www.yfxlab.com&#x2F;) | [Amsterdam] | creative technology studio focused on the creation of overarching multimedia experiences, with specially crafted software and design | 
 | [**Yellow Studio**](https:&#x2F;&#x2F;yellowstudio.com&#x2F;) | [NYC] | artistically-minded design, tv&#x2F;concert&#x2F;event production design, set design | 
 | [**Zebradog**](https:&#x2F;&#x2F;www.zebradog.com&#x2F;) | [Madison] | communication design and the built environment, higher education | 
+| [**Zebrar**](https:&#x2F;&#x2F;www.zebrar.com&#x2F;) | [Sydney] | immersive technology &amp; interactive design, AR, VR, digital activations | 
 
 
 ## Collectives &amp; Practices
@@ -204,6 +207,7 @@ Established artist collectives&#x2F;practices that work with creative technology
 | [**Brooklyn Research**](https:&#x2F;&#x2F;brooklynresearch.com&#x2F;) | [NYC] | we build interactive systems for a range of clients including museums, artists, and leading technology firms | 
 | [**Dave + Gabe**](https:&#x2F;&#x2F;www.daveandgabe.care&#x2F;) | [NYC] | interactive installation studio, real-time animation, generative 3D sound | 
 | [**Hypersonic**](https:&#x2F;&#x2F;www.hypersonic.cc&#x2F;) | [NYC] | groundbreaking new media sculptures and physical installations | 
+| [**Jen Lewin Studio**](https:&#x2F;&#x2F;www.jenlewinstudio.com&#x2F;) | [NYC] | interactive light landscapes | 
 | [**Kimchi and Chips**](https:&#x2F;&#x2F;www.kimchiandchips.com&#x2F;) | [South Korea] | intersection of art, science and philosophy through ambitious large-scale installations | 
 | [**NightLight Labs**](https:&#x2F;&#x2F;nightlight.io&#x2F;) | [LA] | installations, activations, narrative experiences | 
 | [**NONOTAK Studio**](https:&#x2F;&#x2F;www.nonotak.com&#x2F;) | [Paris] | light and sound installations, ethereal, immersive, dreamlike | 
@@ -308,9 +312,11 @@ Groups that generally focus on designing museums and similar experiences using c
 | [**Local Projects**](https:&#x2F;&#x2F;localprojects.com&#x2F;) | [NYC] | experience Designers pushing the boundaries of human interaction | 
 | [**Monadnock Media**](https:&#x2F;&#x2F;monadnock.org&#x2F;) | [Massachusetts] | multimedia experiences for museums, historic sites and public places | 
 | [**Northern Light Productions**](https:&#x2F;&#x2F;nlprod.com&#x2F;) | [Boston] | immersive media environments, interactive experiences, or documentary films. | 
+| [**Riggs Ward Design**](https:&#x2F;&#x2F;riggsward.com&#x2F;) | [Richmond, Virginia] | exhibition and interactive design, strategic master planning, research, content analysis, and storyline development for museums, visitor centers, and cultural institutions | 
 | [**RLMG**](https:&#x2F;&#x2F;www.rlmg.com&#x2F;) | [Boston] | story-driven, interactive, dynamic, immersive, and educational installations for public spaces. | 
 | [**Roto**](https:&#x2F;&#x2F;roto.com&#x2F;) | [Columbus, OH] | experience design, immersive media, interactive engineering, and custom fabrication for museums, brands, attractions and architectural placemaking. | 
 | [**Thinc**](https:&#x2F;&#x2F;www.thincdesign.com&#x2F;) | [NYC] | provoke meaningful conversations about the world in which we live | 
+| [**TKNL**](https:&#x2F;&#x2F;www.tknl.com&#x2F;en&#x2F;experiences) | [Montreal] | immersive shows, projection, visitor experience design | 
 
 
 ## Festivals &amp; Conferences

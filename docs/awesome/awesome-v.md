@@ -115,6 +115,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [Mantis](https://github.com/khalyomede/mantis) - A web framework written in V.
 - [Tiniest Veb Server](https://github.com/davlgd/tVeb) - A < 1MB static hosting web server written in V, based on `veb`. 🍃
 - [v-admin-skeleton](https://github.com/xiusin/v-system-skeleton) - Backend skeleton written in V.
+- [v-vite starter](https://github.com/v-vite/starter) - A starter kit for Veb applications, preconfigured with Vite.js.
 - [vblog](https://github.com/scurty-labs/vblog) - A simple, fast and responsive blogging system.
 - [Vebview.JS](https://github.com/malisipi/Vebview.JS) - Electron/Neutralino.JS alternative written in V.
 - [Vieter](https://github.com/ChewingBever/vieter) - Archlinux repository server & package build system, written in V.
@@ -149,13 +150,14 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Database clients
 
+- [firebird](https://github.com/einar-hjortdal/firebird) - Client for Firebird SQL.
 - [mongodb](https://github.com/vlang/mongo) - MongoDB driver for V.
 - [redict](https://github.com/einar-hjortdal/redict) - Client for Redict, a LGPL-3.0-only fork of Redis (compatible with Redis <=7.2.4).
 - [redis](https://github.com/patrickpissurno/vredis) - Redis client for V, written in V.
+- [vduckdb](https://github.com/rodabt/vduckdb) - A DuckDB client wrapper for V.
 - [vmemcached](https://github.com/blacktrub/vmemcached) - Memcached client for V, written in V.
 - [vredis](https://github.com/xiusin/vredis) - A simple, user-friendly, and comprehensive Redis client.
 - [vsql](https://github.com/lydiandy/vsql) - A sql query builder for V.
-- [vduckdb](https://github.com/rodabt/vduckdb) - A DuckDB client wrapper for V.
 
 ### Discord
 
@@ -209,6 +211,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Networking
 
+- [netaddr](https://github.com/gechandesu/netaddr) - IPv4, IPv6 and MAC (EUI-48, EUI-64) addresses manipulation library.
 - [vibe](https://github.com/tobealive/vibe) - Request library that wraps libcurl to enable fast and reliable requests while providing a higher-level API.
 - [vmq](https://github.com/jordan-bonecutter/vmq) -  V wrapper For [ZMQ](https://zeromq.org/) (aka ZeroMQ, ØMQ, 0MQ: a high-performance asynchronous messaging library).
 
@@ -291,11 +294,12 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 - [validate](https://github.com/endeveit/v-validate) - A simple library to validate strings in V.
 - [valval](https://github.com/taojy123/valval) - Web framework written in V, improved by vweb.
 - [vcurrency](https://github.com/mehtaarn000/vcurrency) - API wrapper (written in V) for [https://api.exchangeratesapi.io](https://api.exchangeratesapi.io).
+- [veb](https://github.com/vlang/v/tree/master/vlib/veb) - V's built-in web framework.
 - [vest](https://github.com/alexferl/vest) - A REST client in V.
 - [vex](https://github.com/nedpals/vex) - Web framework written on V inspired by Express and Sinatra.
 - [vigest](https://github.com/withs/vigest) - Simple client for digest authentication (written in V).
 - [vistas](https://github.com/einar-hjortdal/vistas) - Central file server API.
-- [vweb](https://github.com/vlang/v/tree/master/vlib/vweb) - V's built-in web framework. Used by Vorum.
+- [vite.v](https://github.com/siguici/vite.v) - Seamless [Vite.js](https://vite.dev) integration for Veb applications.
 - [vxbloauth](https://github.com/WolvesFortress/vxbl-oauth) - A minimalistic Xbox Live authenticator for vweb.
 - [west](https://github.com/Dracks/West) - A wrapper of vweb to work in a similar way as nestjs works with modules and dependency injection.
 

@@ -33,11 +33,12 @@
 
 ### Archives
 
-- [MCArchive](https://mcarchive.net/) - Archives old, lost and forgotten Minecraft mods. Various other mods and stuff can be found on their Discord.
+- [MCModArchive](https://mcmodarchive.femtopedia.de/) - Archives old, lost and forgotten Minecraft mods and related software. Various other mods and stuff can be found on the [MCArchive Discord](https://discord.gg/WuexGpP).
 - [Minecraft Archive Project](http://map.crummy.com/) - Huge archive containing Minecraft mods, worlds, resource packs and many other resources (even forum posts!).
-- [MCVersions](https://mcversions.net/) - Archives most Minecraft jars.
-- [MCPC+ Archive](https://iruril.tistory.com/category/%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8%28Minecraft%29/Server) - Archive with some MCPC+ versions.
+- [Eimer Archive](https://eimerarchive.org/) - Archive with a focus on server software and plugins.
 - [CraftBukkit Archive](https://drive.google.com/drive/u/0/folders/0B3_qSeCQW2vKSy13TVdKWWhNQ3M) - Archives many CraftBukkit versions.
+- [OmniArchive](https://omniarchive.uk/) - Archives most Minecraft jars.
+- [MCVersions](https://mcversions.net/) - Archives various Minecraft jars.
 
 ## Mod Loaders
 

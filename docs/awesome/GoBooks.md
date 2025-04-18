@@ -8,6 +8,13 @@
 
 
 ## Starter Books
+### 2015 - [The Go Programming Language](https://www.gopl.io/)
+
+<a href="https://www.gopl.io/"><img src="https://www.gopl.io/cover.png" width="120px"/></a>
+
+**Authors:** Alan A. A. Donovan and Brian W. Kernighan
+
+Widely regarded as the definitive guide to Go programming, this book offers an in-depth exploration of the language's syntax, data structures, and unique features such as goroutines and channels. Key topics include concurrency, error handling, and best practices in software engineering. Whether you're a developer transitioning from another language or someone seeking to deepen your Go knowledge, this book is an invaluable resource for mastering both foundational and advanced concepts.
 
 ### 2018 - [Learning Go](https://www.miek.nl/go) *Free*
 

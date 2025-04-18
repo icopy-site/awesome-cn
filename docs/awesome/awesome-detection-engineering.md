@@ -25,6 +25,7 @@ All contributions are welcome, please carefully review the [contributing guideli
 - [Prioritizing Detection Engineering | Ryan McGeehan](https://medium.com/starting-up-security/prioritizing-detection-engineering-b60b46d55051) - A longtime detection engineer outlines how a detection engineering program should be built from the ground up.
 
 
+- [Rulehound](https://rulehound.com) - An index of publicly available and open-source threat detection rulesets.
 - [MITRE Cyber Analytics Repository (CAR)](https://car.mitre.org) - MITRE's well-maintained repository of detection content.
 - [CAR Coverage Comparision](https://car.mitre.org/coverage/) - A matrix of MITRE ATT&CK technique IDs and links to available Splunk Security Content, Elastic detection rules, Sigma rules, and CAR content.
 - [Sigma Rules](https://github.com/Neo23x0/sigma) - Sigma's repository of turnkey detection content. Content can be converted for use with most SIEMs.

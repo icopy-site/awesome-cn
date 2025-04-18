@@ -102,3 +102,4 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 ## Podcasts
 
 - [Engineering Strategy Podcast](https://open.spotify.com/show/2o8lWLvV9O0P2Gf9J6xzLo?si=049c9a2c90924aa7) - Engineering strategy interviews to tech leaders in English and Spanish by Aleix Morgadas.
+- [Tech Lead Journal](https://techleadjournal.dev/) - A podcast by Henry Suryawirawan where experienced technical leaders share the often undefined, beyond-the-code skills that shaped their journeys.

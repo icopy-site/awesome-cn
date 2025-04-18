@@ -61,6 +61,7 @@ The curated list of resources for research and learning about stock trading and 
 
 ## Commentaries
 - [J.P. Morgan - Market Updates](https://am.jpmorgan.com/us/en/asset-management/adv/insights/market-insights/market-updates/) - Weekly commentaries to get market insights from J.P. Morgan.
+- [MSCI - Market Insights](https://www.msci.com/research-and-insights/market-insights) - Market commentaries and research reports with a focus on macroeconomic topics.
 
 ## Portfolio Tracker
 - [Portfolio Visualizer](https://portfoliovisualizer.com) - Portfolio management and analysis tool that provides portfolio optimization, backtesting, and risk analysis.
@@ -85,12 +86,12 @@ The curated list of resources for research and learning about stock trading and 
 ## Stock APIs
 - [Alpha Vantage](https://www.alphavantage.co/) - Alpha Vantage offers free APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [Eodhistoricaldata](https://eodhistoricaldata.com) - Eodhistoricaldata offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
+- [Financial Modeling Prep](https://site.financialmodelingprep.com/) - Financial Modeling Prep API provides real time stock price, company financial statements, major index prices, stock historical data, forex real time rate and cryptocurrencies.
 - [MarketStack](https://marketstack.com) - MarketStack offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [Morningstar](https://developer.morningstar.com) - Provides data, research, and reports.
 - [Nasdaq Data Link](https://data.nasdaq.com) - Nasdaq Data Link offers a premier source for financial, economic and alternative datasets.
 - [Polygon](https://polygon.io/) - Polygon offers APIs for realtime and historical stock data, forex, and cryptocurrency data.
 - [Refinitiv Eikon Data](https://www.refinitiv.com/en/products/eikon-trading-software/eikon-app-api-innovation/eikon-data-api) - The Eikon Data API allows applications to access data directly from Eikon or Refinitv Workspace.
-
 
 ## Knowledge
 - [Investopedia](https://www.investopedia.com) - Investopedia.com is a website that provides educational content, news, analysis, and tools related to investing, finance, and business.

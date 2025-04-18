@@ -96,6 +96,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Exception](https://github.com/KeeVeeGames/Exception.gml) - A base class for custom exceptions.
 - [ArrayList](https://github.com/KeeVeeGames/ArrayList.gml) - The most complete list class. Garbage collected, fast sort function, [] accessor and referencing as an array.
 - [GM Sysinfo](https://github.com/SpikeHD/gm-sysinfo) - Cross-platform extension for getting system information and resource usage.
+- [BSONGML](https://github.com/LAGameStudio/BSONGML) - Save and load GML structured data in binary files, skirting memory and performance concerns associated with loading JSON as a string.
 
 ## Debugging
 
@@ -115,7 +116,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 
 - [Input](https://github.com/JujuAdams/input) - No nonsense gamepad/keyboard library.
 - [XeroInput](https://www.reddit.com/r/gamemaker/comments/icoh6m/xeroinput_gms23_input_handler/) - Another library to handle multiple inputs for a single action.
-- [InputCandy](https://github.com/LAGameStudio/InputCandy) - Similar to Input as it acts as a wrapper for SDL, but also provides testing, on-screen diagnostics, and some other UI components related to peripherals.
+- [InputCandy](https://github.com/LAGameStudio/InputCandy) - Similar to Input as it acts as a wrapper for SDL, with actions and signalling, but also provides testing, on-screen diagnostics, and some other UI components related to peripherals, as well as pre-built end-user configuration menus that can be easily restyled.
 - [Good Vibes](https://github.com/mrdaneeyul/good-vibes) - Device vibration.
 - [Mouse Queue](https://github.com/YAL-GameMaker/window_mouse_queue) - Tracks the Windows mouse pointer with high precision.
 - [Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors) - System-level custom cursors. 💸

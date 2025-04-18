@@ -390,6 +390,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 
 * [gplot++](https://github.com/ziotom78/gplotpp) - Cross-platform header-only C++ plotting library that interfaces with Gnuplot. [MIT]
 * [matplotplusplus](https://github.com/alandefreitas/matplotplusplus) - C++ Graphics Library for Data Visualization. [MIT] [website](https://alandefreitas.github.io/matplotplusplus/)
+* [morphologica](https://github.com/ABRG-Models/morphologica) - C++ header-only graphing and data visualization with modern OpenGL. [Apache-2.0] [website](https://abrg-models.github.io/morphologica/)
 
 ## Debug
 *Debugging Libraries, Memory Leak and Resource Leak Detection, Unit Testing*
@@ -409,6 +410,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [CppBenchmark](https://github.com/chronoxor/CppBenchmark) - Performance benchmark framework for C++ with nanoseconds measure precision. [MIT]
 * [Cpptrace](https://github.com/jeremy-rifkin/cpptrace) - A simple, portable, and self-contained C++ stacktrace library supporting C++11 and greater. [MIT]
 * [CppUnit](http://www.freedesktop.org/wiki/Software/cppunit/) - C++ port of JUnit. [LGPL2]
+* [CrashCatch](https://github.com/keithpotz/CrashCatch) - Single-header crash reporting for C++ that logs stack traces and creates `.dmp` and `.txt` crash dumps. [MIT] [website](https://keithpotz.github.io/CrashCatch)
 * [CTest](https://cmake.org/cmake/help/v2.8.8/ctest.html) - The CMake test driver program. [BSD]
 * [dbg-macro](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++. [MIT]
 * [DebugViewPP](https://github.com/CobaltFusion/DebugViewPP) - Debug logging viewer. [Boost]
@@ -519,6 +521,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [MyGUI](https://github.com/MyGUI/mygui) - Fast, flexible and simple GUI. [MIT]
 * [nana](http://nanapro.org/en-us/) - Nana is a cross-platform library for GUI programming in modern C++ style. [Boost]
 * [NanoGui](https://github.com/mitsuba-renderer/nanogui) - A minimalistic cross-platform widget library for OpenGL 3.x or higher. [BSD]
+* [NAppGUI](https://github.com/frang75/nappgui_src) - SDK for building cross-platform desktop apps in ANSI-C. [MIT] [website](https://nappgui.com/en/home/web/home.html)
 * [nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C gui library. [PublicDomain]
 * [QCustomPlot](http://qcustomplot.com/) - Qt plotting widget without further dependencies. [GPLv3]
 * [Qwt](http://qwt.sourceforge.net/) - Qt Widgets for Technical Applications. [Own based on LGPL]
@@ -1115,6 +1118,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [access_profiler](https://github.com/arvidn/access_profiler) - A tool to count accesses to member variables in c++ programs. [GPL3]
 * [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) a.k.a. afl-fuzz - Crazy fuzzing tool that automatically discovers bugs given time and minimal example input. [Apache2]
 * [Argon2](https://github.com/P-H-C/phc-winner-argon2) - The password hash Argon2, winner of PHC. [CC0/Apache2]
+* [AsmJit](https://github.com/asmjit/asmjit) - Low-latency machine code generation. [Zlib] [website](https://asmjit.com)
 * [Better String](http://bstring.sourceforge.net) - An alternative to the string library for C which is more functional and does not have buffer overflow overrun problems. Also includes a C++ wrapper. [BSD, GPL2]
 * [Boost.Signals2](https://github.com/boostorg/signals2) - An implementation of a managed signals and slots system. [Boost] [website](https://boost.org/libs/signals2)
 * [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++. [LGPL]
@@ -1139,6 +1143,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [gcc-poison](https://github.com/leafsr/gcc-poison) - A simple header file for developers to ban unsafe C/C++ functions from applications.
 * [happly](https://github.com/nmwsharp/happly) - A C++ header-only parser for the PLY file format. Parse .ply happily! [MIT]
 * [hedley](https://github.com/nemequ/hedley) - A C/C++ header file designed to smooth over some platform-specific annoyances. [website](https://nemequ.github.io/hedley/)
+* [Hexi](https://github.com/EmberEmu/Hexi) - Header-only, lightweight C++ library for binary streaming & serialization. [Apache-2.0/MIT]
 * [HighwayHash](https://github.com/google/highwayhash) - Fast strong hash functions: SipHash/HighwayHash. [Apache-2.0]
 * [inja](https://github.com/pantor/inja) - A Template Engine for Modern C++. [MIT]
 * [Jinja2С++](https://github.com/jinja2cpp/Jinja2Cpp) - almost full-conformance template engine implementation. [website](https://jinja2cpp.github.io/)
@@ -1175,6 +1180,8 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [SDS](https://github.com/antirez/sds) - Simple Dynamic Strings library for C. [BSD]
 * [semver.c](https://github.com/h2non/semver.c) - A semver parser and render in ANSI C. [MIT]
 * [sigslot](http://sigslot.sourceforge.net/) - C++ Signal/Slot Library. [PublicDomain]
+* [SLJIT](https://github.com/zherczeg/sljit) - Platform independent low-level JIT compiler. [BSD] [website](https://zherczeg.github.io/sljit/)
+* [palacaze/sigslot](https://github.com/palacaze/sigslot) - A simple, header only, C++14 signal-slots implementation [MIT]
 * [simdzone](https://github.com/NLnetLabs/simdzone) - Fast and standards compliant DNS zone parser. [BSD-3-Clause]
 * [SimpleSignal](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. [PublicDomain]
 * [Stage](https://github.com/rtv/Stage) - Mobile robot simulator. [GPL2]

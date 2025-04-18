@@ -73,23 +73,12 @@
 ## Browsers
 
 * [Arc](https://arc.net) - Organizes tabs vertically for improved productivity.
+* [Brave](https://brave.com) - Privacy focused browser with build in adblock. [![oss][oss]](https://github.com/brave/brave-browser)
+* [Firefox](https://firefox.com) - Browser with privacy and customization. [![oss][]](https://hg.mozilla.org/mozilla-central)
 * [Ladybird](https://ladybird.org/) - Built with a new browser engine from scratch. [![Open-Source Software][oss]](https://github.com/LadybirdBrowser/ladybird)
+* [Orion](https://kagi.com/orion/) - Lightweight WebKit browser with Chrome/Firefox extension support.
+* [Tor Browser](https://www.torproject.org/) - Privacy browser routing traffic over the Tor network. [![Open-Source Software][oss]](https://gitlab.torproject.org/tpo/core/tor)
 * [Zen Browser](https://zen-browser.app/) - Firefox-based with community modifications. [![Open-Source Software][oss]](https://github.com/zen-browser/desktop) ![star]
-
-## Chat Clients
-
-* [LegCord](https://legcord.app/) - Discord client with Vencord and shelter integration. [![Open-Source Software][oss]](https://github.com/legcord/legcord) ![star]
-* [Beeper](https://beeper.com) - Combines WhatsApp, Slack, Telegram, Signal, X, Instagram, SMS into one app.
-* [Discord](https://discordapp.com) - Voice and text chat platform.
-* [Equicord](https://github.com/Equicord/Equicord) - Fork of Vencord with additional plugins and features. [![Open-Source Software][oss]](https://github.com/Equicord/Equicord)
-* [Franz](https://meetfranz.com/) - Combines multiple chat services into one app. [![Open-Source Software][oss]](https://github.com/meetfranz/franz)
-* [Matrix](https://matrix.org/) - Network for secure, decentralized communication. [![Open-Source Software][oss]](https://github.com/matrix-org)
-* [Revolt](https://revolt.chat/) - Chat platform built with modern web tech. [![Open-Source Software][oss]](https://github.com/revoltchat)
-* [Element](https://element.io/) - Client for the Matrix protocol. [![Open-Source Software][oss]](https://github.com/element-hq/element-web)
-* [Telegram](https://desktop.telegram.org/) - Messaging platform focused on speed and security. [![Open-Source Software][oss]](https://telegram.org/apps)
-* [Threema](https://threema.ch) - Swiss messaging platform with open source code. [![Open-Source Software][oss]](https://github.com/threema-ch) ![paid] ![star]
-* [Vencord](https://vencord.dev) - The cutest Discord client mod with lots of plugins. [![Open-Source Software][oss]](https://github.com/Vendicated/Vencord)
-* [Waow](https://dedg3.com/wao/) - WhatsApp Web client with extra features.
 
 ## Cloud Storage
 
@@ -107,6 +96,21 @@
 
 * [Chocolatey](https://chocolatey.org/) - Package manager for Windows.
 * [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) - Official Windows package manager from Microsoft. [![Open-Source Software][oss]](https://github.com/microsoft/winget-cli)
+
+## Communication
+
+* [LegCord](https://legcord.app/) - Discord client with Vencord and shelter integration. [![Open-Source Software][oss]](https://github.com/legcord/legcord)
+* [Beeper](https://beeper.com) - Combines WhatsApp, Slack, Telegram, Signal, X, Instagram, SMS into one app.
+* [Discord](https://discordapp.com) - Voice and text chat platform.
+* [Equicord](https://github.com/Equicord/Equicord) - Fork of Vencord with additional plugins and features. [![Open-Source Software][oss]](https://github.com/Equicord/Equicord) ![star]
+* [Franz](https://meetfranz.com/) - Combines multiple chat services into one app. [![Open-Source Software][oss]](https://github.com/meetfranz/franz)
+* [Matrix](https://matrix.org/) - Network for secure, decentralized communication. [![Open-Source Software][oss]](https://github.com/matrix-org)
+* [Revolt](https://revolt.chat/) - Chat platform built with modern web tech. [![Open-Source Software][oss]](https://github.com/revoltchat)
+* [Element](https://element.io/) - Client for the Matrix protocol. [![Open-Source Software][oss]](https://github.com/element-hq/element-web)
+* [Telegram](https://desktop.telegram.org/) - Messaging platform focused on speed and security. [![Open-Source Software][oss]](https://telegram.org/apps)
+* [Threema](https://threema.ch) - Swiss messaging platform with open source code. [![Open-Source Software][oss]](https://github.com/threema-ch) ![paid] ![star]
+* [Vencord](https://vencord.dev) - The cutest Discord client mod with lots of plugins. [![Open-Source Software][oss]](https://github.com/Vendicated/Vencord)
+* [Waow](https://dedg3.com/wao/) - WhatsApp Web client with extra features.
 
 ## Compression
 
@@ -140,6 +144,7 @@
 ## Databases Clients
 
 * [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - Fast and stable Redis GUI client with cluster, sentinel, SSH support. [![Open-Source Software][oss]](https://github.com/qishibo/AnotherRedisDesktopManager)
+* [Beekeeper Studio](https://www.beekeeperstudio.io/) - A modern, easy to use, and good looking SQL client for MySQL, Postgres, SQLite, SQL Server, and more. [![Open-Source Software][oss]](https://github.com/beekeeper-studio/beekeeper-studio)
 * [DataFlare](https://dataflare.app/) - Modern, lightweight database GUI for SQLite, MySQL and PostgreSQL. ![star]
 
 ## Developer Utilities
@@ -252,14 +257,13 @@
 
 ## Productivity
 
-
 * [Cold Turkey](https://getcoldturkey.com) - Website blocker with strict enforcement mechanisms.
 * [Easy Window Switcher](https://neosmart.net/EasySwitch/) - Fast application instance switcher.
 * [f.lux](https://stereopsis.com/flux/) - Automatic screen color temperature adjustment.
 * [File Juggler](https://www.filejuggler.com/) - Automated file organization with smart actions and PDF parsing.
 * [Inkdrop](https://www.inkdrop.info/) - Markdown-focused note-taking application.
 * [Jan](https://jan.ai) - Offline private AI assistant with CPU/GPU support. [![Open-Source Software][oss]](https://github.com/janhq/jan)
-* [Joplin](https://joplinapp.org/) - Joplin is an open-source note-taking and task management application that allows users to organize their notes, to-do lists, and even sync them across devices. Key Features of Joplin Markdown Support – Allows notes to be formatted using Markdown, making them highly customizable and easy to organize. Cross-Device Syncing – Syncs notes across multiple devices, including desktop, mobile, and cloud storage services. End-to-End Encryption – Ensures your notes are securely encrypted, protecting sensitive information from unauthorized access.  
+* [Joplin](https://joplinapp.org/) - Open-source note-taking app with Markdown support, cross-device sync and encryption. [![Open-Source Software][oss]](https://github.com/laurent22/joplin)
 * [KatMouse](https://www.ehiti.de/katmouse/) - Universal scrolling utility for Windows.
 * [Keywiz](https://mularahul.github.io/keyviz/) - Real-time keystroke visualization tool. [![Open-Source Software][oss]](https://github.com/mulaRahul/keyviz)
 * [MultiCommander](https://multicommander.com/) - Professional file manager.
@@ -300,7 +304,6 @@
 
 ## Screenshot
 
-
 * [Capter](https://github.com/decipher3114/Capter) - A simple screenshot tool made in rust. ![oss]
 * [Flameshot](https://flameshot.org/) - Customizable screenshot tool with an easy-to-use interface and built-in editor. [![Open-Source Software][oss]](https://github.com/flameshot-org/flameshot)
 * [Greenshot](https://getgreenshot.org/) - Greenshot is a light-weight screenshot software tool for Windows. [![Open-Source Software][oss]](https://github.com/greenshot/greenshot)
@@ -325,7 +328,6 @@
 * [Viscosity](https://www.sparklabs.com/viscosity/) - Enterprise-ready OpenVPN client.
 
 ## System Utilities
-
 
 * [Advanced Renamer](https://www.advancedrenamer.com/) - Batch file renamer with support for metadata and regex.
 * [balenaEtcher](https://etcher.balena.io/) - Flash OS images to SD cards & USB drives safely and easily. [![Open-Source Software][oss]](https://github.com/balena-io/etcher)
@@ -410,15 +412,15 @@
 
 ## Window Management
 
-* [AltSnap](https://github.com/RamonUnch/AltSnap) -  A lightweight window management tool for snapping windows to predefined positions using keyboard shortcuts. ![oss]
-* [FancyZones](https://github.com/microsoft/PowerToys) - A feature of PowerToys that helps with window snapping and arranging for multi-monitor setups in Windows. ![oss]
-* [GlazeWM](https://github.com/glzr-io/glazewm) - Tiling window manager inspired by i3wm written in Rust. ![oss]
+* [AltSnap](https://github.com/RamonUnch/AltSnap) - Window snapping with keyboard shortcuts. ![oss]
+* [FancyZones](https://github.com/microsoft/PowerToys) - PowerToys window manager for multi-monitor setups. ![oss]
+* [GlazeWM](https://github.com/glzr-io/glazewm) - Rust-based tiling window manager. ![oss]
 
 ## Backers
 
 Thanks to all contributors without you this project would not exist.
 
-<a href='https://raw.githubusercontent.com/0PandaDEV'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/70103896?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='0PandaDEV'/></a> <a href='https://raw.githubusercontent.com/syntaxboybe'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/113691000?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='syntaxboybe'/></a> <a href='https://raw.githubusercontent.com/onthejobtraining'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/75716685?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='onthejobtraining'/></a> <a href='https://raw.githubusercontent.com/NoCrypt'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/57245077?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='NoCrypt'/></a> <a href='https://raw.githubusercontent.com/peazip'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/479850?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='peazip'/></a> <a href='https://raw.githubusercontent.com/luismgallegosc'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/7239898?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='luismgallegosc'/></a> <a href='https://raw.githubusercontent.com/rodrigocfd'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/1283868?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='rodrigocfd'/></a> <a href='https://raw.githubusercontent.com/Taiizor'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/41683699?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Taiizor'/></a> <a href='https://raw.githubusercontent.com/Yukai-Qian'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/100383998?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Yukai-Qian'/></a> <a href='https://raw.githubusercontent.com/n0vella'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/197369591?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='n0vella'/></a> <a href='https://raw.githubusercontent.com/obvTiger'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/83970850?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='obvTiger'/></a> 
+<a href='https://raw.githubusercontent.com/0PandaDEV'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/70103896?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='0PandaDEV'/></a> <a href='https://raw.githubusercontent.com/syntaxboybe'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/113691000?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='syntaxboybe'/></a> <a href='https://raw.githubusercontent.com/onthejobtraining'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/75716685?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='onthejobtraining'/></a> <a href='https://raw.githubusercontent.com/NoCrypt'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/57245077?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='NoCrypt'/></a> <a href='https://raw.githubusercontent.com/peazip'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/479850?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='peazip'/></a> <a href='https://raw.githubusercontent.com/luismgallegosc'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/7239898?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='luismgallegosc'/></a> <a href='https://raw.githubusercontent.com/rodrigocfd'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/1283868?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='rodrigocfd'/></a> <a href='https://raw.githubusercontent.com/Taiizor'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/41683699?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Taiizor'/></a> <a href='https://raw.githubusercontent.com/Yukai-Qian'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/100383998?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='Yukai-Qian'/></a> <a href='https://raw.githubusercontent.com/n0vella'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/197369591?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='n0vella'/></a> <a href='https://raw.githubusercontent.com/obvTiger'><img src='https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/83970850?v=4&fit=cover&mask=circle&maxage=7d' width='60' height='60' alt='obvTiger'/></a>
 
 Please, consider supporting me as it is a lot of work to maintain this list! Thanks a lot.
 

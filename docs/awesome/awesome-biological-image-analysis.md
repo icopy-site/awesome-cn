@@ -46,6 +46,7 @@ Biological image analysis aims to increase our understanding of biology through 
 - [MAPS](https://github.com/mahmoodlab/MAPS) - MAPS (Machine learning for Analysis of Proteomics in Spatial biology) is a machine learning approach facilitating rapid and precise cell type identification with human-level accuracy from spatial proteomics data.
 - [MicroSAM](https://github.com/computational-cell-analytics/micro-sam) - Tools for segmentation and tracking in microscopy build on top of SegmentAnything. Segment and track objects in microscopy images interactively.
 - [MorpholibJ](https://github.com/ijpb/MorphoLibJ) - Collection of mathematical morphology methods and plugins for ImageJ.
+- [Nellie](https://github.com/aelefebv/nellie) - Automated organelle segmentation, tracking, and hierarchical feature extraction in 2D/3D live-cell microscopy.
 - [PartSeg](https://github.com/4DNucleome/PartSeg) - A GUI and a library for segmentation algorithms.
 - [Proseg](https://github.com/dcjones/proseg) : A cell segmentation method for in situ spatial transcriptomics.
 - [PyImSegm](https://github.com/Borda/pyImSegm) - Image segmentation - general superpixel segmentation and center detection and region growing.

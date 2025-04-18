@@ -8,7 +8,6 @@ There is no pre-established order of items in each category, the order is for co
 Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 
 
-- [Awesome Honeypots ![Awesome Honeypots](https://github.com/sindresorhus/awesome)](#awesome-honeypots-)
 
 ## Related Lists
 
@@ -32,13 +31,15 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [RedisHoneyPot](https://github.com/cypwnpwnsocute/RedisHoneyPot) - High Interaction Honeypot Solution for Redis protocol.
 
 - Web honeypots
-
+  
+  - [Cloud Active Defense](https://github.com/SAP/cloud-active-defense?tab=readme-ov-file) - Cloud active defense lets you deploy decoys right into your cloud applications, putting adversaries into a dilemma: to hack or not to hack?
   - [Express honeypot](https://github.com/christophe77/express-honeypot) - RFI & LFI honeypot using nodeJS and express.
   - [EoHoneypotBundle](https://github.com/eymengunay/EoHoneypotBundle) - Honeypot type for Symfony2 forms.
   - [Glastopf](https://github.com/mushorg/glastopf) - Web Application Honeypot.
   - [Google Hack Honeypot](http://ghh.sourceforge.net) - Designed to provide reconnaissance against attackers that use search engines as a hacking tool against your resources.
   - [HellPot](https://github.com/yunginnanet/HellPot) - Honeypot that tries to crash the bots and clients that visit it's location.
   - [Laravel Application Honeypot](https://github.com/msurguy/Honeypot) - Simple spam prevention package for Laravel applications.
+  - [Lophiid](https://github.com/mrheinen/lophiid/) - Distributed web application honeypot to interact with large scale exploitation attempts.
   - [Nodepot](https://github.com/schmalle/Nodepot) - NodeJS web application honeypot.
   - [PasitheaHoneypot](https://github.com/Marist-Innovation-Lab/PasitheaHoneypot) - RestAPI honeypot.
   - [Servletpot](https://github.com/schmalle/servletpot) - Web application Honeypot.
@@ -77,6 +78,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
   - [dhp](https://github.com/ciscocsirt/dhp) - Simple Docker Honeypot server emulating small snippets of the Docker HTTP API.
   - [DolosHoneypot](https://github.com/Marist-Innovation-Lab/DolosHoneypot) - SDN (software defined networking) honeypot.
   - [Ensnare](https://github.com/ahoernecke/ensnare) - Easy to deploy Ruby honeypot.
+  - [GenAIPot](https://github.com/ls1911/GenAIPot) - The first A.I based open source honeypot. supports POP3 and SMTP protocols and generates content using A.I based on user description.
   - [Helix](https://github.com/Zeerg/helix-honeypot) - K8s API Honeypot with Active Defense Capabilities.
   - [honeycomb_plugins](https://github.com/Cymmetria/honeycomb_plugins) - Plugin repository for Honeycomb, the honeypot framework by Cymmetria.
   - [honeydb] (https://honeydb.io/downloads) - Multi-service honeypot that is easy to deploy and configure. Can be configured to send interaction data to to HoneyDB's centralized collectors for access via REST API.
@@ -398,7 +400,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 - Spamtrap
 
   - [Mail::SMTP::Honeypot](https://metacpan.org/pod/release/MIKER/Mail-SMTP-Honeypot-0.11/Honeypot.pm) - Perl module that appears to provide the functionality of a standard SMTP server.
-  - [Mailoney](https://github.com/awhitehatter/mailoney) - SMTP honeypot, Open Relay, Cred Harvester written in python.
+  - [Mailoney](https://github.com/phin3has/mailoney) - SMTP honeypot written in python.
   - [SendMeSpamIDS.py](https://github.com/johestephan/VerySimpleHoneypot) - Simple SMTP fetch all IDS and analyzer.
   - [Shiva](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer.
     - [Shiva The Spam Honeypot Tips And Tricks For Getting It Up And Running](https://www.pentestpartners.com/security-blog/shiva-the-spam-honeypot-tips-and-tricks-for-getting-it-up-and-running/)

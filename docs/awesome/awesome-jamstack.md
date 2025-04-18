@@ -135,6 +135,7 @@ _For a more complete list see [StaticGen](https://www.staticgen.com/)._
 - [Stytch](https://stytch.com) - Passwordless authentication and session management API, try it out [on Vercel](https://github.com/vercel/next.js/tree/canary/examples/auth-with-stytch).
 - [Clerk](https://clerk.com) – Complete user management UIs and APIs, purpose-built for React, Next.js, and the modern web.
 - [Corbado](https://www.corbado.com) – Corbado helps you go passwordless by adding passkeys to your website or app in a few lines of code.
+- [Scalekit](https://scalekit.com) – Add enterprise SSO (SAML, OIDC) and SCIM provisioning on top of existing auth systems like Auth0, Firebase, or Cognito without rewrites.
 
 ### Comments
 

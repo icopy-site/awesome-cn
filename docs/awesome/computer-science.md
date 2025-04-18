@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="ossu/computer-science"></div>
 <div align="center" style="text-align: center">
-<img src="http://i.imgur.com/kYYCXtC.png" alt="Open Source Society logo"/>
+<img src="https://raw.githubusercontent.com/ossu/computer-science/master/images/ossu-logo.webp" alt="Open Source Society logo"/>
 <h3>Open Source Society University</h3>
 <p>
   Path to a free self-taught education in Computer Science!
@@ -81,14 +81,12 @@ just remember that you can't purchase success!
 
 ## Curriculum
 
-**Curriculum version**: `8.0.0` (see [CHANGELOG](https://github.com/ossu/computer-science/blob/master/CHANGELOG.md))
-
 
 ---
 
 ## Prerequisites
 
-- [Core CS](#core-cs) assumes the student has already taken [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites), including algebra, geometry, and pre-calculus.
+- [Core CS](https://github.com/ossu/computer-science/blob/master/#core-cs) assumes the student has already taken [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites), including algebra, geometry, and pre-calculus.
 - [Advanced CS](#advanced-cs) assumes the student has already taken the entirety of Core CS
 and is knowledgeable enough now to decide which electives to take.
 - Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
@@ -105,7 +103,7 @@ This course will introduce you to the world of computer science and programming.
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Introduction to Computer Science and Programming using Python](https://github.com/ossu/computer-science/blob/master/coursepages/intro-cs/README.md) | 14 weeks | 6-10 hours/week | [high school algebra](https://www.khanacademy.org/math/algebra-home) | [chat](https://discord.gg/jvchSm9)
+[Introduction to Computer Science and Programming using Python](https://github.com/ossu/computer-science/blob/master/coursepages/intro-cs/README.md) | 14 weeks | 6-10 hours/week | [high school algebra](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/jvchSm9)
 
 ## Core CS
 
@@ -419,7 +417,7 @@ What is next for you? The possibilities are boundless and overlapping:
   + Explore **borrowing and lifetimes** through [Rust](https://www.rust-lang.org/), a systems language which achieves memory- and thread-safety without a garbage collector!
   + Explore **dependent type systems** through [Idris](https://www.idris-lang.org/), a new Haskell-inspired language with unprecedented support for type-driven development.
 
-![keep learning](https://i.imgur.com/REQK0VU.jpg)
+![keep learning](https://github.com/ossu/computer-science/blob/master/images/keep-learning.webp)
 
 ## Code of conduct
 [OSSU's code of conduct](https://github.com/ossu/code-of-conduct).

@@ -14,6 +14,8 @@ If you are not a programmer but would like to contribute, check out the [Awesome
 
 If you would like to be guided through how to contribute to a repository on GitHub, check out [the First Contributions repository](https://github.com/firstcontributions/first-contributions).
 
+> [!TIP]
+> All links open in the same tab. If you want to open in a new tab, use `Ctrl + Click` (Windows/Linux) or `Cmd + Click` (Mac).
 
 ||Languages|
 |--|--|
@@ -163,7 +165,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Habitica](https://github.com/HabitRPG/habitica) _(label: good first issue)_ <br> Habitica is a gamified task manager, webapp and android/ios app, really wonderful atmosphere. Guidance for contributing here (mongo, express, vue, node stack for webapp)
 - [HMPL](https://github.com/hmpl-language/hmpl) _(label: good first issue)_ <br> Server-oriented customizable templating for JavaScript.
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch) _(label: good first issue)_ <br> A free, fast and beautiful API request builder.
-- [HueHive](https://github.com/croma-app/croma) _(label: good first issue)_ <br> A open source react native app iOS and android for color palette management
+- [HueHive](https://github.com/croma-app/croma) _(label: good first issue)_ <br> An open source react native app iOS and android for color palette management
 - [iD](https://github.com/openstreetmap/iD) _(label: good first issue)_ <br> The easy-to-use OpenStreetMap editor in JavaScript.
 - [ImprovedTube](https://github.com/code-charity/youtube) _(label: good first issue)_ <br> A powerful but lightweight extension, to enrich your video experience & enable your content selection.
 - [Jasmine](https://github.com/jasmine/jasmine) _(label: good first issue)_ <br> Simple JavaScript testing framework for browsers and node.js.
@@ -193,7 +195,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [React server](https://github.com/redfin/react-server) _(label: good-first-contribution)_ <br> React framework with server render for blazing fast page load and seamless transitions between pages in the browser.
 - [React-content-loader](https://github.com/danilowoz/create-content-loader) _(label: good first issue)_ <br> Tool to create your own react-content-loader easily.
 - [ReactiveSearch](https://github.com/appbaseio/reactivesearch) _(label: good first issue-:wave:)_ <br> A UI components library for Elasticsearch: Available for React, Vue and React Native.
-- [reactjs.org](https://github.com/reactjs/reactjs.org) _(label: good first issue)_ <br> The documenation website for reactjs
+- [reactjs.org](https://github.com/reactjs/reactjs.org) _(label: good first issue)_ <br> The documentation website for reactjs
 - [Reddit Enhancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) _(label: help-wanted)_ <br> A browser extension to enhance the Reddit browsing experience.
 - [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React) _(label: good first issue)_ <br> The official React integration for Semantic UI.
 - [serverless](https://github.com/serverless/serverless) _(label: good first issue)_ <br> The Serverless Framework
@@ -202,7 +204,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Superalgos](https://github.com/Superalgos/Superalgos) _(label: good first issue)_ <br> A completely Open Source crypto trading bot rewarding good contributions with the SA(Superalgos)-Token.
 - [Svelte](https://github.com/sveltejs/svelte) _(label: good first issue)_ <br> Component framework that runs at build time, converting your components into highly efficient imperative code that surgically updates the DOM.
 - [swag-for-dev](https://github.com/swapagarwal/swag-for-dev) _(label: good first issue)_ <br> Swag opportunities for developers.
-- [Tessel 2 CLI](https://github.com/tessel/t2-cli) _(label: contribution-starter)_ <br> Command line interface to Tessel 2.
 - [Time to Leave](https://github.com/thamara/time-to-leave) _(label: good first issue)_ <br> Working hours time tracker app based on Electron and Javascript.
 - [Vest](https://github.com/ealush/vest) _(label: good first issue)_ <br> Validations framework inspired by unit testing frameworks.
 - [Video Hub App](https://github.com/whyboris/Video-Hub-App) _(label: good first issue)_ <br> Angular & Electron app for browsing and searching videos on your PC.
@@ -272,7 +273,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Bokeh](https://github.com/bokeh/bokeh) _(label: good first issue)_ <br> Bokeh is an interactive visualization library for modern web browsers.
 - [BorgBackup](https://github.com/borgbackup/borg) _(label: easy)_ <br> Deduplicating backup program with compression and authenticated encryption.
 - [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki) _(label: good first issue)_ <br> Building a Better Democracy for the Internet Age
-- [coala](https://github.com/coala/coala) _(label: n/a)_ <br> A unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [Colossal-AI](https://github.com/hpcaitech/ColossalAI) _(label: good first issue)_ <br> An open-source deep learning system for large-scale model training and inference with high efficiency and low cost.
 - [cookiecutter](https://github.com/cookiecutter/cookiecutter) _(label: good first issue)_ <br> A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
 - [datascience](https://github.com/data-8/datascience) _(label: good first issue)_ <br> A Jupyter notebook Python library for introductory data science.
@@ -299,14 +299,11 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [PyMC](https://github.com/pymc-devs/pymc) _(label: beginner friendly)_ <br> A Python library for Bayesian statistical modeling and probabilistic machine learning. Beginner-friendly with 'good first issue' labels.
 - [Pytest](https://github.com/pytest-dev/pytest) _(label: status:-easy)_ <br> The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
 - [Python Babel](https://github.com/python-babel/babel) _(label: difficulty/low)_ <br> The Python Internationalization Library.
-- [pythonping](https://github.com/alessandromaggio/pythonping) _(label: good first issue)_ <br> PythonPing is a simple library to execute ICMP pings natively in Python without resorting to spawning a shell.
 - [Pytorch](https://github.com/pytorch/pytorch) _(label: good first issue)_ <br> PyTorch is an open source machine learning library based on the Torch library, used for applications such as computer vision and natural language processing.
 - [scikit-learn](https://github.com/scikit-learn/scikit-learn) _(label: good first issue)_ <br> Scikit-learn is a machine learning library for Python.
 - [scrapy](https://github.com/scrapy/scrapy) _(label: good first issue)_ <br> A fast high-level web crawling & scraping framework for Python.
-- [Sorting-Algorithms-Visualizer](https://github.com/LucasPilla/Sorting-Algorithms-Visualizer) _(label: good first issue)_ <br> A tool for visualizing sorting algorithms with a educational Wiki Page.
 - [SuperDuperDB](https://github.com/SuperDuperDB/superduperdb) _(label: good first issue)_ <br> 🔮SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data
 - [SymPy](https://github.com/sympy/sympy) _(label: Easy-to-Fix)_ <br> A Python library for symbolic mathematics.
-- [tree-sitter-legesher-python](https://github.com/legesher/tree-sitter-legesher-python) _(label: Good-First-Issue)_ <br> Learn and code in Python using your native language.
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) _(label: level:starter)_ <br> The strictest and most opinionated python linter ever!
 - [Zulip](https://github.com/zulip/zulip) _(label: good first issue)_ <br> Powerful open source group chat.
 
@@ -372,7 +369,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [IterTools TS](https://github.com/Smoren/itertools-ts) _(label: good first issue)_ <br> Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
 - [LinksHub](https://github.com/rupali-codes/LinksHub) _(label: good first issue)_ <br> LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work.
 - [LitmusChaos](https://github.com/litmuschaos/litmus) _(label: good first issue)_ <br> Litmus is a toolset to do cloud-native chaos engineering.
-- [Manifest](https://github.com/mnfst/manifest) _(label: good first issue)_ <br> Manifestis an open-source Backend-as-a-Service allowign developers to create a backend easily and quickly.
+- [Manifest](https://github.com/mnfst/manifest) _(label: good first issue)_ <br> Manifest is an open-source Backend-as-a-Service allowign developers to create a backend easily and quickly.
 - [Metabase](https://github.com/metabase/metabase) _(label: good first issue)_ <br> Open source business intelligence and analytics platform
 - [Node Efficientnet](https://github.com/ntedgi/node-efficientnet) _(label: good first issue)_ <br> EfficientNet Image Recognition model for Node JS ( written with tensorflow.js ).
 - [OpenMetadata](https://github.com/open-metadata/OpenMetadata) _(label: good first issue)_ <br> OpenMetadata is an all-in-one platform for data discovery, data quality, observability, governance, data lineage, and team collaboration.

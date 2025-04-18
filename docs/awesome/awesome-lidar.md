@@ -18,7 +18,6 @@ Contributions are welcome! Please [check out](https://github.com/szenergy/awesom
 - Any list item with ![](https://img.shields.io/badge/paper-blue?style=flat-square&logo=semanticscholar) badge has a scientific paper or detailed description
 - Any list item with ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros) badge is [`ROS 2`](https://docs.ros.org/) compatible
 
-
 ## Manufacturers
 
 - [Velodyne](https://velodynelidar.com/) - Ouster and Velodyne announced the successful completion of their *merger* of equals, effective February 10, 2023. Velodyne was a mechanical and solid-state LIDAR manufacturer. The headquarter is in San Jose, California, USA.
@@ -136,6 +135,8 @@ Contributions are welcome! Please [check out](https://github.com/szenergy/awesom
   - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/daavoo/pyntcloud)
 - [pointcloudset](https://virtual-vehicle.github.io/pointcloudset/) - Python library for efficient analysis of large datasets of point clouds recorded over time.
   - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/virtual-vehicle/pointcloudset) 
+- [LAStools](https://rapidlasso.de/lastools/) - C++ library and command-line tools for pointcloud processing and data compressing.
+  - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/LAStools/LAStools) 
 
 ## Frameworks
 
@@ -197,7 +198,6 @@ Contributions are welcome! Please [check out](https://github.com/szenergy/awesom
 - [Patchwork++ ![](https://img.shields.io/badge/paper-blue?style=flat-square&logo=semanticscholar)](https://arxiv.org/pdf/2207.11919.pdf)- Improved version of Patchwork. Patchwork++ provides pybinding as well for deep learning users
   - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/url-kaist/patchwork-plusplus-ros) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros)
   - [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=fogCM159GRk)
-
 
 ### Simultaneous localization and mapping SLAM and LIDAR-based odometry and or mapping LOAM
 - [LOAM J. Zhang and S. Singh ![](https://img.shields.io/badge/youtube-red?style=flat-square&logo=youtube)](https://youtu.be/8ezyhTAEyHs) - LOAM: Lidar Odometry and Mapping in Real-time.
@@ -263,7 +263,6 @@ Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
 - [AWSIM](https://tier4.github.io/AWSIM) - Unity Engine based simulator for automotive applications. Compatible with Autoware and ROS 2.
   - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/tier4/AWSIM) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros)
   - [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=FH7aBWDmSNA)
-
 
 ## Related awesome
 - [Awesome point cloud analysis ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/Yochengliu/awesome-point-cloud-analysis#readme)

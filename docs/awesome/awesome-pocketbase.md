@@ -121,6 +121,9 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [typed-pocketbase](https://github.com/david-plugge/typed-pocketbase) - Generate types from your PocketBase instance and enjoy fully type-safe queries. ![GitHub Repo stars](https://img.shields.io/github/stars/david-plugge/typed-pocketbase)
 - [pocketbase-ts](https://github.com/satohshi/pocketbase-ts) - SDK wrapper with more readable `options` syntax and full type-safety. ![GitHub Repo stars](https://img.shields.io/github/stars/satohshi/pocketbase-ts)
 - [pocketbase-query](https://github.com/emresandikci/pocketbase-query) - is a TypeScript-based query builder designed to generate complex filter queries for PocketBase. It allows for easy construction of queries using various operators while maintaining a fluent and chainable API. ![GitHub Repo stars](https://img.shields.io/github/stars/emresandikci/pocketbase-query)
+(https://img.shields.io/github/stars/sergio9929/pb-query)
+- [pocketbase-schema-generator](https://github.com/satohshi/pocketbase-schema-generator) - JS hook for automatically generating schema files. (Zod/TS interfaces) ![GitHub Repo stars](https://img.shields.io/github/stars/satohshi/pocketbase-schema-generator)
+- [pb-query](https://github.com/sergio9929/pb-query) - A flexible, strongly-typed query builder with useful helpers to simplify the querying process, featuring examples, documentation, and full autocompletion based on your schema, directly in the IDE. ![GitHub Repo stars]
 
 ## SQLite tools
 

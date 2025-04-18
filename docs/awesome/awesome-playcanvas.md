@@ -95,7 +95,9 @@
 - [Virtual Statues](https://playcanv.as/e/p/cLkf99ZV/) - A digital museum built with 3D Gaussian Splatting.
 - [Wild Rift](https://unlock.wildrift.leagueoflegends.com/) - Solve the puzzle to unlock a League of Legends: Wild Rift character.
 
-## Browser Games
+## Games
+
+### Browser Games
 
 - [Beyond Bionic: Extreme Encounters](https://www.bbc.co.uk/cbbc/games/beyond-bionic-extreme-encounters) - Outdoor adventures in this game from the BBC.
 - [Bubble Tower 3D](https://play.famobi.com/bubble-tower-3d) - Old school bubbleshooter game.
@@ -108,6 +110,7 @@
 - [Curve Ball 3D](https://play.famobi.com/curve-ball-3d) - 3D pong game.
 - [Disney's Hour of Code - Moana](http://partners.disney.com/hour-of-code) - Learn programming fundamentals with Disney's Moana.
 - [Euro Penalty Cup 2021](https://play.famobi.com/euro-penalty-cup-2021) - Try to hit the goal and outsmart the goalkeeper.
+- [Fishing League](https://poki.com/en/g/fishing-league) - Climb the ranks and become the ultimate angler.
 - [Flappy Bird](https://playcanv.as/p/2OlkUaxF/) - Guide the bird through as many pipes as possible.
 - [Free Kick Football](https://gamesnacks.com/games/freekickfootball) - Curve the ball to score goals.
 - [Full Speed Racing](https://gamesnacks.com/games/fullspeedracing) - Drive as far as you can before the time runs out.
@@ -136,7 +139,7 @@
 - [Town Star](https://gala.games) - Online farming game built by the Creative Director of Farmville 2.
 - [Virtual Voodoo](https://playcanv.as/p/tRUfwVg1/) - Voodoo doll simulator.
 
-## IO Games
+### IO Games
 
 - [Animal Obby](https://poki.com/en/g/animal-obby) - Switch between animals with unique abilities to reach the goal.
 - [Bullet Bonanza](https://www.bulletbonanza.io/) - Fast paced, high fidelity, 3D Multiplayer FPS game from Kiloo.
@@ -155,11 +158,11 @@
 - [Warbands](https://www.warbands.io/) - 3D Multiplayer FPS shooter.
 - [Wheat Farming](https://poki.com/en/g/wheat-farming) - Multiplayer farming game.
 
-## Messenger Games
+### Messenger Games
 
 - [GameWave](https://apps.apple.com/us/app/gamewave-games-for-imessage/id1506797690) - Multiplayer games for iMessage.
 
-## YouTube Playables
+### YouTube Playables
 
 - [Cannon Balls 3D](https://www.youtube.com/playables/UgkxtJBl0ZoeInS-4l5yzLRPqToF7zHv4dhr) - Use the cannon to destroy the various structures in this physics-based game.
 - [Color Burst 3D](https://www.youtube.com/playables/UgkxcobZM_stIxOBW-bQwKcrUiYbg11g4x55) - Hit the colored wall matching the ball color.
@@ -200,6 +203,7 @@
 - [Norqain](https://norqain.com/pages/watch-configurator) - Watch configurator.
 - [My Sliding Wardrobe](https://www.myslidingwardrobe.co.uk/design-your-wardrobe/) - Closet configurator.
 - [Renewal by Andersen Windows](https://www.renewalbyandersen.com/windows-doors/replacement-windows/double-hung) - Window configurator.
+- [Watch Configurator](https://watch.vz777.com/) - Technical demo from Visionaries777.
 - [WFI](https://configurator.wfi.se/#/?lang=en) - Workstation configurator.
 - [Willab Gardens Greenhouses](http://www.vaxthusguiden.se/) - Greenhouse configurator.
 
@@ -211,6 +215,11 @@
 - [Storage Space 13](https://js13kgames.com/entries/storage-space-13) - Fun VR game and winner of js13k WebXR category.
 - [Viverse](https://www.viverse.com/) - Open platform for virtual worlds and environments developed by HTC.
 - [WebXR Lab](https://playcanvas.com/project/446331/overview/webxr-vr-lab) - Sandbox for VR interaction experiments.
+
+## Generative AI
+
+- [Snap AI](https://ai.snapchat.com/) - Use AI to create Snapchat Lenses (3D visualization built on PlayCanvas).
+- [Ideate](https://ideate.xyz/) - AI-powered 3D art suite on the web.
 
 ## Blockchain/Crypto/NFT
 

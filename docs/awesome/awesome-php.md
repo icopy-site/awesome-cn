@@ -57,7 +57,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Extras related to web development frameworks.*
 
 * [CakePHP CRUD](https://github.com/friendsofcake/crud) - A Rapid Application Development (RAD) plugin for CakePHP.
-* [Knp RAD Components](https://rad.knplabs.com/) - A set of Rapid Application Development (RAD) components for Symfony.
 * [LaravelS](https://github.com/hhxsv5/laravel-s) - An out-of-the-box adapter between Laravel/Lumen and Swoole.
 * [Livewire](https://livewire.laravel.com/) - Powerful, dynamic, front-end UIs without leaving PHP.
 
@@ -65,7 +64,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Backdrop](https://backdropcms.org) - A CMS targeting small-to-medium-sized business and non-profits (a fork of Drupal).
 * [Concrete5](https://www.concretecms.com/) - A CMS targeting users with a minimum of technical skills.
 * [CraftCMS](https://github.com/craftcms/cms) - A flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
-* [Drupal](https://www.drupal.org) - An enterprise level CMS.
+* [Drupal](https://new.drupal.org/home) - An enterprise level CMS.
 * [Grav](https://github.com/getgrav/grav) - A modern flat-file CMS.
 * [Joomla](https://www.joomla.org/) - Another leading CMS.
 * [Kirby](https://getkirby.com/) - A flat-file CMS that adapts to any project.
@@ -85,7 +84,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Laravel Components](https://github.com/illuminate) - The Laravel Framework components.
 * [League of Extraordinary Packages](https://thephpleague.com/) - A PHP package development group.
 * [Spatie Open Source](https://spatie.be/open-source) - A collection of open-source PHP and Laravel packages.
-* [Symfony Components](https://symfony.com/components) - The components that make Symfony.
+* [Symfony Packages](https://symfony.com/packages) - Decoupled libraries for PHP applications.
 * [Laminas Components](https://docs.laminas.dev/components/) - The components that make the Laminas Framework.
 
 ### Micro Frameworks
@@ -149,14 +148,14 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Chrome PHP](https://github.com/chrome-php/chrome) - Instrument headless Chrome/Chromium instances from PHP.
 * [CrawlerDetect](https://github.com/JayBizzle/Crawler-Detect) - A PHP class for detecting bots/crawlers/spiders via the user agent.
 * [DiDOM](https://github.com/Imangazaliev/DiDOM) - A super-fast HTML scrapper and parser.
-* [Embed](https://github.com/oscarotero/Embed) - An information extractor from any web service or page.
+* [Embed](https://github.com/php-embed/Embed) - An information extractor from any web service or page.
 * [PHP Spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
 * [Symfony Panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
 
 ### Middlewares
 *Libraries for building application using middlewares.*
 
-* [PSR-7 Middlewares](https://github.com/oscarotero/psr7-middlewares) - Inspiring collection of handy middlewares.
+* [PSR-15 Middlewares](https://github.com/middlewares/psr15-middlewares) - Inspiring collection of handy middlewares.
 * [Relay](https://github.com/relayphp/Relay.Relay) - A PHP 5.5 PSR-7 middleware dispatcher.
 * [Stack](https://github.com/stackphp) - A library of stackable middleware for Symfony.
 * [Laminas Stratigility](https://github.com/laminas/laminas-stratigility) - Middleware for PHP built on top of PSR-7.
@@ -180,7 +179,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHPMailer](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
 * [PHP IMAP](https://github.com/barbushin/php-imap) - A library to access mailboxes via POP3, IMAP and NNTP.
 * [Stampie](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/en-us), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [MailChimp](https://mailchimp.com/features/transactional-email/).
-* [SwiftMailer](https://swiftmailer.symfony.com) - A mailer solution.
+* [SwiftMailer](https://swiftmailer.symfony.com/docs/introduction.html) - A mailer solution.
 * [Symfony Mailer](https://github.com/symfony/mailer) - A powerful library for creating and sending emails.
 
 ### Files
@@ -208,7 +207,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Container](https://github.com/thephpleague/container) - Another flexible dependency injection container.
 * [Disco](https://github.com/bitExpert/disco) - A PSR-11 compatible, annotation-based dependency injection container.
 * [PHP-DI](https://php-di.org/) - A dependency injection container that supports autowiring.
-* [Pimple](https://pimple.symfony.com/) - A tiny dependency injection container.
+* [Pimple](https://github.com/silexphp/Pimple) - A tiny dependency injection container.
 * [Symfony DI](https://github.com/symfony/dependency-injection) - A dependency injection container component.
 
 ### Imagery
@@ -257,8 +256,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Jenkins](https://www.jenkins.io/) - A continuous integration platform with [PHP support](https://www.jenkins.io/solutions/php/).
 * [JoliCi](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
 * [PHPCI](https://github.com/dancryer/phpci) - An open-source continuous integration platform for PHP.
-* [SemaphoreCI](https://semaphoreci.com) - A continuous integration platform for open-source and private projects.
-* [Shippable](https://jfrog.com/blog/weve-acquired-shippable-to-complete-devops-pipeline-automation-from-code-to-production/) - A Docker based continuous integration platform for open source and private projects.
+* [SemaphoreCI](https://semaphore.io/) - A continuous integration platform for open-source and private projects.
 * [Travis CI](https://www.travis-ci.com) - A continuous integration platform.
 * [Setup PHP](https://github.com/shivammathur/setup-php) - A GitHub Action for PHP.
 
@@ -320,7 +318,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Code Quality
 *Libraries for managing code quality, formatting and linting.*
 
-* [CaptainHook](https://github.com/captainhookphp/captainhook) - An easy-to-use and flexible Git hook library.
+* [CaptainHook](https://github.com/captainhook-git/captainhook) - An easy-to-use and flexible Git hook library.
 * [PHP CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - A library that detects and can auto-fix PHP, CSS and JS coding standard violations.
 * [PHP CS Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - A coding standards fixer library.
 * [PHP CS Fixer Configurator](https://mlocati.github.io/php-cs-fixer-configurator/) - A web application to help configure PHP CS Fixer rule sets.
@@ -349,7 +347,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries related to design patterns, programming approaches and ways to organize code.*
 
 * [Design Patterns PHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP ) - A repository of software patterns implemented in PHP.
-* [Finite](https://yohan.giarel.li/Finite/) - A simple PHP finite state machine.
+* [Finite](https://github.com/yohang/Finite) - A simple PHP finite state machine.
 * [Functional PHP](https://github.com/lstrojny/functional-php) - A functional programming library.
 * [Iter](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
 * [IterTools PHP](https://github.com/markrogoyski/itertools-php) - A library that provides functionality for working with iterable entities (similar to itertools library in Python).
@@ -428,7 +426,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ### Date and Time
 *Libraries for working with dates and times.*
 
-* [CalendR](https://yohan.giarel.li/CalendR/) - A calendar management library.
+* [CalendR](https://github.com/yohang/CalendR) - A calendar management library.
 * [Carbon](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension.
 * [Chronos](https://github.com/cakephp/chronos) - A DateTime API extension supporting both mutable and immutable date/time.
 * [Moment.php](https://github.com/fightbulc/moment.php) - Moment.js inspired PHP DateTime handler with i18n support.
@@ -610,6 +608,7 @@ Libraries to help manage database schemas and migrations.
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) - A library for formatting SQL statements.
 * [Stringy](https://github.com/voku/Stringy) - A string manipulation library with multibyte support.
 * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - A library for parsing user agent strings.
+* [Url highlight](https://github.com/vstelmakh/url-highlight) - A library for parsing URLs from text and converting them into clickable links.
 * [URLify](https://github.com/jbroadway/urlify) - A PHP port of Django's URLify.js.
 * [UUID](https://github.com/ramsey/uuid) - A library for generating UUIDs.
 
@@ -723,7 +722,7 @@ Libraries to help manage database schemas and migrations.
 *Libraries for working with Large Language Models.*
 
 * [Instructor for PHP](https://github.com/cognesy/instructor-php) - Structured data outputs with LLMs, in PHP.
-* [LLPhant](https://github.com/theodo-group/LLPhant) - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
+* [LLPhant](https://github.com/LLPhant/LLPhant) - A comprehensive PHP Generative AI Framework using OpenAI GPT 4. Inspired by Langchain.
 * [OpenAI Client](https://github.com/openai-php/client) - OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.
 * [OpenAI Client for Laravel](https://github.com/openai-php/laravel) - OpenAI PHP for Laravel is a supercharged PHP API client that allows you to interact with OpenAI API.
 * [PHP Mistral AI SDK](https://github.com/SoftCreatR/php-mistral-ai-sdk) - A powerful and easy-to-use PHP SDK for the Mistral AI API, allowing seamless integration of advanced AI-powered features into your PHP projects.
@@ -774,15 +773,15 @@ Libraries to help manage database schemas and migrations.
 ### Development Environment
 *Software and tools for creating and sharing a development environment.*
 
-* [Ansible](https://www.ansible.com/) - A radically simple orchestration framework.
+* [Ansible](https://www.redhat.com/en/ansible-collaborative) - A radically simple orchestration framework.
 * [DDEV](https://github.com/ddev/ddev) - a local web development environment system for PHP.
 * [Docker](https://www.docker.com/) - A containerization platform.
 * [Docker PHP Extension Installer](https://github.com/mlocati/docker-php-extension-installer) - Easily install PHP extensions in Docker containers.
 * [Docksal](https://github.com/docksal/docksal) - Unified, Docker :whale: powered web development environments for macOS, Windows, and Linux.
-* [Expose](https://github.com/beyondcode/expose) - An open-source PHP tunneling service.
+* [Expose](https://github.com/exposedev/expose) - An open-source PHP tunneling service.
 * [Lando](https://lando.dev/) - Push-button development environments.
 * [Laravel Homestead](https://laravel.com/docs/master/homestead) - A local development environment for Laravel.
-* [Laravel Herd](https://herd.laravel.com/) - A one click PHP development environment for macOS and Windows.
+* [Laravel Herd](https://herd.laravel.com/windows) - A one click PHP development environment for macOS and Windows.
 * [Laradock](http://laradock.io/) - A full PHP development environment based on Docker.
 * [PHPMon](https://phpmon.app/) - A macOS menu bar app for managing PHP installations (works with [Laravel Valet](https://laravel.com/docs/master/valet)).
 * [Puppet](https://www.puppet.com) - A server automation framework and application.
@@ -809,7 +808,7 @@ Libraries to help manage database schemas and migrations.
 *Web-based applications and tools.*
 
 * [3V4L](https://3v4l.org/) - An online PHP & HHVM shell.
-* [Adminer](https://www.adminer.org/) - Database management in a single PHP file.
+* [Adminer](https://www.adminer.org/en/) - Database management in a single PHP file.
 * [Cachet](https://github.com/cachethq/cachet) - The open source status page system.
 * [DBV](https://github.com/victorstanciu/dbv) - A database version control application.
 * [Lychee](https://github.com/electerious/Lychee) - An easy to use and great looking photo-management-system.
@@ -870,7 +869,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 *PHP conferences.*
 
 * [Laracon EU](https://www.youtube.com/@LaraconEU) - Laracon EU is a 2-day event for people who are interested in learning Laravel and related technologies, or who want to share their knowledge with others.
-* [PHP[TEK]](https://tek.phparch.com/) - The longest-running web developer conference in the United States that has a focus on the PHP programming language.
+* [PHP[TEK]](https://phptek.io/) - The longest-running web developer conference in the United States that has a focus on the PHP programming language.
 * [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) - A collection of videos from the PHP UK Conference.
 
 ### PHP Podcasts
@@ -888,7 +887,6 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [The Laracasts Snippet](https://laracasts.simplecast.com) - The Laracasts snippet, each episode, offers a single thought on some aspect of web development.
 * [The Laravel Podcast](https://laravelpodcast.com/) - Laravel and PHP development news and discussion.
 * [The PHP Roundtable](https://phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
-* [Voices of the ElePHPant](https://voicesoftheelephpant.com/) - Interviews with the people who make the PHP community special.
 
 ### PHP Newsletters
 *PHP-related news directly to your inbox.*

@@ -132,6 +132,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [floooh/pacman.zig](https://github.com/floooh/pacman.zig) - A Pacman clone.
 * [dantecatalfamo/OpenCSE](https://github.com/dantecatalfamo/OpenCSE) - Free implementation of the Can't Stop Express dice game.
 * [dbandstra/oxid](https://github.com/dbandstra/oxid) - Arcade-style game where you fight waves of monsters in a fixed-screen maze.
+* [six519/YieArKUNGFUZig](https://github.com/six519/YieArKUNGFUZig) - Yie Ar Kung-Fu clone with raylib.
 
 
 ## GUI
@@ -245,6 +246,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 ## Parser
 * [darithorn/zig-toml](https://github.com/darithorn/zig-toml) - A TOML parser.
 * [Himujjal/zig-json5](https://github.com/Himujjal/zig-json5) - JSON5 parser resembling the `std.json` APIs.
+* [EzequielRamis/zimdjson](https://github.com/EzequielRamis/zimdjson) - Parsing gigabytes of JSON per second. Zig port of simdjson with fundamental features.
 * [chwayne/rem](https://github.com/chwayne/rem) - An HTML parsing library.
 * [goto-bus-stop/ziguid](https://github.com/goto-bus-stop/ziguid) - GUID parsing/stringifying.
 * [00JCIV00/cova](https://github.com/00JCIV00/cova) - Commands, Options, Values, Arguments. A simple yet robust cross-platform command line argument parsing library.

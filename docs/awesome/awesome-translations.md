@@ -87,6 +87,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [ICU - International Components for Unicode](https://icu.unicode.org/) - A mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications.
 - [Django docs - i18n](https://docs.djangoproject.com/en/4.1/topics/i18n/) - Part of the Django docs, focused on internationalization and localization.
 - [Localizejs](https://localizejs.com/) - Translations for websites and applications to new languages and streamline translation workflow.
+- [ʻŌlelo Honua](https://brownrw8.github.io/olelo-honua) - Rapidly internationalize your website using LLMs & novel translate->critique->repair approach.
 - [ParaglideJS](https://inlang.com/m/gerre34r) - Synchronous, typesafe and lightweight i18n library.
 - [sphinx-intl](https://github.com/sphinx-doc/sphinx-intl) - A Sphinx utility that make it easy to translate and to apply translations.
 

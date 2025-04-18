@@ -154,27 +154,16 @@ _Libraries for building and working with bots._
 - [arikawa](https://github.com/diamondburned/arikawa) - A library and framework for the Discord API.
 - [bot](https://github.com/go-telegram/bot) - Zero-dependencies Telegram Bot library with additional UI components
 - [echotron](https://github.com/NicoNex/echotron) - An elegant and concurrent library for Telegram Bots in Go.
-- [ephemeral-roles](https://github.com/ewohltman/ephemeral-roles) - A Discord bot for managing ephemeral roles based upon voice channel member presence.
 - [go-joe](https://joe-bot.net) - A general-purpose bot library inspired by Hubot but written in Go.
 - [go-sarah](https://github.com/oklahomer/go-sarah) - Framework to build a bot for desired chat services including LINE, Slack, Gitter, and more.
 - [go-tg](https://github.com/mr-linch/go-tg) - Generated from official docs Go client library for accessing Telegram Bot API, with batteries for building complex bots included.
-- [go-tgbot](https://github.com/olebedev/go-tgbot) - Pure Golang Telegram Bot API wrapper, generated from swagger file, session-based router, and middleware.
 - [go-twitch-irc](https://github.com/gempir/go-twitch-irc) - Library to write bots for twitch.tv chat
-- [Golang CryptoTrading Bot](https://github.com/saniales/golang-crypto-trading-bot) - A golang implementation of a console-based trading bot for cryptocurrency exchanges.
-- [govkbot](https://github.com/nikepan/govkbot) - Simple Go [VK](https://vk.com) bot library.
-- [hanu](https://github.com/sbstjn/hanu) - Framework for writing Slack bots.
-- [larry](https://github.com/ezeoleaf/larry) - Larry 🐦 is a really simple Twitter bot generator that tweets random repositories from Github built in Go.
-- [margelet](https://github.com/zhulik/margelet) - Framework for building Telegram bots.
 - [micha](https://github.com/onrik/micha) - Go Library for Telegram bot api.
 - [slack-bot](https://github.com/innogames/slack-bot) - Ready to use Slack Bot for lazy developers: Custom commands, Jenkins, Jira, Bitbucket, Github...
 - [slacker](https://github.com/slack-io/slacker) - Easy to use framework to create Slack bots.
-- [slackscot](https://github.com/alexandre-normand/slackscot) - Another framework for building Slack bots.
-- [tbot](https://github.com/yanzay/tbot) - Telegram bot server with API similar to net/http.
 - [telebot](https://github.com/tucnak/telebot) - Telegram bot framework is written in Go.
 - [telego](https://github.com/mymmrac/telego) - Telegram Bot API library for Golang with full one-to-one API implementation.
-- [telegram-bot-api](https://github.com/Syfaro/telegram-bot-api) - Simple and clean Telegram bot client.
-- [teleterm](https://github.com/alfiankan/teleterm) - Telegram Bot Exec Terminal Command.
-- [Tenyks](https://github.com/kyleterry/tenyks) - Service oriented IRC bot using Redis and JSON for messaging.
+- [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Simple and clean Telegram bot client.
 - [wayback](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
 
 
@@ -570,6 +559,7 @@ _Data stores with expiring records, in-memory distributed data stores, or in-mem
 - [CovenantSQL](https://github.com/CovenantSQL/CovenantSQL) - CovenantSQL is a SQL database on blockchain.
 - [Databunker](https://github.com/paranoidguy/databunker) - Personally identifiable information (PII) storage service built to comply with GDPR and CCPA.
 - [dgraph](https://github.com/dgraph-io/dgraph) - Scalable, Distributed, Low Latency, High Throughput Graph Database.
+- [DiceDB](https://github.com/DiceDB/dice) - An open-source, fast, reactive, in-memory database optimized for modern hardware. Higher throughput and lower median latencies, making it ideal for modern workloads.
 - [diskv](https://github.com/peterbourgon/diskv) - Home-grown disk-backed key-value store.
 - [dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data.
 - [eliasdb](https://github.com/krotik/eliasdb) - Dependency-free, transactional graph database with REST API, phrase search and SQL-like query language.
@@ -763,7 +753,7 @@ _Libraries for building and using SQL._
 _Libraries for working with dates and times._
 
 - [approx](https://github.com/goschtalt/approx) - A Duration extension supporting parsing/printing durations in days, weeks and years.
-- [carbon](https://github.com/golang-module/carbon) - A simple, semantic and developer-friendly golang package for datetime.
+- [carbon](https://github.com/dromara/carbon) - A simple, semantic and developer-friendly time package for golang.
 - [carbon](https://github.com/uniplaces/carbon) - Simple Time extension with a lot of util methods, ported from PHP Carbon library.
 - [cronrange](https://github.com/1set/cronrange) - Parses Cron-style time range expressions, checks if the given time is within any ranges.
 - [date](https://github.com/rickb777/date) - Augments Time for working with dates, date ranges, time spans, periods, and time-of-day.
@@ -1049,7 +1039,7 @@ _Packages to support functional programming in Go._
 
 _Awesome game development libraries._
 
-- [Arche](https://github.com/mlange-42/arche) - Archetype-based Entity Component System (ECS) for Go.
+- [Ark](https://github.com/mlange-42/ark) - Archetype-based Entity Component System (ECS) for Go.
 - [Ebitengine](https://github.com/hajimehoshi/ebiten) - dead simple 2D game engine in Go.
 - [ecs](https://github.com/andygeiss/ecs) - Build your own Game-Engine based on the Entity Component System concept in Golang.
 - [engo](https://github.com/EngoEngine/engo) - Engo is an open-source 2D game engine written in Go. It follows the Entity-Component-System paradigm.
@@ -1116,14 +1106,15 @@ _Geographic tools and servers_
 
 ## Go Compilers
 
-_Tools for compiling Go to other languages._
+_Tools for compiling Go to other languages and vice-versa._
 
-- [c2go](https://github.com/goplus/c2go) - Convert C code to Go code.
+
+- [bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to Go.
 - [c4go](https://github.com/Konstantin8105/c4go) - Transpile C code to Go code.
 - [esp32](https://github.com/andygeiss/esp32-transpiler) - Transpile Go into Arduino code.
 - [f4go](https://github.com/Konstantin8105/f4go) - Transpile FORTRAN 77 code to Go code.
+- [go2hx](https://github.com/go2hx/go2hx) - Compiler from Go to Haxe to Javascript/C++/Java/C#.
 - [gopherjs](https://github.com/gopherjs/gopherjs) - Compiler from Go to JavaScript.
-- [tardisgo](https://github.com/tardisgo/tardisgo) - Golang to Haxe to CPP/CSharp/Java/JavaScript transpiler.
 
 
 ## Goroutines
@@ -1391,6 +1382,7 @@ _Libraries for generating and working with log files._
 - [httpretty](https://github.com/henvic/httpretty) - Pretty-prints your regular HTTP requests on your terminal for debugging (similar to http.DumpRequest).
 - [journald](https://github.com/ssgreg/journald) - Go implementation of systemd Journal's native API for logging.
 - [kemba](https://github.com/clok/kemba) - A tiny debug logging tool inspired by [debug](https://github.com/visionmedia/debug), great for CLI tools and applications.
+- [lazyjournal](https://github.com/Lifailon/lazyjournal) - A TUI for reading and filtering logs from journalctl, file system, Docker and Podman containers, as well Kubernetes pods.
 - [log](https://github.com/aerogo/log) - An O(1) logging system that allows you to connect one log to multiple writers (e.g. stdout, a file and a TCP connection).
 - [log](https://github.com/apex/log) - Structured logging package for Go.
 - [log](https://github.com/go-playground/log) - Simple, configurable and scalable Structured Logging for Go.
@@ -1417,6 +1409,7 @@ _Libraries for generating and working with log files._
 - [pp](https://github.com/k0kubun/pp) - Colored pretty printer for Go language.
 - [rollingwriter](https://github.com/arthurkiller/rollingWriter) - RollingWriter is an auto-rotate `io.Writer` implementation with multi policies to provide log file rotation.
 - [seelog](https://github.com/cihub/seelog) - Logging functionality with flexible dispatching, filtering, and formatting.
+- [sentry-go](https://github.com/getsentry/sentry-go) - Sentry SDK for Go. Helps monitor and track errors with real-time alerts and performance monitoring.
 - [slf4g](https://github.com/echocat/slf4g) - Simple Logging Facade for Golang: Simple structured logging; but powerful, extendable and customizable, with huge amount of learnings from decades of past logging frameworks.
 - [slog](https://github.com/gookit/slog) - Lightweight, configurable, extensible logger for Go.
 - [slog-formatter](https://github.com/samber/slog-formatter) - Common formatters for slog and helpers to build your own.
@@ -2559,6 +2552,7 @@ _General utilities and tools to make your life easier._
 - [generate](https://github.com/go-playground/generate) - runs go generate recursively on a specified path or environment variable and can filter by regex.
 - [ghokin](https://github.com/antham/ghokin) - Parallelized formatter with no external dependencies for gherkin (cucumber, behat...).
 - [git-time-metric](https://github.com/git-time-metric/gtm) - Simple, seamless, lightweight time tracking for Git.
+- [git-tools](https://github.com/kazhuravlev/git-tools) - Tool to help manage git tags.
 - [gitbatch](https://github.com/isacikgoz/gitbatch) - manage your git repositories in one place.
 - [gitcs](https://github.com/knbr13/gitcs/) - Git Commits Visualizer, CLI tool to visualize your Git commits on your local machine.
 - [go-actuator](https://github.com/sinhashubham95/go-actuator) - Production ready features for Go based web frameworks.
@@ -2797,6 +2791,7 @@ _Full stack web frameworks._
 - [Pnutmux](https://gitlab.com/fruitygo/pnutmux) - Pnutmux is a powerful Go web framework that uses regex for matching and handling HTTP requests. It offers features such as CORS handling, structured logging, URL parameters extraction, middlewares, and concurrency limiting.
 - [Revel](https://github.com/revel/revel) - High-productivity web framework for the Go language.
 - [rk-boot](https://github.com/rookie-ninja/rk-boot) - A bootstrapper library for building enterprise go microservice with Gin and gRPC quickly and easily.
+- [Ronykit](https://github.com/clubpay/ronykit) - Web framework with pluggable architecture and very performant.
 - [rux](https://github.com/gookit/rux) - Simple and fast web framework for build golang HTTP applications.
 - [templui](https://github.com/axzilla/templui) - Modern UI Components for Go & Templ.
 - [uAdmin](https://github.com/uadmin/uadmin) - Fully featured web framework for Golang, inspired by Django.
@@ -2987,7 +2982,6 @@ _Plugin for text editors and IDEs._
 
 - [envdoc](https://github.com/g4s8/envdoc) -  generate documentation for environment variables from Go source files.
 - [generic](https://github.com/usk81/generic) - flexible data type for Go.
-- [genny](https://github.com/cheekybits/genny) - Elegant generics for Go.
 - [gocontracts](https://github.com/Parquery/gocontracts) - brings design-by-contract to Go by synchronizing the code with the documentation.
 - [godal](https://github.com/mafulong/godal) - Generate orm models corresponding to golang by specifying sql ddl file, which can be used by gorm.
 - [gonerics](https://github.com/bouk/gonerics) - Idiomatic Generics in Go.
@@ -3003,13 +2997,12 @@ _Plugin for text editors and IDEs._
 
 ## Go Tools
 
-- [colorgo](https://github.com/songgao/colorgo) - Wrapper around `go` command for colorized `go build` output.
 - [decouple](https://github.com/bobg/decouple) - Find “overspecified” function parameters that could be generalized with interface types.
-- [depth](https://github.com/KyleBanks/depth) - Visualize dependency trees of any package by analyzing imports.
 - [docs](https://github.com/go-oas/docs) - Automatically generate RESTful API documentation for GO projects - aligned with Open API Specification standard.
 - [go-callvis](https://github.com/TrueFurby/go-callvis) - Visualize call graph of your Go program using dot format.
 - [go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - Analyze and visualize the size of dependencies in compiled Golang binaries, providing insight into their impact on the final build.
 - [go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API.
+- [go-template-playground](https://bartventer.github.io/go-template-playground/) - An interactive environment to create and test Go templates.
 - [godbg](https://github.com/tylerwince/godbg) - Implementation of Rusts `dbg!` macro for quick and easy debugging during development.
 - [gomodrun](https://github.com/dustinblackman/gomodrun/) - Go tool that executes and caches binaries included in go.mod files.
 - [gotemplate.io](https://gotemplate.io/) - Online tool to preview `text/template` templates live.
@@ -3230,7 +3223,7 @@ _Where to discover new Go libraries._
 - [GoDays](https://www.godays.io/) - Berlin, Germany.
 - [GoLab](https://golab.io/) - Florence, Italy.
 - [GopherChina](https://gopherchina.org) - Shanghai, China.
-- [GopherCon](https://www.gophercon.com/) - Denver, USA.
+- [GopherCon](https://www.gophercon.com/) - Varied Locations Each Year, USA.
 - [GopherCon Australia](https://gophercon.com.au/) - Sydney, Australia.
 - [GopherCon Brazil](https://gopherconbr.org) - Florianópolis, Brazil.
 - [GopherCon Europe](https://gophercon.eu/) - Berlin, Germany.

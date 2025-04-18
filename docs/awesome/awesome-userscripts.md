@@ -82,6 +82,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 ### GitHub
 
 * [Gist to dabblet](https://github.com/Mottie/GitHub-userscripts/wiki/Gist-to-dabblet) - Add a Dabblet link to Gists saved from Dabblet.
+* [GitHub Commit Labels](https://github.com/nazdridoy/github-commit-labels) - Add beautiful labels to conventional commits on GitHub.
 * [GitHub Commit Whitespace](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Whitespace#readme) - Adds button to hide whitespace diffs from commits.
 * [GitHub Custom Emojis](https://github.com/StylishThemes/GitHub-Custom-Emojis) - Add custom emojis anywhere on GitHub.
 * [GitHub Dark Script](https://github.com/StylishThemes/GitHub-Dark-Script) - Apply the [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) style to the site.
@@ -158,7 +159,8 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [Iridium](https://greasyfork.org/scripts/37902-iridium) - Adds a lot of extra functionality to YouTube, including pop-out videos, extra control over video/comment feeds, and much more.
 * [YouTube Classic](https://ytclassic.com/greasemonkey) - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts).
 * [YouTube Commenter Names](https://gist.github.com/lumynou5/74bcbab54cd9d8fcd3c873fffbac5d3d) - Make YouTube display the names of commenters instead of their handles.
-* [YouTube Peek Preview](https://greasyfork.org/en/scripts/370755-youtube-peek-preview) - See video thumbnails, ratings and other details when you mouse over a Youtube link from almost any website.
+* [YouTube Peek Preview](https://greasyfork.org/en/scripts/370755-youtube-peek-preview) - See video thumbnails, ratings and other details when you mouse over a YouTube link from almost any website.
+* [YouTube Play All](https://github.com/RobertWesner/YouTube-Play-All) - Returns the classic "Play All" button for not just videos, but also shorts and livestreams.
 
 
 ## Tutorials

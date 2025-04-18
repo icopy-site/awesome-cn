@@ -23,6 +23,7 @@
 - [Yolopia](https://www.yolopia.com/) - A rhythm game which combines flow, boxing and pose matching.
 - [f60](https://heyvr.io/game/f60) - A cross-platform WebXR escape room series set within a Soviet prison.
 - [The Escape Artist](https://esc.art/) - An award-winning escape room game by Paradowski Creative set inside the mind of an artist, with an overarching narrative about the creative process.
+- [NeoFables](https://neofables.com/) - Create your own worlds in the first dynamically AI generated VR storytelling experience. Nominated for "Game of the Year" and "Experience of the Year" at the 2024 Polys Immersive Awards. Also first GenAI VR experience featured by Meta.
 
 ## Art
 
