@@ -137,6 +137,7 @@
 ## Podcasts
 
 <!-- DESC, from most recent to oldest. -->
+- [SE Radio: Christian Mesh on OpenTofu](https://se-radio.net/2025/01/se-radio-652-christian-mesh-on-opentofu/)
 - [Kubernetes Podcast - OpenTofu, with Ohad Maislish](https://kubernetespodcast.com/episode/232-opentofu/)
 - [TheIaCPodcast - Expert Panel on OpenTofu GA Release, Licensing, and OSS Future](https://www.theiacpodcast.com/episode/expert-panel-on-opentofu-ga-release-licensing-and-oss-future)
 - [Contributor - Community-Driven IaC](https://www.contributor.fyi/opentofu)
