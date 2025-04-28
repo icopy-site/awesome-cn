@@ -23,7 +23,7 @@ Contributions are welcome. Add links through pull requests ([guidelines](https:/
 - **Regex flavor:** A unique set of regex syntax and behavior. Basic syntax is typically shared across flavors, but more advanced features often vary, sometimes in subtle or incompatible ways. A flavor might be shared across multiple implementations or programming languages.
   - Ex: The “JavaScript” flavor is defined by the ECMAScript spec; implemented by multiple engines (V8, etc.).
   - Ex: The “PCRE” flavor is the PCRE2 library, used by numerous programming languages and tools.
-  - Ex: Ruby swapped its regex implementation twice from version 1.8 ➜ 1.9 ➜ 2.0, so each used a distinct flavor. The Ruby 2.0+ flavor is referred to here as either “Ruby” or “Onigmo” (the underlying regex library).
+  - Ex: Ruby swapped its regex implementation twice from version 1.8 → 1.9 → 2.0, so each used a distinct flavor. The Ruby 2.0+ flavor is referred to here as either “Ruby” or “Onigmo” (the underlying regex library).
 - **Non-backtracking engine:** A regex implementation that uses a non-backtracking algorithm and runs in linear time. This rules out worst case performance from superlinear backtracking, but it's slower with some patterns and precludes some useful features like backreferences.
 </details>
 
@@ -61,7 +61,12 @@ Contributions are welcome. Add links through pull requests ([guidelines](https:/
   <summary>✳️ <b>Notable mentions</b></summary>
   <br>
 
-**Flavors**
+**Command line**
+
+- [pcre2test](https://pcre2project.github.io/pcre2/doc/pcre2test/) - Includes regex debugger. Flavor: PCRE.
+- [rxrx](https://metacpan.org/dist/Regexp-Debugger/view/bin/rxrx) - Includes regex debugger ([video intro](https://www.youtube.com/watch?v=zcSFIUiMgAs)). Flavor: Perl.
+
+**By flavor**
 
 - JavaScript: [RegViz](http://regviz.org/).
 - .NET: [Regex Storm](http://regexstorm.net/tester) \[[*GitHub*](https://github.com/lonekorean/regex-storm)].
@@ -75,7 +80,7 @@ Contributions are welcome. Add links through pull requests ([guidelines](https:/
 
 - [CyrilEx](https://extendsclass.com/regex-tester.html) \[[*GitHub*](https://github.com/cyrilbois/cyrilex)] - Java, JavaScript, MySQL, PHP, Python, Ruby.
 - [Patterns](https://krillapps.com/patterns/) (<picture><img src="https://raw.githubusercontent.com/slevithan/awesome-regex/raw/main/media/macos.svg" title="macOS" height="13"></picture>, $3) - Bash, Emacs, grep, Java, Oniguruma, PCRE, POSIX BRE, POSIX ERE, Ruby, sed.
-- [RegexPlanet](https://www.regexplanet.com/) \[[*GitHub*](https://github.com/regexplanet)] - Go, Haskell, Java, JavaScript, .NET, Perl, PHP, PostgreSQL, Python, Ruby, Tcl, XRegExp.
+- [RegexPlanet](https://www.regexplanet.com/) \[[*GitHub*](https://github.com/regexplanet)] - Go, Java, JavaScript (Bun, Deno, Node.js), .NET, Perl, PHP, PostgreSQL, Python, Ruby, Rust, Swift, Tcl, XRegExp.
 </details>
 
 ## Syntax-free regex builders
@@ -379,7 +384,6 @@ Many regexes found online are low quality. It's risky to use regexes you don't f
 
 *Other interesting, fun, and useful stuff.*
 
-- Chrome extension: [Regex](https://chromewebstore.google.com/detail/regex/pmihaiejckejbpjdnildimfkpcpnohlo) - Regex search on webpages via `Ctrl+Shift+F`.
 - Quiz: [regex101 Regex Quiz](https://regex101.com/quiz) - Requires sign-in.
 - Games: [Regex Crossword](https://regexcrossword.com/), [regexle](https://regexle.com/), [The Typing of the RegEX](https://thetypingoftheregex.com/), [Regex Machina](https://codepip.com/games/regex-machina/) ($).
 - Comics: [xkcd](https://xkcd.com/208/), [Garabato Kid](https://twitter.com/garabatokid/status/1147063121678389253).

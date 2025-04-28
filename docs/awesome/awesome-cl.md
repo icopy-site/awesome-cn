@@ -1961,6 +1961,13 @@ Markdown
 
 * [3bmd](https://github.com/3b/3bmd) - a markdown -> html converter. [MIT][200].
 
+Package declarations
+-------------------------
+
+* [cl-reexport](https://github.com/takagi/cl-reexport) - when you want to import and re-export many symbols at once and `:include` or `:exclude` some.
+
+See also [uiop:define-package](https://common-lisp.net/project/asdf/uiop.html#UIOP_002fPACKAGE) and its `:reexport` clause (without include/exclude), `:recycle`, `mix`…
+
 PDF
 ---
 
@@ -2003,8 +2010,15 @@ Security
 --------
 
 * [cl-isolated](https://github.com/kanru/cl-isolated) - A restricted environment for Common Lisp code evaluation [AGPL-3.0][agpl3].
+* [safe-read](https://github.com/phoe/safe-read) - a variant of READ secure against internbombing, excessive input and macro characters. [BSD_2Clause][17].
 * [secret-values](https://github.com/rotatef/secret-values) -  A Common Lisp library to reduce the risk of accidentally revealing secret values such as passwords.
   * [privacy-output-stream](https://github.com/atgreen/privacy-output-stream) - an output stream that masks secret strings with `****`, based on secret-values. MIT.
+
+To safely `read` data, see also `uiop:with-safe-io-syntax` and the
+associated `safe-read-*` functions (they ensure we `read` with the
+standard readtable and `#.` is inhibited to avoid read-time
+evaluation).
+
 
 System interface
 --------------------
