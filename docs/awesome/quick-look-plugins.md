@@ -133,6 +133,8 @@ Run `brew install qlvideo` or [download manually](https://github.com/Marginal/QL
 
 Purchase on the [App Store](https://apps.apple.com/app/peek-quick-look-extension/id1554235898).
 
+*The app is abandoned and buggy, but still functional.*
+
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/Peek.png)](https://bigzlabs.com/peek)
 
 ### [Folder Preview](https://anybox.ltd/folder-preview) 💰

@@ -539,6 +539,8 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [SHAP](https://github.com/slundberg/shap) | Game theoretic approach to explain the output of any machine learning model |
 | [LIME](https://github.com/marcotcr/lime) | Explaining the predictions of any machine learning classifier |
 | [zasper](https://github.com/zasper-io/zasper) | Supercharged IDE for Data Science |
+| [skrub](https://github.com/skrub-data/skrub/) | A Python library to ease preprocessing and feature engineering for tabular machine learning |
+
 
 
 ## Literature and Media
