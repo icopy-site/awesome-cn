@@ -107,6 +107,7 @@ Additional lists you might find useful:
 
 - [ADmad/I18n plugin](https://github.com/ADmad/cakephp-i18n) - A plugin with I18n related tools.
 - [Cake/Localized plugin](https://github.com/cakephp/localized) - Localized validation and ready-to-use translation PO files.
+- [Translate plugin](https://github.com/dereuromark/cakephp-translate) - Translate your translations in the backend with ease.
 
 ## Imagery
 *Plugins for manipulating images.*

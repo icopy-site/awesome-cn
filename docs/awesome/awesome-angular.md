@@ -1221,6 +1221,7 @@ become an Angular expert.
 * [ngx-quill-wrapper](https://github.com/zefoy/ngx-quill-wrapper) - Angular wrapper library for [Quill](http://quilljs.com/).
 * [ngx-tinymce](https://github.com/cipchk/ngx-tinymce) - [Tinymce](https://www.tiny.cloud/) components built with Angular.
 * [formly-editor](https://github.com/sesan07/formly-editor) - A configurable editor for [ngx-formly](https://github.com/ngx-formly/ngx-formly) forms.
+* [ngx-traak](https://github.com/mouhamadalmounayar/ngx-traak) - A WYSIWYG angular editor library built on top of prosemirror, built for standalone components and highly customizable with plugins.
 
 #### File Upload
 
