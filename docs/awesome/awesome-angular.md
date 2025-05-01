@@ -1636,6 +1636,7 @@ to simplify usage and allow quick customization.
 * [ngx-back-button](https://github.com/rbalet/ngx-back-button) - A library for handling proper Angular back button capability.
 * [ngx-navigate-back](https://github.com/developwithmi/ngx-navigate-back) - A lightweight Angular library designed to simplify navigation management. With ngx-navigate-back, you can easily implement a "back" functionality similar to the browser's native back button, allowing users to navigate to the previous page.
 * [storybook-addon-angular-router](https://github.com/Jakob-em/storybook-addon-angular-router) - A simple plugin to make working with the Angular router in [Storybook](https://storybook.js.org/) easier.
+* [angular-router-menus](https://github.com/muuvmuuv/angular-router-menus) - Enhance your Angular app's navigation by defining menu entries directly within the route. With full typing and customization based on your requirements, you can create multiple navigations effortlessly. Nested menus allow for dynamic dropdowns, while all menus are generated and injected into various injection tokens for easy access anywhere in your application.
 
 #### Scroll
 
@@ -1788,7 +1789,6 @@ to simplify usage and allow quick customization.
 * [orchestrator](https://github.com/orchestratora/orchestrator) - Extensible orchestrator for UI and forms for Angular.
 * [winonang](https://github.com/winona-ui/winonang) - Part of the Winona UI suite, aimed at providing seamless UI components for Angular developers. Our goal is to ensure that these components work flawlessly on Windows, but they are designed to be cross-platform compatible as well.
 * [carbon-components-angular](https://github.com/carbon-design-system/carbon-components-angular) - An Angular implementation of the Carbon Design System for IBM.
-* [ng-primitives](https://github.com/ng-primitives/ng-primitives) - A low-level UI component library with a focus on accessibility, customization, and developer experience.
 * [dyte-io/ui-kit](https://github.com/dyte-io/ui-kit/tree/staging/packages/angular-library) - Dyte's UI Kit is a prebuilt design library of UI components that makes it easy to integrate video and voice calls into any app or website within minutes.
 * [onega-ui](https://github.com/osspkg/onega-ui) - A modern and stylish UI kit that offers a wide range of UI components and elements to create professional and attractive websites.
 * [sky-ui](https://github.com/skysoft-tech/sky-ui) - Angular UI kit.
@@ -1804,7 +1804,6 @@ to simplify usage and allow quick customization.
 * [ngx-nighthawk](https://github.com/evenuxjs/ngx-nighthawk) - It offers a comprehensive set of components that are highly configurable and user-friendly. This package integrates the best open-source tools, such as Bootstrip — a streamlined version of Bootstrap that focuses solely on Grid and Utility features.
 * [tableau-ui-angular](https://github.com/serionist/tableau-ui-angular) -  A third-party component library that brings Tableau-style components to Angular.
 * [@ng-verse/ui](https://github.com/ngverse/ui) - A collection of feature-rich Angular components, directives, and pipes. Unlike traditional UI libraries, it requires no installation—just copy and paste what you need into your project.  Check the [docs](https://ui.ngverse.dev/) for more.
-* [primitives](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
 * [xUI](https://github.com/Rikarin/xui) - Angular UI Component Library heavily inspired by Discord design.
 * [bryntum](https://bryntum.com/) - World class web components for calendars, gantt charts, kanban boards, and scheduling.
 * [flexi-ui](https://github.com/TanerSaydam/flexi-ui) - [Flexi UI](https://flexi-ui.ecnorow.com/) provides a collection of reusable, visually appealing, and functional UI components to help you create modern and impressive front-end applications effortlessly. The library is fully customizable and open-source, making it accessible for everyone to use and contribute.
@@ -1864,6 +1863,12 @@ for the creation of web applications developed with Angular.
 ##### Node Based
 
 * [ngx-vflow](https://github.com/artem-mangilev/ngx-vflow) - An open source library to build node-based UI with Angular.
+
+##### Primitives
+
+* [ng-primitives](https://github.com/ng-primitives/ng-primitives) - A low-level UI component library with a focus on accessibility, customization, and developer experience.
+* [primitives](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
+* [ngbase](https://github.com/ng-base/ngbase) - A lightweight, flexible UI primitives library for Angular. It provides unstyled foundational Directives and components that developers can customize to match their design systems.
 
 #### UX Components
 
