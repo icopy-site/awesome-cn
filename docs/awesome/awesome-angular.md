@@ -192,6 +192,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Maksim Dolgikh](https://medium.com/@maks-dolgikh)
 * [Playful Programming](https://playfulprogramming.com/)
 * [Angular Material Dev](https://angular-material.dev/home) - One place for everything related to Material Design in Angular.
+* [Code With Omkar](https://www.codewithomkar.com/)
 
 ##### Books
 
@@ -305,8 +306,6 @@ become an Angular expert.
 * [Igor Sedov](https://www.youtube.com/@theigorsedov)
 * [Demystify Frontend](https://www.youtube.com/@DemystifyFrontend)
 * [Mona Code Lisa](https://www.youtube.com/@MonaCodeLisa)
-* [ng japan](https://www.youtube.com/@ng_japan) - (Japanese)
-* [StartupAngular](https://www.youtube.com/@StartupAngular) - (Japanese)
 * [The Code Angle](https://www.youtube.com/@TheCodeAngle)
 * [Brian Treese](https://www.youtube.com/@briantreese)
 * [Ben And Engineering](https://www.youtube.com/@the__b_a_e)
@@ -315,6 +314,9 @@ become an Angular expert.
 * [Kobi Hari](https://www.youtube.com/@kobihari)
 * [Code Step By Step](https://www.youtube.com/@codestepbystep)
 * [Programming Practicals](https://www.youtube.com/@programmingpracticals)
+* [ng japan](https://www.youtube.com/@ng_japan) - (Japanese)
+* [StartupAngular](https://www.youtube.com/@StartupAngular) - (Japanese)
+* [Code with Keys](https://www.youtube.com/@codewithkeys) - (Persian)
 
 ##### Style Guides
 
@@ -450,6 +452,7 @@ become an Angular expert.
 * [angular-env-builder](https://github.com/igorissen/angular-env-builder) - Builder to generate `src/environments/environment.ts` file based on your environment variables.
 * [angular-rspack](https://github.com/nrwl/angular-rspack) - [Rspack](https://github.com/web-infra-dev/rspack) plugin and tooling for Angular applications.
 * [ngx-devkit-builders](https://github.com/Celtian/ngx-devkit-builders) - This package contains Architect builders used to build and test Angular applications and libraries.
+* [angular-static-assets-hash](https://github.com/sitelint/angular-static-assets-hash) - Create a list of Angular static assets and a hash for each file.
 
 #### CLI
 
@@ -1012,6 +1015,7 @@ become an Angular expert.
 * [angular-calendar-timeline](https://github.com/oOps1627/angular-calendar-timeline) - A timeline for Angular 13+ that shows tasks or events on a timeline in different modes: days, weeks, and months. This library is pretty small and DOESN'T use big dependencies like JQuery or Moment.js. Library also supports SSR.
 * [ngx-resource-calendar](https://github.com/by-pinja/ngx-resource-calendar) - Angular resource calendar library.
 * [timegrid-angular](https://www.npmjs.com/package/@hexaflexa/timegrid-angular) - Angular wrapper for the [HexaFlexa](https://hexaflexa.com/) Timegrid web component.
+* [ngx-calendar-widget](https://github.com/giacomo/ngx-calendar-widget) - A lightweight, customizable, and feature-rich calendar widget designed to simplify event management and scheduling in your Angular applications.
 
 #### Captcha
 
@@ -1637,6 +1641,7 @@ to simplify usage and allow quick customization.
 * [ngx-navigate-back](https://github.com/developwithmi/ngx-navigate-back) - A lightweight Angular library designed to simplify navigation management. With ngx-navigate-back, you can easily implement a "back" functionality similar to the browser's native back button, allowing users to navigate to the previous page.
 * [storybook-addon-angular-router](https://github.com/Jakob-em/storybook-addon-angular-router) - A simple plugin to make working with the Angular router in [Storybook](https://storybook.js.org/) easier.
 * [angular-router-menus](https://github.com/muuvmuuv/angular-router-menus) - Enhance your Angular app's navigation by defining menu entries directly within the route. With full typing and customization based on your requirements, you can create multiple navigations effortlessly. Nested menus allow for dynamic dropdowns, while all menus are generated and injected into various injection tokens for easy access anywhere in your application.
+* [ngx-multi-level-push-menu](https://github.com/ramiz4/ngx-multi-level-push-menu) - A modern, accessible Angular component for responsive multi-level push menus with extensive customization options.
 
 #### Scroll
 
