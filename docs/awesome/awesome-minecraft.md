@@ -15,6 +15,7 @@
 
 - [Official Minecraft Wiki](https://minecraft.wiki/) - Minecraft Wiki is a complete resource for Minecraft, including gameplay, blocks, crafting, updates, events, mods, running a server, and resource packs.
 - [Chinese Minecraft Wiki](https://minecraft-zh.gamepedia.com/Minecraft_Wiki) - The Chinese Minecraft Wiki is an official wiki of Minecraft, covering detailed tutorials on crafting, blocks, creatures and even PE versions.
+- [MinecraftSearch](https://minecraftsearch.com/) – MinecraftSearch is an unofficial Minecraft Wiki with better user navigation that focuses on crafting, enchanting, villager trades, loot tables and a lot more.
 - [wiki.vg](http://wiki.vg/) - Technical Minecraft wiki.
 
 ### Forums
