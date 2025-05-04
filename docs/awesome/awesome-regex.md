@@ -387,3 +387,20 @@ Many regexes found online are low quality. It's risky to use regexes you don't f
 - Quiz: [regex101 Regex Quiz](https://regex101.com/quiz) - Requires sign-in.
 - Games: [Regex Crossword](https://regexcrossword.com/), [regexle](https://regexle.com/), [The Typing of the RegEX](https://thetypingoftheregex.com/), [Regex Machina](https://codepip.com/games/regex-machina/) ($).
 - Comics: [xkcd](https://xkcd.com/208/), [Garabato Kid](https://twitter.com/garabatokid/status/1147063121678389253).
+
+## About
+
+Awesome Regex was created by [Steven Levithan](https://github.com/slevithan) and [contributors](https://github.com/slevithan/awesome-regex/graphs/contributors).
+
+### Sponsors and backers
+
+[<img src="https://raw.githubusercontent.com/brc-dd.png" width="40" height="40">](https://raw.githubusercontent.com/brc-dd)
+[<img src="https://raw.githubusercontent.com/roboflow.png" width="40" height="40">](https://raw.githubusercontent.com/roboflow)
+
+### Past sponsors
+
+[<img src="https://raw.githubusercontent.com/antfu.png" width="40" height="40">](https://raw.githubusercontent.com/antfu)
+
+If you want to support this project, I'd love your help by contributing improvements, sharing it with others, or [sponsoring](https://github.com/sponsors/slevithan) ongoing development.
+
+© 2024–present. CC BY 4.0.

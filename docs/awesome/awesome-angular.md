@@ -1097,6 +1097,7 @@ become an Angular expert.
 * [cookieconsent](https://github.com/orestbida/cookieconsent) - Simple cross-browser cookie-consent plugin written in vanilla js that can be added to [Angular](https://cookieconsent.orestbida.com/essential/getting-started.html#angular).
 * [ngx-cookiebot](https://github.com/halloverden/ngx-cookiebot) - An Angular wrapper around the [Cookiebot](https://www.cookiebot.com/) SDK.
 * [ngx-cookie-ssr](https://github.com/Ask-786/ngx-cookie-ssr) - A straightforward cookie service for Angular 19 applications, inspired by ngx-cookie-service.
+* [ngx-gdpr-cookie-consent](https://github.com/KoblerS/ngx-gdpr-cookie-consent) - A beautiful Cookie consent library, easy to use.
 
 #### Data Grids
 
@@ -1107,7 +1108,7 @@ become an Angular expert.
 * [active-table](https://github.com/OvidijusParsiunas/active-table) - Framework agnostic table component for editable data experience.
 * [jsgrids](https://github.com/statico/jsgrids) - A comparison tool to compare JavaScript data grid and spreadsheet libraries.  Find even more libraries from this repo.
 * [ui-grid](https://github.com/angular-ui/ui-grid) - UI Grid: an Angular Data Grid.
-* [jspreadsheet](https://bossanova.uk/jspreadsheet/v4/examples/angular) - Jspreadsheet is a lightweight vanilla javascript plugin to create amazing web-based online interactive tables and spreadsheets compatible with other spreadsheet software.
+* [jspreadsheet](https://github.com/jspreadsheet/ce) - [Jspreadsheet](https://bossanova.uk/jspreadsheet/docs/getting-started) is a lightweight vanilla javascript plugin to create amazing web-based online interactive tables and spreadsheets compatible with other spreadsheet software.
 * [handsontable](https://handsontable.com/docs/javascript-data-grid/angular-installation/) - Handsontable is a popular JavaScript data grid component that brings the well-known look and feel of spreadsheets to your application.
 * [ngx-export-as](https://github.com/wnabil/ngx-export-as) - Angular 2+ / Ionic 2+ HTML/table element to export it as JSON, XML, PNG, CSV, TXT, MS-Word, Ms-Excel, and PDF.
 * [datagrid](https://github.com/radix-ng/datagrid) - Angular TanStack table with shadcn Theme.
@@ -1507,6 +1508,7 @@ to simplify usage and allow quick customization.
 * [ngx-markdoc](https://github.com/notiz-dev/ngx-markdoc) - [Markdoc](https://markdoc.dev) component for Angular applications.
 * [ngx-textile](https://github.com/vincent/ngx-textile) - Use the Textile markup language in your Angular project using [textile-js](https://github.com/borgar/textile-js).
 * [mdbook-angular](https://github.com/bgotink/mdbook-angular) - A renderer for [mdbook](https://rust-lang.github.io/mdBook/index.html) that turns Angular code samples into running Angular applications.
+* [ngx-mdx](https://github.com/SalathielGenese/ngx-mdx) - Take Angular lifecycle to Markdown for a seamless experience.
 
 #### Media
 
@@ -1600,6 +1602,8 @@ to simplify usage and allow quick customization.
 * [notifyx](https://github.com/awalhadi/notifyx) - A simple, customizable toast library for JavaScript/TypeScript with zero dependencies.
 * [web-notifier](https://github.com/andreasnicolaou/web-notifier) - A lightweight and flexible web notification library that provides a simple API for handling browser notifications using RxJS observables.
 * [toastify](https://github.com/andreasnicolaou/toastify) - Lightweight and customizable toast notifications for web applications.
+* [angular-toaster](https://github.com/damingerdai/angular-toaster) - Updated fork of [Angular2-Toaster](https://github.com/Stabzs/Angular2-Toaster).
+* [ng-toast-service](https://github.com/nhusby/ng-toast-service) - A simple, customizable notification service for Angular applications. This service shows notifications that slide onto the screen with configurable behavior.
 
 #### Printing
 

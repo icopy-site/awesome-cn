@@ -16,6 +16,7 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 - [lucidsourcekit](https://github.com/BitFlaker/lucidsourcekit) - An all-you-need toolkit for lucid dreaming including a binaural beats player and much more.
 - [Lightened Dream](https://github.com/lucidcode/Lightened-Dream) - A dream journal designed for lucid dreamers.
 - [Dormio](https://christinatchen.github.io/dormio/) - Dormio influences the semi-lucid state of mind known as hypnagogia, which occurs just before falling asleep, by playing audio cues.
+- [SSILD Trainer](https://github.com/rochismo/ssild-react) - A SSILD (Senses Initiated Lucid Dream) training web app designed to help you practice the SSILD cycles.
 
 ## Forums
 

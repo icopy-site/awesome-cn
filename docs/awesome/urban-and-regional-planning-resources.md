@@ -422,6 +422,7 @@ Software, tools, and platforms intended to help assist with planning management 
 - [Digiplan](https://digeplan.com/) - Provides software for fully integrated electronic plan review and intake processes.
 - [OpenGov](https://opengov.com/products/citizen-services/) - Cloud solution to power every permit, license, and inspection with user-friendly workflows.
 - [GeoCivix](https://geocivix.com/state-local-government-agencies/) - A user friendly citizen access, plan review, permit, and inspection solution built to drive efficiency, organization, and communication.
+- [Notion](https://www.notion.com/) - A modular, all‑in‑one workspace that unifies note‑taking, documents, databases, and project views that can be used to create shared adminstrative resources and simple sites quickly by teams and individuals as shown in a [Technology Division webinar](https://youtu.be/sxwsThQP9to?t=2277). 
 
 ### Public Engagement Tools and Platforms
 Software, tools, and platforms intended to aid with public engagement and outreach activities.
