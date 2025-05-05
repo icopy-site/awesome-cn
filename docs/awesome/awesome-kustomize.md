@@ -18,7 +18,7 @@ Push it forward and add the project badge in your repo to support the community!
 Markdown:
 
 ```text
-[![Awesome Kustomize](https://devopshive.net/badges/awesome-kustomize.svg)](https://github.com/DevOpsHiveHQ/awesome-kustomize)
+[![Awesome Kustomize](https://devopshive.com/badges/awesome-kustomize.svg)](https://github.com/DevOpsHiveHQ/awesome-kustomize)
 ```
 
 Preview:
