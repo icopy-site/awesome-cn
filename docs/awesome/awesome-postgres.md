@@ -28,6 +28,7 @@
 * [OmniPITR](https://github.com/omniti-labs/omnipitr) - Advanced WAL File Management Tools for PostgreSQL.
 * [pg\_probackup](https://github.com/postgrespro/pg_probackup) – A fork of pg\_arman, improved by @PostgresPro, supports incremental backups, backups from replica, multithreaded backup and restore, and anonymous backup without archive command.
 * [pgBackRest](https://pgbackrest.org/)  - Reliable PostgreSQL Backup & Restore.
+* [pgbackweb](https://github.com/eduardolat/pgbackweb) - A Complete Docker-based Postgres backup and maintenance tool with Web UI. 
 * [pg\_back](https://github.com/orgrim/pg_back/) - pg\_back is a simple backup script
 * [pghoard](https://github.com/aiven/pghoard) - Backup and restore tool for cloud object stores (AWS S3, Azure, Google Cloud, OpenStack Swift).
 * [wal-e](https://github.com/wal-e/wal-e) (obsolete) - Simple Continuous Archiving for PostgreSQL to S3, Azure, or Swift by Heroku.
@@ -73,7 +74,6 @@
 
 ### Distributions
 * [Postgres.app](https://postgresapp.com/) - The Easiest Way to Get Started with PostgreSQL on macOS.
-* [PostgreSql.Binaries.Lite](https://github.com/mihasic/PostgreSql.Binaries.Lite) - Minimum set of Windows binaries of the PostgreSQL database. Also made available through NuGet.
 * [Pigsty](https://github.com/Vonng/pigsty) - Battery-Included Open-Source Distribution for PostgreSQL with ultimate observability & Database-as-Code toolbox for developers.
 
 ### CLI
@@ -86,10 +86,10 @@
 * [schemaspy](https://github.com/schemaspy/schemaspy) - SchemaSpy is a JAVA JDBC-compliant tool for generating your database to HTML documentation, including Entity Relationship diagrams
 
 ### Server
-* [Postgres-XL](https://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster.
 * [AgensGraph](https://bitnine.net/) - Powerful graph database based on the PostgreSQL.
-* [Greenplum Database](https://github.com/greenplum-db/gpdb) - Open source fork of PostgreSQL for large data volumes.
+* [Apache Cloudberry](https://github.com/apache/cloudberry) - And MPP PostgreSQL fork. Open source alternative to Greenplum Database.
 * [FerretDB](https://www.ferretdb.io) - A truly Open Source MongoDB alternative on top of PostgreSQL.
+* [Postgres-XL](https://www.postgres-xl.org/) - Scalable Open Source PostgreSQL-based Database Cluster.
 * [YugabyteDB](https://yugabyte.com/) - Open Source Distributed SQL using  a fork of PostgreSQL on top of distributed storage and transaction
 
 ### Security
@@ -125,6 +125,7 @@
 * [pg_search](https://github.com/paradedb/paradedb/tree/dev/pg_search) - pg_search is a PostgreSQL extension that enables full-text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search.
 * [pg_cron](https://github.com/citusdata/pg_cron) - Run periodic jobs in PostgreSQL.
 * [pglogical](https://github.com/2ndQuadrant/pglogical) - Extension that provides logical streaming replication.
+* [pgcat](https://github.com/kingluo/pgcat) - Enhanced PostgreSQL logical replication
 * [pg\_barcode](https://github.com/btouchard/pg_barcode/) - PostgreSQL SVG QRcode & Datamatrix generator.
 * [pg\_partman](https://github.com/pgpartman/pg_partman) - Partition management extension for PostgreSQL.
 * [pg\_paxos](https://github.com/citusdata/pg_paxos/) - Basic implementation of Paxos and Paxos-based table replication for a cluster of PostgreSQL nodes.
@@ -148,6 +149,11 @@
 * [PostgresML](https://postgresml.org/) - Machine learning and AI inside your database, including vectors, LLMs, and classic ML. Train, predict and manage the entire lifecycle of machine learning models using only SQL.
 * [ParadeDB](https://github.com/paradedb/paradedb) -  Postgres for Search and Analytics
 
+### Work Queues
+* [BeanQueue](https://github.com/LaunchPlatform/bq) - A Python work queue framework based on SKIP LOCKED, LISTEN and NOTIFY
+* [pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
+* [river](https://github.com/riverqueue/river) - A high-performance job processing system for Go and Postgres.
+
 ### Optimization
 * [EverSQL](https://www.eversql.com/) - Automated query optimization tool, monitoring and analysis tool, indexing recommendation tool. (Commercial Software)
 * [PEV2](https://github.com/dalibo/pev2) - Online Postgres Explain Visualizer.
@@ -162,6 +168,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [pg_web_stats](https://github.com/kirs/pg_web_stats) - Web UI to view pg_stat_statements.
 * [TimescaleDB Tune](https://github.com/timescale/timescaledb-tune) - a program for tuning a TimescaleDB database to perform its best based on the host's resources such as memory and number of CPUs.
 * [Metis](https://www.metisdata.io/product/troubleshooting) - Metis provides observability and performance tuning for SQL databases including PostgreSQL. (Commercial Software)
+* [aqo](https://github.com/postgrespro/aqo) - Adaptive query optimization for PostgreSQL.
 
 ### Utilities
 * [apgdiff](https://www.apgdiff.com/) - Compares two database dump files and creates output with DDL statements that can be used to update old database schema to new one.
@@ -173,6 +180,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [ldap2pg](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
 * [migra](https://github.com/djrobstep/migra) - Like diff but for Postgres schemas.
 * [mysql-postgresql-converter](https://github.com/lanyrd/mysql-postgresql-converter) - Lanyrd's MySQL to PostgreSQL conversion script.
+* [NServiceBus.Transport.PostgreSql](https://github.com/Particular/NServiceBus.SqlServer) - The NServiceBus.Transport.PostgreSql library allows .NET developers to [use a PostgreSQL database as a message broker](https://docs.particular.net/transports/postgresql). (Commerical Software)
 * [ora2pg](http://ora2pg.darold.net) - Perl module to export an Oracle database schema to a PostgreSQL compatible schema.
 * [pg\_activity](https://github.com/dalibo/pg_activity) - top like application for PostgreSQL server activity monitoring.
 * [pg-formatter](https://github.com/gajus/pg-formatter) - A PostgreSQL SQL syntax beautifier (Node.js).
@@ -211,7 +219,7 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 * [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - a new-generation diagnostics tool that allows users to collect deep analysis of the health of a Postgres database.
 * [Pyrseas](https://github.com/perseas/Pyrseas) - Postgres database schema versioning.
 * [ScaffoldHub.io](https://scaffoldhub.io) - Generate fullstack PostgreSQL apps with Angular, Vue or React (Commercial Software). 
-* [planter][https://github.com/achiku/planter] - Generate PlantUML ER diagram textual description from PostgreSQL tables
+* [planter](https://github.com/achiku/planter) - Generate PlantUML ER diagram textual description from PostgreSQL tables
 * [pgroll](https://github.com/xataio/pgroll) - Zero-downtime, reversible, schema migrations for Postgres
 * [RegreSQL](https://github.com/dimitri/regresql) - Tool to build, maintain and execute a regression testing suite for SQL queries.
 
@@ -294,8 +302,6 @@ for `EXPLAIN`, that also provides performance tips (Commercial Software).
 
 ### Articles
 
-* [What PostgreSQL has over other open source SQL databases: Part I](https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases/)
-* [What PostgreSQL has over other open source SQL databases: Part II](https://www.compose.com/articles/what-postgresql-has-over-other-open-source-sql-databases-part-ii/)
 * [the ultimate postgres vs mysql blog post](https://di.nmfay.com/postgres-vs-mysql)
 * [Debugging PostgreSQL performance, the hard way](https://www.justwatch.com/blog/post/debugging-postgresql-performance-the-hard-way/)
 * [Why use Postgres?](http://www.craigkerstiens.com/2017/04/30/why-postgres-five-years-later/)

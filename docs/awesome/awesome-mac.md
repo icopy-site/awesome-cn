@@ -325,7 +325,8 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 * [bruno](https://www.usebruno.com/) - Bruno is a offline-only, fast and git-friendly opensource API client.![Freeware][Freeware Icon]
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/) - Free, open-source, native Apple OS X app for testing HTTP/REST endpoints. [![Open-Source Software][OSS Icon]](https://github.com/mmattozzi/cocoa-rest-client) ![Freeware][Freeware Icon]
-* [HTTPie](https://httpie.io/) - HTTPie is making APIs simple and intuitive for those building the tools of our time.![Freeware][Freeware Icon]
+* [HTTPie](https://httpie.io/) - HTTPie is making APIs simple and intuitive for those building the tools of our time. ![Freeware][Freeware Icon]
+* [Hoppscotch](https://docs.hoppscotch.io/documentation/clients/desktop) - A lightweight, fast, and full-featured API debugging tool. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/hoppscotch/hoppscotch)
 * [Insomnia](https://insomnia.rest/) - The most intuitive cross-platform REST API Client. [![Open-Source Software][OSS Icon]](https://github.com/getinsomnia/insomnia) ![Freeware][Freeware Icon]
 * [Katalon Studio](https://www.katalon.com) - Simplify API, Web, and Mobile Automation Tests. ![Freeware][Freeware Icon]
 * [Paw](https://paw.cloud/) - Advanced HTTP client.
@@ -468,6 +469,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Blender](https://www.blender.org/) - Free and open 3D creation software. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://developer.blender.org/)
 * [Colorpicker](https://colorpicker.fr/) - Colorpicker is a complete open-source colors manipulation tool with picking! [![Open-Source Software][OSS Icon]](https://github.com/toinane/colorpicker) ![Freeware][Freeware Icon]
 * [darktable](https://www.darktable.org) - darktable is an open source photography workflow application and raw developer. [![Open-Source Software][OSS Icon]](https://github.com/darktable-org/darktable) ![Freeware][Freeware Icon]
+* [Droply](https://convergencelab.gumroad.com/l/droply) - A native macOS app for one-click offline batch image background removal with exceptional edge quality.
 * [Draw.io](https://github.com/jgraph/drawio-desktop) Drawio is a diagramming and whiteboarding desktop app [![Open-Source Software][OSS Icon]](https://github.com/jgraph/drawio-desktop)
 * [Figma](https://www.figma.com/) - The collaborative interface design tool, for vector graphics and UI prototyping. ![Freeware][Freeware Icon]
 * [FontForge](http://fontforge.github.io/) - Free, open-source font editor. [![Open-Source Software][OSS Icon]](https://github.com/fontforge) ![Freeware][Freeware Icon]
@@ -500,7 +502,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Vectr](https://vectr.com/) - Free graphics editor used to create vector graphics easily and intuitively. ![Freeware][Freeware Icon]
 * [Nugget](https://github.com/cartesiancs/nugget-app) - Video editing software designed for motion effects and versatility. [![OSS][OSS Icon]](https://github.com/yo-op/sketchcachecleaner) ![Freeware][Freeware Icon]
 * [Lunacy](https://icons8.com/lunacy) - A vector graphic design tool for UI/UX with offline support, built-in assets, and real-time collaboration. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/lunacy-graphic-design-editor/id1582493835?mt=12)
-
+  
 ### Prototyping and Mind-Mapping Tools
 
 * [Adobe XD](http://www.adobe.com/products/experience-design.html) - Tool for designing and prototyping websites and mobile apps.

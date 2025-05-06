@@ -690,6 +690,7 @@ become an Angular expert.
 * [@elastic/apm-rum-angular](https://www.npmjs.com/package/@elastic/apm-rum-angular) - Elastic APM Real User Monitoring for Angular applications.
 * [ngx-react](https://github.com/ngeenx/ngx-react) - Embed React components or apps into Angular projects.
 * [@interopio/ng](https://www.npmjs.com/package/@interopio/ng) - This [IO Connect](https://interop.io/) Angular wrapper aims to facilitate Angular developers in initializing the IO Connect JavaScript libraries and using IO Connect functionalities in their projects.
+* [zero-angular](https://github.com/sscholle/zero-angular) - Angular bindings for [Zero](https://zero.rocicorp.dev/).
 
 #### Internationalization
 
@@ -1821,6 +1822,7 @@ to simplify usage and allow quick customization.
 * [Vega](https://vega.hlprd.com/) - Vega includes reusable components and styles, in your framework of choice. Build product features faster, without recreating the same basic components for every project.
 * [Blueprint UI](https://blueprintui.dev/) - Accelerate your development with flexible UI components and tools that work everywhere.
 * [@jean-merelis/angular-components](https://github.com/jean-merelis/angular-components) - A library of reusable Angular components and utilities that provides high-quality UI elements for your applications.
+* [mantic-ui](https://github.com/KY-Programming/mantic-ui) - Angular components for [Semantic UI](https://semantic-ui.com/) and [Fomantic UI](https://fomantic-ui.com/).
 
 ##### Material Based
 
@@ -1950,6 +1952,7 @@ for the creation of web applications developed with Angular.
 * [angular-compile](https://github.com/patrikx3/angular-compile) - Angular Dynamic Compile. Convert strings to Angular components.
 * [ngx-error-handling](https://github.com/gonzalad/ngx-error-handling) - This library seamlessly manages unhandled RxJS, signal, and classic errors, making them accessible through an Rx subject (ErrorBus).
 * [ngx-signal-hub](https://www.npmjs.com/package/ngx-signal-hub) - A lightweight, reactive signal hub service for Angular applications built using signals. It offers a hybrid approach, allowing both traditional callback-based subscriptions and efficient signal-based observation of the latest event state.
+* [ngx-voyage](https://github.com/mschn/ngx-voyage) - File Explorer for Angular and PrimeNG.
 
 ---
 
