@@ -5,7 +5,8 @@
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" href="https://raw.githubusercontent.com/sindresorhus/awesome">
   </a></h2>
 
- Geographic Information Systems (GIS) for web browsers. For managing, analyzing, editing, and visualizing geographic data.
+ Geographic Information Systems (GIS) for web browsers. <br>
+ For managing, analyzing, editing, and visualizing geographic data.
   
 <div>
     <a href="https://github.com/eurostat/gridviz" target="_blank">
@@ -113,20 +114,19 @@ Data available for download:
 
 - [ArcGIS Hub](https://hub.arcgis.com/) - Over 380,000 open datasets.
 - [Copernicus global DEM](https://ec.europa.eu/eurostat/web/gisco/geodata/digital-elevation-model/copernicus#Elevation) - Global elevation tiles.
-- [Copernicus open access hub](https://scihub.copernicus.eu) - Copernicus satellite imagery download.
+- [Copernicus open access hub](https://www.copernicus.eu/en/access-data/conventional-data-access-hubs) - Copernicus satellite imagery download.
 - [ETOPO1](https://www.ngdc.noaa.gov/mgg) - 1 arc-minute global relief model of Earth's surface.
 - [European population grids - GISCO](https://ec.europa.eu/eurostat/web/gisco/geodata/grids) - Population figures in grid cells.
 - [European Postcodes Point Data](https://ec.europa.eu/eurostat/web/gisco/geodata/administrative-units/postal-codes) - Location of postal codes across Europe.
 - [Geoboundaries](https://www.geoboundaries.org/) - The world's largest open, free political boundaries database.
 - [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/) - Open access to biodiversity data.
-- [Global Climate Monitor](https://www.globalclimatemonitor.org/) - Global open climate data.
+- [Global Climate Monitor](https://kerdoc.cica.es/) - Global open climate data.
 - [Global power plant database](https://datasets.wri.org/dataset/globalpowerplantdatabase) - Open source database of power plants.
 - [Galileo](https://galileo.gisdata.io/) - Geospatial data discovery and management platform.
 - [Healthcare Services in Europe](https://ec.europa.eu/eurostat/web/gisco/geodata/basic-services#Healthcare) - Locations of healthcare services in Europe.
 - [HydroSHEDS](https://www.hydrosheds.org/) - Consistent hydrographic data for global applications.
 - [NASA Earth Data](https://search.earthdata.nasa.gov/search) - Search, discover, visualize, refine, and access NASA Earth Observation data in your browser with Earthdata Search.
 - [NASA Earth Observations](https://neo.gsfc.nasa.gov/) - Browse and download satellite data imagery.
-- [NASA SEDAC](https://earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-uspat-guppd-v1-1.00) - Global Urban Polygons and Points Dataset.
 - [Natural Earth](https://www.naturalearthdata.com/) - Free vector and raster map data.
 - [OpenAerialMap](https://openaerialmap.org/) - Open service for accessing licensed imagery.
 - [OpenMapTiles](https://openmaptiles.org/) - Free OpenStreetMap Vector Tiles.
@@ -246,6 +246,9 @@ Plug-and-play geospatial web apps:
 - [StoryMap JS](https://storymap.knightlab.com/) - Open-source alternative to ESRI's Story Map application.
 - [TopoExport](https://topoexport.com) - Export 2D contour lines and 3D topography using open-source datasets.
 - [uMap](https://github.com/umap-project/umap) - Create maps with OpenStreetMap layers and embed them in your site.
+- [bboxFinder](http://bboxfinder.com/) - Helper page for finding bbox values from a map.
+- [geojson.io](https://geojson.io/) - A quick, simple tool for creating, viewing, and sharing spatial data.
+- [GeoJSONLint](https://geojsonlint.com/) - Use this site to validate and view your GeoJSON.
 
 
 ## 🎨 Colour advice 
@@ -280,6 +283,7 @@ Videos of web mapping presentations and tutorials:
 - [A Workbook for Interactive Cartography and Visualization on the Open Web](https://github.com/uwcartlab/webmapping) - Robert Roth, Carl Sack, Gareth Baldrica-Franklin, Yuying Chen, Rich Donohue, Lily Houtman, Tim Prestby, Robin Tolochko, Nick Underwood.
 - [Thematic Mapping: 101 Inspiring Ways to Visualise Empirical Data](https://www.esri.com/en-us/esri-press/browse/thematic-mapping) - Kenneth Field.
 - [Color use guidelines for mapping and visualization](https://colorbrewer2.org/learnmore/schemes_full.html#qualitative) - Cynthia A. Brewer.
+- [Geospatial Network Visualization](https://geonetworks.github.io/) - A collection of visualization techniques for geospatial network data.
 
 
 ## Contributing
