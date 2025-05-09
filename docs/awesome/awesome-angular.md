@@ -471,6 +471,7 @@ become an Angular expert.
 * [angular-codx-recipe](https://www.npmjs.com/package/angular-codx-recipe) -  A [Codx](https://github.com/marmotz-dev/codx) recipe for setting up Angular projects quickly and efficiently.
 * [ngx-create](https://github.com/maran-t/ngx-create) - A lightweight CLI for quickly generating Angular projects with optional frameworks like Material, Tailwind, Bootstrap, and NgRx.
 * [rafacli](https://github.com/rafa00716/rafacli) - A command-line tool designed to generate authentication and CRUD modules (and more soon) for NestJS and Angular applications. It streamlines the development process by automating boilerplate code creation, reducing repetitive tasks, and ensuring consistency across projects.
+* [mcp-angular-cli](https://github.com/talzach/mcp-angular-cli) - A Model Context Protocol server that provides Angular CLI and workspace automation capabilities. This server enables LLMs and agents to interact with Angular projects, generate components/services, add packages, create new workspaces, and run custom architect targets via the Angular CLI.
 
 #### Deployment
 
@@ -946,6 +947,7 @@ become an Angular expert.
 * [stryker-js](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends.
 * [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 * [shallow-render](https://github.com/getsaf/shallow-render) - Angular testing made easy with shallow rendering and easy mocking.
+* [@storybookjs/testing-angular](https://github.com/storybookjs/testing-angular) - Testing utilities that allow you to reuse your stories in your unit tests.
 
 #### Updating
 
@@ -1124,6 +1126,8 @@ become an Angular expert.
 * [ngx-tabulator-tables](https://github.com/knackstedt/ngx-tabulator-tables) - Angular wrapper for the [Tabulator](https://tabulator.info/) table library.
 * [ngx-simple-material-table](https://github.com/holographic-blockchain/ngx-simple-material-table) - Angular library to simplify usage of the Angular Material table component.
 * [activereportsjs/angular-reporting-tool](https://developer.mescius.com/activereportsjs/angular-reporting-tool) - A set of Angular components used for data consolidation and visualization. [ActiveReportsJS](https://developer.mescius.com/activereportsjs) is a solution used by Angular developers to embed reporting within web applications.
+* [ngx-s-data-table](https://github.com/Samuel-Pinheiro-C-Lopes/ngx-s-data-table) - An Angular module for a data table that automatically maps data from a specified class. It also allows users to provide custom mappings for greater flexibility in rendering data.
+* [mat-datatable](https://github.com/BePo65/mat-datatable) - A simple data table with virtual scrolling using Angular Material.
 
 #### Dates
 
@@ -1190,6 +1194,7 @@ become an Angular expert.
 * [mTruncate](https://github.com/MomenWalid/Truncate) - A lightweight and customizable Angular directive for truncating text with support for tooltips.
 * [ngx-autofocus](https://github.com/eurusik/ngx-autofocus) - A powerful, flexible Angular directive for automatic element focusing.
 * [ng-dynamic-component](https://github.com/gund/ng-dynamic-component) - Dynamic components with full life-cycle support for inputs and outputs for Angular.
+* [ngx-pipe-lib](https://github.com/mofirojean/ngx-pipe-lib) - Common angular pipe examples for your day to day tasks.
 
 #### Drag and Drop
 
@@ -1860,6 +1865,7 @@ for the creation of web applications developed with Angular.
 * [yoozsoft](https://www.yoozsoft.com/ys-ng/home) - Widgets built using Bootstrap 5, CSS, and NG Bootstrap 17 with APIs designed for the Angular ecosystem.
 * [ngx-gccb](https://www.npmjs.com/package/ngx-gccb) - Angular 19+ component library providing ease of use shared components, directives, pipes and services.  Check this [showcase](https://ngx-gccb.netlify.app/) for code snippets.
 * [Elementar UI](https://elementarui.com/) - Fully open-source Angular UI Components & Admin Panel based on Material 3 and Tailwind.
+* [ez-nav](https://github.com/pSkywalker/ez-nav) - A config-driven, responsive Angular navigation bar that integrates seamlessly with Bootstrap layouts.
 
 ##### Tailwind CSS Based
 

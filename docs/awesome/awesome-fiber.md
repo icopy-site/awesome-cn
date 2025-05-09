@@ -106,6 +106,7 @@ List of middlewares that are created by the Fiber community.
 - [jsorb84/ssefiber](https://github.com/jsorb84/ssefiber) - A basic SSE Implementation for Fiber.
 - [streamerd/fibergun](https://github.com/streamerd/fibergun) - A GunDB middleware for Fiber. Enables easy integration of GunDB, a decentralized database.
 - [apitally/apitally-go](https://github.com/apitally/apitally-go) - Simple API monitoring tool for Fiber. Tracks API usage, errors, and performance, and includes request logging and alerting features.
+- [newrelic/go-agent](https://github.com/newrelic/go-agent/tree/master/v3/integrations/nrfiber) - Official New Relic middleware for Fiber that manages instrumentation for New Relic monitoring.
 
 ## 🚧 Boilerplates
 

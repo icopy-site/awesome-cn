@@ -18,7 +18,7 @@ System integration is the process of linking together different IT systems (com
 - [Azure API Management](https://azure.microsoft.com/en-us/services/api-management/) - A hybrid, multicloud solution that simplifies API lifecycle management with comprehensive security and analytics.
 - [Boomi Cloud API Management](https://developer.mashery.com/) - A cloud-native platform enabling seamless API deployment and centralized management with strong integration capabilities.
 - [DigitMarket API Manager](https://www.torryharris.com/products/digitmarket-api-manager-for-api-management) - Transforms APIs into strategic business tools through end-to-end lifecycle management and enhanced operational insights.
-- [Gravitee.io API Management (⭐247)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
+- [Gravitee.io API Management (⭐248)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
 - [IBM API Connect](https://www.ibm.com/cloud/api-connect) - Provides a scalable, secure, and intuitive environment for creating, managing, and monetizing APIs across clouds.
 - [IBM webMethods API Management](https://www.ibm.com/products/webmethods-api-management) - Offers a comprehensive suite for API lifecycle management that seamlessly integrates on-premises and cloud systems.
 - [Kong Enterprise](https://konghq.com/products/kong-enterprise) - A cloud-native, enterprise-grade solution that enhances API connectivity, microservices orchestration, and security via a rich plugin architecture.
@@ -26,7 +26,7 @@ System integration is the process of linking together different IT systems (com
 - [Red Hat 3scale API Management](https://www.redhat.com/en/technologies/jboss-middleware/3scale) - Simplifies API monetization and governance with a cloud-native approach and powerful scaling capabilities.
 - [Sensedia API Management](https://www.sensedia.com/api-management-platform) - Provides a full-lifecycle API solution with advanced security, performance monitoring, and streamlined integration.
 - [Tyk API Management](https://tyk.io/api-lifecycle-management/) - Delivers high-performance, open-source API management focused on flexibility, robust security, and scalability.
-- [WSO2 API Manager (⭐889)](https://github.com/wso2/product-apim) - A fully open-source API platform offering robust governance, flexible deployment, and community-driven innovation.
+- [WSO2 API Manager (⭐893)](https://github.com/wso2/product-apim) - A fully open-source API platform offering robust governance, flexible deployment, and community-driven innovation.
 - [Zuplo API Management](https://zuplo.com) - A developer-centric, lightweight platform featuring GitOps integration, rapid edge deployment, extensive OpenAPI support, and seamless monetization.
 <!--lint disable-->
 <!--lint enable-->
@@ -34,7 +34,7 @@ System integration is the process of linking together different IT systems (com
 *API design, documentation, and life-cycle automation tools streamline the process of creating, maintaining, and evolving APIs. These tools offer efficient means to design consistent and scalable APIs, generate comprehensive documentation, and automate various stages of the API life-cycle, enhancing developer experience and promoting API adoption.*
 - [Dredd (⭐4.2k)](https://github.com/apiaryio/dredd) - Validate API description docs against backend implementation using this language-agnostic CLI tool.
 - [OpenAPI-GUI (⭐1.4k)](https://github.com/Mermade/openapi-gui) - Create and validate OpenAPI specs with ease using this intuitive graphical user interface.
-- [OpenAPI Diff (⭐913)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+- [OpenAPI Diff (⭐919)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
 - [OpenAPI Generator (⭐23k)](https://github.com/OpenAPITools/openapi-generator) - Automate the creation of API client libraries, server stubs, documentation and config files with this powerful OpenAPI Spec tool.
 - [OpenAPI Style Validator (⭐214)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
 - [Spectral (⭐2.7k)](https://github.com/stoplightio/spectral) - Detect and fix errors in your JSON/YAML files using this linter tool that supports OpenAPI 3.0 & 2.0 and AsyncAPI.
@@ -54,7 +54,7 @@ System integration is the process of linking together different IT systems (com
 - [SwaggerHub](https://swagger.io/tools/swaggerhub/) - An integrated API design and documentation hub that enhances team collaboration, version control, and automated testing.
 - [Swagger UI (⭐27k)](https://github.com/swagger-api/swagger-ui) - Offers an interactive, in-browser tool for visualizing and testing APIs directly from OpenAPI specifications.
 - [SpectaQL (⭐1.1k)](https://github.com/anvilco/spectaql) - Generates static, customizable documentation for GraphQL schemas, making complex API structures easy to understand.
-- [Zudoku (⭐187)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
+- [Zudoku (⭐191)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
 
 <!--lint disable-->
 <!--lint enable-->
@@ -82,9 +82,10 @@ System integration is the process of linking together different IT systems (com
    - [curl (⭐37k)](https://github.com/curl/curl) - A versatile command-line tool for data transfer across multiple protocols, essential for quick API testing.
    - [curlie (⭐3.1k)](https://github.com/rs/curlie) - A modern, user-friendly frontend to curl that combines simplicity with powerful performance.
    - [HTTPie (⭐35k)](https://github.com/httpie/httpie) - An intuitive CLI HTTP client that simplifies crafting API requests and inspecting responses.
+   - [HttpMaster](https://www.httpmaster.net/) - Free and lightweight desktop tool for HTTP testing and debugging.
    - [Hoppscotch (⭐71k)](https://github.com/hoppscotch/hoppscotch) - A lightweight, web-based API development tool offering real-time testing with an intuitive interface.
    - [Insomnia (⭐36k)](https://github.com/Kong/insomnia) - A cross-platform client that streamlines API debugging and testing for both REST and GraphQL services.
-   - [posting (⭐8.8k)](https://github.com/darrenburns/posting) - A modern, terminal-based API client designed for efficient and seamless API interactions.
+   - [posting (⭐8.9k)](https://github.com/darrenburns/posting) - A modern, terminal-based API client designed for efficient and seamless API interactions.
    - [Postman](https://www.postman.com/product/api-client/) - The industry-standard tool for API development and testing, featuring automation, mock servers, and collaborative documentation.
    - [resty (⭐2.6k)](https://github.com/micha/resty) - A Lua-based HTTP client framework providing an interactive shell for streamlined REST service testing.
    - [SoapUI (⭐1.6k)](https://github.com/SmartBear/soapui) - A comprehensive open-source solution for testing both SOAP and REST web services with extensive automation features.
@@ -96,11 +97,11 @@ System integration is the process of linking together different IT systems (com
    - [Service Bus Explorer (⭐2k)](https://github.com/paolosalvatori/ServiceBusExplorer) - An advanced GUI for Azure Service Bus that enables in-depth testing and seamless management of topics, queues, and subscriptions.
 - Mocking tools
    - [Hoverfly (⭐2.4k)](https://github.com/SpectoLabs/hoverfly) - A lightweight API simulation tool that enables rapid HTTP(S) service virtualization for efficient testing.
-   - [Imposter (⭐389)](https://github.com/outofcoffee/imposter) - A flexible mock server supporting REST, OpenAPI, SOAP, and more to simulate diverse API behaviors.
+   - [Imposter (⭐390)](https://github.com/outofcoffee/imposter) - A flexible mock server supporting REST, OpenAPI, SOAP, and more to simulate diverse API behaviors.
    - [Microcks (⭐1.6k)](https://github.com/microcks/microcks) - A Kubernetes-native tool for API mocking and testing that supports AsyncAPI, OpenAPI, and Postman Collections.
    - [Mockable](https://www.mockable.io/) - An easy-to-configure service for creating custom HTTP responses, ideal for rapid prototyping and testing.
    - [Mockbin (⭐106)](https://github.com/zuplo/mockbin) - A simple endpoint generator for testing HTTP requests with real-time logging and feedback.
-   - [Mockoon (⭐7k)](https://github.com/mockoon/mockoon) - A user-friendly tool for designing and running mock REST APIs with real-time simulation and easy setup.
+   - [Mockoon (⭐7.1k)](https://github.com/mockoon/mockoon) - A user-friendly tool for designing and running mock REST APIs with real-time simulation and easy setup.
    - [MockServer (⭐4.7k)](https://github.com/mock-server/mockserver) - A powerful solution for mocking any HTTP/HTTPS-based service, streamlining integration testing.
    - [Mocky (⭐2k)](https://github.com/MockyAbstract/Mocky) - A free online service that generates custom HTTP responses for testing API endpoints.
    - [Prism (⭐4.5k)](https://github.com/stoplightio/prism) - An open-source HTTP mock server that replicates API behavior for early testing and validation.
@@ -308,7 +309,7 @@ System integration is the process of linking together different IT systems (com
 - [IFTTT](https://ifttt.com/) - Easy-to-use platform that connects web services with simple conditional statements, empowering custom workflow creation.
 - [Make (Integromat)](https://www.make.com) - Low-code automation tool with a visual interface, advanced data transformation, and modular workflow execution.
 - [Microsoft Power Automate](https://powerautomate.microsoft.com) - Cloud-based service with an intuitive interface for creating automated workflows that seamlessly integrate diverse apps.
-- [n8n (⭐89k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
+- [n8n (⭐91k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
 - [Oracle Self-Service Integration](https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/index.html) - Streamlined tool that automates tasks between cloud applications, making integration accessible for non-developers.
 - [Zapier](https://zapier.com/) - Intuitive platform that connects hundreds of web services to create efficient, code-free automations.
 
@@ -320,9 +321,9 @@ System integration is the process of linking together different IT systems (com
 - [Apache Airflow (⭐39k)](https://github.com/apache/airflow) - Platform for programmatically creating, scheduling, and monitoring workflows, ideal for managing complex data pipelines.
 - [Argo Workflows (⭐15k)](https://github.com/argoproj/argo-workflows) - Container-native workflow engine designed for orchestrating parallel jobs in Kubernetes-based, cloud-native environments.
 - [Azkaban (⭐4.4k)](https://github.com/azkaban/azkaban) - Distributed scheduler that simplifies managing job dependencies in large-scale data processing environments.
-- [Bonita (⭐165)](https://github.com/bonitasoft/bonita-engine) - Open-source BPMN engine with a designer interface to build and automate complex business processes.
+- [Bonita (⭐166)](https://github.com/bonitasoft/bonita-engine) - Open-source BPMN engine with a designer interface to build and automate complex business processes.
 - [Cadence (⭐8.6k)](https://github.com/uber/cadence) - Fault-tolerant, stateful platform that reliably orchestrates long-running workflows and complex applications.
-- [Camunda (⭐4.1k)](https://github.com/camunda/camunda-bpm-platform) - Flexible workflow and decision automation platform designed for scalable business process management.
+- [Camunda (⭐4.2k)](https://github.com/camunda/camunda-bpm-platform) - Flexible workflow and decision automation platform designed for scalable business process management.
 - [Conductor (⭐12k)](https://github.com/Netflix/conductor) - Cloud-based orchestration engine that manages microservices workflows, streamlining complex process automation.
 - [Elsa Core (⭐7k)](https://github.com/elsa-workflows/elsa-core) - .NET Core library that integrates seamlessly into any application to execute and manage workflows.
 - [Flowable (⭐8.3k)](https://github.com/flowable/flowable-engine) - Compact, efficient set of open-source engines for automating and scaling enterprise workflows.

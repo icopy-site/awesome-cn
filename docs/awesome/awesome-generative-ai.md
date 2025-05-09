@@ -339,7 +339,6 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [Vibe Transcribe](https://thewh1teagle.github.io/vibe/) - All-in-one solution for effortless audio and video transcription. [#opensource](https://github.com/thewh1teagle/vibe)
 - [whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++. #opensource
 
-
 ### Music
 
 - [Harmonai](https://www.harmonai.org/) - We are a community-driven organization releasing open-source generative audio tools to make music production more accessible and fun for everyone.
@@ -375,6 +374,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) - Strategies and tactics for getting better results from large language models.
 - [PromptPerfect](https://promptperfect.jina.ai/) - Tool for prompt engineering.
 - [Anthropic courses](https://github.com/anthropics/courses) - Anthropic's educational courses.
+- [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) - A guide to building your own working LLM, by Sebastian Raschka.
 
 ## More lists
 
