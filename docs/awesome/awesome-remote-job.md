@@ -39,7 +39,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Articles & Posts
   1. [3 mistakes to avoid if you want to get hired remotely](https://x-team.com/blog/mistakes-remote-developers)
-  1. [5 Little-Known Hacks for Finding Remote Work](https://hubstaff.com/blog/hacks-find-remote-jobs/)
   1. [5 Things I've Learned From Working Remotely](https://www.donedone.com/blog/five-things-ive-learned-working-remotely)
   1. [5 Tricks to Get More Done While Working Remotely](https://rdutel.medium.com/working-remotely-getting-things-done-38dcd0413733)
   1. [8 tips that will make you a more active, healthier remote developer](https://x-team.com/blog/how-to-be-healthy-remote)
@@ -168,7 +167,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [thatmlopsguy/remote-pt](https://github.com/thatmlopsguy/remote-pt) - Repository listing companies which offer full-time remote jobs with Portuguese contracts
   1. [remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech
   1. [Remotees](https://weworkremotely.com/?utm_source=Remotees&utm_medium=Redirect&utm_campaign=Remotees)
-  1. [Remote.co Jobs](https://remote.co/remote-jobs/)
   1. [RemoteJobs.lat](https://remotejobs.lat/) -  Remote jobs for LATAM people
   1. [Remotive Jobs](https://remotive.com/)
   1. [Remote People](https://remotepeople.io/)
@@ -313,7 +311,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Ciao Bambino](https://ciaobambino.com/) - Family destinations and hotel reviews.
   1. [Circonus](https://www.apica.io) - SaaS and on-prem monitoring, analytics, alerting, and more.  C, Go, Java, Perl.  HQ in Fulton MD, most employees are remote.
   1. [Clevertech](https://lumenalta.com/remote-jobs) - We build incredible, game-changing technology.
-  1. [Close](https://jobs.lever.co/close.io/) - Inside sales CRM for startups and SMBs.
   1. [Codeship](https://www.cloudbees.com/products/codeship) - SaaS Continuous Delivery
   1. [CodeWeavers](https://www.codeweavers.com/about/jobs) - Wine-based open source software.
   1. [Collabora](https://www.collabora.com/careers.html) - Open source software-based consulting.
@@ -370,7 +367,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Heroku](https://www.heroku.com/careers) - PaaS Cloud, makes devs' experience awesome, Ruby, Erlang, JavaScript, Golang, Python.
   1. [Honeybadger](https://www.honeybadger.io/) - Ruby. 100% remote.
   1. [Hotjar](https://www.hotjar.com/careers/) - Analytics & Feedback tool.
-  1. [Hubstaff](https://hubstaff.com/jobs) - Time tracking solution with multiple integrations.
   1. [Igalia](https://www.igalia.com/about/) - Open source consultancy. HQ in Spain.
   1. [Incsub](https://incsub.com/careers/) - Remote team that builds WordPress projects.
   1. [Inpsyde GmbH](https://syde.com/) - WordPress Agency in Germany.
@@ -504,7 +500,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Q&A
   1. Quora: [Telecommuting and Working Remotely](https://www.quora.com/topic/Telecommuting-and-Working-Remotely) / [Virtual Workplace](https://www.quora.com/topic/Virtual-Workplace) / [Working at Home](https://www.quora.com/topic/Working-at-Home)
-  1. Remote.co: [Q&A's with 90+ Remote Companies](https://remote.co/qa-leading-remote-companies/)
   1. StackExchange
     - Workplace: [telecommute](https://workplace.stackexchange.com/questions/tagged/telecommute?sort=votes)
     - Freelancing: [remote](https://freelancing.stackexchange.com/questions/tagged/remote?sort=votes) / [working from home](https://freelancing.stackexchange.com/questions/tagged/working-from-home?sort=votes)
@@ -513,7 +508,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/?rdt=54904) - Subreddit.
   1. [##remotes](https://github.com/remotesclub/remotes) - IRC channel 
   1. [Hacker Paradise](https://www.hackerparadise.org/) - Traveling remote workers.
-  1. [Remote Year](https://www.remoteyear.com/) - Traveling techies for 1 year.
   1. [Remote Indian](https://remoteindian.com/) - Remote workers from India.
   1. [Eleduck](https://eleduck.com) - A remote worker community in China(来自中国的远程工作社区).
   1. [Invide](https://www.invidelabs.com/developer.html) - Invite-only community of experienced remote developers since 2016. Also has a [public discord community](https://discord.com/invite/92q23kCad2) for newbies.
@@ -583,7 +577,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Others
   1. [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
   1. [Established Remote](https://github.com/yanirs/established-remote) - A list of established remote companies
-  1. [Hacker Spaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces) - List of hacker spaces.
   1. [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
   1. [Nomad List](https://nomads.com/) - Compare cost and quality of living in different cities.
   1. [Regus USA](https://www.regus.com/en-gb) - Executive suites, virtual offices & conference room space.

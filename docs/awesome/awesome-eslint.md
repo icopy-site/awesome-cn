@@ -65,6 +65,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - Various awesome ESLint rules.
 - [@mysticatea/eslint-plugin](https://github.com/mysticatea/eslint-plugin) - Misc. rules.
 - [@brettz9/eslint-plugin](https://github.com/brettz9/eslint-plugin) - Misc. rules. of `@mysticatea` without the personal config.
+- [De Morgan](https://github.com/azat-io/eslint-plugin-de-morgan) - Transforms logical expressions in code to make them easier to understand.
 
 ### Compatibility
 
@@ -81,6 +82,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - Styled Components
   - [Better Styled Components](https://github.com/tinloof/eslint-plugin-better-styled-components) - Auto fixable ESlint's rules for styled components.
   - [styled-components-a11y](https://github.com/brendanmorrell/eslint-plugin-styled-components-a11y) - A11y for Styled Components.
+- [vanilla-extract](https://github.com/antebudimir/eslint-plugin-vanilla-extract) - An ESLint plugin for enforcing CSS property ordering in [vanilla-extract CSS](https://github.com/vanilla-extract-css/vanilla-extract) styles.
 
 ### Deprecation
 
@@ -222,9 +224,11 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [filenames](https://github.com/selaux/eslint-plugin-filenames) - Ensure consistent filenames for your JavaScript files. No longer maintained and does not work with ESlint 9 at all.
 - [Simple import sort](https://github.com/lydell/eslint-plugin-simple-import-sort) - Easy autofixable import sorting.
 - [perfectionist sorting](https://github.com/azat-io/eslint-plugin-perfectionist) - Sort objects, imports, TypeScript types, enums, JSX props, etc.
+- [split-and-sort-imports](https://github.com/sngn/eslint-plugin-split-and-sort-imports) - Sorts imports and splits 'multiple' imports into single line imports.
 - [Switch case](https://github.com/lukeapage/eslint-plugin-switch-case) - Switch-case-specific linting rules for ESLint.
 - [padding](https://github.com/mu-io/eslint-plugin-padding) - Allows/disallows padding between statements.
 - [paths](https://github.com/vitonsky/eslint-plugin-paths) - Use paths from tsconfig/jsconfig and auto fix relative paths to aliases.
+- [@gitbutler/no-relative-imports](https://www.npmjs.com/package/@gitbutler/no-relative-imports) - Use paths from tsconfig and auto fix relative paths to aliases. Observes tsconfig inheritance.
 
 ### Testing Tools
 
@@ -313,6 +317,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Linting React JSX with ESLint (in ES6)](https://egghead.io/lessons/react-linting-react-jsx-with-eslint-in-es6) - Video showing how to use React and JSX with ESLint.
 - [Plugin Module with Mixins](https://chrysanthium.com/eslint-integration) - Article on how to write a plugin as a node module containing modular mixin configuration.
 - [Writing a rule to spot undeclared props hiding in plain sight](http://blog.cowchimp.com/writing-a-custom-eslint-rule-to-spot-undeclared-props/) - Article about creating rules that require scope analysis.
+- [Dear Old ESLint](https://adropincalm.com/blog/dear-old-eslint/) - Quick intro article on ESLint.
 
 ## Installation and Setup
 
