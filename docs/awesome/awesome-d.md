@@ -415,6 +415,7 @@
 * [Voxelman](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language
 * [PolyplexEngine](https://github.com/PolyplexEngine/libpp) - libpp is an XNA like framework written in D.
 * [rengfx](https://github.com/bmchtech/rengfx) - lightweight, expressive, extensible 2D/3D game engine.
+* [Parin](https://github.com/Kapendev/parin) - A delightfully simple and lightweight 2D game engine.
 
 ## Games
 
