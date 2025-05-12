@@ -735,8 +735,8 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 - [SnapLogic Administrator Certification](https://learn.snaplogic.com/snaplogic-administrator-certification) - Assesses your ability to handle administrative tasks for SnapLogic instances.
 - [SnapLogic Architect Certification](https://learn.snaplogic.com/snaplogic-architect-certification) - Evaluates your knowledge of integration reference architectures and key strategies for the SnapLogic platform, covering topics like SnapLogic Architecture, Snaplex Requirements, Pipeline Lifecycle Management, Advanced Data Transformations, API Management, Resumable Pipelines, and Best Practices.
-- [SnapLogic Certified Enterprise Automation Professional](https://learn.snaplogic.com/snaplogic-certified-automation-professional) - An advanced certification covering topics like SnapLogic platform, asset management, workflows, expression language, tasks, pipeline modularization, migration, and user assistance videos for various endpoints.
 - [SnapLogic Developer Certification](https://learn.snaplogic.com/snaplogic-developer-certification) - Testing your expertise in using the SnapLogic SDK, implementing different parts of Snap functionality, and building custom Snaps.
+- [SnapLogic Integrator Accreditation](https://learn.snaplogic.com/snaplogic-accreditation) - It's designed for those who want to enhance their expertise on all core SnapLogic concepts for various integration needs across industries and lines of business.
 - [SnapLogic Integrator Certification](https://learn.snaplogic.com/snaplogic-integrator-certification-1) - Focuses on topics such as beginner training, ultra tasks, pipeline migration, and user assistance videos covering various integration endpoints.
 
 </details>
