@@ -41,6 +41,7 @@ _Framework useful to develop your BLE peripherals._
 _Software libraries and frameworks for integrating Bluetooth Low Energy (BLE) functionality into various platforms, including mobile, embedded systems, and IoT devices._
 
 - [bluepy](https://github.com/IanHarvey/bluepy) - A Python interface for Bluetooth LE on Linux.
+- [Bluetooth](https://github.com/PureSwift/Bluetooth) - Bluetooth is a Swift multiplatform package with multiple libraries supporting the Bluetooth SIG specifications.
 - [bluez](http://www.bluez.org/) - The official Linux Bluetooth protocol stack.
 - [bumble](https://github.com/google/bumble) - Bumble is a full-featured Bluetooth stack written entirely in Python.
 - [pygatt](https://github.com/peplin/pygatt) - A Python library for interacting with BLE devices.
@@ -56,6 +57,7 @@ _iOS libraries, tools, and resources for developing Bluetooth Low Energy (BLE) a
 - [iOS DFU Library](https://github.com/NordicSemiconductor/IOS-DFU-Library) - DFU application allows to flash new firmware on the DK.
 - [Rx Bluetooth Kit](https://github.com/Polidea/RxBluetoothKit) - RxBluetoothKit is a Bluetooth library that makes interaction with BLE devices much more pleasant using RxSwift.
 - [Swifty Sensors](https://github.com/codeinversion/sensors-swift) - Bluetooth LE Sensor Manager for iOS and macOS.
+- [SpeziBluetooth](https://github.com/StanfordSpezi/SpeziBluetooth) - Connect and communicate with Bluetooth devices using modern programming paradigms.
 
 ## KMM
 
