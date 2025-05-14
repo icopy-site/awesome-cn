@@ -40,14 +40,14 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 
 > Despite having a presence on GitHub, the core sources of these applications are at this time closed, or the licenses are unspecified.
 
-- [Agorize](https://github.com/agorize) - A French company that provides open innovation software.
-- [Devfolio](https://github.com/devfolioco) - Supporting India's 'largest and fastest growing community of builders'.
-- [Devpost](https://github.com/challengepost) - U.S. company whose customers market developer tools and jobs to the community.
-- [Hacksuite](https://github.com/DevtranetHQ/Hacksuite) - A fullstack suite of apps from Devtranet for hosting virtual hackathons.
+- [Agorize](https://github.com/agorize) ([www](https://www.agorize.com/)) - A French company that provides open innovation software.
+- [Devfolio](https://github.com/devfolioco) ([www](https://devfolio.co/)) - Supporting India's 'largest and fastest growing community of builders'.
+- [Devpost](https://github.com/challengepost) ([www](https://devpost.com)) - Recognizable U.S. company, whose customers market developer tools and jobs to the community.
+- [HackHub](https://github.com/hackhub-team) ([www](https://www.hackhub.com/event), [docs](https://help.hackhub.com/)) - Canadian company with a featureful event and talent scouting app.
 - [Hackworks](https://github.com/hackworks) ([docs](https://help.hackworks.com/knowledge)) - Open innovation challenge platform from experienced event organizers in Canada. 
-- [Nosu](https://www.nosu.io/) - New VC funded AI tools for announcing, generating and quickly checking hackathon projects from true fans of the genre.
-- [Stackref](https://github.com/StackRef) ([docs](https://docs.stackref.com/)) - Internal hackathon and ideation, with cloud provisioning and judging features.
-- [TAIKAI](https://github.com/taikai) - Connects creators and companies, using hackathons, bounties and hiring challenges.
+- [Nosu](https://www.nosu.io/) (formerly Sprint.dev) - AI tools to manage hackathons, aiming to upend tech recruiting by quantifying hackathon performance.
+- [Stackref](https://github.com/StackRef) ([www](https://github.com/dribdat/awesome-hackathon/blob/master/[docs](https://docs.stackref.com/)) - Internal hackathon and ideation, with cloud provisioning and judging features.
+- [TAIKAI](https://github.com/taikai) ([www](https://taikai.network/)) - Connects creators and companies, using hackathons, bounties and hiring challenges.
 
 ### Unmaintained 🧊
 
@@ -56,6 +56,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [chronicel](https://github.com/kbohinski/chronicel) - A minimal registration system for a smaller, more personal hackathon.
 - [Find Hackathon](https://github.com/Find-Hackathon) - A Cross-Platform Mobile Application for finding Hackathons.
 - [Hackfoldr](https://github.com/hackfoldr/hackfoldr) - Organize gdoc and hackpad documents for hackathons.
+- [Hacksuite](https://github.com/DevtranetHQ/Hacksuite) - A fullstack suite of apps from [Devtranet](https://devtranet.tech/) for hosting virtual hackathons.
 - [Kent Hack Enough](https://github.com/hacksu/kenthackenough) - Legacy registration and staff management API for HackSU events.
 - [LaraHack](https://github.com/ScientificClubofESI/LaraHack) - Administration system designed for hackathons and similar competitions.
 - [Ninjathon](https://github.com/shilomagen/hackathon-matching-platform) - Hackathon managing platform.

@@ -18,7 +18,7 @@ Algorand is an open-source, proof of stake blockchain and smart contract computi
     <a target="_blank" href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand"><img src="https://img.shields.io/badge/url-repository-black.svg" /></a>
     <br />
     <a target="_blank" href="https://rss.com/podcasts/the-awesomealgo-podcast"><img src="https://img.shields.io/badge/podcast-rss-black.svg?color=gold" /></a>
-    <a target="_blank" href="https://developer.algorand.org"><img src="https://img.shields.io/coincap/price-usd/algorand?color=teal" /></a>
+    <a target="_blank" href="https://coinmarketcap.com/currencies/algorand/"><img src="https://img.shields.io/badge/coinmarketcap-price-black.svg?color=teal" /></a>
     <a target="_blank" href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand"><img src="https://img.shields.io/github/stars/aorumbayev/awesome-algorand?color=teal" /></a>
     <a target="_blank" href="https://raw.githubusercontent.com/aorumbayev/awesome-algorand/network/members"><img src="https://img.shields.io/github/forks/aorumbayev/awesome-algorand?color=gold" /></a>
 </p>

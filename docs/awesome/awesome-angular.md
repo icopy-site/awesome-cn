@@ -371,6 +371,7 @@ become an Angular expert.
 * [augment code](https://www.augmentcode.com/) - The first AI coding assistant built for professional software engineers and large codebases.
 * [ai-friendly-docs](https://github.com/gergelyszerovay/ai-friendly-docs) - This repository offers Angular documentation specifically optimized for AI, making it highly accessible to Large Language Models (LLMs) and enhancing their response quality.
 * [@angular/examples](https://github.com/angular/examples) - Angular Examples using [GenKit](https://firebase.google.com/docs/genkit) and [Vertex AI](https://cloud.google.com/vertex-ai).
+* [agent-rules-kit](https://github.com/tecnomanu/agent-rules-kit) - A CLI tool that facilitates the installation and configuration of rules for Cursor AI, the AI-powered IDE. The rules help AI agents better understand the structure, patterns, and best practices of different technology stacks.
 
 #### Analytics
 
@@ -1585,6 +1586,7 @@ to simplify usage and allow quick customization.
 * [mmstack](https://github.com/mihajm/mmstack) - A monorepo for mmstack libraries.
 * [@tomaszatoo/ngx-libs](https://github.com/tomaszatoo/ngx-libs) - Repository for some useful Angular libraries, such as [ngx-timer](https://www.npmjs.com/package/@tomaszatoo/ngx-timer).
 * [@shanieMoonlight/moonlight-repo](https://github.com/shanieMoonlight/moonlight-repo) - This monorepo contains a collection of open source Angular libraries and utilities developed by SpiderBaby, along with demo applications showcasing their usage.
+* [@jchpro/ng](https://github.com/jchpro/ng) - Monorepo of various libraries for Angular.  Visit [example page](https://ng.jchpro.pl/) for more info.
 
 #### Modals
 

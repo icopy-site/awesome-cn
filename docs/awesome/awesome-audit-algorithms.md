@@ -17,6 +17,7 @@ Nowadays, many algorithms (recommendation, scoring, classification) are operated
 - [Queries, Representation & Detection: The Next 100 Model Fingerprinting Schemes](https://arxiv.org/abs/2412.13021) - (AAAI) *Divides model fingerprinting into three core components, to identify ∼100 previously unexplored combinations of these and gain insights into their performance.*
 
 ### 2024
+- [Hardware and software platform inference](https://arxiv.org/pdf/2411.05197) - (arXiv) *A method for identifying the underlying GPU architecture and software stack of a black-box machine learning model solely based on its input-output behavior.*
 - [Auditing Local Explanations is Hard](https://arxiv.org/abs/2407.13281) - (NeurIPS) *Gives the (prohibitive) query complexity of auditing explanations.*
 - [LLMs hallucinate graphs too: a structural perspective](https://arxiv.org/abs/2409.00159) - (complex networks) *Queries LLMs for known graphs and studies topological hallucinations. Proposes a structural hallucination rank.*
 - [Fairness Auditing with Multi-Agent Collaboration](https://arxiv.org/pdf/2402.08522) - (ECAI) *Considers multiple
