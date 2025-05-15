@@ -269,7 +269,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [inih](https://github.com/benhoyt/inih) - Simple .INI file parser in C, good for embedded systems. [BSD-3-Clause]
 * [inih](https://github.com/jtilly/inih) - Single header only C++ version of [inih](https://github.com/benhoyt/inih). [BSD-3-Clause]
 * [ini-cpp](https://github.com/SSARCandy/ini-cpp) - Single header only C++ version, with some handy read/write interface, extend from [inih](https://github.com/benhoyt/inih). [BSD-3-Clause] [website](https://ssarcandy.tw/ini-cpp/index.html)
-* [iniparser](https://github.com/ndevilla/iniparser) - INI file parser. [MIT]*
+* [iniparser](https://github.com/ndevilla/iniparser) - INI file parser. [MIT]
 * [inipp](https://github.com/mcmtroffaes/inipp) - Simple header-only C++ ini parser and generator. [MIT]
 * [libconfig](https://github.com/hyperrealm/libconfig) - C, C++ library for processing structured configuration files. [LGPL-2.1] [website](https://hyperrealm.github.io/libconfig/)
 * [libconfuse](https://github.com/martinh/libconfuse) - Small configuration file parser library for C. [ISC]
@@ -339,6 +339,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser) - Small, easy-to-use and fast header-only library for reading CSV files. [BSD-3-Clause]
 * [Glaze](https://github.com/stephenberry/glaze) - High performance, header only, CSV library with reflection support. [MIT]
 * [lazycsv](https://github.com/ashtum/lazycsv) - A fast, lightweight and single-header csv parser for modern C++. [MIT]
+* [rapidcsv](https://github.com/d99kris/rapidcsv) - An easy-to-use, header-only C++ CSV parser library. [BSD-3-Clause]
 * [ssp](https://github.com/red0124/ssp) - A header only "csv" parser which is fast and versatile with modern C++ api. [MIT]
 * [Vince's CSV Parser](https://github.com/vincentlaucsb/csv-parser) - A fast, self-contained, streaming C++17 CSV parser with optional type-casting and statistics. [MIT]
 
@@ -520,7 +521,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [iup](https://www.tecgraf.puc-rio.br/iup) - Multi-platform toolkit for building graphical user interfaces. [MIT]
 * [libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports. [MIT]
 * [MyGUI](https://github.com/MyGUI/mygui) - Fast, flexible and simple GUI. [MIT]
-* [nana](http://nanapro.org/en-us/) - Nana is a cross-platform library for GUI programming in modern C++ style. [Boost]
+* [nana](https://github.com/cnjinhao/nana) - Nana is a cross-platform library for GUI programming in modern C++ style. [Boost]
 * [NanoGui](https://github.com/mitsuba-renderer/nanogui) - A minimalistic cross-platform widget library for OpenGL 3.x or higher. [BSD]
 * [NAppGUI](https://github.com/frang75/nappgui_src) - SDK for building cross-platform desktop apps in ANSI-C. [MIT] [website](https://nappgui.com/en/home/web/home.html)
 * [nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C gui library. [PublicDomain]
@@ -745,7 +746,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Boost.Multiprecision](https://github.com/boostorg/multiprecision) - provides higher-range/precision integer, rational and floating-point types in C++, header-only or with GMP/MPFR/LibTomMath backends. [Boost] [website](https://boost.org/libs/multiprecision)
 * [ceres-solver](http://ceres-solver.org/) - C++ library for modeling and solving large complicated nonlinear least squares problems from google. [BSD]
 * [CGAL](https://github.com/CGAL/cgal) - Collection of efficient and reliable geometric algorithms. [LGPL&GPL] [website](http://www.cgal.org/)
-* [cml](http://cmldev.net/) - free C++ math library for games and graphics. [Boost]
+* [cml](https://github.com/demianmnave/CML) - The configurable math library. [Boost]
 * [CNL](https://github.com/johnmcfarlane/cnl/) - A Compositional Numeric Library for C++. [Boost]
 * [DirectXMath](https://github.com/microsoft/DirectXMath) - An all inline SIMD C++ linear algebra library for use in games and graphics apps.
 * [Dlib](https://github.com/davisking/dlib) :zap: - A modern C++11 machine learning, computer vision, numerical optimization, and deep learning toolkit. [Boost] [website](http://dlib.net/)

@@ -455,6 +455,7 @@ become an Angular expert.
 * [angular-rspack](https://github.com/nrwl/angular-rspack) - [Rspack](https://github.com/web-infra-dev/rspack) plugin and tooling for Angular applications.
 * [ngx-devkit-builders](https://github.com/Celtian/ngx-devkit-builders) - This package contains Architect builders used to build and test Angular applications and libraries.
 * [angular-static-assets-hash](https://github.com/sitelint/angular-static-assets-hash) - Create a list of Angular static assets and a hash for each file.
+* [ngx-schematic-builder](https://github.com/kstepien3/ngx-schematic-builder) - A tool for building Angular schematic projects. Compiles and packages your custom schematics, preparing them for publishing and use.
 
 #### CLI
 
@@ -869,6 +870,7 @@ become an Angular expert.
 * [angular-clean-architecture](https://github.com/carlossalasamper/angular-clean-architecture) - An Angular scaffold with a clean architecture that is easy to understand.
 * [dataclouder-template-angular](https://github.com/dataclouder-dev/dataclouder-template-angular) - A ready-to-use Angular/Ionic template with Firebase Authentication integration.
 * [angular-tailwind-e-commerce-template](https://github.com/Kei-K23/angular-tailwind-e-commerce-template) - This responsive e-commerce template, built with Angular and TailwindCSS, combines modern aesthetics with functionality. Designed as a foundation for developing robust e-commerce applications, it features a sleek, customizable design, perfect for minimalist online shops.
+* [ngx-lib-starter-kit](https://github.com/r3zafa/ngx-lib-starter-kit) - This boilerplate helps you quickly set up and develop Angular libraries. It includes a pre-configured structure for components, services, utilities, themes, assets, and more. The project is optimized for scalability and maintainability.
 
 ##### Paid
 
