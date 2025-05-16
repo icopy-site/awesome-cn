@@ -255,6 +255,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [kivikakk/libpcre.zig](https://github.com/kivikakk/libpcre.zig) - Bindings to libpcre for Perl-compatible regular expressions.
 * [kivikakk/koino](https://github.com/kivikakk/koino) - CommonMark/GitHub Flavored Markdown parser and HTML renderer.
 * [kubkon/zig-yaml](https://github.com/kubkon/zig-yaml) - YAML parser.
+* [loo-re/zini](https://github.com/loo-re/zini) - Consistent .ini parser.
 * [sreehax/zig-ini](https://github.com/sreehax/zig-ini) - .ini parser.
 * [Nulo/ini-parser](https://gitea.nulo.in/Nulo/ini-parser) - .ini parser.
 * [tiehuis/zig-regex](https://github.com/tiehuis/zig-regex) - A regex implementation.
