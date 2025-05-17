@@ -12,9 +12,9 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ## Frameworks
 
-- [![p_win]](#-) [![p_nom]](#-)  [![a_all]](#-) [stdVBA](http://github.com/sancarn/stdVBA) - A framework containing numerous classes for automation and utility. Focuses on code compactness and long-term maintainability.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [![o_32]](#-) [VbCorLib](https://github.com/kellyethridge/VBCorLib) - A framework which brings many powerful .NET classes to VBA/VB6.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [Hidennotare](https://github.com/RelaxTools/Hidennotare) - A framework by Japanese author RelaxTools. Contains numerous classes, interfaces and forms.
+- [![p_win]](#-) [![p_nom]](#-)  [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA?style&logo=github&label) [stdVBA](http://github.com/sancarn/stdVBA) - A framework containing numerous classes for automation and utility. Focuses on code compactness and long-term maintainability.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [![o_32]](#-) ![GHStars](https://img.shields.io/github/stars/kellyethridge/VBCorLib?style&logo=github&label) [VbCorLib](https://github.com/kellyethridge/VBCorLib) - A framework which brings many powerful .NET classes to VBA/VB6.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/RelaxTools/Hidennotare?style&logo=github&label) [Hidennotare](https://github.com/RelaxTools/Hidennotare) - A framework by Japanese author RelaxTools. Contains numerous classes, interfaces and forms.
 
 ## Libraries
 
@@ -22,8 +22,8 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 #### JSON
 
-- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [VBA-FastJSON](https://github.com/cristianbuse/VBA-FastJSON) - Fast, cross-platform, native json parser and serializer. Memory efficient (non-recursive), RFC 8259 compliant, UTF8 support
-- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [VBA-JSON](https://github.com/VBA-tools/VBA-JSON) - JSON conversion and parsing.
+- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/cristianbuse/VBA-FastJSON?style&logo=github&label) [VBA-FastJSON](https://github.com/cristianbuse/VBA-FastJSON) - Fast, cross-platform, native json parser and serializer. Memory efficient (non-recursive), RFC 8259 compliant, UTF8 support
+- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/VBA-tools/VBA-JSON?style&logo=github&label) [VBA-JSON](https://github.com/VBA-tools/VBA-JSON) - JSON conversion and parsing.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [mdJSON](https://www.vbforums.com/showthread.php?871695-VB6-VBA-JSON-parsing-to-built-in-VBA-Collections-with-JSON-Path-support) - JSON library with dot-notation for extracting paths.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [JSONBag](https://www.vbforums.com/showthread.php?738845-VB6-JsonBag-Another-JSON-Parser-Generator) - Uses shebang notation to extract keys from JSON strings. Can also build JSON with this library.
 - From Frameworks:
@@ -31,23 +31,23 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 #### CSV
 
-- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [VBA-CSV-interface](https://github.com/ws-garcia/VBA-CSV-interface) - Powerful, fast and comprehensive RFC-4180 compliant CSV/TSV/DSV data management library.
+- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/ws-garcia/VBA-CSV-interface?style&logo=github&label) [VBA-CSV-interface](https://github.com/ws-garcia/VBA-CSV-interface) - Powerful, fast and comprehensive RFC-4180 compliant CSV/TSV/DSV data management library.
 - From Frameworks:
   - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) In `Hidennotare` find `csvWriter` and `csvReader`.
 
 #### XML
 
-- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [VBA-XML](https://github.com/VBA-tools/VBA-XML) - XML conversion and parsing.
+- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/VBA-tools/VBA-XML?style&logo=github&label) [VBA-XML](https://github.com/VBA-tools/VBA-XML) - XML conversion and parsing.
 
 #### ZIP
 
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [Excel-ZipTools](https://github.com/cristianbuse/Excel-ZipTools/tree/master) - Parse and Read Zip files.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/cristianbuse/Excel-ZipTools?style&logo=github&label) [Excel-ZipTools](https://github.com/cristianbuse/Excel-ZipTools/tree/master) - Parse and Read Zip files.
 
 ### Data Structures
 
 #### Array-List
 
-- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [Better array](https://github.com/Senipah/VBA-Better-Array/tree/master/src) - An array class providing features found in more modern languages.
+- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/Senipah/VBA-Better-Array?style&logo=github&label) [Better array](https://github.com/Senipah/VBA-Better-Array/tree/master/src) - An array class providing features found in more modern languages.
 - From Frameworks:
     - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [![o_32]](#-) In `VbCorLib` find `ArrayList` - As above.
     - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) In `stdVBA` find `stdArray` - As above. Also includes methods to search the array or perform checks from a callback.
@@ -55,9 +55,9 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 #### Dictionary
 
-- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [VBA-FastDictionary](https://github.com/cristianbuse/VBA-FastDictionary) - Fast, cross-platform, native Dictionary. Replacement for scripting dictionary.
-- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [VBA-Dictionary](https://github.com/VBA-tools/VBA-Dictionary) - A dictionary object which stores key-value pairs.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [VBA-ExtendedDictionary](https://github.com/SSlinky/VBA-ExtendedDictionary) - A dictionary object using Scripting.Dictionary but exposes some additional useful functionality.
+- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/cristianbuse/VBA-FastDictionary?style&logo=github&label) [VBA-FastDictionary](https://github.com/cristianbuse/VBA-FastDictionary) - Fast, cross-platform, native Dictionary. Replacement for scripting dictionary.
+- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/VBA-tools/VBA-Dictionary?style&logo=github&label) [VBA-Dictionary](https://github.com/VBA-tools/VBA-Dictionary) - A dictionary object which stores key-value pairs.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/SSlinky/VBA-ExtendedDictionary?style&logo=github&label) [VBA-ExtendedDictionary](https://github.com/SSlinky/VBA-ExtendedDictionary) - A dictionary object using Scripting.Dictionary but exposes some additional useful functionality.
 - [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [cHashList](https://www.vbforums.com/showthread.php?834515-Simple-and-fast-lightweight-HashList-Class-(no-APIs)) - Simple, Fast and lightweight HashList class with no use of Win32 API. Requires string keys however.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [CollectionEx](https://www.vbforums.com/showthread.php?834579-Wrapper-for-VB6-Collections) - Extends the default VBA(/VB6) collection with methods to retrieve and check for key existence. <!--TODO: This is listed as p_win, but honestly this might work on mac given the correct API declarations. Would be worth testing, see MemoryTools for Copy Memory declares-->
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [![o_32]](#-) [clsTrickHashTable](https://www.vbforums.com/showthread.php?788247-VB6-Hash-table) - A hash table using machine code injected at runtime. Full replacement for scripting dictionary, with bonus features.
@@ -67,31 +67,31 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### Math libraries
 
-- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [VBA-Math-Objects](https://github.com/Beakerboy/VBA-Math-Objects) - A matrix and vector library.
-- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [VBA Float](https://github.com/ws-garcia/VBA-float ) - An utility to perform computations over big integers and rational numbers with thousands digits.
+- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/Beakerboy/VBA-Math-Objects?style&logo=github&label) [VBA-Math-Objects](https://github.com/Beakerboy/VBA-Math-Objects) - A matrix and vector library.
+- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/ws-garcia/VBA-float ?style&logo=github&label) [VBA Float](https://github.com/ws-garcia/VBA-float ) - An utility to perform computations over big integers and rational numbers with thousands digits.
 
 ### Database tools
 
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [SQL Library](https://github.com/Beakerboy/VBA-SQL-Library) - An OOP SQL Library for psql, mssql, mysql databases.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/Beakerboy/VBA-SQL-Library?style&logo=github&label) [SQL Library](https://github.com/Beakerboy/VBA-SQL-Library) - An OOP SQL Library for psql, mssql, mysql databases.
 
 ### Userform tools
 
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [Task Dialog](https://github.com/fafalone/cTaskDialog64) - A huge amount of UI functionality from this 1 class, in a strictly dynamic and modular way. Great for data input forms. Also see [vbforums](https://www.vbforums.com/showthread.php?777021-VB6-TaskDialogIndirect-Complete-class-implementation-of-Vista-Task-Dialogs) post for more information.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [![o_dll]](#- 'Requires external OCX') [ucSimplePlayer](https://github.com/fafalone/ucSimplePlayer) - Simple video player user control.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [![o_dll]](#- 'Requires external OCX') [ucWebView2](https://github.com/fafalone/ucWebView2) - WebView2 user control.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [![o_dll]](#- 'Requires external OCX') [ucAniGifEx](https://github.com/fafalone/ucAniGifEx) - Animated GIF user control.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [Material UI](https://github.com/todar/VBA-Material-Design) - Make your userform feel modern with Material UI.
-- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [Easy EventListener](https://github.com/todar/VBA-Userform-EventListener) - Consolidate all event handling of a userform into 1 callback.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/fafalone/cTaskDialog64?style&logo=github&label) [Task Dialog](https://github.com/fafalone/cTaskDialog64) - A huge amount of UI functionality from this 1 class, in a strictly dynamic and modular way. Great for data input forms. Also see [vbforums](https://www.vbforums.com/showthread.php?777021-VB6-TaskDialogIndirect-Complete-class-implementation-of-Vista-Task-Dialogs) post for more information.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/fafalone/ucSimplePlayer?style&logo=github&label) [![o_dll]](#- 'Requires external OCX') [ucSimplePlayer](https://github.com/fafalone/ucSimplePlayer) - Simple video player user control.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/fafalone/ucWebView2?style&logo=github&label) [![o_dll]](#- 'Requires external OCX') [ucWebView2](https://github.com/fafalone/ucWebView2) - WebView2 user control.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/fafalone/ucAniGifEx?style&logo=github&label) [![o_dll]](#- 'Requires external OCX') [ucAniGifEx](https://github.com/fafalone/ucAniGifEx) - Animated GIF user control.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/todar/VBA-Material-Design?style&logo=github&label) [Material UI](https://github.com/todar/VBA-Material-Design) - Make your userform feel modern with Material UI.
+- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/todar/VBA-Userform-EventListener?style&logo=github&label) [Easy EventListener](https://github.com/todar/VBA-Userform-EventListener) - Consolidate all event handling of a userform into 1 callback.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [Pseudo Control Arrays](http://addinbox.sakura.ne.jp/Breakthrough_P-Ctrl_Arrays_Eng.htm) - Optimal means of Consolidating all event handling of a userform. Demonstrates usage of `ConnectToConnectionPoint` API. Also worth looking at [this class](https://stackoverflow.com/questions/61855925/reducing-withevent-declarations-and-subs-with-vba-and-activex#answer-61893857) too.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [![o_dll]](#- 'Requires external DLLs') [Modern UI Components](https://github.com/krishKM/Modern-UI-Components-for-VBA) - Custom modern looking controls.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [MVVM](https://github.com/rubberduck-vba/MVVM) - Model-View-ViewModel Infrastructure for maintainable userform development.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [VBA Userform Transitions and Animations](https://github.com/todar/VBA-Userform-Animations) - An excellent library for implementing animation easings into the Userform.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [Trick's Timer](https://github.com/thetrik/VbTrickTimer) - If you need to run a piece of code continuously and don't have access to `Application.OnTime` (and/or you need to run it faster than once per second), this is the class for you! Also check out the [forum post](https://www.vbforums.com/showthread.php?875635-VB6-VBA-Timer-class) for more information. Limitation: Requires a modal form.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [VBA-SafeTimer](https://github.com/cristianbuse/VBA-SafeTimer) - Reliable, no-crash timer for VBA. Code can be debugged and stopped safely. Works with or without a form.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/krishKM/Modern-UI-Components-for-VBA?style&logo=github&label) [![o_dll]](#- 'Requires external DLLs') [Modern UI Components](https://github.com/krishKM/Modern-UI-Components-for-VBA) - Custom modern looking controls.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/rubberduck-vba/MVVM?style&logo=github&label) [MVVM](https://github.com/rubberduck-vba/MVVM) - Model-View-ViewModel Infrastructure for maintainable userform development.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/todar/VBA-Userform-Animations?style&logo=github&label) [VBA Userform Transitions and Animations](https://github.com/todar/VBA-Userform-Animations) - An excellent library for implementing animation easings into the Userform.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/thetrik/VbTrickTimer?style&logo=github&label) [Trick's Timer](https://github.com/thetrik/VbTrickTimer) - If you need to run a piece of code continuously and don't have access to `Application.OnTime` (and/or you need to run it faster than once per second), this is the class for you! Also check out the [forum post](https://www.vbforums.com/showthread.php?875635-VB6-VBA-Timer-class) for more information. Limitation: Requires a modal form.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/cristianbuse/VBA-SafeTimer?style&logo=github&label) [VBA-SafeTimer](https://github.com/cristianbuse/VBA-SafeTimer) - Reliable, no-crash timer for VBA. Code can be debugged and stopped safely. Works with or without a form.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [Drag and Drop filepaths](https://www.mrexcel.com/board/threads/vba-drag-drop-filepath.843330/page-6#post-5898495) - Allow your userform to handle drag-and-drop files.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [Late-bound WebBrowser Control Events](https://www.vbforums.com/showthread.php?847773-VB6-elevated-IE-Control-usage-with-HTML5-elements-and-COM-Event-connectors) - A technique to latch onto WebBrowser events in a late-bound manner.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [![o_paid]](#- '~£2 per control/application') [Mark's userform tools](https://www.kubiszyn.co.uk/) - Numerous UI tools and pretty userforms.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [VBA-UserForm-MouseScroll](https://github.com/cristianbuse/VBA-UserForm-MouseScroll) - Allows Mouse Wheel Scrolling on MSForms Controls and Userforms.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/cristianbuse/VBA-UserForm-MouseScroll?style&logo=github&label) [VBA-UserForm-MouseScroll](https://github.com/cristianbuse/VBA-UserForm-MouseScroll) - Allows Mouse Wheel Scrolling on MSForms Controls and Userforms.
 - [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [MSForms (Pure VBA) Treeview Control](https://jkp-ads.com/Articles/treeview.asp) - A treeview control replacement by JKP and Peter Thornton coded entirely in VBA.
 - [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [MSForms (Pure VBA) ListBox Control](https://app.monstercampaigns.com/c/fxzxd8wfvl4mnf4zmnp3/) - Featured in [this video](https://www.youtube.com/watch?v=QYW1SlKfKdM). It has tons of useful features like sorting, filtering, single or multi-selection with select and deselect all, page navigation and hover highlight,
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [Custom Userform TitleBar color](https://www.mrexcel.com/board/threads/using-winapi-to-change-the-color-on-the-title-bar-of-a-userform.1205894/page-2#post-5892050)
@@ -102,36 +102,36 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### Low level tools
 
-- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [VBA-MemoryTools](https://github.com/cristianbuse/VBA-MemoryTools) - Provides an ultra-fast, copy memory alternative.
+- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/cristianbuse/VBA-MemoryTools?style&logo=github&label) [VBA-MemoryTools](https://github.com/cristianbuse/VBA-MemoryTools) - Provides an ultra-fast, copy memory alternative.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [Safe Subclassing](https://www.mrexcel.com/board/threads/intercepting-resetting-of-vba-editor-as-well-as-unhandled-errors-for-safe-subclassing.1024295/) - Provides the ability to subclass Excel/Word/PowerPoint window or Userforms to perform further automation. In the later threads there is also an example for subclassing other windows from other applications.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [Calling private module functions](https://github.com/Greedquest/vbInvoke/tree/main) - You can also check out [Greedo's code review](https://codereview.stackexchange.com/questions/274532/low-level-vba-hacking-making-private-functions-public).
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/Greedquest/vbInvoke?style&logo=github&label) [Calling private module functions](https://github.com/Greedquest/vbInvoke/tree/main) - You can also check out [Greedo's code review](https://codereview.stackexchange.com/questions/274532/low-level-vba-hacking-making-private-functions-public).
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [![o_32]](#-) [Universal DLL Calls](http://www.vbforums.com/showthread.php?781595-VB6-Call-Functions-By-Pointer-(Universall-DLL-Calls)) - A library which can be used to call functions of any function pointer, DLL or object in both `STDCALL` and `CDECL`.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [vbInvoke](https://github.com/Greedquest/vbInvoke) - `Application.Run` but COM based and can call private module methods.
-- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [VBA state-loss callback](https://github.com/cristianbuse/VBA-StateLossCallback) - A crash free detector for VBA state-loss. State loss can occur when: Someone clicks `end` in an unhandled error; You click the VBA stop button; You enter design mode; Application exits.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [vb2clr](https://github.com/jet2jet/vb2clr) - Use C# from VBA using the .NET CLR runtime.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/Greedquest/vbInvoke?style&logo=github&label) [vbInvoke](https://github.com/Greedquest/vbInvoke) - `Application.Run` but COM based and can call private module methods.
+- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/cristianbuse/VBA-StateLossCallback?style&logo=github&label) [VBA state-loss callback](https://github.com/cristianbuse/VBA-StateLossCallback) - A crash free detector for VBA state-loss. State loss can occur when: Someone clicks `end` in an unhandled error; You click the VBA stop button; You enter design mode; Application exits.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/jet2jet/vb2clr?style&logo=github&label) [vb2clr](https://github.com/jet2jet/vb2clr) - Use C# from VBA using the .NET CLR runtime.
 - From Frameworks:
     - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) In `stdVBA` find `stdCOM` - A one stop shop for COM automation, from invoking interfaces by offsets to extracting type information.
     - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) In `stdVBA` find `stdReg` - Registry automation from searching to setting values.
 
 ### Parsers / Interpreters
 
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [vba-regex](https://github.com/sihlfall/vba-regex) - A native regex expression parser and runtime engine.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [VbPeg](https://github.com/wqweto/VbPeg) - A parser generator for VBA. Converts PEG grammar like [this](https://github.com/wqweto/VbPeg/blob/master/test/Runner/peg/Kscope/grammar.peg) into [VBA code like this](https://github.com/wqweto/VbPeg/blob/master/test/Runner/peg/Kscope/cKscope.cls). Very useful if your implementing a new programming language in VBA. Wqweto has also included some math expression parsers as tests.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sihlfall/vba-regex?style&logo=github&label) [vba-regex](https://github.com/sihlfall/vba-regex) - A native regex expression parser and runtime engine.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/wqweto/VbPeg?style&logo=github&label) [VbPeg](https://github.com/wqweto/VbPeg) - A parser generator for VBA. Converts PEG grammar like [this](https://github.com/wqweto/VbPeg/blob/master/test/Runner/peg/Kscope/grammar.peg) into [VBA code like this](https://github.com/wqweto/VbPeg/blob/master/test/Runner/peg/Kscope/cKscope.cls). Very useful if your implementing a new programming language in VBA. Wqweto has also included some math expression parsers as tests.
 - [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [Volpi's Math Expression Parser](https://web.archive.org/web/20100703220609/http://digilander.libero.it/foxes/mathparser/MathExpressionsParser.htm) - A fast math expression parser. Doesn't allow calls to objects, no callstack.
-- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [VBA Expressions](https://github.com/ws-garcia/VBA-Expressions) - A powerful string expression evaluator focussed on mathematics and data processing.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [ClooWrapperVBA](https://github.com/Excel-lent/ClooWrapperVBA) - Execute OpenCL from VBA, using either the GPU or CPU.
+- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/ws-garcia/VBA-Expressions?style&logo=github&label) [VBA Expressions](https://github.com/ws-garcia/VBA-Expressions) - A powerful string expression evaluator focussed on mathematics and data processing.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/Excel-lent/ClooWrapperVBA?style&logo=github&label) [ClooWrapperVBA](https://github.com/Excel-lent/ClooWrapperVBA) - Execute OpenCL from VBA, using either the GPU or CPU.
 - From Frameworks:
     - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) In `stdVBA` find `stdLambda` - Full programming language including object manipulation, call stack, etc. 
 
 ### Web tools
 
-- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [VBA-Web](https://github.com/VBA-tools/VBA-Web) - Connect VBA, Excel, Access, and Office for Windows and Mac to web services and the web.
-- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [VBA-WebSocket](https://github.com/EagleAglow/vba-websocket) - Microsoft example code for a WebSocket client which can be used in conjunction with an echo server. There is also [a class](https://github.com/EagleAglow/vba-websocket-class) and an [async version](https://github.com/EagleAglow/vba-websocket-async) built by the discoverer of the microsoft code.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [![o_32]](#-) [vbAsyncSocket](https://github.com/wqweto/VbAsyncSocket) - Simple and thin WinSock API wrappers for VB6 loosely based on the original CAsyncSocket wrapper in MFC.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [Edge Automation](https://www.codeproject.com/Tips/5307593/Automate-Chrome-Edge-using-VBA) - Automate Chromium Edge using devtools protocol. [GitHub backup here](https://github.com/sancarn/stdVBA-Inspiration/tree/master/ChromeEdgeAutomation).
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [Chrome Automation (via devtools protocol)](https://github.com/PerditionC/VBAChromeDevProtocol) - Automate Chrome using chrome devtools protocol.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [SeleniumVBA](https://github.com/GCuser99/SeleniumVBA) - Drive selenium webdriver directly from VBA. If you don't have the driver installed, the library will attempt to download it for you and run it. However AV may restrict the running of this process.
-- [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) [webxcel](https://github.com/michaelneu/webxcel) - A webserver which runs a RESTful backend. The creator also made an [article](https://dev.to/michaelneu/to-vba-and-beyond---building-a-restful-backend-using-plain-microsoft-excel-macros-76n) on how it works on dev.to.
+- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/VBA-tools/VBA-Web?style&logo=github&label) [VBA-Web](https://github.com/VBA-tools/VBA-Web) - Connect VBA, Excel, Access, and Office for Windows and Mac to web services and the web.
+- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/EagleAglow/vba-websocket-async?style&logo=github&label) [VBA-WebSocket](https://github.com/EagleAglow/vba-websocket) - Microsoft example code for a WebSocket client which can be used in conjunction with an echo server. There is also [a class](https://github.com/EagleAglow/vba-websocket-class) and an [async version](https://github.com/EagleAglow/vba-websocket-async) built by the discoverer of the microsoft code.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [![o_32]](#-) ![GHStars](https://img.shields.io/github/stars/wqweto/VbAsyncSocket?style&logo=github&label) [vbAsyncSocket](https://github.com/wqweto/VbAsyncSocket) - Simple and thin WinSock API wrappers for VB6 loosely based on the original CAsyncSocket wrapper in MFC.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA-Inspiration?style&logo=github&label) [Edge Automation](https://www.codeproject.com/Tips/5307593/Automate-Chrome-Edge-using-VBA) - Automate Chromium Edge using devtools protocol. [GitHub backup here](https://github.com/sancarn/stdVBA-Inspiration/tree/master/ChromeEdgeAutomation).
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/PerditionC/VBAChromeDevProtocol?style&logo=github&label) [Chrome Automation (via devtools protocol)](https://github.com/PerditionC/VBAChromeDevProtocol) - Automate Chrome using chrome devtools protocol.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/GCuser99/SeleniumVBA?style&logo=github&label) [SeleniumVBA](https://github.com/GCuser99/SeleniumVBA) - Drive selenium webdriver directly from VBA. If you don't have the driver installed, the library will attempt to download it for you and run it. However AV may restrict the running of this process.
+- [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) ![GHStars](https://img.shields.io/github/stars/michaelneu/webxcel?style&logo=github&label) [webxcel](https://github.com/michaelneu/webxcel) - A webserver which runs a RESTful backend. The creator also made an [article](https://dev.to/michaelneu/to-vba-and-beyond---building-a-restful-backend-using-plain-microsoft-excel-macros-76n) on how it works on dev.to.
 - From Frameworks:
     - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) In `stdVBA` find `stdHTTP` - Connect to and query web services.
 
@@ -139,20 +139,20 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 ## Developer tools
 
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [![o_inst]](#-) [Rubberduck](https://rubberduckvba.com/) - An open-source COM add-in project that integrates with the Visual Basic Editor to add modern-day features to the familiar IDE. Works in VBA6, VBA7.x (x86/x64), and yes, in VB6 too!
-- [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) [VBA-IDE-Code-Export](https://github.com/spences10/VBA-IDE-Code-Export) - Addin contains a code importer and exporter for use with git (or any VCS).
+- [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) ![GHStars](https://img.shields.io/github/stars/spences10/VBA-IDE-Code-Export?style&logo=github&label) [VBA-IDE-Code-Export](https://github.com/spences10/VBA-IDE-Code-Export) - Addin contains a code importer and exporter for use with git (or any VCS).
 - [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) [![a_wd]](#-) [![o_pass]](#-) - [RibbonX](https://www.andypope.info/vba/ribboneditor_2010.htm) - AndyPope's Visual Ribbon Editor.
 - [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) [Custom UI XML Editor](https://yoursumbuddy.com/ribbon-customui-xml-editor/) - Addin for directly adding, editing and validating ribbon XML (Excel 2010+).
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [![o_paid]](#- 'Costs upwards of $79') [MZ-Tools](https://www.mztools.com/) - VBE addin providing development tools.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [VbPeg](https://github.com/wqweto/VbPeg) - A parser generator for VBA. Converts PEG grammar like [this](https://github.com/wqweto/VbPeg/blob/master/test/Runner/peg/Kscope/grammar.peg) into [VBA code like this](https://github.com/wqweto/VbPeg/blob/master/test/Runner/peg/Kscope/cKscope.cls). Very useful if you're implementing a new programming language in VBA.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/wqweto/VbPeg?style&logo=github&label) [VbPeg](https://github.com/wqweto/VbPeg) - A parser generator for VBA. Converts PEG grammar like [this](https://github.com/wqweto/VbPeg/blob/master/test/Runner/peg/Kscope/grammar.peg) into [VBA code like this](https://github.com/wqweto/VbPeg/blob/master/test/Runner/peg/Kscope/cKscope.cls). Very useful if you're implementing a new programming language in VBA.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [VBA Resource File Editor](http://leandroascierto.com/blog/vba-resource-file-editor/) - Store other files inside your excel/word/powerpoint files for later use with this handy tool.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [![o_32]](#-) [vbRichClient](https://vbrichclient.com/#/en/About/) - An external client full of useful libraries.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [![o_paid]](#- '£170-£205 license per dev') [vbWatchDog](https://www.everythingaccess.com/vbwatchdog.asp) - `vbWatchdog` hacks the VBA runtime to provide module name, procedure name and line number where error occurred.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [DLL Function Viewer](https://www.mrexcel.com/board/threads/dll-export-viewer-vba-based.1220909/) - Allows the export of function names from DLLs.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [Accessibility Inspector](https://github.com/sancarn/stdVBA-examples/tree/main/Examples/Inspector-Accessibility-v2) - An inspector/explorer for accessibility in applications. Useful for automation.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [Running Object Table Inspector](https://github.com/sancarn/stdVBA-examples/tree/main/Examples/Inspector-RunningObjectTable) - An inspector for the running object table (ROT), a table of global running COM objects which can be obtained.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [Clipboard Inspector](https://github.com/sancarn/stdVBA-examples/tree/main/Examples/Inspector-Clipboard) - Allows inspection of data held in the clipboard. Useful for reverse engineering clipboard usage in other applications.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [Registry Inspector](https://github.com/sancarn/stdVBA-examples/tree/main/Examples/Inspector-Registry) - Allows inspection of the win32 registry. Equivalent of regedit basically, but implemented entirely in VBA.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [JSON Inspector](https://github.com/sancarn/stdVBA-examples/tree/main/Examples/Inspector-JSON) - An inspector for JSON data, can be called on demand too as a dev tool for inspecting API responses.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA-examples?style&logo=github&label) [Accessibility Inspector](https://github.com/sancarn/stdVBA-examples/tree/main/Examples/Inspector-Accessibility-v2) - An inspector/explorer for accessibility in applications. Useful for automation.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA-examples?style&logo=github&label) [Running Object Table Inspector](https://github.com/sancarn/stdVBA-examples/tree/main/Examples/Inspector-RunningObjectTable) - An inspector for the running object table (ROT), a table of global running COM objects which can be obtained.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA-examples?style&logo=github&label) [Clipboard Inspector](https://github.com/sancarn/stdVBA-examples/tree/main/Examples/Inspector-Clipboard) - Allows inspection of data held in the clipboard. Useful for reverse engineering clipboard usage in other applications.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA-examples?style&logo=github&label) [Registry Inspector](https://github.com/sancarn/stdVBA-examples/tree/main/Examples/Inspector-Registry) - Allows inspection of the win32 registry. Equivalent of regedit basically, but implemented entirely in VBA.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA-examples?style&logo=github&label) [JSON Inspector](https://github.com/sancarn/stdVBA-examples/tree/main/Examples/Inspector-JSON) - An inspector for JSON data, can be called on demand too as a dev tool for inspecting API responses.
 
 
 ## Examples
@@ -169,7 +169,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 ### UI Userforms
 
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [Drag and drop control](https://www.vbforums.com/showthread.php?888843-Load-image-into-STATIC-control-Win32&p=5496575&viewfull=1#post5496575) - Dragging and dropping image controls around a userform.
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [EZPZMouseController](https://github.com/KallunWillock/EZPZMouseController/) - An example of using native Microsoft Ink Collector to detect mouse wheel and mouse move events.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/KallunWillock/EZPZMouseController?style&logo=github&label) [EZPZMouseController](https://github.com/KallunWillock/EZPZMouseController/) - An example of using native Microsoft Ink Collector to detect mouse wheel and mouse move events.
 
 ### Low level examples
 
@@ -185,25 +185,25 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 - [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) [Sam Rad's DatePicker](http://samradapps.com/datepicker/) - Visually impressive and professional DatePicker addin for Excel. Worksheet only / cannot be used with userforms.
 - [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [Excel Name Manager](https://jkp-ads.com/excel-name-manager.asp) - A treeview control replacement by JKP and Peter Thornton coded entirely in VBA.
 - [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [Excel Flex Find](https://jkp-ads.com/excel-flexfind.asp) - A treeview control replacement by JKP and Peter Thornton coded entirely in VBA.
-- [![p_win]](#-) [![p_mac]](#-) [![a_wd]](#-) [Word VBA Syntax Highlighter](https://github.com/joey-melo/vba-syntax-higlight/tree/main) - Custom built Syntax Highlight tool for Word Documents.
+- [![p_win]](#-) [![p_mac]](#-) [![a_wd]](#-) ![GHStars](https://img.shields.io/github/stars/joey-melo/vba-syntax-higlight?style&logo=github&label) [Word VBA Syntax Highlighter](https://github.com/joey-melo/vba-syntax-higlight/tree/main) - Custom built Syntax Highlight tool for Word Documents.
 
 ### Games / Fun projects
 
-- [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) [xlStudio](https://github.com/DylanTallchiefGit/xlStudio) - A DAW for Microsoft Excel. Also check out the awesome [video](https://youtu.be/RFdCM2kHL64).
+- [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) ![GHStars](https://img.shields.io/github/stars/DylanTallchiefGit/xlStudio?style&logo=github&label) [xlStudio](https://github.com/DylanTallchiefGit/xlStudio) - A DAW for Microsoft Excel. Also check out the awesome [video](https://youtu.be/RFdCM2kHL64).
 - [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) [Cellivization](https://s0lly.itch.io/cellivization) - A cool RTS-like game created in Excel. Also check out the awesome [video](https://www.youtube.com/watch?v=PzETBRcr_i8).
 - [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) [Arkanoid](http://leandroascierto.com/blog/juego-arkanoid-en-excel/) - Arkanoid, a retro arcade game, built in Excel. On some machines it runs faster than others.
-- [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) [Battleships](https://github.com/rubberduck-vba/Battleship)
+- [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) ![GHStars](https://img.shields.io/github/stars/rubberduck-vba/Battleship?style&logo=github&label) [Battleships](https://github.com/rubberduck-vba/Battleship)
 - [![p_win]](#-) [![p_nom]](#-) [![a_ac]](#-) [Pacman](https://arkham46.developpez.com/articles/office/clgdiplus/tuto/tutoclgdiplusgame3/?page=Page_11#LXXIV)
-- [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) [ExcelCommodroid](https://github.com/raspberrypioneer/ExcelCommodroid/tree/main) - Commodore computer loader using MS Excel on Windows. VBA7 only.
+- [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) ![GHStars](https://img.shields.io/github/stars/raspberrypioneer/ExcelCommodroid?style&logo=github&label) [ExcelCommodroid](https://github.com/raspberrypioneer/ExcelCommodroid/tree/main) - Commodore computer loader using MS Excel on Windows. VBA7 only.
 
 ## External tools
 
-- [![p_win]](#-) [![p_mac]](#-) [![a_misc]](# "Python") [oletools](https://github.com/decalage2/oletools) - Python tool which can be used to decode VBA P-Code (VBA's intermediate language).
+- [![p_win]](#-) [![p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/decalage2/oletools?style&logo=github&label) [![a_misc]](# "Python") [oletools](https://github.com/decalage2/oletools) - Python tool which can be used to decode VBA P-Code (VBA's intermediate language).
 - [![p_win]](#-) [![p_mac]](#-) [![a_misc]](#- 'VBA planned but as of 2022-05-27 can only compile to exe') [twinBasic](https://twinbasic.com/) - A VBA compatible parser, evaluator and compiler.
-- [![p_win]](#-) [![p_mac]](#-) [![a_misc]](# "VSCode") [vscode-vba](https://github.com/serkonda7/vscode-vba) - Extension that adds VBA editor support to Visual Studio Code.
-- [![p_win]](#-) [![p_mac]](#-) [![a_misc]](# "VSCode") [VBA Pro](https://marketplace.visualstudio.com/items?itemName=NotisDataAnalytics.vba-lsp) - VSCode Extension that adds enhanced VBA support based on Language Service Protocol. The source is also [on GitHub](https://github.com/SSlinky/VBA-LanguageServer).
-- [![p_win]](#-) [![p_mac]](#-) [![a_misc]](# "Github") [VBA Build](https://github.com/DecimalTurn/VBA-Build) - Github action to automatically build a VBA project on commit.
-- [![p_win]](#-) [![p_mac]](#-) [![a_misc]](# "Python") [VBA Project Compiler](https://github.com/Beakerboy/MS-OVBA) - A python library which can be utilised to compile VBA projects. There is also a built-in [Excel addin generator](https://github.com/Beakerboy/Excel-Addin-Generator) made by the same author! You can see a list of related projects by the author [here](https://github.com/sancarn/awesome-vba/issues/35).
+- [![p_win]](#-) [![p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/serkonda7/vscode-vba?style&logo=github&label) [![a_misc]](# "VSCode") [vscode-vba](https://github.com/serkonda7/vscode-vba) - Extension that adds VBA editor support to Visual Studio Code.
+- [![p_win]](#-) [![p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/SSlinky/VBA-LanguageServer?style&logo=github&label) [![a_misc]](# "VSCode") [VBA Pro](https://marketplace.visualstudio.com/items?itemName=NotisDataAnalytics.vba-lsp) - VSCode Extension that adds enhanced VBA support based on Language Service Protocol. The source is also [on GitHub](https://github.com/SSlinky/VBA-LanguageServer).
+- [![p_win]](#-) [![p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/DecimalTurn/VBA-Build?style&logo=github&label) [![a_misc]](# "Github") [VBA Build](https://github.com/DecimalTurn/VBA-Build) - Github action to automatically build a VBA project on commit.
+- [![p_win]](#-) [![p_mac]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/awesome-vba?style&logo=github&label) [![a_misc]](# "Python") [VBA Project Compiler](https://github.com/Beakerboy/MS-OVBA) - A python library which can be utilised to compile VBA projects. There is also a built-in [Excel addin generator](https://github.com/Beakerboy/Excel-Addin-Generator) made by the same author! You can see a list of related projects by the author [here](https://github.com/sancarn/awesome-vba/issues/35).
 
 ## Style Guides
 
@@ -302,7 +302,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 #### Application compatibility
 
-[a_all]: ./resources/Star.svg 'All applications'
+[a_all]: ./resources/OfficeLogoPlus.svg 'All applications'
 [a_wd]: ./resources/WordLogo.svg 'Word'
 [a_xl]: ./resources/ExcelLogo.svg 'Excel'
 [a_ac]: ./resources/AccessLogo.svg 'Access'

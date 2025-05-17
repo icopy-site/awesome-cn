@@ -1,5 +1,5 @@
 <div class="github-widget" data-repo="terkelg/awesome-creative-coding"></div>
-## Awesome Creative Coding [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Creative Coding [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 
 > Carefully curated list of awesome [creative coding](https://en.wikipedia.org/wiki/Creative_coding) resources primarily for beginners/intermediates.
@@ -92,8 +92,7 @@ _Please read the [contribution guidelines](https://github.com/terkelg/awesome-cr
 - [PlayCanvas](https://playcanvas.com/) [Cross-platform] - Open source, realtime collaborative WebGL engine.
 - [hg_sdf](https://mercury.sexy/hg_sdf/) [Cross-platform] - GLSL library for building signed distance functions.
 - [nannou](https://nannou.cc/) [Cross-platform] - Open-source creative coding framework for the Rust language.
-  [Cross-platform] - Open-source creative coding framework for the Rust language.
-  [Cross-platform] - Open source collection of computational design tools for JavaScript, TypeScript, Clojure and ClojureScript languages.
+- [thi.ng](https://thi.ng/) [Cross-platform] - Open source collection of computational design tools for JavaScript, TypeScript, Clojure and ClojureScript languages.
 - [PixelKit](https://github.com/heestand-xyz/PixelKit) [iOS, Mac] - Open source, live graphics, Swift framework, powered by Metal.
 - [OPENRNDR](https://openrndr.org/) [Cross-platform] - Open source library for creative coding written in Kotlin.
 - [Phaser](https://phaser.io/) [Cross-platform] - HTML5 framework for building games, uses both a Canvas and WebGL renderer.
@@ -144,7 +143,7 @@ _Please read the [contribution guidelines](https://github.com/terkelg/awesome-cr
 - [Pixi.js](https://www.pixijs.com/) - HTML 5 2D rendering engine that uses webGL with canvas fallback.
 - [p5.js](https://p5js.org/) - JavaScript library that starts with the original goal of Processing.
 - [Pts.js](https://ptsjs.org/) - JavaScript library for visualization and creative-coding.
-- [Fabric.js](https://fabricjs.com/) - Javascript canvas library, SVG-to-canvas parser.
+- [Fabric.js](https://fabricjs.com/) - JavaScript canvas library, SVG-to-canvas parser.
 - [Maker.js](https://maker.js.org) - Parametric line drawing for SVG, CNC & laser cutters.
 - [OpenJSCAD](https://openjscad.org) - Programmatic 3D modeling in JavaScript.
 - [Sketch.js](https://soulwire.github.io/sketch.js/) - Minimal JavaScript creative coding framework.
@@ -188,10 +187,10 @@ _Please read the [contribution guidelines](https://github.com/terkelg/awesome-cr
 - [OpenProcessing](https://www.openprocessing.org/) - Algorithmic Designs Created with Processing, p5js and processingjs.
 - [P5.js Editor](https://editor.p5js.org/) - Online web editor for P5.js.
 - [LiveCodeLab](http://livecodelab.net) - Run-as-you-type tool for VJs, musicians, teachers, students, kids.
-- [Turtletoy](https://turtletoy.net/) - Minimalistic API and online showcase for generative code. (Javascript)
+- [Turtletoy](https://turtletoy.net/) - Minimalistic API and online showcase for generative code. (JavaScript)
 - [ShaderGif](https://shadergif.com/) - Open source home for art made with code (WebGL1/2, JavaScript Canvas & P5.js).
 - [P5LIVE](https://teddavis.org/p5live/) - p5.js live-coding environment.
-- [NEORT](https://neort.io/popular) - Digital art platform for creative coders (Fragment Shader, Javascript Canvas).
+- [NEORT](https://neort.io/popular) - Digital art platform for creative coders (Fragment Shader, JavaScript Canvas).
 - [Shelly](https://shelly.dev/) - Learn programming by issuing instructions to a turtle.
 - [tixy.land](https://tixy.land/) - The most minimalist creative coding environment is alive.
 - [BBC Micro bot](https://www.bbcmicrobot.com/) - Run your tweet on an 8-bit computer emulator.
@@ -243,7 +242,7 @@ _Please read the [contribution guidelines](https://github.com/terkelg/awesome-cr
 - [Vertexshaderart](https://www.youtube.com/channel/UC6IqL5vkMJpqBG_bFDjsaxw) - YouTube playlist about vertex shaders.
 - [Diving in Three.js](https://www.youtube.com/playlist?list=PL08jItIqOb2qyMOhtEUoLh100KpccQiRf) - YouTube playlist diving into three.js.
 - [Shadertoy Tutorials](https://www.youtube.com/watch?v=u5HAYVHsasc&list=PLGmrMu-IwbguU_nY2egTFmlg691DN7uE5) - YouTube playlist teaching you how to make shaders, starting with zero knowledge using shadertoy.
-- [WebGL Lightning](https://www.youtube.com/playlist?list=PLxaZqnd-OQM7Y0lfe7h2cjlQAm5O9_6UL) - Introduction to WebGL lightning with Greg Tatum.
+- [WebGL Lighting](https://www.youtube.com/playlist?list=PLxaZqnd-OQM7Y0lfe7h2cjlQAm5O9_6UL) - Introduction to WebGL lighting with Greg Tatum.
 
 ### Talks
 
@@ -342,7 +341,7 @@ _Please read the [contribution guidelines](https://github.com/terkelg/awesome-cr
 - [Let's Make A Ray Marcher](https://www.shadertoy.com/view/MdBfRK) - Interactive Shader-Toy on writing a ray marcher.
 - [Raymarching](https://www.shadertoy.com/view/4dSfRc) - Interactive Shader-Toy raymarching tutorial.
 
-### Quick References • Cheatsheets
+### Quick References • Cheat Sheets
 
 - [Shaderific GLSL](https://shaderific.com/glsl.html) - OpenGL ES shading language reference.
 - [The Book of Shaders Glossary](https://thebookofshaders.com/glossary/) - Shader glossary by theme.
@@ -427,11 +426,11 @@ _Please read the [contribution guidelines](https://github.com/terkelg/awesome-cr
 - [Shepherding random grids](https://inconvergent.net/2016/shepherding-random-grids/) - Tiny guide to shepherding random grids.
 - [Shepherding random growth](https://inconvergent.net/2016/shepherding-random-growth/) - Tiny guide to shepherding random growth.
 
-## Machine learning • Computer Vision • Ai
+## Machine learning • Computer Vision • AI
 
 - [ml4a](https://ml4a.net/) - Machine learning for artists.
 - [Keras.js](https://transcranial.github.io/keras-js/) - Run Keras models (tensorflow backend) in the browser, with GPU support.
-- [Tesseract.js](http://tesseract.projectnaptha.com/) - Pure Javascript Multilingual OCR.
+- [Tesseract.js](http://tesseract.projectnaptha.com/) - Pure JavaScript Multilingual OCR.
 - [Google ML](https://cloud.google.com/ml/) - Cloud machine learning by Google.
 - [TensorFlow](https://www.tensorflow.org/) - Open source software library for machine intelligence.
 - [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/started.html) - Deep Learning in your browser.

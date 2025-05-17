@@ -112,6 +112,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [steampy](https://github.com/bukson/steampy) - Fully automated Steam trade offers library with SteamGuard support.
 - [SteamAPI](https://github.com/smiley/steamapi) - An object-oriented Python 2.7+ library for accessing the Steam Web API.
 - [Steam-Trade](https://github.com/Zwork101/steam-trade) - An asynchronous, event-based trade library.
+- [aiosteampy](https://github.com/somespecialone/aiosteampy) - Trade and interact with Steam market, WebAPI, SteamGuard.
 
 #### Game Interaction
 
