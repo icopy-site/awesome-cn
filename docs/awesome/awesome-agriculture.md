@@ -95,6 +95,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 - [Open Agriculture Foundation](https://github.com/OpenAgricultureFoundation) -  Open Source ecosystem of technologies that enable and promote transparency, networked experimentation, education, and hyper-local production.
 - [OpenMinder](https://github.com/autogrow/openminder) - Open Source Rootzone Monitoring, API and open source hat for the RaspberryPi.
 - [OpenWeedLocator](https://github.com/geezacoleman/OpenWeedLocator) - Open Source, low-cost, image-based weed detection device for in-crop and fallow scenarios.
+- [Simplesteer](https://github.com/matmis/simplesteer) - RTK GPS tractor autosteer system with a web interface that you can control with a smartphone and can run on a Raspberry Pi.
 
 ## Knowledgebases and Learning Resources
 

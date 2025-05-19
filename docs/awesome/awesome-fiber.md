@@ -107,6 +107,8 @@ List of middlewares that are created by the Fiber community.
 - [streamerd/fibergun](https://github.com/streamerd/fibergun) - A GunDB middleware for Fiber. Enables easy integration of GunDB, a decentralized database.
 - [apitally/apitally-go](https://github.com/apitally/apitally-go) - Simple API monitoring tool for Fiber. Tracks API usage, errors, and performance, and includes request logging and alerting features.
 - [newrelic/go-agent](https://github.com/newrelic/go-agent/tree/master/v3/integrations/nrfiber) - Official New Relic middleware for Fiber that manages instrumentation for New Relic monitoring.
+- [narmadaweb/limiter](https://github.com/narmadaweb/limiter) - A high-performance Redis-backed rate limiter middleware for Fiber, supporting fixed window, sliding window, and token bucket algorithms.
+- [narmadaweb/gonify](https://github.com/narmadaweb/gonify) - Fiber Minifying middleware for HTML5, CSS3, JavaScript, Json, XML and SVG.
 
 ## 🚧 Boilerplates
 

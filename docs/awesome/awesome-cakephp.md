@@ -95,7 +95,8 @@ Additional lists you might find useful:
 ## Filtering and Validation
 *Plugins for filtering and validating data.*
 
-- see Cake/Localized below.
+- see Cake/Localized plugin below.
+- see Tools plugin below.
 
 ## Geolocation
 *Plugins for geocoding addresses and working with latitudes and longitudes.*
@@ -150,7 +151,7 @@ Additional lists you might find useful:
 - [OPCache Preloader](https://github.com/cnizzardini/cakephp-preloader) - An OPCache Preloader for CakePHP applications. 
 - [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - Maintenance shell to go into maintenance mode for all requests with optional IP whitelisting.
 - [Shim plugin](https://github.com/dereuromark/cakephp-shim) - A plugin containing useful shims and improvements as basis for your application.
-- [Tools plugin](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful libs, helpers, behaviors, components, shells and more.
+- [Tools plugin](https://github.com/dereuromark/cakephp-tools) - Containing lots of useful helpers, behaviors, components, commands, helpers, libs and more.
  
 
 ## Navigation
