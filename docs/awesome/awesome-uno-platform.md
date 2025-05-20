@@ -71,6 +71,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 - [Windows Calculator](https://calculator.platform.uno/) - WebAssembly port of the Windows 10 Calculator app.
 - [NuGet.info](https://nuget.info/) - Modernized version of NuGet Package Explorer application.
 - [Toolkit Labs](https://toolkitlabs.dev/) - A place where new components for the Windows Community Toolkit are developed.
+- [Unexpected APIs in Uno Platform](https://unexpectedapis.uno/) - Demo app including various UI and non-UI APIs that you can use in Uno Platform.
 
 ## Open-source apps
 - [UADO](https://github.com/unoplatform/uado) - Azure DevOps backlog viewer.
@@ -90,7 +91,7 @@ This is a list of **awesome resources** for users of Uno Platform. **If you find
 - [Introduction to open source Uno Platform](https://youtu.be/vRzTr8XYau0) - Introductory talk by Jérôme Laban about Uno Platform and what it offers.
 - [Uno Platform - Your Apps Everywhere](https://youtu.be/dX69x-D6COI) - Overview of the Uno Platform ecosystem by Martin Zikmund at NDC Porto 2022.
 - [Building Multi-Platform Applications with the Uno Platform](https://youtu.be/0zvzfCGO0gI) - Introduction to creating apps for multiple platforms and form factors, all while reusing your existing XAML and C# skill by Nick Randolph.
-- [[RU] Разработка кросс-платформенных приложений с Uno Platform и Elmish-подходом на F#](https://www.youtube.com/watch?v=ApNGATu9RSo) - Introduction to Uno, Blend and Elmish.
+- [Разработка кросс-платформенных приложений с Uno Platform и Elmish-подходом на F# (RU)](https://www.youtube.com/watch?v=ApNGATu9RSo) - Introduction to Uno, Blend and Elmish.
 
 ## Videos
 
