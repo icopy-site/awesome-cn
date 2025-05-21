@@ -104,21 +104,30 @@ Community plugins owned by [Capacitor organisation](https://github.com/capacitor
 ## [Capgo plugins](https://capgo.app/)
 Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained by [@riderx](https://github.com/riderx) and community member with Open collective .
 
-- [Live Update](https://github.com/Cap-go/capacitor-updater) - Live update for capacitor app.
-- [Crisp](https://github.com/Cap-go/capacitor-crisp) - Crisp chat SDK for your app.
-- [Flash](https://github.com/Cap-go/capacitor-flash) - Switch the Flashlight / Torch of your device.
-- [Mute](https://github.com/Cap-go/capacitor-mute) - Detect silent mode and mute audio.
-- [Native audio](https://github.com/Cap-go/native-audio) - Capacitor plugin for native audio engine (fork).
-- [Native Geocoder](https://github.com/Cap-go/capacitor-nativegeocoder) - Native forward and reverse geocoding.
-- [Native market](https://github.com/Cap-go/native-market) - Capacitor community plugin for native market for Play Store/App Store.
-- [Screen recorder](https://github.com/Cap-go/capacitor-screen-recorder) - Record screen and save to pelicule.
-- [In app Browser](https://github.com/Cap-go/capacitor-inappbrowser) - Browser In app browser with urlChangeEvent and ability to clear cookie.
-- [Camera preview](https://github.com/Cap-go/camera-preview) - Capacitor plugin that allows camera interaction from HTML code (fork).
-- [Shake](https://github.com/Cap-go/capacitor-shake) - Detect shake gesture in device.
-- [Navigation bar](https://github.com/Cap-go/capacitor-navigation-bar) - Set navigation bar color for android lolipop and higher.
-- [Video Player IVS](https://github.com/Cap-go/ivs-player) - Native Ivs player for Capacitor app Android and IOS.
-- [Home indicator](https://github.com/Cap-go/home-indicator) - Hide and show home button indicator in Capacitor app.
-- [Native Purchases](https://github.com/Cap-go/native-purchases) - Manage IAP on capacitor with latest libs Android and IOS.
+- [Native Market](https://github.com/riderx/native-market/) - A native market plugin for linking to google play or app store.
+- [Native Biometric](https://github.com/Cap-go/capacitor-native-biometric/) - This plugin gives access to the native biometric apis for android and iOS
+- [Camera Preview](https://github.com/Cap-go/camera-preview/) - Camera preview
+- [Updater](https://github.com/Cap-go/capacitor-updater/) - Live update for capacitor apps
+- [Uploader](https://github.com/Cap-go/capacitor-uploader/) - Background Uploader for capacitor apps
+- [Purchases](https://github.com/RevenueCat/purchases-capacitor/) - In-app Subscriptions Made Easy with RevenueCat sdk
+- [Flash](https://github.com/riderx/capacitor-flash/) - Switch the Flashlight / Torch of your device.
+- [Screen Recorder](https://github.com/riderx/capacitor-screen-recorder/) - Record device's screen
+- [Crisp](https://github.com/Cap-go/capacitor-crisp/) - Crisp native SDK for capacitor
+- [Native Geocoder](https://github.com/Cap-go/capacitor-nativegeocoder/) - Capacitor plugin for native forward and reverse geocoding
+- [In App Browser](https://github.com/Cap-go/capacitor-inappbrowser/) - Capacitor plugin in app browser
+- [Mute](https://github.com/riderx/capacitor-mute/) - Detect if the mute switch is enabled/disabled on a device
+- [Native Audio](https://github.com/Cap-go/native-audio/) - A native plugin for native audio engine
+- [Shake](https://github.com/Cap-go/capacitor-shake/) - Detect shake gesture in device
+- [Navigation Bar](https://github.com/Cap-go/capacitor-navigation-bar/) - Set navigation bar color for android lolipop and higher
+- [IVS Player](https://github.com/Cap-go/ivs-player/) - Ivs player for capacitor app
+- [Indicator](https://github.com/Cap-go/home-indicator/) - hide and show home button indicator in Capacitor app
+- [Native Purchases](https://github.com/Cap-go/native-purchases/) - In-app Subscriptions Made Easy
+- [Data Storage](https://github.com/Cap-go/capacitor-data-storage-sqlite/) - Capacitor SQLite Storage
+- [Usage Stats Manager](https://github.com/Cap-go/capacitor-android-usagestatsmanager/) - Capacitor plugin for android usage stats manager
+- [Streamcall](https://github.com/Cap-go/capacitor-streamcall/) - Capacitor plugin for streamcall
+- [Social Login](https://github.com/Cap-go/capacitor-social-login/) - Capacitor plugin for social login
+- [JW Player](https://github.com/Cap-go/capacitor-jw-player/) - Capacitor plugin for jw player
+- [Ricoh360 Camera](https://github.com/Cap-go/capacitor-ricoh360-camera-plugin/) - Capacitor plugin for ricoh360 camera
 
 
 ## [Capawesome plugins](https://capawesome.io/)

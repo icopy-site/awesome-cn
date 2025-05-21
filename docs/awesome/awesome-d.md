@@ -208,6 +208,10 @@
 
 * [warp](https://github.com/facebookarchive/warp) - A fast preprocessor for C and C++ used in Facebook infrastructure. Written by Walter Bright.
 
+## Version Manager
+* [dvm](https://github.com/jacob-carlborg/dvm) - A small tool to install and manage DMD (self-hosting) compiler.
+* [ldcup](https://github.com/kassane/ldcup) - A small tool to install and manage LDC2 (LLVM backend) compiler.
+
 ## Javascript
 * [higgs](https://github.com/higgsjs/Higgs) -  Higgs JavaScript Virtual Machine, implemented in D.
 
