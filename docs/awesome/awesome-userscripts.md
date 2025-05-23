@@ -1,5 +1,5 @@
 <div class="github-widget" data-repo="bvolpato/awesome-userscripts"></div>
-## Awesome Userscripts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/brunocvcunha/awesome-userscripts.svg?branch=master)](https://travis-ci.org/brunocvcunha/awesome-userscripts) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+## Awesome Userscripts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 A curated list of Awesome Userscripts.
 
@@ -23,7 +23,7 @@ To use user scripts you need to first install a user script manager. Here are ma
   - Supports both GM 3 and GM 4 userscripts.
 - [**USI**](https://addons.mozilla.org/firefox/addon/userunified-script-injector/) - Firefox
   - Supports some GM 3 userscripts.
-- [**Violentmonkey**](https://violentmonkey.github.io/) - Chrome, Firefox, Maxthon, Opera
+- [**Violentmonkey**](https://violentmonkey.github.io/) - Edge, Firefox
   - Supports both GM 3 and GM 4 userscripts.
 
 The most popular userscript managers are Greasemonkey, Tampermonkey, and Violentmonkey.
@@ -74,48 +74,15 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 ### GitHub
 
 * [Gist to dabblet](https://github.com/Mottie/GitHub-userscripts/wiki/Gist-to-dabblet) - Add a Dabblet link to Gists saved from Dabblet.
-* [GitHub Commit Diff](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Diff#readme) - Adds button to show diff (or patch) file for commit.
 * [GitHub Commit Labels](https://github.com/nazdridoy/github-commit-labels) - Add beautiful labels to conventional commits on GitHub.
-* [GitHub Commit Whitespace](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Whitespace#readme) - Adds button to hide whitespace diffs from commits.
-* [GitHub Custom Emojis](https://github.com/StylishThemes/GitHub-Custom-Emojis) - Add custom emojis anywhere on GitHub.
-* [GitHub Dark Script](https://github.com/StylishThemes/GitHub-Dark-Script) - Apply the [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) style to the site.
-* [GitHub Diff File Toggle](https://greasyfork.org/scripts/18788-github-diff-file-toggle) - Add a toggle to each diff file (shift-click toggles all files).
-* [GitHub code colors](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-colors) - Add a color swatch preview to code.
-* [GitHub code folding](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-folding) - Add code folding to files.
-* [GitHub code guides](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-guides) - Add code guides to files and diffs.
-* [GitHub code show whitespace](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-show-whitespace) - Show whitespace (spaces/tabs/carriage returns) in files.
-* [GitHub collapse in comment](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-in-comment) - Toggle long code blocks in comments.
-* [GitHub collapse markdown](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-collapse-markdown) - Toggle markdown headers.
-* [GitHub custom hotkeys](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-custom-hotkeys) - Add your own custom hotkeys to all of GitHub.
-* [GitHub custom navigation](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-custom-navigation) - Add a custom navigation bar to link anywhere.
-* [GitHub diff files filter](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-diff-files-filter) - Add a file type filter to diffs.
-* [GitHub diff links](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-diff-links) - Add next and previous buttons to each diff file.
-* [GitHub font preview](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-font-preview) - Preview OTF, TTF and WOFF font files.
-* [GitHub image preview](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-image-preview) - Add an image preview mode.
-* [GitHub Image Viewer](https://github.com/jerone/UserScripts/tree/master/Github_Image_Viewer#readme) - Preview images from within the file listing.
-* [GitHub indent comments](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-indent-comments) - Use the tab key in comments.
-* [GitHub issue comments](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-comments) - Toggle the view of some issue comments and timeline entries.
-* [GitHub issue counts](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-counts) - Show the number of issues in repository view.
-* [GitHub issue highlighter](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-issue-highlighter) - Highlight the linked issue.
-* [GitHub label color picker](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-label-color-picker) - Add an extensive color picker to the label editor.
 * [GitHub Make Tooltips](https://greasyfork.org/scripts/22194) - Convert all titles into GitHub tooltips.
-* [GitHub Monospace Editor](https://github.com/devxoul/github-monospace-editor) - Provide MonoSpace font on GitHub textareas.
-* [GitHub monospace font toggle](https://greasyfork.org/scripts/18787-github-monospace-font-toggle) - Add a monospace font toggle to comments.
-* [GitHub News Feed Filter](https://github.com/jerone/UserScripts/tree/master/Github_News_Feed_Filter#readme) - Add filters for Github homepage news feed items.
-* [GitHub Pages Linker](https://github.com/jerone/UserScripts/tree/master/Github_Pages_Linker#readme) - Add a link to Github Pages (gh-pages) when available.
 * [GitHub PR Approvals](https://github.com/stowball/github-pr-approvals) - Require approvals in GitHub PRs before merging is allowed.
 * [GitHub Pull Request From Link](https://github.com/jerone/UserScripts/tree/master/Github_Pull_Request_From#readme) - Make pull request branches linkable.
-* [GitHub Reply Comments](https://github.com/jerone/UserScripts/tree/master/Github_Reply_Comments#readme) - Easy reply to Github comments.
-* [GitHub rtl comments](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-rtl-comments) - Add right-to-left indicators in comments.
-* [GitHub search autocomplete](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-search-autocomplete) - Add a search filter autocomplete to all of GitHub.
 * [GitHub Skip Delete Repo Verification](https://greasyfork.org/en/scripts/411790-skip-delete-repo-verification) - Skips the verification step when deleting a repository.
 * [GitHub Star History](https://github.com/adamlui/github-star-history) - Adds star history chart to every repo's sidebar.
 * [GitHub static time](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-static-time) - Convert time ago into a time format of your choice.
 * [GitHub title notification](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-title-notification) - Add a notification indicator to browser tabs.
-* [GitHub Toggle Code Wrap](https://greasyfork.org/scripts/18789-github-toggle-code-wrap) - Toggle code wrapping in files.
-* [GitHub toggle expanders](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-expanders) - Expand or collapse all commit titles.
 * [GitHub toggle wiki sidebar](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-wiki-sidebar) - Toggle wiki sidebar view.
-* [GitHub User Info](https://github.com/jerone/UserScripts/tree/master/Github_User_Info#readme) - Show user information on avatar hover.
 
 
 ### Google
@@ -125,6 +92,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [Google Translate Keyboard Shortcut](https://github.com/Greenek/google-translate-keyboard-shortcut-userscript) - Adds keyboard shortcut for quick swapping between active languages.
 * [GoogleGPT](https://googlegpt.io) - Adds AI chat & search summaries to Google Search, powered by the latest LLMs.
 * [Reddit Search On Google](https://github.com/marioortizmanero/reddit-search-on-google) - Adds a button to your Google searches to show only Reddit posts.
+* [Remove Google Click Tracking](https://greasyfork.org/scripts/1523-remove-google-click-tracking) - Removes Google's click-tracking from result links.
 * [Share Google Slides Control](https://github.com/LostInBrittany/share-google-slides-control) - Remotely share the control of a Google Slides presentation,
 
 
@@ -135,9 +103,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 
 ### Media
 
-* [Handy Image](https://greasyfork.org/scripts/109-handy-image) - Displays the full size image for many image hosting websites, skipping popups and other annoying stuff.
 * [Image Max URL](https://openuserjs.org/scripts/qsniyg/Image_Max_URL) - Finds larger or original versions of images/videos for thousands of supported websites, including a customizable image popup feature.
-* [Mouseover Popup Image Viewer](https://carry0987.github.io/UserJS/Tool/mpiv/website/) - (Deprecated) Shows images and videos behind links and thumbnails.
 * [Mouseover Popup Image Viewer (updated fork)](https://greasyfork.org/scripts/394820-mouseover-popup-image-viewer) - An updated fork of MPIV, maintained by one of Violentmonkey's developers.
 * [Picviewer CE+](https://greasyfork.org/scripts/24204-picviewer-ce) - Powerful picture viewing tool which can popup/scale/rotate/batch save pictures automatically.
 * [Show and reload broken images](https://greasyfork.org/scripts/790-show-and-reload-broken-images) - Show and reload broken images, even when it contains "alt" tag.
@@ -162,9 +128,19 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [URL Shortener Unshortener](https://greasyfork.org/scripts/5359-url-shortener-unshortener) - Adds small button next to shortened URLs that will replace the shortened URLs with their real locations and vice-versa. Useful for when you don't want to blindly click links.
 
 
+### Text-to-speech
+
+* [ChatGPT Auto-Talk](https://github.com/adamlui/chatgpt-auto-talk) - Automatically play ChatGPT responses.
+
+
+### Translation
+
+* [Google Translate Keyboard Shortcut](https://github.com/Greenek/google-translate-keyboard-shortcut-userscript) - Adds keyboard shortcut for quick swapping between active languages.
+* [Immersive Translate](https://immersivetranslate.com/) - Translates text on any page.
+
+
 ### YouTube
 
-* [Hide YouTube recommendations](https://github.com/artli/hide-youtube-recommendations) - Hides the thumbnails and titles of the recommended videos to reduce distraction and procrastination.
 * [YouTube Classic](https://ytclassic.com/greasemonkey) - Reverts YouTube to its classic design (unround corners, restore dislikes + remove/redirect Shorts) + block thumbnail ads.
 * [YouTube Commenter Names](https://gist.github.com/lumynou5/74bcbab54cd9d8fcd3c873fffbac5d3d) - Make YouTube display the names of commenters instead of their handles.
 * [YouTube Peek Preview](https://greasyfork.org/en/scripts/370755-youtube-peek-preview) - See video thumbnails, ratings and other details when you mouse over a YouTube link from almost any website.

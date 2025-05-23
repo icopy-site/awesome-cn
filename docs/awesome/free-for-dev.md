@@ -31,7 +31,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
     * Cloud Build - 120 build-minutes per day
     * Cloud Source Repositories - Up to 5 Users, 50 GB Storage, 50 GB Egress
     * [Google Colab](https://colab.research.google.com/) - Free Jupyter Notebooks development environment.
-    * [idx.dev](https://idx.dev) Google Project IDX. Online VSCode running on Google Cloud.
+    * [Firebase Studio](https://firebase.studio) Google Firebase Studio (formerly Project IDX). Online VSCode running on Google Cloud.
     * Full, detailed list - https://cloud.google.com/free
 
   * [Amazon Web Services](https://aws.amazon.com)
@@ -343,7 +343,6 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
 
 ## Tools for Teams and Collaboration
-
   * [3Cols](https://3cols.com/) - A free cloud-based code snippet manager for personal and collaborative code.
   * [Bitwarden](https://bitwarden.com) — The easiest and safest way for individuals, teams, and business organizations to store, share, and sync sensitive data.
   * [Braid](https://www.braidchat.com/) — Chat app designed for teams. Free for public access group, unlimited users, history, and integrations. also, it provides a self-hostable open-source version.
@@ -351,6 +350,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Calendly](https://calendly.com) — Calendly is the tool for connecting and scheduling meetings. The free plan provides 1 Calendar connection per user and Unlimited sessions. Desktop and Mobile apps are also offered.
   * [Discord](https://discord.com/) — Chat with public/private rooms. Markdown text, voice, video, and screen sharing capabilities. Free for unlimited users.
   * [Telegram](https://telegram.org/) — Telegram is for everyone who wants fast, reliable messaging and calls. Business users and small teams may like the large groups, usernames, desktop apps, and powerful file-sharing options.
+  * [DevToolLab](https://devtoollab.com) — Online developer tools offering free access to all basic tools, with the ability to auto save one entry per tool, standard processing speed, and community support.
   * [Dubble](https://dubble.so/) — Free Step-by-Step Guide creator. Take screenshots, document processes and colloborate with your team. Also supports async screen recording.
   * [Duckly](https://duckly.com/) — Talk and collaborate in real time with your team. Pair programming with IDE, terminal sharing, voice, video, and screen sharing. Free for small teams.
   * [Dyte](https://dyte.io) - The most developer-friendly live video & audio SDK, featuring collaborative plugins to enhance productivity and engagement. The free tier includes monthly 10,000 minutes of live video/audio usage.
@@ -778,7 +778,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [assertible.com](https://assertible.com) — Automated API testing and monitoring. Free plans for teams and individuals.
   * [bleemeo.com](https://bleemeo.com) - Free for 3 servers, 5 uptime monitors, unlimited users, unlimited dashboards, unlimited alerting rules.
   * [Core Web Vitals History](https://punits.dev/core-web-vitals-historical/) - Find Core Web Vitals history for a url or a website.
-  * [checklyhq.com](https://checklyhq.com) - Open source E2E / Synthetic monitoring and deep API monitoring for developers. Free plan with five users and 50k+ check runs.
+  * [checklyhq.com](https://checklyhq.com) - Open source E2E / Synthetic monitoring and deep API monitoring for developers. Free plan with one user and 10k API & network / 1.5k browser check runs.
   * [cloudsploit.com](https://cloudsploit.com) — AWS security and configuration monitoring. Free: unlimited on-demand scans, unlimited users, unlimited stored accounts. Subscription: automated scanning, API access, etc.
   * [cronitor.io](https://cronitor.io/) - Performance insights and uptime monitoring for cron jobs, websites, APIs and more. A free tier with five monitors.
   * [datadoghq.com](https://www.datadoghq.com/) — Free for up to 5 nodes

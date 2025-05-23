@@ -128,6 +128,7 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [Social Login](https://github.com/Cap-go/capacitor-social-login/) - Capacitor plugin for social login
 - [JW Player](https://github.com/Cap-go/capacitor-jw-player/) - Capacitor plugin for jw player
 - [Ricoh360 Camera](https://github.com/Cap-go/capacitor-ricoh360-camera-plugin/) - Capacitor plugin for ricoh360 camera
+- [Autofill save password](https://github.com/Cap-go/capacitor-autofill-save-password/) - Capacitor plugin to save login into device password managager
 
 
 ## [Capawesome plugins](https://capawesome.io/)
