@@ -7,7 +7,7 @@
 > An awesome list about Java platform Micro edition[(J2ME)](https://en.wikipedia.org/wiki/Java_Platform,_Micro_Edition). Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games. J2ME is a Java specification designed for old keypad phones and PDAs. MIDP is used to create Midlets, which have `.jad` or `.jar` extension, and run on platforms like old keypad phones, Symbian and PDAs.
 
 <!--lint disable double-link-->
-Please give it a star(⭐) to support the development. Read about history of Awesome J2ME and reverse engineering projects in <a href="https://hstsethi.vercel.app/posts/programming/awesome-j2me">this blog post</a>.
+Please give it a star(⭐) to support the development. Read about history of Awesome J2ME and reverse engineering projects in <a href="https://hstsethi.vercel.app/posts/programming/awesome-j2me">this blog post</a>. Also check out [Awesome Symbian](https://github.com/hstsethi/awesome-symbian).
 
 
 

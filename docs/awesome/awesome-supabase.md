@@ -38,6 +38,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Supanext](https://www.supanext.com/) - Supabase starter with Next.js, including AI app examples, auth, billing, settings, landing page, blog, and more.
 - [SupaSasS Lite](https://github.com/Razikus/supabase-nextjs-template) - Open source Next.js SasS template (with 2FA, and example app)
 - [SupaSocial](https://github.com/koji0701/supabase-react-social-media-starter/tree/main) - React social media starter with auth, friend requests, profile pics, and example app (profile, friends, signin, leaderboard, and more pages).
+- [Extro](https://github.com/turbostarter/extro) - Open source browser extension starter kit.
 
 ## Data Migration Tools
 
