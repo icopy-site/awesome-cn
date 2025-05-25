@@ -34,6 +34,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/Fox
 - [GC Wizard Web View](https://gcwizard.net/) - A web view of the GC Wizard app.
 - [SolvedJigidi](https://solvedjigidi.com/) - The database of solved Jigidi geocaches.
 - [Webwigo](https://www.webwigo.net/) - Website for virtual playing of Wherigo geocaches.
+- [The A-Team Caching - Souvenirs](https://thea-team.net/souvenir) - Website with information on all souvenirs.
 
 
 ## Apps
