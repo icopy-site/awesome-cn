@@ -71,6 +71,13 @@ We also have a list of <a href="UNMAINTAINED.md">unmaintained projects</a>. If y
 
 * [Baremaps](https://www.baremaps.com/) - Open source pipeline for producing Mapbox vector tiles from OpenStreetMap with Postgis and Java. ([Source Code](https://github.com/baremaps/baremaps))
 
+### Browser Extensions
+
+* [better-osm-org](https://github.com/deevroman/better-osm-org) - Userscript that adds visualization of changesets and many other useful features to OSM website.
+* [OpenStreetMap Tags Editor](https://github.com/Zverik/osmtags-editor) - Adds the ability to edit OSM object tags.
+* [OpenStreetMap Human-readable Wikidata](https://community.openstreetmap.org/t/announcing-human-readable-wikidata-browser-plugins-for-openstreetmap-org/108180) - Shows descriptions and illustrations for wiki tags ([Source Code](https://github.com/ZeLonewolf/osm-wikidata-greasemonkey)).
+* [OpenSwitchMaps](https://github.com/tankaru/OpenSwitchMaps) -  Map service switcher for [Firefox](https://addons.mozilla.org/firefox/addon/openswitchmaps/) and [fork](https://github.com/limex/OpenSwitchMaps-v3) with Manifest v3 support.
+* [JumpToOSMChangesetAnalyzer](https://github.com/tankaru/JumpToOSMChangesetAnalyzer) - Jump from OpenStreetMap changeset to changeset analyzer services.
 
 ## Changeset Tools
 

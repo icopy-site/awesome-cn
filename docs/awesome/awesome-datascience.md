@@ -646,12 +646,14 @@ This section includes some additional reading material, channels to watch, and t
 - [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science)
 - [Medium Data Science Topic](https://medium.com/tag/data-science) - Data Science related publications on medium
 - [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A%20genetic%20algorithm%20is%20a,offspring%20of%20the%20next%20generation.) -Genetic Algorithm related Publications towards Data Science
+- [Maxim AI](https://getmaxim.ai). Tool for AI Agent Simulation, Evaluation & Observability. 
 
 ### Newsletters
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [DataTalks.Club](https://datatalks.club). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
 - [The Analytics Engineering Roundup](https://roundup.getdbt.com/about). A newsletter about data science. [Archive](https://roundup.getdbt.com/archive).
+
 
 ### Bloggers
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -735,6 +737,8 @@ This section includes some additional reading material, channels to watch, and t
 - [Santiago Basulto](https://medium.com/@santiagobasulto) - Data Science with Python
 - [Akhil Soni](https://medium.com/@akhil0435) - ML, DL and Data Science
 - [Akhil Soni](https://akhilworld.hashnode.dev/) - ML, DL and Data Science 
+- [Applied AI Blogs](https://www.appliedaicourse.com/blog/) - In-depth articles on AI, machine learning, and data science concepts with practical applications.
+- [Scaler Blogs](https://www.scaler.com/blog/) - Educational content on software development, AI, and career growth in tech.
 
 ### Presentations
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -1077,6 +1081,7 @@ Some data mining competition platforms
 - [Top 13 Data Science Programming Languages](https://www.appliedaicourse.com/blog/data-science-programming-languages/)
 - [40+ Data Analytics Projects Ideas](https://www.appliedaicourse.com/blog/data-analytics-projects-ideas/)
 - [Best Data Science Courses with Certificates](https://www.appliedaicourse.com/blog/best-data-science-courses/)
+- [Generative AI Models](https://www.appliedaicourse.com/blog/generative-ai-models/)
 
 
 ### Hobby
