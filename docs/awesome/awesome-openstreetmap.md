@@ -216,6 +216,7 @@ The services in this category allow you to track personal and fitness goals util
 
 * [OpenGeofiction](https://opengeofiction.net/) - A completely fictional user-made world map, created using the OSM software platform. ([Wiki](https://wiki.openstreetmap.org/wiki/OpenGeofiction))
 * [OSM Monitor](https://osm-monitor.com/) - A website to monitor and display new OSM edits. ([Source Code](https://github.com/johanmorganti/osm-datadog))
+* [OpenHistoricalMap](https://www.openhistoricalmap.org/) - Mapping places throughout the world… throughout the ages, created using the OSM software platform. ([Wiki](https://wiki.openstreetmap.org/wiki/OpenHistoricalMap))
 
 ## Video
 
