@@ -247,6 +247,9 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 - [![a_pp]](#-) [PowerPoint VBA](https://pptvba.com/) - A site devoted to teaching VBA through making games in PowerPoint.
 - [MS KB Archive](https://github.com/jeffpar/kbarchive/tree/master/id/vbwin) - Massive archive of vb6/vba problems, solutions and tutorials.
 - [Sancarn's vba-articles](https://sancarn.github.io/vba-articles/) - Sancarn's articles on various topics related to VBA.
+- [![a_ac]](#-) [No Longer Set](https://nolongerset.com) - Access + VBA site of Microsoft MVP Mike Wolfe. Provides weekly updates on development of TwinBasic.
+- [![a_ac]](#-) [Isladogs on Access](https://isladogs.co.uk/) - Access + VBA site of Microsoft MVP Colin Riddington. Excellent resource with VBA projects in Access VBA.
+- [![a_ac]](#-) [DevHut](https://www.devhut.net/) - Access + VBA site of Daniel Pineault. Publishes series of deep-dive articles into various uses of VBA. Companion site to Youtube account.
 
 ### Books
 
@@ -269,6 +272,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 - [Excel for Freelancers](https://www.youtube.com/c/ExcelForFreelancers) - Hands-on tutorials to developing specific applications from beginning through to end. All levels.
 - [Leila Gharani](https://www.youtube.com/c/LeilaGharani) - Office-wide focus - useful for beginners.
 - [![o_paid]](#- 'The video is from a consultant. Many of his videos are paid for.') [Get to know VBA](https://youtu.be/MFR_XARJjoY) - Some great applications presented and created with VBA.
+- [![a_ac]](#-) [D Pineault - Tech, Programming and more](https://www.youtube.com/channel/UC9lSC6AT4d0qour-aIbMjFQ) - Youtube channel of Daniel Pineault. Companion channel to DevHut site.
 
 ### Forums
 
@@ -281,6 +285,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 - [Excel Forum](https://www.excelforum.com/)
 - [![a_ol]](#-) [Slipstick](https://www.forums.slipstick.com) - Excellent forum for the Slipstick website (Outlook VBA) of Diane Poremsky (MVP). Diane is quick to respond, and her answers are extremely helpful.
 - [VBForums - Office Development](https://www.vbforums.com/forumdisplay.php?37-Office-Development) - Forum with focus on VB6/.NET with VBA section.
+- [![a_ac]](#-) [Access World](https://www.access-programmers.co.uk/forums/forums/modules-vba.12/) - Forum with focus on Access and Access VBA.
 
 ## Footnotes
 
