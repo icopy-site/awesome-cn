@@ -137,6 +137,7 @@ _A list of resources dedicated to RaspberryPi hardware_
 _Interesting articles and case studies from BLE development_
 
 - [Scan and connect to BLE in background on iOS](https://medium.com/@cbartel/ios-scan-and-connect-to-a-ble-peripheral-in-the-background-731f960d520d) - Article discussing case study (for both firmware and app) of scanning and connecting to BLE device in background 
+- [Deep dive to iOS advertising in backgroud](http://www.davidgyoungtech.com/2020/05/07/hacking-the-overflow-area) - Delves into iOS's proprietary 'Overflow Area' for background Bluetooth advertising and it's possibilities and limitations for background data exchange.
 
 ## Contributing
 

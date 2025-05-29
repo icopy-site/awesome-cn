@@ -367,6 +367,7 @@ Software, tools, and platforms that employ models that draw inferences from data
 - [OECD AI Policy Observatory](https://oecd.ai/en/) - OECD AI Policy Observatory provides a platform for resources on applications, poicy implications, and literature regarding Artificial Intelligence.
 - [LM Studio](https://lmstudio.ai/) - This [free for personal use](https://lmstudio.ai/terms) software enables users to download large language models and run them locally within a desktop chat interface.
 - [Tune Studio](https://studio.tune.app/) - Playground for software developers to finetune and deploy large language models.
+- [Roboflow](https://roboflow.com/) - A cloud based platform engineered to accelerate computer vision model development and deployment that can help build public sector applications.  
 
 ### Digital Twins Tools and Platforms
 Software, tools, and platforms specifically marketed as helping support the creation, visualization, operation, or maintenance of [smart city digital twins](https://www.planning.org/publications/document/9209455/).

@@ -880,6 +880,7 @@ become an Angular expert.
 * [dataclouder-template-angular](https://github.com/dataclouder-dev/dataclouder-template-angular) - A ready-to-use Angular/Ionic template with Firebase Authentication integration.
 * [angular-tailwind-e-commerce-template](https://github.com/Kei-K23/angular-tailwind-e-commerce-template) - This responsive e-commerce template, built with Angular and TailwindCSS, combines modern aesthetics with functionality. Designed as a foundation for developing robust e-commerce applications, it features a sleek, customizable design, perfect for minimalist online shops.
 * [ngx-lib-starter-kit](https://github.com/r3zafa/ngx-lib-starter-kit) - This boilerplate helps you quickly set up and develop Angular libraries. It includes a pre-configured structure for components, services, utilities, themes, assets, and more. The project is optimized for scalability and maintainability.
+* [tailwind-angular-starter](https://github.com/themesberg/tailwind-angular-starter) - Free and open-source starter project to help you get started with Angular, Tailwind CSS, and the [Flowbite UI components](https://github.com/themesberg/flowbite-angular).
 
 ##### Paid
 
@@ -938,6 +939,7 @@ become an Angular expert.
 * [swc-angular](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular) - This is a set of Angular presets that enable you to use SWC (Speedy Web Compiler) with Jest or Vitest.
 * [swc-angular-plugin](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular-plugin) - SWC (Speedy Web Compiler) is a lightning-fast JavaScript/TypeScript compiler, but it doesn't support Angular so you need this plugin.
 * [wdio-harness](https://github.com/badisi/wdio-harness) - WebdriverIO support for Angular component test harnesses.
+* [testronaut](https://github.com/testronaut/testronaut) - [Testronaut](https://testronaut.github.io/testronaut/) revolutionizes Angular component testing by running components in a real browser with Angular’s own build process, ensuring they behave exactly as they do in production. It eliminates mocks and guesswork, allowing developers to visually inspect output and write tests using Playwright’s powerful API for precise, real-world validation.
 
 ##### Guides
 
@@ -1392,6 +1394,7 @@ to simplify usage and allow quick customization.
 * [ngx-input-errors](https://github.com/aks1376/ngx-input-errors) - This project was developed for Angular Reactive Forms to automatically extract and display input validation error messages. This library supports multiple languages and allows for custom error messages for both standard form validations and user-defined validations.
 * [error-message](https://github.com/LuEsc/error-message) - A lightweight, flexible error handling library for Angular applications that provides standardized validation error display and management.
 * [ng-reactive-form-validate](https://github.com/vbnr/ng-reactive-form-validate) - This library streamlines form control validation, displaying error messages based on rules, supporting customizable messages via static strings or observables, integrating with Transloco for translations, and applying default styles for smooth validation label transitions.
+* [angular-password-checker](https://github.com/akehir/angular-password-checker) - Protect your users from re-using a password known to be hacked with this simple Angular directive.
 
 #### Icons
 
