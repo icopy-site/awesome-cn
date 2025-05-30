@@ -70,6 +70,7 @@ _Production ready game engines to tinker with, explore, learn and inspire._
 - 💰 [RPG in a Box](https://www.rpginabox.com) - Turn your stories and ideas into games, built with _Godot_.
 - 💰 [RPG Maker](https://www.rpgmakerweb.com) - Create an original role-playing game without any specialized knowledge.
 - 🔒 [Twine](https://github.com/klembot/twinejs) - Tool for telling interactive, nonlinear stories.
+- 💸 [Unbound](https://www.unbound.io/) - SDF‑powered game engine. Intuitively sculpt & script 3D games.
 
 <br />
 <br />
@@ -181,7 +182,7 @@ _Info on topics necessary for designing and developing game engines._
 _Language specific game engine development libraries / frameworks / code._
 
 ### BASIC
-- 🎉 [Basics Page](http://basic.mindteq.com/index.php?i=popular) - Comprehensive list of BASIC languages.
+- 📚 [Awesome Basic](https://github.com/JohnBlood/awesome-basic) - List of awesome BASIC dialects, IDEs, and tutorials.
 - BASIC: App Framework
     - 💰 [Basic for Qt](https://www.q7basic.org/index.html) - BASIC language and environment built with _Qt_. Formerly _Q7Basic_.
     - 🎉 [QB64](https://github.com/QB64Team/qb64) - Modern BASIC+OpenGL language, retains _QBasic_ / _QB4.5_ compatibility.
@@ -323,8 +324,8 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Drop Creator](https://github.com/scidian/drop) - No code, 2.5D game engine built with _Qt_, OpenGL and _Chipmunk Physics_.
     - 🔒 [Enigma](https://github.com/enigma-dev/enigma-dev) - GameMaker compatible 2D engine.
     - 🎉 [Esoterica Engine](https://github.com/BobbyAnguelov/Esoterica) - High-performance game engine with editor and AAA quality animation graph.
-    - 🎉 [Ethereal Engine](https://github.com/volcoma/EtherealEngine) - Cross-platform game engine and editor.
-    - 🎉 [ezEngine](https://github.com/ezEngine/ezEngine) - Game engine in active development. [[Editor Info](http://ezengine.net/pages/getting-started/editor-overview.html)]
+    - 🎉 [Ethereal Engine](https://github.com/ir-engine/etherealengine-archive) - Cross-platform game engine and editor.
+    - 🎉 [ezEngine](https://github.com/ezEngine/ezEngine) - Game engine in active development.
     - 🎉 [FIFE](https://github.com/fifengine/fifengine) - Multi-platform isometric game engine.
     - 🎉 [Irrlicht](https://sourceforge.net/projects/irrlicht/) - Cross-platform 3D engine worked on for nearly 2 decades. [[Website](https://irrlicht.sourceforge.io/)]
     - 🎉 [Limon Engine](https://github.com/enginmanap/limonEngine) - 3D FPS game engine with full dynamic lighting and shadows.
@@ -339,7 +340,6 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Rootex](https://github.com/sdslabs/rootex) - Advanced C++ 3D game engine powering an in-production game.
     - 🎉 [Skylicht](https://github.com/skylicht-lab/skylicht-engine) - Upgraded features including audio, physics and particles. Built on _Irrlicht_.
     - 🎉 [Spartan Engine](https://github.com/PanosK92/SpartanEngine) - Emphasis on quality and performance.
-    - 🎉 [Toolkit](https://github.com/Oyun-Teknolojileri/ToolKit) - Simple 2D/3D game and app develepment kit.
     - 🎉 [Torque 3D](https://github.com/GarageGames/Torque3D) - High-performance 3D engine built on _The Forge_.
     - 🔒 [UPBGE](https://github.com/UPBGE/upbge) - Blender game engine, originally forked from _Blender_.
 - C++: Game Framework
@@ -507,7 +507,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [LeoECS](https://github.com/Leopotam/ecs) - ECS framework powered by C# with optional integration to _Unity_.
 - C#: Game Engine w/Editor
     - 🎉 [Duality](https://github.com/AdamsLair/duality) - Modular 2D engine, editor built with _OpenTK_.
-    - 🎉 [Flat Red Ball](https://github.com/vchelaru/FlatRedBall) - 2D game engine & design tools, built with _MonoGame_. [[Gui Editor](http://vchelaru.github.io/Gum/) | [Website](https://flatredball.com/)]
+    - 🎉 [Flat Red Ball](https://github.com/vchelaru/FlatRedBall) - 2D game engine & design tools, built with _MonoGame_. [[Website](https://flatredball.com/)]
     - 🎉 [Murder](https://github.com/isadorasophia/murder) - Pixel-art, ECS game engine built on _MonoGame_. [[Docs](https://isadorasophia.com/murder/)]
     - 🎉 [Stride](https://github.com/stride3d/stride) - Game engine for realistic rendering and VR. Formerly _Xenko_. [[Website](https://www.stride3d.net/)]
     - 💸 [Unity](https://store.unity.com/) - Biggest name in game engines, industry standard.
@@ -542,7 +542,7 @@ _Language specific game engine development libraries / frameworks / code._
 - Dart: File Formats
     - 🎉 [image](https://github.com/brendan-duncan/image) - Library for decoding / encoding image formats and image processing.
 - Dart: Game Framework
-    - 🎉 [Flame](https://github.com/flame-engine/flame) - Minimalist _Flutter_ based 2D game engine. [[Awesome](https://github.com/flame-engine/awesome-flame#readme) | [Examples](https://examples.flame-engine.org/#/) | [Tutorials](https://tutorials.flame-engine.org/#/) | [Website](https://flame-engine.org/)]
+    - 🎉 [Flame](https://github.com/flame-engine/flame) - Minimalist _Flutter_ based 2D game engine. [[Awesome](https://github.com/flame-engine/awesome-flame#readme) | [Examples](https://examples.flame-engine.org/#/) | [Website](https://flame-engine.org/)]
 
 ### F#
 - 📚 [Awesome F#](https://github.com/fsprojects/awesome-fsharp) - Curated list of frameworks, libraries, software and resources.
@@ -766,7 +766,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Filament for Web](https://github.com/google/filament/tree/main/web/filament-js) - WebAssembly build of Google's 3D graphics library, Filament. [[Demos](https://google.github.io/filament/webgl/)]
     - 🎉 [Four](https://github.com/CodyJasonBennett/four) - Minimal three.js alternative.
     - 🎉 [Hilo3d](https://github.com/hiloteam/Hilo3d) - WebGL 3D rendering engine by _Alibaba_.
-    - 🎉 [Litescene.js](https://github.com/jagenjo/litescene.js) - WebGL 3D engine library, used by [WebGLStudio](https://webglstudio.org).
+    - 🎉 [Litescene.js](https://github.com/jagenjo/litescene.js) - WebGL 3D engine library, used by WebGLStudio.
     - 🎉 [LUME](https://github.com/lume/lume) - Simplifies the creation of interactive 2D/3D experiences.
     - ⭐ [OGL](https://github.com/oframe/ogl) 🔥 - Fast, powerful, minimal WebGL library. [[Examples](https://oframe.github.io/ogl/examples)]
     - 🎉 [PicoGL.js](https://github.com/tsherif/picogl.js) - Minimal WebGL 2 rendering library. [[Examples](https://tsherif.github.io/picogl.js/)]
@@ -858,7 +858,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [PreloadJS](https://github.com/CreateJS/PreloadJS) - Preloading assets w/progress events.
     - 🎉 [Struct Vec](https://github.com/moomoolive/struct-vec) - JavaScript array-like containers for multithreading.
 - JavaScript: Timeline
-    - 🎉 [Frame.js](https://github.com/mrdoob/frame.js/) - JavaScript sequence editor. [[Examples](https://framejs.app/)]
+    - 🎉 [Frame.js](https://github.com/mrdoob/frame.js/) - JavaScript sequence editor.
     - 🎉 [Neo](https://github.com/lo-th/neo) - Timeline for JavaScript. [[Demo](http://lo-th.github.io/neo/)]
 - JavaScript: Video
     - 💸 [Remotion](https://github.com/remotion-dev/remotion) - Create videos programmatically in React. [[Website](https://www.remotion.dev/)]
@@ -1060,7 +1060,6 @@ _Exploring specialty game engine / game development topics and features._
     - 📚 [Shadow Mapping](https://en.m.wikipedia.org/wiki/Shadow_mapping) - Shadow mapping and the techniques used to acheive it.
 - Volumetric
     - 🌎 [Threex Volumetric Spotlight](http://jeromeetienne.github.io/threex.volumetricspotlight/examples/basic.html) - Great example of volumetric lighting with Three.js. [[Source](https://github.com/jeromeetienne/threex.volumetricspotlight)]
-    - 📚 [Volumetric Light Approximation](http://bkcore.com/blog/3d/webgl-three-js-volumetric-light-godrays.html) - Volumetric light approximation (godrays) with Three.js.
 
 ### Network
 - 📚 [Source Multiplayer Networking](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking) - _Valve_'s Source Engine multiplayer system.
@@ -1077,7 +1076,6 @@ _Exploring specialty game engine / game development topics and features._
 - Platformer
     - 📚 [2D Physics Games](https://www.gamedeveloper.com/design/how-to-create-2d-physics-games-with-box2d-library) - Using Box2D for water, ropes, gravity, lines, vehicles, etc.
     - 📚 [Basic 2D Platformer Physics](https://gamedevelopment.tutsplus.com/series/basic-2d-platformer-physics--cms-998) - How to create a physics system for a platformer.
-    - 📚 [Ledge Grabbing](https://gamedevelopment.tutsplus.com/tutorials/basic-2d-platformer-physics-part-4--cms-26046) - Tutorial on ledge grabbing in 2D platformer physics.
 - Ropes / Chains
     - 📚 [Draw SVG rope using JavaScript](https://muffinman.io/blog/draw-svg-rope-using-javascript/) - SVG path vector rope drawing.
     - 📚 [Ropes in Contraption Maker](https://www.gamedeveloper.com/design/ropes-in-contraption-maker) - Implementing the physics of ropes in _Contraption Maker_.
@@ -1179,6 +1177,10 @@ _Software to help with game engine / video game development._
 - 💰 [Texture Packer](https://www.codeandweb.com/texturepacker) - Create sprite sheets and optimize your game graphics.
 - 🆓 [Tiled](https://www.mapeditor.org) - General-purpose tile map editor for all tile-based games. [[Source](https://github.com/mapeditor/tiled)]
 
+### AI Assistants
+- 💸 [Coplay](https://www.coplay.dev?ref=github&utm_source=stevinz_awesome_game_engine_dev) - Multi-agent AI Assistant for all aspects of Unity game developement.
+- 💸 [Unity Muse](https://unity.com/products/muse) - Unity's suite of AI products.
+
 ### Animation Software
 - 💸 [Cascadeur](https://cascadeur.com) - 3D animation software for physics-based character animation.
 - 🆓 [DragonBones](https://dragonbones.github.io/en/index.html) - Open source 2D game skeletal animation solution. [[Source](https://github.com/DragonBones/)]
@@ -1254,7 +1256,7 @@ _Software to help with game engine / video game development._
 - 💰 [Asset Forge](https://assetforge.io) - Create 3D models and 2D sprites using building blocks.
 - 🆓 [Blender](https://www.blender.org) 🔥 - Standard for open source 3D modeling. [[Source](https://github.com/blender/blender)]
 - 🆓 [Meshroom](https://alicevision.org/#meshroom) - 3D reconstruction, built with the [AliceVision](https://github.com/alicevision/AliceVision) framework. [[Source](https://github.com/alicevision/meshroom)]
-- 💸 [ZBrush Core](https://www.maxon.net/en/zbrushcore) - Simple and easy to use 3D sculpting tool.
+- 💸 [ZBrush](https://www.maxon.net/en/zbrush) - Simple and easy to use 3D sculpting tool.
 
 ### Particle Tools
 - 💸 [Particle Designer](https://www.71squared.com/particledesigner) - Powerful particle effects editor designed for macOS.
