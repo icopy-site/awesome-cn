@@ -763,6 +763,9 @@ become an Angular expert.
 * [backbase-micro-frontends](https://github.com/Backbase/backbase-micro-frontends) - Proof of concept showcasing how legacy apps (widgets) can work together with newer apps (journeys) via Module Federation.
 * [ngx-mfe](https://github.com/dkhrunov/ngx-mfe) - Angular library for working with micro-frontends in Webpack 5 and plugin ModuleFederation.
 * [npm-mfe-live-reload](https://www.npmjs.com/package/npm-mfe-live-reload) - This tool is designed to work in development mode and helps automatically reload the shell application when changes are detected in remote microfrontend applications.
+* [ngx-remote-component](https://github.com/eurusik/ngx-remote-component) - An Angular library for loading remote components dynamically in Nx workspaces.
+* [ngx-mf-remote-loader](https://github.com/eurusik/ngx-mf-remote-loader) - SSR-compatible dynamic remote module loader for Angular + Nx Micro Frontends.
+* [nx-mf-remote-loader-generator](https://github.com/eurusik/nx-mf-remote-loader-generator) - A Nx generator for creating and exposing remote components with SSR support in Module Federation. This generator works in conjunction with `ngx-mf-remote-loader` to provide seamless SSR support for remote components.
 
 #### Monorepos
 
@@ -781,6 +784,7 @@ become an Angular expert.
 * [angular4-paystack](https://github.com/ashinzekene/angular4-paystack) - An Angular module that abstracts the complexity of making [Paystack](https://paystack.com/) payments.
 * [@Flutterwave/Angular-v3](https://github.com/Flutterwave/Angular-v3) - Angular library for [Flutterwave](https://flutterwave.com/) for Business (F4B) v3 APIs.
 * [izipay](https://github.com/antonyayansi/izipay) - Integrate Izipay into your project with minimal configuration and an integrated proxy.
+* [ngx-supabase-stripe](https://github.com/dotted-labs/ngx-supabase-stripe) - An Angular library for integrating Supabase and Stripe into your applications, providing ready-to-use components that simplify the implementation of payments and subscriptions.
 
 #### Security
 
@@ -1175,6 +1179,7 @@ become an Angular expert.
 * [angular-wheel-date-picker](https://github.com/maryland09/angular-wheel-date-picker) - A date picker component for Angular applications that features a scrollable wheel interface similar to native mobile date pickers.
 * [ngx-daterangepicker-pro](https://github.com/Abhinavgaur01/ngx-daterangepicker-pro-demo) - A powerful, customizable Angular date range picker built with Angular 17+ and [Day.js](https://github.com/iamkun/dayjs).
 * [ngx-custom-daterangepicker](https://github.com/nedpuganti/ngx-custom-daterangepicker) - An Angular date range picker component with advanced functionality and Material Design support. It allows for easy date range selection with customizable options and is simple to integrate.
+* [angular-material-jalali-datepicker-adapter](https://www.npmjs.com/package/angular-material-jalali-datepicker-adapter) - A comprehensive Angular library that provides Jalali (Persian/Solar Hijri/Shamsi) date adapter for Angular Material datepicker component.
 
 #### DOM
 
@@ -1455,6 +1460,7 @@ to simplify usage and allow quick customization.
 * [ngx-annotorious](https://github.com/vedph/ngx-annotorious) - Angular wrapper for [Annotorious V3](https://annotorious.dev/), a library that adds annotations to images.
 * [ngx-easy-image-drawing](https://github.com/PsySanchez/ngx-easy-image-drawing) - Angular library for easy image drawing on a canvas.
 * [ngx-blurhash-render](https://github.com/Mohid123/ngx-blurhash-render) - Lighweight library that renders the blurhash of a provided image. For Angular 15+. Requires [blurhash](https://www.npmjs.com/package/blurhash) as a dependency.
+* [red-zoom-angular](https://github.com/scompiler/red-zoom-angular) - A sleek and user-friendly image zoom library, designed as an Angular directive and fully customizable with CSS and SCSS.
 
 #### Keyboard Mouse
 

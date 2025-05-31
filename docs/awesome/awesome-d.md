@@ -211,13 +211,15 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 ## Basic
 
+* [NuMem](https://github.com/Inochi2D/numem) - No-GC memory managment utilities for DLang.
+* [Joka](https://github.com/Kapendev/joka) - A nogc utility library.
 * [hunt](https://github.com/huntlabs/hunt) - A refined core library for D programming language. The module has concurrency / collection / event / io / logging / text / serialize and more.
 * [hunt-time](https://github.com/huntlabs/hunt-time) - A time library and similar to Joda-time and Java.time api.
 * [hunt-validation](https://github.com/huntlabs/hunt-validation) - A data validation library for DLang based on hunt library.
 
 ## Containers
 
-* [EMSI containers](https://github.com/dlang-community/containers) -  Containers that do not use the GC 
+* [EMSI containers](https://github.com/dlang-community/containers) - Containers that do not use the GC 
 - [memutils](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
 - [dlib.container](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
 - [std.rcstring](https://github.com/burner/std.rcstring) - A reference counted string implementation for D's build in string construct
@@ -240,11 +242,11 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [dlang-requests](https://github.com/ikod/dlang-requests) - HTTP client library inspired by python-requests
 * [Handy-Httpd](https://github.com/andrewlalis/handy-httpd) - A simple, lightweight, and well-documented HTTP server that lets you bootstrap ideas and have something up and running in minutes.
 * [serverino](https://github.com/trikko/serverino) - Small and ready-to-go http server, in D
-* [hunt-net](https://github.com/huntlabs/hunt-net) - High-performance network library for D programming language, event-driven asynchonous implemention(IOCP / kqueue / epoll).
-* [hunt-http](https://github.com/huntlabs/hunt-http) - HTTP/1 and HTTP/2 protocol library for D.
 * [libasync](https://github.com/etcimon/libasync) -  Cross-platform event loop library of asynchronous objects
 * [libhttp2](https://github.com/etcimon/libhttp2) -  HTTP/2 library in D, translated from nghttp2
 * [collie](https://github.com/huntlabs/collie) -  An asynchronous event-driven network framework written in dlang, like netty framework in D.
+* [hunt-net](https://github.com/huntlabs/hunt-net) - High-performance network library for D programming language, event-driven asynchonous implemention(IOCP / kqueue / epoll).
+* [hunt-http](https://github.com/huntlabs/hunt-http) - HTTP/1 and HTTP/2 protocol library for D.
 
 *Full stack web frameworks*
 
@@ -302,17 +304,17 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *Clients and bindings to C bliencts for relational and nosql databases.*
 
-* [hunt-entity](https://github.com/huntlabs/hunt-entity) - Hunt entity is an object-relational mapping tool for the D programming language. Referring to the design idea of JPA, support PostgreSQL / MySQL / SQLite.
-* [hunt-database](https://github.com/huntlabs/hunt-database) - Hunt database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite.
 * [vibe.d](https://github.com/vibe-d/vibe.d) - Vibe.d has internal support for Redis and MongoDB, which are very stable. Soon, the database drivers will be separated into independent projects.
+* [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d.
+* [hibernated](https://github.com/buggins/hibernated) - HibernateD is an ORM for D (similar to [Hibernate](https://hibernate.org/)).
 * [mysql-native](https://github.com/mysql-d/mysql-native) - A MySQL client implemented in native D.
 * [ddb](https://github.com/pszturmaj/ddb) - Database access for D2. Currently only supports PostgreSQL.
-* [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d.
 * [ddbc](https://github.com/buggins/ddbc) - DDBC is a DB Connector for D language (similar to JDBC). HibernateD (see below) uses ddbc for database abstraction.
-* [hibernated](https://github.com/buggins/hibernated) - HibernateD is an ORM for D (similar to [Hibernate](https://hibernate.org/)).
 * [dvorm](https://github.com/rikkimax/Dvorm) - An ORM for D with Vibe support. Works with vibe.d and mysql-d, giving it the ability to access MongoDB and MySQL.
 * [Tiny Redis](http://adilbaig.github.io/Tiny-Redis/) - Redis driver for D. Fast, Simple, Stable. Has no dependencies.
 * [libpb](https://github.com/Hax-io/libpb) - INteract with a PocketBase database
+* [hunt-entity](https://github.com/huntlabs/hunt-entity) - Hunt entity is an object-relational mapping tool for the D programming language. Referring to the design idea of JPA, support PostgreSQL / MySQL / SQLite.
+* [hunt-database](https://github.com/huntlabs/hunt-database) - Hunt database abstraction layer for D programing language, support PostgreSQL / MySQL / SQLite.
 
 ## Command Line
 
@@ -410,12 +412,14 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 	* ALURE (DerelictALURE).
 * [Godot-D](https://github.com/godot-d/godot-d) - D language bindings for the Godot Engine's GDNative API
 * [DAllegro5](https://github.com/SiegeLord/DAllegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
-* [DSFML](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. see <http://dsfml.com/>.
+* [DSFML](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. See <http://dsfml.com/>.
+* [raylib-d](https://github.com/schveiguy/raylib-d) - D bindings for raylib.
 
 ## Game Frameworks
 
 *D libraries for game development.*
 
+* [InMath](https://github.com/Inochi2D/inmath) - Games math library for D.
 * [gfm](https://github.com/drug007/gfm7) - D gamedev toolkit.
 * [Dagon](https://github.com/gecko0307/dagon) - 3D game engine for D. see <https://gecko0307.github.io/dagon/>
 * [Voxelman](https://github.com/MrSmith33/voxelman) - Plugin-based client-server voxel game engine written in D language

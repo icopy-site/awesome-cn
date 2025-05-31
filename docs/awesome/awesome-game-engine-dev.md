@@ -987,7 +987,7 @@ _Successful open source video games to pick apart and gain knowledge._
 - 🎉 [Etheral Legends](https://github.com/Soverance/EtherealLegends) - Indie Action RPG built with _Unreal Engine 4_. [[Steam](https://store.steampowered.com/app/428980/Ethereal_Legends/)]
 - 🎉 [OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open source engine. [[Play](http://xproger.info/projects/OpenLara/)]
 - 🎉 [TeeWorlds](https://github.com/teeworlds/teeworlds) - Retro multiplayer shooter. [[Website](https://teeworlds.com/)]
-- 🔒 [zDoom](https://github.com/coelckers/gzdoom) - Modern, feature centric port for all Doom engine games. [[Website](https://zdoom.org/index)]
+- 🔒 [zDoom](https://github.com/ZDoom/gzdoom) - Modern, feature centric port for all Doom engine games.
 
 ### Java
 - 🔒 [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface.

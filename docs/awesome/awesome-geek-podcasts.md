@@ -34,6 +34,7 @@ A curated list of podcasts we like to listen to.
 * [Away from Keyboard](https://changelog.com/afk) – Exploring the human side of creative work.
 * [Azure Friday](https://channel9.msdn.com/Shows/Azure-Friday) - Scott Hanselman sits down with the actual engineers who build Azure on his journey to learn how to program the cloud. No marketing, no BS, just two engineers and a laptop in short manageable chunks.
 * [Base.cs](https://www.codenewbie.org/basecs) - Beginner-friendly computer science lessons based on Vaidehi Joshi's base.cs blog series, produced by CodeNewbie.
+* [Beyond Coding](https://xebia.com/podcasts) - Podcast by Xebia.
 * [Blockchain Insider](https://bi.11fs.com/) - Weekly podcast specialising in all things blockchain, ledger technology and crypto currencies.
 * [Boagworld Show](https://boagworld.com/show) - Boagworld is a podcast about digital strategy, management and user experience. It offers practical advice, news, tools, review and interviews with leading figures in the web design community.
 * [BookBytes](https://www.orbit.fm/bookbytes/) - A book club podcast for developers.
@@ -137,6 +138,7 @@ A curated list of podcasts we like to listen to.
 * [Second Career Devs](https://secondcareerdevs.com/) - Each episode of the Second Career Devs podcast focuses on a guest who became a software engineer after a previous career.
 * [Security Now!](https://www.grc.com/securitynow.htm) - Security Now! consists of a discussion between Steve Gibson and Leo Laporte of issues of computer security and, conversely, insecurity.
 * [Security Weekly](https://securityweekly.com) - A weekly podcast about security and info sec.
+* [Scrimba Podcast](https://podcast.scrimba.com) - Learn from inspiring developers about how they found meaningful and fulfilling work that that also pays them well.
 * [Semaphore Uncut](https://semaphoreci.com/podcast) - Software industry pros discuss problems they’re currently solving with the products they're working on.
 * [Self Hosted](https://selfhosted.show/) - Discover new software and hardware to get the best out of your network, control smart devices, and secure your data on cloud services. Self-Hosted is a chat show between Chris and Alex two long-time "self-hosters" who share their lessons and take you on the journey of their new ones. A Linux Academy podcast showcasing free and open source technologies you can host yourself.
 * [ShopTalk Show](https://shoptalkshow.com/) - Podcast about front end web design, development and UX.

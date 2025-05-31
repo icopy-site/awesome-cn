@@ -123,6 +123,7 @@ As a producer, you might need a few tools to help you deliver the damn thing. So
 - [SteamDB](https://steamdb.info/) - As they say, database of everything on Steam. Very useful to follow your competitors and compare the numbers.
 - [VG Insights](https://vginsights.com/) - One of the better analytics tools and sources of estimated sales data. They also have some unique tools other similar services don't, e.g. revenue calculator, unit sales estimator and some others.
 - [Steam Wishlists To Sales Calculator](https://impress.games/steam-wishlists-sales-calculator) - Simple tool to help you ballpark sales numbers based on the wishlists count on Steam. It is not as accurate, as some other tools are, but is the simplest one.
+- [GameDiscoverCo Plus](https://plus.gamediscover.co/) - (requires paid subscription to <a name="gamediscoverco" href="#gamediscoverco">GameDiscoverCo Newsletter</a>) GameDiscoverCo's data backend providing analytics on games' "hype", discoverability and more. Additionally, you get access to a number of e-books on game discovery and budgeting.
 
 ### Templates
 
@@ -145,7 +146,7 @@ To stay up-to-date, consider subscribing to all or some of the below resources. 
 ### Newsletters
 
 - [Deconstructor of Fun](https://www.deconstructoroffun.com/) - Not directly production related, but offers in-depth analysis on recent gamedev events, e.g. Brawl Stars ditching lootboxes: why, how and what was the outcome. You want to know about things like this when leading the production of your next mobile action game. And they also have a [podcast](https://pca.st/5tK0).
-- [The GameDiscoverCo Newsletter](https://newsletter.gamediscover.co/) - Focused on the business side of game production and game discoverability, their in-depth analysis on Steam-related topics is gold. Must-read.
+- [The GameDiscoverCo Newsletter](https://newsletter.gamediscover.co/) - Focused<a name="gamediscoverco"></a> on the business side of game production and game discoverability, their in-depth analysis on Steam-related topics is gold. Must-read.
 
 ### Podcasts
 

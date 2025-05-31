@@ -30,6 +30,7 @@ Please give it a star(⭐) to support the development. Read about history of Awe
 - [J2ME Docs](https://nikita36078.github.io/J2ME_Docs) - Documentation for J2ME and some vendor-specific APIs.
 - [NN JSON](https://github.com/shinovon/NNJSON) - JSON parser for CLDC 1.1.
 - [NN JSON CLDC 1.0](https://github.com/gtrxAC/discord-j2me/tree/main/src/cc/nnproject/json) - Modified version of NN JSON for CLDC 1.0.
+- [J2ME Game Script Engine](https://j2megamescript.sourceforge.net/) - A lightweight script interpreter for building flexible J2ME games, with a BASIC-like scripting language. Runs on J2SE/J2ME/Win C++ platforms; ideal for game rapid prototyping and customization.
 
 ### IDEs
 
@@ -65,8 +66,7 @@ Please give it a star(⭐) to support the development. Read about history of Awe
 
 ## Hardware
 
-*This section is currently empty.*
-
+- [Mobile Phone Museum](https://mobilephonemuseum.com/about) - Registered charity and museum for mobile phones. Currently has over 2,800 models over 250 brands.
 
 
 ## Native Software
