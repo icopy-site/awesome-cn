@@ -1355,8 +1355,6 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [Robotic search for optimal cell culture in regenerative medicine](https://elifesciences.org/articles/77007) - ***eLife***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=1330075145723138159)]. This paper develops a robotic AI system with a batch Bayesian optimization algorithm that autonomously induces the differentiation of induced pluripotent stem cell-derived retinal pigment epithelial (iPSC-RPE) cells. From 200 million possible parameter combinations, the system performed cell culture in 143 different conditions in 111 days, resulting in 88% better iPSC-RPE production than that obtained by the pre-optimized culture in terms of the pigmentation scores.
 
-* [Cell Culture: Implementing robotics and artificial intelligence](https://elifesciences.org/articles/80609) - ***eLife***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=10725537391648003592&hl=en&as_sdt=0,5)].
-
 
 #### AI Assisted Research
 

@@ -46,7 +46,6 @@ Contributions of any kind are welcome, just follow the [guidelines](https://gith
 - [Workshop: Mi primer blog con Quarto](https://perezp44.github.io/taller.primer.blog/) - A workshop in Spanish by Pedro J. Pérez to create a blog with Quarto (materials: <https://github.com/perezp44/taller.primer.blog>).
 - [Tutorial: Creating Quarto Journal Article Templates](https://christophertkenny.com/posts/2023-07-01-creating-quarto-journal-articles/) - An in-depth blog post detailing the process for converting journal LaTeX templates into Quarto templates.
 - [Tutorial: Personal Website using Jupyter Notebook and Quarto](https://adtarie.net/posts/007-quarto-python-tutorial/) - A Python-oriented step-by-step tutorial on how to create a website using Quarto.
-- [Tutorial: Create Your Website with Quarto](https://www.marvinschmitt.com/blog/website-tutorial-quarto/) - A tutorial on how to create a website using Quarto by Marvin Schmitt.
 - [Tutorial: Publish a Quarto website with Netlify](https://jadeyryan.com/blog/publish-quarto-website/) - A comprehensive blog post walking through how to create a Quarto website, connect it to GitHub, deploy & publish it with Netlify by Jadey Ryan.
 - [Workshop: Parameterized Reports with Quarto](https://jadeyryan.quarto.pub/rladies-dc-quarto-params/) - A 2-hour code-along workshop to learn parameterized reporting with `quarto` and `purrr` to generate multiple format outputs (materials: <https://github.com/jadeynryan/parameterized-quarto-workshop>).
 - [Tutorials: Quarto Visual Editor and RStudio](https://youtube.com/playlist?list=PLEzw67WWDg80-fT1hq2IZf7D62tRmKy8f&si=ECVfFIH1bg6_JfjS) - A YouTube playlist of short videos tutorials for beginners to work with Quarto Visual Editor and RStudio by Andy Field.
@@ -69,7 +68,6 @@ Contributions of any kind are welcome, just follow the [guidelines](https://gith
 - [I'm an R user: Quarto or R Markdown?](https://www.jumpingrivers.com/blog/quarto-rmarkdown-comparison/) - A blog post comparing Quarto and R Markdown from an R user perspective by [Jumping Rivers](https://www.jumpingrivers.com/).
 - [Quarto for the Python User](https://www.jumpingrivers.com/blog/quarto-for-python-users/) - A blog post introducing Quarto to Python user for creating reports.
 - [How to publish your Quarto document/book/website as a Docker container?](https://mickael.canouil.fr/posts/2023-05-07-quarto-docker/) - A blog post describing how to publish your Quarto document/book/website as a Docker container by Mickaël Canouil.
-- [How to have images for both light and dark theme?](https://mickael.canouil.fr/posts/2023-05-30-quarto-light-dark/) - A blog post describing how to have images for both light and dark theme by Mickaël Canouil.
 - [Making Pretty PDFs with Quarto](https://nrennie.rbind.io/blog/making-pretty-pdf-quarto/) - A blog post showing how to customise the styling of PDF documents, and save the styling into a Quarto extension to make it easier to reuse and share.
 - [How to self-publish a technical book on Leanpub and Amazon using Quarto](https://www.brodrigues.co/blog/2023-06-29-book_quarto/) - This blog post explains which settings to use to compile an Epub for Leanpub and a print-ready PDF for Amazon's self-publishing service (KDP).
 - [Hello Quarto: Porting my Website from Hugo Apéro](https://silviacanelon.com/blog/2023-09-29-hello-quarto/) - A blog post detailing a user's experience of porting a blogdown Hugo Apéro site to Quarto, with content including design ideas, CSS tips, HTML partials, setting up redirects, and others.
@@ -104,27 +102,42 @@ Contributions of any kind are welcome, just follow the [guidelines](https://gith
 - [Neovim](https://github.com/quarto-dev/quarto-nvim) - [Neovim](https://neovim.io/) tools to work with Quarto.
 - [Sublime Text](https://github.com/quarto-dev/quarto-sublime) - [Sublime Text](https://www.sublimetext.com/) plugin to work with Quarto.
 - [Vim](https://github.com/quarto-dev/quarto-vim) - [Vim](https://www.vim.org/) plugin to work with Quarto.
-- [Visual Studio Code](https://github.com/quarto-dev/quarto-vscode) - [Visual Studio Code](https://code.visualstudio.com/) extension for Quarto.
+- [Visual Studio Code](https://github.com/quarto-dev/quarto) - [Visual Studio Code](https://code.visualstudio.com/) extension for Quarto.
 - [Scrivener](https://forum.literatureandlatte.com/t/scrivener-quarto-a-technical-academic-publishing-workflow/129769) - Quarto support to [Scrivener](https://www.literatureandlatte.com/) via Scrivener Template.
 - [RStudio](https://posit.co/products/open-source/rstudio/) - RStudio IDE by [Posit PBC](https://posit.co/) natively supports Quarto.
-- [Positron](https://positron.posit.co/) - A next-generation extensible, polyglot data science IDE built by Posit PBC.
+- [Positron](https://positron.posit.co/) - A next-generation extensible, polyglot data science IDE built by Posit PBC (support via [the Visual Studio Code extension for Quarto](https://github.com/quarto-dev/quarto)).
 
 ## Libraries/Packages/Scripts
 
-- [Julia](https://github.com/quarto-dev/quarto-julia) - [Julia](https://julialang.org/) interface package to Quarto CLI.
-- [Python](https://github.com/quarto-dev/quarto-python) - [Python](https://www.python.org/) interface package to Quarto CLI.
+### R
+
 - [R](https://github.com/quarto-dev/quarto-r) - [R](https://www.r-project.org/) interface package to Quarto CLI.
-- [ecodown](https://github.com/edgararuiz/ecodown) - Turn R package documentation `pkgdown` website into a Quarto website.
-- [Simulate colorblindness](https://rpubs.com/ijlyttle/quarto-cvd-widget) - Observable widget to simulate colorblindness for your whole document.
 - [quartostamp](https://github.com/matt-dray/quartostamp) - An R package containing an [RStudio Addin](https://rstudio.github.io/rstudioaddins/) to insert some useful divs and classes into your Quarto `revealjs` document.
-- [ohq2quarto](https://github.com/hrbrmstr/ohq2quarto) - A Rust-based command line utility to turn any [ObservableHQ](https://observablehq.com/) notebook into a Quarto project.
-- [Quartize](https://github.com/hrbrmstr/reveal-qmd) - A Chrome extension to transform any [ObservableHQ](https://observablehq.com/) notebook into a list of downloadable `FileAttachment`s and an in-page Quarto source document.
-- [RStudio & VSCode snippets](https://gist.github.com/jthomasmock/11acebd4448f171f786e01397df34116) - RStudio & VSCode snippets to ease typesetting with Quarto.
-- [matrix BOT](https://github.com/rgomez90/matrix-bot) - A little bot for the [matrix-network](https://matrix.org/) that listens for some Quarto files and returns the PDF into the matrix channel.
 - [babelquarto](https://docs.ropensci.org/babelquarto/) - R package to help set up, and render, multilingual Quarto books (see also [babeldown](https://docs.ropensci.org/babeldown/articles/quarto.html)).
-- [quartodoc](https://github.com/machow/quartodoc) - A Python module that lets you quickly generate Python package API reference documentation using Markdown and Quarto.
 - [altdoc](https://github.com/etiennebacher/altdoc) - Alternative to pkgdown to document R packages.
 - [surveydown](https://surveydown.org/) - A platform for making markdown-based surveys with Quarto, Shiny, and Supabase.
+
+### Julia
+
+- [Julia](https://github.com/quarto-dev/quarto-julia) - [Julia](https://julialang.org/) interface package to Quarto CLI.
+- [DocumenterQuarto](https://github.com/cadojo/DocumenterQuarto.jl) - A Julia package to generate documentation for Julia packages using Quarto and Documenter.
+
+### Python
+
+- [Python](https://github.com/quarto-dev/quarto-python) - [Python](https://www.python.org/) interface package to Quarto CLI.
+- [quartodoc](https://github.com/machow/quartodoc) - A Python module that lets you quickly generate Python package API reference documentation using Markdown and Quarto.
+
+### Editors
+
+- [RStudio & VSCode snippets](https://gist.github.com/jthomasmock/11acebd4448f171f786e01397df34116) - RStudio & VSCode snippets to ease typesetting with Quarto.
+- [Quarto Wizard](https://github.com/mcanouil/quarto-wizard) - A Visual Studio Code extension that assists you in managing Quarto projects, such as installing and updating extensions.
+- [Quarto Wingman](https://github.com/ntluong95/quarto-wingman) - A Visual Studio Code extension that provides an interactive code cell configuration, improved Python syntax highlighting, intelligent token recognition, enhanced footnote display, and an inline code runner for R and Python, making it particularly useful for data exploration.
+
+### Miscellaneous
+
+- [ohq2quarto](https://github.com/hrbrmstr/ohq2quarto) - A Rust-based command line utility to turn any [ObservableHQ](https://observablehq.com/) notebook into a Quarto project.
+- [Quartize](https://github.com/hrbrmstr/reveal-qmd) - A Chrome extension to transform any [ObservableHQ](https://observablehq.com/) notebook into a list of downloadable `FileAttachment`s and an in-page Quarto source document.
+- [matrix BOT](https://github.com/rgomez90/matrix-bot) - A little bot for the [matrix-network](https://matrix.org/) that listens for some Quarto files and returns the PDF into the matrix channel.
 
 ## Continuous integration / Continuous deployment
 

@@ -377,6 +377,7 @@ become an Angular expert.
 * [@angular/examples](https://github.com/angular/examples) - Angular Examples using [GenKit](https://firebase.google.com/docs/genkit) and [Vertex AI](https://cloud.google.com/vertex-ai).
 * [agent-rules-kit](https://github.com/tecnomanu/agent-rules-kit) - A CLI tool that facilitates the installation and configuration of rules for Cursor AI, the AI-powered IDE. The rules help AI agents better understand the structure, patterns, and best practices of different technology stacks.
 * [hashbrown](https://github.com/liveloveapp/hashbrown) - [Hashbrown](https://hashbrown.dev/) is a framework for building joyful, AI-powered user experiences.
+* [CodeSage AI](https://github.com/kd-akshay/code-quality-analyzer) - Analyzes code quality of React, Vue, and Angular projects using linters and an LLM.
 
 #### Analytics
 
@@ -710,6 +711,7 @@ become an Angular expert.
 * [ngx-react](https://github.com/ngeenx/ngx-react) - Embed React components or apps into Angular projects.
 * [@interopio/ng](https://www.npmjs.com/package/@interopio/ng) - This [IO Connect](https://interop.io/) Angular wrapper aims to facilitate Angular developers in initializing the IO Connect JavaScript libraries and using IO Connect functionalities in their projects.
 * [zero-angular](https://github.com/sscholle/zero-angular) - Angular bindings for [Zero](https://zero.rocicorp.dev/).
+* [ngx-xyflow](https://github.com/knackstedt/ngx-xyflow) - Angular wrapper of [xyflow](https://github.com/xyflow/xyflow).
 
 #### Internationalization
 
@@ -750,6 +752,7 @@ become an Angular expert.
 * [locale-translator](https://github.com/andreasnicolaou/locale-translator) - Translate any locale with the provided pipe or service.
 * [tldraw-web-component](https://github.com/neosh11/tldraw-web-component) - Make [tldraw](https://github.com/tldraw/tldraw) work with frameworks other than React; Made primarily to work with Angular.
 * [signal-translate](https://github.com/NGneers/signal-translate) - Translation service that is using signals at its core.
+* [ngx-translate-cut](https://github.com/bartholomej/ngx-translate-cut) - Angular pipe for cutting translations ✂️ 🌍 (plugin for `@ngx-translate`).
 
 #### Module Federation
 
@@ -1227,6 +1230,7 @@ become an Angular expert.
 * [ngx-autofocus](https://github.com/eurusik/ngx-autofocus) - A powerful, flexible Angular directive for automatic element focusing.
 * [ng-dynamic-component](https://github.com/gund/ng-dynamic-component) - Dynamic components with full life-cycle support for inputs and outputs for Angular.
 * [ngx-pipe-lib](https://github.com/mofirojean/ngx-pipe-lib) - Common angular pipe examples for your day to day tasks.
+* [pyno-date](https://github.com/amirhsnf/pyno-date) - A lightweight Angular library for converting and formatting Jalali and Gregorian dates.
 
 #### Drag and Drop
 
