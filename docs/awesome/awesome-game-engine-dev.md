@@ -530,6 +530,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Uno](https://github.com/unoplatform/uno) - Mobile, desktop and WebAssembly gui library. [[Website](https://platform.uno/)]
 - C#: Physics
     - 🎉 [Aether Physics](https://github.com/tainicom/Aether.Physics2D) - 2D physics library with continuous collision detection.
+    - 🎉 [Box2D.NET](https://github.com/ikpil/Box2D.NET) - C# port of Box2D. 2D physics engine for games, .NET C#, Unity3D, servers.
     - 🎉 [Velcro Physics](https://github.com/Genbox/VelcroPhysics) - C# port of Box2D. Formerly _Farseer Physics_.
 - C#: Utility
     - 🎉 [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Steamworks implementation.
@@ -723,7 +724,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Impact](https://github.com/phoboslab/impact) - Game engine for desktop and mobile browsers. [[2D Level Editor](https://impactjs.com/documentation/weltmeister)]
     - 🎉 [Isogenic](https://github.com/irrelon/ige) - Engine with advanced multiplayer, based on _Valve_'s multiplayer system.
     - 🎉 [melonJS](https://github.com/melonjs/melonJS) - Modern 2D game engine, level editing with [Tiled](https://doc.mapeditor.org/en/stable/). [[Examples](https://melonjs.github.io/examples/) | [Website](https://melonjs.org)]
-    - 🎉 [microStudio](https://github.com/pmgl/microstudio/) - Online game engine. Learn and practice programming. [[Website](https://microstudio.dev/)]
+    - 🎉 [microStudio](https://github.com/pmgl/microstudio/) - Online game engine. Learn and practice programming.
     - 🎉 [Pixelbox.js](https://github.com/cstoquer/pixelbox) - Sandbox to fast-prototype 2D tile-based games. [[Download](https://pixwlk.itch.io/pixelbox)]
     - 🎉 [QICI Engine](https://github.com/qiciengine/qiciengine) - Toolset for making games.
     - 🎉 [Superpowers](https://github.com/superpowers) - Both 2D & 3D game making for indies. [[Website](http://superpowers-html5.com/index.en.html)]
