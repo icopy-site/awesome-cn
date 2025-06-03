@@ -46,7 +46,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Scaling MongoDB on Amazon Web Services (Michael Saffitz, Apptentive)](https://www.youtube.com/watch?v=bkjVhEQocFI) [50']
 
 ### Tutorials
- - [Kubernetes examples](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on Kubernetes
  - [Deploy a Highly-Available MongoDB Replica Set on AWS](https://eladnava.com/deploy-a-highly-available-mongodb-replica-set-on-aws/)
  - [Sharded Cluster with Docker Compose](https://github.com/minhhungit/mongodb-cluster-docker-compose)
 
@@ -218,15 +217,15 @@ Services:
  - [Mongolastic](https://github.com/ozlerhakan/mongolastic) - MongoDB to Elasticsearch (and vice-versa) migration tool
  - [MongoMultiMaster](https://github.com/rick446/mmm) - Multi-master replication
 
+Services:
+ - [Cluster to cluster sync](https://www.mongodb.com/products/cluster-to-cluster-sync) - MongoDB Inc. solution for continuous data sync between separate clusters
+
 ### Deployment
  - [ansible-role-mongodb](https://github.com/UnderGreen/ansible-role-mongodb) - Ansible role
  - [chef-mongodb](https://github.com/edelight/chef-mongodb) - Chef cookbook
  - [DockerHub Official Docker Image](https://hub.docker.com/_/mongo/)
  - [Helm Chart](https://github.com/helm/charts/tree/master/stable/mongodb)
  - [puppet-mongodb](https://github.com/voxpupuli/puppet-mongodb) - Puppet module (formerly puppetlabs-mongodb)
-
-Services:
- - [Cluster to cluster sync](https://www.mongodb.com/products/cluster-to-cluster-sync) - MongoDB Inc. solution for continuous data sync between separate clusters
 
 ### Desktop
  - [Compass](https://github.com/mongodb-js/compass) - Free Cross-platform GUI from MongoDB

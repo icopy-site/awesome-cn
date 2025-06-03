@@ -9,17 +9,17 @@
 ## Language Independent
 
 - [Lambda Spellcrafting Academy](https://www.bittwiddlegames.com/lambda-spellcrafting-academy/) - A visual programming / puzzle game where you build spells to solve puzzles. Covers introductory programming, as well as some data structures and algorithms. The language is inspired by Lisp, but the game focuses on programming fundamentals that apply to most languages.
-- [Codingame](https://www.codingame.com/home) - A platform to learn and compete. Proposes a variety of multiplayer games and contests as well as optimisation challenges and solo puzzles. You can contribute your own too. Choose your language, enjoy the graphics. 
+- [Codingame](https://www.codingame.com/home) - A platform to learn and compete. Proposes a variety of multiplayer games and contests as well as optimisation challenges and solo puzzles. You can contribute your own too. Choose your language, enjoy the graphics.
 - [CodeCombat](https://codecombat.com) - Choose your hero and code your way through the ogre patrols, lava pits, and laser beams of Kithgard Dungeon. Level up, earn gems, and loot magic items to unlock new programming powers. Join millions of players and go from a total beginner to writing advanced multiplayer AI in Python, JavaScript, CoffeeScript, or Lua in this open-source programming game.
 - [Vindinium](https://www.codingame.com/multiplayer/bot-programming/vindinium) - Players write scripts in the programming language of their choice (optionally using one of the many starter packs) to control a 16-bit hero through HTTP requests, guiding him to collect gold, do battle with other players, and even visit the tavern.
-- [RealTimeBattle](http://realtimebattle.sourceforge.net) - A programming game in which robots controlled by programs are fighting each other. The goal is to destroy the enemies, using the radar to examine the environment and the cannon to shoot. 
+- [RealTimeBattle](http://realtimebattle.sourceforge.net) - A programming game in which robots controlled by programs are fighting each other. The goal is to destroy the enemies, using the radar to examine the environment and the cannon to shoot.
 - [Battlesnake](https://play.battlesnake.com) - Join a community of developers from around the world as you compete for fame and glory in Battlesnake, a multi-player programming competition based on the classic game - snake! All you need to play is a live web server that implements the Battlesnake API and the language of your choice to begin battling to find food, avoid other Battlesnakes, and stay alive as long as possible.
 - [Coder One](https://www.gocoder.one) - Annual AI programming tournament featuring a multiplayer 'Bomberman'-like game, cash prizes, and a casted finale livestream. Create an AI player that can navigate a 2D grid world collecting power-ups and placing explosives with the goal of taking your opponent down. Submit your AI in the form of a Docker image using one of our Python or TypeScript starter kits (community-contributed starter kits are also available in Go, C++, and Rust).
 
 ## Python
 
 - [Robocode](https://github.com/turkishviking/Python-Robocode) - The goal is to develop a robot battle tank to battle against other tanks. The robot battles are running in real-time and on-screen.
-- [Robot Rumble](https://robotrumble.org/) - A free and open source AI competition platform. Code an algorithm for a team of robots battling in 1x1 grid-based arenas, and test your skills against others on the site. Robots can move and attack in one of four directions, and the team with more robots after 100 turns wins. Supports Python and Javascript, and comes with a desktop-based command line tool. 
+- [Robot Rumble](https://robotrumble.org/) - A free and open source AI competition platform. Code an algorithm for a team of robots battling in 1x1 grid-based arenas, and test your skills against others on the site. Robots can move and attack in one of four directions, and the team with more robots after 100 turns wins. Supports Python and Javascript, and comes with a desktop-based command line tool.
 
 ## Java
 
@@ -73,12 +73,9 @@
 - [Guido van Robot](http://gvr.sourceforge.net) - Programming language and free software application designed to introduce beginners to the fundamentals of programming. GvR runs on Windows, Macintosh, and GNU/Linux, in a variety of languages! It's great in both the classroom and the home as a way of introducing people to the basic concepts of programming.
 - [CSSBattle](https://cssbattle.dev) -  Online CSS Code Golfing battleground. Here, players from all around the world try to visually replicate "Targets" in smallest possible CSS code and battle it out to get to the top of the leaderboard.
 - [The Command Line Murders](https://github.com/veltman/clmystery) - There's been a murder in Terminal City, and TCPD needs your help.
-- [SQL Murder Mystery](https://mystery.knightlab.com/) - The SQL Murder Mystery is designed to be both a self-directed lesson to learn S
-QL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
-- [S3 Game](http://s3game-level1.s3-website.us-east-2.amazonaws.com/) - You are the treasure hunter. Your task is to get as many secret
-codes and open as many chests as possible.
-- [Learn Git Branching](https://learngitbranching.js.org/) - is the most visual and interactive way to learn Git on the web; where you'l
-l be challenged with exciting levels.
+- [SQL Murder Mystery](https://mystery.knightlab.com/) - The SQL Murder Mystery is designed to be both a self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
+- [S3 Game](http://s3game-level1.s3-website.us-east-2.amazonaws.com/) - You are the treasure hunter. Your task is to get as many secret codes and open as many chests as possible.
+- [Learn Git Branching](https://learngitbranching.js.org/) - is the most visual and interactive way to learn Git on the web; where you'll be challenged with exciting levels.
 - [Oh my Git](https://ohmygit.org/) - An open source game about learning Git!
 
 

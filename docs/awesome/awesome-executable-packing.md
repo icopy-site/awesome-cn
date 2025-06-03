@@ -70,7 +70,7 @@
 - :pushpin: [Packer detection tool evaluation](https://github.com/FFRI/PackerDetectionToolEvaluation)
 - :page_facing_up: [Packers](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/corkami/packers.pdf)
 - :bar_chart: [Packing-box: Breaking detectors & visualizing packing](https://www.blackhat.com/eu-23/arsenal/schedule/index.html#packing-box-breaking-detectors--visualizing-packing-35678)
-- :bar_chart: [Packing-box: Improving detection of executable packing](https://www.blackhat.com/eu-24/arsenal/schedule?2#packing-box-improving-detection-of-executable-packing-41931)
+- :bar_chart: [Packing-box: Improving detection of executable packing](https://www.blackhat.com/eu-24/arsenal/schedule/index.html#packing-box-improving-detection-of-executable-packing-41931)
 - :bar_chart: [Packing-box: Playing with executable packing](https://www.blackhat.com/eu-22/arsenal/schedule/index.html#packing-box-playing-with-executable-packing-29054)
 - :pushpin: [Parsing mach-O files](https://lowlevelbits.org/parsing-mach-o-files)
 - :green_book: [Pattern recognition and machine learning (Information science and statistics)](https://dl.acm.org/doi/10.5555/1162264)
@@ -621,7 +621,7 @@
 - [APKiD](https://github.com/rednaga/APKiD) - Android application Identifier for packers, protectors, obfuscators and oddities - PEiD for Android.
 - [aPLib](https://ibsensoftware.com/products_aPLib.html) - Compression library based on the algorithm used in aPACK.
 - [AppSpear](https://github.com/UchihaL/AppSpear) - Universal and automated unpacking system suitable for both Dalvik and ART.
-- [Assiste (Packer)](https://assiste.com/Packer.html) - Assiste.com's example list of packers.
+- [Assiste (Packer)](https://web.archive.org/web/20211017145403/https://assiste.com/Packer.html) (_Web Archive_) - Assiste.com's example list of packers.
 - [AVClass](https://github.com/malicialab/avclass) - Python tools to tag / label malware samples.
 - [Bintropy](https://github.com/dhondta/bintropy) - Prototype analysis tool that estimates the likelihood that a binary file contains compressed or encrypted bytes.
 - [BinUnpack](https://doi.org/10.1145/3243734.3243771) - Unpacking approach free from tedious memory access monitoring, therefore introducing very small runtime overhead.
@@ -682,7 +682,7 @@
 - [Pefeats](https://github.com/roussieau/masterthesis/tree/master/src/detector/tools/pefeats) - Utility for extracting 119 features from a PE file for use with machine learning algorithms.
 - [Pefile](https://github.com/erocarrera/pefile) - Multi-platform Python module to parse and work with Portable Executable files.
 - [PEFrame](https://github.com/guelfoweb/peframe) - Tool for performing static analysis on PE malware and generic suspicious files.
-- [PEiD](http://www.secretashell.com/codomain/peid/) - Packed Executable iDentifier.
+- [PEiD](https://web.archive.org/web/20070529035022/https://www.secretashell.com/codomain/peid/) (_Web Archive_)  - Packed Executable iDentifier.
 - [PEiD (CLI)](https://github.com/dhondta/peid) - Python implementation of PEiD featuring an additional tool for making new signatures.
 - [PEiD (yara)](https://github.com/K-atc/PEiD) - Yet another implementation of PEiD with yara.
 - [PeLib](https://github.com/avast/pelib) - PE file manipulation library.
@@ -700,8 +700,8 @@
 - [PyPackerDetect](https://github.com/cylance/PyPackerDetect) - Small python script/library to detect whether an executable is packed.
 - [PyPackerDetect (refactored)](https://github.com/dhondta/PyPackerDetect) - A complete refactoring of the original project to a Python package with a console script to detect whether an executable is packed.
 - [PyPeid](https://github.com/FFRI/pypeid) - Yet another implementation of PEiD with yara-python.
-- [Quick Unpack](http://qunpack.ahteam.org/?p=458) - Generic unpacker that facilitates the unpacking process.
-- [RDG Packer Detector](http://www.rdgsoft.net) - Packer detection tool.
+- [Quick Unpack](https://web.archive.org/web/20220119142245/http://qunpack.ahteam.org/?p=458) (_Web Archive_) - Generic unpacker that facilitates the unpacking process.
+- [RDG Packer Detector](https://web.archive.org/web/20220904151105/http://rdgsoft.net/) (_Web Archive_) - Packer detection tool.
 - [Reko](https://github.com/uxmal/reko) - Free decompiler for machine code binaries.
 - [REMINDer](https://github.com/packing-box/reminder) - Packing detection tool based on the entropy value of the entry point section and the WRITE attribute.
 - [REMnux](https://remnux.org) - Linux toolkit for reverse-engineering and analyzing malicious software.
@@ -727,7 +727,7 @@
 - [Uunp (IDA Pro plugin)](https://www.hex-rays.com/blog/unpacking-mpressed-pe-dlls-with-the-bochs-plugin/) - IDA Pro debugger plug-in module automating the analysis and unpacking of packed binaries.
 - [UUP](https://www.sac.sk/download/pack/uup14.zip) - Universal exe-file UnPacker.
 - [VMHunt](https://github.com/s3team/VMHunt) - Set of tools for analyzing virtualized binary code ; now only supports 32 bit traces.
-- [VMUnpacker](https://www.leechermods.com/2010/01/vmunpacker-16-latest-version.html) - Unpacker based on the technology of virtual machine.
+- [VMUnpacker](https://web.archive.org/web/20241106123938/https://www.leechermods.com/2010/01/vmunpacker-16-latest-version.html) (_Web Archive_) - Unpacker based on the technology of virtual machine.
 - [Winbindex](https://github.com/m417z/winbindex) - An index of Windows binaries, including download links for executables such as EXE, DLL and SYS files.
 - [yarGen](https://github.com/Neo23x0/yarGen) - Generator for YARA rules - The main principle is the creation of yara rules from strings found in malware files while removing all strings that also appear in goodware files.
 

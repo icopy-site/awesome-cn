@@ -1949,6 +1949,7 @@ for the creation of web applications developed with Angular.
 * [primitives](https://github.com/radix-ng/primitives) - Angular port of [Radix UI](https://www.radix-ui.com/) Primitives. Accessible. Customizable.
 * [ngbase](https://github.com/ng-base/ngbase) - A lightweight, flexible UI primitives library for Angular. It provides unstyled foundational Directives and components that developers can customize to match their design systems.
 * [vacui-ui](https://github.com/DanielAlcaraz/vacui-ui) - A headless Angular library of utility-first, primitives, low-level directives as foundational elements.
+* [ngx-headless](https://github.com/fawadtariq/ngx-headless) - A collection of Headless Libraries for Angular — fully standalone, accessible, and style-agnostic primitives inspired by [Headless UI](https://headlessui.com) & [FormKit](https://formkit.com).
 
 #### UX Components
 
@@ -2022,6 +2023,7 @@ for the creation of web applications developed with Angular.
 * [ngx-voyage](https://github.com/mschn/ngx-voyage) - File Explorer for Angular and PrimeNG.
 * [ngx-offline-indicator](https://github.com/thdang1009/ngx-offline-indicator) - A library designed to provide developers with a simple and customizable way to inform users about their internet connection status within their Angular applications.
 * [ngx-network-status](https://www.npmjs.com/package/ngx-network-status) - A lightweight Angular library to detect actual internet connectivity by pinging a backend endpoint — not just relying on `navigator.onLine`.
+* [d3-cloud-angular](https://github.com/maitrungduc1410/d3-cloud-angular) - D3 Cloud component for Angular built upon [d3-cloud](https://github.com/jasondavies/d3-cloud).
 
 ---
 
