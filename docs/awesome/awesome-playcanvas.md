@@ -14,9 +14,9 @@
 ## PlayCanvas Products
 
 - [PlayCanvas Engine](https://github.com/playcanvas/engine) - Open source JavaScript graphics application framework.
+- [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
 - [PlayCanvas React](https://github.com/playcanvas/react) - Open source React wrapper for the PlayCanvas Engine.
 - [PlayCanvas Web Components](https://github.com/playcanvas/web-components) - Open source Web Components wrapper for the PlayCanvas Engine.
-- [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
 - [SuperSplat](https://superspl.at/) - Open source platform for editing and publishing 3D Gaussian Splats.
 - [Model Viewer](https://playcanvas.com/viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
 - [Texture Tool](https://github.com/playcanvas/texture-tool) - Open source tool for reprojecting textures.
@@ -90,7 +90,6 @@
 - [Realise](https://gaffen.itch.io/realise) - A video game to accompany the new EP from Hearse Pileup.
 - [Ride Along 2](https://vimeo.com/152996271) - Using WebGL to promote a Hollywood movie release.
 - [Rugby World Cup](https://www.youtube.com/watch?v=onOJBCC8R7A) - Promoting the Rugby World Cup in London's Piccadilly Circus.
-- [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
 - [Virtual Statues](https://playcanv.as/e/p/cLkf99ZV/) - A digital museum built with 3D Gaussian Splatting.
 - [Wild Rift](https://unlock.wildrift.leagueoflegends.com/) - Solve the puzzle to unlock a League of Legends: Wild Rift character.
 
@@ -207,6 +206,13 @@
 - [Watch Configurator](https://watch.vz777.com/) - Technical demo from Visionaries777.
 - [WFI](https://configurator.wfi.se/#/?lang=en) - Workstation configurator.
 - [Willab Gardens Greenhouses](http://www.vaxthusguiden.se/) - Greenhouse configurator.
+
+## 3D Gaussian Splatting
+
+- [2nd Swing](https://www.2ndswing.com/golf-clubs/drivers/ping-g440-max-driver/g440-max-dvr) - Golf retailer.
+- [Doly](https://www.animl.ai/) - Capture high-quality 3D photos of your products and embed them on Shopify in minutes.
+- [Prewatch](https://www.prewatch.io/) - Smart virtual scouting for better decisions.
+- [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
 
 ## AR/VR/XR
 
