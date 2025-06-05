@@ -351,6 +351,8 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 ## GUI Apps
 
 * [tilix](https://github.com/gnunn1/tilix) - A tiling terminal emulator for Linux using GTK+ 3.
+* [Inochi Creator](https://github.com/Inochi2D/inochi-creator) - Inochi2D Rigging Application.
+* [Inochi Session](https://github.com/Inochi2D/inochi-session) - Application that allows streaming with Inochi2D puppets.
 
 ## OS
 
@@ -365,7 +367,12 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 *Bindings to game development related libraries in C, C++, and other languages.*
 
-* BindBC libraries - `-betterC` compatible, `@nogc` bindings using [bindbc-loader](https://github.com/BindBC/bindbc-loader):
+* [raylib-d](https://github.com/schveiguy/raylib-d) - D bindings for raylib.
+* [sokol-d](https://github.com/kassane/sokol-d) - D bindings for the sokol headers.
+* [DAllegro5](https://github.com/SiegeLord/DAllegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
+* [DSFML](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. See <http://dsfml.com/>.
+* [Godot-D](https://github.com/godot-d/godot-d) - D language bindings for the Godot Engine's GDNative API
+* [BindBC](https://github.com/BindBC) - A set of bindings compatible with `-betterC` and `@nogc`, using [bindbc-loader](https://github.com/BindBC/bindbc-loader):
 	* OpenGL - [bindbc-opengl](https://github.com/BindBC/bindbc-opengl)
 	* GLFW 3 - [bindbc-glfw](https://github.com/BindBC/bindbc-glfw)
 	* SDL 2 - [bindbc-sdl](https://github.com/BindBC/bindbc-sdl)
@@ -410,10 +417,6 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 	* DevIL (DerelictIL), 
 	* OpenAL (DerelictAL), 
 	* ALURE (DerelictALURE).
-* [Godot-D](https://github.com/godot-d/godot-d) - D language bindings for the Godot Engine's GDNative API
-* [DAllegro5](https://github.com/SiegeLord/DAllegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
-* [DSFML](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. See <http://dsfml.com/>.
-* [raylib-d](https://github.com/schveiguy/raylib-d) - D bindings for raylib.
 
 ## Game Frameworks
 
