@@ -210,6 +210,7 @@
 ## 3D Gaussian Splatting
 
 - [2nd Swing](https://www.2ndswing.com/golf-clubs/drivers/ping-g440-max-driver/g440-max-dvr) - Golf retailer using splats for product visualization.
+- [4DV](https://www.4dv.ai/) - Impressive implementation of animated Gaussian splats (4DGS).
 - [Arrival Space](https://arrival.space/) - Social metaverse built on splat-based spaces.
 - [DiffStudio](https://diffstudio.co) - Create digital twins of e-commerce products.
 - [Doly](https://www.animl.ai/) - Capture high-quality 3D photos of your products and embed them on Shopify in minutes.
