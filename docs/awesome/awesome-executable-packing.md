@@ -649,7 +649,7 @@
 - [EXETools](https://forum.exetools.com) - Forum for reverse engineering and executale packing related topics.
 - [FUU](https://github.com/crackinglandia/fuu) - Fast Universal Unpacker.
 - [GetTyp](https://www.helger.com/gt/gt.htm) - File format detection program for DOS based on special strings and byte code.
-- [GUnpacker](http://qunpack.ahteam.org/?p=327) - Shell tool that performs OEP positioning and dumps decrypted code.
+- [GUnpacker](https://web.archive.org/web/20220121084407/http://qunpack.ahteam.org/?p=327) (_Web Archive_) - Shell tool that performs OEP positioning and dumps decrypted code.
 - [Gym-Malware](https://github.com/endgameinc/gym-malware) - This is a malware manipulation environment for OpenAI's gym.
 - [IDR](https://github.com/crypto2011/IDR) - Interactive Delphi Reconstructor.
 - [ImpREC](https://www.aldeid.com/wiki/ImpREC) - This can be used to repair the import table for packed programs.
@@ -675,7 +675,7 @@
 - [PANDA](https://github.com/panda-re/panda) - Platform for Architecture-Neutral Dynamic Analysis.
 - [Pandora's Bochs](https://0x0badc0.de/gitweb?p=bochs/.git) - Extension to the Bochs PC eumlator to enable it to monitor execution of the unpacking stubs for extracting the original code.
 - [PCjs](https://www.pcjs.org) - PCjs uses JavaScript to recreate the IBM PC experience, using original ROMs, CPUs running at their original speeds, and early IBM video cards and monitors.
-- [PE Compression Test](http://pect.atspace.com/) - List of packers tested on a few sample executables for comparing compressed sizes.
+- [PE Compression Test](https://web.archive.org/web/20250427032942/http://pect.atspace.com/) (_Web Archive_) - List of packers tested on a few sample executables for comparing compressed sizes.
 - [PE Detective](https://ntcore.com/?page_id=367) - This GUI tool can scan single PE files or entire directories (also recursevely) and generate complete reports.
 - [PE-bear](https://github.com/hasherezade/pe-bear-releases) - Freeware reversing tool for PE files aimed to deliver fast and flexible “first view” for malware analysts, stable and capable to handle malformed PE files.
 - [PEdump](https://pedump.me/) - Dump windows PE files using Ruby.
