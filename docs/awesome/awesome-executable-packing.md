@@ -27,12 +27,12 @@
 - :earth_americas: [About anti-debug tricks](https://anti-debug.checkpoint.com)
 - :bar_chart: [Android packers: Separating from the pack](https://www.fortiguard.com/events/759/2014-06-12-android-packers-separating-from-the-pack)
 - :pushpin: [Anti debugging protection techniques with examples](https://www.apriorit.com/dev-blog/367-anti-reverse-engineering-protection-techniques-to-use-before-releasing-software)
-- :page_facing_up: [Anti-unpacker tricks](https://pferrie.tripod.com/papers/unpackers.pdf)
 - :page_facing_up: [Anti-unpacker tricks - Part 14 (and previous parts)](https://www.virusbulletin.com/virusbulletin/2010/11/anti-unpacker-tricks-part-fourteen/)
 - :bar_chart: [API deobfuscator: Resolving obfuscated API functions in modern packers](https://www.blackhat.com/docs/us-15/materials/us-15-Choi-API-Deobfuscator-Resolving-Obfuscated-API-Functions-In-Modern-Packers.pdf)
 - :green_book: [The art of memory forensics: Detecting malware and threats in Windows, Linux, and mac memory](https://www.oreilly.com/library/view/the-art-of/9781118824993)
 - :bar_chart: [The art of unpacking](https://www.blackhat.com/presentations/bh-usa-07/Yason/Whitepaper/bh-usa-07-yason-WP.pdf)
 - :earth_americas: [Awesome executable packing](https://github.com/packing-box/awesome-executable-packing)
+- :earth_americas: [Awesome LLVM security](https://github.com/gmh5225/awesome-llvm-security)
 - :pushpin: [Cloak and dagger: Unpacking hidden malware attacks](https://symantec-enterprise-blogs.security.com/blogs/expert-perspectives/unpacking-hidden-malware-attacks)
 - :book: [Cluster analysis](https://en.wikipedia.org/w/index.php?title=Cluster_analysis&oldid=1148034400)
 - :earth_americas: [Clustering algorithms](https://developers.google.com/machine-learning/clustering/clustering-algorithms)
@@ -41,7 +41,7 @@
 - :earth_americas: [Comparison of executable file formats](https://en.wikipedia.org/wiki/Comparison_of_executable_file_formats)
 - :newspaper: [A complexity measure](https://ieeexplore.ieee.org/document/1702388/)
 - :newspaper: [Cyclomatic complexity density and software maintenance productivity](https://ieeexplore.ieee.org/document/106988)
-- :earth_americas: [Defacto2](https://defacto2.net/defacto2)
+- :earth_americas: [Defacto2](https://defacto2.net/g/defacto2net)
 - :newspaper: [Do we need hundreds of classiﬁers to solve real world classiﬁcation problems?](https://jmlr.org/papers/v15/delgado14a.html)
 - :bar_chart: [Dynamic binary analysis and obfuscated codes](https://triton.quarkslab.com/files/sthack2016-rthomas-jsalwan.pdf)
 - :earth_americas: [elf (FreeBSD manual pages)](https://www.freebsd.org/cgi/man.cgi?elf(5))
@@ -49,11 +49,12 @@
 - :earth_americas: [Executable and linkable format (ELF)](https://wiki.osdev.org/ELF)
 - :clipboard: [Executable and linking format (ELF) specification](https://refspecs.linuxfoundation.org/elf/elf.pdf)
 - :earth_americas: [Executable file formats](https://docs.fileformat.com/executable)
+- :pushpin: [Explained: Packer, crypter, and protector](https://www.threatdown.com/blog/explained-packer-crypter-and-protector/)
 - :earth_americas: [FatELF: Universal binaries for Linux (HALTED)](https://icculus.org/fatelf)
 - :newspaper: [Feature selection: A data perspective](https://dl.acm.org/doi/10.1145/3136625)
 - :newspaper: [How to use t-SNE effectively](https://distill.pub/2016/misread-tsne)
 - :clipboard: [Hyperion: Implementation of a PE-Crypter](https://www.exploit-db.com/docs/english/18849-hyperion-implementation-of-a-pe-crypter.pdf)
-- :scroll: [Implementing your own generic unpacker](https://gsec.hitb.org/materials/sg2015/whitepapers/Julien%20Lenoir%20-%20Implementing%20Your%20Own%20Generic%20Unpacker.pdf)
+- :scroll: [Implementing your own generic unpacker](https://gsec.hitb.org/sg2015/sessions/session-001)
 - :pushpin: [Mach-O - A look at apple executable files](https://redmaple.tech/blogs/macho-files)
 - :earth_americas: [Mach-O file format reference](https://github.com/aidansteele/osx-abi-macho-file-format-reference)
 - :bar_chart: [Mach-O internals](https://yossarian.net/res/pub/macho-internals/macho-internals.pdf)
@@ -61,16 +62,18 @@
 - :pushpin: [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer)
 - :newspaper: [The matthews correlation coefficient (MCC) should replace the ROC AUC as the standard metric for assessing binary classification](https://doi.org/10.1186/s13040-023-00322-4)
 - :clipboard: [Microsoft portable executable and common object file format specification](https://www.skyfree.org/linux/references/coff.pdf)
-- :earth_americas: [MITRE ATT&CK | T1027.002 | obfuscated files or information: Software packing](https://attack.mitre.org/techniques/T1027/002)
+- :earth_americas: [MITRE ATT&CK | T1027.002 | obfuscated files or information: Software packing - Enterprise](https://attack.mitre.org/techniques/T1027/002)
+- :earth_americas: [MITRE ATT&CK | T1406.002 | obfuscated files or information: Software packing - Mobile](https://attack.mitre.org/techniques/T1406/002)
 - :earth_americas: [MZ disk operating system (DOS)](https://wiki.osdev.org/MZ)
-- :bar_chart: [NotPacked++: Evading static packing detection](https://www.blackhat.com/eu-24/arsenal/schedule?1#notpacked-evading-static-packing-detection-42187)
+- :bar_chart: [NotPacked++: Evading static packing detection](https://www.blackhat.com/eu-24/arsenal/schedule/index.html?1#notpacked-evading-static-packing-detection-42187)
+- :earth_americas: [OllyDbg OEP finder scripts](https://github.com/dubuqingfeng/ollydbg-script)
 - :bookmark: [On the worst-case complexity of timsort](https://arxiv.org/abs/1805.08612)
 - :bar_chart: [One packer to rule them all: Empirical identification, comparison and circumvention of current antivirus detection techniques](https://www.blackhat.com/docs/us-14/materials/us-14-Mesbahi-One-Packer-To-Rule-Them-All-WP.pdf)
 - :scroll: [One packer to rule them all: Empirical identification, comparison and circumvention of current antivirus detection techniques](https://www.blackhat.com/docs/us-14/materials/us-14-Mesbahi-One-Packer-To-Rule-Them-All.pdf)
 - :pushpin: [Packer detection tool evaluation](https://github.com/FFRI/PackerDetectionToolEvaluation)
 - :page_facing_up: [Packers](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/corkami/packers.pdf)
 - :bar_chart: [Packing-box: Breaking detectors & visualizing packing](https://www.blackhat.com/eu-23/arsenal/schedule/index.html#packing-box-breaking-detectors--visualizing-packing-35678)
-- :bar_chart: [Packing-box: Improving detection of executable packing](https://www.blackhat.com/eu-24/arsenal/schedule/index.html#packing-box-improving-detection-of-executable-packing-41931)
+- :bar_chart: [Packing-box: Improving detection of executable packing](https://www.blackhat.com/eu-24/arsenal/schedule/index.html?2#packing-box-improving-detection-of-executable-packing-41931)
 - :bar_chart: [Packing-box: Playing with executable packing](https://www.blackhat.com/eu-22/arsenal/schedule/index.html#packing-box-playing-with-executable-packing-29054)
 - :pushpin: [Parsing mach-O files](https://lowlevelbits.org/parsing-mach-o-files)
 - :green_book: [Pattern recognition and machine learning (Information science and statistics)](https://dl.acm.org/doi/10.5555/1162264)
@@ -86,12 +89,15 @@
 - :pushpin: [Tuts 4 you - UnPackMe (.NET)](https://forum.tuts4you.com/forum/155-unpackme-net)
 - :pushpin: [Tuts 4 you | unpackme](https://forum.tuts4you.com/forum/147-unpackme)
 - :green_book: [The "Ultimate" anti-debugging reference](https://pferrie.epizy.com/papers/antidebug.pdf)
-- :pushpin: [Unpacking, reversing, patching](https://resources.infosecinstitute.com/topic/unpacking-reversing-patching)
+- :page_facing_up: [Unpacking binary 101](https://sam0x90.blog/2020/06/06/unpacking-binary-101/)
+- :pushpin: [Unpacking the potential of "Packing box"](https://medium.com/@elniak/unpacking-the-potential-of-packing-box-dfd765609233)
+- :pushpin: [Unpacking, reversing, patching](https://www.infosecinstitute.com/resources/reverse-engineering/unpacking-reversing-patching)
 - :bar_chart: [Virtual machine obfuscation](https://compil2019.minesparis.psl.eu/wp-content/uploads/2019/02/BeatriceCreusillet-Obfuscation-quarkslab.pdf)
 - :bar_chart: [We can still crack you! General unpacking method for Android Packer (NO ROOT)](https://www.blackhat.com/asia-15/briefings.html#we-can-still-crack-you-general-unpacking-method-for-android-packer-no-root)
 - :bar_chart: [When malware is packing heat](https://www.eurecom.fr/publication/5372)
 - :clipboard: [Win32 portable executable packing uncovered](https://securitylabs.websense.com/content/Assets/HistoryofPackingTechnology.pdf)
 - :pushpin: [Writing a packer](https://dr4k0nia.github.io/posts/Writing-a-Packer)
+- :pushpin: [Writing a PE packer](https://wirediver.com/tutorial-writing-a-pe-packer-part-1/)
 - :pushpin: [Writing a simple PE packer in detail](https://github.com/levanvn/Packer_Simple-1)
 - :earth_americas: [x86 disassembly/Windows executable files](https://en.wikibooks.org/wiki/X86_Disassembly/Windows_Executable_Files)
 
@@ -105,38 +111,40 @@
 - :notebook: [Adaptive unpacking of Android Apps](https://ieeexplore.ieee.org/document/7985676) (May 2017) 
 - :mortar_board: [Advanced feature engineering for static detection of executable packing](https://researchportal.rma.ac.be/en/publications?1) (June 2024) 
 - :newspaper: [Advanced preprocessing of binary executable files and its usage in retargetable decompilation](https://www.fit.vut.cz/research/publication/10531) (December 2014) 
-- :newspaper: [Adversarial attacks against windows PE malware detection: A survey of the state-of-the-art](https://api.semanticscholar.org/CorpusID:245425034) (December 2021) 
+- :newspaper: [Adversarial attacks against windows PE malware detection: A survey of the state-of-the-art](https://www.semanticscholar.org/paper/Adversarial-Attacks-against-Windows-PE-Malware-A-of-Ling-Wu/055d0cdce6ad5c766543c8692a9e5bd37d2ed0a4) (December 2021) 
 - :newspaper: [Adversarial EXEmples: A survey and experimental evaluation of practical attacks on machine learning for windows malware detection](https://dl.acm.org/doi/10.1145/3473039) (September 2021)  :star:
 - :mortar_board: [Adversarial learning on static detection techniques for executable packing](https://dial.uclouvain.be/memoire/ucl/object/thesis:40178) (June 2023)  :star:
 - :notebook: [Adversarial malware binaries: Evading deep learning for malware detection in executables](https://ieeexplore.ieee.org/document/8553214) (September 2018) 
 - :mortar_board: [Adversarial tool for breaking static detection of executable packing](https://dial.uclouvain.be/memoire/ucl/en/object/thesis%3A48691) (August 2024)  :star:
-- :newspaper: [All-in-one framework for detection, unpacking, and verification for malware analysis](https://www.hindawi.com/journals/scn/2019/5278137/) (January 2019) 
-- :newspaper: [Analysis of machine learning approaches to packing detection](https://www.sciencedirect.com/science/article/pii/S0167404823004467) (October 2023)  :star:
-- :newspaper: [Anti-emulation trends in modern packers: A survey on the evolution of anti-emulation techniques in UPA packers](https://doi.org/10.1007/s11416-017-0291-9) (May 2018) 
-- :notebook: [Anti-unpacker tricks](http://2008.caro.org/downloads/unpackers.pdf) (May 2008) 
+- :newspaper: [All-in-one framework for detection, unpacking, and verification for malware analysis](https://onlinelibrary.wiley.com/doi/10.1155/2019/5278137) (January 2019) 
+- :newspaper: [Analysis of machine learning approaches to packing detection](https://www.sciencedirect.com/science/article/pii/S0167404823004467) (October 2023)  :star: :star:
+- :newspaper: [Anti-emulation trends in modern packers: A survey on the evolution of anti-emulation techniques in UPA packers](https://link.springer.com/article/10.1007/s11416-017-0291-9) (May 2018) 
+- :notebook: [Anti-unpacker tricks](https://pferrie.tripod.com/papers/unpackers.pdf) (May 2008) 
 - :mortar_board: [An application of machine learning to analysis of packed mac malware](https://scholar.dsu.edu/theses/381) (May 2022)  :star:
 - :notebook: [Application of string kernel based support vector machine for malware packer identification](https://ieeexplore.ieee.org/document/6707043) (August 2013) 
 - :newspaper: [The application research of virtual machine in packers](https://www.semanticscholar.org/paper/The-Application-Research-of-Virtual-Machine-in-Wen-yu/fff04e0073ac2018bff5242919cdca47deacad7a) (August 2011) 
 - :notebook: [AppSpear: Bytecode decrypting and DEX reassembling for packed Android malware](https://link.springer.com/chapter/10.1007/978-3-319-26362-5_17) (November 2015) 
 - :newspaper: [The arms race: Adversarial search defeats entropy used to detect malware](https://www.sciencedirect.com/science/article/pii/S0957417418306535) (October 2018) 
-- :closed_book: [Assessing static and dynamic features for packing detection](https://doi.org/10.1007/978-3-031-73887-6_12) (October 2024)  :star:
+- :closed_book: [Assessing static and dynamic features for packing detection](https://link.springer.com/chapter/10.1007/978-3-031-73887-6_12) (October 2024)  :star:
 - :page_facing_up: [Assessing the impact of packing on machine learning-based malware detection and classification systems](https://arxiv.org/abs/2410.24017) (October 2024)  :star:
 - :mortar_board: [Automated static analysis of virtual-machine packers](https://core.ac.uk/outputs/16750878) (August 2013) 
 - :newspaper: [Automatic analysis of malware behavior using machine learning](https://dl.acm.org/doi/10.5555/2011216.2011217) (December 2011) 
 - :newspaper: [Automatic generation of adversarial examples for interpreting malware classifiers](https://www.semanticscholar.org/reader/040a0020e054e050e52a829902cfe0defad8c6ac) (March 2020) 
 - :notebook: [Automatic static unpacking of malware binaries](https://ieeexplore.ieee.org/document/5328814) (October 2009) 
 - :newspaper: [BareUnpack: Generic unpacking on the bare-metal operating system](https://www.jstage.jst.go.jp/article/transinf/E101.D/12/E101.D_2017EDP7424/_article) (December 2018) 
-- :newspaper: [Binary-code obfuscations in prevalent packer tools](https://dl.acm.org/doi/10.1145/2522968.2522972) (October 2013)  :star:
+- :newspaper: [Binary-code obfuscations in prevalent packer tools](https://dl.acm.org/doi/10.1145/2522968.2522972) (October 2013) 
 - :newspaper: [BinStat tool for recognition of packed executables](http://www.ijofcs.org/abstract-v06n1-pp03.html) (September 2010) 
 - :newspaper: [Birds of a feature: Intrafamily clustering for version identification of packed malware](https://ieeexplore.ieee.org/document/8951062) (September 2020) 
 - :notebook: [BitBlaze: A new approach to computer security via binary analysis](https://link.springer.com/chapter/10.1007/978-3-540-89862-7_1) (December 2008) 
 - :notebook: [Boosting scalability in anomaly-based packed executable filtering](https://link.springer.com/chapter/10.1007%2F978-3-642-34704-7_3) (November 2011) 
+- :mortar_board: [Building a malware mutation tool](https://dial.uclouvain.be/memoire/ucl/object/thesis:45960) (June 2024)  :star:
+- :mortar_board: [Building a mutation tool for binaries: Expanding a dynamic binary rewriting tool to obfuscate malwares](https://dial.uclouvain.be/memoire/ucl/object/thesis:40611) (June 2023)  :star: :star:
 - :mortar_board: [Building a smart and automated tool for packed malware detections using machine learning](https://dial.uclouvain.be/memoire/ucl/en/object/thesis%3A25193) (June 2020) 
 - :newspaper: [Bypassing anti-analysis of commercial protector methods using DBI tools](https://ieeexplore.ieee.org/document/9312198) (January 2021) 
 - :notebook: [ByteWise: A case study in neural network obfuscation identification](https://ieeexplore.ieee.org/document/8301720/) (January 2018) 
-- :notebook: [Certified robustness of static deep learning-based malware detectors against patch and append attacks](https://doi.org/10.1145/3605764.3623914) (November 2023)  :star:
+- :notebook: [Certified robustness of static deep learning-based malware detectors against patch and append attacks](https://dl.acm.org/doi/10.1145/3605764.3623914) (November 2023)  :star:
 - :notebook: [Challenging anti-virus through evolutionary malware obfuscation](https://link.springer.com/chapter/10.1007%2F978-3-319-31153-1_11) (April 2016) 
-- :notebook: [Chosen-instruction attack against commercial code virtualization obfuscators](https://ink.library.smu.edu.sg/sis_research/7354) (April 2022)  :star:
+- :notebook: [Chosen-instruction attack against commercial code virtualization obfuscators](https://ink.library.smu.edu.sg/sis_research/7354) (April 2022) 
 - :newspaper: [Classification of packed executables for accurate computer virus detection](http://www.sciencedirect.com/science/article/pii/S0167865508002110) (October 2008) 
 - :notebook: [Classifying packed malware represented as control flow graphs using deep graph convolutional neural network](https://ieeexplore.ieee.org/document/9103752) (March 2020)  :star:
 - :notebook: [Classifying packed programs as malicious software detected](https://www.semanticscholar.org/paper/Classifying-Packed-Programs-as-Malicious-Software-Osaghae/676f38819a0ed3028acce36f4f11b0c77e4cc0ae) (December 2016) 
@@ -155,8 +163,9 @@
 - :notebook: [A control flow graph-based signature for packer identification](https://ieeexplore.ieee.org/document/8170793) (October 2017) 
 - :newspaper: [Control flow-based opcode behavior analysis for malware detection](https://www.sciencedirect.com/science/article/pii/S0167404814000558) (July 2014) 
 - :notebook: [Countering entropy measure attacks on packed software detection](https://ieeexplore.ieee.org/document/6181079) (January 2012) 
-- :bar_chart: [Dealing with virtualization packers](http://2008.caro.org/downloads/boris_lau_virtualization_obfs.pdf) (May 2008) 
-- :notebook: [Deceiving portable executable malware classifiers into targeted misclassification with practical adversarial examples](https://doi.org/10.1145/3374664.3375741) (March 2020) 
+- :bar_chart: [Dealing with virtualization packers](https://2008.caro.org/program/dealing-with-virtualization-packers) (May 2008) 
+- :bookmark: [Deceiving end-to-end deep learning malware detectors using adversarial examples](https://arxiv.org/abs/1802.04528) (January 2019) 
+- :notebook: [Deceiving portable executable malware classifiers into targeted misclassification with practical adversarial examples](https://dl.acm.org/doi/10.1145/3374664.3375741) (March 2020) 
 - :page_facing_up: [Decoding the secrets of machine learning in malware classification: A deep dive into datasets, feature extraction, and model performance](https://arxiv.org/abs/2307.14657) (July 2023)  :star:
 - :notebook: [Denial-of-service attacks on host-based generic unpackers](https://link.springer.com/chapter/10.1007/978-3-642-11145-7_19) (December 2009) 
 - :mortar_board: [Deobfuscation of packed and virtualization-obfuscation protected binaries](https://repository.arizona.edu/handle/10150/202716) (June 2011) 
@@ -171,7 +180,7 @@
 - :newspaper: [Detecting unknown malicious code by applying classification techniques on opcode patterns](https://doi.org/10.1186/2190-8532-1-1) (February 2012) 
 - :notebook: [Detection of metamorphic malware packers using multilayered LSTM networks](https://link.springer.com/10.1007/978-3-030-61078-4_3) (November 2020)  :star:
 - :notebook: [Detection of packed executables using support vector machines](https://ieeexplore.ieee.org/document/6016774) (July 2011) 
-- :notebook: [Detection of packed malware](https://doi.org/10.1145/2490428.2490431) (August 2012) 
+- :notebook: [Detection of packed malware](https://dl.acm.org/doi/10.1145/2490428.2490431) (August 2012) 
 - :notebook: [DexHunter: Toward extracting hidden code from packed Android applications](https://link.springer.com/chapter/10.1007/978-3-319-24177-7_15) (September 2015) 
 - :notebook: [Disabling anti-debugging techniques for unpacking system in user-level debugger](https://ieeexplore.ieee.org/document/8939719) (October 2019) 
 - :newspaper: [DroidPDF: The obfuscation resilient packer detection framework for Android Apps](https://ieeexplore.ieee.org/document/9144572) (July 2020) 
@@ -179,7 +188,7 @@
 - :notebook: [Dynamic classification of packing algorithms for inspecting executables using entropy analysis](https://ieeexplore.ieee.org/document/6703681) (October 2013) 
 - :notebook: [A dynamic heuristic method for detecting packed malware using naive bayes](https://ieeexplore.ieee.org/document/8959765) (November 2019)  :star:
 - :newspaper: [Effective, efficient, and robust packing detection and classification](http://www.sciencedirect.com/science/article/pii/S0167404818311040) (May 2019)  :star: :star: :star:
-- :newspaper: [An efficient algorithm to extract control flow-based features for ioT malware detection](https://academic.oup.com/comjnl/article/64/4/599/5940626) (April 2021) 
+- :newspaper: [An efficient algorithm to extract control flow-based features for ioT malware detection](https://academic.oup.com/comjnl/article-abstract/64/4/599/5940626) (April 2021) 
 - :notebook: [Efficient and automatic instrumentation for packed binaries](https://link.springer.com/chapter/10.1007/978-3-642-02617-1_32) (June 2009) 
 - :newspaper: [Efficient automatic original entry point detection](https://jise.iis.sinica.edu.tw/JISESearch/pages/View/PaperView.jsf?keyId=169_2256) (January 2019) 
 - :newspaper: [An efficient block-discriminant identification of packed malware](https://link.springer.com/article/10.1007%2Fs12046-015-0399-x) (August 2015) 
@@ -200,17 +209,19 @@
 - :notebook: [Evading packing detection: Breaking heuristic-based static detectors](https://link.springer.com/chapter/10.1007/978-3-031-64171-8_9) (July 2024)  :star:
 - :notebook: [Experimental comparison of machine learning models in malware packing detection](https://ieeexplore.ieee.org/document/9237007) (September 2020)  :star:
 - :notebook: [An experimental study on identifying obfuscation techniques in packer](https://docplayer.net/63501103-An-experimental-study-on-identifying-obfuscation-techniques-in-packer.html) (June 2016) 
-- :notebook: [Experimental toolkit for manipulating executable packing](https://link.springer.com/chapter/10.1007/978-3-031-61231-2_17) (June 2024)  :star:
+- :notebook: [Experimental toolkit for manipulating executable packing](https://link.springer.com/chapter/10.1007/978-3-031-61231-2_17) (June 2024)  :star: :star:
 - :mortar_board: [Experimental toolkit for studying executable packing - Analysis of the state-of-the-art packing detection techniques](https://dial.uclouvain.be/memoire/ucl/en/object/thesis%3A35692) (June 2022)  :star:
+- :notebook: [Exploring adversarial examples in malware detection](https://ieeexplore.ieee.org/document/8844597) (May 2019) 
 - :newspaper: [Fast and robust fixed-point algorithms for independent component analysis](https://ieeexplore.ieee.org/document/761722) (May 1999) 
 - :notebook: [A fast flowgraph based classification system for packed and polymorphic malware on the endhost](https://ieeexplore.ieee.org/document/5474800/) (April 2010) 
 - :notebook: [A fast randomness test that preserves local detail](https://researchrepository.rmit.edu.au/esploro/outputs/conferenceProceeding/A-fast-randomness-test-that-preserves-local-detail/9921861589001341) (October 2008) 
 - :newspaper: [Feature selection for malware detection based on reinforcement learning](https://ieeexplore.ieee.org/document/8920059) (December 2019) 
+- :newspaper: [Feature selection for packer classification based on association rule mining](https://www.sciencedirect.com/science/article/pii/S0952197624012417) (August 2024)  :star:
 - :notebook: [Feature set reduction for the detection of packed executables](https://ieeexplore.ieee.org/document/6912767) (June 2014) 
 - :newspaper: [File packing from the malware perspective: Techniques, analysis approaches, and directions for enhancements](https://dl.acm.org/doi/10.1145/3530810) (December 2022)  :star:
 - :notebook: [Fileprints: Identifying file types by n-gram analysis](https://ieeexplore.ieee.org/document/1495935) (June 2005) 
 - :notebook: [A fine-grained classification approach for the packed malicious code](https://link.springer.com/chapter/10.1007/978-3-642-34129-8_49) (October 2012) 
-- :newspaper: [Functionality-preserving black-box optimization of adversarial windows malware](https://ieeexplore.ieee.org/document/9437194) (May 2021) 
+- :newspaper: [Functionality-preserving black-box optimization of adversarial windows malware](https://ieeexplore.ieee.org/document/9437194) (May 2021)  :star:
 - :bookmark: [Generating adversarial malware examples for black-box attacks based on GAN](http://arxiv.org/abs/1702.05983) (February 2020) 
 - :notebook: [A generic approach to automatic deobfuscation of executable code](https://ieeexplore.ieee.org/document/7163054) (May 2015)  :star:
 - :notebook: [Generic black-box end-to-end attack against state of the art API call based malware classifiers](https://link.springer.com/chapter/10.1007/978-3-030-00470-5_23) (September 2018) 
@@ -224,6 +235,7 @@
 - :newspaper: [Hashing-based encryption and anti-debugger support for packing multiple files into single executable](http://ijarcs.info/index.php/Ijarcs/article/view/5526/4622) (February 2018) 
 - :notebook: [A heuristic approach for detection of obfuscated malware](https://ieeexplore.ieee.org/document/5137328) (June 2009) 
 - :newspaper: [A heuristics-based static analysis approach for detecting packed PE binaries](http://article.nadiapub.com/IJSIA/vol7_no5/24.pdf) (October 2013) 
+- :notebook: [Highlighting the impact of packed executable alterations with unsupervised learning](https://link.springer.com/chapter/10.1007/978-3-031-89350-6_23) (April 2025) 
 - :newspaper: [Identifying malware packers through multilayer feature engineering in static analysis](https://www.mdpi.com/2078-2489/15/2/102) (February 2024)  :star:
 - :notebook: [An implementation of a generic unpacking method on Bochs Emulator](https://www.semanticscholar.org/paper/An-Implementation-of-a-Generic-Unpacking-Method-on-HyungChanKim-Daisuke/d5c947520815105231673f1b87af57ed6abd379c) (September 2009) 
 - :newspaper: [An improved method for packed malware detection using PE header and section table information](https://www.mecs-press.org/ijcnis/ijcnis-v11-n9/v11n9-2.html) (September 2019) 
@@ -242,29 +254,30 @@
 - :notebook: [Mal-EVE: Static detection model for evasive malware](https://ieeexplore.ieee.org/document/7497952) (August 2015) 
 - :newspaper: [Mal-flux: Rendering hidden code of packed binary executable](http://www.sciencedirect.com/science/article/pii/S1742287618303736) (March 2019) 
 - :newspaper: [Mal-XT: Higher accuracy hidden-code extraction of packed binary executable](https://iopscience.iop.org/article/10.1088/1757-899X/453/1/012001) (November 2018) 
-- :newspaper: [Mal-xtract: Hidden code extraction using memory analysis](https://doi.org/10.1088%2F1742-6596%2F801%2F1%2F012058) (January 2017) 
+- :newspaper: [Mal-xtract: Hidden code extraction using memory analysis](https://iopscience.iop.org/article/10.1088/1742-6596/801/1/012058) (January 2017) 
 - :newspaper: [MaliCage: A packed malware family classification framework based on DNN and GAN](https://www.sciencedirect.com/science/article/pii/S2214212622001296) (August 2022)  :star:
 - :newspaper: [Malware analysis using multiple API sequence mining control flow graph](https://arxiv.org/abs/1707.02691) (July 2017) 
 - :newspaper: [Malware analysis using visualized images and entropy graphs](https://link.springer.com/article/10.1007%2Fs10207-014-0242-0) (February 2015) 
 - :mortar_board: [Malware detection through opcode sequence analysis using machine learning](https://api.semanticscholar.org/CorpusID:70282638) (June 2015) 
 - :notebook: [Malware family classification method based on static feature extraction](https://ieeexplore.ieee.org/document/8322598) (December 2017) 
-- :notebook: [Malware images: Visualization and automatic classification](https://doi.org/10.1145/2016904.2016908) (July 2011) 
+- :notebook: [Malware images: Visualization and automatic classification](https://dl.acm.org/doi/10.1145/2016904.2016908) (July 2011) 
 - :notebook: [Malware makeover: Breaking ML-based static analysis by modifying executable bytes](http://arxiv.org/abs/1912.09064) (May 2021) 
 - :notebook: [Malware obfuscation techniques: A brief survey](https://ieeexplore.ieee.org/document/5633410) (November 2010) 
-- :notebook: [Malware obfuscation through evolutionary packers](https://doi.org/10.1145/2739482.2764940) (July 2015) 
+- :notebook: [Malware obfuscation through evolutionary packers](https://dl.acm.org/doi/10.1145/2739482.2764940) (July 2015) 
 - :newspaper: [Malwise - An effective and efficient classification system for packed and polymorphic malware](https://ieeexplore.ieee.org/document/6171162) (June 2013) 
 - :notebook: [McBoost: Boosting scalability in malware collection and analysis using statistical classification of executables](https://ieeexplore.ieee.org/document/4721567) (December 2008) 
 - :notebook: [Memory behavior-based automatic malware unpacking in stealth debugging environment](https://ieeexplore.ieee.org/document/5665794) (October 2010) 
 - :notebook: [MetaAware: Identifying metamorphic malware](https://ieeexplore.ieee.org/document/4413007) (December 2007) 
-- :notebook: [Metadata recovery from obfuscated programs using machine learning](https://doi.org/10.1145/3015135.3015136) (December 2016) 
+- :notebook: [Metadata recovery from obfuscated programs using machine learning](https://dl.acm.org/doi/10.1145/3015135.3015136) (December 2016) 
 - :notebook: [MLxPack: Investigating the effects of packers on ML-based malware detection systems using static and dynamic traits](https://dl.acm.org/doi/10.1145/3494108.3522768) (May 2022)  :star:
 - :notebook: [Modern linux malware exposed](https://www.eurecom.fr/fr/publication/5584) (June 2018) 
+- :newspaper: [MSG: Missing-sequence generator for metamorphic malware detection](https://www.sciencedirect.com/science/article/pii/S2214212624002643) (March 2025) 
 - :notebook: [MutantX-S: Scalable malware clustering based on static features](https://www.usenix.org/conference/atc13/technical-sessions/presentation/hu) (June 2013) 
 - :notebook: [The new signature generation method based on an unpacking algorithm and procedure for a packer detection](https://www.earticle.net/Article/A147420) (February 2011) 
 - :bookmark: [Novel feature extraction, selection and fusion for effective malware family classification](https://arxiv.org/abs/1511.04317) (March 2016) 
 - :notebook: [Obfuscation-resilient executable payload extraction from packed malware](https://www.usenix.org/conference/usenixsecurity21/presentation/cheng-binlin) (August 2021)  :star:
 - :newspaper: [Obfuscation: The hidden malware](https://ieeexplore.ieee.org/document/5975134) (August 2011) 
-- :notebook: [Obfuscation: Where are we in anti-DSE protections? (a first attempt)](https://doi.org/10.1145/3371307.3371309) (December 2019) 
+- :notebook: [Obfuscation: Where are we in anti-DSE protections? (a first attempt)](https://dl.acm.org/doi/10.1145/3371307.3371309) (December 2019) 
 - :notebook: [Obfuscator-LLVM: Software protection for the masses](https://ieeexplore.ieee.org/document/7174804) (May 2015) 
 - :notebook: [OmniUnpack: Fast, generic, and safe unpacking of malware](https://ieeexplore.ieee.org/document/4413009) (December 2007)  :star:
 - :newspaper: [On deceiving malware classification with section injection](https://arxiv.org/abs/2208.06092) (August 2022) 
@@ -272,12 +285,13 @@
 - :notebook: [On the (Im)possibility of obfuscating programs](https://link.springer.com/chapter/10.1007/3-540-44647-8_1) (August 2001) 
 - :newspaper: [On the adoption of anomaly detection for packed executable filtering](https://www.sciencedirect.com/science/article/pii/S0167404814000522?via%3Dihub) (June 2014) 
 - :newspaper: [Opcode sequences as representation of executables for data-mining-based unknown malware detection](https://linkinghub.elsevier.com/retrieve/pii/S0020025511004336) (May 2013) 
-- :newspaper: [Opcodes as predictor for malware](http://www.inderscience.com/link.php?id=16865) (January 2008) 
+- :newspaper: [Opcodes as predictor for malware](https://www.inderscienceonline.com/doi/abs/10.1504/IJESDF.2007.016865) (January 2008) 
 - :notebook: [OPEM: A static-dynamic approach for machine-learning-based malware detection](https://link.springer.com/chapter/10.1007/978-3-642-33018-6_28) (September 2012) 
 - :newspaper: [Original entry point detection based on graph similarity](https://link.springer.com/chapter/10.1007/978-3-031-57537-2_22) (April 2024) 
 - :newspaper: [An original entry point detection method with candidate-sorting for more effective generic unpacking](https://www.jstage.jst.go.jp/article/transinf/E98.D/4/E98.D_2014EDP7268/_article) (January 2015) 
-- :newspaper: [Packed malware detection using entropy related analysis: A survey](https://api.semanticscholar.org/CorpusID:212493886) (November 2015) 
-- :newspaper: [Packed malware variants detection using deep belief networks](https://doi.org/10.1051/matecconf/202030902002) (March 2020) 
+- :notebook: [Packed code detection using shannon entropy and homomorphic encrypted executables](https://ieeexplore.ieee.org/document/10793050) (October 2024) 
+- :newspaper: [Packed malware detection using entropy related analysis: A survey](https://www.semanticscholar.org/paper/7bc891420300f6e4c4d97d19a14d5c6a4dd422f0) (November 2015) 
+- :newspaper: [Packed malware variants detection using deep belief networks](https://www.matec-conferences.org/articles/matecconf/abs/2020/05/matecconf_cscns2020_02002/matecconf_cscns2020_02002.html) (March 2020) 
 - :notebook: [Packed PE file detection for malware forensics](https://ieeexplore.ieee.org/document/5404211) (December 2009) 
 - :newspaper: [Packer analysis report debugging and unpacking the NsPack 3.4 and 3.7 packer](https://www.sans.org/reading-room/whitepapers/malicious/packer-analysis-report-debugging-unpacking-nspack-34-37-packer-33428) (June 2010) 
 - :newspaper: [Packer classification based on association rule mining](https://www.sciencedirect.com/science/article/pii/S1568494622005245) (July 2022)  :star:
@@ -290,15 +304,17 @@
 - :notebook: [Packer identification using hidden Markov model](https://link.springer.com/chapter/10.1007/978-3-319-69456-6_8) (November 2017) 
 - :mortar_board: [Packer-complexity analysis in PANDA](https://webthesis.biblio.polito.it/7519/) (January 2018) 
 - :notebook: [PackGenome: Automatically generating robust YARA rules for accurate malware packer detection](https://dl.acm.org/doi/10.1145/3576915.3616625) (November 2023)  :star:
+- :bookmark: [PackHero: A scalable graph-based approach for efficient packer identification](https://re.public.polimi.it/handle/11311/1284225) (July 2025) 
 - :mortar_board: [Packing detection and classification relying on machine learning to stop malware propagation](https://theses.hal.science/tel-03781104) (December 2021) 
 - :mortar_board: [Pandora's Bochs: Automatic unpacking of malware](https://www.researchgate.net/publication/268355151_Pandora%27s_Bochs_Automatic_Unpacking_of_Malware) (January 2008) 
 - :notebook: [Pattern recognition techniques for the classification of malware packers](https://link.springer.com/chapter/10.1007/978-3-642-14081-5_23) (July 2010) 
-- :newspaper: [PE file features in detection of packed executables](http://www.ijcte.org/show-42-485-1.html) (January 2012) 
+- :newspaper: [PE file features in detection of packed executables](https://www.ijcte.org/show-42-485-1.html) (January 2012) 
 - :notebook: [PE file header analysis-based packed PE file detection technique (PHAD)](https://ieeexplore.ieee.org/document/4654055) (October 2008) 
 - :notebook: [PE-Miner: Mining structural information to detect malicious executables in realtime](https://link.springer.com/chapter/10.1007/978-3-642-04342-0_7) (September 2009) 
 - :notebook: [PE-Probe: Leveraging packer detection and structural information to detect malicious portable executables](https://www.semanticscholar.org/paper/PE-Probe%3A-Leveraging-Packer-Detection-and-to-Detect-Shafiq-Tabish/9811ec751f2b5bb41ee46c0ee2a3b6eccc39bb9a) (June 2009) 
 - :notebook: [PEAL - Packed executable analysis](https://link.springer.com/chapter/10.1007/978-3-642-29280-4_28) (January 2012) 
 - :newspaper: [PEzoNG: Advanced packer for automated evasion on Windows](https://link.springer.com/article/10.1007/s11416-022-00417-2) (December 2022) 
+- :newspaper: [Pitfalls in machine learning for computer security](https://dl.acm.org/doi/10.1145/3643456) (October 2024) 
 - :notebook: [PolyPack: An automated online packing service for optimal antivirus evasion](https://dl.acm.org/doi/10.5555/1855876.1855885) (August 2009) 
 - :notebook: [PolyUnpack: Automating the hidden-code extraction of unpack-executing malware](https://ieeexplore.ieee.org/document/4041175) (December 2006)  :star2: :star2: :star2:
 - :newspaper: [Potent and stealthy control flow obfuscation by stack based self-modifying code](http://ieeexplore.ieee.org/document/6473885/) (April 2013) 
@@ -307,7 +323,7 @@
 - :notebook: [Prevalence and impact of low-entropy packing schemes in the malware ecosystem](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24297.pdf) (February 2020)  :star:
 - :bar_chart: [Qualitative and quantitative evaluation of software packers](http://webdiis.unizar.es/~ricardo/files/slides/industrial/slides_NcN-15.pdf) (December 2015) 
 - :notebook: [RAMBO: Run-Time packer analysis with multiple branch observation](https://link.springer.com/chapter/10.1007/978-3-319-40667-1_10) (July 2016)  :star:
-- :mortar_board: [REFORM: A framework for malware packer analysis using information theory and statistical methods](https://researchrepository.rmit.edu.au/view/delivery/61RMIT_INST/12246783310001341/13248377300001341) (April 2010) 
+- :mortar_board: [REFORM: A framework for malware packer analysis using information theory and statistical methods](https://scispace.com/papers/reform-a-framework-for-malware-packer-analysis-using-2muwuyaeox) (April 2010) 
 - :notebook: [Renovo: A hidden code extractor for packed executables](https://dl.acm.org/doi/10.1145/1314389.1314399) (November 2007)  :star: :star:
 - :notebook: [RePEconstruct: Reconstructing binaries with self-modifying code and import address table destruction](https://ieeexplore.ieee.org/document/7888727) (October 2016) 
 - :notebook: [RePEF — A system for restoring packed executable file for malware analysis](https://ieeexplore.ieee.org/document/6016777) (July 2011) 
@@ -329,6 +345,7 @@
 - :notebook: [SoK: (state of) the art of war: Offensive techniques in binary analysis](https://ieeexplore.ieee.org/document/7546500) (May 2016) 
 - :notebook: [SoK: Automatic deobfuscation of virtualization-protected applications](https://dl.acm.org/doi/10.1145/3465481.3465772) (August 2021) 
 - :notebook: [SoK: Deep packer inspection: A longitudinal study of the complexity of run-time packers](https://ieeexplore.ieee.org/document/7163053) (May 2015)  :star: :star:
+- :mortar_board: [Source-free binary mutation for offense and defense](https://api.semanticscholar.org/CorpusID:113759144) (December 2014) 
 - :notebook: [SPADE: Signature based packer detection](https://dl.acm.org/doi/10.1145/2490428.2490442) (August 2012) 
 - :newspaper: [Standards and policies on packer use](http://pferrie.epizy.com/papers/con2010.htm) (October 2010) 
 - :notebook: [Static analysis method on portable executable files for REMNUX based malware identification](https://ieeexplore.ieee.org/document/8923331) (October 2019) 
@@ -341,12 +358,12 @@
 - :notebook: [A study of the packer problem and its solutions](https://link.springer.com/chapter/10.1007/978-3-540-87403-4_6) (September 2008)  :star:
 - :bookmark: [A survey on adversarial attacks for malware analysis](https://arxiv.org/abs/2111.08223) (January 2022) 
 - :notebook: [A survey on machine learning-based detection and classification technology of malware](https://ieeexplore.ieee.org/document/9718826) (September 2021) 
-- :newspaper: [A survey on malware analysis techniques: Static, dynamic, hybrid and memory analysis](https://www.insightsociety.org/ojaseit/index.php/ijaseit/article/view/6827) (September 2018) 
+- :newspaper: [A survey on malware analysis techniques: Static, dynamic, hybrid and memory analysis](https://ijaseit.insightsociety.org/index.php/ijaseit/article/view/6827) (September 2018) 
 - :notebook: [Survey on malware evasion techniques: State of the art and challenges](https://ieeexplore.ieee.org/abstract/document/6174775) (February 2012) 
 - :newspaper: [A survey on run-time packers and mitigation techniques](https://link.springer.com/article/10.1007/s10207-023-00759-y) (November 2023)  :star:
 - :notebook: [Symbolic deobfuscation: From virtualized code back to the original](https://link.springer.com/chapter/10.1007/978-3-319-93411-2_17) (July 2018) 
 - :notebook: [Symbolic execution of obfuscated code](https://dl.acm.org/doi/10.1145/2810103.2813663) (October 2015)  :star:
-- :notebook: [Syntia: Synthesizing the semantics of obfuscated code](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/blazytko) (August 2017)  :star:
+- :notebook: [Syntia: Synthesizing the semantics of obfuscated code](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/blazytko) (August 2017) 
 - :bookmark: [Technical report on the cleverhans v2.1.0 adversarial examples library](https://arxiv.org/abs/1610.00768) (June 2018) 
 - :notebook: [Things you may not know about Android (Un) packers: A systematic study based on whole-system emulation.](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_04A-4_Duan_paper.pdf) (February 2018) 
 - :notebook: [Thwarting real-time dynamic unpacking](https://dl.acm.org/doi/10.1145/1972551.1972556) (January 2011) 
@@ -362,18 +379,20 @@
 - :notebook: [Unknown malcode detection using OPCODE representation](http://link.springer.com/10.1007/978-3-540-89900-6_21) (December 2008) 
 - :notebook: [A unpacking and reconstruction system-agunpacker](https://ieeexplore.ieee.org/document/5374512) (January 2009) 
 - :mortar_board: [Unpacking framework for packed malicious executables](https://repositorio-aberto.up.pt/bitstream/10216/68815/2/25935.pdf) (July 2013) 
+- :closed_book: [Unpacking malware in the real world: A step-by step guide](https://link.springer.com/chapter/10.1007/978-3-031-66245-4_13) (July 2024) 
 - :newspaper: [Unpacking techniques and tools in malware analysis](https://www.scientific.net/AMM.198-199.343) (September 2012) 
 - :notebook: [Unpacking virtualization obfuscators](https://dl.acm.org/doi/10.5555/1855876.1855877) (August 2009) 
 - :mortar_board: [Unsupervised clustering machine learning on packed executable](https://dial.uclouvain.be/memoire/ucl/en/object/thesis%3A35687) (June 2022) 
 - :newspaper: [UnThemida: Commercial obfuscation technique analysis with a fully obfuscated program](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2622) (July 2018) 
 - :newspaper: [Using entropy analysis to find encrypted and packed malware](https://ieeexplore.ieee.org/document/4140989) (March 2007) 
+- :notebook: [VABox: A virtualization-based analysis framework of virtualization-obfuscated packed executables](https://link.springer.com/chapter/10.1007/978-3-030-78621-2_6) (June 2021) 
 - :notebook: [VMAttack: Deobfuscating virtualization-based packed binaries](https://dl.acm.org/doi/10.1145/3098954.3098995) (August 2017) 
 - :notebook: [VMHunt: A verifiable approach to partially-virtualized binary code simplification](https://dl.acm.org/doi/10.1145/3243734.3243827) (October 2018) 
 - :notebook: [VMRe: A reverse framework of virtual machine protection packed binaries](https://ieeexplore.ieee.org/document/8923473) (June 2019) 
 - :bar_chart: [WaveAtlas: Surfing through the landscape of current malware packers](https://www.virusbulletin.com/virusbulletin/2016/12/vb2015-paper-waveatlas-surfing-through-landscape-current-malware-packers/) (September 2015) 
 - :notebook: [When malware is packin' heat; limits of machine learning classifiers based on static analysis features](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24310.pdf) (January 2020)  :star: :star:
 - :newspaper: [WYSINWYX: What you see is not what you execute](https://dl.acm.org/doi/10.1145/1749608.1749612) (August 2010) 
-- :newspaper: [x64Unpack: Hybrid emulation unpacker for 64-bit Windows Environments and detailed analysis results on VMProtect 3.4](https://ieeexplore.ieee.org/document/9139515) (July 2020)  :star:
+- :newspaper: [x64Unpack: Hybrid emulation unpacker for 64-bit Windows Environments and detailed analysis results on VMProtect 3.4](https://ieeexplore.ieee.org/document/9139515) (July 2020) 
 
 <p align="center"><a href="#"><img src="https://img.shields.io/badge/Back%20to%20top--lightgrey?style=social" alt="Back to top" height="20"/></a></p>
 
@@ -381,6 +400,7 @@
 
 ## :bookmark_tabs: Datasets
 
+- [BODMAS](https://github.com/whyisyoung/BODMAS) - Code for our DLS'21 paper - BODMAS: An Open Dataset for Learning based Temporal Analysis of PE Malware.
 - [Contagio](https://contagiodump.blogspot.com) - Contagio is a collection of the latest malware samples, threats, observations, and analyses.
 - [CyberCrime](https://cybercrime-tracker.net/vx.php) - C² tracking and malware database.
 - [Dataset of Packed ELF](https://github.com/dhondta/dataset-packed-elf) - Dataset of packed ELF samples.
@@ -394,9 +414,9 @@
 - [MalShare](https://malshare.com) - Free Malware repository providing researchers access to samples, malicious feeds, and Yara results.
 - [The Malware Museum](https://archive.org/details/malwaremuseum) - The Malware Museum is a collection of malware programs, usually viruses, that were distributed in the 1980s and 1990s on home computers.
 - [MalwareBazaar](https://bazaar.abuse.ch/browse) - Project operated by abuse.ch aimed to collect and share malware samples, helping IT-security researchers and threat analysts protecting their constituency and customers from cyber threats.
-- [MalwareGallery](https://github.com/BaRRaKudaRain/MalwareGallery) - Yet another malware collection in the Internet.
+- [MalwareGallery](https://www.malwaregallery.com) - Yet another malware collection in the Internet.
 - [MalwareSamples](https://github.com/MalwareSamples) - Bringing you the best of the worst files on the Internet.
-- [MalwareTips](https://malwaretips.com/) - MalwareTips is a community-driven platform providing the latest information and resources on malware and cyber threats.
+- [MalwareTips](https://malwaretips.com) - MalwareTips is a community-driven platform providing the latest information and resources on malware and cyber threats.
 - [OARC Malware Dataset](https://www.dns-oarc.net) - Semi-public dataset of 3,467 samples captured in the wild from Sep 2005 to Jan 2006 by mail traps, user submissions, honeypots and other sources aggregated by the OARC, available to qualified academic and industry researchers upon request.
 - [Open Malware Project](https://web.archive.org/web/20190116100735/http://www.offensivecomputing.net/) - Online collection of malware samples (formerly Offensive Computing).
 - [PackingData](https://github.com/chesvectain/PackingData) - Original dataset with sample PE files packed with a large variety of packers, including ASPack, BeRoEXEPacker, exe32pack, eXpressor, FSG, JDPack, MEW, Molebox, MPRESS, Neolite, NSPack, Pckman, PECompact, PEtite, RLPack, UPX, WinUpack, Yoda's Crypter and Yoda's Protector.
@@ -423,17 +443,17 @@
 
 ### After 2010
 
-- [Astral-PE](https://github.com/DosX-dev/Astral-PE) - Low-level mutator (Headers/EP obfuscator) for native Windows PE files (x32/x64)
 - [Alienyze](https://alienyze.com) - Advanced software protection and security for Windows 32-bit executables.
 - [Alternate EXE Packer](https://www.alternate-tools.com/pages/c_exepacker.php) - Compression tool for executable files (type EXE) or DLL's relying on UPX 3.96.
 - [Amber](https://github.com/EgeBalci/amber/releases) - Position-independent(reflective) PE loader that enables in-memory execution of native PE files(EXE, DLL, SYS).
 - [Andromeda](https://blog.morphisec.com/andromeda-tactics-analyzed) - Custom packer used in malware campaigns using RunPE techniques for evading AV mitigation methods.
 - [APKProtect](https://sourceforge.net/projects/apkprotect) - APK encryption and shell protection supporting Java and C++.
 - [Armadillo](https://web.archive.org/web/20030324043555/https://www.exetools.com/files/protectors/win/armd252b2.zip) - Incorporates both a license manager and wrapper system for protecting PE files.
+- [ASM Guard](https://github.com/DosX-dev/ASM-Guard) - Packer utility for compressing and complicating reversing compiled native code (native files), protecting resources, adding DRM, and packing into an optimized loader.
 - [ASPack](http://www.aspack.com/aspack.html) - Advanced solution created to provide Win32 EXE file packing and to protect them against non-professional reverse engineering.
 - [ASProtect 32](http://www.aspack.com/asprotect32.html) - Multifunctional EXE packing tool designed for software developers to protect 32-bit applications with in-built application copy protection system.
 - [ASProtect 64](http://www.aspack.com/asprotect64.html) - Tool for protecting 64-bit applications and .NET applications for Windows against unauthorized use, industrial and home copying, professional hacking and analysis of software products distributed over the Internet and on any physical media.
-- [ASM Guard](https://github.com/DosX-dev/ASM-Guard) - Free packer utility for compressing and complicating reversing compiled native code (native files), protecting resources, adding DRM, and packing into an optimized loader.
+- [Astral-PE](https://github.com/DosX-dev/Astral-PE) - Low-level mutator (Headers/EP obfuscator) for native Windows PE files (x32/x64).
 - [AutoIT](https://www.autoitscript.com/site) - Legitimate executable encryption service.
 - [AxProtector](https://www.wibu.com/us/products/protection-suite/axprotector.html) - Encrypts the complete software you aim to protect, and shields it with a security shell, AxEngine, best-of-breed anti-debugging and anti-disassembly methods are then injected into your software.
 - [BangCle](https://github.com/woxihuannisja/Bangcle) - Protection tool using the second generation Android Hardening Protection, loading the encrypted DEX file from memory dynamically.
@@ -449,6 +469,7 @@
 - [DotBundle](https://web.archive.org/web/20160508074421/http://www.dotbundle.com:80/download.html) - GUI tool to compress, encrypt ad password-protect a .NET application or embed .NET libraries.
 - [DotNetZ](https://www.softpedia.com/get/Programming/Packers-Crypters-Protectors/NETZ.shtml) - Straightforward and lightweight, command-line piece of software written in C that allows you to compress and pack Microsoft .NET Framework executable files.
 - [ElecKey](https://www.sciensoft.com) - Suite of software and tools that offer a complete solution for software protection, copy protection, and license management.
+- [ELF Packer](https://github.com/telepath9000/elf-packer) - Encrypts 64-bit elf files that decrypt at runtime.
 - [ELFCrypt](https://github.com/droberson/ELFcrypt) - Simple ELF crypter using RC4 encryption.
 - [ELFuck](https://github.com/timhsutw/elfuck) - ELF packer for i386 original version from sk2 by sd.
 - [Enigma Protector](https://www.enigmaprotector.com) - Professional system for executable files licensing and protection.
@@ -467,11 +488,10 @@
 - [MPRESS](https://www.autohotkey.com/mpress/mpress_web.htm) - Compresses (using LZMA) and protects PE, .NET or Mach-O programs against reverse engineering.
 - [NetCrypt](https://github.com/friedkiwi/netcrypt) - A proof-of-concept packer for .NET executables, designed to provide a starting point to explain the basic principles of runtime packing.
 - [.netshrink](https://www.pelock.com/products/netshrink) - Executable compressor for your Windows or Linux .NET application executable file using LZMA.
-- [NPack](http://www.nsdsn.com/english/nspack.zip) - Can compress 32bits and 64bits exe, dll, ocx, scr Windows program.
-- [Obsidium](http://www.obsidium.de/show.php?home) - Feature-rich professional software protection and licensing system designed as a cost effective and easy to implement, yet reliable and non-invasive way to protect your 32- and 64-bit Windows software applications and games from reverse engineering.
-- [obfus.h](https://github.com/DosX-dev/obfus.h) - Macro-header for compile-time C obfuscation/virtualization (tcc, win x86/x64)
+- NPack - Can compress 32bits and 64bits exe, dll, ocx, scr Windows program.
+- [Obsidium](https://www.obsidium.de/product/sps/download) - Feature-rich professional software protection and licensing system designed as a cost effective and easy to implement, yet reliable and non-invasive way to protect your 32- and 64-bit Windows software applications and games from reverse engineering.
 - [Origami](https://github.com/dr4k0nia/Origami) - Packer compressing .net assemblies, (ab)using the PE format for data storage.
-- [OSX_Packer](https://github.com/AlysonBee/OSX_Packer) - Binary packer for the Mach-O file format.
+- [OS-X_Packer](https://web.archive.org/web/20200929161737/https://github.com/AlysonBee/OSX_Packer) - Binary packer for the Mach-O file format.
 - [Pakkero](https://github.com/89luca89/pakkero) - Pakkero is a binary packer written in Go made for fun and educational purpose.
 - [Pakr](https://github.com/iangcarroll/pakr) - In-memory packer for macOS Mach-O bundles.
 - [Papaw](https://github.com/dimkr/papaw) - Permissively-licensed packer for ELF executables using LZMA Zstandard or Deflate compression.
@@ -494,9 +514,10 @@
 - [theArk](https://github.com/aaaddress1/theArk) - Windows x86 PE Packer In C++.
 - [Themida](https://www.oreans.com/themida.php) - From Renovo paper: Themida converts the original x86 instructions into virtual instructions in its own randomized instruction set, and then interpret these virtual instructions at run-time.
 - [UPX](https://upx.github.io/) - Ultimate Packer for eXecutables.
-- [VirtualMachineObfuscationPoC](https://github.com/eaglx/VirtualMachineObfuscationPoC) - Obfuscation method using virtual machine.
+- [VirtualMachineObfuscationPoC](https://web.archive.org/web/20231226141018/https://github.com/eaglx/VirtualMachineObfuscationPoC) - Obfuscation method using virtual machine.
 - [VMProtect](https://vmpsoft.com/products/vmprotect) - VMProtect protects code by executing it on a virtual machine with non-standard architecture that makes it extremely difficult to analyze and crack the software.
 - [Ward](https://github.com/ex0dus-0x/ward) - Simple implementation of an ELF packer that creates stealthy droppers for loading malicious ELFs in-memory.
+- [Woody Wood Packer](https://github.com/Jibus22/woody_woodpacker) - ELF packer - encrypt and inject self-decryption code into executable ELF binary target.
 - [xorPacker](https://github.com/nqntmqmqmb/xorPacker) - Simple packer working with all PE files which cipher your exe with a XOR implementation.
 - [ZProtect](http://www.jiami.net) - Renames metadata entities and supports advanced obfuscation methods that harden protection scheme and foil reverse engineering altogether.
 
@@ -525,7 +546,7 @@
 - [Kkrunchy](http://www.farbrausch.de/~fg/kkrunchy) - Kkrunchy is a small exe packer primarily meant for 64k intros.
 - [Laturi](http://laturi.haxor.fi) - Linker and compressor intended to be used for macOS 1k, 4k and perhaps 64K intros.
 - [mPack](https://blog.fearcat.in/a?ID=00050-86a031da-e36f-4409-9a08-d3d993dbf8f5) - mPack - mario PACKersimple Win32 PE Executable compressor.
-- [NSPack](https://nspack.apponic.com/) - 32/64-bits exe, dll, ocx, scr Windows program compressor.
+- [NSPack](https://nspack.apponic.com) - 32/64-bits exe, dll, ocx, scr Windows program compressor.
 - [NTPacker](https://hacking-software-free-download.blogspot.com/2013/02/nt-packer-v21.html) - PE file packer relying on aPlib for compression and/or XOR for encryption.
 - [PECompact](http://www.bitsum.com/pec2.asp) - Windows executable compressor featuring third-party plug-ins offering protection against reverse engineering.
 - [RDMC](https://www.sac.sk/download/pack/rdm006be.zip) - DMC algorithm based packer.
@@ -536,7 +557,7 @@
 - [sePACKER](https://sourceforge.net/projects/sepacker/) - Simple Executable Packer is compressing executables' code section inorder to decrease size of binary files.
 - [Shiva](https://packetstormsecurity.com/files/31087/shiva-0.95.tar.gz.html) - Shiva is a tool to encrypt ELF executables under Linux.
 - [tElock](https://www.softpedia.com/get/Programming/Packers-Crypters-Protectors/Telock.shtml) - Telock is a practical tool that intends to help developers who want to protect their work and reduce the size of the executable files.
-- [TTProtect](http://www.ttprotect.com) - Professional protection tool designed for software developers to protect their PE applications against illegal modification or decompilation.
+- [TTProtect](https://web.archive.org/web/20081218083606/http://www.ttprotect.com/en/index.htm) - Professional protection tool designed for software developers to protect their PE applications against illegal modification or decompilation.
 - [UPack](https://www.sac.sk/download/pack/upack399.rar) - Compresses Windows PE file.
 - [UPX-Scrambler](https://defacto2.net/f/a520164?packer=upxs) - Scrambler for files packed with UPX (up to 1.06) so that they cannot be unpacked with the '-d' option.
 - [WinUpack](https://www.sac.sk/download/pack/wupck039.zip) - Graphical interface for Upack, a command-line program used to create self-extracting archives from Windows PE files.
@@ -560,7 +581,7 @@
 - [BIN-Lock](https://defacto2.net/f/a520164?packer=bin-lock) - COM file scrambler for preventing reverse engineering.
 - [BitLok](https://defacto2.net/f/a520164?packer=bitlok) - COM and EXE file protector.
 - [C0NtRiVER](https://defacto2.net/f/a520164?packer=c0ntriver) - COM file encryptor.
-- [CauseWay Compressor](https://github.com/tkchia/causeway/tree/1ead4be14c9e536262e225f090b40b0c6cded286/watcom) - DOS EXE compressor.
+- [CauseWay Compressor](https://gitlab.com/tkchia/causeway) - DOS EXE compressor.
 - [CC Pro](https://defacto2.net/f/a520164?packer=ccpro) - COM and EXE executable file compression utility.
 - [CEXE](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/win/cexe10a.zip) - Compresses an input EXE into a smaller executable (only runs on WinNT, Win2000 and above - won't run on Win95 or Win98).
 - [COMProtector](https://defacto2.net/f/a520164?packer=comprotector) - Adds a security envelope around DOS .COM files by randomly encrypting it and adding several anti-debugging tricks.
@@ -585,7 +606,7 @@
 - [PCShrink](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/win/pcsnk071.zip) - Windows 9x/NT executable file compressor relying on the aPLib compression library.
 - [PE Diminisher](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/win/ped.zip) - Simple PE packer relying on the aPLib compression library.
 - [PE-Protector](https://web.archive.org/web/20030324043555/https://www.exetools.com/files/protectors/win/pe-protector10.zip) - Encrypter/protector for Windows 9x/ME to protect executable files PEagainst reverse engineering or cracking with a very strong protection.
-- [PEBundle](http://www.collakesoftware.com/files/pebsetup.exe) - Physically attaches DLL(s) to an executable, resolving dependencies in memory.
+- [PEBundle](https://bitsum.com/pebundle.htm) - Physically attaches DLL(s) to an executable, resolving dependencies in memory.
 - [PEPack](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/win/pepack10.zip) - PE compression tool based on the code of a newer version of PE-SHiELD.
 - [PKlite](https://defacto2.net/f/a520164?packer=pklite) - Easy-to-use file compression program for compressing DOS and Windows executable files.
 - [Pro-Pack](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/pp219.zip) - DOS executable file compressor.
@@ -601,7 +622,7 @@
 - [TinyProg](https://www.sac.sk/download/pack/tinyp39.zip) - EXE and COM programs compressor.
 - [TRAP](https://defacto2.net/f/a520164?packer=trap) - EXE and COM files encrypter and protector.
 - [Vacuum](https://web.archive.org/web/20060111104142/http://www.exetools.com/files/compressors/dos/vacuum.zip) - Runtime Compressor for DOS32 executables.
-- [VGCrypt](https://github.com/dhondta/awesome-executable-packing/blob/master/ftp://ftp.cdrom.com/.3/sac/security/vgcrypt.zip) - PE crypter for Win95/98/NT.
+- VGCrypt - PE crypter for Win95/98/NT.
 - [WinLite](https://www.sac.sk/download/pack/winlite1.zip) - Compresses Windows executables (such as Pklite, Diet or Wwpack) for executables programs under DOS.
 - [WWPack](https://defacto2.net/f/a520164?packer=wwpack) - Squeezes EXE files, compresses relocation tables, optimizes headers, protects EXE files from hacking.
 - [XE](https://defacto2.net/f/a520164?packer=xe) - PE32 image file packer and rebuilder.
@@ -621,14 +642,15 @@
 - [APKiD](https://github.com/rednaga/APKiD) - Android application Identifier for packers, protectors, obfuscators and oddities - PEiD for Android.
 - [aPLib](https://ibsensoftware.com/products_aPLib.html) - Compression library based on the algorithm used in aPACK.
 - [AppSpear](https://github.com/UchihaL/AppSpear) - Universal and automated unpacking system suitable for both Dalvik and ART.
-- [Assiste (Packer)](https://web.archive.org/web/20211017145403/https://assiste.com/Packer.html) (_Web Archive_) - Assiste.com's example list of packers.
+- [Assiste (Packer)](https://web.archive.org/web/20211017145403/https://assiste.com/Packer.html) - Assiste.com's example list of packers.
 - [AVClass](https://github.com/malicialab/avclass) - Python tools to tag / label malware samples.
 - [Bintropy](https://github.com/dhondta/bintropy) - Prototype analysis tool that estimates the likelihood that a binary file contains compressed or encrypted bytes.
-- [BinUnpack](https://doi.org/10.1145/3243734.3243771) - Unpacking approach free from tedious memory access monitoring, therefore introducing very small runtime overhead.
+- [BinUnpack](https://dl.acm.org/doi/10.1145/3243734.3243771?-) - Unpacking approach free from tedious memory access monitoring, therefore introducing very small runtime overhead.
 - [Binutils](https://www.gnu.org/software/binutils) - The GNU Binutils are a collection of binary tools for Linux (it namely includes Readelf).
 - [BitBlaze](http://bitblaze.cs.berkeley.edu/release/index.html) - Analysis platform that features a novel fusion of static and dynamic analysis techniques, mixed concrete and symbolic execution, and whole-system emulation and binary instrumentation, all to facilitate state-of-the art research on real security problems.
 - [Capa](https://github.com/mandiant/capa) - Open-source tool to identify capabilities in PE, ELF or .NET executable files.
 - [Capstone](https://www.capstone-engine.org) - Lightweight multi-platform, multi-architecture disassembly framework.
+- [Cave-Finder](https://github.com/adamhlt/Cave-Finder) - Tool to find code cave in PE image (x86 / x64) - Find empty space to place code in PE files.
 - [CFF Explorer](https://ntcore.com/?page_id=388) - PE32/64 and .NET editor, part of the Explorer Suite.
 - [ChkEXE](https://defacto2.net/f/a91dea6?dosmachine=svga&dosspeed=max) - Identifies almost any EXE/COM packer, crypter or protector.
 - [Clamscan Unpacker](https://clamunpacker.sourceforge.io/) - Unpacker derived from ClamAV.
@@ -649,25 +671,27 @@
 - [EXETools](https://forum.exetools.com) - Forum for reverse engineering and executale packing related topics.
 - [FUU](https://github.com/crackinglandia/fuu) - Fast Universal Unpacker.
 - [GetTyp](https://www.helger.com/gt/gt.htm) - File format detection program for DOS based on special strings and byte code.
-- [GUnpacker](https://web.archive.org/web/20220121084407/http://qunpack.ahteam.org/?p=327) (_Web Archive_) - Shell tool that performs OEP positioning and dumps decrypted code.
+- [GUnpacker](https://web.archive.org/web/20220121084407/http://qunpack.ahteam.org/?p=327) - Shell tool that performs OEP positioning and dumps decrypted code.
 - [Gym-Malware](https://github.com/endgameinc/gym-malware) - This is a malware manipulation environment for OpenAI's gym.
 - [IDR](https://github.com/crypto2011/IDR) - Interactive Delphi Reconstructor.
 - [ImpREC](https://www.aldeid.com/wiki/ImpREC) - This can be used to repair the import table for packed programs.
 - [Justin](https://doi.org/10.1007/978-3-540-87403-4_6) - Just-In-Time AV scanning ; generic unpacking solution.
 - [Language 2000](https://farrokhi.net/language) - Ultimate compiler detection utility.
 - [LIEF](https://github.com/lief-project/LIEF) - Library to Instrument Executable Formats ; Python package for parsing PE, ELF, Mach-O and DEX formats, modifying and rebuilding executables.
+- Lissom - Retargetable decompiler consisting of a preprocessing part and a decompilation core.
 - [LordPE](https://www.aldeid.com/wiki/LordPE) - PE header viewer, editor and rebuilder.
 - [Malheur](https://github.com/rieck/malheur) - Tool for the automatic analysis of malware behavior (recorded from malicious software in a sandbox environment).
 - [MalUnpack](https://github.com/hasherezade/mal_unpack) - Dynamic unpacker based on PE-sieve.
 - [Manalyze](https://github.com/JusticeRage/Manalyze) - Robust parser for PE files with a flexible plugin architecture which allows users to statically analyze files in-depth.
 - [MRC](https://mandiant-red-curtain.apponic.com) - (Mandiant Red Curtain) Free software for Incident Responders that assists with the analysis of malware ; it examines executable files (e.g., .exe, .dll, and so on) to determine how suspicious they are based on a set of criteria.
 - [.NET Deobfuscator](https://github.com/NotPrab/.NET-Deobfuscator) - List of .NET Deobfuscators and Unpackers.
+- [NotPacked++](https://github.com/packing-box/packer-masking-tool) - Attack tool for altering packed samples so that they evade static packing detection.
 - [Oedipus](https://github.com/tum-i4/Oedipus) - A Python framework that uses machine learning algorithms to implement the metadata recovery attack against obfuscated programs.
 - [OEPdet](https://ieeexplore.ieee.org/abstract/document/7782073) - Automated original-entry-point detector.
 - [OllyDbg Scripts](https://github.com/xshows/ollydbg-script) - Collection of OllyDbg scripts for unpacking many different packers.
 - [OmniUnpack](https://doi.org/10.1109/ACSAC.2007.15) - New technique for fast, generic, and safe unpacking of malware by monitoring the execution in real-time and detecting the removed layers of packing.
 - [PackerAttacker](https://github.com/BromiumLabs/PackerAttacker) - Tool that uses memory and code hooks to detect packers.
-- [PackerBreaker](https://www.portablefreeware.com/forums/viewtopic.php?t=21555) - Tool for helping unpack, decompress and decrypt most of the programs packed, compressed or encrypted using advanced emulation technology.
+- [PackerBreaker](https://web.archive.org/web/20150504162711/https://www.sysreveal.com/packerbreaker-intro) - Tool for helping unpack, decompress and decrypt most of the programs packed, compressed or encrypted using advanced emulation technology.
 - [PackerGrind](https://github.com/rewhy/adaptiveunpacker) - Adaptive unpacking tool for tracking packing bahaviors and unpacking Android packed apps.
 - [PackerID](https://github.com/sooshie/packerid) - Fork of packerid.py using PEid signatures and featuring additional output types, formats, digital signature extraction, and disassembly support.
 - [PackID](https://github.com/mesaleh/PackiD) - Packer identification multiplatform tool/library using the same database syntax as PEiD.
@@ -675,14 +699,14 @@
 - [PANDA](https://github.com/panda-re/panda) - Platform for Architecture-Neutral Dynamic Analysis.
 - [Pandora's Bochs](https://0x0badc0.de/gitweb?p=bochs/.git) - Extension to the Bochs PC eumlator to enable it to monitor execution of the unpacking stubs for extracting the original code.
 - [PCjs](https://www.pcjs.org) - PCjs uses JavaScript to recreate the IBM PC experience, using original ROMs, CPUs running at their original speeds, and early IBM video cards and monitors.
-- [PE Compression Test](https://web.archive.org/web/20250427032942/http://pect.atspace.com/) (_Web Archive_) - List of packers tested on a few sample executables for comparing compressed sizes.
+- [PE Compression Test](https://web.archive.org/web/20250427032942/http://pect.atspace.com) - List of packers tested on a few sample executables for comparing compressed sizes.
 - [PE Detective](https://ntcore.com/?page_id=367) - This GUI tool can scan single PE files or entire directories (also recursevely) and generate complete reports.
 - [PE-bear](https://github.com/hasherezade/pe-bear-releases) - Freeware reversing tool for PE files aimed to deliver fast and flexible “first view” for malware analysts, stable and capable to handle malformed PE files.
 - [PEdump](https://pedump.me/) - Dump windows PE files using Ruby.
 - [Pefeats](https://github.com/roussieau/masterthesis/tree/master/src/detector/tools/pefeats) - Utility for extracting 119 features from a PE file for use with machine learning algorithms.
 - [Pefile](https://github.com/erocarrera/pefile) - Multi-platform Python module to parse and work with Portable Executable files.
 - [PEFrame](https://github.com/guelfoweb/peframe) - Tool for performing static analysis on PE malware and generic suspicious files.
-- [PEiD](https://web.archive.org/web/20070529035022/https://www.secretashell.com/codomain/peid/) (_Web Archive_)  - Packed Executable iDentifier.
+- [PEiD](https://web.archive.org/web/20070529035022/https://www.secretashell.com/codomain/peid/) - Packed Executable iDentifier.
 - [PEiD (CLI)](https://github.com/dhondta/peid) - Python implementation of PEiD featuring an additional tool for making new signatures.
 - [PEiD (yara)](https://github.com/K-atc/PEiD) - Yet another implementation of PEiD with yara.
 - [PeLib](https://github.com/avast/pelib) - PE file manipulation library.
@@ -700,12 +724,12 @@
 - [PyPackerDetect](https://github.com/cylance/PyPackerDetect) - Small python script/library to detect whether an executable is packed.
 - [PyPackerDetect (refactored)](https://github.com/dhondta/PyPackerDetect) - A complete refactoring of the original project to a Python package with a console script to detect whether an executable is packed.
 - [PyPeid](https://github.com/FFRI/pypeid) - Yet another implementation of PEiD with yara-python.
-- [Quick Unpack](https://web.archive.org/web/20220119142245/http://qunpack.ahteam.org/?p=458) (_Web Archive_) - Generic unpacker that facilitates the unpacking process.
-- [RDG Packer Detector](https://web.archive.org/web/20220904151105/http://rdgsoft.net/) (_Web Archive_) - Packer detection tool.
+- [Quick Unpack](https://web.archive.org/web/20220119142245/http://qunpack.ahteam.org/?p=458) - Generic unpacker that facilitates the unpacking process.
+- [RDG Packer Detector](https://web.archive.org/web/20220904151105/http://rdgsoft.net/) - Packer detection tool.
 - [Reko](https://github.com/uxmal/reko) - Free decompiler for machine code binaries.
 - [REMINDer](https://github.com/packing-box/reminder) - Packing detection tool based on the entropy value of the entry point section and the WRITE attribute.
 - [REMnux](https://remnux.org) - Linux toolkit for reverse-engineering and analyzing malicious software.
-- [Renovo](https://doi.org/10.1145/1314389.1314399) - Detection tool built on top of TEMU (dynamic analysis component of BitBlaze) based on the execution of newly-generated code and monitoring memory writes after the program starts.
+- [Renovo](https://dl.acm.org/doi/10.1145/1314389.1314399?tool) - Detection tool built on top of TEMU (dynamic analysis component of BitBlaze) based on the execution of newly-generated code and monitoring memory writes after the program starts.
 - [ResourceHacker](http://angusj.com/resourcehacker) - Resource editor for 32bit and 64bit Windows applications.
 - [RetDec](https://github.com/avast/retdec) - Retargetable machine-code decompiler based on LLVM.
 - [RTD](https://www.sac.sk/download/pack/rtd_rp24.zip) - Rose Patch - TinyProt/Rosetiny Unpacker.
@@ -727,7 +751,7 @@
 - [Uunp (IDA Pro plugin)](https://www.hex-rays.com/blog/unpacking-mpressed-pe-dlls-with-the-bochs-plugin/) - IDA Pro debugger plug-in module automating the analysis and unpacking of packed binaries.
 - [UUP](https://www.sac.sk/download/pack/uup14.zip) - Universal exe-file UnPacker.
 - [VMHunt](https://github.com/s3team/VMHunt) - Set of tools for analyzing virtualized binary code ; now only supports 32 bit traces.
-- [VMUnpacker](https://web.archive.org/web/20241106123938/https://www.leechermods.com/2010/01/vmunpacker-16-latest-version.html) (_Web Archive_) - Unpacker based on the technology of virtual machine.
+- [VMUnpacker](https://web.archive.org/web/20241106123938/https://www.leechermods.com/2010/01/vmunpacker-16-latest-version.html) - Unpacker based on the technology of virtual machine.
 - [Winbindex](https://github.com/m417z/winbindex) - An index of Windows binaries, including download links for executables such as EXE, DLL and SYS files.
 - [yarGen](https://github.com/Neo23x0/yarGen) - Generator for YARA rules - The main principle is the creation of yara rules from strings found in malware files while removing all strings that also appear in goodware files.
 
