@@ -25,6 +25,9 @@ Wi-Fi.
 - [trackerjacker](https://github.com/calebmadrigal/trackerjacker) - Maps and tracks Wi-Fi networks and devices through raw 802.11 monitoring.
 - [wifiphisher](https://github.com/wifiphisher/wifiphisher) - Create rogue access point.
 
+Wireless
+- [WHAD](https://github.com/whad-team/whad-client) - A powerful framework to perform various kinds of Wireless attacks.
+
 IPv6
 - [Chiron](https://github.com/aatlasis/Chiron) - An IPv6 security assessment framework.
 - [mitm6](https://github.com/fox-it/mitm6) - Performs MiTM for IPv6.
@@ -73,6 +76,7 @@ Exploits that use Scapy. This does not count the ones included by default
 
 2024
 
+- [CVE-2024-20674](https://github.com/gpotter2/CVE-2024-20674) - Windows Kerberos Bypass leading to RCE.
 - [PPPwn (CVE-2006-4304)](https://github.com/TheOfficialFloW/PPPwn) - Playstation 4 PPPoE RCE.
 
 2022

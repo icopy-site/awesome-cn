@@ -279,6 +279,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Good GameMaker Rollback](https://springrollgames.itch.io/ggmr) - Rollback netcode library.
 - [GM Networking](https://github.com/gmclan-org/gm_networking) - Very simple network code demonstration.
 - [Boomers Networking](https://github.com/gmclan-org/gm_boomers_networking) - Network library which mimics pre-GM:Studio favorite networking extension 39dll using GM native functions.
+- [Rocket Networking Engine](https://marketplace.gamemaker.io/assets/11424/rocket-networking-engine) - Easy low-code multiplayer engine.
 
 ## Integrations
 
