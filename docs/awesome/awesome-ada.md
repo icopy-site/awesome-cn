@@ -577,6 +577,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [SweetAda](https://github.com/gabriele-galeotti/SweetAda) - A lightweight development framework whose purpose is the implementation of Ada-based software systems. It supports a plethora or CPU architectures and development boards.
 - [robotics-with-ada](https://github.com/AdaCore/Robotics_with_Ada) - Robotics with Ada, ARM, and Lego.
 - [adamant](https://github.com/lasp/adamant) - A component-based, model-driven framework for constructing reliable and reusable real-time software.
+- [libgfxinit](https://github.com/coreboot/libgfxinit) - A graphics initialization (aka modesetting) library for embedded environments, implemented in SPARK.
 
 ### Firmwares
 - [certiflie](https://github.com/AdaCore/Certyflie) - Source code for the full Ada + SPARK Crazyflie 2.0 firmware.

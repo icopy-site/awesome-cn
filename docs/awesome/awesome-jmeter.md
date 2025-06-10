@@ -40,7 +40,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ## Tutorials
 
 - [JMeter Tutorial](https://artoftesting.com/jmeter-tutorial) - By ArtOfTesting.
-- Load Testing with JMeter: [part 1](https://lincolnloop.com/insights/load-testing-jmeter-part-1-getting-started/), [part 2](https://lincolnloop.com/insights/load-testing-jmeter-part-2-headless-testing-and-je/), [part 3](https://lincolnloop.com/insights/load-testing-jmeter-part-3-replaying-apache-logs/) - By Brandon Konkle.
+- Load Testing with JMeter: [part 1](https://lincolnloop.com/blog/load-testing-jmeter-part-1-getting-started/), [part 2](https://lincolnloop.com/blog/load-testing-jmeter-part-2-headless-testing-and-je/), [part 3](https://lincolnloop.com/blog/load-testing-jmeter-part-3-replaying-apache-logs/) - By Brandon Konkle.
 - [JMeter Tutorial](https://www.tutorialspoint.com/jmeter/) - By Tutorials Point.
 - [JMeter Tutorial for Load Testing: The Ultimate Guide](https://www.javacodegeeks.com/2014/11/jmeter-tutorial-load-testing.html) - By Daniel Gutierrez Diez.
 - [JMeter: Load Development Lifecycle](https://datacadamia.com/jmeter/lifecycle) - By DataCadamia.
@@ -109,10 +109,10 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### Tutorials & Demo
 
 - Jenkins
-  - [Performance Tests with JMeter, Maven and Hudson](https://medium.com/the-server-labs/performance-tests-with-jmeter-maven-and-hudson-d1cbdb3ffad8)
+  - [Performance Tests with JMeter, Maven and Hudson](https://blog.theserverlabs.com/performance-tests-with-jmeter-maven-and-hudson-d1cbdb3ffad8)
   - [CI with Jenkins, Git, Maven, Grunt, and JMeter](https://github.com/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter)
   - [Continuous automated web tests using Jenkins and JMeter](https://www.linkedin.com/pulse/continuous-automated-web-tests-using-jenkins-jmeter-mahanta)
-  - [Automating JMeter tests with Maven and Jenkins](https://www.codecentric.de/wissens-hub/blog/automating-jmeter-tests-maven-jenkins)
+  - [Automating JMeter tests with Maven and Jenkins](https://www.codecentric.de/en/knowledge-hub/blog/automating-jmeter-tests-maven-jenkins)
   - How to automate JMeter tests with Maven and Jenkins: [part 1](https://ribblescode.wordpress.com/2012/04/16/how-to-run-jmeter-tests-with-maven/), [part 2](https://ribblescode.wordpress.com/2012/04/16/how-to-automate-jmeter-tests-with-maven-and-jenkins-hudson-8/)
   - JMeter Continuous Performance Testing (JMeter + Ant + Jenkins): [part 1](https://www.testautomationguru.com/jmeter-continuous-performance-testing-part1/), [part 2](https://www.testautomationguru.com/jmeter-continuous-performance-testing-part2/)
   - [Continuous Integration 101: How to Run JMeter with Jenkins](https://dzone.com/articles/continuous-integration-101-how-to-run-jmeter-with)
@@ -163,7 +163,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [Perforce BlazeMeter](https://www.blazemeter.com/) - Performance engineering platform with JMeter and Selenium support.
 - [OctoPerf](https://octoperf.com/) - SaaS and On-Premise Load Testing Tool with JMeter and Selenium support.
 - [RedLine13](https://redline13.com/) - AWS-based load testing service with JMeter, Gatling and Selenium scenarios support.
-- [LoadRunner Cloud](https://www.opentext.com/products/loadrunner-cloud) - OpenText cloud-based solution for web and mobile performance testing with JMeter and Gatling support (formerly Micro Focus LoadRunner Cloud, formerly HP StormRunner Load).
+- [LoadRunner Cloud](https://www.opentext.com/products/core-performance-engineering) - OpenText cloud-based solution for web and mobile performance testing with JMeter and Gatling support (formerly Micro Focus LoadRunner Cloud, formerly HP StormRunner Load).
 - [Loadium](https://loadium.com/) - AWS-based load testing service with JMeter and Selenium support.
 - [Azure Microsoft](https://azure.microsoft.com/en-us/products/load-testing/) - Azure Load Testing Service use Apache JMeter.
 
@@ -222,7 +222,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - Backend Listener Implementations
   - [jmeter-elasticsearch-backend-listener](https://github.com/anthonygauthier/jmeter-elasticsearch-backend-listener) - JMeter plugin to send test results to an ElasticSearch engine.
   - [jmeter-backend-azure](https://github.com/adrianmo/jmeter-backend-azure) - JMeter plugin to send test results to Azure Application Insights.
-  - [jmeter-backend-listener-kafka](https://github.com/rahulsinghai/jmeter-backend-listener-kafka) - JMeter plugin to send test results to a Kafka server.
+  - [jmeter-backend-listener-kafka](https://github.com/veeranalyticsltd/jmeter-backend-listener-kafka) - JMeter plugin to send test results to a Kafka server.
   - [jmeter-listener](https://gitlab.com/testload/jmeter-listener) - JMeter plugin to write load test data on-the-fly to ClickHouse, InfluxDB, ElasticSearch.
   - [jmeter-influxdb2-listener-plugin](https://github.com/mderevyankoaqa/jmeter-influxdb2-listener-plugin) - InfluxDB v2.0 listener plugin for Apache JMeter.
   - [jmeter-datadog-backend-listener](https://github.com/DataDog/jmeter-datadog-backend-listener) - Send JMeter test results to Datadog.
@@ -374,7 +374,6 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [OctoPerf Blog](https://blog.octoperf.com/categories/jmeter/) - OctoPerf blog about JMeter and load testing.
 - [Abstracta JMeter Archives](https://abstracta.us/blog/tag/jmeter/) - Abstracta blog about JMeter.
 - [JMeter Basics](https://thatsabug.com/tags/#jmeter-series) - By João Farias.
-- [Azure Load Testing Blog](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/bg-p/AppsonAzureBlog/label-name/Azure%20Load%20Testing) - By Microsoft Tech Community.
 
 ### Forums
 
@@ -415,5 +414,4 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ## Contributing
 
-Contributions are welcome!<br>
 Please take a look at the [CONTRIBUTING](https://github.com/aliesbelik/awesome-jmeter/blob/master/CONTRIBUTING.md) guidelines first.

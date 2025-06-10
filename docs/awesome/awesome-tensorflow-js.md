@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="aaronhma/awesome-tensorflow-js"></div>
 ## Awesome TensorFlowJS [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-TensorFlow.js is an open source software library to develop machine learning models in JavaScript, and use machine learning
+TensorFlow.js is [an open source software library](https://github.com/tensorflow/tfjs) to develop machine learning models in JavaScript, and use machine learning
 (training and inference) directly in the browser or Node.js.
 
 This list is a collection of the best [TensorFlow.js](https://www.tensorflow.org/js) tools, resources, videos and shiny things.
