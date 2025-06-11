@@ -89,7 +89,7 @@ Free
 
 ### Death Counter
 
-> A simple counter screensaver that counts down to your death. 
+> A simple counter screensaver that counts down to your death.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/deathcounter.png)](https://github.com/anhmv/DeathCounter)
 
@@ -114,6 +114,12 @@ Free
 Free
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/FlipClockScreensaver.jpg)](https://www.smart-app.dev/downloads/downloads.html)
+
+### Digital Electric
+
+> A vintage screensaver inspired by old-fashioned alarm clocks.
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/digital-electric-screensaver.png)](https://quismi.com/digital-electric)
 
 ## Apple Inspired
 
@@ -213,7 +219,7 @@ $0.99
 
 ### Matrix
 
->  One interpretation of The Matrix.
+> One interpretation of The Matrix.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/matrix.png)](https://github.com/monroewilliams/MatrixDownload)
 

@@ -114,13 +114,14 @@
 - [Cynical Developer #99 (10-15-2018)](https://cynicaldeveloper.com/podcast/99/)
 - [Syntax #130 (03-27-2019)](https://syntax.fm/show/130/the-vuejs-show-scott-teaches-wes)
 - [Enjoy the Vue: The new Vue.js podcast](https://enjoythevue.io/)
-- [What is Pinia? with @posva (My typeof Radio) [es-MX]](https://www.mytypeof.dev/1190693/9610327-que-es-pinia-con-posva)
-- [Evolution of Vue - Part I (My typeof Radio) [es-MX]](https://www.mytypeof.dev/1190693/7055926-evolucion-de-vue-parte-i)
-- [Evolution of Vue - Part II (My typeof Radio) [es-MX]](https://www.mytypeof.dev/1190693/7068499-evolucion-de-vue-parte-ii)
-- [Evolution of Vue - Part III (My typeof Radio) [es-MX]](https://www.mytypeof.dev/1190693/7136740-evolucion-de-vue-parte-iii)
-- [React vs Vue - their communities (My typeof Radio) [es-MX]](https://www.mytypeof.dev/1190693/6151663-react-vs-vue-las-comunidades)
+- [What is Pinia? with @posva (My typeof Radio) [es-MX]](https://mytypeof.dev/episode/s1-e22-que-es-pinia-con-posva)
+- [Evolution of Vue - Part I (My typeof Radio) [es-MX]](https://mytypeof.dev/episode/s1-e9-evolucion-de-vue-parte-i)
+- [Evolution of Vue - Part II (My typeof Radio) [es-MX]](https://mytypeof.dev/episode/s1-e10-evolucion-de-vue-parte-ii)
+- [Evolution of Vue - Part III (My typeof Radio) [es-MX]](https://mytypeof.dev/episode/s1-e11-evolucion-de-vue-parte-iii)
+- [React vs Vue - their communities (My typeof Radio) [es-MX]](https://mytypeof.dev/episode/s1-e8-react-vs-vue-las-comunidades)
 - [Views on Vue (weekly podcast on Vue)](https://topenddevs.com/podcasts/views-on-vue)
 - [DejaVue - The Vue podcast to remember](https://dejavue.fm/)
+- [Pinia and friends in 2025 with @posva (My typeof Radio) [es-MX]](https://mytypeof.dev/episode/s3-e7-pinia-y-sus-amigos-en-2025-con-posva)
 
 ### Official Examples
 
@@ -955,7 +956,7 @@ _Overlay / modal / alert / dialog / lightbox / popup_
 
 #### Icons
 
-- [vue-material-design-icons](https://github.com/robcresswell/vue-material-design-icons 'vue-material-design-icons on GitHub') - A collection of SVG Material Design icons as single file components.
+- [vue-material-design-icons](https://github.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitHub") - A collection of SVG Material Design icons as single file components.
 - [vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome) - Font Awesome 5 Vue component
 - [vue-country-flag](https://github.com/P3trur0/vue-country-flag) - Vue component for country flag icons
 - [vue-fa](https://github.com/Cweili/vue-fa) - Simple FontAwesome 5 Vue.js 2 component.
@@ -1040,8 +1041,7 @@ _Display non-editable events in a Calendar_
 
 - [@egjs/vue-infinitegrid](https://github.com/naver/egjs-infinitegrid/blob/master/packages/vue-infinitegrid/) - Arrange infinite card elements according to various layout types like masonry for Vue.js 2.
 - [virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list component for React and Vue
-- [vue-infinity](https://github.com/isaact/vue-infinity) - An  easy-to-use virtual list component for Vue 3. Supports configurable grid layout, horizontal/vertical scroll, scroll snapping, seeking, ssr
-
+- [vue-infinity](https://github.com/isaact/vue-infinity) - An easy-to-use virtual list component for Vue 3. Supports configurable grid layout, horizontal/vertical scroll, scroll snapping, seeking, ssr
 
 #### Markdown
 
@@ -1273,6 +1273,7 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [FormKit](https://github.com/formkit/formkit) - Vue 3 form development. 10x faster. Form inputs, validation, submission, error handling, generation, accessibility, theming, and more.
 - [vrf](https://github.com/dimailn/vrf) - Declarative scalable ui-agnostic markup-based Vue forms.
 - [tracked-instance](https://github.com/rudnik275/tracked-instance) - Build large forms and track all changes.
+- [Vorm](https://github.com/Flo0806/vorm) - A dynamic, schema-driven and fully validated form engine for Vue 3 with zero dependencies and full slot control.
 
 ##### Validation
 
@@ -1285,7 +1286,6 @@ _Handling of user events (scroll, click, key strike, ...)_
 - [vest](https://github.com/ealush/vest) - 🦺 Declarative form validation framework inspired by unit testing.
 - [vorms](https://github.com/Mini-ghost/vorms) - Vue Form Validate with Composition API.
 - [regle](https://github.com/victorgarciaesgi/regle) - ✅ Headless form validation library for Vue.js.
-
 
 #### Resize
 
