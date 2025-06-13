@@ -44,6 +44,10 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/cristianbuse/Excel-ZipTools?style&logo=github&label) [Excel-ZipTools](https://github.com/cristianbuse/Excel-ZipTools/tree/master) - Parse, read, and extract data from, Zip files. Written in pure vba.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/KallunWillock/vbaSquash?style&logo=github&label) [vbaSquash](https://github.com/KallunWillock/vbaSquash/tree/master) - Compress and decompress files and byte arrays using the built-in `cabinet.dll` functions available on Windows 8+. Provides access to compression algorithms `MSZIP`, `XPRESS`, `XPRESS_HUFF`, and `LZMS`.
 
+#### PDF
+
+- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/PerditionC/vbaPDF?style&logo=github&label) [vbaPDF](https://github.com/PerditionC/vbaPDF) - VBA code for simple modification of PDF files (read in, combine, write out).
+
 ### Data Structures
 
 #### Array-List

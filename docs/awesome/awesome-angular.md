@@ -755,6 +755,8 @@ become an Angular expert.
 * [tldraw-web-component](https://github.com/neosh11/tldraw-web-component) - Make [tldraw](https://github.com/tldraw/tldraw) work with frameworks other than React; Made primarily to work with Angular.
 * [signal-translate](https://github.com/NGneers/signal-translate) - Translation service that is using signals at its core.
 * [ngx-translate-cut](https://github.com/bartholomej/ngx-translate-cut) - Angular pipe for cutting translations ✂️ 🌍 (plugin for `@ngx-translate`).
+* [ngx-signal-i18n](https://github.com/yagcioe/ngx-signal-i18n) - This package provides a typesafe and lazy-loaded internationalization (i18n) solution for Angular applications, built on top of signals for improved reactivity. It is compatible with zoneless Angular.
+* [@OGS-GmbH/ngx-translate](https://github.com/OGS-GmbH/ngx-translate) - A lightweight, REST-based Angular i18n library designed for seamless internationalization with minimal setup. It supports dynamic language switching & flexible translation management via RESTful APIs.
 
 #### Module Federation
 
@@ -893,6 +895,7 @@ become an Angular expert.
 * [angular-tailwind-e-commerce-template](https://github.com/Kei-K23/angular-tailwind-e-commerce-template) - This responsive e-commerce template, built with Angular and TailwindCSS, combines modern aesthetics with functionality. Designed as a foundation for developing robust e-commerce applications, it features a sleek, customizable design, perfect for minimalist online shops.
 * [ngx-lib-starter-kit](https://github.com/r3zafa/ngx-lib-starter-kit) - This boilerplate helps you quickly set up and develop Angular libraries. It includes a pre-configured structure for components, services, utilities, themes, assets, and more. The project is optimized for scalability and maintainability.
 * [tailwind-angular-starter](https://github.com/themesberg/tailwind-angular-starter) - Free and open-source starter project to help you get started with Angular, Tailwind CSS, and the [Flowbite UI components](https://github.com/themesberg/flowbite-angular).
+* [ngx-app-starter-kit](https://github.com/r3zafa/ngx-app-starter-kit) - A modern Angular 18+ starter kit with Docker, devcontainer, and Angular Material integration for rapid, scalable web app development.
 
 ##### Paid
 
@@ -1617,7 +1620,7 @@ to simplify usage and allow quick customization.
 * [angular-toolbox](https://github.com/pechemann/angular-toolbox) - A library that provides useful tools for Angular apps development.
 * [ngx-lift](https://github.com/wghglory/ngx-lift) - This project has been crafted to enhance and simplify your Angular development experience. In the dynamic web development landscape, Angular stands out as a robust framework, and `ngx-lift` and `clr-lift` complement it by offering a collection of utilities, operators, and components.
 * [firestitch](https://github.com/orgs/Firestitch/repositories) - [Firestitch](https://firestitch.com/) has a ton of open source Angular solutions.
-* [@studiohyperdrive/ngx-tools](https://github.com/studiohyperdrive/ngx-tools) - A mono-repo providing several of the Angular based packages created and maintained by the [Studio Hyperdrive](https://studiohyperdrive.be/) team.
+* [@studiohyperdrive/ngx-tools](https://github.com/studiohyperdrive/hyperdrive-opensource) - A mono-repo providing several of the Angular based packages created and maintained by the [Studio Hyperdrive](https://studiohyperdrive.be/) team.
 * [ngx-utility](https://github.com/OPI-PIB/ngx-utility) - Various helpers for forms, zones, DOM manipulation, HTTP requests, and more.
 * [ssv.ngx](https://github.com/sketch7/ssv.ngx) - Mono-repo of libraries from [sketch7](https://github.com/sketch7). [ngx.command](https://github.com/sketch7/ssv.ngx/tree/master/libs/ngx.command#readme) is a command pattern implementation for Angular. [ngx.ux](https://github.com/sketch7/ssv.ngx/blob/master/libs/ngx.ux/README.md) provides UX essentials and utilities for building apps.
 * [ng-kit](https://github.com/js-smart/ng-kit) - Reusable Angular components built with Angular Material and Bootstrap 5.x, Utility classes/functions for Date, Form and String operations.
@@ -1629,7 +1632,7 @@ to simplify usage and allow quick customization.
 * [ngx-kit](https://github.com/almazrpe/ngx-kit) - Utilities for Angular Framework.
 * [ng-tool-collection](https://github.com/domideimel/ng-tool-collection) - Useful Tools written in Angular.
 * [yaagoub](https://yaagoub.org/) - Accelerate your development with decorators, directives, icons, services, and OAuth 2.0.
-* [@man-es/ngx-tools](https://github.com/man-es/ngx-tools) - The MAN ngx-tools repository contains a collection of libraries is designed to elevate your Angular development experience.
+* [@everllence/ngx-tools](https://github.com/everllence/ngx-tools) - This repository contains a collection of libraries is designed to elevate your Angular development experience.
 * [ngx-oneforall](https://github.com/love1024/ngx-oneforall) - An Angular library with reusable pipes, directives, services, decorators, constants, enums...
 * [angular-signal-generators](https://github.com/DDtMM/angular-signal-generators) - Streamline your development with Angular Signal Generators, a library of signals and utilities designed to replace common patterns for faster, cleaner code.
 * [mmstack](https://github.com/mihajm/mmstack) - A monorepo for mmstack libraries.
