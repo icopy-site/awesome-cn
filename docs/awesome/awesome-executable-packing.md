@@ -409,8 +409,8 @@
 - [FFRI Dataset Scripts](https://github.com/FFRI/ffridataset-scripts) - Make datasets like FFRI Dataset.
 - [MaleX](https://github.com/Mayachitra-Inc/MaleX) - Curated dataset of malware and benign Windows executable samples for malware researchers containing 1,044,394 Windows executable binaries and corresponding image representations with 864,669 labelled as malware and 179,725 as benign.
 - [Malfease](https://web.archive.org/web/20141221153307/http://malfease.oarci.net) - Dataset of about 5,000 packed malware samples.
-- [Malheur](https://www.sec.cs.tu-bs.de/data/malheur) - Contains the recorded behavior of malicious software (malware) and has been used for developing methods for classifying and clustering malware behavior (see the JCS article from 2011).
-- [Malicia](http://malicia-project.com/dataset.html) - Dataset of 11,688 malicous PE files collected from 500 drive-by download servers over a period of 11 months in 2013 (DISCONTINUED).
+- [Malheur](https://web.archive.org/web/20240928172928/https://www.sec.cs.tu-bs.de/data/malheur/) - Contains the recorded behavior of malicious software (malware) and has been used for developing methods for classifying and clustering malware behavior (see the JCS article from 2011).
+- [Malicia](https://web.archive.org/web/20220615143940/http://malicia-project.com/dataset.html) - Dataset of 11,688 malicous PE files collected from 500 drive-by download servers over a period of 11 months in 2013 (DISCONTINUED).
 - [MalShare](https://malshare.com) - Free Malware repository providing researchers access to samples, malicious feeds, and Yara results.
 - [The Malware Museum](https://archive.org/details/malwaremuseum) - The Malware Museum is a collection of malware programs, usually viruses, that were distributed in the 1980s and 1990s on home computers.
 - [MalwareBazaar](https://bazaar.abuse.ch/browse) - Project operated by abuse.ch aimed to collect and share malware samples, helping IT-security researchers and threat analysts protecting their constituency and customers from cyber threats.
@@ -433,7 +433,7 @@
 - [VX Heaven](https://web.archive.org/web/20170817143838/http://vxheaven.org/) - Site dedicated to providing information about computer viruses.
 - [VX Underground](https://vx-underground.org/Samples) - PL-CERT based open source MWDB python application holding a malware database containing every APT sample from 2010 and over 7.5M maliciousbinaries.
 - [VXvault](http://vxvault.net/ViriList.php) - Online malware database.
-- [WildList](http://www.wildlist.org/CurrentList.txt) - Cooperative listing of malwares reported as being in the wild by security professionals.
+- [WildList](https://web.archive.org/web/20220927214837/http://www.wildlist.org/CurrentList.txt) - Cooperative listing of malwares reported as being in the wild by security professionals.
 
 <p align="center"><a href="#"><img src="https://img.shields.io/badge/Back%20to%20top--lightgrey?style=social" alt="Back to top" height="20"/></a></p>
 

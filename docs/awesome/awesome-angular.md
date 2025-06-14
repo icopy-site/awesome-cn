@@ -547,6 +547,7 @@ become an Angular expert.
 * [zed-angular](https://github.com/nathansbradshaw/zed-angular) - This extension integrates the Angular Language Service into [Zed](https://zed.dev/).
 * [i18n-studio](https://marketplace.visualstudio.com/items/?itemName=AdrienAudouard.i18n-studio) - Powerful Angular internationalization (i18n) extension for VS Code that displays translations inline, provides autocompletion for i18n keys in TypeScript and HTML files, and offers quick access to translation files. Streamline your multilingual development workflow.
 * [ngx-unused](https://github.com/wgrabowski/ngx-unused) - Find declared but unused Angular classes in your codebase.
+* [angular-http-server](https://github.com/simonh1000/angular-http-server) - Simple http-server for Single Page Apps (SPAs).
 
 #### Documentation tools
 
@@ -1243,7 +1244,7 @@ become an Angular expert.
 
 * [ng2-dragula](https://github.com/valor-software/ng2-dragula) - Drag and Drop so simple it hurts!
 * [ngx-drag-drop](https://github.com/reppners/ngx-drag-drop) - Angular directives using the native HTML Drag And Drop API.
-* [ngx-dropzone](https://github.com/hackingharold/ngx-dropzone) - The missing file input component for Angular Material.
+* [@hackingharold/ngx-dropzone](https://github.com/hackingharold/ngx-dropzone) - The missing file input component for Angular Material.
 * [ng-dnd](https://github.com/ng-dnd/ng-dnd) - Drag and Drop for Angular.
 * [ngx-file-drag-drop](https://github.com/telebroad/ngx-file-drag-drop) - Angular material file input component which lets the user drag and drop files, or select files with the native file picker.
 * [angular cdk](https://material.angular.io/cdk/drag-drop/overview) - The `@angular/cdk/drag-drop` module provides you with a way to easily and declaratively create drag-and-drop interfaces.
@@ -1256,6 +1257,7 @@ become an Angular expert.
 * [ngx-draggable-widget-kama](https://github.com/KAMAELUA/ngx-draggable-widget-kama) - Reworked [ngx-draggable-widget](https://github.com/arup-banerjee/ngx-draggable-widget) for better support.
 * [angular-mixed-cdk-drag-drop](https://github.com/rosejoe47/angular-mixed-cdk-drag-drop) - Angular Directive to support mixed orientation drag drop using Angular CDK.
 * [cdk-drag-snap-to-point](https://github.com/shhdharmen/cdk-drag-snap-to-point) - A demo to showcase cdkDrag features to achieve drop only on certain points.
+* [@MasterATM/ngx-dropzone](https://github.com/MasterATM/ngx-dropzone) - A lightweight and highly customizable Angular dropzone component for file uploads. Based on [@peterfreeman/ngx-dropzone](https://github.com/peterfreeman/ngx-dropzone) repository.
 
 #### Editor Components
 
@@ -1429,7 +1431,7 @@ to simplify usage and allow quick customization.
 * [ng-icons](https://github.com/ng-icons/ng-icons) - The ultimate icon library for Angular.
 * [primeicons](https://github.com/primefaces/primeicons) - PrimeIcons is the default icon library of PrimeNG with over 250 open source icons developed by PrimeTek.
 * [angular-svg-icon](https://github.com/czeckd/angular-svg-icon) - Angular component and service for inlining SVGs allowing them to be easily styled with CSS.
-* [svg-icon](https://github.com/ngneat/svg-icon) - A lightweight library that makes it easier to use SVG icons in your Angular Application.
+* [@ngneat/svg-icon](https://github.com/ngneat/svg-icon) - A lightweight library that makes it easier to use SVG icons in your Angular Application.
 * [ng-svg-icon-sprite](https://github.com/jannicz/ng-svg-icon-sprite) - Angular 16+ package for generating and using inline SVG icons in your project.
 * [Angular-Svg-Sprite](https://github.com/bodnya29179/Angular-Svg-Sprite) - Simplify SVG icon usage in your Angular project! Enhance the flexibility and manageability of your Angular project by using SVG sprites.
 * [ng-hero-icons](https://github.com/dimaslz/ng-heroicons) - Use [Heroicons](https://heroicons.com) in your Angular application.
@@ -1455,6 +1457,7 @@ to simplify usage and allow quick customization.
 * [ic-on](https://www.npmjs.com/package/@ic-on/main) - The future of iconing.
 * [ngxi](https://github.com/adrian-ub/ngxi) - A comprehensive collection of SVG icons for Angular applications that provides seamless integration with thousands of popular icons.
 * [chill-wind-icons](https://github.com/alimjanablikim/chill-wind-icons) - Dynamic Angular icon library with native Tailwind CSS support, tree-shakeable icon data, and built from Iconoir SVGs.
+* [@TSB04/svg-icon](https://github.com/TSB04/svg-icon) - A framework-agnostic, customizable, and lightweight SVG icon package for React, Vue, Angular, and other JavaScript frameworks.
 
 #### Images
 

@@ -5,7 +5,6 @@
 
 <!-- [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) -->
 
-
 <pre style="display: inline-block; text-align: left;">
  █████┐ ██┐    ██┐███████┐███████┐ ██████┐ ███┐   ███┐███████┐
 ██┌──██┐██│    ██│██┌────┘██┌────┘██┌───██┐████┐ ████│██┌────┘
@@ -352,6 +351,9 @@ A set of commands that provide a comprehensive workflow system for managing proj
 
 [Simone](https://github.com/Helmi/claude-simone) by [Helmi](https://github.com/Helmi)  
 A broader project management workflow for Claude Code that encompasses not just a set of commands, but a system of documents, guidelines, and processes to facilitate project planning and execution.
+
+[wcygan's slash-commands megalist](https://github.com/wcygan/dotfiles/tree/d8ab6b9f5a7a81007b7f5fa3025d4f83ce12cc02/claude/commands) by [wcygan](https://github.com/wcygan)
+A pretty stunning list (88 at the time of this post!) of slash-commands ranging from agent orchestration, code review, project management, security, documentation, self-assessment, almost anything you can dream of.
 
 <br>
 
