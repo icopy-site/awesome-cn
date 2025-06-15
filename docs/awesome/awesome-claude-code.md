@@ -53,7 +53,7 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent that you can 
 Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing local Claude Code logs. Presents a nice dashboard regarding cost information, token consumption, etc. \[DISCLAIMER: Keep an eye on the Issues if you are relying on this tool for anything business-critical - the logs that track usage appear to suffer from some "double-counting" problems - this may have been resolved by the time you are reading this, but I wanted to raise awareness - it is not something only affecting this application\].
 
 [`ClaudeLog`](https://claudelog.com) by [InventorBlack](https://www.reddit.com/user/inventor_black/)  
-A comprehensive knowledge repository featuring detailed breakdowns of advanced Claude Code mechanics, practical technique guides and hands-on tutorials. Based on real-world experiences and community insights from [r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/). Discover best practices, new feature breakdowns and optimization strategies for agentic workflows, productivity enhancements and MCPs.
+A comprehensive knowledge repository that features detailed breakdowns of advanced Claude Code mechanics including [CLAUDE.md best practices](https://claudelog.com/mechanics/claude-md-supremacy), practical technique guides like [plan mode](https://claudelog.com/mechanics/plan-mode), and a [configuration guide](https://claudelog.com/configuration).
 
 <br>
 
@@ -352,6 +352,26 @@ A set of commands that provide a comprehensive workflow system for managing proj
 [Simone](https://github.com/Helmi/claude-simone) by [Helmi](https://github.com/Helmi)  
 A broader project management workflow for Claude Code that encompasses not just a set of commands, but a system of documents, guidelines, and processes to facilitate project planning and execution.
 
+## Tooling
+
+- [Claude Code Flow](https://github.com/ruvnet/claude-code-flow) - This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
+
+- [Claude Code Router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+
+- [Claude Composer](https://github.com/possibilities/claude-composer) - A tool that adds small enhancements to Claude Code.
+
+- [Claude Hub](https://github.com/claude-did-this/claude-hub) - A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly through pull requests and issues. This integration allows Claude to analyze repositories, answer technical questions, and help developers understand and improve their codebase through simple @mentions.
+
+- [Claude Squad](https://github.com/smtg-ai/claude-squad) - Claude Squad is a terminal app that manages multiple Claude Code, Codex (and other local agents including Aider) in separate workspaces, allowing you to work on multiple tasks simultaneously.
+
+- [Claude Swarm](https://github.com/parruda/claude-swarm) - Launch Claude Code session that is connected to a swarm of Claude Code Agents.
+
+- [Claude Task Master](https://github.com/eyaltoledano/claude-task-master) - A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
+
+- [Container Use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
+
+## Additional Resources
+
 [wcygan's slash-commands megalist](https://github.com/wcygan/dotfiles/tree/d8ab6b9f5a7a81007b7f5fa3025d4f83ce12cc02/claude/commands) by [wcygan](https://github.com/wcygan)
 A pretty stunning list (88 at the time of this post!) of slash-commands ranging from agent orchestration, code review, project management, security, documentation, self-assessment, almost anything you can dream of.
 
@@ -373,6 +393,13 @@ Offers comprehensive development guides for three distinct AI-powered demo proje
 
 Please note that this project is released with a [Contributor Code of Conduct](https://github.com/hesreallyhim/awesome-claude-code/blob/master/code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
-Regarding content, we especially welcome proven, effective resources that follow best practices and may even be in use in production; innovative, creative, or experimental workflows that perhaps are still being iterated upon, but have high potential value, and push the boundaries of Claude Code's documented capabilities and use cases; Claude Code "magic spells" - commands or workflows that seem to be especially effective; and applications of Claude Code outside of the traditional "coding assistant" context, e.g., CI/CD integration, testing, documentation, dev-ops, etc.
+Regarding content, we especially welcome:
 
-See [https://github.com/hesreallyhim/awesome-claude-code/blob/master/CONTRIBUTING.md](https://github.com/hesreallyhim/awesome-claude-code/blob/master/CONTRIBUTING.md) for more information on how to contribute to this project.
+- Proven, effective resources that follow best practices and may even be in use in production.
+- Innovative, creative, or experimental workflows that perhaps are still being iterated upon, but have high potential value, and push the boundaries of Claude Code's documented capabilities and use cases.
+- Additional libraries and tooling that are built on top of Claude Code and offer enhanced functionality.
+- Applications of Claude Code outside of the traditional "coding assistant" context, e.g., CI/CD integration, testing, documentation, dev-ops, etc.
+
+See [https://github.com/hesreallyhim/awesome-claude-code/blob/master/CONTRIBUTING.md](https://github.com/hesreallyhim/awesome-claude-code/blob/master/CONTRIBUTING.md) for more information on how to contribute to this project. Or, fire up Claude Code and invoke the `/project:add-new-resource` command and let Claude walk you through it!
+
+If you have any suggestions or thoughts on how to improve the repo, or how to best organize the list, feel free to start a Discussion topic. This is meant to be for the Claude Code community, and in general I prefer not to act on sole authority.
