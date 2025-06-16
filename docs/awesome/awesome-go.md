@@ -507,6 +507,7 @@ additional ordered map implementations.
 - [ordered-concurrently](https://github.com/tejzpr/ordered-concurrently) - Go module that processes work concurrently and returns output in a channel in the order of input.
 - [parapipe](https://github.com/nazar256/parapipe) - FIFO Pipeline which parallels execution on each stage while maintaining the order of messages and results.
 - [pipeline](https://github.com/hyfather/pipeline) - An implementation of pipelines with fan-in and fan-out.
+- [pipelines](https://github.com/nxdir-s/pipelines) - Generic pipeline functions for concurrent processing.
 
 
 ## Database
@@ -1990,6 +1991,7 @@ _Unofficial libraries for package and dependency management._
 - [gotype](https://github.com/wzshiming/gotype) - Golang source code parsing, usage like reflect package.
 - [gpath](https://github.com/tenntenn/gpath) - Library to simplify access struct fields with Go's expression in reflection.
 - [objwalker](https://github.com/rekby/objwalker) - Walk by go objects with reflection.
+- [reflectpro](https://github.com/gontainer/reflectpro) - Callers, copiers, getters and setters for go.
 - [reflectutils](https://github.com/muir/reflectutils) - Helpers for working with reflection: struct tag parsing; recursive walking; fill value from string.
 
 
@@ -2350,6 +2352,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 - [go-querystring](https://github.com/google/go-querystring) - Go library for encoding structs into URL query parameters.
 - [go-vcard](https://github.com/emersion/go-vcard) - Parse and format vCard.
 - [godump](https://github.com/yassinebenaid/godump) - Pretty print any GO variable with ease, an alternative to Go's `fmt.Printf("%#v")`.
+- [godump (goforj)](https://github.com/goforj/godump) - Pretty-print Go structs with Laravel/Symfony-style dumps, full type info, colorized CLI output, cycle detection, and private field access.
 - [gofeed](https://github.com/mmcdole/gofeed) - Parse RSS and Atom feeds in Go.
 - [gographviz](https://github.com/awalterschulze/gographviz) - Parses the Graphviz DOT language.
 - [gonameparts](https://github.com/polera/gonameparts) - Parses human names into individual name parts.
@@ -2543,6 +2546,7 @@ _General utilities and tools to make your life easier._
 - [cvt](https://github.com/shockerli/cvt) - Easy and safe convert any value to another type.
 - [dbt](https://github.com/nikogura/dbt) - A framework for running self-updating signed binaries from a central, trusted repository.
 - [Death](https://github.com/vrecan/death) - Managing go application shutdown with signals.
+- [debounce](https://github.com/floatdrop/debounce) - A zero-allocation debouncer written in Go.
 - [delve](https://github.com/derekparker/delve) - Go debugger.
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a Docker image.
 - [dlog](https://github.com/kirillDanshin/dlog) - Compile-time controlled logger to make your release smaller without removing debug calls.

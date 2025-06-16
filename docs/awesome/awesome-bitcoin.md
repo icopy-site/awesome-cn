@@ -188,7 +188,7 @@ A curated list of bitcoin services and tools for software developers
 * [Jameson Lopp Bitcoin Resource List](https://www.lopp.net/bitcoin-information.html) Very detailed curated Bitcoin resource list and meta-list by J. Lopp
 * [Svrgnty.com: Everything Bitcoin](https://svrgnty.com/) A curated list of the best Bitcoin resources.
 * [River Learn](https://river.com/learn) A collection of educational resources to learn about Bitcoin basics, investing, technology, and more.
-* [Learn me a Bitcoin - Greg Walker](https://learnmeabitcoin.com/) - extensive learning ressource for bitcoin developers
+* [Learn me a Bitcoin - Greg Walker](https://learnmeabitcoin.com/) - extensive learning resource for bitcoin developers
 ---
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.

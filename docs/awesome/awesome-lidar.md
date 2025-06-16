@@ -146,6 +146,8 @@ Contributions are welcome! Please [check out](https://github.com/szenergy/awesom
 - [Baidu Apollo](https://apollo.auto/) - Apollo is a popular framework which accelerates the development, testing, and deployment of Autonomous Vehicles.
   - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/ApolloAuto/apollo)
   - [YouTube channel ![](https://img.shields.io/badge/youtube-red?style=flat-square&logo=youtube)](https://www.youtube.com/c/ApolloAuto)
+- [ALFA Framework ![](https://img.shields.io/badge/paper-blue?style=flat-square&logo=semanticscholar)](https://ieeexplore.ieee.org/document/11024231) - An open-source framework for developing processing algorithms, with a focus on embedded platforms and hardware acceleration.
+  - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros)](https://github.com/alfa-project/alfa-framework)
 
 ## Algorithms
 
@@ -235,7 +237,7 @@ Real-Time LIDAR-Based Urban Road and Sidewalk Detection for Autonomous Vehicles
   - [GitHub ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://autowarefoundation.github.io/autoware.universe/main/perception/detection_by_tracker/) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros)
   - [YouTube video ![](https://img.shields.io/badge/youtube-red?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=xSGCpb24dhI)
 
-## LIDAR-other-sensor calibration
+### LIDAR-other-sensor calibration
 
 - [direct_visual_lidar_calibration](https://koide3.github.io/direct_visual_lidar_calibration/) - General, Single-shot, Target-less, and Automatic LiDAR-Camera Extrinsic Calibration Toolbox
   - [GitHub repository ![](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/koide3/direct_visual_lidar_calibration) ![](https://img.shields.io/badge/ROS-2-34aec5?style=flat-square&logo=ros)
