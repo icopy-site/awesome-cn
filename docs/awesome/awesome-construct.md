@@ -64,7 +64,7 @@ Community supported channels.
 ### Construct 2
 
 - [AppPlayer-Electron](https://github.com/Floflis/AppPlayer-Electron) - Preview apps/games in an Electron prebuilt exe - as if Electron were a normal browser! Currently Windows only, but soon™ for Mac and Linux.
-- [Neo NW](https://github.com/kckarnige/NeoNWjsForC2) - Easily setup exporting for the latest version of NW.js, replacing the outdated "NW.js for Construct 2" installer.
+- [Fresh NW](https://github.com/kckarnige/FreshNWjsForC2) - Easily setup exporting for the latest versions of NW.js, replacing the outdated "NW.js for Construct 2" installer.
 - [website Reinarte](https://reinarte.com.br/) - Plugins, Behaviors and examples.
 
 ## Addons
