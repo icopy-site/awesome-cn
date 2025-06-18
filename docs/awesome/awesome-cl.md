@@ -74,6 +74,12 @@ Work In Progress:
 
 * [Caten](https://github.com/hikettei/Caten) -  Deep Learning Compiler based on Polyhedral Compiler and Light-weight IRs, and Optimizing Pattern Matcher, written in Common Lisp
 
+## MCP servers
+
+* [40ants-MCP](https://github.com/40ants/mcp) - a framework for building Model Context Protocol servers in Common Lisp.
+* [Lisply MCP](https://github.com/gornskew/lisply-mcp) - a generic Node.js wrapper meant to work with pretty much any language backend which can support "eval" and http .
+  * By default, it comes configured to work with an existing reference-implementation backend CL-based container image which it will pull and run on-demand.
+
 ## Natural Language Processing
 
 * 🚀 [sparser](https://github.com/ddmcdonald/sparser) - A natural language understanding system for English. [Eclipse][209].
@@ -1886,6 +1892,7 @@ programming environment and documentation generator. one may
 accomplish similar effects as with Literate Programming, but
 documentation is generated from code, not vice versa. Code is first,
 code must look pretty, documentation is code. [MIT][200].
+  - also PDF export
   - see this [40ants/doc](https://github.com/40ants/doc) fork: a lighter core system, a JavaScript search index, multiple format output, HTML themes, RSS and Atom feed for the Changelog and more.
 * [sphinxcontrib-cldomain](https://sphinxcontrib-cldomain.russellsim.org/) -
   Extending Sphinx to cover Common Lisp. To build documentation with
