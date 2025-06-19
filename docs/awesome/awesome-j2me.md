@@ -7,7 +7,7 @@
 > An awesome list about Java platform Micro edition[(J2ME)](https://en.wikipedia.org/wiki/Java_Platform,_Micro_Edition). Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games. J2ME is a Java specification designed for old keypad phones and PDAs. MIDP is used to create Midlets, which have `.jad` or `.jar` extension, and run on platforms like old keypad phones, Symbian and PDAs.
 
 <!--lint disable double-link-->
-Please give it a star(⭐) to support, raise awareness about J2ME community, and development of this project. Help me reach atleast 126 stars. Read about history of Awesome J2ME and reverse engineering projects in <a href="https://hstsethi.vercel.app/posts/programming/awesome-j2me">this blog post</a>. Also check out [Awesome Symbian](https://github.com/hstsethi/awesome-symbian).
+Please give it a star(⭐) to raise awareness about J2ME community, and support the development of this project. Help me reach atleast 126 stars. Read about history of Awesome J2ME and reverse engineering projects in <a href="https://hstsethi.vercel.app/posts/programming/awesome-j2me">this blog post</a>. Also check out [Awesome Symbian](https://github.com/hstsethi/awesome-symbian).
 
 
 
@@ -79,6 +79,7 @@ Please give it a star(⭐) to support, raise awareness about J2ME community, and
 - [Jtube](https://github.com/shinovon/JTube) - YouTube client based on Invidious API.
 - [MeBoy](http://arktos.se/meboy) - Supports emulating GBC with sound, color, and save states.
 - [Telegram Micro](https://github.com/faissaloo/telegram-micro) - Telegram client.
+- [VK4ME](https://github.com/VK4ME/client)  - Unofficial client for Russian social network VK for devices supporting CLDC 1.1 and MIDP 2.0.
 
 ### Video Games
 
