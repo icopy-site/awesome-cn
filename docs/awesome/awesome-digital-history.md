@@ -75,6 +75,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 
 ### Global
 
+- [Atlas of Mutual Heritage](https://www.atlasofmutualheritage.nl/) - Database with sources relating to VOC (Dutch East India Company) and WIC (Dutch West India Company).
 - [Bitsavers.org](http://bitsavers.trailing-edge.com/) - Computer code, reference manuals, and magazines.
 - [Classic Computer Magazine Archive](https://www.atarimagazines.com/) - Preserving information from early personal computer magazines.
 - [Fxtop](https://fxtop.com/) - Forex rate history since 1953.
@@ -104,6 +105,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 
 - [Delpher](https://www.delpher.nl/) - Dutch newspapers, books and magazines.
 - [Nationaal Archief](https://www.nationaalarchief.nl/) - Rich collection of the National Archives of the Netherlands.
+- [Topotijdreis](https://www.topotijdreis.nl/) - Browse and compare Dutch topographic maps (1815 until today).
 
 ### North America
 

@@ -489,6 +489,7 @@ become an Angular expert.
 * [ngx-ws](https://github.com/art-ws/ngx-ws) - Easily split a large `angular.json` into modular, project-local files using the power of [JSON References](https://www.npmjs.com/package/@apidevtools/json-schema-ref-parser), with the convenience of [YAML](https://yaml.org/) and [JSON5](https://json5.org/) formats.
 * [nest-schematics](https://github.com/lcasass3/nest-schematics) - A powerful Angular CLI schematic for generating CQRS (Command Query Responsibility Segregation) modules following hexagonal architecture principles in NestJS applications.
 * [dotairc](https://github.com/elecash/dotairc) - This tool helps create consistent instructions for AI assistants working with your codebase.
+* [lin](https://github.com/yuo-app/lin) - Lazy I18N is a CLI tool that translates locale JSONs using LLMs.
 
 #### Deployment
 
@@ -928,6 +929,7 @@ become an Angular expert.
 
 * [cypress](https://www.cypress.io/) - End to End and Component Testing for Angular.
 * [cypress-harness](https://github.com/jscutlery/devkit/tree/main/packages/cypress-harness) - This library provides Cypress support to Component Test Harnesses.
+* [cypress-angular-commands](https://github.com/MohamedSci/cypress-angular-commands) - A robust, production-ready collection of reusable Cypress custom commands specifically tailored for modern Angular-based enterprise applications and ERP systems.
 * [testcafe](https://testcafe.io/) - TestCafe is a user-friendly end-to-end testing solution. Free and open-source test runner. Powerful desktop app.
 * [webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js.
 * [Puppeteer Angular Schematic](https://pptr.dev/guides/ng-schematics/#getting-started) - Adds [Puppeteer-based](https://github.com/puppeteer/puppeteer) e2e tests to your Angular project.
@@ -1489,6 +1491,7 @@ to simplify usage and allow quick customization.
 * [ngx-blurhash-render](https://github.com/Mohid123/ngx-blurhash-render) - Lighweight library that renders the blurhash of a provided image. For Angular 15+. Requires [blurhash](https://www.npmjs.com/package/blurhash) as a dependency.
 * [red-zoom-angular](https://github.com/scompiler/red-zoom-angular) - A sleek and user-friendly image zoom library, designed as an Angular directive and fully customizable with CSS and SCSS.
 * [ngx-pinch-zoom](https://github.com/medDV-GmbH/ngx-pinch-zoom) - This module enables image zooming and positioning through touch screen gestures.
+* [ngx-broken-img](https://github.com/andreagrossetti/ngx-broken-img) - Angular directive to fix broken url in img. If image url returns 404, a placeholder is used to fill img's src.
 
 #### Keyboard Mouse
 
@@ -2134,6 +2137,7 @@ for the creation of web applications developed with Angular.
 * [ts-serializer](https://github.com/paddls/ts-serializer) - Serialize your models into strongly typed Typescript classes.
 * [tsconfig](https://github.com/smartrecruiters/tsconfig) - SmartRecruiters’ tsconfig contains all strict rules and improves your project type-safety.
 * [transform.tools](https://transform.tools/json-to-typescript) - Save a lot of time typing API responses with this JSON to TypeScript converter.
+* [typebuddy](https://github.com/typed-rocks/type-buddy) - Finally make sense of your complex types.
 
 #### Inspired by Angular
 
