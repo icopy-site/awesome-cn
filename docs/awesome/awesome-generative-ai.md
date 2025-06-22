@@ -193,6 +193,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) - Inference of Meta's LLaMA model (and others) in pure C/C++. #opensource
 - [bitnet.cpp](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs, by Microsoft. [#opensource](https://github.com/microsoft/BitNet)
 - [OpenRouter](https://openrouter.ai/) - A unified interface for LLMs. [#opensource](https://github.com/OpenRouterTeam)
+- [Ludwig](https://github.com/ludwig-ai/ludwig) - A low-code framework for building custom AI models like LLMs and other deep neural networks. [#opensource](https://github.com/ludwig-ai/ludwig)
 
 ### Playgrounds
 - [OpenAI Playground](https://platform.openai.com/playground) - Explore resources, tutorials, API docs, and dynamic examples.
@@ -375,6 +376,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [PromptPerfect](https://promptperfect.jina.ai/) - Tool for prompt engineering.
 - [Anthropic courses](https://github.com/anthropics/courses) - Anthropic's educational courses.
 - [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch) - A guide to building your own working LLM, by Sebastian Raschka.
+- [Build a Website with ChatGPT](https://www.manning.com/books/build-a-website-with-chatgpt) - A web development beginner's guide to zero-coding web development using generative AI.
 
 ## More lists
 
