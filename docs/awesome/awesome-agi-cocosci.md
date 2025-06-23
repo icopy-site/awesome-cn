@@ -720,6 +720,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 * [The successor representation in human reinforcement learning](https://gershmanlab.com/pubs/Momennejad17.pdf) - ***Nature Human Behavior***, 2017. [[All Versions](https://scholar.google.com/scholar?cluster=7317529612823134939&hl=en&as_sdt=0,5)].
 
 
+
 #### Planning
 
 * [From Skills to Symbols: Learning Symbolic Representations for Abstract High-Level Planning](https://jair.org/index.php/jair/article/view/11175) - ***Journal of Artificial Intelligence Research***, 2018. [[All Versions](https://scholar.google.com/scholar?cluster=17962480659445514879)]. This work considers the problem of constructing abstract representations for planning in high-dimensional, continuous environments. The authors assume an agent equipped with a collection of high-level actions, and construct representations provably capable of evaluating plans composed of sequences of those actions. The authors first consider the deterministic planning case, and show that the relevant computation involves set operations performed over sets of states. The authors then consider probabilistic planning, which they show requires generalizing from sets of states to distributions over states. Finally, the authors apply these techniques to create a physical robot system that autonomously learns its own symbolic representation of a mobile manipulation task directly from sensorimotor data---point clouds, map locations, and joint angles---and then plans using that representation.

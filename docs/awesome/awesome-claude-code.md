@@ -114,6 +114,14 @@ A task management system for AI-driven development with Claude, designed to work
 [`Container Use`](https://github.com/dagger/container-use) by [dagger](https://github.com/dagger)  
 Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 
+### IDE Integrations
+
+[`claude-code.el`](https://github.com/stevemolitor/claude-code.el) by [stevemolitor](https://github.com/stevemolitor)  
+An Emacs interface for Claude Code CLI.
+
+[`claude-code.nvim`](https://github.com/greggh/claude-code.nvim) by [greggh](https://github.com/greggh)  
+A seamless integration between Claude Code AI assistant and Neovim.
+
 <br>
 
 ## Slash-Commands
