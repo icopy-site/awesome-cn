@@ -107,7 +107,7 @@ _For a more complete list see [StaticGen](https://www.staticgen.com/)._
 - [Decap CMS](https://decapcms.org/) - Open source Git-based CMS _(Formerly known as [Netlify CMS](https://v1.netlifycms.org/))_.
 - [ButterCMS](https://buttercms.com/) - Headless CMS and Content API.
 - [Scrivito](https://scrivito.com) - Cloud-based JavaScript CMS built for digital agencies and medium to large-sized businesses.
-- [GraphCMS](https://graphcms.com) - The GraphQL Headless CMS.
+- [Hygraph](https://hygraph.com) - The GraphQL Headless CMS.
 - [Apito](https://apito.io) - A Cloud Based Headless CMS with CDN, Webhooks, Team Collaborations, Content Revision, Cloud Functions.
 - [Prismic](https://prismic.io) - Headless API CMS for both developers and marketers.
 - [Siteleaf](https://siteleaf.com) - A friendly CMS for your static site.

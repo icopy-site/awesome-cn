@@ -97,6 +97,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [ArrayList](https://github.com/KeeVeeGames/ArrayList.gml) - The most complete list class. Garbage collected, fast sort function, [] accessor and referencing as an array.
 - [GM Sysinfo](https://github.com/SpikeHD/gm-sysinfo) - Cross-platform extension for getting system information and resource usage.
 - [BSONGML](https://github.com/LAGameStudio/BSONGML) - Save and load GML structured data in binary files, skirting memory and performance concerns associated with loading JSON as a string.
+- [GML-Multiprocessing](https://github.com/tinkerer-red/GML-Multiprocessing) - A proof of concept for multiprocessing.
 
 ## Debugging
 
