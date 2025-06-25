@@ -9,11 +9,11 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * Basic Information
 * Documents
 * Language Related
+* Continuous Integration
 * Compiler for Other Languages
 * OS
-* Common/Utilities
-* Continuous Integration
-* Networking/Web Related
+* Common
+* Networking/Web
 * Database
 * CLI
 * GUI
@@ -193,12 +193,24 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [warp](https://github.com/facebookarchive/warp) - A fast preprocessor for C and C++ used in Facebook infrastructure. Written by Walter Bright.
 
-## Version Manager
+## Version Managers
 
 * [dvm](https://github.com/jacob-carlborg/dvm) - A small tool to install and manage DMD (self-hosting) compiler.
 * [ldcup](https://github.com/kassane/ldcup) - A small tool to install and manage LDC2 (LLVM backend) compiler.
 
+
+## GitHub Actions
+
+* [setup-dlang](https://github.com/dlang-community/setup-dlang) - Install D compilers & DUB inside GitHub Actions
+* [dub-upgrade](https://github.com/WebFreak001/dub-upgrade) - Run `dub upgrade` trying to repeat on network failure and using package cache on GitHub Actions
+
+## Testing Frameworks
+
+* [unit-threaded](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
+* [silly](https://gitlab.com/AntonMeep/silly) - Better test runner for the D programming language. No nonsense.
+
 ## Javascript
+
 * [higgs](https://github.com/higgsjs/Higgs) -  Higgs JavaScript Virtual Machine, implemented in D.
 
 ## Operating Systems
@@ -217,28 +229,22 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [XOmB bare bones](https://web.archive.org/web/20161214232759/http://wiki.xomb.org/index.php?title=XOmB_Bare_Bones) - an exokernel operating system written in D. [Main page](https://web.archive.org/web/20161201061242/http://wiki.xomb.org/index.php?title=Main_Page), [github](https://github.com/xomboverlord/xomb/tree/unborn).
 * [Bare Metal ARM Cortex-M GDC Cross Compiler](https://wiki.dlang.org/Bare_Metal_ARM_Cortex-M_GDC_Cross_Compiler) - building a bare metal ARM Cortex-M (arm-none-eabi) GDC cross compiler for a Linux host.
 
-## Basic
+## General Containers
 
-* [NuMem](https://github.com/Inochi2D/numem) - No-GC memory managment utilities for DLang.
-* [NuLib](https://github.com/Inochi2D/nulib) - D "standard" library built ontop of numem.
-* [Joka](https://github.com/Kapendev/joka) - A nogc utility library.
-
-## Containers
+*Data structures and container libraries.*
 
 * [EMSI containers](https://github.com/dlang-community/containers) - Containers that do not use the GC 
 * [memutils](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
 * [dlib.container](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
 * [std.rcstring](https://github.com/burner/std.rcstring) - A reference counted string implementation for D's build in string construct
 
-## GitHub Actions
+## Core Utilities
 
-* [setup-dlang](https://github.com/dlang-community/setup-dlang) - Install D compilers & DUB inside GitHub Actions
-* [dub-upgrade](https://github.com/WebFreak001/dub-upgrade) - Run `dub upgrade` trying to repeat on network failure and using package cache on GitHub Actions
+*General-purpose utility libraries.*
 
-## Testing Frameworks
-
-* [unit-threaded](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
-* [silly](https://gitlab.com/AntonMeep/silly) - Better test runner for the D programming language. No nonsense.
+* [NuMem](https://github.com/Inochi2D/numem) - No-GC memory managment utilities for DLang.
+* [NuLib](https://github.com/Inochi2D/nulib) - D "standard" library built ontop of numem.
+* [Joka](https://github.com/Kapendev/joka) - A nogc utility library.
 
 ## Web Frameworks
 
@@ -265,16 +271,14 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [DSSG](https://github.com/kambrium/dssg) - A static site generator with a different approach.
 
-## Data serialization
+## Data Serialization
 
-*Json, XML, protobuf and other data serialization libs.*
-
-### Binary Serilization
+*JSON, XML, protobuf and other data serialization libraries.*
 
 * [cerealed](https://github.com/atilaneves/cerealed)  - Serialisation library for D 
 * [dproto](https://github.com/msoucy/dproto) - Google Protocol Buffer support in D.
 
-### JSON
+*JSON libraries.*
 
 * [vibe.data.json](https://vibed.org/api/vibe.data.json/) - JSON functions in Vibe.d. Currently the best implementation I used.
 * [fast.json](https://github.com/etcimon/fast) -  A library for D that aims to provide the fastest possible implementation of some every day routines.
@@ -283,14 +287,14 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [std.data.json](https://github.com/dlang-community/std_data_json) - Phobos candidate for JSON serialization (based on Vibed)
 * [asdf](https://github.com/libmir/asdf) - Cache oriented string based JSON representation for fast read & writes and serialisation.
 
-### XML
+*XML libraries.*
 
 * [orange](https://github.com/jacob-carlborg/orange) - General purpose serializer (currently only supports XML)
 * [std.experimental.xml](https://github.com/lodo1995/experimental.xml) - Phobos candidate for a XML serialization
 * arsd [dom.d](https://github.com/adamdruppe/arsd/blob/master/dom.d) - an xml/html DOM based on what Javascript provides in browsers
 * [newxml](https://github.com/ZILtoid1991/newxml) - Successor of std.experimental.xml. DOM compatible, and also has a SAX parser.
 
-## Database clients
+## Database Clients
 
 *Clients and bindings to C bliencts for relational and nosql databases.*
 
@@ -352,65 +356,64 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [sokol-d](https://github.com/kassane/sokol-d) - D bindings for the sokol headers.
 * [DAllegro5](https://github.com/SiegeLord/DAllegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
 * [DSFML](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. See <http://dsfml.com/>.
-* [Godot-D](https://github.com/godot-d/godot-d) - D language bindings for the Godot Engine's GDNative API
-* [BindBC](https://github.com/BindBC) - A set of bindings compatible with `-betterC` and `@nogc`, using [bindbc-loader](https://github.com/BindBC/bindbc-loader):
-	* OpenGL - [bindbc-opengl](https://github.com/BindBC/bindbc-opengl)
-	* GLFW 3 - [bindbc-glfw](https://github.com/BindBC/bindbc-glfw)
-	* SDL 2 - [bindbc-sdl](https://github.com/BindBC/bindbc-sdl)
-	* SDL2_gfx - [bindbc-sdlgfx](https://github.com/aferust/bindbc-sdlgfx)
-	* SFML 2 - [bindbc-sfml](https://github.com/BindBC/bindbc-sfml)
-	* Imgui - immediate UI - [bindbc-imgui](https://github.com/Inochi2D/bindbc-imgui)
-	* Nuklear - immediate UI - [bindbc-nuklear](https://github.com/Timu5/bindbc-nuklear)
-	* raylib3 - [bindbc-raylib3](https://github.com/o3o/bindbc-raylib3)
-	* bgfx - [bindbc-bgfx](https://github.com/GoaLitiuM/bindbc-bgfx)
-	* WebGPU - [bindbc-wgpu](https://github.com/gecko0307/bindbc-wgpu)
-	* Zstandard - compression - [bindbc-zstandard](https://github.com/ZILtoid1991/bindbc-zstandard)
-	* nanomsg-next-gen - [bindbc-nng](https://github.com/darkridder/bindbc-nng)
-	* OpenAL - audio engine - [bindbc-openal](https://github.com/BindBC/bindbc-openal)
-	* SoLoud - audio engine - [bindbc-soloud](https://github.com/gecko0307/bindbc-soloud)
-	* KiWi - widget library - [bindbc-kiwi](https://github.com/aferust/bindbc-kiwi)
-	* NanoVG - vector drawing engine - [bindbc-nanovg](https://github.com/aferust/bindbc-nanovg)
-	* Blend2D - 2D Vector Graphics Powered by a JIT Compiler - [bindbc-blend2d](https://github.com/kdmult/bindbc-blend2d)
-	* Lua - [bindbc-lua](https://github.com/BindBC/bindbc-lua)
-	* JoyShockLibrary - [bindbc-jsl](https://github.com/ZILtoid1991/bindbc-JSL)
-	* Newton Dynamics - physics engine - [bindbc-newton](https://github.com/gecko0307/bindbc-newton)
-	* FreeImage - [bindbc-freeimage](https://github.com/BindBC/bindbc-freeimage)
-	* Assimp5 - [bindbc-assimp](https://github.com/Sobaya007/bindbc-assimp)
-	* Freetype - [bindbc-freetype](https://github.com/BindBC/bindbc-freetype)
-	* Harfbuzz - text shaping engine - [bindbc-harfbuzz](https://github.com/DlangGraphicsWG/bindbc-harfbuzz)
-* [DerelictOrg](https://github.com/DerelictOrg) - A GitHub organization hosting all Derelict bindings including:
-	* OpenGL 3 (DerelictGL3), 
-	* Bgfx (DerelictBgfx), 
-	* ENet (DerelictENet),  
-	* SDL 2 (DerelictSDL2), 
-	* GLFW 3 (DerelictGLFW3), 
-	* OpenGLES (DerelictGLES), 
-	* Free Image (DerelictFI), 
-	* Assimp3 (DerelictASSIMP3), 
-	* libtheora (DerelictTheora),  
-	* libogg (DerelictOgg), 
-	* libvorbis (DerelictVorbis), 
-	* SFML 2 (DerelictSFML2), 
-	* libpq (DerelictPQ), 
-	* PhysicsFS (DerelictPHYSFS), 
-	* Open Dynamics Engine (DerelictODE), 
-	* Lua (DerelictLua), 
-	* DevIL (DerelictIL), 
-	* OpenAL (DerelictAL), 
-	* ALURE (DerelictALURE).
+* [Godot-D](https://github.com/godot-d/godot-d) - D language bindings for the Godot Engine's GDNative API.
+* [BindBC](https://github.com/BindBC) - Bindings compatible with `-betterC` and `@nogc`, using [bindbc-loader](https://github.com/BindBC/bindbc-loader).
+	* [OpenGL](https://github.com/BindBC/bindbc-opengl) - Graphics API
+	* [GLFW 3](https://github.com/BindBC/bindbc-glfw) - Window/Input library
+	* [SDL 2](https://github.com/BindBC/bindbc-sdl) - Multimedia library
+	* [SDL2_gfx](https://github.com/aferust/bindbc-sdlgfx) - Drawing primitives for SDL2
+	* [SFML 2](https://github.com/BindBC/bindbc-sfml) - Multimedia library
+	* [Imgui](https://github.com/Inochi2D/bindbc-imgui) - Immediate mode GUI
+	* [Nuklear](https://github.com/Timu5/bindbc-nuklear) - Immediate mode GUI
+	* [raylib3](https://github.com/o3o/bindbc-raylib3) - Game library
+	* [bgfx](https://github.com/GoaLitiuM/bindbc-bgfx) - Cross-Platform renderer
+	* [WebGPU](https://github.com/gecko0307/bindbc-wgpu) - Modern GPU API
+	* [Zstandard](https://github.com/ZILtoid1991/bindbc-zstandard) - Fast compression
+	* [nanomsg-next-gen](https://github.com/darkridder/bindbc-nng) - Messaging library
+	* [OpenAL](https://github.com/BindBC/bindbc-openal) - Audio library
+	* [SoLoud](https://github.com/gecko0307/bindbc-soloud) - Audio library
+	* [KiWi](https://github.com/aferust/bindbc-kiwi) - UI widget toolkit
+	* [NanoVG](https://github.com/aferust/bindbc-nanovg) - Vector graphics
+	* [Blend2D](https://github.com/kdmult/bindbc-blend2d) - Vector graphics
+	* [Lua](https://github.com/BindBC/bindbc-lua) - Scripting language
+	* [JoyShockLibrary](https://github.com/ZILtoid1991/bindbc-JSL) - Gamepad/Gyro input
+	* [Newton Dynamics](https://github.com/gecko0307/bindbc-newton) - Physics library
+	* [FreeImage](https://github.com/BindBC/bindbc-freeimage) - Image loading
+	* [FreeType](https://github.com/BindBC/bindbc-freetype) - Font rendering
+	* [HarfBuzz](https://github.com/DlangGraphicsWG/bindbc-harfbuzz) - Text shaping
+* [DerelictOrg](https://github.com/DerelictOrg) - Bindings, now largely outdated. BindBC is its modern successor.
+	* [OpenGLES](https://github.com/DerelictOrg/DerelictGLES) - Graphics API
+	* [ENet](https://github.com/DerelictOrg/DerelictENet) - Networking library
+	* [libtheora](https://github.com/DerelictOrg/DerelictTheora) - Video codec
+	* [libogg](https://github.com/DerelictOrg/DerelictOgg) - Audio codec
+	* [libvorbis](https://github.com/DerelictOrg/DerelictVorbis) - Audio codec
+	* [libpq](https://github.com/DerelictOrg/DerelictPQ) - PostgreSQL library
+	* [PhysicsFS](https://github.com/DerelictOrg/DerelictPHYSFS) - Virtual file system
+	* [Open Dynamics Engine (ODE)](https://github.com/DerelictOrg/DerelictODE) - Physics library
+	* [ALURE](https://github.com/DerelictOrg/DerelictALURE) - Audio library
+	* [DevIL](https://github.com/DerelictOrg/DerelictIL) - Image library
 
-## Game Frameworks
+## Game Libraries
 
 *D libraries for game development.*
 
 * [InMath](https://github.com/Inochi2D/inmath) - Games math library for D.
+
+*Libraries for 2D-related projects.*
+
 * [gfm](https://github.com/drug007/gfm7) - D gamedev toolkit.
-* [Dagon](https://github.com/gecko0307/dagon) - 3D game engine for D. see <https://gecko0307.github.io/dagon/>
-* [Voxelman](https://github.com/MrSmith33/voxelman) - Plugin-based client-server voxel game engine written in D language
-* [rengfx](https://github.com/bmchtech/rengfx) - lightweight, expressive, extensible 2D/3D game engine.
 * [Parin](https://github.com/Kapendev/parin) - A delightfully simple 2D game engine.
 * [PixelPerfectEngine](https://github.com/ZILtoid1991/pixelperfectengine) - 2D graphics engine written in D.
 * [HipremeEngine](https://github.com/MrcSnm/HipremeEngine) - Cross Platform D-Lang Game Engine with scripting support.
+
+*Libraries for 2D/3D-related projects.*
+
+* [rengfx](https://github.com/bmchtech/rengfx) - lightweight, expressive, extensible 2D/3D game engine.
+
+*Libraries for 3D-related projects.*
+
+* [Dagon](https://github.com/gecko0307/dagon) - 3D game engine for D. See: <https://gecko0307.github.io/dagon/>
+* [Voxelman](https://github.com/MrSmith33/voxelman) - Plugin-based client-server voxel game engine written in D language.
 
 ## Games
 

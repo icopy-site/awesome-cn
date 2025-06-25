@@ -23,6 +23,7 @@ All contributions are welcome, please carefully review the [contributing guideli
 - [Threat Detection Maturity Framework | Haider Dost of Snowflake](https://medium.com/snowflake/threat-detection-maturity-framework-23bbb74db2bc) - A maturity matrix to measure the success of your threat detection program.
 - [Elastic's Detection Engineering Behavior Maturity Model](https://www.elastic.co/security-labs/elastic-releases-debmm) - Elastic's qualitative and quantitative approach to measuring threat detection program maturity.
 - [Prioritizing Detection Engineering | Ryan McGeehan](https://medium.com/starting-up-security/prioritizing-detection-engineering-b60b46d55051) - A longtime detection engineer outlines how a detection engineering program should be built from the ground up.
+- [Detection Engineering Field Manual | Zack Allen](https://www.detectionengineering.net/s/field-manual) - a series of posts exploring the various foundational components of Detection Engineering.
 
 
 - [Rulehound](https://rulehound.com) - An index of publicly available and open-source threat detection rulesets.

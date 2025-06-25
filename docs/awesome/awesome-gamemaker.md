@@ -199,6 +199,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Wave Function Collapse](https://quadolorgames.itch.io/wfc-gml-demo) - Generates a random tile map but not production ready in its current state.
 - [Destructible Terrain](https://github.com/niksudan/gms2-destructible-terrain) - An example of collidable, destructible terrain in GameMaker Studio using surfaces and grids.
 - [Cellular Automata Caves](https://alessiogamedev.itch.io/gms-cellular-automata-algorithm) - Generates huge caves in a few hundred milliseconds.
+- [GMRoomLoader](https://github.com/glebtsereteli/GMRoomLoader) - Streamlined room loading at runtime. Great for reusable room prefabs and procedural generation.
 
 ## Particles
 

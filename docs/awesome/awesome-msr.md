@@ -17,14 +17,15 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 
 ## Repositories
 
-- [SIR](http://sir.unl.edu/portal/index.php) - Software-artifact infrastructure repository; Java, C, C++, and C# software together with test suites and fault data.
-- [PROMISE](http://promise.site.uottawa.ca/SERepository/datasets-page.html) - About 20 datasets related to software engineering research.
+- [ESEUR](https://github.com/Derek-Jones/ESEUR-code-data) All data used in the openly available book [Evidence-based Software Engineering](http://www.knosof.co.uk/ESEUR/index.html)
+- [Directory of MSR Datasets](https://authecesofteng.github.io/directory-msr-datasets/)
 - [FLOSSmole](https://flossmole.org/collection_details) - Collaborative collection and analysis of free/libre/open source project data.
+- [PROMISE](http://promise.site.uottawa.ca/SERepository/datasets-page.html) - About 20 datasets related to software engineering research.
+- [SIR](http://sir.unl.edu/portal/index.php) - Software-artifact infrastructure repository; Java, C, C++, and C# software together with test suites and fault data.
 - [Zenodo](http://zenodo.org/) - Software data collections in CERN's open-access repository.
   - [Software Engineering Artifacts Can Really Assist Future Tasks](http://zenodo.org/communities/seacraft)
   - [Empirical Software Engineering](https://zenodo.org/communities/empirical-software-engineering/)
   - [Mining Software Repositories](https://zenodo.org/communities/msr/)
-- [Directory of MSR Datasets](https://authecesofteng.github.io/directory-msr-datasets/)
 
 ## Data Sets
 

@@ -125,8 +125,8 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [First Person Starter](https://github.com/Whimfoome/godot-FirstPersonStarter) - Template with First Person Controller, easily adjustable from the Inspector.
 - [Godot-GameTemplate](https://github.com/nezvers/Godot-GameTemplate) - Template with all necessary stuff taken care of. Designed for pixel art games.
 - [Godot XR Template](https://github.com/godotVR/godot-xr-template) - Template for a multi-level XR game.
-- [MechanicalFlower Godot Template](https://github.com/MechanicalFlower/godot-template) - Template with code formatting, license tracking, addons management and CI/CD.
 - [Maaack's Game Template](https://github.com/Maaack/Godot-Game-Template) - Template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.
+- [MechanicalFlower Godot Template](https://github.com/MechanicalFlower/godot-template) - Template with code formatting, license tracking, addons management and CI/CD.
 - [Takin Godot Template](https://github.com/TinyTakinTeller/TakinGodotTemplate) - Template with a save file system, localization, UI (main menu, save files, options, credits), example game scene, plugins (scene and audio managers, logger, linter, resource viewer), placeholders (music, sfx), github workflows and various utility scripts.
 
 #### Godot 3
@@ -204,6 +204,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [godot-ink](https://github.com/paulloz/godot-ink) - A C# (Mono) plugin to integrate stories writen in [ink](https://github.com/inkle/ink), a scripting language for writing interactive narrative.
 - [Godot NDI](https://github.com/unvermuthet/godot-ndi) - Integrates the NDI® SDK with Godot.
 - [Godot Polygon 2D Fracture](https://github.com/SoloByte/godot-polygon2d-fracture) - Two simple scripts for fracturing and cutting polygons.
+- [Godot Radial Menu](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
 - [Godot Spin Button](https://github.com/yudinikita/godot-spin-button) - Horizontal Selector with extended options.
 - [Godot SQLite](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite, making it possible to use SQLite databases as data storage in your project.
 - [Godot XR Tools](https://github.com/godotvr/godot-xr-tools) - Basic components for XR development.
@@ -226,6 +227,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Orchestrator](https://github.com/Vahera/godot-orchestrator) - Dialog and visual-scripting subsystem for 2D and 3D games.
 - [Phantom Camera](https://github.com/ramokz/phantom-camera) - Designed to provide and simplify common behaviors for the built-in Camera2D and Camera3D nodes.
 - [PixelPen](https://github.com/pixelpen-dev/pixelpen) - Pixel art drawing and animation: Common drawing tools such as selection, shape creation, mirroring, tiling, and animation features within the Godot editor.
+- [PowerKey](https://github.com/phosxd/PowerKey) - Easy-to-use dynamic translation of text & other variables. Also offers GDScript execution on Nodes, without needing to attach a script.
 - [ProtonScatter](https://github.com/HungryProton/scatter) - Automates the positioning of assets in a scene.
 - [QR Code](https://kenyoni-software.github.io/godot-addons/addons/qr_code) - QR Code generation either with the included QRCodeRect node or use the encoding result of the QRCode class.
 - [Quest Manager](https://github.com/Rubonnek/quest-manager) - Minimalistic quest manager able to track quest state at runtime for easier debugging.
@@ -244,8 +246,8 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Terrain3D](https://github.com/TokisanGames/Terrain3D) - A high performance, editable 3D terrain system.
 - [ThemeGen](https://github.com/Inspiaaa/ThemeGen) - Easily create themes using GDScript code, allowing you to reuse styles, recombine them, and effortlessly reuse and share colours between components.
 - [UI Design Tool](https://github.com/imjp94/UIDesignTool) - Intuitive design workflow for UIs in the editor.
-- [Wwise](https://github.com/alessandrofama/wwise-godot-integration) - Wwise audio middleware integration.
 - [Virtual Joystick](https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot) - A virtual joystick for touchscreens. Simple to use and with useful options. *(Godot 3 and 4)*
+- [Wwise](https://github.com/alessandrofama/wwise-godot-integration) - Wwise audio middleware integration.
 - [YATI (Yet Another Tiled Importer](https://github.com/Kiamo2/YATI) - This is an addon for importing files (.tmx, .tmj) created by the [Tiled Map Editor](https://github.com/mapeditor/tiled).
 - [Your Buil](https://codeberg.org/svetogam/yourbuil) - A plugin that makes it as easy as possible to use build data like git commit hashes in your build.
 
@@ -317,7 +319,6 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [GDSerCommPlugin](https://github.com/NangiDev/GDSerCommPlugin) - A plugin to read Arduino serial input (needs custom engine modules).
 - [gdutils](https://github.com/GodotExplorer/gdutils) - Utilities for Godot written in GDScript.
 - [Godot Game Tools](https://github.com/vini-guerrero/Godot_Game_Tools) - Blender plugin to ease importing assets into Godot.
-- [Godot Radial Menu](https://github.com/tavurth/godot-radial-menu) - A radial menu written in shader code for performance.
 - [Godot Recipes](https://kidscancode.org/godot_recipes/3.x/) - A large collection of tutorials and techniques, both big and small.
 - [Godot Shaders](https://github.com/GDQuest/godot-shaders) - A large library of free and open-source shaders for 2D and 3D.
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - Merge polygons.
@@ -364,8 +365,8 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [godot-anl](https://github.com/Xrayez/godot-anl) - A wrapper for [Accidental Noise Library](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
 - [godot-enet-better](https://github.com/Faless/godot-enet-better) - A better ENet module for high-performance multiplayer games with Godot.
 - [Head tracking using OpenCV](https://github.com/antarktikali/godot-opencv-gpu-perspective)
-- [Open Adaptive Music Library](https://github.com/oamldev/oamlGodotModule)
 - [NativeDialogs](https://github.com/GodotExplorer/NativeDialogs) - Using native dialogs in Godot.
+- [Open Adaptive Music Library](https://github.com/oamldev/oamlGodotModule)
 - [RawPacker](https://github.com/empyreanx/rawpacker) - Simple binary packing/unpacking for RawArray.
 - [spine](https://github.com/GodotExplorer/spine) - [Spine](http://esotericsoftware.com/) animation support module.
 - [WaterSplash 2D node](https://github.com/laverneth/water)
@@ -385,10 +386,10 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Sublime Text](https://github.com/beefsack/GDScript-sublime) - Syntax highlighting.
 - [Vim](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
 - Visual Studio Code
-  - [godot-tools Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) - A complete set of tools to code games with Godot Engine in Visual Studio Code. Includes a GDScript language client.
   - [C# Tools for Godot Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=neikeq.godot-csharp-vscode) - Debugger and utilities for working with Godot C# projects in VSCode.
-  - [GUT Visual Studio Code Extension](https://github.com/bitwes/gut-extension) - Run GUT framework unit/integration tests directly from the Visual Studio Code Editors.
   - [gdformat Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=EddieDover.gdscript-formatter-linter) - Formatter for GDScript in Visual Studio Code.
+  - [godot-tools Visual Studio Code Extension](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) - A complete set of tools to code games with Godot Engine in Visual Studio Code. Includes a GDScript language client.
+  - [GUT Visual Studio Code Extension](https://github.com/bitwes/gut-extension) - Run GUT framework unit/integration tests directly from the Visual Studio Code Editors.
 
 ## Themes
 
@@ -434,12 +435,12 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [asdf-godot](https://github.com/mkungla/asdf-godot) - Godot plugin for the [asdf version manager](https://asdf-vm.com).
 - [codetranslator](https://github.com/HaSa1002/codetranslator) - Translates GDScript to C# (WIP).
 - [gd2cs.py](https://github.com/kiriri/gd2cs.py) - Python script that converts GDScript code to C# (WIP).
-- [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) - Communicate with Godot clients using Node.js.
 - [godot-actions](https://github.com/bend-n/godot-actions) - Composite actions for exporting, setting up, and pushing Godot projects to itch.io through Github Actions.
 - [godot-ci](https://github.com/aBARICHELLO/godot-ci) - Docker image to export Godot games through CI. Includes GitLab CI script example.
 - [godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of command line tools for working with GDScript - parser, linter and formatter.
 - [godot-launcher](https://github.com/sebastianoboem/godot-launcher) - A desktop application built with Python that simplifies the Godot Engine development environment management.
+- [Godot Package Manager](https://github.com/you-win/godot-package-manager) - Package manager for Godot using npm.
+- [`gd-com` npm package](https://www.npmjs.com/package/@gd-com/utils) - Communicate with Godot clients using Node.js.
 - [RetroPie Godot Game Engine "Emulator"](https://github.com/hiulit/RetroPie-Godot-Game-Engine-Emulator) - A scriptmodule to install a Godot "emulator" for RetroPie.
 - [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.
-- [Godot Package Manager](https://github.com/you-win/godot-package-manager) - Package manager for Godot using npm.
 - [zfoo](https://github.com/zfoo-project/zfoo) - Java game server framework for Godot, including GDScript serialization and deserialization.
