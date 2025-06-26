@@ -296,6 +296,9 @@ Gets the next task from TaskMaster and creates a branch for it, integrating with
 [`/project_hello_w_name`](https://github.com/disler/just-prompt/blob/main/.claude/commands/project_hello_w_name.md) by [disler](https://github.com/disler)  
 Creates customizable greeting components with name input, demonstrating argument passing, component reusability, state management, and user input handling.
 
+[`/todo`](https://github.com/chrisleyva/todo-slash-command/blob/main/todo.md) by [chrisleyva](https://github.com/chrisleyva)  
+A convenient command to quickly manage project todo items without leaving the Claude Code interface, featuring due dates, sorting, task prioritization, and comprehensive todo list management.
+
 [`/view_commands`](https://github.com/cloudartisan/cloudartisan.github.io/blob/main/.claude/commands/view_commands.md) by [cloudartisan](https://github.com/cloudartisan)  
 Provides an organized directory of available project commands categorized by function, detailing post management commands, site management tools, and content creation capabilities.
 

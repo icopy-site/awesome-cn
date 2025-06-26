@@ -448,6 +448,7 @@ become an Angular expert.
 * [witspry-auth-ng-client](https://github.com/satya-jugran/witspry-auth-ng-client) - A comprehensive Angular library for OAuth2 authentication with PKCE (Proof Key for Code Exchange) support.
 * [otp-angular](https://github.com/subha-patra/otp-angular) - A lightweight, highly customizable, and dependency-free OTP (One-Time Password) input component built for Angular 20+ applications.
 * [@serhiisol/ngx-auth](https://github.com/serhiisol/ngx-auth) - Angular 20+ Authentication Module.
+* [ngx-smart-permissions](https://github.com/rami-sheikha-dev/ngx-smart-permissions) - A lightweight library for managing role-based and permission-based access control in Angular applications. Supports both standalone components and NgModules.
 
 #### Builders
 
@@ -816,6 +817,7 @@ become an Angular expert.
 #### Security
 
 * [Angular Security](https://angular.dev/best-practices/security) - Best Practices
+* [SafeDep](https://safedep.io/) - SafeDep continuously scans open source code for vulnerabilities and malware, helping security engineering teams proactively mitigate inherited OSS risks.
 * [Socket](https://socket.dev/) - Socket is a developer-first security platform that protects your code from both vulnerable and malicious dependencies.
 * [Synk](https://snyk.io/) - Snyk is a developer security platform that integrates directly into development tools, workflows, and automation pipelines.
 * [Github](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning) - Code scanning is available for all public repositories on GitHub.com.  You can turn on secret scanning and use Code QL to secure your repos.  
@@ -843,6 +845,7 @@ become an Angular expert.
 * [treaty](https://github.com/treatyjs/treaty) - The meta framework for Angular. An alternative to Analog.
 * [analog-stuff](https://github.com/joshuamorony/analog-stuff) - Extra stuff for AnalogJS including `agx-remark-rehype`.
 * [ngx-trpc](https://github.com/lennybakkalian/ngx-trpc) - Angular tRPC client with SSR, RxJS, Signals and Subscriptions Support.
+* [ngx-sitemaps](https://github.com/json-derulo/ngx-sitemaps) - Generate sitemaps from Angular prerendered routes.
 
 #### Site Templates
 
@@ -1003,6 +1006,7 @@ become an Angular expert.
 * [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 * [shallow-render](https://github.com/getsaf/shallow-render) - Angular testing made easy with shallow rendering and easy mocking.
 * [@storybookjs/testing-angular](https://github.com/storybookjs/testing-angular) - Testing utilities that allow you to reuse your stories in your unit tests.
+* [ngx-testbox](https://github.com/kirill-kolomin/ngx-testbox) - A comprehensive testing utility library for Angular applications that simplifies test writing and improves test reliability. You will find this library useful for unit, integration, and e2e testing.
 
 #### Updating
 
@@ -1545,6 +1549,7 @@ to simplify usage and allow quick customization.
 * [ngx-bladex](https://github.com/karnavpargi/ngx-bladex) - A simplistic blade component for Angular with minimize/maximize and a close button.
 * [@berg-layout/angular](https://www.npmjs.com/package/@berg-layout/angular) - This is the Angular version of [berg-layout](https://github.com/blidblid/berg-layout).
 * [static-columns](https://github.com/darekf77/static-columns) - Define columns with static width with Angular and FlexBox.
+* [ngx-flex-layout](https://github.com/jtc10005/ngx-flex-layout) - Port of [@angular/flex-layout](https://github.com/angular/flex-layout) to provide support after EOL.
 
 #### Loaders
 
@@ -1591,7 +1596,8 @@ to simplify usage and allow quick customization.
 * [cesium-angular-example](https://github.com/Developer-Plexscape/cesium-angular-example) - A simple web application that demonstrates integration of [Cesium](https://cesium.com) with the LATEST version of Angular.
 * [ngx-mapbox-gl](https://github.com/Wykks/ngx-mapbox-gl) - Angular binding of mapbox-gl-js.
 * [ng-maps](https://github.com/ng-maps/ng-maps) - Modular map components for Angular.
-* [ngx-leaflet](https://github.com/bluehalo/ngx-leaflet) - Core Leaflet package for Angular.io.
+* [ngx-leaflet](https://github.com/bluehalo/ngx-leaflet) - Core Leaflet package for Angular.
+* [ngx-leaflet-markercluster](https://github.com/bluehalo/ngx-leaflet-markercluster) - Provides [leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) integration into Angular projects.
 * [ngx-maplibre-gl](https://github.com/maplibre/ngx-maplibre-gl) - Angular binding of maplibre-gl.
 * [@angular/google-maps](https://github.com/angular/components/blob/main/src/google-maps/README.md) - This component provides a Google Maps Angular component that implements the Google Maps JavaScript API.
 * [ng-azure-maps](https://github.com/arnaudleclerc/ng-azure-maps) - An Angular library, mostly an HTML-driven wrapper of the azure-maps-controls package, allowing you to easily integrate its functionalities into an Angular application.
@@ -1713,6 +1719,7 @@ to simplify usage and allow quick customization.
 * [ng-toast-service](https://github.com/nhusby/ng-toast-service) - A simple, customizable notification service for Angular applications. This service shows notifications that slide onto the screen with configurable behavior.
 * [grand-notifications](https://github.com/rishi-rj-s/grand-notifications) - Beautiful, customizable toast notifications with artistic animations.
 * [ngx-notifications](https://github.com/pascaliske/ngx-notifications) - Simple notifications module for Angular.
+* [ngx-toastr-notifier](https://github.com/Mazen-Embaby/ngx-toastr-notifier) - Lightweight, customizable toast notifications for Angular 20+. A modern replacement for toastr with Angular Material design and flexible APIs.
 
 #### Printing
 
@@ -1962,6 +1969,7 @@ to simplify usage and allow quick customization.
 * [ngx-core-business](https://github.com/jxcodes/ngx-core-business) - An Angular library in active development, built on top of `@angular/material`. It aims to provide reusable, enterprise-grade UI components and utilities to streamline the development of scalable Angular applications.
 * [c3-components](https://github.com/c3ulnta0rk/c3-components) - An open-source component library that extends the `@angular/material` library.
 * [simplematcomponents](https://github.com/wobkenh/simplematcomponents) - Set of Angular components that fit into or use Angular Material Design.
+* [Angular Material Dev UI](https://ui.angular-material.dev/home) - Angular Material Dev UI (or Angular Material Blocks) is one place stop for developers to explore components and blocks for their Angular Material and Tailwind CSS based applications.
 
 ##### Bootstrap Based
 
