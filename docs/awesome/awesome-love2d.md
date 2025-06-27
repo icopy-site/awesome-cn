@@ -85,7 +85,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Maid64](https://github.com/adekto/maid64) - Low resolution scaler for LÖVE.
 * [Push](https://github.com/Ulydev/push) - A simple resolution-handling library for LÖVE.
 * [renderplanet](https://github.com/meric/renderplanet/) - Realistic orthographic planet rendering.
-* [Resolution Solution](https://github.com/Vovkiv/resolution_solution) - Scale library, that help you add resolution support to your games!
+* [Resolution Solution](https://github.com/grif-on/love2d_resolution_solution) - Scale library, that help you add resolution support to your games!
+* [Shöve](https://github.com/Oval-Tutu/shove) - A powerful resolution-handler and rendering library for LÖVE.
 * [svglover](https://github.com/globalcitizen/svglover) - Library to import and display simple SVGs in LÖVE.
 * [SYSL-Pixel](https://github.com/SystemLogoff/Sysl-Pixel) - Pixel art focused scaler for graphics, position, screen-captures and shaders.
 * [Sölar](https://github.com/JanWerder/soelar) - A fairly simple solar system simulator.
@@ -100,6 +101,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [adorbs](https://github.com/JosephShering/adorbs) - Minimal, Functional Entity Component System.
 * [Concord](https://github.com/Tjakka5/Concord) - A feature-complete ECS library.
 * [ecs-lua](https://github.com/nidorx/ecs-lua) - ECS Lua is a fast and easy to use ECS (Entity Component System) engine for game development.
+* [evolved.lua](https://github.com/BlackMATov/evolved.lua) - Evolved ECS (Entity-Component-System) for Lua.
 * [knife.system](https://github.com/airstruck/knife/blob/master/readme/system.md) - Minimalist functional ECS.
 * [nata](https://github.com/tesselode/nata) - Hybrid OOP/ECS entity management.
 * [tiny-ecs](https://github.com/bakpakin/tiny-ecs) - Entity Component System for Lua that's simple, flexible, and useful.
@@ -192,6 +194,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Sock.lua](https://github.com/camchenry/sock.lua) - A Lua networking library for LÖVE games. (IPv4)
 * [löve-ws](https://github.com/holywyvern/love-ws) - A websocket client and server library.
 * [love2d-lua-websocket](https://github.com/flaribbit/love2d-lua-websocket) - A simple event-driven websocket client library. (IPv4)
+* [fetch-lua](https://github.com/elloramir/fetch-lua) - An HTTPS/HTTP requests library made only with luajjit.
 
 ## OO
 *Object Orientation Libraries that support [Class-Commons](https://github.com/bartbes/Class-Commons)*
