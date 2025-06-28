@@ -22,6 +22,7 @@ Official resources.
 - [YouTube](https://www.youtube.com/@payloadcms) - Official YouTube channel with learning materials.
 - [Discord](https://discord.gg/payload) - Official Discord. Community chat and support.
 - [X (Twitter)](https://twitter.com/payloadcms) - Official X account. Payload news and announcements.
+- [Reddit](https://www.reddit.com/r/PayloadCMS/) - Discuss and share anything Payload related on Reddit.
 
 ## Education
 

@@ -300,6 +300,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [scikit-image](https://github.com/scikit-image/scikit-image)
 * [scikit-opt](https://github.com/guofei9987/scikit-opt)
 * [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs)
+* [feature-engine](https://feature-engine.trainindata.com/)
 * [pystruct](https://github.com/pystruct/pystruct)
 * [Shogun](https://www.shogun-toolbox.org/)
 * [xLearn](https://github.com/aksnzhy/xlearn)

@@ -194,6 +194,7 @@ _Display non-editable events in a calendar._
 - [css-3d-progress](https://github.com/rofixro/css-3d-progress) - A 3D Progress Bar component
 - [svelte-speedometer](https://github.com/palerdot/svelte-speedometer) - Svelte component for showing speedometer like gauge using d3.
 - [embedz](https://github.com/embedz/embedz) - Easy, dependency free embeds for Svelte and Vue.
+- [Edra](https://edra.tsuzat.com) - Best Rich Text Editor, made for Svelte Developers with Tiptap.
 
 ## Scaffold
 
@@ -287,6 +288,7 @@ _For Single Page Applications (SPAs) and more._
 - [Elegua](https://github.com/howesteve/elegua) - Small (< 180LoC), fast, easy, full featured SPA router
 - [svelte5-router](https://github.com/mateothegreat/svelte5-router) - First Svelte 5 SPA router with nesting, hooks, and more.. Use components, snippets, or both!
 - [@wjfe/n-savant](https://github.com/WJSoftware/wjfe-n-savant) - Fast, reactive router with always-on path and hash routing, and the router that invented multi-hash routing.
+- [sv-router](https://github.com/colinlienard/sv-router) - Type-safe SPA router with file-based or code-based routing.
 
 ## Frameworks
 

@@ -210,8 +210,9 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular Design Patterns and Best Practices](https://github.com/PacktPublishing/Angular-Design-Patterns-and-Best-Practices) - `Packt Publishing`
 * [Angular for Enterprise Applications](https://angularforenterprise.com/home) - `Packt Publishing`
 * [Angular University Ebooks](https://angular-university.io/my-ebooks) - Available separately or included with a subscription.
-* [Mastering Angular Signals](https://angularexperts.io/products/ebook-signals) - `Kevin Kreuzer`
+* [Angular Signals Masterclass](https://angularexperts.io/products/ebook-signals) - `Kevin Kreuzer`
 * [Learn With: Angular 17 with Modules and Bootstrap](https://www.learn-with.com/) - `Jeffry Houser`
+* [Mastering Angular Signals: A Practical Guide to Modern Reactivity, Performance, and Migration](https://www.amazon.com/dp/B0FF9LSHJN/) - `Muhammad Ahsan Ayaz`
 * [Angular Book](https://github.com/DenysVuika/angular-book) - `Denys Vuika` **FREE**
 * [Modern Angular](https://www.angulararchitects.io/en/ebooks/modern-angular/?book) - `Manfred Steyer` **FREE**
 * [Ultimate Guide to Angular Evolution](https://houseofangular.io/the-ultimate-guide-to-angular-evolution/) - `House of Angular` **FREE**
@@ -381,6 +382,7 @@ become an Angular expert.
 * [hashbrown](https://github.com/liveloveapp/hashbrown) - [Hashbrown](https://hashbrown.dev/) is a framework for building joyful, AI-powered user experiences.
 * [CodeSage AI](https://github.com/kd-akshay/code-quality-analyzer) - Analyzes code quality of React, Vue, and Angular projects using linters and an LLM.
 * [angular-mcp-server](https://github.com/SAIPRANAY-GANGULA/angular-mcp-server) - A Model Context Protocol (MCP) server that provides comprehensive access to Angular documentation, enabling AI assistants to search and retrieve Angular-related information with intelligent relevance scoring.
+* [gitingest](https://gitingest.com/) - Turn any Git repository into a simple text digest of its codebase. This is useful for feeding a codebase into any LLM.
 
 #### Analytics
 
@@ -1155,6 +1157,7 @@ become an Angular expert.
 * [railz-visualizations](https://github.com/railz-ai/railz-visualizations) - A collection of reusable web components that help you build a dashboard using normalized financial transactions and analytics from the FIS Accounting Data as a Service API.
 * [@cubejs-client/ngx](https://www.npmjs.com/package/@cubejs-client/ngx) — Along with [@cubejs-client/core](https://www.npmjs.com/package/@cubejs-client/core), you can [integrate](https://cube.dev/docs/product/apis-integrations/javascript-sdk/angular) Cube.js in Angular.
 * [ngx-lightweight-charts](https://github.com/jamesbrobb/ngx-lightweight-charts) - An easily extendable Angular wrapper for [Trading View Lightweight Charts](https://www.tradingview.com/lightweight-charts/).
+* [amcharts5](https://github.com/amcharts/amcharts5) - The newest, fastest, and most advanced amCharts charting library for JavaScript and TypeScript apps. Check out the [Angular integration guide](https://www.amcharts.com/docs/v5/getting-started/integrations/angular/) to get started. Additionally, older versions are still being updated to support newer releases of Angular.
 
 #### Cookies
 
@@ -1165,6 +1168,13 @@ become an Angular expert.
 * [ngx-cookiebot](https://github.com/halloverden/ngx-cookiebot) - An Angular wrapper around the [Cookiebot](https://www.cookiebot.com/) SDK.
 * [ngx-cookie-ssr](https://github.com/Ask-786/ngx-cookie-ssr) - A straightforward cookie service for Angular 19 applications, inspired by ngx-cookie-service.
 * [ngx-gdpr-cookie-consent](https://github.com/KoblerS/ngx-gdpr-cookie-consent) - A beautiful Cookie consent library, easy to use.
+
+#### CSV
+
+* [ngx-export-as](https://github.com/wnabil/ngx-export-as) - Angular 2+ / Ionic 2+ HTML/table element to export it as JSON, XML, PNG, CSV, TXT, MS-Word, Ms-Excel, and PDF.
+* [ng2csv](https://github.com/rars/ng2csv) - Angular service for saving data to CSV file.
+* [ngx-csv-parser](https://github.com/tofiqquadri/ngx-csv-parser) - CSV Parser for Angular by Developers Hive.
+* [rm-ng-export-to-csv](https://github.com/malikrajat/rm-ng-export-to-csv) - A lightweight and customizable Angular library to export JSON data to CSV files with auto-download support. Ideal for charts, tables, reports, and dashboards.
 
 #### Data Grids
 
@@ -1177,7 +1187,6 @@ become an Angular expert.
 * [ui-grid](https://github.com/angular-ui/ui-grid) - UI Grid: an Angular Data Grid.
 * [jspreadsheet](https://github.com/jspreadsheet/ce) - [Jspreadsheet](https://bossanova.uk/jspreadsheet/docs/getting-started) is a lightweight vanilla javascript plugin to create amazing web-based online interactive tables and spreadsheets compatible with other spreadsheet software.
 * [handsontable](https://handsontable.com/docs/javascript-data-grid/angular-installation/) - Handsontable is a popular JavaScript data grid component that brings the well-known look and feel of spreadsheets to your application.
-* [ngx-export-as](https://github.com/wnabil/ngx-export-as) - Angular 2+ / Ionic 2+ HTML/table element to export it as JSON, XML, PNG, CSV, TXT, MS-Word, Ms-Excel, and PDF.
 * [datagrid](https://github.com/radix-ng/datagrid) - Angular TanStack table with shadcn Theme.
 * [angular-datatables](https://github.com/l-lin/angular-datatables) - An Angular2+ library for building complex HTML tables using the [DataTables](https://datatables.net) jQuery plug-in.
 * [angular-slickgrid](https://github.com/ghiscoding/Angular-Slickgrid) - A wrapper of the lightning fast & customizable [SlickGrid](https://github.com/mleibman/SlickGrid) datagrid. It also includes multiple styling themes.
@@ -2054,8 +2063,6 @@ for the creation of web applications developed with Angular.
 * [runtime-config-loader](https://github.com/pjlamb12/runtime-config-loader) - This is an Angular library that provides an easy way to load a configuration JSON file for runtime configuration.
 * [ng-polymorpheus](https://github.com/taiga-family/ng-polymorpheus) - Polymorpheus is a tiny library for polymorphic templates in Angular.
 * [gui](https://github.com/acrodata/gui) - JSON powered GUI for configurable panels.
-* [ng2csv](https://github.com/rars/ng2csv) - Angular service for saving data to CSV file.
-* [ngx-csv-parser](https://github.com/tofiqquadri/ngx-csv-parser) - CSV Parser for Angular by Developers Hive.
 * [angular-tag-cloud-module](https://github.com/d-koppenhagen/angular-tag-cloud-module) - With this module, you can generate word clouds / tag clouds.
 * [ngx-lipsum](https://github.com/d-koppenhagen/ngx-lipsum) - Easily use lorem-ipsum dummy texts in your Angular app as directive, component or by using a service.
 * [ngx-parallax-stars](https://github.com/DerStimmler/ngx-parallax-stars) - Angular library to create beautiful stars with parallax effect.

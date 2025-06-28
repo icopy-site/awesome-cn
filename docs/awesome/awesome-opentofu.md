@@ -11,10 +11,11 @@
 
 - [OpenTofu repository](https://github.com/opentofu/opentofu) 🎉
 - [Fork announcement](https://opentofu.org/announcement)
-- [Official registry](https://github.com/opentofu/registry)
+- [Registry](https://github.com/opentofu/registry)
+- [Registry MCP Server](https://github.com/opentofu/opentofu-mcp-server#opentofu-mcp-server)
 - [Weekly updates](https://github.com/opentofu/opentofu/blob/main/WEEKLY_UPDATES.md#weekly-updates)
 - [Office hours](https://www.youtube.com/watch?v=aEoMzUza6Ok&list=PLnVotLM2QsyhCc1_8PA7fbVF-ixt4_XAY)
-- [Technical Steering Committee updates](https://github.com/opentofu/opentofu/blob/main/TSC_SUMMARY.md#technical-steering-committee-tsc-summary)
+- [Technical Steering Committee updates](https://github.com/opentofu/org/tree/main/TSC)
 
 ## Community
 
@@ -29,15 +30,19 @@
 
 <!--lint disable double-link-->
 
+- [1.10 - Enhanced moved and removed blocks](https://opentofu.org/docs/intro/whats-new/#enhanced-moved-and-removed-blocks)
+- [1.10 - External key providers](https://opentofu.org/docs/intro/whats-new/#external-key-providers)
+- [1.10 - OCI registry support](https://opentofu.org/docs/cli/oci_registries/)
+- [1.10 - S3 native state locking](https://opentofu.org/docs/intro/whats-new/#native-s3-state-locking)
+- [1.10 - Target and exclude files](https://opentofu.org/docs/intro/whats-new/#target-and-exclude-files)
 - [1.9 - Provider iteration with for_each](https://opentofu.org/docs/intro/whats-new/#provider-iteration-for_each)
 - [1.9 - The -exclude flag](https://opentofu.org/docs/intro/whats-new/#the--exclude-flag)
-- [1.8 - Override files for OpenTofu (.tofu)](https://opentofu.org/docs/intro/whats-new/#override-files-for-opentofu-keeping-compatibility)
 - [1.8 - Early variable and locals evaluation](https://opentofu.org/docs/intro/whats-new/#early-variablelocals-evaluation)
+- [1.8 - Override files for OpenTofu (.tofu)](https://opentofu.org/docs/intro/whats-new/#override-files-for-opentofu-keeping-compatibility)
 - [1.7 - End-to-end encryption for state files](https://opentofu.org/docs/v1.7/intro/whats-new/#state-encryption)
+- [1.7 - Loopable import blocks](https://opentofu.org/docs/v1.7/intro/whats-new/#loopable-import-blocks)
 - [1.7 - Provider-defined functions](https://opentofu.org/docs/v1.7/intro/whats-new/#provider-defined-functions)
 - [1.7 - Removed block](https://opentofu.org/docs/v1.7/intro/whats-new/#removed-block)
-- [1.7 - Loopable import blocks](https://opentofu.org/docs/v1.7/intro/whats-new/#loopable-import-blocks)
-- [OCI-compliant registry support](https://twitter.com/OpenTofuOrg/status/1696913055576387599) 🚧
 - [CanI.TF - Feature parity between Terraform and OpenTofu](https://cani.tf/)
 
 <!--lint enable double-link-->
@@ -114,9 +119,12 @@
 - [terraform-registry](https://github.com/nrkno/terraform-registry) - Modules registry with authentication and support for multiple backends.
 - [terrareg](https://github.com/MatthewJohn/terrareg) - Open-source modules registry with UI, optional Git integration and deep analysis.
 - [terustry](https://github.com/veepee-oss/terustry) - Proxy registry for providers.
+- [tofuref](https://github.com/djetelina/tofuref) - TUI for OpenTofu provider registry.
 
 ### Helpers
 
+- [OpenTofu Language Server](https://github.com/opentofu/tofu-ls) - OpenTofu Language Server.
+- [VS Code Extension](https://open-vsx.org/extension/OpenTofu/vscode-opentofu) - Extension for Visual Studio Code with the OpenTofu Language Server adds editing features for OpenTofu files such as syntax highlighting, IntelliSense, code navigation, code formatting, module explorer.
 - [terratag](https://github.com/env0/terratag) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
 - [tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations.
 
@@ -134,6 +142,7 @@
 - [Code To Cloud - Getting Started With OpenTofu](https://www.youtube.com/watch?v=HeUz6TMg82U)
 - [CNCF - OpenTofu Day Europe 2024](https://www.youtube.com/playlist?list=PLnVotLM2Qsyiw_6Pd_9WxRRLdrUAs3c1c)
 - [CNCF - OpenTofu Day North America 2024](https://www.youtube.com/playlist?list=PLnVotLM2QsyhhCO5TgEUsAip601j3NUlm)
+- [CNCF - OpenTofu Day Europe 2025](https://www.youtube.com/playlist?list=PLj6h78yzYM2P1WUOx9Ny6Q3JJxiAs1A3M)
 
 ## Podcasts
 
