@@ -171,6 +171,7 @@ System integration is the process of linking together different IT systems (com
 <!--lint enable-->
 ### ETL
 *ETL (Extract, Transform, Load) and ELT (Extract, Load, Transform) are processes used to integrate and consolidate data from multiple sources. This section covers a range of open source and commercial tools for performing these tasks, including data ingestion, transformation, and loading into data warehouses or other data storage systems.*
+- [Apache InLong (⭐1.6k)](https://github.com/apache/inlong) - One-stop, full-scenario integration framework for massive data that supports data ingestion, synchronization, and subscription with real-time ETL capabilities.
 - [Apache NiFi (⭐5.3k)](https://github.com/apache/nifi) - Automated data integration tool with a visual interface that seamlessly extracts, transforms, and delivers data across systems.
 - [Airbyte (⭐18k)](https://github.com/airbytehq/airbyte) - Flexible, open-source data integration platform that builds ELT pipelines to move data from diverse sources to modern destinations.
 - [CloverDX](https://www.cloverdx.com/) - Enterprise ETL suite offering robust data transformation and workflow orchestration for scalable integration.
@@ -208,7 +209,7 @@ System integration is the process of linking together different IT systems (com
 - [Oracle Integration Cloud Service](https://www.oracle.com/integration/application-integration/) - Robust platform with prebuilt connectivity for both SaaS and on-premises apps, streamlining integration processes.
 - [SAP Integration Suite](https://www.sap.com/products/technology-platform/integration-suite.html) - Cloud-native solution offering prebuilt adapters, API management, and event brokering for end-to-end connectivity.
 - [SnapLogic Intelligent Integration Platform](https://www.snaplogic.com/products/intelligent-integration-platform) - AI-driven platform that connects applications and data rapidly, ensuring efficient and scalable integrations.
-- [TIBCO Cloud Integration](https://www.tibco.com/products/cloud-integration) - Flexible, API-led and event-driven platform that empowers you to integrate virtually any system quickly.
+- [TIBCO Cloud Integration](https://docs.tibco.com/products/tibco-cloud-integration-ipaas) - Flexible, API-led and event-driven platform that empowers you to integrate virtually any system quickly.
 - [Tray.io](https://tray.ai/) - Low-code automation platform with a drag-and-drop interface, making it simple to build scalable integrations and workflows.
 - [Workato](https://www.workato.com/) - Unified integration and workflow automation solution that simplifies complex processes and enhances operational efficiency.
 
@@ -266,13 +267,14 @@ System integration is the process of linking together different IT systems (com
 - [SAS MDM](https://support.sas.com/en/software/mdm-support.html) - Unified platform that integrates data from diverse sources into accurate master records for improved efficiency.
 - [Stibo MDM](https://www.stibosystems.com/platform) - Proven multi-domain MDM solution focusing on data transparency and governance to provide a single source of truth.
 - [Teradata MDM](https://www.teradata.co.uk/Products/Applications/Master-Data-Management) - Establishes a consistent analytical foundation by maintaining accurate reference data for enhanced ROI.
-- [TIBCO EBX](https://www.tibco.com/products/tibco-ebx-software) - Comprehensive platform for governing and managing shared data assets, ensuring consistency and enabling smarter decisions.
+- [TIBCO EBX](https://www.tibco.com/products/ebx) - Comprehensive platform for governing and managing shared data assets, ensuring consistency and enabling smarter decisions.
 
 <!--lint disable-->
 <!--lint enable-->
 ### Messaging
 *Message brokers are a type of middleware that allows communication between different applications or systems by facilitating the exchange of messages. They can handle different messaging patterns, such as point-to-point, publish-subscribe, and request-reply, and provide features such as message transformation, routing, and filtering.*
 - [Apache ActiveMQ (⭐2.3k)](https://github.com/apache/activemq) - Open-source broker that implements JMS, enabling seamless conversion between synchronous and asynchronous messaging.
+- [Apache ActiveMQ Artemis (⭐971)](https://github.com/apache/activemq-artemis) - Next-generation message broker from Apache ActiveMQ with high performance, clustering support, and multi-protocol capabilities.
 - [Apache Kafka (⭐30k)](https://github.com/apache/kafka) - Distributed, high-throughput system designed for real-time data streaming and fault-tolerant processing.
 - [Apache Pulsar (⭐14k)](https://github.com/apache/pulsar) - Versatile pub/sub and streaming platform offering scalable, low-latency messaging for modern applications.
 - [Apache RocketMQ (⭐21k)](https://github.com/apache/rocketmq) - High-performance distributed messaging platform engineered for low latency and high throughput.
@@ -283,7 +285,9 @@ System integration is the process of linking together different IT systems (com
 - [EMQX (⭐14k)](https://github.com/emqx/emqx) - High-performance MQTT broker built for IoT and industrial applications, ensuring scalable message delivery.
 - [IBM MQ](https://www.ibm.com/products/mq) - Enterprise-grade messaging solution providing robust features, high availability, and multi-protocol support.
 - [KubeMQ](https://kubemq.io/) - Kubernetes-native message broker and queue system designed for scalability, high availability, and seamless cloud integration.
+- [LavinMQ (⭐740)](https://github.com/cloudamqp/lavinmq) - High-performance message queue server implementing AMQP 0-9-1 and MQTT protocols, built with Crystal for exceptional throughput and minimal resource usage.
 - [NATS (⭐17k)](https://github.com/nats-io/gnatsd) - Lightweight, high-performance messaging system ideal for microservices and cloud-native architectures.
+- [NSQ (⭐25k)](https://github.com/nsqio/nsq) - Realtime distributed messaging platform designed to operate at scale, handling billions of messages per day with decentralized topology.
 - [Oracle AQ](https://www.oracle.com/database/technologies/advanced-queuing.html) - Integrated messaging solution within Oracle databases, offering reliable and efficient message delivery.
 - [RabbitMQ (⭐12k)](https://github.com/rabbitmq/rabbitmq-server) - Popular open-source broker implementing AMQP, known for reliability, clustering, and ease-of-use.
 - [Redpanda (⭐10k)](https://github.com/vectorizedio/redpanda) - Kafka-compatible streaming platform that eliminates Zookeeper, delivering high performance and low latency.
@@ -710,7 +714,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 <summary>Oracle</summary>
 
 - [Oracle Business Process Management Suite 12c Certified Implementation Specialist](https://education.oracle.com/oracle-business-process-management-suite-12c-essentials/pexam_1Z0-435) - Validate your expertise in implementing Oracle BPM Suite 12c solution.
-- [Oracle Cloud Platform Application Integration 2022 Certified Professional](https://education.oracle.com/oracle-cloud-platform-application-integration-2022-certified-professional/trackp_OCPAI2022CP) - Validate your understanding of Oracle Application Integration to implement these Cloud services.
+- [Oracle Cloud Platform Application Integration 2025 Certified Professional](https://education.oracle.com/oracle-cloud-infrastructure-2024-application-integration-professional/pexam_1Z0-1042-25) - Validate your understanding of Oracle Application Integration to implement these Cloud services.
 - [Oracle Data Integrator 12c Certified Implementation Specialist](https://education.oracle.com/oracle-data-integrator-12c-certified-implementation-specialist/trackp_379) - Validate your expertise in selling or implementing Oracle Data Integration 12c solutions.
 - [Oracle SOA Suite 12c Certified Implementation Specialist](https://education.oracle.com/oracle-soa-suite-12c-essentials/pexam_1Z0-434) - Validate your expertise in implementing solutions based on Oracle SOA Suite 12c.
 
@@ -743,20 +747,20 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 <details>
 <summary>TIBCO</summary>
 
-- [TIBCO BusinessWorks Associate](https://www.tibco.com/services/education/certification/tibco-businessworks-associate-certification-exam) - Checks the understanding of Business Studio and TIBCO Cloud Integration, designing application components (modules, WSDL, REST API), developing integration applications, and testing, deploying, and managing applications.
-- [TIBCO BusinessWorks Certified Professional](https://www.tibco.com/services/education/certification/tibco-businessworks-6-certification-exam) - Validates the ability to design, develop, deploy, monitor, and manage TIBCO BusinessWorks applications of average complexity with minimal supervision.
-- [TIBCO BusinessWorks Container Edition Certified Professional](https://www.tibco.com/services/education/certification/tibco-businessworks-container-edition-certification-exam) - Validates the ability to develop, deploy, and manage TIBCO BusinessWorks Container Edition applications of average complexity with minimal supervision.
-- [TIBCO BPM Enterprise Associate](https://www.tibco.com/services/education/certification/tibco-bpm-enterprise-associate-certification-exam) - Checks the understanding of TIBCO BPM's features and capabilities, developing and managing business processes, and deploying and testing process applications.
-- [TIBCO BPM Enterprise Certified Professional](https://www.tibco.com/services/education/certification/tibco-bpm-enterprise-5-certification-exam) - Validates the ability to design, develop, deploy, and manage business processes using TIBCO BPM Enterprise Suite.
-- [TIBCO Cloud Associate Certification](https://www.tibco.com/services/education/certification/tibco-cloud-associate-certification-exam) - Validates the skills and knowledge required to work with TIBCO Cloud, including its key components and features.
-- [TIBCO Cloud API Management Associate](https://www.tibco.com/services/education/certification/tibco-mashery-associate-certification-exam) - Covers topics such as API definition creation and testing, API key authentication, and using the Developer Portal and I/O docs.
-- [TIBCO Cloud API Management Certified Professional](https://www.tibco.com/services/education/certification/tibco-cloud-api-management-professional-certification-exam) - Validates the ability to implement TIBCO Cloud Mesh, OAuth-based security, and manage SOAP services.
-- [TIBCO Cloud Integration Associate](https://www.tibco.com/services/education/certification/tibco-cloud-integration-associate-certification-exam) - Validates the skills and knowledge required to work with TIBCO Cloud Integration, including its Connect, Develop, and Integrate capabilities.
-- [TIBCO Cloud Integration - Connect Associate](https://www.tibco.com/services/education/certification/tibco-cloud-integration-connect-associate-certification-exam) - Checks the usage of Connect capability of TIBCO Cloud Integration, installing On-Premise Agent, creating connections and integration apps, and configuring flows.
-- [TIBCO Cloud Integration - Connect Certified Professional](https://www.tibco.com/services/education/certification/tibco-cloud-integration-connect-certified-professional-exam) - Checks the creation and management of connections, ensuring connection security, and troubleshooting issues related to connections in TIBCO Cloud Integration.
-- [TIBCO Cloud Integration Certified Professional](https://www.tibco.com/services/education/certification/tibco-cloud-integration-certified-professional-exam) - Checks the knowledge about capabilities and benefits, integrating, developing, and connecting applications, creating APIs using the API Modeler and Mock functionality, and more.
-- [TIBCO Messaging Associate](https://www.tibco.com/services/education/certification/tibco-messaging-associate-certification-exam) - Covers topics such as TIBCO Enterprise Message Service (EMS), TIBCO FTL, TIBCO eFTL, as well as other messaging technologies such as Apache Kafka, Apache Pulsar, and Eclipse Mosquitto.
-- [TIBCO Messaging Certified Professional](https://www.tibco.com/services/education/certification/tibco-messaging-certified-professional-exam) - Validates the skills and knowledge required to work with TIBCO Messaging and its components, including TIBCO Enterprise Message Service (EMS), TIBCO FTL, and TIBCO eFTL.
+- [TIBCO BusinessWorks Associate](https://www.credly.com/org/citrix/badge/tca-tibco-businessworks) - Checks the understanding of Business Studio and TIBCO Cloud Integration, designing application components (modules, WSDL, REST API), developing integration applications, and testing, deploying, and managing applications.
+- [TIBCO BusinessWorks Certified Professional](https://www.credly.com/org/citrix/badge/tcp-tibco-businessworks) - Validates the ability to design, develop, deploy, monitor, and manage TIBCO BusinessWorks applications of average complexity with minimal supervision.
+- [TIBCO BusinessWorks Container Edition Certified Professional](https://www.credly.com/org/citrix/badge/tcp-tibco-businessworks-container-edition) - Validates the ability to develop, deploy, and manage TIBCO BusinessWorks Container Edition applications of average complexity with minimal supervision.
+- [TIBCO BPM Enterprise Associate](https://www.credly.com/org/citrix/badge/tca-tibco-bpm-enterprise) - Checks the understanding of TIBCO BPM's features and capabilities, developing and managing business processes, and deploying and testing process applications.
+- [TIBCO BPM Enterprise Certified Professional](https://www.credly.com/org/citrix/badge/tcp-tibco-bpm-enterprise) - Validates the ability to design, develop, deploy, and manage business processes using TIBCO BPM Enterprise Suite.
+- [TIBCO Cloud Associate Certification](https://www.credly.com/org/citrix/badge/tca-tibco-cloud) - Validates the skills and knowledge required to work with TIBCO Cloud, including its key components and features.
+- [TIBCO Cloud API Management Associate](https://www.credly.com/org/citrix/badge/tca-tibco-cloud-api-management) - Covers topics such as API definition creation and testing, API key authentication, and using the Developer Portal and I/O docs.
+- [TIBCO Cloud API Management Certified Professional](https://www.credly.com/org/citrix/badge/tcp-tibco-cloud-api-management) - Validates the ability to implement TIBCO Cloud Mesh, OAuth-based security, and manage SOAP services.
+- [TIBCO Cloud Integration Associate](https://www.credly.com/org/citrix/badge/tca-tibco-cloud-integration) - Validates the skills and knowledge required to work with TIBCO Cloud Integration, including its Connect, Develop, and Integrate capabilities.
+- [TIBCO Cloud Integration - Connect Associate](https://www.credly.com/org/citrix/badge/tca-tibco-cloud-integration-connect) - Checks the usage of Connect capability of TIBCO Cloud Integration, installing On-Premise Agent, creating connections and integration apps, and configuring flows.
+- [TIBCO Cloud Integration - Connect Certified Professional](https://www.credly.com/org/citrix/badge/tcp-tibco-cloud-integration-connect) - Checks the creation and management of connections, ensuring connection security, and troubleshooting issues related to connections in TIBCO Cloud Integration.
+- [TIBCO Cloud Integration Certified Professional](https://www.credly.com/org/citrix/badge/tcp-tibco-cloud-integration) - Checks the knowledge about capabilities and benefits, integrating, developing, and connecting applications, creating APIs using the API Modeler and Mock functionality, and more.
+- [TIBCO Messaging Associate](https://www.credly.com/org/citrix/badge/tca-tibco-messaging) - Covers topics such as TIBCO Enterprise Message Service (EMS), TIBCO FTL, TIBCO eFTL, as well as other messaging technologies such as Apache Kafka, Apache Pulsar, and Eclipse Mosquitto.
+- [TIBCO Messaging Certified Professional](https://www.credly.com/org/citrix/badge/tcp-tibco-messaging) - Validates the skills and knowledge required to work with TIBCO Messaging and its components, including TIBCO Enterprise Message Service (EMS), TIBCO FTL, and TIBCO eFTL.
   
 </details>
 <details>
@@ -774,7 +778,6 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 - [WSO2 Certified API Manager Developer - V4 - Micro Integrator Profile](https://wso2.com/training/certification/certified-api-manager-developer-v4-micro-integrator-profile/) - Validates your expertise in designing, developing, and publishing APIs using the Micro Integrator profile of WSO2 API Manager V4. It covers API lifecycle management, access control, and API documentation within the Micro Integrator context.
 - [WSO2 Certified API Manager Expert - V3](https://wso2.com/training/certification/certified-api-manager-expert/) - Confirms your advanced skills and knowledge in using WSO2 API Manager V3 for API management, including API creation, publishing, security, policy implementation, and analytics.
 - [WSO2 Certified API Manager Expert - V4 - API Management Profile](https://wso2.com/training/certification/api-manager-expert-v4-api-management-profile/) - Demonstrates your proficiency in using WSO2 API Manager V4 for API management tasks, such as creating, publishing, and securing APIs, as well as implementing policies and analytics.
-- [WSO2 Certified Enterprise Integrator Developer - V6](https://wso2.com/training/certification/certified-enterprise-integrator6-developer/) - Validates your ability to develop, deploy, and manage integration solutions using WSO2 Enterprise Integrator V6, including knowledge of its components, such as the ESB profile, Message Broker, and Business Process Server.
 - [WSO2 Certified Enterprise Integrator Developer - V7 - Micro Integrator](https://wso2.com/training/certification/certified-enterprise-integrator-developer-micro-integrator/) - Validates your knowledge and skills in using the Micro Integrator profile of WSO2 Enterprise Integrator V7 to develop, deploy, and manage integration solutions.
 - [WSO2 Certified Enterprise Integrator Developer - V7 - Streaming Integrator](https://wso2.com/training/certification/certified-enterprise-integrator-developer-streaming-integrator/) - Demonstrates your expertise in using the Streaming Integrator profile of WSO2 Enterprise Integrator V7 to develop, deploy, and manage real-time data integration and streaming analytics solutions.
 - [WSO2 Certified Enterprise Integrator Expert - V6](https://wso2.com/training/certification/certified-enterprise-integrator6-expert/) - Tests your in-depth knowledge and skills in using WSO2 Enterprise Integrator V6 for complex integration scenarios, including best practices, troubleshooting, and performance tuning.

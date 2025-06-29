@@ -147,6 +147,7 @@ To stay up-to-date, consider subscribing to all or some of the below resources. 
 
 - [Deconstructor of Fun](https://www.deconstructoroffun.com/) - Not directly production related, but offers in-depth analysis on recent gamedev events, e.g. Brawl Stars ditching lootboxes: why, how and what was the outcome. You want to know about things like this when leading the production of your next mobile action game. And they also have a [podcast](https://pca.st/5tK0).
 - [The GameDiscoverCo Newsletter](https://newsletter.gamediscover.co/) - Focused<a name="gamediscoverco"></a> on the business side of game production and game discoverability, their in-depth analysis on Steam-related topics is gold. Must-read.
+- [Lead52](https://getlead52.com/) - Weekly newsletter on leadership, which is concise and thought-provoking. It's not going to dump a ton of information on you but rather spark ideas on how you can grow as a leader.
 
 ### Podcasts
 
