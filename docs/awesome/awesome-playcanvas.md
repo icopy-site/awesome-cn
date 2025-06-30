@@ -215,6 +215,7 @@
 - [DiffStudio](https://diffstudio.co) - Create digital twins of e-commerce products.
 - [Doly](https://www.animl.ai/) - Capture high-quality 3D photos of your products and embed them on Shopify in minutes.
 - [GSplat Share](https://gsplat.org/) – Share your splats with optional time-limited and password-protected links.
+- [Old Main](https://www.ryanfellers.com/oldmain/) - The Public Library of Cincinnati's Grand Hall as it appeared in 1900.
 - [Prewatch](https://www.prewatch.io/) - Smart virtual scouting for better decisions.
 - [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
 - [The Season](https://adnfamily.com/studio/mj/the_season/immersive/index.html) - Real estate visualization of a modern apartment block.
