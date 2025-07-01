@@ -125,6 +125,7 @@
 
 - [OpenTofu Language Server](https://github.com/opentofu/tofu-ls) - OpenTofu Language Server.
 - [VS Code Extension](https://open-vsx.org/extension/OpenTofu/vscode-opentofu) - Extension for Visual Studio Code with the OpenTofu Language Server adds editing features for OpenTofu files such as syntax highlighting, IntelliSense, code navigation, code formatting, module explorer.
+- [zed Extension](https://github.com/ashpool37/zed-extension-opentofu) - Extension for the Zed Editor.
 - [terratag](https://github.com/env0/terratag) - CLI tool allowing for tags or labels to be applied across an entire set of OpenTofu/Terraform files.
 - [tfupdate](https://github.com/minamijoyo/tfupdate) - Update version constraints in your Terraform / OpenTofu configurations.
 

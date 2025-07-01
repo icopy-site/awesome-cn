@@ -383,6 +383,7 @@ become an Angular expert.
 * [CodeSage AI](https://github.com/kd-akshay/code-quality-analyzer) - Analyzes code quality of React, Vue, and Angular projects using linters and an LLM.
 * [angular-mcp-server](https://github.com/SAIPRANAY-GANGULA/angular-mcp-server) - A Model Context Protocol (MCP) server that provides comprehensive access to Angular documentation, enabling AI assistants to search and retrieve Angular-related information with intelligent relevance scoring.
 * [gitingest](https://gitingest.com/) - Turn any Git repository into a simple text digest of its codebase. This is useful for feeding a codebase into any LLM.
+* [context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors.
 
 #### Analytics
 
@@ -406,6 +407,7 @@ become an Angular expert.
 * [@luzmo/ngx-embed](https://www.npmjs.com/package/@luzmo/ngx-embed) - A library for embedding [Luzmo](https://www.luzmo.com/) dashboards in your Angular application.
 * [opentelemetry-angular-interceptor](https://github.com/jufab/opentelemetry-angular-interceptor) - A library to deploy [OpenTelemetry](https://opentelemetry.io/) in your Angular application.
 * [ng-webdatarocks](https://github.com/WebDataRocks/ng-webdatarocks) - This repository contains the source code of the Angular wrapper for [WebDataRocks](https://www.webdatarocks.com/).  Follow this [example](https://github.com/WebDataRocks/pivot-angular) to integrate the WebDataRocks web reporting tool.
+* [ngx-amplitude](https://github.com/th3n00bc0d3r/ngx-amplitude) - A library that provides an easy-to-use interface for integrating [Amplitude](https://amplitude.com/) analytics into your Angular 18+ standalone applications. It includes a global initialization module and a service for logging events.
 
 #### Authentication
 
@@ -498,6 +500,7 @@ become an Angular expert.
 * [dotairc](https://github.com/elecash/dotairc) - This tool helps create consistent instructions for AI assistants working with your codebase.
 * [lin](https://github.com/yuo-app/lin) - Lazy I18N is a CLI tool that translates locale JSONs using LLMs.
 * [ngx-i18n-scan](https://github.com/pratiksonone/ngx-i18n-scan) - A powerful CLI tool for scanning Angular source code and managing i18n translation keys. It automatically extracts keys from your project and keeps your translation files (like en.json) clean and updated.
+* [ns-gc](https://github.com/th3n00bc0d3r/ns-gc) - A lightweight command-line tool to generate standalone NativeScript Angular components and Angular services with clean structure and zero config.
 
 #### Deployment
 
