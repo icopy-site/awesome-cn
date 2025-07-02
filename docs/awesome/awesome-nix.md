@@ -148,6 +148,7 @@
 * [services-flake](https://github.com/juspay/services-flake) - A NixOS-like service configuration framework for Nix flakes.
 * [Snowfall Lib](https://github.com/snowfallorg/lib) - A library that makes it easy to manage your Nix flake by imposing an opinionated file structure.
 * [templates](https://github.com/nix-community/templates) - Project templates for many languages using Nix flakes.
+* [treefmt-nix](https://github.com/numtide/treefmt-nix) - A formatter that allows formatting all your project files with a single command, all via a single `.nix` file.
 
 ## DevOps
 
@@ -255,7 +256,7 @@
 * [NixVim](https://github.com/nix-community/nixvim) - A NeoVim distribution built with Nix modules and Nixpkgs.
 * [Self Host Blocks](https://github.com/ibizaman/selfhostblocks) - Modular server management based on NixOS modules and focused on best practices.
 * [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) - A complete mailserver, managed with NixOS modules.
-* [Stylix](https://github.com/danth/stylix) - System-wide colorscheming and typography for NixOS.
+* [Stylix](https://github.com/nix-community/stylix) - System-wide colorscheming and typography for NixOS.
 * [nix-bitcoin](https://github.com/fort-nix/nix-bitcoin) - Modules and packages for Bitcoin nodes with higher-layer protocols with an emphasis on security.
 * [nix-mineral](https://github.com/cynicsketch/nix-mineral) - Conveniently and reasonably harden NixOS.
 * [nix-topology](https://github.com/oddlama/nix-topology) - Generate infrastructure and network diagrams directly from your NixOS configuration.
