@@ -37,13 +37,19 @@ This is a curated list of slash-commands, `CLAUDE.md` files, CLI tools, and othe
 
 Claude Code is a cutting-edge CLI-based coding assistant and agent that you can access in your terminal or IDE. It is a rapidly evolving tool that offers a number of powerful capabilities, and allows for a lot of configuration, in a lot of different ways. Users are actively working out best practices and workflows. It is the hope that this repo will help the community share knowledge and understand how to get the most out of Claude Code.
 
+### Announcements
+
+- 2025-07-04: Added new section for Claude Code _hooks_!
+- 2025-07-04: The new contribution system/CI/CD is under repair, if you want to submit something just put together a clear and tidy PR, if the CI messes things up a bit, I'll take care of it for now, should be back up and running by end of week.
+
 <br>
 
 
-▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Workflows & Knowledge Guides](#workflows--knowledge-guides)  
-▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tooling](#tooling)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[IDE Integrations](#ide-integrations)  
-▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Slash-Commands](#slash-commands)  
+▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Workflows & Knowledge Guides](#workflows--knowledge-guides-)  
+▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tooling](#tooling-)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[IDE Integrations](#ide-integrations-)  
+▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Hooks](#hooks-)  
+▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Slash-Commands](#slash-commands-)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Version Control & Git](#version-control--git)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Code Analysis & Testing](#code-analysis--testing)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Context Loading & Priming](#context-loading--priming)  
@@ -51,14 +57,14 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent that you can 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CI / Deployment](#ci--deployment)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Project & Task Management](#project--task-management)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Miscellaneous](#miscellaneous)  
-▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CLAUDE.md Files](#claudemd-files)  
+▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CLAUDE.md Files](#claudemd-files-)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Language-Specific](#language-specific)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Domain-Specific](#domain-specific)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Project Scaffolding & MCP](#project-scaffolding--mcp)  
 
 <br>
 
-## Workflows & Knowledge Guides
+## Workflows & Knowledge Guides 🧠
 
 > A **workflow** is a tightly coupled set of Claude Code-native resources that facilitate specific projects
 
@@ -91,7 +97,7 @@ A pretty stunning list (88 at the time of this post!) of slash-commands ranging 
 
 <br>
 
-## Tooling
+## Tooling 🧰
 
 > **Tooling** denotes applications that are built on top of Claude Code and consist of more components than slash-commands and `CLAUDE.md` files
 
@@ -101,7 +107,7 @@ Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing 
 [`Claude Code Flow`](https://github.com/ruvnet/claude-code-flow) by [ruvnet](https://github.com/ruvnet) ⚖️ MIT  
 This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
 
-[`Claude Composer`](https://github.com/possibilities/claude-composer) by [Mike Bannister](https://github.com/possibilities)  
+[`Claude Composer`](https://github.com/possibilities/claude-composer) by [Mike Bannister](https://github.com/possibilities) ⚖️ Unlicense  
 A tool that adds small enhancements to Claude Code.
 
 [`Claude Hub`](https://github.com/claude-did-this/claude-hub) by [Claude Did This](https://github.com/claude-did-this)  
@@ -113,13 +119,13 @@ Claude Squad is a terminal app that manages multiple Claude Code, Codex (and oth
 [`Claude Swarm`](https://github.com/parruda/claude-swarm) by [parruda](https://github.com/parruda) ⚖️ MIT  
 Launch Claude Code session that is connected to a swarm of Claude Code Agents.
 
-[`Claude Task Master`](https://github.com/eyaltoledano/claude-task-master) by [eyaltoledano](https://github.com/eyaltoledano) ⚖️ MIT  
+[`Claude Task Master`](https://github.com/eyaltoledano/claude-task-master) by [eyaltoledano](https://github.com/eyaltoledano) ⚖️ NOASSERTION  
 A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
 
 [`Container Use`](https://github.com/dagger/container-use) by [dagger](https://github.com/dagger) ⚖️ Apache-2.0  
 Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 
-### IDE Integrations
+### IDE Integrations 💻
 
 [`claude-code.el`](https://github.com/stevemolitor/claude-code.el) by [stevemolitor](https://github.com/stevemolitor) ⚖️ Apache-2.0  
 An Emacs interface for Claude Code CLI.
@@ -129,7 +135,18 @@ A seamless integration between Claude Code AI assistant and Neovim.
 
 <br>
 
-## Slash-Commands
+## Hooks 🪝
+
+> **Hooks** are a brand new API for Claude Code that allows users to activate commands and run scripts at different points in Claude's agentic lifecycle.
+
+**[EXPERIMENTAL]** - The resources listed in this section have not been fully vetted and may not work as expected, given the bleeding-edge nature of Claude Code hooks. Nevertheless, I wished to include them at least as a source of inspiration and to explore this unknown terrain. YMMV!
+
+[`claude-code-hooks-sdk`](https://github.com/beyondcode/claude-hooks-sdk) by [beyondcode](https://github.com/beyondcode) ⚖️ MIT  
+A Laravel-inspired PHP SDK for building Claude Code hook responses with a clean, fluent API. This SDK makes it easy to create structured JSON responses for Claude Code hooks using an expressive, chainable interface.
+
+<br>
+
+## Slash-Commands 🔪
 
 ### Version Control & Git
 
@@ -180,11 +197,14 @@ Addresses code formatting and quality issues by fixing black formatting problems
 [`/code_analysis`](https://github.com/kingler/n8n_agent/blob/main/.claude/commands/code_analysis.md) by [kingler](https://github.com/kingler)  
 Provides a menu of advanced code analysis commands for deep inspection, including knowledge graph generation, optimization suggestions, and quality evaluation.
 
-[`/tdd-implement`](https://github.com/jerseycheese/Narraitor/blob/feature/issue-227-ai-suggestions/.claude/commands/tdd-implement.md) by [jerseycheese](https://github.com/jerseycheese) ⚖️ MIT  
-Implements Test-Driven Development by analyzing feature requirements, creating tests first (red), implementing minimal passing code (green), and refactoring while maintaining tests.
+[`/optimize`](https://github.com/to4iki/ai-project-rules/blob/main/.claude/commands/optimize.md) by [to4iki](https://github.com/to4iki) ⚖️ MIT  
+Analyzes code performance to identify bottlenecks, proposing concrete optimizations with implementation guidance for improved application performance.
 
-[`/testing_plan_integration`](https://github.com/buster-so/buster/blob/main/api/.claude/commands/testing_plan_integration.md) by [buster-so](https://github.com/buster-so) ⚖️ MIT  
-Creates inline Rust-style tests, suggests refactoring for testability, analyzes code challenges, and creates comprehensive test coverage for robust code.
+[`/repro-issue`](https://github.com/rzykov/metabase/blob/master/.claude/commands/repro-issue.md) by [rzykov](https://github.com/rzykov) ⚖️ NOASSERTION  
+Creates reproducible test cases for GitHub issues, ensuring tests fail reliably and documenting clear reproduction steps for developers.
+
+[`/tdd`](https://github.com/zscott/pane/blob/main/.claude/commands/tdd.md) by [zscott](https://github.com/zscott)  
+Guides development using Test-Driven Development principles, enforcing Red-Green-Refactor discipline, integrating with git workflow, and managing PR creation.
 
 ### Context Loading & Priming
 
@@ -276,7 +296,7 @@ Reformats documentation to use React Stepper component, transforming heading for
 
 <br>
 
-## CLAUDE.md Files
+## CLAUDE.md Files 📂
 
 > **`CLAUDE.md` files** are files that contain important guidelines and context-specfic information or instructions that help Claude Code to better understand your project and your coding standards
 
@@ -366,13 +386,13 @@ Offers clear step-by-step installation instructions with multiple configuration 
 
 <br>
 
-## Official Documentation
+## Official Documentation 🏛️
 
 > Links to some of Anthropic's terrific documentation and resources regarding Claude Code
 
 <!--lint disable double-link-->
 
-[`Anthropic Documentation`](https://docs.anthropic.com/en/docs/claude-code) by [Anthropic](https://github.com/anthropics)  &copy;  
+[`Anthropic Documentation`](https://docs.anthropic.com/en/docs/claude-code) by [Anthropic](https://github.com/anthropics) ⚖️ &copy;  
 The official documentation for Claude Code, including installation instructions, usage guidelines, API references, tutorials, examples, loads of information that I won't list individually. Like Claude Code, the documentation is frequently updated.
 
 [`Anthropic Quickstarts`](https://github.com/anthropics/anthropic-quickstarts/blob/main/CLAUDE.md) by [Anthropic](https://github.com/anthropics) ⚖️ MIT  
@@ -380,7 +400,7 @@ Offers comprehensive development guides for three distinct AI-powered demo proje
 
 <br>
 
-## Contributing
+## Contributing 🌻
 
 Please note that this project is released with a [Contributor Code of Conduct](https://github.com/hesreallyhim/awesome-claude-code/blob/master/code-of-conduct.md). By participating in this project you agree to abide by its terms.
 

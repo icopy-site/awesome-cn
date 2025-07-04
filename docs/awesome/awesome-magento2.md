@@ -86,6 +86,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 - [n98-magerun2](https://github.com/netz98/n98-magerun2) - The CLI Swiss Army Knife for Magento 2.
 - [RabbitMQ Retry Mechanism](https://github.com/run-as-root/magento2-message-queue-retry) - Magento 2 extension that brings possibility to retry RabbitMQ failed messages
+- [MageForge](https://github.com/OpenForgeProject/mageforge) - Magento 2 Cli automatic Theme(s) Builder (Hyvä ready)
 - [Documentation Search for Alfred](https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search) - Easily
   integrate the official Magento 2 Search into your Alfred Workflows.
 - [Tablerates Generator](https://www.tableratesgenerator.com/) - Generate Tablerates with an online Tool.

@@ -126,6 +126,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 ## Blogs
 
+- [Aardling Blog](https://aardling.eu/en/insights) - DDD and software design articles from Mathias Verraes and others.
 - [Nick Chamberlain](https://buildplease.com) - Helpful development and design advice for .NET developers.
 - [Ardalis.com](https://ardalis.com/blog) - Steve Smith. Pluralsight author and author of [DDD Fundamentals](https://www.pluralsight.com/courses/domain-driven-design-fundamentals) course and Microsoft [eShopOnWeb sample app](https://github.com/dotnet-architecture/eShopOnWeb).
 - [DDD Weekly](http://dddweekly.com) - Weekly curated links related to DDD/CQRS/ES.
@@ -198,8 +199,10 @@ The term was coined by Eric Evans in his book of the same title.
 - [Fohjin](https://github.com/MarkNijhof/Fohjin) - Example project that accompanies Mark Nijhof's [CQRS](https://leanpub.com/cqrs) book.
 - [FsUno](https://github.com/thinkbeforecoding/FsUno) - Event sourcing implementation sample in F#.
 - [IDDD Samples in .NET](https://github.com/VaughnVernon/IDDD_Samples_NET) - These are the sample Bounded Contexts for C#.NET from the book "Implementing Domain-Driven Design" by Vaughn Vernon.
+- [LexiQuest-Modular-DDD](https://github.com/ryletko/LexiQuest-Modular-DDD) - Modular application built with Clean Architecture and DDD principles which is ready to quickly get splitted into microserves.
 - [Microsoft Patterns and Practices: CQRS Journey Sample Code](https://github.com/mspnp/cqrs-journey) - Sample code from CQRS Journey.
 - [Modular Monolith](https://github.com/kgrzybek/modular-monolith-with-ddd) - Full Modular Monolith .NET application with Domain-Driven Design approach.
+- [Modular.StarterTemplate](https://github.com/ryletko/Modular.StarterTemplate) - Starter template for a modular application in Clean Architecture DDD style with synchronous interaction between modules within single transaction. Perfect for ERP applications.
 - [NLayerAppV3](https://github.com/cesarcastrocuba/nlayerappv3) (.Net Core Preview 2) - a N-Layered Architecture Sample Project.
 - [Photostock CQRS-DDD Example](https://github.com/mr0zek/Photostock)
 - [Reactive Trader Cloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Reactive Trader Cloud by Adaptive Consulting.
@@ -238,8 +241,8 @@ The term was coined by Eric Evans in his book of the same title.
 - [https://github.com/felipexw/clean-arch-ddd-intro](https://github.com/felipexw/clean-arch-ddd-intro) - Simple DDD + Clean Architecture using Micronaut.
 
 ### PHP
-- [CodefyPHP Framework](https://github.com/codefyphp/codefy) - A PHP framework for codefying and building complex applications using Domain-Driven Design, CQRS, and Event Sourcing.
 - [DDD CQRS Todo Sample](https://github.com/ferrius/ddd-cqrs-example) - DDD CQRS ADR hexagonal architecture implementation built with PHP 7 and Symfony 5.
+- [DDD Modulith](https://github.com/janikredpandadev/ddd-modulith) - A DDD Onion Architecture implementation with Symfony 7 as modulith. 
 - [DDD Wish List](https://github.com/franzose/symfony-ddd-wishlist) - A sample application in PHP built with Symfony 3 and Vue.js.
 - [DDD Playground](https://github.com/jorge07/ddd-playground/) - Sample implementation in PHP.
 - [Eric Evans DDD Cargo Sample](https://github.com/codeliner/php-ddd-cargo-sample) - PHP 7 Version of the cargo sample used in Eric Evans DDD book
@@ -284,6 +287,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Streamstone](https://github.com/yevhen/Streamstone) - Event Store for Azure Table Storage.
 - [Stringly.Typed](https://github.com/mission202/Stringly.Typed) - Making it easier to convert strings to/from .NET types.
 - [Xer.Cqrs](https://github.com/jeyjeyemem/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
+- [Deveel Repository](https://github.com/deveel/deveel.repository) - A simple implementation of the Repository pattern for .NET, supporting MongoDB and Entity Framework, extending the model with further utilities (caching, paging, validation, etc.).
 
 ### Databases
 - [Event Store](https://geteventstore.com) - The open-source, functional database with Complex Event Processing in JavaScript.
@@ -317,6 +321,7 @@ The term was coined by Eric Evans in his book of the same title.
 
 ### PHP
 - [Broadway](https://github.com/broadway/broadway) - Broadway is a (PHP) project providing infrastructure and testing helpers for creating CQRS and event sourced applications.
+- [CodefyPHP Framework](https://github.com/codefyphp/) - A PHP framework for codefying and building complex applications using Domain-Driven Design, CQRS, and Event Sourcing.
 - [Ecotone](http://ecotone.tech) - Enables message driven architecture in PHP and provides building blocks to follow DDD and CQRS principles.
 - [PHP Glossary](https://github.com/javanile/php-glossary) - Apply a Term Analysis to extract domain terms vs out-of-scope terms in a DDD manner.
 
