@@ -152,6 +152,15 @@ System integration is the process of linking together different IT systems (com
 
 <!--lint disable-->
 <!--lint enable-->
+### Change Data Capture
+*Change Data Capture (CDC) solutions enable real-time identification and capture of changes made to data in databases, data warehouses, and other data sources. These tools continuously monitor data changes and propagate them to downstream systems, enabling real-time data synchronization, event-driven architectures, and maintaining data consistency across distributed systems. CDC is essential for modern data architectures, microservices, and real-time analytics.*
+- [Debezium (⭐11k)](https://github.com/debezium/debezium) - Open-source distributed platform for change data capture that turns your existing databases into event streams for real-time data integration.
+- [IBM InfoSphere CDC](https://www.ibm.com/products/infosphere-change-data-capture) - Enterprise CDC solution that captures and delivers data changes with minimal impact on source systems and low latency.
+- [Oracle GoldenGate](https://www.oracle.com/integration/goldengate/) - Enterprise-grade real-time data integration and replication solution that provides comprehensive CDC capabilities for heterogeneous databases and cloud platforms.
+- [Qlik Replicate](https://www.qlik.com/us/products/qlik-replicate) - Universal data replication software that provides real-time CDC capabilities for modern data architecture and analytics.
+
+<!--lint disable-->
+<!--lint enable-->
 ### ESB
 *Enterprise Service Bus (ESB) solutions facilitate the integration of disparate systems and applications by providing a communication layer that allows them to exchange information. ESBs offer a range of capabilities such as message routing, transformation, protocol conversion, and data mediation. They typically support various messaging patterns and communication protocols and provide a centralized platform for managing and monitoring message traffic.*
 - [Anypoint Platform](https://www.mulesoft.com/platform/enterprise-integration) - Comprehensive integration solution that leverages robust ESB capabilities to connect and orchestrate disparate systems.

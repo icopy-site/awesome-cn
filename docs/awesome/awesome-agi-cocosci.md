@@ -581,6 +581,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 
 * [A domain‑specifc language framework for farm management information systems in precision agriculture](https://link.springer.com/article/10.1007/s11119-020-09770-y) - ***Precision Agriculture***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=1495954486695213496)]. This paper proposes a domain-specific language framework for the design and development of precision-agriculture FMISs, which copes with challenges on supporting the understandability, enhancing communication and analysis of the design decisions, and the communication among stakeholders.
 
+
  
 * [Corel: A DSL for Cooking Recipes](https://fse.studenttheses.ub.rug.nl/25731/) - 2021. [[All Versions](https://scholar.google.com/scholar?cluster=9477049800574267813)]. [[Corel recipe page](https://roorda.dev/recipes/0)]. [[International Network of Food Data Systems (INFOODS)](https://www.fao.org/infoods/infoods/tables-and-databases/faoinfoods-databases/en/)]. The Corel DSL for cooking recipes enables understanding of and computation with ingredients, and can construct a nutrition label for the recipe.
 
