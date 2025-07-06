@@ -18,7 +18,7 @@ System integration is the process of linking together different IT systems (com
 - [Azure API Management](https://azure.microsoft.com/en-us/services/api-management/) - A hybrid, multicloud solution that simplifies API lifecycle management with comprehensive security and analytics.
 - [Boomi Cloud API Management](https://developer.mashery.com/) - A cloud-native platform enabling seamless API deployment and centralized management with strong integration capabilities.
 - [DigitMarket API Manager](https://www.torryharris.com/products/digitmarket-api-manager-for-api-management) - Transforms APIs into strategic business tools through end-to-end lifecycle management and enhanced operational insights.
-- [Gravitee.io API Management (⭐270)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
+- [Gravitee.io API Management (⭐271)](https://github.com/gravitee-io/gravitee-api-management) - A lightweight, open-source platform offering flexible API governance, robust security, and straightforward configuration.
 - [IBM API Connect](https://www.ibm.com/cloud/api-connect) - Provides a scalable, secure, and intuitive environment for creating, managing, and monetizing APIs across clouds.
 - [IBM webMethods API Management](https://www.ibm.com/products/webmethods-api-management) - Offers a comprehensive suite for API lifecycle management that seamlessly integrates on-premises and cloud systems.
 - [Kong Enterprise](https://konghq.com/products/kong-enterprise) - A cloud-native, enterprise-grade solution that enhances API connectivity, microservices orchestration, and security via a rich plugin architecture.
@@ -32,9 +32,10 @@ System integration is the process of linking together different IT systems (com
 <!--lint enable-->
 ### API Design
 *API design, documentation, and life-cycle automation tools streamline the process of creating, maintaining, and evolving APIs. These tools offer efficient means to design consistent and scalable APIs, generate comprehensive documentation, and automate various stages of the API life-cycle, enhancing developer experience and promoting API adoption.*
+- [Apicurio Studio (⭐1k)](https://github.com/apicurio/apicurio-studio) - A web-based, open-source API design tool that leverages the OpenAPI specification.
 - [Dredd (⭐4.2k)](https://github.com/apiaryio/dredd) - Validate API description docs against backend implementation using this language-agnostic CLI tool.
 - [OpenAPI-GUI (⭐1.4k)](https://github.com/Mermade/openapi-gui) - Create and validate OpenAPI specs with ease using this intuitive graphical user interface.
-- [OpenAPI Diff (⭐942)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
+- [OpenAPI Diff (⭐945)](https://github.com/OpenAPITools/openapi-diff) - Compare OpenAPI specs with version control and visualize the differences in HTML or Markdown format.
 - [OpenAPI Generator (⭐24k)](https://github.com/OpenAPITools/openapi-generator) - Automate the creation of API client libraries, server stubs, documentation and config files with this powerful OpenAPI Spec tool.
 - [OpenAPI Style Validator (⭐218)](https://github.com/OpenAPITools/openapi-style-validator) - Ensure that your OpenAPI specs meet your organization's standards with this flexible and customizable style validator.
 - [Spectral (⭐2.7k)](https://github.com/stoplightio/spectral) - Detect and fix errors in your JSON/YAML files using this linter tool that supports OpenAPI 3.0 & 2.0 and AsyncAPI.
@@ -54,7 +55,7 @@ System integration is the process of linking together different IT systems (com
 - [SwaggerHub](https://swagger.io/tools/swaggerhub/) - An integrated API design and documentation hub that enhances team collaboration, version control, and automated testing.
 - [Swagger UI (⭐27k)](https://github.com/swagger-api/swagger-ui) - Offers an interactive, in-browser tool for visualizing and testing APIs directly from OpenAPI specifications.
 - [SpectaQL (⭐1.1k)](https://github.com/anvilco/spectaql) - Generates static, customizable documentation for GraphQL schemas, making complex API structures easy to understand.
-- [Zudoku (⭐247)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
+- [Zudoku (⭐251)](https://github.com/zuplo/zudoku) - A customizable framework built on OpenAPI, focused on delivering exceptional developer experiences through quality documentation.
 
 <!--lint disable-->
 <!--lint enable-->
@@ -64,7 +65,8 @@ System integration is the process of linking together different IT systems (com
 - [Ambassador Edge Stack](https://www.getambassador.io/products/edge-stack/api-gateway/) - A Kubernetes-native API gateway designed for high-scale environments with flexible routing and advanced security features.
 - [Apache APISIX (⭐15k)](https://github.com/apache/apisix) - A high-performance, dynamic gateway featuring real-time traffic management and powerful plugin integrations.
 - [Apache ShenYu (⭐8.6k)](https://github.com/apache/shenyu) - A Java-native gateway excelling in protocol conversion, service proxying, and comprehensive API governance.
-- [Gloo Edge (⭐104)](https://github.com/solo-io/gloo) - An Envoy Proxy–based gateway offering advanced traffic control, enhanced security, and observability for microservices ecosystems.
+- [Envoy Gateway (⭐1.9k)](https://github.com/envoyproxy/gateway) - CNCF Envoy-based gateway with Gateway API, mTLS, JWT, and other built-ins.
+- [Gloo Edge (⭐105)](https://github.com/solo-io/gloo) - An Envoy Proxy–based gateway offering advanced traffic control, enhanced security, and observability for microservices ecosystems.
 - [Kong API Gateway (⭐41k)](https://github.com/Kong/kong) - A scalable, cloud-native gateway that simplifies API management through extensive plugin support and seamless microservices integration.
 - [KrakenD API Gateway (⭐2.2k)](https://github.com/devopsfaith/krakend-ce) - An ultra-high performance gateway with efficient middleware configuration, robust security, and seamless scaling.
 - [Ocelot (⭐8.5k)](https://github.com/ThreeMammals/Ocelot) - A .NET-based gateway offering intuitive routing and easy integration for lightweight API management.
@@ -81,7 +83,7 @@ System integration is the process of linking together different IT systems (com
    - [Bruno (⭐35k)](https://github.com/usebruno/bruno) - A fast, offline API client designed for git-friendly workflows and seamless testing.
    - [curl (⭐38k)](https://github.com/curl/curl) - A versatile command-line tool for data transfer across multiple protocols, essential for quick API testing.
    - [curlie (⭐3.2k)](https://github.com/rs/curlie) - A modern, user-friendly frontend to curl that combines simplicity with powerful performance.
-   - [HTTPie (⭐35k)](https://github.com/httpie/httpie) - An intuitive CLI HTTP client that simplifies crafting API requests and inspecting responses.
+   - [HTTPie (⭐36k)](https://github.com/httpie/httpie) - An intuitive CLI HTTP client that simplifies crafting API requests and inspecting responses.
    - [HttpMaster](https://www.httpmaster.net/) - Free and lightweight desktop tool for HTTP testing and debugging.
    - [Hoppscotch (⭐72k)](https://github.com/hoppscotch/hoppscotch) - A lightweight, web-based API development tool offering real-time testing with an intuitive interface.
    - [Insomnia (⭐36k)](https://github.com/Kong/insomnia) - A cross-platform client that streamlines API debugging and testing for both REST and GraphQL services.
@@ -100,8 +102,8 @@ System integration is the process of linking together different IT systems (com
    - [Imposter (⭐391)](https://github.com/outofcoffee/imposter) - A flexible mock server supporting REST, OpenAPI, SOAP, and more to simulate diverse API behaviors.
    - [Microcks (⭐1.6k)](https://github.com/microcks/microcks) - A Kubernetes-native tool for API mocking and testing that supports AsyncAPI, OpenAPI, and Postman Collections.
    - [Mockable](https://www.mockable.io/) - An easy-to-configure service for creating custom HTTP responses, ideal for rapid prototyping and testing.
-   - [Mockbin (⭐111)](https://github.com/zuplo/mockbin) - A simple endpoint generator for testing HTTP requests with real-time logging and feedback.
-   - [Mockoon (⭐7.3k)](https://github.com/mockoon/mockoon) - A user-friendly tool for designing and running mock REST APIs with real-time simulation and easy setup.
+   - [Mockbin (⭐112)](https://github.com/zuplo/mockbin) - A simple endpoint generator for testing HTTP requests with real-time logging and feedback.
+   - [Mockoon (⭐7.4k)](https://github.com/mockoon/mockoon) - A user-friendly tool for designing and running mock REST APIs with real-time simulation and easy setup.
    - [MockServer (⭐4.7k)](https://github.com/mock-server/mockserver) - A powerful solution for mocking any HTTP/HTTPS-based service, streamlining integration testing.
    - [Mocky (⭐2k)](https://github.com/MockyAbstract/Mocky) - A free online service that generates custom HTTP responses for testing API endpoints.
    - [Prism (⭐4.6k)](https://github.com/stoplightio/prism) - An open-source HTTP mock server that replicates API behavior for early testing and validation.
@@ -109,6 +111,7 @@ System integration is the process of linking together different IT systems (com
 - Testing tools and frameworks
    - [Apache JMeter (⭐8.8k)](https://github.com/apache/jmeter) - A feature-rich tool for load testing and performance analysis across diverse web applications and services.
    - [Gatling (⭐6.7k)](https://github.com/gatling/gatling) - A powerful load testing framework with a developer-friendly DSL that delivers detailed performance metrics.
+   - [Grafana k6 (⭐28k)](https://github.com/grafana/k6) - Open-source, JS-scriptable load-testing tool for CI/CD.
    - [Karate (⭐8.5k)](https://github.com/karatelabs/karate) - A unified testing framework that merges API automation, mocking, and performance testing with simple, expressive syntax.
    - [Pyresttest (⭐1.1k)](https://github.com/svanoort/pyresttest) - A Python-based testing tool offering easy YAML/JSON-driven REST API testing and microbenchmarking.
    - [REST Assured (⭐6.9k)](https://github.com/rest-assured/rest-assured) - A Java DSL that simplifies REST API testing with intuitive syntax and seamless integration into CI pipelines.
@@ -127,6 +130,7 @@ System integration is the process of linking together different IT systems (com
 - [OpenL Tablets (⭐172)](https://github.com/openl-tablets/openl-tablets) - Flexible open-source decision management system that simplifies defining and executing business rules and decision tables.
 - [Progress Corticon](https://www.progress.com/corticon) - Model-driven BRMS enabling rapid, no-code rule creation that delivers high-performance automated decisions with guaranteed integrity.
 - [Red Hat Decision Manager](https://access.redhat.com/products/red-hat-decision-manager) - Enterprise-class decision platform built on Drools, offering advanced DMN support, intuitive UIs, and high availability for large-scale automation.
+- [ZEN Engine (⭐1.1k)](https://github.com/gorules/zen) - A cross-platform, open-source Business Rules Engine written in Rust that executes JSON Decision Models through interconnected graphs of decision tables, functions, and expressions.
 
 <!--lint disable-->
 <!--lint enable-->
@@ -152,10 +156,11 @@ System integration is the process of linking together different IT systems (com
 
 <!--lint disable-->
 <!--lint enable-->
-### Change Data Capture
+### CDC
 *Change Data Capture (CDC) solutions enable real-time identification and capture of changes made to data in databases, data warehouses, and other data sources. These tools continuously monitor data changes and propagate them to downstream systems, enabling real-time data synchronization, event-driven architectures, and maintaining data consistency across distributed systems. CDC is essential for modern data architectures, microservices, and real-time analytics.*
 - [Debezium (⭐11k)](https://github.com/debezium/debezium) - Open-source distributed platform for change data capture that turns your existing databases into event streams for real-time data integration.
 - [IBM InfoSphere CDC](https://www.ibm.com/products/infosphere-change-data-capture) - Enterprise CDC solution that captures and delivers data changes with minimal impact on source systems and low latency.
+- [Maxwell's daemon (⭐4.1k)](https://github.com/zendesk/maxwell) - An open-source CDC tool for MySQL that reads database binlogs and streams row-level changes as JSON to systems like Kafka, Kinesis, or other destinations.
 - [Oracle GoldenGate](https://www.oracle.com/integration/goldengate/) - Enterprise-grade real-time data integration and replication solution that provides comprehensive CDC capabilities for heterogeneous databases and cloud platforms.
 - [Qlik Replicate](https://www.qlik.com/us/products/qlik-replicate) - Universal data replication software that provides real-time CDC capabilities for modern data architecture and analytics.
 
@@ -174,7 +179,7 @@ System integration is the process of linking together different IT systems (com
 - [Red Hat Fuse](https://developers.redhat.com/products/fuse/overview) - Cloud-native integration platform that delivers distributed integration capabilities for agile, scalable connectivity.
 - [TIBCO BusinessWorks](https://www.tibco.com/products/tibco-businessworks) - Enterprise-grade integration platform implementing proven hybrid integration patterns for reliable data exchange.
 - [UltraESB](https://www.adroitlogic.com/products/ultraesb/) - High-performance ESB engineered for extreme throughput with zero-copy proxying and non-blocking IO techniques.
-- [WSO2 Enterprise Integrator (⭐383)](https://github.com/wso2/product-ei) - API-centric, cloud-native integration platform offering robust, distributed capabilities for modern software architectures.
+- [WSO2 Enterprise Integrator (⭐384)](https://github.com/wso2/product-ei) - API-centric, cloud-native integration platform offering robust, distributed capabilities for modern software architectures.
 
 <!--lint disable-->
 <!--lint enable-->
@@ -185,6 +190,7 @@ System integration is the process of linking together different IT systems (com
 - [Airbyte (⭐18k)](https://github.com/airbytehq/airbyte) - Flexible, open-source data integration platform that builds ELT pipelines to move data from diverse sources to modern destinations.
 - [CloverDX](https://www.cloverdx.com/) - Enterprise ETL suite offering robust data transformation and workflow orchestration for scalable integration.
 - [Estuary Flow (⭐762)](https://github.com/estuary/flow) - Versatile, scalable platform that provides both real-time and batch data integration for ETL and ELT pipelines.
+- [Fivetran](https://www.fivetran.com/) - Managed ELT that syncs 700 + sources to data warehouses.
 - [Hevo](https://hevodata.com/) - No-code, fully automated data pipeline platform that supports extensive integrations, simplifying complex data workflows.
 - [IBM DataStage](https://www.ibm.com/products/datastage) - Robust platform that cleanses, transforms, and delivers reliable data, empowering businesses with trusted insights.
 - [Informatica PowerCenter](https://www.informatica.com/products/data-integration/powercenter.html) - Enterprise-class solution that streamlines big data and cloud analytics through comprehensive data integration management.
@@ -236,6 +242,7 @@ System integration is the process of linking together different IT systems (com
 - [Alibaba Cloud Message Service](https://www.alibabacloud.com/product/message-service) - Distributed messaging service that ensures reliable data transfer between decoupled systems.
 - [AlibabaMQ for Apache RocketMQ](https://www.alibabacloud.com/product/mq) - Robust message queue service supporting asynchronous communication with high availability and durability.
 - [Anypoint MQ](https://www.mulesoft.com/platform/anypoint-mq-message-queue) - Enterprise-class messaging service integrated with Anypoint Platform for flexible and reliable message orchestration.
+- [Azure Event Hubs](https://azure.microsoft.com/en-us/products/event-hubs/) - A high-throughput, fully managed event-ingestion (publish-subscribe) service, supports the Kafka protocol natively.
 - [Azure Service Bus](https://azure.microsoft.com/en-us/services/service-bus/) - Cloud messaging solution that supports multiple patterns and protocols for robust enterprise integration.
 - [CloudAMQP](https://www.cloudamqp.com/) - Managed RabbitMQ service featuring an intuitive web console, advanced analytics, and seamless scalability.
 - [Confluent Cloud](https://www.confluent.io/confluent-cloud/) - Fully managed Kafka service offering enterprise features like schema registry, connectors, and governance.
@@ -252,7 +259,7 @@ System integration is the process of linking together different IT systems (com
 
 <!--lint disable-->
 <!--lint enable-->
-### Managed File Transfer
+### MFT
 *Managed File Transfer (MFT) solutions provide secure and reliable file transfer capabilities that help organizations meet regulatory compliance requirements, improve operational efficiency, and reduce the risk of data breaches. MFT software typically includes features such as encryption, digital signatures, user access controls, and detailed audit logs to ensure that data is transmitted securely and can be tracked throughout the transfer process.*
 - [ArcESB Managed File Transfer](https://www.arcesb.com/mft/) - Enterprise-grade MFT solution with an intuitive interface and powerful automation for streamlined file exchanges.
 - [Axway Managed File Transfer](https://www.axway.com/en/products/managed-file-transfer) - Robust platform offering advanced security and efficient, reliable data transfer across enterprise systems.
@@ -260,6 +267,7 @@ System integration is the process of linking together different IT systems (com
 - [GlobalSCAPE EFT](https://www.globalscape.com/eft) - Hardened file transfer server that ensures end-to-end encryption, automation, and compliance for mission-critical data.
 - [IBM Sterling Secure File Transfer](https://www.ibm.com/products/secure-file-transfer) - Scalable and high-performance MFT platform designed for secure, fast, and reliable file exchange.
 - [IBM webMethods MFT](https://www.ibm.com/products/webmethods-mft) - Integrated managed file transfer solution that supports flexible deployment across hybrid environments.
+- [JSCAPE MFT Server](https://www.jscape.com/products/file-transfer-servers/jscape-mft-server) - Secure, protocol-agnostic platform with automation and compliance.
 - [Oracle Managed File Transfer](https://www.oracle.com/middleware/technologies/mft/managed-file-transfer.html) - Comprehensive platform that simplifies secure file exchange and management for enterprise operations.
 - [Progress MOVEit](https://www.progress.com/moveit) - Secure, automated file transfer solution with guaranteed delivery, encryption, and compliance tools for regulated industries.
 - [TIBCO Managed File Transfer](https://www.tibco.com/products/tibco-managed-file-transfer) - Centralized MFT platform with robust automation and security features designed to support diverse file transfer scenarios.
@@ -267,8 +275,8 @@ System integration is the process of linking together different IT systems (com
 
 <!--lint disable-->
 <!--lint enable-->
-### Master Data Management
-*Master Data Management solutions help organizations create a single, authoritative source of accurate and consistent data across different systems, applications, and departments. These tools provide capabilities for data profiling, cleansing, enrichment, and governance, enabling organizations to improve data quality, reduce errors, and increase operational efficiency.*
+### MDM
+*Master Data Management (MDM) solutions help organizations create a single, authoritative source of accurate and consistent data across different systems, applications, and departments. These tools provide capabilities for data profiling, cleansing, enrichment, and governance, enabling organizations to improve data quality, reduce errors, and increase operational efficiency.*
 - [IBM InfoSphere Master Data Management](https://www.ibm.com/products/ibm-infosphere-master-data-management) - Comprehensive platform that centralizes data governance, ensuring consistency and accuracy across your enterprise.
 - [Informatica Multidomain MDM](https://www.informatica.com/products/master-data-management/multidomain-mdm.html) - Integrated solution for managing and governing master data across all domains, enhancing overall data quality.
 - [Oracle Enterprise Data Management](https://www.oracle.com/performance-management/enterprise-data-management/) - Robust tool that centralizes master data to support faster, more effective decision-making and operational agility.
@@ -284,7 +292,7 @@ System integration is the process of linking together different IT systems (com
 ### Messaging
 *Message brokers are a type of middleware that allows communication between different applications or systems by facilitating the exchange of messages. They can handle different messaging patterns, such as point-to-point, publish-subscribe, and request-reply, and provide features such as message transformation, routing, and filtering.*
 - [Apache ActiveMQ (⭐2.3k)](https://github.com/apache/activemq) - Open-source broker that implements JMS, enabling seamless conversion between synchronous and asynchronous messaging.
-- [Apache ActiveMQ Artemis (⭐972)](https://github.com/apache/activemq-artemis) - Next-generation message broker from Apache ActiveMQ with high performance, clustering support, and multi-protocol capabilities.
+- [Apache ActiveMQ Artemis (⭐971)](https://github.com/apache/activemq-artemis) - Next-generation message broker from Apache ActiveMQ with high performance, clustering support, and multi-protocol capabilities.
 - [Apache Kafka (⭐30k)](https://github.com/apache/kafka) - Distributed, high-throughput system designed for real-time data streaming and fault-tolerant processing.
 - [Apache Pulsar (⭐14k)](https://github.com/apache/pulsar) - Versatile pub/sub and streaming platform offering scalable, low-latency messaging for modern applications.
 - [Apache RocketMQ (⭐21k)](https://github.com/apache/rocketmq) - High-performance distributed messaging platform engineered for low latency and high throughput.
@@ -295,7 +303,7 @@ System integration is the process of linking together different IT systems (com
 - [EMQX (⭐14k)](https://github.com/emqx/emqx) - High-performance MQTT broker built for IoT and industrial applications, ensuring scalable message delivery.
 - [IBM MQ](https://www.ibm.com/products/mq) - Enterprise-grade messaging solution providing robust features, high availability, and multi-protocol support.
 - [KubeMQ](https://kubemq.io/) - Kubernetes-native message broker and queue system designed for scalability, high availability, and seamless cloud integration.
-- [LavinMQ (⭐746)](https://github.com/cloudamqp/lavinmq) - High-performance message queue server implementing AMQP 0-9-1 and MQTT protocols, built with Crystal for exceptional throughput and minimal resource usage.
+- [LavinMQ (⭐747)](https://github.com/cloudamqp/lavinmq) - High-performance message queue server implementing AMQP 0-9-1 and MQTT protocols, built with Crystal for exceptional throughput and minimal resource usage.
 - [NATS (⭐17k)](https://github.com/nats-io/gnatsd) - Lightweight, high-performance messaging system ideal for microservices and cloud-native architectures.
 - [NSQ (⭐25k)](https://github.com/nsqio/nsq) - Realtime distributed messaging platform designed to operate at scale, handling billions of messages per day with decentralized topology.
 - [Oracle AQ](https://www.oracle.com/database/technologies/advanced-queuing.html) - Integrated messaging solution within Oracle databases, offering reliable and efficient message delivery.
@@ -311,6 +319,9 @@ System integration is the process of linking together different IT systems (com
 *Robotic Process Automation (RPA) solutions are software tools that automate repetitive, rule-based tasks within business processes. RPA bots can perform tasks such as data entry, data extraction, and data processing with accuracy and speed, freeing up human workers to focus on more complex tasks.*
 - [Automation Anywhere](https://www.automationanywhere.com/) - Intelligent automation ecosystem that streamlines business processes and reduces errors through advanced RPA capabilities.
 - [Blue Prism](https://www.blueprism.com/products/intelligent-rpa-automation/) - No-code platform delivering robust, scalable automation to minimize manual tasks and boost productivity.
+- [OpenRPA (⭐2.6k)](https://github.com/open-rpa/openrpa) - Enterprise-grade, open-source robotic process automation suite. 
+- [Robot Framework (⭐10k)](https://github.com/robotframework/robotframework) - An open-source automation framework with human-friendly keyword syntax that enables both technical and non-technical users to create test scripts and automate business processes cost-effectively, supporting web, API, mobile, and database automation through extensive libraries and integrations.
+- [TagUI (⭐5.9k)](https://github.com/aisingapore/TagUI) - An open-source RPA tool that democratizes automation through natural language scripting in 20+ human languages, enabling non-programmers to automate web, desktop, and data tasks while integrating AI/ML capabilities via Python and R for intelligent process automation.
 - [Tungsten RPA](https://www.tungstenautomation.com/products/rpa) - AI-powered, no-code automation solution that enhances accuracy, efficiency, and compliance across workflows.
 - [UiPath](https://www.uipath.com/product) - Comprehensive RPA platform that automates routine tasks, enabling scalable digital transformation across enterprises.
 - [WorkFusion](https://www.workfusion.com/platform/) - Enterprise automation solution that combines RPA with intelligent automation to streamline complex workflows.
@@ -323,7 +334,7 @@ System integration is the process of linking together different IT systems (com
 - [IFTTT](https://ifttt.com/) - Easy-to-use platform that connects web services with simple conditional statements, empowering custom workflow creation.
 - [Make (Integromat)](https://www.make.com) - Low-code automation tool with a visual interface, advanced data transformation, and modular workflow execution.
 - [Microsoft Power Automate](https://powerautomate.microsoft.com) - Cloud-based service with an intuitive interface for creating automated workflows that seamlessly integrate diverse apps.
-- [n8n (⭐114k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
+- [n8n (⭐115k)](https://github.com/n8n-io/n8n) - Open-source workflow automation tool with 400+ connectors, giving you full control over your data and integrations.
 - [Oracle Self-Service Integration](https://docs.oracle.com/en/cloud/paas/self-service-integration-cloud/index.html) - Streamlined tool that automates tasks between cloud applications, making integration accessible for non-developers.
 - [Zapier](https://zapier.com/) - Intuitive platform that connects hundreds of web services to create efficient, code-free automations.
 
@@ -477,7 +488,7 @@ System integration is the process of linking together different IT systems (com
         - [Conditional Request](https://microservice-api-patterns.org/patterns/quality/dataTransferParsimony/ConditionalRequest) - How can unnecessary server-side processing and bandwidth usage be avoided when frequently invoking API operations that return rarely changing data?
         - [Request Bundle](https://microservice-api-patterns.org/patterns/quality/dataTransferParsimony/RequestBundle) - How can the number of requests and responses be reduced to increase communication efficiency?
 
-    - Quality Management and Governance        
+    - Quality Management and Governance        
         - [Pricing Plan](https://microservice-api-patterns.org/patterns/quality/qualityManagementAndGovernance/PricingPlan) - How can the API provider meter API service consumption and charge for it?
         - [Rate Limit](https://microservice-api-patterns.org/patterns/quality/qualityManagementAndGovernance/RateLimit) - How can the API provider prevent API clients from excessive API usage?
         - [Service Level Agreement](https://microservice-api-patterns.org/patterns/quality/qualityManagementAndGovernance/ServiceLevelAgreement) - How can an API client learn about the specific quality-of-service characteristics of an API and its endpoint operations? How can these characteristics, and the consequences of not meeting them, be defined and communicated in a measurable way?
@@ -809,7 +820,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 - [BSON](https://bsonspec.org/) - Binary-encoded serialization format for JSON-like documents that is designed to be lightweight and efficient. It supports rich data types and is widely used in NoSQL databases, such as MongoDB.
 - [CSV](https://datatracker.ietf.org/doc/html/rfc4180) - A simple and widely used data format that stores tabular data in plain text. It is easy to read and write, and can be processed by most programming languages.
 - [JSON](https://datatracker.ietf.org/doc/html/rfc8259) - A lightweight and easy-to-read data format that is widely used for data exchange. It supports a wide range of data types and is compatible with many programming languages.
-- [NDJSON (⭐747)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+- [NDJSON (⭐749)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
 - [Protocol Buffers (⭐67k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
 - [XML](https://www.w3.org/TR/xml11/) - A flexible and widely used markup language that is used for storing and exchanging structured data. It supports rich data types and is compatible with many programming languages.
 - [YAML (⭐399)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.

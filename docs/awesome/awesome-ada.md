@@ -214,7 +214,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [marte-os](https://marte.unican.es/) - MaRTE OS is a Hard Real-Time Operating System for embedded applications that follows the Minimal Real-Time POSIX.13 subset. It provides an easy to use and controlled environment to develop Multi-Thread Real-Time applications.
 - [muen](https://muen.codelabs.ch/) - An x86/64 Separation Kernel for High Assurance.
 - [ewok](https://github.com/wookey-project/ewok-kernel) - EwoK is a microkernel targeting micro-controllers and embedded systems.
-- [bare-bones](https://github.com/Lucretia/bare_bones) - An Ada port of the [osdev.org](https://wiki.osdev.org/Ada_Bare_bones) minimal 32-bit x86 kernel.
+- [bare-bones](https://github.com/Lucretia/bare_bones) - An Ada port of the [osdev.org](https://wiki.osdev.org/Ada_Bare_Bones) minimal 32-bit x86 kernel.
 - [lovelace-os](https://sourceforge.net/projects/lovelaceos/) - Lovelace is an effort to write a Unix like operating system using the Ada 2012 language.
 - [ada-kalinda-os](https://sourceforge.net/projects/sx-ada-kalinda/) - Ada KALINDA is a sort of Mac Plus like OS written in Ada95.
 - [cxos](https://github.com/ajxs/cxos) - Ada Operating System development example.
