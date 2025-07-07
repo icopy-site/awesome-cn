@@ -1,5 +1,5 @@
 <div class="github-widget" data-repo="ocaml-community/awesome-ocaml"></div>
-Awesome OCaml [![Build Status](https://travis-ci.org/ocaml-community/awesome-ocaml.svg?branch=master)](https://travis-ci.org/ocaml-community/awesome-ocaml)
+Awesome OCaml
 =============
 
 <img src="https://raw.githubusercontent.com/ocaml-community/awesome-ocaml/master/colour-logo.png" width="70%" />
