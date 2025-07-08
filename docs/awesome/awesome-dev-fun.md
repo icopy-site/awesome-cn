@@ -85,6 +85,7 @@ For now this is a really short list, so please contribute. Read [the guide](http
 - [RoastBot](https://github.com/Tylersuard/RoastBot) - A chatbot that insults its user.
 - [ErrorFlow](https://github.com/SudoPseudo/ErrorFlow) - Lightweight version of TensorFlow with the same functionality: It never works and only outputs errors.
 - [gremllm](https://github.com/awwaiid/gremllm) - Always a good idea to add gremlins to your code in a modern fashion.
+- [Yell at the clouds MCP server](https://github.com/Tylersuard/yell_at_the_clouds_MCP_server) - Have suppressed rage? Want to let it out by screaming at the sky? Have your AI agent tell someone to do it for you!
 
 ## Ruby
 
