@@ -25,6 +25,7 @@ System integration is the process of linking together different IT systems (com
 - [Layer7 API Management](https://www.broadcom.com/products/software/api-management) - Ensures secure and efficient API development with continuous lifecycle management and advanced integration features.
 - [Red Hat 3scale API Management](https://www.redhat.com/en/technologies/jboss-middleware/3scale) - Simplifies API monetization and governance with a cloud-native approach and powerful scaling capabilities.
 - [Sensedia API Management](https://www.sensedia.com/api-management-platform) - Provides a full-lifecycle API solution with advanced security, performance monitoring, and streamlined integration.
+- [Traefik API Management](https://traefik.io/traefik-hub) - Provides an API Management as Code platform to DevOps and Platform Engineering Teams who favor less ClickOps and more GitOps-driven API lifecycle workflows.
 - [Tyk API Management](https://tyk.io/api-lifecycle-management/) - Delivers high-performance, open-source API management focused on flexibility, robust security, and scalability.
 - [WSO2 API Manager (⭐904)](https://github.com/wso2/product-apim) - A fully open-source API platform offering robust governance, flexible deployment, and community-driven innovation.
 - [Zuplo API Management](https://zuplo.com) - A developer-centric, lightweight platform featuring GitOps integration, rapid edge deployment, extensive OpenAPI support, and seamless monetization.
@@ -71,7 +72,7 @@ System integration is the process of linking together different IT systems (com
 - [KrakenD API Gateway (⭐2.2k)](https://github.com/devopsfaith/krakend-ce) - An ultra-high performance gateway with efficient middleware configuration, robust security, and seamless scaling.
 - [Ocelot (⭐8.5k)](https://github.com/ThreeMammals/Ocelot) - A .NET-based gateway offering intuitive routing and easy integration for lightweight API management.
 - [Spring Cloud Gateway (⭐4.6k)](https://github.com/spring-cloud/spring-cloud-gateway) - Leverages the Spring ecosystem to deliver robust routing, filtering, and security for microservices.
-- [Traefik (⭐55k)](https://github.com/traefik/traefik) - A dynamic, cloud-native reverse proxy designed for modern container environments with auto-discovery and load balancing.
+- [Traefik API Gateway (⭐55k)](https://github.com/traefik/traefik) - Combines Traefik Proxy, a fully declarative application proxy with enterprise-grade access control, distributed security, and premium integrations.
 - [Tyk API Gateway (⭐10k)](https://github.com/TykTechnologies/tyk) - An enterprise-grade, open-source gateway supporting REST, GraphQL, TCP, and gRPC with advanced rate limiting and analytics.
 
 <!--lint disable-->
