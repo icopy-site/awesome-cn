@@ -37,6 +37,7 @@
 - [Tuba](https://apps.gnome.org/Tuba) - Client for federated social networks (Mastodon, GoToSocial, Akkoma). ![GNOME Circle][GNOME Circle]
 - [Pipeline](https://flathub.org/apps/de.schmidhuberj.tubefeeder) - YouTube Client.
 - [Netsleuth](https://github.com/vmkspv/netsleuth) - Utility for the calculation and analysis of IP subnet values.
+- [Turn On](https://codeberg.org/swsnr/turnon) - Utility to send Wake On LAN (WoL) magic packets to devices in a network.
 
 ### Office
 
@@ -51,7 +52,7 @@
 ### Productivity and Time
 
 - [Solanum](https://apps.gnome.org/Solanum) - Balance working time and break time. ![GNOME Circle][GNOME Circle]
-- [Khronos](https://apps.gnome.org/Khronos) - Log the time it took to do tasks. ![GNOME Circle][GNOME Circle]
+- [Khronos](https://flathub.org/apps/io.github.lainsce.Khronos) - Log the time it took to do tasks.
 - [Errands](https://apps.gnome.org/List) - Todo application for those who prefer simplicity. ![GNOME Circle][GNOME Circle]
 - [Endeavour](https://flathub.org/apps/details/org.gnome.Todo) - Manage your tasks.
 - [Timetrack](https://flathub.org/apps/net.danigm.timetrack) - Time tracker.
@@ -85,6 +86,7 @@
 - [Monophony](https://flathub.org/fr/apps/io.gitlab.zehkira.Monophony) - Stream music from YouTube.
 - [Collector](https://mijorus.it/projects/collector) - Dropover utility that allows to drag files/images/text into a collection window and drop them anywhere.
 - [Fotema](https://flathub.org/apps/app.fotema.Fotema) - Photo gallery with support for iOS Live Photos and Samsung Motion Photos and with map view.
+- [Drum Machine](https://apps.gnome.org/DrumMachine/) - Create and play drum beats. ![GNOME Circle][GNOME Circle]
 
 ### Graphics
 
@@ -126,7 +128,7 @@
 - [Ptyxis](https://flathub.org/apps/app.devsuite.Ptyxis) - Terminal with first-class support for containers.
 - [Damask](https://gitlab.gnome.org/subpop/damask) - Application that automatically sets wallpaper from a variety or sources (local folder, Wallhaven, Bing Wallpaper, NASA Astronomy, etc).
 - [Luminance](https://github.com/sidevesh/Luminance) - Simple application to control brightness of displays (including external) supporting DDC/CI.
-- [Bustle](https://flathub.org/apps/org.freedesktop.Bustle) - D-Bus activity viewer that draws diagram sequences.
+- [Bustle](https://apps.gnome.org/Bustle) - D-Bus activity viewer that draws diagram sequences. ![GNOME Circle][GNOME Circle]
 - [Embellish](https://flathub.org/apps/io.github.getnf.embellish) - Application to install and manage Nerd Fonts on the system.
 - [Resources](https://apps.gnome.org/Resources) - Monitor for system resources and processes that can terminate graphical applications and processes. ![GNOME Circle][GNOME Circle]
 
@@ -142,6 +144,7 @@
 - [Lan Mouse](https://github.com/feschber/lan-mouse) - Mouse and keyboard sharing software (software KVM switch).
 - [Moussam](https://amit9838.github.io/mousam) - Weather application with 7 days forecast from Open-Meteo.com.
 - [Snoop](https://flathub.org/apps/de.philippun1.Snoop) - Application (with Nautilus extension) to search through file contents in a given folder.
+- [Echo](https://flathub.org/apps/io.github.lo2dev.Echo) -  Simple utility to ping websites.
 
 ### Security and Privacy
 
@@ -187,10 +190,6 @@
 ### Others
 
 - [Boxes](https://apps.gnome.org/Boxes) - View, access, and manage remote and virtual systems.
-
-## Third-party Apps Plugins
-
-- [Nautilus Terminal](https://github.com/flozz/nautilus-terminal) - Integrates a terminal into Nautilus.
 
 ## Extensions
 
@@ -306,6 +305,11 @@
 - [`@GNOMEDesktop` on Facebook](https://www.facebook.com/GNOMEDesktop)
 - [`GNOMEDesktop` on Youtube](https://www.youtube.com/user/GNOMEDesktop)
 - [`GNOMEDesktop` on Peertube](https://peertube.video/accounts/gnome)
+
+### Other lists
+
+- [Are we libadwaita yet](https://arewelibadwaitayet.com/) - List of libadwaita-powered apps
+- [Awesome-GTK](https://github.com/valpackett/awesome-gtk) - Collections of awesome native open-source GTK (4 and 3) applications.
 
 ## Developer Resources
 
