@@ -32,7 +32,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 #### IRC
 
-- IRC channels are on `irc.freenode.org`: [#composer](https://webchat.freenode.net/#composer) for users and [#composer-dev](https://webchat.freenode.net/#composer-dev) for development.
+- IRC channels are on `irc.freenode.org`: [#composer](https://irc.com/#composer) for users and [#composer-dev](https://irc.com/#composer-dev) for development.
 
 ---
 
@@ -124,7 +124,7 @@ You might also like [awesome-php](https://github.com/ziadoz/awesome-php).
 
 ## Services
 
-- [Dependabot](https://github.com/features/security/) - Dependabot is a dependency update service. It monitors and updates your dependencies by sending a pull-request. The service is free for public repos and personal account repos.
+- [Dependabot](https://github.com/security/advanced-security) - Dependabot is a dependency update service. It monitors and updates your dependencies by sending a pull-request. The service is free for public repos and personal account repos.
 
 ---
 
@@ -204,10 +204,9 @@ Private Packagist](https://naderman.de/slippy/slides/2017-07-14-T3DD17-Gain-cont
 
 About metadata mirrors: https://packagist.org/mirrors
 
+- Global, CloudFlare - [packagist.pages.dev](https://packagist.pages.dev/)
 - North America
   - Canada - [packagist.org](https://packagist.org) *Main mirror*
-- South America
-  - Brazil - [packagist.com.br](https://packagist.com.br)
 - Africa
   - South Africa - [packagist.co.za](https://packagist.co.za)
 - Asia
