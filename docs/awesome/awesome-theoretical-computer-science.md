@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="mostafatouny/awesome-theoretical-computer-science"></div>
 ![banner](https://raw.githubusercontent.com/mostafatouny/awesome-theoretical-computer-science/master/./TCS-banner.png)
 ## Awesome Theoretical Computer Science [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-The interdisciplinary of Mathematics and Computer Science; It is distinguished by its emphasis on mathemtical technique and rigour.
+The interdisciplinary of Mathematics and Computer Science, distinguished by proof and logic technique.
 
 ---
 

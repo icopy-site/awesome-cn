@@ -26,6 +26,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Weblate](https://weblate.org/) - Copylefted libre web-based continuous translation platform.
 - [SimpleLocalize](https://simplelocalize.io) - A simple translation management for software projects.
 - [Tolgee](https://tolgee.io) - Open-source, developer & translator friendly platform enabling users to translate directly in the app they develop.
+- [Localit](https://localit.io/) - A fast and intuitive localization platform with seamless GitHub/GitLab integration, AI-powered and human translation support, and a generous free plan.
 - [Lokalise](https://lokalise.com/) - Translation platform for developers.
 - [Locize](https://locize.com/) - Proprietary translation platform.
 
