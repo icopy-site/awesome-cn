@@ -60,7 +60,9 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Hexen II: Hammer of Thyrion](https://sourceforge.net/p/uhexen2/code/HEAD/tree/) - Cross-platform port of the Hexen II game.
 - [ioquake3](https://github.com/ioquake/ioq3) - The free software FPS engine that can be used to play Quake 3, or make your own game.
 - [NBlood](https://github.com/nukeykt/NBlood) - Port of the classic FPS Blood.
+- [NearChuckle](https://github.com/rohit-n/NearChuckle) - A Linux port of Far Cry 1.
 - [Odamex](https://github.com/odamex/odamex) - Online multiplayer DOOM port with a strong focus on the original gameplay while providing a breadth of enhancements. :flower_playing_cards:
+- [OpenMoHAA](https://github.com/openmoh/openmohaa) - Open re-implementation of Medal of Honor: Allied Assault including Spearhead and Breakthrough expansions.
 - [OpenSpades](https://github.com/yvt/openspades) - Compatible client of Ace of Spades, a voxel FPS.
 - [QuakeSpasm](https://sourceforge.net/projects/quakespasm/) - A modern, cross-platform Quake game engine.
 - [RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) - Doom 3 BFG Edition with soft shadows, cleaned up source, Linux and 64 bit Support.
@@ -112,6 +114,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [sfall](https://github.com/phobos2077/sfall) - A set of engine modifications for the classic game Fallout 2.
 - [Shockolate](https://github.com/Interrupt/systemshock) - Same great System Shock, new great taste.
 - [UAlbion](https://github.com/csinkers/ualbion) - Remake of 1995 Albion.
+- [UnderworldGodot](https://github.com/hankmorgan/UnderworldGodot) - An engine recreation of Ultima Underworld and Ultima Underworld 2 in the Godot Engine.
 - [WitchavenGDX](https://gitlab.com/m210/WitchavenGDX) - Witchaven Java port.
 - [xoreos](https://github.com/xoreos/xoreos) - Implementation of BioWare's Aurora engine and its derivatives (used by Neverwinter Nights, The Witcher and more).
 - [Zelda3](https://github.com/snesrev/zelda3) - This is a reverse engineered clone of Zelda 3 - A Link to the Past.
@@ -128,6 +131,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [SDLPoP](https://github.com/NagyD/SDLPoP) - Port of Prince of Persia, based on the disassembly of the DOS version.
 - [sm64js](https://github.com/sm64jsarchive/sm64jsarchive) - Super Mario 64 reimplementation in JavaScript.
 - [The Secret Chronicles of Dr. M](https://github.com/secretchronicles/TSC) - Adaptation of Secret Mario Chronicles. :flower_playing_cards:
+- [UnleashedRecomp](https://github.com/hedge-dev/UnleashedRecomp) - An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.
 - [VVVVV](https://github.com/TerryCavanagh/vvvvvv) - The source code to VVVVVV.
 
 ## Racing

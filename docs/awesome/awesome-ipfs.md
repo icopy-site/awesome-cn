@@ -66,6 +66,7 @@ A list of web browsers with IPFS integrations
 - [IPFS Setup Action](https://github.com/ibnesayeed/setup-ipfs) - A GitHub Action to install and initialize go-ipfs to provision a cross-platform test environment on GitHub's CI platform.
 - [ipfs-action](https://github.com/aquiladev/ipfs-action) - GitHub Action for delivery of static websites.
 - [ipfs-add-from-encrypted](https://github.com/TroyWilson1/ipfs-add-from-encrypted) - Encrypt a file or directory with AES256 then add to IPFS.
+- [IPFS-boot](https://github.com/rhodey/IPFS-boot) - Publish IPFS webapps which require user consent to update.
 - [ipfs-companion](https://github.com/ipfs/ipfs-companion) - Browser extension that simplifies access to IPFS resources.
 - [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - Zero-config CLI to deploy static websites: cd my-static-website && npx @agentofuser/ipfs-deploy
 - [ipfs-mount](https://github.com/richardschneider/net-ipfs-mount) - Mount IPFS as a mapped drive on Windows.
@@ -119,12 +120,11 @@ A list of web browsers with IPFS integrations
 ## Pinning services
 - [4EVERLAND](https://www.4everland.org/) - 4EVERLAND is a pinning service that provides IPFS infrastructure and tooling making it easier and faster to host frontends, store data/NFT/file and fetch data with IPFS.
 - [Filebase](https://filebase.com/) - Pinning data to IPFS can be hard. Filebase removes that complexity.
-- [Gateway3](https://gw3.app/) - A decentralized IPFS pinning service designed for developers. Supports content pinning, IPNS hosting, DAG operations, pinning tweets, and web hosting.
 - [lighthouse.storage](https://lighthouse.storage/) - A decentralized IPFS pinning service with privacy and encryption capabilities
 - [NFT.Storage](https://nft.storage/) - Free decentralized storage and bandwidth for NFTs on IPFS & Filecoin.
 - [Pinata](https://pinata.cloud) - Build and manage your dapp through Pinata’s REST API and IPFS toolkit.
 - [QuickNode](https://www.quicknode.com/ipfs) - IPFS gateways and pinning
-- [Web3.storage](https://web3.storage/) - Simple file storage with IPFS & Filecoin.
+- [Storacha](https://storacha.network) - Super hot decentralized data at scale.
 
 ## Stale Projects
 We maintain a list of no longer maintained projects for reference. If you see something on this list that's no longer maintained, please submit a PR moving the entry into [stale.md](https://github.com/ipfs/awesome-ipfs/blob/master/./stale.md) and optionally add the reason why it's marked as stale with an indented comment.

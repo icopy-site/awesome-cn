@@ -11,9 +11,9 @@
 <br />
 Capacitor is an open-source native runtime for building Web Native apps. Create cross-platform iOS, Android, and Progressive Web Apps with JavaScript, HTML, and CSS.
 <br/>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fraw.githubusercontent.com%2Friderx%2Fawesome-capacitor&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
 </div>
 <div align="center">
+  <a href="https://capgo.app/"><img src='https://raw.githubusercontent.com/Cap-go/capgo/main/assets/capgo_banner.png' alt='Capgo - Instant updates for capacitor'/></a>
   <h2><a href="https://capgo.app/?ref=awesomelist"> ➡️ Get Instant updates for your App with Capgo 🚀</a></h2>
   <h2><a href="https://capgo.app/consulting/?ref=awesomelist"> Fix your annoying bug now, Hire a Capacitor expert 💪</a></h2>
 </div>
@@ -214,6 +214,7 @@ Independents plugins are listed here.
 - [Screenshot](https://github.com/ludufre/capacitor-screenshot) - Take a screenshot of the current view.
 - [Send intent](https://github.com/tavosansal/capacitor-plugin-send-intent) - Expose a listener in your JavaScript application for when another application sends data to your Capacitor application via the Android share menu or share sheet.
 - [Sentry](https://github.com/getsentry/sentry-capacitor) - Add Sentry error tracking and performance monitoring for Capacitor apps.
+- [Shamir](https://github.com/vault12/capacitor-shamir) - Shamir's Secret Sharing cryptographic algorithm.
 - [Stripe terminal](https://github.com/eventOneHQ/capacitor-stripe-terminal) - Stripe Terminal Plugin for Capacitor.
 - [Sprig](https://github.com/crabbydavis/sprig) - All-in-one  product research platform.
 - [Square Payments](https://github.com/jbrown0824/capacitor-square-payments) - Enable Square Payments for Capacitor.
@@ -226,6 +227,9 @@ Independents plugins are listed here.
 - [Bing Translator](https://github.com/sabereen/capacitor-bing-translator) - A simple and **free** API for using [Bing Translator](https://bing.com/translator).
 - [Capacitor Calendar](https://github.com/ebarooni/capacitor-calendar) - A plugin for interacting with calendar and reminders.
 - [Capacitor voice recorder](https://github.com/tchvu3/capacitor-voice-recorder) - A plugin for simple voice recording.
+- [capacitor-app-attest](https://github.com/ludufre/capacitor-app-attest) - Apple Attest with Ionic Capacitor
+- [capacitor-live-activities](https://github.com/ludufre/capacitor-live-activities) - Capacitor plugin to use Live Activities on iOS 16.2+.
+- [capacitor-lottie-splash-screen](https://github.com/ludufre/capacitor-lottie-splash-screen) - Capacitor plugin to use Lottie animations as splash screen.
 
 
 ## Cordova plugins
