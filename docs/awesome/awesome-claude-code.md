@@ -39,6 +39,7 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent that you can 
 
 ### Announcements
 
+- 2025-07-15: Finalizing the fully optimized, fully managed submission workflow and CI system, apologies for any delays in submission reviews.
 - 2025-07-10: Pushed the updated CI/CD and submission code - all submissions are managed through `THE_RESOURCES_TABLE.csv`, which is used to generate the `README`. Also, planning to add an "Experimental" section for tools/applications that are very new and exciting but which I have not had the chance to personally explore. ALSO: Send in your HOOKS! This is a very powerful addition to Claude Code and we want to see what everyone is experimenting with!
 - 2025-07-04: Added new section for Claude Code _hooks_!
 
@@ -160,6 +161,9 @@ A TypeScript-based system for configuring and customizing Claude Code hooks with
 
 [`Linting, testing, and notifications (in go)`](https://github.com/Veraticus/nix-config/tree/main/home-manager/claude-code/hooks) &nbsp; by &nbsp; [Josh Symonds](https://github.com/Veraticus)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Nice set of hooks for enforcing code quality (linting, testing, notifications), with a nice configuration setup as well.
+
+[`TDD Guard`](https://github.com/nizos/tdd-guard) &nbsp; by &nbsp; [Nizar Selander](https://github.com/nizos)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A hooks-driven system that monitors file operations in real-time and blocks changes that violate TDD principles.
 
 <br>
 

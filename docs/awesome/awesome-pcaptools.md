@@ -75,7 +75,7 @@ Traffic Capture<a name="capture"></a>
 
 Traffic Analysis/Inspection<a name="analysis"></a>
 --------------------------------------------------
-* [Brim](https://www.brimsecurity.com/): Brim blends together the richness of Zeek logs with the details of packets. It's the best of both worlds. While Zeek logs can answer most all of your questions quickly, you still have fast access to packets when you need to drill down into the details. Wireshark is always just a click away. 
+* [Brim](https://www.brimsecurity.com/): Brim blends together the richness of Zeek logs with the details of packets. It's the best of both worlds. While Zeek logs can answer most all of your questions quickly, you still have fast access to packets when you need to drill down into the details. Wireshark is always just a click away.
 
 * [BruteShark](https://github.com/odedshimon/BruteShark): Is an open-source, cross-platform network forensic analysis tool with many features. It includes: password extracting,  displaying a visual network map, reconstruct TCP sessions, extract hashes of encrypted passwords and even convert them to a Hashcat format in order to perform an offline Brute Force attack.
 
@@ -133,6 +133,8 @@ Traffic Analysis/Inspection<a name="analysis"></a>
 * [Pcap2har](https://github.com/andrewf/pcap2har): A program to convert .pcap network capture files to HTTP Archive files using library dpkt.
 
 * [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus): PcapPlusPlus a multiplatform C++ network sniffing and packet parsing and manipulation framework. It's meant to be lightweight, efficient and easy to use. It's a C++ wrapper for popular engines like libpcap, WinPcap, DPDK and PF_RING. It also contains parsing and edit capabilities for many protocols including Ethernet, IPv4, IPv6, ARP, VLAN, MPLS, PPPoE, GRE, TCP, UDP, ICMP, DNS as well as layer 7 protocols like HTTP and SSL/TLS
+
+* [pcaptoparquet](https://github.com/nokia/pcaptoparquet): pcaptoparquet is a Python package designed for converting PCAP or PCAPNG files to structured data formats, primarily Apache Parquet. The tool focuses on network traffic analysis by extracting, decoding, and transforming packet data into queryable datasets suitable for analysis and visualization. The tool supports both command-line and programmatic interfaces, enabling integration into various network analysis workflows.
 
 * [pkt2flow](https://github.com/caesar0301/pkt2flow): A simple utility to classify packets into flows. It's so simple that only one task is aimed to finish.  For Deep Packet Inspection or flow classification, it's so common to analyze the feature of one specific flow. I have make the attempt to use made-ready tools like tcpflows, tcpslice, tcpsplit, but all these tools try to either decrease the trace volume (under requirement) or resemble the packets into flow payloads (over requirement). I have not found a simple tool to classify the packets into flows without further processing.
 
