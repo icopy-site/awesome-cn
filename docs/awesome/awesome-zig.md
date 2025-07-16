@@ -156,6 +156,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [donpdonp/zootdeck](https://github.com/donpdonp/zootdeck) - Fediverse GTK Desktop Reader.
 * [MasterQ32/ZigPaint](https://github.com/MasterQ32/ZigPaint) - A simple paint application. Used to create an OpenGL loader/wrapper and a minimal UI system.
 * [olexij-christian/zgtk3](https://github.com/olexij-christian/zgtk3) - GTK3 bindings.
+* [rcalixte/libqt6zig](https://github.com/rcalixte/libqt6zig) - Qt 6 bindings.
 
 ## Linters
 
