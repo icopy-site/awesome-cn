@@ -52,6 +52,7 @@
 ## Extensions and Utilities
 
 - [8th Wall](https://www.8thwall.com/docs/api/playcanvas/getting-started/) - Markerless AR runtime.
+- [Kinematic Character Controller](https://github.com/tatelax/playcanvas-kinematic-character-controller) - An open-source kinematic character controller.
 - [playcanvas-ar](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
 - [playcanvas-node](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
 - [playcanvas-p2.js](https://github.com/playcanvas/playcanvas-p2.js) - An integration with the p2.js 2D physics engine.
