@@ -475,7 +475,7 @@ The tool is a fork of `gofmt` as of Go 1.19, and requires Go 1.18 or later.  It 
 - [govulncheck](https://go.dev/blog/vuln) — Govulncheck reports known vulnerabilities that affect Go code.  It uses static analysis of source code or a binary's symbol table to narrow down reports to only those that could affect the application.
 By default, govulncheck makes requests to the Go vulnerability database at https://vuln.go.dev. Requests to the vulnerability database contain only module paths, not code or other properties of your program.
 
-- [ineffassign](https://github.com/gordonklaus/ineffassign) :warning: — Detect ineffectual assignments in Go code.
+- [ineffassign](https://github.com/gordonklaus/ineffassign) — Detect ineffectual assignments in Go code.
 
 - [interfacer](https://github.com/mvdan/interfacer) :warning: — Suggest narrower interfaces that can be used.
 
@@ -602,7 +602,7 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [SpotBugs](https://spotbugs.github.io) — SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
 
-- [steady](https://eclipse.github.io/steady/) :warning: — Analyses your Java applications for open-source dependencies with known vulnerabilities, using both static analysis and testing to determine code context and usage for greater accuracy.
+- [steady](https://eclipse.github.io/steady/) — Analyses your Java applications for open-source dependencies with known vulnerabilities, using both static analysis and testing to determine code context and usage for greater accuracy.
 
 - [Violations Lib](https://github.com/tomasbjerre/violations-lib) — Java library for parsing report files from static code analysis. Used by a bunch of Jenkins, Maven and Gradle plugins.
 
@@ -759,7 +759,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [Parse](https://github.com/psecio/parse) — A Static Security Scanner.
 
-- [pdepend](https://pdepend.org) — Calculates software metrics like cyclomatic complexity for PHP code.
+- [pdepend](https://pdepend.org) :warning: — Calculates software metrics like cyclomatic complexity for PHP code.
 
 - [phan](https://github.com/phan/phan/wiki) — A modern static analyzer from etsy.
 
@@ -813,7 +813,7 @@ A ktfmt IntelliJ plugin is available from the plugin repository. To install it, 
 
 - [phpmnd](https://github.com/povils/phpmnd) — Helps to detect magic numbers.
 
-- [PHPQA](https://edgedesigncz.github.io/phpqa) :warning: — A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
+- [PHPQA](https://edgedesigncz.github.io/phpqa) — A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
 
 - [phpqa - jakzal](https://github.com/jakzal/phpqa) — Many tools for PHP static analysis in one container.
 
@@ -1011,7 +1011,7 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [Fasterer](https://github.com/DamirSvrtan/fasterer) — Common Ruby idioms checker.
 
-- [flay](https://ruby.sadi.st/Flay.html) — Flay analyzes code for structural similarities.
+- [flay](https://ruby.sadi.st/Flay.html) :warning: — Flay analyzes code for structural similarities.
 
 - [flog](https://ruby.sadi.st/Flog.html) :warning: — Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
 
@@ -1823,6 +1823,13 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 - [deno_lint](https://github.com/denoland/deno_lint) — Official linter for Deno.
 
 
+<a name="dockerfile" />
+<h2>Dockerfile</h2>
+
+
+- [Cloud (IaC) Security for JetBrains IDEs](https://plugins.jetbrains.com/plugin/25413-cloud-iac-security) — Cloud (IaC) Security plugin for JetBrains IDEs. Performs real-time inspections of Docker & Kubernetes IaC with 50+ rules based on Docker image/build security best practices, Kubernetes Pod Security Standards, and NSA/CISA Kubernetes Hardening Guidance.
+
+
 <a name="embedded" />
 <h2>Embedded</h2>
 
@@ -1889,6 +1896,8 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 
 - [chart-testing](https://github.com/helm/chart-testing) — ct is the tool for testing Helm charts.  It is meant to be used for linting and testing pull requests.  It automatically detects charts changed against the target branch.
+
+- [Cloud (IaC) Security for JetBrains IDEs](https://plugins.jetbrains.com/plugin/25413-cloud-iac-security) — Cloud (IaC) Security plugin for JetBrains IDEs. Performs real-time inspections of Docker & Kubernetes IaC with 50+ rules based on Docker image/build security best practices, Kubernetes Pod Security Standards, and NSA/CISA Kubernetes Hardening Guidance.
 
 - [clusterlint](https://github.com/digitalocean/clusterlint) — Clusterlint queries live Kubernetes clusters for resources, executes common and  platform specific checks against these resources and provides actionable feedback to cluster operators.  It is a non invasive tool that is run externally. Clusterlint does not alter the resource configurations.
 
@@ -2091,6 +2100,8 @@ but with the following improvements:
 - [AzSK](https://azsk.azurewebsites.net/) — Secure DevOps kit for Azure (AzSK) provides security IntelliSense, Security Verification Tests (SVTs), CICD scan vulnerabilities, compliance issues, and infrastructure misconfiguration in your infrastructure-as-code. Supports Azure via ARM.
 
 - [brakeman](https://brakemanscanner.org) — A static analysis security vulnerability scanner for Ruby on Rails applications.
+
+- [Cloud (IaC) Security for JetBrains IDEs](https://plugins.jetbrains.com/plugin/25413-cloud-iac-security) — Cloud (IaC) Security plugin for JetBrains IDEs. Performs real-time inspections of Docker & Kubernetes IaC with 50+ rules based on Docker image/build security best practices, Kubernetes Pod Security Standards, and NSA/CISA Kubernetes Hardening Guidance.
 
 - [Credential Digger](https://github.com/SAP/credential-digger) — Credential Digger is a GitHub scanning tool that identifies hardcoded credentials (Passwords, API Keys, Secret Keys, Tokens, personal information, etc),  and filtering the false positive data through a machine learning model called [Password Model](https://huggingface.co/SAPOSS/password-model). This scanner is able to detect passwords and non structured tokens with a low false positive rate. 
 
