@@ -9,7 +9,8 @@
 <!--lint disable double-link-->
 Please give it a star(⭐) to raise awareness about J2ME community, and support the development of this project. Read about history of Awesome J2ME in <a href="https://hstsethi.vercel.app/posts/programming/awesome-j2me">this blog post</a>. Also check out [Awesome Symbian](https://github.com/hstsethi/awesome-symbian).
 
-
+<!--lint disable double-link-->
+Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hackclub](https://retrospect.hackclub.com/j2me), [Awesome Java](https://github.com/akullpp/awesome-java) and more.
 
 
 

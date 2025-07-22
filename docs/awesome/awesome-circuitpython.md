@@ -118,6 +118,7 @@ Looking to add a new board to CircuitPython? It's highly encouraged! Adafruit ha
 
 ## News
 
+- [Adafruit's Fruit Jam is a Raspberry Pi Pico 2 powered, credit card sized computer](https://www.tomshardware.com/raspberry-pi/adafruits-fruit-jam-is-a-raspberry-pi-pico-2-powered-credit-card-sized-computer) - Tom's Hardware, February 5, 2025
 - [The Past, Present, and Future of CircuitPython](https://hackaday.com/2023/08/01/the-past-present-and-future-of-circuitpython/) - Hackaday interviews Limor "Ladyada" Fried about CircuitPython, August, 2023.
 - [CircuitPython on the Adafruit.com/blog](https://blog.adafruit.com/category/circuitpython/) - Adafruit Blog posts discussing CircuitPython.
 - [CircuitPython Show Episode 1: Kattni Rembor](https://www.circuitpythonshow.com/@circuitpythonshow/episodes/kattni-rembor) - Host Paul Cutler interviews CircuitPython team member Kattni Rembor, March 1, 2022.
