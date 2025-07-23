@@ -136,6 +136,7 @@ This section is a great place to start if you want to get into improving OpenStr
 * [Visit Sights](https://visitsights.com/) - Suggestions for self-guided sightseeing tours by foot and overview of individual sights all around the world.
 * [Defikarte.ch](https://www.defikarte.ch) - A Map that shows all available defibrillators in Switzerland and Liechtenstein, also used by emergency dispatch centers and rescue services. (ℹ️ German only)
 * [Streets GL](https://github.com/StrandedKitty/streets-gl) - OpenStreetMap 3D renderer powered by WebGL2. ([Wiki](https://wiki.openstreetmap.org/wiki/Streets_GL))
+* [openclimbing.org](https://openclimbing.org) - A map for rock climbers with editor for creating interactive climbing guides based on OpenStreetMap.
 
 ### Mobile Maps
 

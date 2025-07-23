@@ -73,7 +73,8 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 - [SpeedTest](https://github.com/ruslanlap/PowerToysRun-SpeedTest) - Test your internet connection speed.
 - [VideoDownloader](https://github.com/ruslanlap/PowerToysRun-VideoDownloader) - Download videos from various platforms.
 - [Definition](https://github.com/ruslanlap/PowerToysRun-Definition) - Lookup word definitions, phonetics, and synonyms.
-- [RandomGen](https://github.com/ruslanlap/PowerToysRun-RandomGen) - Generate various types of random data with a single keystroke.
+- [RandomGen](https://github.com/ruslanlap/PowerToysRun-RandomGen) - Generate various types of random data.
+- [Hotkeys](https://github.com/ruslanlap/PowerToysRun-Hotkeys) - Find and copy keyboard shortcuts for various applications.
 
 ## Resources
 
