@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="mostafatouny/awesome-theoretical-computer-science"></div>
 ![banner](https://raw.githubusercontent.com/mostafatouny/awesome-theoretical-computer-science/master/./TCS-banner.png)
 ## Awesome Theoretical Computer Science [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-The interdisciplinary of Mathematics and Computer Science, distinguished by proof and logic technique.
+The interdisciplinary of Mathematics and Computer Science; It is distinguished by its emphasis on mathemtical technique and rigour.
 
 ---
 
@@ -48,6 +48,8 @@ The interdisciplinary of Mathematics and Computer Science, distinguished by proo
 - [Goldreich. P, NP, and NP-Completeness: The Basics of Computational Complexity](http://www.wisdom.weizmann.ac.il/~oded/bc-book.html) - A very gentle introduction to some fundamental ideas of computational complexity like NP-completeness and P vs NP.
 - [Ogihara & Hemaspaandra. The Complexity Theory Companion](https://www.springer.com/gp/book/9783540674191) - An accessible, algorithmically oriented, research-centered, up-to-date guide to some of the most interesting techniques of complexity theory.
 - [Papadimitriou. Computational Complexity](https://www.pearson.com/us/higher-education/program/Papadimitriou-Computational-Complexity/PGM94583.html) - Body of knowledge for studying the performance and limitations of computer algorithms. Among topics covered are: reductions and NP-completeness, cryptography and protocols, randomized algorithms, and approximability of optimization problems, circuit complexity, the structural aspects of the P=NP question, parallel computation, and the polynomial hierarchy.
+#### Big Lists<a name=theory_of_computation_computational_complexity_introductory_big_lists></a>
+- [Complexity Zoo](https://complexityzoo.net/) - a wiki of complexity classes.
 ### Communication Complexity<a name=theory_of_computation_computational_complexity_communication_complexity></a>
 #### Lecture Notes<a name=theory_of_computation_computational_complexity_communication_complexity_lecture_notes></a>
 - [Mark Bun. CS591 Communication Complexity](https://cs-people.bu.edu/mbun/courses/591_F19/) - A graduate course which introduces the fundamental results and techniques in the area and some research frontier questions. Themes include: Communication models and the communication complexity zoo, Information vs. communication, Query-to-communication lifting, and Applications
@@ -201,11 +203,11 @@ The interdisciplinary of Mathematics and Computer Science, distinguished by proo
 ## Math and Logic<a name=math_and_logic></a>
 ## General<a name=math_and_logic_general></a>
 ### Lecture Videos Playlist<a name=math_and_logic_general_lecture_videos_playlist></a>
-- [Lehman, Leighton & Meyer. Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/) - An introduction to discrete mathematics oriented toward computer science and engineering. - [Companion Textbook](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
+- [Demaine, Abel & Chapman. Mathematics for Computer Science](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024/) - A junior introduction to discrete mathematics for computer scientists. - [Companion Textbook 2015](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/MIT6_042JS15_textbook.pdf)
 ### Books<a name=math_and_logic_general_books></a>
 - [Knuth, Graham & Patashnik. Concrete Mathematics: A Foundation for Computer Science](https://www.pearson.com/us/higher-education/product/Graham-Concrete-Mathematics-A-Foundation-for-Computer-Science-2nd-Edition/9780134389981.html) - An expansion of the Mathematical Preliminaries section in Knuth's classic Art of Computer Programming, but the style of presentation is more leisurely, and individual topics are covered more deeply.
 - [Aho & Ullman. Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html) - A classic math-oriented introduction to computer science.
-- [Tu Delft. Delftse Foundations of Computation](https://textbooks.open.tudelft.nl/textbooks/catalog/book/13) - A textbook for a one quarter introductory course in theoretical computer science.
+- [Tu Delft. Delftse Foundations of Computation](https://books.open.tudelft.nl/home/catalog/book/211) - A textbook for a one quarter introductory course in theoretical computer science including logic, proof techniques, and set theory. It assumes no prerequisite other than basic programming.
 - [Comprehensive Mathematics for Computer Scientists](https://www.springer.com/series/5517) - A series dedicated to math topics and their relevance to computer science.
 - [Krantz. Handbook of Logic and Proof Techniques for Computer Science](https://www.maa.org/press/maa-reviews/handbook-of-logic-and-proof-techniques-for-computer-science) - A concise offered as an accessible reference on mathematical logic for the professional computer scientist.
 - [Makinson. Sets, Logic and Maths for Computing](https://www.springer.com/gp/book/9783030422172) - It presents a careful selection of the material most needed by students in their first two years studying computer science.
