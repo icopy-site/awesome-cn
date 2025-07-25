@@ -58,6 +58,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [AspectCore Framework](https://github.com/dotnetcore/AspectCore-Framework) - AspectCore Framework is an Aspect-Oriented Programming based cross platform framework for .NET Core and .NET Framework. Core support for aspect-interceptor,dependency injection integration , web applications , data validation , and more.
 * [Fusion](https://github.com/servicetitan/Stl.Fusion) - .NET Core and Blazor library that attempts to dramatically improve the way we implement real-time and high-load services by introducing a novel kind of "computed observables" - immutable, thread-safe, and most importantly, almost invisible for developers. [Samples 1](https://github.com/servicetitan/Stl.Fusion.Samples) [Samples 2](https://github.com/alexyakunin/BoardGames)
 * [silky](https://github.com/liuhll/silky) - The Silky framework is designed to help developers quickly build a microservice development framework through simple code and configuration under the .net platform.
+* [Positron-JS](https://github.com/Positron-JS/positron-web-view) - An advanced Web View (PositronWebView) with native JavaScript Context to access .NET APIs from hybrid applications inspired from capacitor/cordova.
 
 ## Application Templates
 
@@ -88,6 +89,8 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Abblix OIDC Server](https://github.com/Abblix/Oidc.Server) - A fully certified OpenID Connect server library for .NET by the OpenID Foundation, providing comprehensive support for OAuth2 and OpenID Connect across all profiles. **[$][Free for non-commercial use]**
 * [ASP.NET Core Identity](https://github.com/dotnet/aspnetcore/) - New membership system for ASP.NET applications
 * [ASP.NET SAML](https://github.com/jitbit/AspNetSaml) - SAML authentication support for ASP.NET apps
+* [Logibit Hawk](https://github.com/logibit/logibit.hawk/) - A F# [Hawk](https://github.com/outmoded/hawk) authentication library
+* [Logto](https://github.com/logto-io/csharp) - An IAM infrastructure for modern apps and SaaS products, supporting OIDC, OAuth 2.0 and SAML for authentication and authorization **[$][Free for OSS]**
 * [IdentityModel](https://github.com/IdentityModel) - Helper library for identity & access control in .NET 4.5 and MVC4/Web API.
 * [openiddict](https://github.com/openiddict/openiddict-core) - Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET
 * [Topaz](https://www.topaz.sh/docs/software-development-kits/dotnet/install) - A fine-grained authorization system with .NET SDK.
@@ -190,25 +193,31 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Compilers, Transpilers and Languages
 
-* [ClojureCLR](https://github.com/clojure/clojure-clr) - A port of Clojure to the CLR, part of the Clojure project
-* [F#](https://github.com/fsharp/fsharp/) -  The F# compiler, core library and tools - a functional programming language for safer, faster, better code writing.
-* [Hybridizer](https://www.altimesh.com/hybridizer-essentials/) - CIL (C#, VB.Net, F#) to CUDA compiler. **[$]**
+* [ClojureCLR](https://github.com/clojure/clojure-clr) - A port of Clojure to the CLR in C#
+* [ClojureCLR Next](https://github.com/dmiller/clojure-clr-next?tab=readme-ov-file) - Rewrite of Clojure CLR in F#
+* [F#](https://github.com/fsharp/fsharp/) - The F# programming language empowers everyone to write succinct, robust, and performant code
+* [Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript, TypeScript, JSX, Python, Dart, and Rust transpiler
+* [Eiffel](https://www.eiffel.org/doc/solutions/The_Eiffel_for_.NET_language) - Eiffel for .NET is the Eiffel programming language made available in the .NET environment.
+* [Rust](https://github.com/FractalFir/rustc_codegen_clr) - Experimental Rust compiler for .NET.
+* [Wrapped Mono](https://github.com/FractalFir/wrapped_mono) - Mono runtime embedded in Rust. 
+* [Hybridizer](https://www.altimesh.com/hybridizer-essentials/) - CIL (C#, VB.Net, F#, ClojureCLR, ...) to CUDA compiler. **[$]**
 * [IronScheme](https://github.com/IronScheme/IronScheme) - R6RS Scheme compiler, runtime and many standard libraries
-* [Mond](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
-* [Nemerle](https://github.com/rsdn/nemerle) - Nemerle is a high-level statically-typed programming language for the .NET platform. It offers functional, object-oriented and imperative features. It has a simple C#-like syntax and a powerful meta-programming system.
+* [Mond](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API
+* [Lua-C#](https://github.com/nuskey8/Lua-CSharp) - A Lua implementation on .NET in C#
+* [Nemerle](https://github.com/rsdn/nemerle) - Nemerle is a high-level statically-typed programming language for the .NET platform. It offers functional, object-oriented, and imperative features. It has a simple C#-like syntax and a powerful meta-programming system.
 * [P](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
 * [PeachPie](https://github.com/peachpiecompiler/peachpie) - PeachPie is a PHP compiler and runtime for .NET and .NET Core, which allows entire PHP applications to run on the modern, secure and performant .NET and .NET Core platforms.
 * [Roslyn](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs. It enables building code analysis tools with the same APIs that are used by Visual Studio.
-* [FSharp](https://github.com/dotnet/fsharp) - The F# compiler and tools
-* [Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler
-* [Iron python](https://github.com/IronLanguages/ironpython3) - A python 3 implementation that is integrated with the dot net framework.
-* [IKVM](https://ikvm.org) - A Java Virtual Machine and Bytecode-to-IL Converter for .NET. Execute compiled Java code (bytecode) on .NET Framework or .NET Core.
-* [Lib.Harmony](https://github.com/pardeike/Harmony) - Rewrite mono and C# methods at the runtime, Either write a method that will be executed, or edit the code of the method in IL, mainly used for game modding.  
-* [dotnet-repl](https://github.com/jonsequitur/dotnet-repl) - C# REPL (read-eval-print loop)
+* [PascalABC.NET](https://github.com/pascalabcnet/pascalabcnet) Pascal implementation on .NET.
+* [Iron Python](https://github.com/IronLanguages/ironpython3) - A Python 3 implementation that is integrated with the .NET framework.
+* [IKVM](https://ikvm.org) - A Java Virtual Machine and Bytecode-to-IL converter for .NET. Execute compiled Java code (bytecode) on .NET
+* [Lib.Harmony](https://github.com/pardeike/Harmony) - A library for patching, replacing, and decorating .NET and Mono methods during runtime, mainly used for game modding.  
+* [dotnet-repl](https://github.com/jonsequitur/dotnet-repl) - A polyglot REPL built on .NET Interactive 
 
 ## Compression
 
 * [SharpCompress](https://github.com/adamhathcock/sharpcompress) - SharpCompress is a compression library for .NET/Mono/Silverlight/WP7 that can unrar, un7zip, unzip, untar unbzip2 and ungzip with forward-only reading and file random access APIs. Write support for zip/tar/bzip2/gzip are implemented
+* [FastLZMA2NET](https://github.com/kingsznhone/FastLZMA2Net) - A .NET Wrapper of [Fast LZMA2 Algorithm](https://github.com/conor42/fast-lzma2).
 
 ## Configuration
 * [AgileConfig](https://github.com/dotnetcore/AgileConfig) - AgileConfig is a lightweight configuration center that helps you manage all your application's configurations through website. -  **NOTE**: This is not affiliated with Microsoft or .NET
@@ -344,6 +353,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Feature management
 * [Microsoft.FeatureManagement](https://github.com/microsoft/FeatureManagement-Dotnet) - This library provides a way to develop and expose application functionality based on feature flags. It enables scenarios like new feature rollouts and A/B testing for experimentation purposes. It also provides integration with common .NET coding patterns and ASP.NET Core.
+* [OpenFeature](https://openfeature.dev) - OpenFeature is an open standard for feature flag management designed to provide a unified API and SDK, enabling developers to decouple feature flag evaluation from vendor-specific implementations. It promotes interoperability, flexibility, and standardization for managing feature flags across different tools and platforms.
 
 ## Functional programming
 * [language-ext](https://github.com/louthy/language-ext) - This library uses and abuses the features of C# 6+ to provide a functional 'Base class library', that, if you squint, can look like extensions to the language itself. It also includes an 'Erlang like' process system (actors) that can optionally persist messages and state to Redis (note you can use it without Redis for in-app messaging). The process system additionally supports Rx streams of messages and state allowing for a complete system of reactive events and message dispatch.
@@ -588,6 +598,7 @@ metadata in media files, including video, audio, and photo formats
 * [LibVLCSharp](https://github.com/videolan/libvlcsharp) - Xamarin bindings for libvlc, the multimedia framework powering the VLC applications made by VideoLAN.
 * [NAudio](https://github.com/naudio/NAudio) - Playback, decode and encode audio in a variety of file formats such as MP3, MP4, WAV, AIFF, Speex, etc.
 * [Xabe.FFmpeg](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application. **[$]**
+* [Sonora](https://github.com/ImAxel0/Sonora) - .NET Audio Framework for audio and MIDI playback, editing, and plugin integration.
 
 ## Metrics
 
@@ -790,6 +801,8 @@ metadata in media files, including video, audio, and photo formats
 * [Occurify](https://github.com/Occurify/Occurify) - A powerful and intuitive .NET library for defining, filtering, transforming, and scheduling instant and period timelines.
 * [TickerQ](https://github.com/Arcenox-co/TickerQ) - Lightweight, high-performance, reflection-free job scheduler for .NET with EF Core, cron/time-based execution, custom locking, and retry support.
 * [NCronJob](https://github.com/NCronJob-Dev/NCronJob) - A Job Scheduler sitting on top of IHostedService in dotnet.
+* [NaturalCron](https://github.com/hugoj0s3/NaturalCron) – Human-readable scheduling library for .NET using natural-language expressions.
+
 
 ## SDK and API Clients
 
@@ -952,7 +965,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [EmbedIO](https://github.com/unosquare/embedio) - Web server built on Mono and cross-platform
 * [GenHTTP](https://github.com/Kaliumhexacyanoferrat/GenHTTP) - A lightweight, embeddable web server for quickly creating REST APIs
-* [SimpleW](https://github.com/stratdev3/SimpleW) - Simple Web Server, build your RestAPI, fast, lightweight and cross-platform. 
+* [SimpleW](https://stratdev3.github.io/SimpleW) - Web server Library in .NET Core. Powerfully Simple, Blazingly Fast and Build-in components (API REST, JWT, Websockets, self-serialization, Opentelemetry).
 
 ## WebSocket
 
@@ -986,6 +999,8 @@ metadata in media files, including video, audio, and photo formats
 * [Supernova.Enum.Generators](https://github.com/EngRajabi/Enum.Source.Generator) - A C# source generator to create an enumeration class from an enum type. With this package, you can work on enums very, very fast without using reflection.
 * [Vogan](https://github.com/SteveDunn/Vogen) - A value object generator with analizers.
 * [Dunet](https://github.com/domn1995/dunet) - A simple source generator for discriminated unions in C#.
+* [SyncMethodGenerator](https://github.com/zompinc/sync-method-generator) – Generates synchronous methods from async ones to avoid code duplication.
+
 
 ## Other Lists
 

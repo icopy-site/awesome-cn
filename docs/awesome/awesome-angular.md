@@ -334,36 +334,31 @@ become an Angular expert.
 #### AI
 
 * [Official web page](https://angular.dev/ai)
+* [Official llms.txt file](https://angular.dev/llms.txt)
+* [Official llms-full.txt file](https://angular.dev/context/llm-files/llms-full.txt)
 * [@angular/examples](https://github.com/angular/examples) - Angular Examples using [GenKit](https://firebase.google.com/docs/genkit) and [Vertex AI](https://cloud.google.com/vertex-ai).
-* [Workik](https://workik.com/angular-code-generator) - Free AI-Powered Angular code generator | Your Context-Driven AI Partner!
-* [Figma to Angular](https://www.builder.io/blog/figma-to-angular) - Convert Designs to Clean Angular Code in a Click.
-* [Zipy](https://www.zipy.ai/online-tools/ai-angular-code-generator) - AI Angular Code Generator.
-* [ai-test-gen-angular](https://github.com/DurgeshRathod/ai-test-gen-angular) - A powerful tool that leverages OpenAI's advanced capabilities to automate the generation of unit tests for your Angular components and services.
-* [Yes Chat AI](https://www.yeschat.ai/gpts-ZxX35UdX-Angular-Ninja-%F0%9F%A5%B7) - Angular Ninja - Angular Development Assistant.
-* [theres an ai for that](https://theresanaiforthat.com/s/angular/) - #1 AI aggregator. Updated daily. Used by 20M+.
-* [what plugin](https://www.whatplugin.ai/gpts/angular-copilot) - Angular copilot.
-* [mini-bard-palm2-angular](https://github.com/gsans/mini-bard-palm2-angular) - Result from this [step by step guide](https://medium.com/google-cloud/build-ai-powered-angular-apps-with-google-gemini-5bf5e905ca1d#f02a) on how to integrate Google Gemini with Angular.
-* [gemini-angular-drawing-demo](https://github.com/mgechev/gemini-angular-drawing-demo) - Developer sample written in Angular demonstrating Gemini multimodal (image and audio) input and understanding. The user enters a prompt and the app generates images via VertexAI’s image generation which the user can after that preview in a three-dimensional gallery.
-* [Alan AI](https://alan.app/docs/tutorials/web/integrating-angular-app/) - Build a voice agent for an Angular app.
-* [Vishal Gosain Hashnode](https://vishugosain.hashnode.dev/integrating-open-ai-into-angular-application) - Integrate OpenAI into an Angular app.
-* [ng-generative-ai-demo](https://github.com/c-o-l-i-n/ng-generative-ai-demo) - Result from this [angular-ai-chatbot tutorial](https://colinaw.com/blog/angular-ai-chatbot/).
-* [aitools.fyi](https://aitools.fyi/technology/angular) - AI Tools Built With Angular.
-* [angular-webxr-art-sample](https://github.com/google-gemini/angular-webxr-art-sample) - A WebXR Gallery that creates Generative AI images using [Vertex AI Image Generation](https://cloud.google.com/vertex-ai/generative-ai/docs/image/overview) and creates captioning using [Gemini Multimodel API](https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/overview#multimodal_models).
-* [global seo](https://www.globalseo.ai/integrations/angular) - Translate Angular app with AI.
-* [deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website.
 * [abbi-ng-ai-image-descriptor](https://github.com/slsfi/abbi-ng-ai-image-descriptor) - Angular web app for AI-generated image descriptions. You need an OpenAI API key to use the tool.
-* [Frontend AI](https://app.webcrumbs.ai/frontend-ai) - Ask for a component or upload an image, and instantly receive ready-to-use code without lifting a finger.
-* [Design Shift](https://designshift.dev/) - Generate Angular components you want from [Uizard](https://uizard.io/)  layouts.
-* [UI2CODE](https://ui2code.ai/) - UI to Code Converter in seconds with AI.
-* [PureCode AI](https://purecode.ai/components/angular/application-ui) - Build Angular Application UIs 50% faster with PureCode AI.
-* [augment code](https://www.augmentcode.com/) - The first AI coding assistant built for professional software engineers and large codebases.
-* [ai-friendly-docs](https://github.com/gergelyszerovay/ai-friendly-docs) - This repository offers Angular documentation specifically optimized for AI, making it highly accessible to Large Language Models (LLMs) and enhancing their response quality.
 * [agent-rules-kit](https://github.com/tecnomanu/agent-rules-kit) - A CLI tool that facilitates the installation and configuration of rules for Cursor AI, the AI-powered IDE. The rules help AI agents better understand the structure, patterns, and best practices of different technology stacks.
-* [hashbrown](https://github.com/liveloveapp/hashbrown) - [Hashbrown](https://hashbrown.dev/) is a framework for building joyful, AI-powered user experiences.
-* [CodeSage AI](https://github.com/kd-akshay/code-quality-analyzer) - Analyzes code quality of React, Vue, and Angular projects using linters and an LLM.
+* [ai-friendly-docs](https://github.com/gergelyszerovay/ai-friendly-docs) - This repository offers Angular documentation specifically optimized for AI, making it highly accessible to Large Language Models (LLMs) and enhancing their response quality.
+* [aitools.fyi](https://aitools.fyi/technology/angular) - AI Tools Built With Angular.
+* [angular code editor rules](https://promptgenius.net/cursorrules/frameworks/frontend/angular) - Guide for effective AI interaction patterns when working with Angular code.
 * [angular-mcp-server](https://github.com/SAIPRANAY-GANGULA/angular-mcp-server) - A Model Context Protocol (MCP) server that provides comprehensive access to Angular documentation, enabling AI assistants to search and retrieve Angular-related information with intelligent relevance scoring.
-* [gitingest](https://gitingest.com/) - Turn any Git repository into a simple text digest of its codebase. This is useful for feeding a codebase into any LLM.
+* [augment code](https://www.augmentcode.com/) - The first AI coding assistant built for professional software engineers and large codebases.
+* [CodeSage AI](https://github.com/kd-akshay/code-quality-analyzer) - Analyzes code quality of React, Vue, and Angular projects using linters and an LLM.
 * [context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors.
+* [deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website.
+* [Design Shift](https://designshift.dev/) - Generate Angular components you want from [Uizard](https://uizard.io/)  layouts.
+* [Figma to Angular](https://www.builder.io/blog/figma-to-angular) - Convert designs to clean Angular code in a click.
+* [Frontend AI](https://app.webcrumbs.ai/frontend-ai) - Ask for a component or upload an image, and instantly receive ready-to-use code without lifting a finger.
+* [gitingest](https://gitingest.com/) - Turn any Git repository into a simple text digest of its codebase. This is useful for feeding a codebase into any LLM.
+* [global seo](https://www.globalseo.ai/integrations/angular) - Translate Angular app with AI.
+* [hashbrown](https://github.com/liveloveapp/hashbrown) - [Hashbrown](https://hashbrown.dev/) is a framework for building joyful, AI-powered user experiences.
+* [mini-bard-palm2-angular](https://github.com/gsans/mini-bard-palm2-angular) - Result from this [step by step guide](https://medium.com/google-cloud/build-ai-powered-angular-apps-with-google-gemini-5bf5e905ca1d#f02a) on how to integrate Google Gemini with Angular.
+* [PureCode AI](https://purecode.ai/components/angular/application-ui) - Build Angular application UIs 50% faster with PureCode AI.
+* [UI2CODE](https://ui2code.ai/) - UI to Code Converter in seconds with AI.
+* [Workik](https://workik.com/angular-code-generator) - Free AI-Powered Angular code generator | Your Context-Driven AI Partner!
+* [Yes Chat AI](https://www.yeschat.ai/gpts-ZxX35UdX-Angular-Ninja-%F0%9F%A5%B7) - Angular Ninja - Angular Development Assistant.
+* [Zipy](https://www.zipy.ai/online-tools/ai-angular-code-generator) - AI Angular Code Generator.
 
 #### Analytics
 
@@ -531,6 +526,7 @@ become an Angular expert.
 * [angular schematics pro](https://cyrilletuzi.gumroad.com/l/schematicspro) - Ultimate Angular code generation in Visual Studio Code.
 * [vscode-angular-auto-import](https://github.com/ngx-rock/vscode-angular-auto-import) - Automatically suggests and inserts missing Angular component imports based on selectors used in templates.
 * [falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs.
+* [ng-reactive-lint](https://github.com/Shrinivassab/ng-reactive-lint) - An Angular-specific linter enforcing optimal reactivity patterns with Signals and RxJS.
 
 #### Documentation tools
 
@@ -687,44 +683,44 @@ become an Angular expert.
 
 #### Internationalization
 
-* [transloco](https://github.com/jsverse/transloco/) - 🚀 😍 The internationalization (i18n) library for Angular.
-* [transloco-keys-manager](https://github.com/jsverse/transloco-keys-manager) - Tools to help reduce monotonous work.
-* [ngx-tolgee](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
-* [angular-l10n](https://github.com/robisim74/angular-l10n) - Angular library to translate texts, dates and numbers.
-* [I18N](https://github.com/soluling/I18N) - Soluling has implemented a collection of internationalization (I18N) APIs for .NET, Angular and Delphi.
-* [ng-extract-i18n-merge](https://github.com/daniel-sc/ng-extract-i18n-merge) - Extract and merge i18n xliff translation files for Angular projects.
-* [ngx-translate](https://github.com/ngx-translate/core) - The internationalization (i18n) library for Angular.
-* [ngx-translate-module-loader](https://github.com/larscom/ngx-translate-module-loader) - Highly configurable and flexible translations loader for `@ngx-translate/core`.
-* [ngx-translate-multi-http-loader](https://github.com/rbalet/ngx-translate-multi-http-loader) - A loader for ngx-translate that loads translations with http calls.
 * [angular-ecmascript-intl](https://github.com/json-derulo/angular-ecmascript-intl) - Contains pipes to transform internationalization data using Intl.* browser APIs.
+* [angular-intlayer](https://www.npmjs.com/package/angular-intlayer) - This [intlayer](https://github.com/aymericzip/intlayer) package allows you to internationalize your Angular application. It provides context providers and hooks for Angular internationalization.
+* [angular-l10n](https://github.com/robisim74/angular-l10n) - Angular library to translate texts, dates and numbers.
+* [angular-translation-checker](https://github.com/ricardoferreirades/angular-translation-checker) - A comprehensive tool for analyzing translation keys in Angular projects using `ngx-translate`. Detect unused translations, missing keys, and keep your i18n files clean.
+* [doloc](https://doloc.io/) - Instant translations in your [Angular](https://doloc.io/getting-started/frameworks/angular/) workflow.
+* [I18N](https://github.com/soluling/I18N) - Soluling has implemented a collection of internationalization (I18N) APIs for .NET, Angular and Delphi.
 * [i18n-ally](https://github.com/lokalise/i18n-ally) - All in one i18n extension for VS Code.
 * [intl-tel-input-ng](https://github.com/mpalourdio/intl-tel-input-ng) - An Angular component to easily integrate [intl-tel-input](https://github.com/jackocnr/intl-tel-input).
-* [ng-intl](https://github.com/antimprisacaru/ng-intl) - Type-safe, reactive Angular i18n library. Lazy-loaded translations, signal-based reactivity, full TypeScript support. Efficient, flexible, and scalable internationalization for Angular projects.
-* [ngx-easy-i18n-js](https://github.com/gabrie-allaigre/ngx-easy-i18n-js) - The easy internationalization (i18n) library for Angular.
-* [ngx-translate-lint](https://github.com/romanrostislavovich/ngx-translate-lint) - Simple CLI tools for check `ngx-translate` keys.
-* [ngx-merge-json-translations](https://github.com/jonnomk/ngx-merge-json-translations) - This builder helps merge the `messages.json` file, after running extract-i18n, into target files using specified locales taking care to delete removed keys and add new ones.
-* [ngx-i18n-extract-regex-cli](https://github.com/Celtian/ngx-i18n-extract-regex-cli) - Tool for extracting translations from Angular app using regex.
-* [ngx-translate-version](https://github.com/Celtian/ngx-translate-version) - Angular module that provides version to your language files.
-* [ngx-signal-translate](https://github.com/adamcsk1/ngx-signal-translate) - A signal-driven translation service.
-* [ngs-plural](https://github.com/andrei-shpileuski/ngs-plural) - A lightweight Angular library for handling pluralization in different languages using a pipe and a service. It simplifies the process of generating grammatically correct plural forms based on a numeric count and supports custom language rules.
-* [ngx-translate-messageformat-compiler](https://github.com/lephyrus/ngx-translate-messageformat-compiler) - Compiler for `ngx-translate` that uses [messageformat.js](https://github.com/messageformat/messageformat) to compile translations using ICU syntax for handling pluralization and gender.
-* [ngx-g11n](https://github.com/DSI-HUG/ngx-g11n) - Angular helpers for internationalizing and localizing your application.
-* [ng-translate-extensions](https://github.com/ressurectit/ng-translate-extensions) - Angular module extending ng2-translate.
-* [ngx-translate-routes](https://github.com/darioegb/ngx-translate-routes) - This service translates titles and route paths.
-* [@transifex/angular](https://github.com/transifex/transifex-javascript/tree/master/packages/angular/projects/tx-native-angular-sdk) - You can easily localize Angular components using the [@transifex/angular](https://www.npmjs.com/package/@transifex/angular) library extension. This library extends the functionality of [Transifex Native JavaScript SDK](https://developers.transifex.com/docs/javascript-sdk).
-* [doloc](https://doloc.io/) - Instant translations in your [Angular](https://doloc.io/getting-started/frameworks/angular/) workflow.
-* [ngx-i18n-tools](https://github.com/Ascor8522/ngx-i18n-tools) - A collection of tools to help with the translation of Angular applications, including an Excel and XLIFF converter, [ngx-xlf-xlsx](https://github.com/Ascor8522/ngx-i18n-tools/tree/master/ngx-xlf-xlsx).
-* [ngx-translate-db](https://github.com/kinleyrabgay/ngx-translate-db) - A lightweight, efficient Angular translation library that uses IndexedDB for offline storage. Perfect for applications that need to handle translations without network dependency.
-* [ngx-glagolize](https://github.com/alkorschun/ngx-glagolize) - An Angular library for handling translations and localization.
 * [locale-translator](https://github.com/andreasnicolaou/locale-translator) - Translate any locale with the provided pipe or service.
-* [tldraw-web-component](https://github.com/neosh11/tldraw-web-component) - Make [tldraw](https://github.com/tldraw/tldraw) work with frameworks other than React; Made primarily to work with Angular.
-* [signal-translate](https://github.com/NGneers/signal-translate) - Translation service that is using signals at its core.
-* [ngx-translate-cut](https://github.com/bartholomej/ngx-translate-cut) - Angular pipe for cutting translations ✂️ 🌍 (plugin for `@ngx-translate`).
-* [ngx-signal-i18n](https://github.com/yagcioe/ngx-signal-i18n) - This package provides a typesafe and lazy-loaded internationalization (i18n) solution for Angular applications, built on top of signals for improved reactivity. It is compatible with zoneless Angular.
+* [ng-extract-i18n-merge](https://github.com/daniel-sc/ng-extract-i18n-merge) - Extract and merge i18n xliff translation files for Angular projects.
+* [ng-intl](https://github.com/antimprisacaru/ng-intl) - Type-safe, reactive Angular i18n library. Lazy-loaded translations, signal-based reactivity, full TypeScript support. Efficient, flexible, and scalable internationalization for Angular projects.
+* [ng-translate-extensions](https://github.com/ressurectit/ng-translate-extensions) - Angular module extending ng2-translate.
+* [ngs-plural](https://github.com/andrei-shpileuski/ngs-plural) -  It simplifies the process of generating grammatically correct plural forms based on a numeric count and supports custom language rules.
+* [ngx-easy-i18n-js](https://github.com/gabrie-allaigre/ngx-easy-i18n-js) - The easy internationalization (i18n) library for Angular.
+* [ngx-g11n](https://github.com/DSI-HUG/ngx-g11n) - Angular helpers for internationalizing and localizing your application.
+* [ngx-glagolize](https://github.com/alkorschun/ngx-glagolize) - An Angular library for handling translations and localization.
+* [ngx-i18n-extract-regex-cli](https://github.com/Celtian/ngx-i18n-extract-regex-cli) - Tool for extracting translations from Angular app using regex.
+* [ngx-i18n-tools](https://github.com/Ascor8522/ngx-i18n-tools) - A collection of tools to help with the translation of Angular applications, including an Excel and XLIFF converter, [ngx-xlf-xlsx](https://github.com/Ascor8522/ngx-i18n-tools/tree/master/ngx-xlf-xlsx).
+* [ngx-merge-json-translations](https://github.com/jonnomk/ngx-merge-json-translations) - This builder helps merge the `messages.json` file, after running extract-i18n, into target files using specified locales taking care to delete removed keys and add new ones.
+* [ngx-signal-i18n](https://github.com/yagcioe/ngx-signal-i18n) - This package provides a typesafe and lazy-loaded internationalization (i18n) solution for Angular applications, built on top of signals for improved reactivity. Compatible with zoneless.
+* [ngx-signal-translate](https://github.com/adamcsk1/ngx-signal-translate) - A signal-driven translation service.
+* [ngx-tolgee](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app thezy develop.
+* [ngx-translate](https://github.com/ngx-translate/core) - The internationalization (i18n) library for Angular.
 * [@OGS-GmbH/ngx-translate](https://github.com/OGS-GmbH/ngx-translate) - A lightweight, REST-based Angular i18n library designed for seamless internationalization with minimal setup. It supports dynamic language switching & flexible translation management via RESTful APIs.
-* [angular-intlayer](https://www.npmjs.com/package/angular-intlayer) - This [intlayer](https://github.com/aymericzip/intlayer) package allows you to internationalize your Angular application. It provides context providers and hooks for Angular internationalization.
+* [ngx-translate-cut](https://github.com/bartholomej/ngx-translate-cut) - Angular pipe for cutting translations ✂️ 🌍 (plugin for `@ngx-translate`).
+* [ngx-translate-db](https://github.com/kinleyrabgay/ngx-translate-db) - A lightweight, efficient Angular translation library that uses IndexedDB for offline storage.
+* [ngx-translate-lint](https://github.com/romanrostislavovich/ngx-translate-lint) - Simple CLI tools for check `ngx-translate` keys.
+* [ngx-translate-messageformat-compiler](https://github.com/lephyrus/ngx-translate-messageformat-compiler) - Compiler for `ngx-translate` that uses [messageformat.js](https://github.com/messageformat/messageformat) to compile translations using ICU syntax for handling pluralization and gender.
+* [ngx-translate-module-loader](https://github.com/larscom/ngx-translate-module-loader) - Highly configurable and flexible translations loader for `@ngx-translate/core`.
+* [ngx-translate-multi-http-loader](https://github.com/rbalet/ngx-translate-multi-http-loader) - A loader for ngx-translate that loads translations with http calls.
+* [ngx-translate-routes](https://github.com/darioegb/ngx-translate-routes) - This service translates titles and route paths.
 * [ngx-translate-toolkit](https://github.com/robmanganelly/ngx-translate-toolkit) - An Angular library designed to extend `@ngx-translate/core` and streamline the process of managing translations in large projects.
-* [angular-translation-checker](https://github.com/ricardoferreirades/angular-translation-checker) - A comprehensive tool for analyzing translation keys in Angular projects using `ngx-translate`. Detect unused translations, missing keys, and keep your i18n files clean.
+* [ngx-translate-version](https://github.com/Celtian/ngx-translate-version) - Angular module that provides version to your language files.
+* [signal-translate](https://github.com/NGneers/signal-translate) - Translation service that is using signals at its core.
+* [tldraw-web-component](https://github.com/neosh11/tldraw-web-component) - Make [tldraw](https://github.com/tldraw/tldraw) work with frameworks other than React; Made primarily to work with Angular.
+* [@transifex/angular](https://github.com/transifex/transifex-javascript/tree/master/packages/angular/projects/tx-native-angular-sdk) - You can easily localize Angular components using the [@transifex/angular](https://www.npmjs.com/package/@transifex/angular) library extension. This library extends the functionality of [Transifex Native JavaScript SDK](https://developers.transifex.com/docs/javascript-sdk).
+* [transloco](https://github.com/jsverse/transloco/) - 🚀 😍 The internationalization (i18n) library for Angular.
+* [transloco-keys-manager](https://github.com/jsverse/transloco-keys-manager) - Tools to help reduce monotonous work.
 
 #### Module Federation
 
@@ -977,15 +973,16 @@ become an Angular expert.
 #### Calendars
 
 * [angular-calendar](https://github.com/mattlewis92/angular-calendar) - A flexible calendar component for Angular 15+ that can display events on a month, week, or day view.
-* [fullcalendar-angular](https://github.com/fullcalendar/fullcalendar-angular) - The official Angular component for FullCalendar.
-* [@schedule-x/angular](https://github.com/schedule-x/schedule-x) - Material design event calendar.
 * [angular-calendar-timeline](https://github.com/oOps1627/angular-calendar-timeline) - A timeline for Angular 13+ that shows tasks or events on a timeline in different modes: days, weeks, and months. This library is pretty small and DOESN'T use big dependencies like JQuery or Moment.js. Library also supports SSR.
-* [ngx-resource-calendar](https://github.com/by-pinja/ngx-resource-calendar) - Angular resource calendar library.
-* [timegrid-angular](https://www.npmjs.com/package/@hexaflexa/timegrid-angular) - Angular wrapper for the [HexaFlexa](https://hexaflexa.com/) Timegrid web component.
-* [ngx-calendar-widget](https://github.com/giacomo/ngx-calendar-widget) - A lightweight, customizable, and feature-rich calendar widget designed to simplify event management and scheduling in your Angular applications.
-* [ngx-calendario](https://github.com/roquemacia/ngx-calendario) - An Angular library for displaying customizable calendars with event support.
-* [daypilot-lite-angular](https://www.npmjs.com/package/@daypilot/daypilot-lite-angular) - Angular version of JavaScript/HTML5 event calendar/scheduler components that can display day/week/month calendar views.
 * [@pyas/connect-angular](https://www.npmjs.com/package/@pyas/connect-angular) - A plugin wrapper around the [Pyas Connect](https://github.com/brutforce-tech/pyas-connect) Web Component, exposing PyasConnect as a first-class Angular component.
+* [daypilot-lite-angular](https://www.npmjs.com/package/@daypilot/daypilot-lite-angular) - Angular version of JavaScript/HTML5 event calendar/scheduler components that can display day/week/month calendar views.
+* [fullcalendar-angular](https://github.com/fullcalendar/fullcalendar-angular) - The official Angular component for FullCalendar.
+* [ngx-calendario](https://github.com/roquemacia/ngx-calendario) - An Angular library for displaying customizable calendars with event support.
+* [ngx-calendar-widget](https://github.com/giacomo/ngx-calendar-widget) - A lightweight, customizable, and feature-rich calendar widget designed to simplify event management and scheduling in your Angular applications.
+* [ngx-resource-calendar](https://github.com/by-pinja/ngx-resource-calendar) - Angular resource calendar library.
+* [ngx-strip-calendar](https://github.com/codingchefss/ngx-strip-calendar) - Strip calendar component for Angular 17+.
+* [@schedule-x/angular](https://github.com/schedule-x/schedule-x) - Material design event calendar.
+* [timegrid-angular](https://www.npmjs.com/package/@hexaflexa/timegrid-angular) - Angular wrapper for the [HexaFlexa](https://hexaflexa.com/) Timegrid web component.
 
 #### Captcha
 
@@ -1025,30 +1022,31 @@ become an Angular expert.
 
 #### Charts
 
-* [ng2-charts](https://github.com/valor-software/ng2-charts) - Beautiful charts for Angular2 based on Chart.js.
-* [ngx-charts](https://github.com/swimlane/ngx-charts) - Declarative Charting Framework for Angular2 and beyond!
-* [ng-apexcharts](https://github.com/apexcharts/ng-apexcharts) - Angular wrapper for ApexCharts to build interactive visualizations in Angular 7+.
-* [ng-chartist](https://github.com/willsoto/ng-chartist) - Angular component for Chartist.js.
-* [org-chart](https://github.com/bumbeishvili/org-chart) - Highly customizable org chart. Integrations available for Angular, React, and Vue.
-* [ag-charts](https://github.com/ag-grid/ag-charts/tree/latest/packages/ag-charts-angular) - Fully-featured and highly customizable JavaScript charting library.
-* [systelab-charts](https://github.com/systelab/systelab-charts) - Systelab Angular Chart services.
-* [ngx-gantt](https://github.com/worktile/ngx-gantt) - A modern and powerful gantt chart component for Angular.
-* [carbon-charts](https://github.com/carbon-design-system/carbon-charts/tree/master/packages/angular) - Carbon Charts Angular is a thin Angular wrapper around the vanilla JavaScript @carbon/charts component library.
-* [ngx-simple-charts](https://github.com/Angular2Guy/ngx-simple-charts) - Angular 17+ library for D3 based line, bar, donut and date/timeline charts with multiple entry points. A configurable service for token handling is provided.
-* [ngx-echarts](https://github.com/xieziyu/ngx-echarts) - Angular directive for [Apache ECharts](https://github.com/apache/incubator-echarts).
-* [ngu-flow](https://github.com/uiuniversal/ngu-flow) - Angular flow diagram library.
-* [highcharts-angular](https://github.com/highcharts/highcharts-angular) - Official minimal [Highcharts](https://www.highcharts.com/) integration for Angular.
-* [Foblex](https://flow.foblex.com/) - Angular Powered Flow-Chart Library.
-* [unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
-* [angular-google-charts](https://github.com/FERNman/angular-google-charts) - A wrapper for the Google Charts library written in Angular.
-* [ngx-flexmonster](https://github.com/flexmonster/ngx-flexmonster) - A powerful and fully customizable JavaScript component for web reporting. It is packed with all core features for data analysis and can easily become a part of your Angular data visualization project.
-* [ngx-graph](https://github.com/swimlane/ngx-graph) - Graph visualization library for Angular.
-* [ng-draw-flow](https://github.com/taiga-family/ng-draw-flow) - A library for creating interfaces based on displaying data as nodes. It allows you to create both simple diagrams and complex editors for building customised charts and graphs.
-* [sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. Zero external dependencies.
-* [ngx-hierarchy](https://github.com/rushik1992/ngx-hierarchy) - Angular Component Module for Vertical or Horizontal Hierarchy/Tree View with flexible dynamic template design and controls.
 * [@cubejs-client/ngx](https://www.npmjs.com/package/@cubejs-client/ngx) — Along with [@cubejs-client/core](https://www.npmjs.com/package/@cubejs-client/core), you can [integrate](https://cube.dev/docs/product/apis-integrations/javascript-sdk/angular) Cube.js in Angular.
-* [ngx-lightweight-charts](https://github.com/jamesbrobb/ngx-lightweight-charts) - An easily extendable Angular wrapper for [Trading View Lightweight Charts](https://www.tradingview.com/lightweight-charts/).
+* [ngx-charts](https://github.com/swimlane/ngx-charts) - Declarative Charting Framework for Angular2 and beyond!
+* [ag-charts](https://github.com/ag-grid/ag-charts/tree/latest/packages/ag-charts-angular) - Fully-featured and highly customizable JavaScript charting library.
 * [amcharts5](https://github.com/amcharts/amcharts5) - The newest, fastest, and most advanced amCharts charting library for JavaScript and TypeScript apps. Check out the [Angular integration guide](https://www.amcharts.com/docs/v5/getting-started/integrations/angular/) to get started. Additionally, older versions are still being updated to support newer releases of Angular.
+* [angular-google-charts](https://github.com/FERNman/angular-google-charts) - A wrapper for the Google Charts library written in Angular.
+* [carbon-charts](https://github.com/carbon-design-system/carbon-charts/tree/master/packages/angular) - Carbon Charts Angular is a thin Angular wrapper around the vanilla JavaScript @carbon/charts component library.
+* [Foblex](https://flow.foblex.com/) - Angular Powered Flow-Chart Library.
+* [highcharts-angular](https://github.com/highcharts/highcharts-angular) - Official minimal [Highcharts](https://www.highcharts.com/) integration for Angular.
+* [ng-apexcharts](https://github.com/apexcharts/ng-apexcharts) - Angular wrapper for ApexCharts to build interactive visualizations.
+* [ng-chartist](https://github.com/willsoto/ng-chartist) - Angular component for [Chartist.js](https://github.com/chartist-js/chartist).
+* [ng-draw-flow](https://github.com/taiga-family/ng-draw-flow) - A library for creating interfaces based on displaying data as nodes.
+* [ng2-charts](https://github.com/valor-software/ng2-charts) - Beautiful charts for Angular2 based on Chart.js.
+* [ngu-flow](https://github.com/uiuniversal/ngu-flow) - Angular flow diagram library.
+* [ngx-echarts](https://github.com/xieziyu/ngx-echarts) - Angular directive for [Apache ECharts](https://github.com/apache/incubator-echarts).
+* [ngx-flexmonster](https://github.com/flexmonster/ngx-flexmonster) - A powerful and fully customizable JavaScript component for web reporting and data visualization.
+* [ngx-gantt](https://github.com/worktile/ngx-gantt) - A modern and powerful gantt chart component for Angular.
+* [ngx-graph](https://github.com/swimlane/ngx-graph) - Graph visualization library for Angular.
+* [ngx-hierarchy](https://github.com/rushik1992/ngx-hierarchy) - Angular component module for vertical or horizontal hierarchy/tree view with flexible dynamic template design and controls.
+* [ngx-interactive-org-chart](https://github.com/zeyadelshaf3y/ngx-interactive-org-chart) - Modern Angular organizational chart component with interactive pan/zoom functionality.
+* [ngx-lightweight-charts](https://github.com/jamesbrobb/ngx-lightweight-charts) - An easily extendable Angular wrapper for [Trading View Lightweight Charts](https://www.tradingview.com/lightweight-charts/).
+* [ngx-simple-charts](https://github.com/Angular2Guy/ngx-simple-charts) - Angular 17+ library for D3 based line, bar, donut and date/timeline charts with multiple entry points. A configurable service for token handling is provided.
+* [org-chart](https://github.com/bumbeishvili/org-chart) - Highly customizable org chart. Integrations available for Angular, React, and Vue.
+* [sequential-workflow-designer](https://github.com/nocode-js/sequential-workflow-designer) - Customizable no-code component for building flow-based programming applications or workflow automation. Zero external dependencies.
+* [systelab-charts](https://github.com/systelab/systelab-charts) - Systelab Angular Chart services.
+* [unovis](https://github.com/f5/unovis) - Modular data visualization framework for React, Angular, Svelte, Vue, and vanilla TypeScript or JavaScript.
 
 #### Cookies
 
@@ -1889,31 +1887,32 @@ for the creation of web applications developed with Angular.
 #### RxJS
 
 * [Official website](https://rxjs.dev/) - Reactive Extensions Library for JavaScript.
-* [learn-rxjs](https://github.com/btroncone/learn-rxjs) - Clear examples, explanations, and resources for RxJS.
-* [rxjs-course](https://github.com/angular-university/rxjs-course) - RxJS course from Angular University
-* [@mrOranger/RxJs](https://github.com/mrOranger/RxJs) - Theory with examples about the Reactive Programming paradigm, using the library RxJS.
-* [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics".
-* [rxjs-challenge](https://github.com/AngularWave/rxjs-challenge) - A set of little RxJS puzzles to practice your Observable skills.
-* [operators](https://github.com/jscutlery/devkit/tree/main/packages/operators) - This package regroups a couple of RxJS operators meant to simplify some common patterns.
-* [until-destroy](https://github.com/ngneat/until-destroy) - RxJS operator that unsubscribe from observables on destroy.
 * [effects](https://github.com/ngneat/effects) - A framework-agnostic RxJS effects implementation.
+* [eslint-plugin-rxjs-x](https://github.com/JasonWeinzierl/eslint-plugin-rxjs-x) - A fork of [eslint-plugin-rxjs](https://github.com/cartant/eslint-plugin-rxjs) initially started to support the new ESLint flat config format that has since had numerous breaking changes and further improvements.
+* [fork-join-settled](https://github.com/DKozachenko/fork-join-settled) - RxJS library which is analog of [Promise.allSettled()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/allSettled) method.
+* [learn-rxjs](https://github.com/btroncone/learn-rxjs) - Clear examples, explanations, and resources for RxJS.
+* [ng-event-bus](https://github.com/cristiammercado/ng-event-bus) - RxJS-based message bus service for Angular.
+* [ng-rxjs-safe-subscribe](https://github.com/piotrekn/ng-rxjs-safe-subscribe) - Implementation of Angular's repeatable OnDestroy pattern.
+* [ngx-device-permission](https://github.com/PhilipSh/ngx-device-permission) - Angular library for handling device permissions (camera, microphone, geolocation, etc.) in a reactive way using RxJS.
 * [ngx-observable-lifecycle](https://github.com/cloudnc/ngx-observable-lifecycle) - Library for observing the lifecycle of an (Ivy compiled) Angular component.
 * [ngx-operators](https://github.com/nilsmehlhorn/ngx-operators) - RxJS operators for Angular.
-* [subscribable-things](https://github.com/chrisguttandin/subscribable-things) - A collection of reactive wrappers for various browser APIs.
 * [ngx-rxjs-zone-scheduler](https://github.com/ftischler/ngx-rxjs-zone-scheduler) - A library for Angular providing RxJS schedulers to run some kind of work inside or outside of `NgZone`.
-* [rxjs-broker](https://github.com/chrisguttandin/rxjs-broker) - An RxJS message broker for WebRTC DataChannels and WebSockets.
-* [observable-webworker](https://github.com/cloudnc/observable-webworker) - Simplified API for working with Web Workers with RxJS.
-* [ng-event-bus](https://github.com/cristiammercado/ng-event-bus) - RxJS-based message bus service for Angular.
-* [rxjs-typewriter](https://github.com/omnedia/rxjs-typewriter) - A lightweight and easy-to-use NPM library for creating typewriter effects in your web applications. It uses RxJS to manage the typewriting effect, ensuring smooth and customizable animations.
 * [ngx-safe-subscribe](https://github.com/Badisi/ngx-safe-subscribe) - Easy way to automatically unsubscribe from RxJS observables in Angular components.
-* [rxjs-collection](https://github.com/henryruhs/rxjs-collection) - RxJS enhanced Array, Map, WeakMap, Set and WeakSet.
-* [ng-rxjs-safe-subscribe](https://github.com/piotrekn/ng-rxjs-safe-subscribe) - Implementation of Angular's repeatable OnDestroy pattern.
-* [rxvisualizer](https://rxvisualizer.com/) - RxJS Marble Diagram Visualizer from [Angular Space](https://www.angularspace.com/).
-* [eslint-plugin-rxjs-x](https://github.com/JasonWeinzierl/eslint-plugin-rxjs-x) - A fork of [eslint-plugin-rxjs](https://github.com/cartant/eslint-plugin-rxjs) initially started to support the new ESLint flat config format that has since had numerous breaking changes and further improvements.
+* [observable-webworker](https://github.com/cloudnc/observable-webworker) - Simplified API for working with Web Workers with RxJS.
+* [operators](https://github.com/jscutlery/devkit/tree/main/packages/operators) - This package regroups a couple of RxJS operators meant to simplify some common patterns.
+* [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics".
+* [@mrOranger/RxJs](https://github.com/mrOranger/RxJs) - Theory with examples about the Reactive Programming paradigm, using the library RxJS.
+* [rxjs-broker](https://github.com/chrisguttandin/rxjs-broker) - An RxJS message broker for WebRTC DataChannels and WebSockets.
+* [rxjs-challenge](https://github.com/AngularWave/rxjs-challenge) - A set of little RxJS puzzles to practice your Observable skills.
+* [rxjs-collection](https://github.com/henryruhs/rxjs-collection) - RxJS enhanced Array, Map, WeakMap, Set, and WeakSet.
 * [rxjs-common](https://github.com/paddls/rxjs-common) - A collection of useful RxJS operators.
-* [fork-join-settled](https://github.com/DKozachenko/fork-join-settled) - RxJS library which is analog of [Promise.allSettled()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/allSettled) method.
 * [rxjs-conduit](https://github.com/Fasteroid/rxjs-conduit) - RxJS ReplaySubjects with with additional features to make reactive programming easier.
-* [ngx-device-permission](https://github.com/PhilipSh/ngx-device-permission) - Angular library for handling device permissions (camera, microphone, geolocation, etc.) in a reactive way using RxJS.
+* [rxjs-course](https://github.com/angular-university/rxjs-course) - RxJS course from Angular University.
+* [rxjs-typewriter](https://github.com/omnedia/rxjs-typewriter) - A lightweight and easy-to-use NPM library for creating typewriter effects in your web applications. It uses RxJS to manage the typewriting effect, ensuring smooth and customizable animations.
+* [rxvisualizer](https://rxvisualizer.com/) - RxJS Marble Diagram Visualizer from [Angular Space](https://www.angularspace.com/).
+* [subscribable-things](https://github.com/chrisguttandin/subscribable-things) - A collection of reactive wrappers for various browser APIs.
+* [subsiphon](https://github.com/shobeiry/subsiphon) - A lightweight utility to manage multiple RxJS Subscriptions. It lets you add subscriptions via numeric indexes or named keys and provides easy `unsubscribe()` and `destroy()` methods to clean them up.
+* [until-destroy](https://github.com/ngneat/until-destroy) - RxJS operator that unsubscribe from observables on destroy.
 
 #### TypeScript
 
