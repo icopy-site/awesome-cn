@@ -339,3 +339,4 @@ These C/C++ libraries were packaged to be used with the Zig build and packaging 
 * [kubkon/zig-ios-example](https://github.com/kubkon/zig-ios-example) - Minimal `build.zig` for targeting iOS.
 * [ynuwenhof/zigbraten](https://github.com/ynuwenhof/zigbraten) - Proof of concept internal cheat for Cube 2: Sauerbraten.
 * [vbrusca/ZigSdlGameTemplate](https://github.com/vbrusca/ZigSdlGameTemplate) - SDL game project template.
+* [freref/fancy-cat](https://github.com/freref/fancy-cat) - PDF viewer for your terminal.

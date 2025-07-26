@@ -835,12 +835,12 @@ become an Angular expert.
 * [signal-admin](https://github.com/codebangla/signal-admin) - A modern admin panel built with Angular 20, Angular Material, and TailwindCSS. Features a responsive design with collapsible sidebar, user management, forms, and UI components.
 * [ngXpress](https://github.com/angularcafe/ngXpress) - The Full-Stack Angular Starter Kit (SSR, Zoneless, Express 5, Prisma, better-auth, Tailwind CSS 4).
 * [spartan-stack-starter](https://github.com/thatsamsonkid/spartan-stack-starter) - An Opinionated Template Project Starter using Spartan Stack.
+* [jet](https://github.com/karmasakshi/jet) - Angular starter-kit for building quality web apps fast.
 
 ##### Paid
 
 * [Admin Mart](https://adminmart.com/templates/angular-dashboard/)
 * [Angular-Templates](https://angular-templates.io/)
-* [Jet](https://docs.jetproject.dev/) - Jet is the ultimate Angular + Material Design boilerplate to build ambitious, robust web apps. Jet satisfies 60+ functional and non-functional stories.
 * [NgFast](https://ngfast.com/) - The Angular boilerplate for building SaaS, landing pages, and web apps fast—turning your ideas into income.
 * [Nzoni](https://nzoni.app/) - Launch your SAAS in days with Angular.
 * [Theme Forest](https://themeforest.net/search/angular)
@@ -1346,19 +1346,20 @@ to simplify usage and allow quick customization.
 
 #### Images
 
-* [ngx-image-hero](https://github.com/hm21/ngx-image-hero) - A package to implement hero animations, allowing users to click on images and smoothly zoom them into a larger, immersive view, enhancing the user experience and interaction with images.
-* [ngx-image-cropper](https://github.com/Mawi137/ngx-image-cropper) - An image cropper for Angular.
 * [cloudinary](https://cloudinary.com/documentation/angular_integration) - Angular SDK from Cloudinary.
-* [@unpic/angular](https://unpic.pics/img/angular/) - Angular directive for responsive, high-performance images. Generates a responsive `<img>` tag that follows best practices, with the correct srcset, sizes and styles. Detects image URLs from most image CDNs and CMSs and can resize images with no build step.
 * [ngx-advanced-img](https://github.com/bmartinson/ngx-advanced-img) - Angular attribute directives suite that provides various HTML img feature extensions.
-* [ngx-img-cropper](https://github.com/web-dave/ngx-img-cropper) - Image cropping tool for Angular.
-* [ngx-smart-cropper](https://github.com/kurti-vdb/ngx-smart-cropper) - Angular standalone component that allows users to upload, crop, and resize images with ease. It provides intuitive drag-and-resize functionality, grid overlays, and supports various aspect ratios and output formats.
 * [ngx-annotorious](https://github.com/vedph/ngx-annotorious) - Angular wrapper for [Annotorious V3](https://annotorious.dev/), a library that adds annotations to images.
-* [ngx-easy-image-drawing](https://github.com/PsySanchez/ngx-easy-image-drawing) - Angular library for easy image drawing on a canvas.
+* [ngx-avatars](https://github.com/Heatmanofurioso/ngx-avatars) - Spiritual successor to [ngx-avatar](https://github.com/HaithemMosbahi/ngx-avatar).
 * [ngx-blurhash-render](https://github.com/Mohid123/ngx-blurhash-render) - Lighweight library that renders the blurhash of a provided image. For Angular 15+. Requires [blurhash](https://www.npmjs.com/package/blurhash) as a dependency.
-* [ngx-pinch-zoom](https://github.com/medDV-GmbH/ngx-pinch-zoom) - This module enables image zooming and positioning through touch screen gestures.
 * [ngx-broken-img](https://github.com/andreagrossetti/ngx-broken-img) - Angular directive to fix broken url in img. If image url returns 404, a placeholder is used to fill img's src.
+* [ngx-easy-image-drawing](https://github.com/PsySanchez/ngx-easy-image-drawing) - Angular library for easy image drawing on a canvas.
+* [ngx-image-cropper](https://github.com/Mawi137/ngx-image-cropper) - An image cropper for Angular.
+* [ngx-image-hero](https://github.com/hm21/ngx-image-hero) - A package to implement hero animations, allowing users to click on images and smoothly zoom them into a larger, immersive view, enhancing the user experience and interaction with images.
+* [ngx-img-cropper](https://github.com/web-dave/ngx-img-cropper) - Image cropping tool for Angular.
 * [ngx-lightbox](https://github.com/jjmhalew/ngx-lightbox) - A [lightbox2](https://github.com/lokesh/lightbox2) implementation port to use with Angular >= 18 (zoneless).
+* [ngx-pinch-zoom](https://github.com/medDV-GmbH/ngx-pinch-zoom) - This module enables image zooming and positioning through touch screen gestures.
+* [ngx-smart-cropper](https://github.com/kurti-vdb/ngx-smart-cropper) - Angular standalone component that allows users to upload, crop, and resize images with ease. It provides intuitive drag-and-resize functionality, grid overlays, and supports various aspect ratios and output formats.
+* [@unpic/angular](https://unpic.pics/img/angular/) - Angular directive for responsive, high-performance images. Generates a responsive `<img>` tag that follows best practices, with the correct srcset, sizes and styles. Detects image URLs from most image CDNs and CMSs and can resize images with no build step.
 
 #### Keyboard Mouse
 
@@ -1404,6 +1405,7 @@ to simplify usage and allow quick customization.
 * [ngx-loading-page](https://github.com/dilipkumarsahoo/ngx-loading-page) - A sleek, adaptable loading page component featuring various loader styles, dynamic themes, customizable backgrounds, and a responsive card design built with Bootstrap.
 * [ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar) - Nanoscopic progress bar, featuring realistic trickle animations.
 * [ngx-skeleton-loader](https://github.com/willmendesneto/ngx-skeleton-loader) - Make beautiful, animated loading skeletons that automatically adapt to your Angular apps.
+* [ngx-source](https://github.com/mehrabisajad/ngx-source) - Dynamically load JavaScript and CSS during application execution.
 * [ngx-spinner](https://github.com/napster2210/ngx-spinner) - A library for loading spinner for Angular.
 * [ngx-spinner-loading](https://github.com/thalsi/ngx-spinner-loading) - A lightweight, customizable Angular loading spinner package that supports global, section-based, inline loaders, and automatic HTTP integration via interceptors. Built with Angular standalone components and signal-based state.
 * [nx-svg-loaders](https://github.com/ngeenx/nx-svg-loaders) - Angular, React, Svelte, Vue SVG loader/spinner collection.
@@ -1741,6 +1743,7 @@ to simplify usage and allow quick customization.
 
 ##### Material Based
 
+* [angular-ui-plusify](https://github.com/RockyCott/angular-ui-plusify) - It currently includes a Datetime Picker and the new Markdown Editor components — with plans to continue growing into a comprehensive UI toolkit for Angular developers.
 * [MDBootstrap](https://github.com/mdbootstrap/mdb-angular-ui-kit) - Bootstrap 5 & Angular 17 UI KIT - 700+ components, MIT license, simple installation.
 * [Angular Material](https://material.angular.io/) - Material Design components for Angular.
 * [Covalent](https://github.com/Teradata/covalent/) - Teradata UI Platform built on Angular Material.
@@ -1778,6 +1781,7 @@ for the creation of web applications developed with Angular.
 * [angular-tailwind-ui](https://github.com/quedicesebas/angular-tailwind-ui) - Easy to use and simple components, directives and services. Using Angular 19 and Tailwind CSS 3.
 * [Flowbite](https://flowbite.com/docs/getting-started/angular/) - Open-source UI components built with Tailwind CSS with support for Angular.
 * [FlyonUI](https://github.com/themeselection/flyonui) - [Integrate](https://flyonui.com/framework-integrations/angular/) FlyonUI with Angular and Tailwind CSS to create a modern, responsive UI, streamlining your development process efficiently.
+* [koala-ui](https://github.com/igordrangel/koala-ui) - A modern and accessible component library designed to speed up interface development.
 * [Metronic](https://keenthemes.com/metronic/tailwind/docs/getting-started/integration/angular) - A comprehensive toolkit of UI components built with Tailwind CSS, enabling you to create modern, scalable web applications quickly and efficiently.
 * [nicacoder-ng](https://ng.nicacoder.com/) - A centralized library of customizable Angular components designed to speed up development and maintain consistency across internal projects.
 * [Preline UI](https://preline.co/docs/frameworks-angular.html#docs-on-this-page-sidebar) - [Preline](https://github.com/htmlstreamofficial/preline) is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.
