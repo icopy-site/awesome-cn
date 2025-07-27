@@ -802,6 +802,7 @@ Network distributed filesystems.
 [Object storage](https://en.wikipedia.org/wiki/Object_storage) is a computer data storage that manages data as objects, as opposed to other storage architectures like file systems which manages data as a file hierarchy, and block storage which manages data as blocks within sectors and tracks.
 
 - [GarageHQ](https://garagehq.deuxfleurs.fr/) - Geo-distributed, S3‑compatible storage service that can fulfill many needs. ([Source Code](https://git.deuxfleurs.fr/Deuxfleurs/garage)) `AGPL-3.0` `Docker/Rust`
+- [Harbor](https://goharbor.io/) - Cloud native image registry that stores, signs, and scans content. ([Source Code](https://github.com/goharbor/harbor)) `Apache-2.0` `Docker/K8S`
 - [Minio](https://min.io/) - Object storage server compatible with Amazon S3 APIs. ([Source Code](https://github.com/minio/minio)) `AGPL-3.0` `Go/Docker/K8S`
 - [SeaweedFS](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is an open source distributed file system supporting WebDAV, S3 API, FUSE mount, HDFS, etc, optimized for lots of small files, and easy to add capacity. `Apache-2.0` `Go`
 - [SFTPGo](https://github.com/drakkan/sftpgo) - Flexible, fully featured and highly configurable SFTP server with optional FTP/S and WebDAV support. `AGPL-3.0` `Go/deb/Docker`
@@ -1377,7 +1378,6 @@ _Related: [Inventory Management](#inventory-management), [Resource Planning](#re
 - [Kill Bill](https://killbill.io/) - Subscription billing & payments platform. Have access to real-time analytics and financial reports. ([Source Code](https://github.com/killbill/killbill)) `Apache-2.0` `Java/Docker`
 - [Kresus](https://kresus.org/) - Personal finance manager. ([Demo](https://kresus.org/en/demo.html), [Source Code](https://github.com/kresusapp/kresus)) `AGPL-3.0` `Nodejs/Docker`
 - [Lago](https://www.getlago.com/) - Metering and usage-based billing. ([Source Code](https://github.com/getlago/lago)) `AGPL-3.0` `Docker`
-- [Maybe](https://maybe.co/) - An OS for your personal finances built by a small team alongside an incredible community. ([Source Code](https://github.com/maybe-finance/maybe)) `AGPL-3.0` `Docker`
 - [Mybucks.online](https://mybucks.online) - Secure, browser-based, password-only self-custodial cryptocurrency wallet. ([Demo](https://app.mybucks.online), [Source Code](https://github.com/mybucks-online/app)) `MIT` `Nodejs`
 - [MyFin Budget](https://myfinbudget.com) - Personal finances platform (web + REST API + Android) that'll help you budget, keep track of your income/spending and forecast your financial future. ([Demo](https://github.com/afaneca/myfin?tab=readme-ov-file#demo-account---try-it-for-yourself), [Source Code](https://github.com/afaneca/myfin), [Clients](https://github.com/afaneca/myfin-api)) `GPL-3.0` `Nodejs/Docker`
 - [OctoBot](https://www.octobot.cloud/) - Cryptocurrency trading bot. ([Source Code](https://github.com/Drakkar-Software/OctoBot)) `GPL-3.0` `Python/Docker`

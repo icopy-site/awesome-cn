@@ -20,6 +20,7 @@ _Frameworks that help you to leverage LLMs and AI._
 
 - [LangChain4j](https://github.com/langchain4j/langchain4j) - Simplifies integration of LLMs with unified APIs and a comprehensive toolbox.
 - [MCP Java SDK](https://github.com/modelcontextprotocol/java-sdk) -  Enables applications to interact with AI models and tools through a standardized interface (i.e. Model Context Protocol), supporting both synchronous and asynchronous communication patterns.
+- [simple-openai](https://github.com/sashirestela/simple-openai) - Library to use the OpenAI API (and compatible ones) in the simplest possible way.
 - [Spring AI](https://spring.io/projects/spring-ai) - Application framework for AI engineering for Spring.
 
 ### Bean Mapping
@@ -130,6 +131,7 @@ _Tools that generate patterns for repetitive code in order to reduce verbosity a
 - [Auto](https://github.com/google/auto) - Generates factory, service, and value classes.
 - [Avaje Http Server](https://avaje.io/http/) - Generates Lightweight JAX-RS style http servers using Javalin or Helidon (Nima) SE.
 - [Bootify ![c]](https://bootify.io) - Browser-based Spring Boot app generation with JPA model and REST API.
+- [EasyEntityToDTO](https://github.com/Marcel091004/EasyEntityToDTO) - Annotation processor for automatic DTO and Mapper generation with zero boilerplate.
 - [FreeBuilder](https://github.com/inferred/FreeBuilder) - Automatically generates the Builder pattern.
 - [Geci](https://github.com/verhas/javageci) - Discovers files that need generated code, updates automatically and writes to the source with a convenient API.
 - [Immutables](https://immutables.github.io) - Annotation processors to generate simple, safe and consistent value objects.
@@ -634,6 +636,7 @@ _Everything else._
 - [JBake](https://jbake.org) - Static website generator.
 - [JBot](https://github.com/rampatra/jbot) - Framework for building chatbots. (GPL-3.0-only)
 - [JCuda](http://jcuda.org) - JCuda offers Java bindings for CUDA and CUDA-related libraries.
+- [JEmoji](https://github.com/felldo/JEmoji) - An auto-generated emoji library that provides type-safe direct access to emojis and alias support for Discord, Slack, GitHub and many more features.
 - [Jimfs](https://github.com/google/jimfs) - In-memory file system.
 - [JObfuscator![c]](https://www.pelock.com/products/jobfuscator) - Source code obfuscator.
 - [Joda-Money](https://www.joda.org/joda-money/) - Basic currency and money classes and algorithms not provided by the JDK.
@@ -715,6 +718,7 @@ _Libraries that specialize in processing text._
 - [CogCompNLP](https://github.com/CogComp/cogcomp-nlp) - Provides common annotators for plain text input. (Research and Academic Use License)
 - [CoreNLP](https://nlp.stanford.edu/software/corenlp.shtml) - Provides a set of fundamental tools for tasks like tagging, named entity recognition, and sentiment analysis. (GPL-3.0-or-later)
 - [DKPro](https://dkpro.github.io) - Collection of reusable NLP tools for linguistic pre-processing, machine learning, lexical resources, etc.
+- [Hypherator](https://github.com/ejossev/hypherator-java) - Java hyphenation library with iterator-like interface. Can be used out-of-the box - dictionaries for multiple languages are bundled in. 
 - [LingPipe](http://alias-i.com/lingpipe/) - Toolkit for tasks ranging from POS tagging to sentiment analysis.
 
 ### Networking
@@ -762,6 +766,12 @@ _Java platform as a service._
 - [Heroku ![c]](https://www.heroku.com) - Abstract computing environments.
 - [Microsoft Azure ![c]](https://azure.microsoft.com/en-us/) - Microsoft's cloud infrastructure.
 - [OpenShift ![c]](https://www.openshift.com) - Provides additionally an on-premise solution.
+
+### Pathfinding
+
+_Algorithms and libraries for finding routes in graphs and spatial environments._
+
+- [Pathetic](https://github.com/bsommerfeld/pathetic) - A highly configurable 3D A* pathfinding library that uses specific optimizations for high performance.
 
 ### PDF
 
@@ -1030,6 +1040,7 @@ _Everything related to the creation and handling of random data._
 - [Randomized Testing](https://github.com/randomizedtesting/randomizedtesting) - JUnit test runner and plugins for running JUnit tests with pseudo-randomness.
 - [Java Faker](https://github.com/DiUS/java-faker) - Port of Ruby's fake data generator.
 - [Mockneat](https://github.com/nomemory/mockneat) - Another fake data generator.
+- [JMock](https://github.com/xcancloud/JMock) - JMock is a high-performance data generation and simulation component library implemented in Java.
 
 #### Frameworks
 
@@ -1070,6 +1081,7 @@ _Other stuff related to testing._
 - [pojo-tester](https://www.pojo.pl) - Automatically performs tests on basic POJO methods. (LGPL-3.0-only)
 - [raml-tester](https://github.com/nidi3/raml-tester) - Tests if a request/response matches a given RAML definition.
 - [Selfie](https://github.com/diffplug/selfie) - Snapshot testing (inline and on disk).
+- [Stebz](https://github.com/stebz/stebz) - Multi-approach framework for test steps managing.
 - [Testcontainers](https://github.com/testcontainers/testcontainers-java) - Provides throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 
 #### Mocking
@@ -1100,6 +1112,7 @@ _Libraries which provide general utility functions._
 - [Gephi](https://github.com/gephi/gephi) - Cross-platform for visualizing and manipulating large graph networks. (GPL-3.0-only)
 - [Guava](https://github.com/google/guava) - Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and more.
 - [JADE](https://jade.tilab.com) - Framework and environment for building and debugging multi-agent systems. (LGPL-2.0-only)
+- [Javadoc Publisher](https://github.com/MathieuSoysal/Javadoc-publisher.yml) - Generate Javadoc from your maven/gradle project and deploy it automatically on GitHub Page.
 - [Java Diff Utils](https://java-diff-utils.github.io/java-diff-utils/) - Utilities for text or data comparison and patching.
 - [JavaVerbalExpressions](https://github.com/VerbalExpressions/JavaVerbalExpressions) - Library that helps with constructing difficult regular expressions.
 - [JGit](https://www.eclipse.org/jgit/) - Lightweight, pure Java library implementing the Git version control system.
