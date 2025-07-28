@@ -94,6 +94,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 - [Flutter in 2022 Strategy](https://flutter.dev/go/strategy-2022) - Flutter annual strategy document for 2022.
 - [Gitpod Strategy](https://gitpod.notion.site/Gitpod-s-Direction-be35d064c0704fbda61c542b84e07ef6) - Gitpod purpose, vision, and strategy.
 - [Qatium Product Market Fit](https://learnings.aleixmorgadas.dev/p/post-product-market-fit-open-engineering) - An engineering strategy when the product verifies product market fit and the engineering isn't evolving the practices to match the new product needs.
+- [Mobile onboarding evolution at Flo Health](https://learnings.aleixmorgadas.dev/p/mobile-onboarding-evolution-at-flo) - An engineering strategy to enable fast experimentation during the onboarding for a B2C application.
 
 ## Communities
 

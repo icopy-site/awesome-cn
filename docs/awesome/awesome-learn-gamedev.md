@@ -148,6 +148,9 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [Math for Game Programmers](https://gamemath.com/book/intro.html) - A free book on math for game programmers.
 
 
+[A Pragmatic Approach to Optimizing CPU Performance](https://larstofus.com/2024/10/19/a-pragmatic-approach-to-optimizing-cpu-performance/) 🟪 - Solid introductory advice for making code run fast. See also: [How to Build an Optimization Toolbox](https://larstofus.com/2024/12/30/how-to-build-an-optimization-toolbox/), an introduction to profiling tools, broken down by categories of purpose.
+
+
 [Mature Optimization](https://carlos.bueno.org/optimization/) - A free book on structuring code for performance, as well as testing large systems.
 
 
@@ -258,7 +261,10 @@ More huge lists of resources, with many, many more incredible things! Some of th
 [Rendering Course](https://users.cg.tuwien.ac.at/zsolnai/gfx/rendering-course/) - A free master's level course on ray tracing, photorealistic rendering, and global illumination taught at the Technical University of Vienna.
 
 
-["Painting with maths"](https://www.youtube.com/c/InigoQuilez) - A YouTube series about a _very_ technical art form
+[A Trip Through the Graphics Pipeline 2011](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index/) 🟪 - A somewhat-dated dive into a typical graphics pipeline, intended for those with some exposure to graphics APIs such as OpenGL or Direct3D 11.
+
+
+["Painting with maths"](https://www.youtube.com/c/InigoQuilez) - A YouTube series about a _very_ technical art form.
 
 
 [GPU Memory pools in D3D12](https://therealmjp.github.io/posts/gpu-memory-pool/) - How GPU memory works in Direct3D 12.
@@ -277,6 +283,9 @@ More huge lists of resources, with many, many more incredible things! Some of th
 
 
 [Kosmonaut's Blog](https://kosmonautblog.wordpress.com/) - A blog exploring various rendering implementations such as SDF rendering.
+
+
+[Behind the Pretty Frames](https://mamoniem.com/category/behind-the-pretty-frames/) - Technical explorations of the rendering pipelines behind games like Detroit: Become Human, Death Stranding, and God of War.
 
 
 <br />
