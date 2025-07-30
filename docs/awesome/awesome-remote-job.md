@@ -142,6 +142,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Diversify Tech](https://www.diversifytech.com/job-board) - Companies are transparent about their Diversity & Inclusion efforts 
   1. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
   1. [Drupal Jobs](https://jobs.drupal.org/home/type/telecommute-remote-3588)
+  1. [hiring.lat](https://hiring.lat) — Transparent job postings for LATAM workers with remote or relocation opportunities.
   1. [Findjobit](https://findjobit.com/jobs) - Remote jobs for LATAM IT professionals.
   1. [freelancermap](https://www.freelancermap.com/projects/remote.html) - Freelance & contract jobs for IT experts (mostly German projects)
   1. [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
@@ -188,6 +189,9 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1.  [Freel](https://freel.ca) Freelancers job board in Canada
   1.  [DevOpsJobs](https://devopsprojectshq.com) DevOps, SRE, Cloud and Platform engineering jobs
   1. [UI/UX Jobs Board](https://uiuxjobsboard.com/design-jobs/remote) - Remote jobs for UI/UX designers
+  1. [EmbeddedJobs](https://embedded.jobs) — Remote job board dedicated to embedded systems engineers and developers.
+
+
 ## Job boards aggregators
   1. [Career Vault](https://careervault.io/) - Hundreds of remote jobs added each day from thousands of company career pages. Free and no signup required.
   1. [Findwork](https://findwork.dev/) Crawls multiple job boards and enriches job postings with Glassdoor (reviews) and Crunchbase (funding).
@@ -391,6 +395,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Lincoln Loop](https://lincolnloop.com) - WebDev shop.
   1. [LiveChat](https://www.livechat.com/careers/) - online customer service software with online chat, help desk software, and web analytics
   1. [LivingSocial](https://www.grouponcareers.com/) - Company-wide support for teams of experienced, remote developers. Lots of autonomy.
+  1. [log.dog](https://log.dog) - Remote debugging and logging tool for iOS and Android apps. No offices - fully remote.
   1. [Logit.io](https://logit.io/about-us/#careers) - Fully remote first logging and metrics management company with 100% of operations and development based remotely
   1. [Lullabot](https://www.lullabot.com/jobs) - Strategy, design and development using Drupal.
   1. [madewithlove](https://madewithlove.com/careers/) - We help companies build digital products and bring new juice to teams that seem to jam.
@@ -399,6 +404,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [MariaDB](https://mariadb.com/about-us/careers/) - Open source database.
   1. [MarsBased](https://marsbased.com) - MarsBased is a development consultancy from Barcelona offering end‑to‑end web & mobile apps based on Ruby on Rails, Angular and other JavaScript frameworks.
   1. [Mapbox](https://www.mapbox.com/careers) - Map integration tools for various platforms.
+  1. [Maxim](https://www.getmaxim.ai) - AI Agent Simulation, Evaluation & Observability Platform
   1. [MeetEdgar](https://meetedgar.com/careers) - Automated social sharing. US remote.
   1. [Meta](https://www.metacareers.com/jobs/) - Partent company of Facebook, Instagram. Filter by remote.
   1. [Merico](https://www.devinsight.ai/) - Code deep analysis engine.
@@ -425,6 +431,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Particular Software (NServiceBus)](https://particular.net/careers) - Enterprise Service Bus, Messaging, C#, Open Source
   1. [Patients Know Best](https://apply.workable.com/patients/) - Empowering patients to manage their care, enabling professionals to share information while improving efficiencies for payers.
   1. [Paylocity](https://www.paylocity.com/careers/) - HR and payroll solutions
+  2. [Peakforce](https://www.peakforce.dev) - Atlassian (Jira, Confluence) and Splunk (SIEM, Observability) Partner helping with licenses, implementation, migrations and consulting.
   1. [Pilot](https://plane.com) - Pilot is a software platform that removes all the pain from contract work. We find work, negotiate contracts, send invoices and chase payments for hundreds of forward-looking engineers and designers around the world.
   1. [Pleo](https://www.pleo.io/en/careers) - Pleo is a company payment card solution that automates expense reports and simplifies company spending.
   1. [Precision Nutrition](https://www.precisionnutrition.com/) -  Online Nutrition Coaching and Certification.
@@ -548,6 +555,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Asana](https://asana.com/) - Project management good for distributed teams.
   1. [ClickUp](https://clickup.com/) - All-in-one productivity platform that brings teams, tasks, and tools together in one place.
   1. [Harvest](https://www.getharvest.com/) - Time tracking
+  1. [StaffWatcher](https://staffwatcher.com/) - Time tracking
   1. [Hitask](https://hitask.com/) - Easy task and project management for teams.
   1. [Jira](https://www.atlassian.com/software/jira) - Issue and project tracking tool.
   1. [Notion](https://www.notion.so/) - All in one workspace to write, plan, collaborate, and get organized.
