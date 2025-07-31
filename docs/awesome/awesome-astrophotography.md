@@ -143,6 +143,7 @@ Contributions are welcome. Please read the [contributing guideline](https://gith
 - [Low Level Landscape Lighting](http://lowlevellighting.org/) - A method for lighting the landscape for night-scape photography. This is its official site.
 - [Messier](https://www.messier-objects.com/) - All objects from the Messier catalogue with lots of background information and images.
 - [Nikon DSLR models matrix](https://www.astrophotography.app/nikon.php) - A list of Nikon models with useful reference information such as sensor and pixel size, quantum efficiency, shutter life, etc.
+- [Northern Sky Narrowband Survey](https://www.simg.de/nebulae3/index.html) - This survey aims to catalog faint nebulae that have not been previously documented.
 - [Online Narrowband RGB Combination Preview Tool](https://web.archive.org/web/20240928205042/https://www.bintel.com.au/narrowband-preview-tool/index.php) - This tool allows you to upload black and white source images (filtered eg. Ha, Sii, Oiii or R, G, B), then shows every possible permutation for the various combinations/palettes.
 - [Photons to Photos](https://www.photonstophotos.net) - Interactive charts with sensor data contributed by people around the world.
 - [Processing Methods Under PixInsight](https://astro-photographie.fr/traitement_pixinsight.html) - An extensive collection of workflow diagrams for image processing in PixInsight. It covers both one-shot and monochrome cameras. A great resource for beginners and advanced users alike.

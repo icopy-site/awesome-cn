@@ -606,6 +606,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [OpenEXR](http://www.openexr.com/) - Cross-platform library for high dynamic range imaging. [Modified BSDF]
 * [OpenImageIO](https://github.com/OpenImageIO/oiio) - Powerful image and texture wrangling library with support for a wide number of common lossy and RAW formats. [Modified BSD]
 * [OpenJPEG](https://github.com/uclouvain/openjpeg) - an open-source JPEG 2000 codec written in C language.  [BSD-2-Clause]
+* [PlutoFilter](https://github.com/sammycage/plutofilter) - A single-header, zero-allocation image filter library in C. [MIT]
 * [QOI](https://github.com/phoboslab/qoi) - The “Quite OK Image Format” for fast, lossless image compression. [MIT]
 * [SAIL](https://github.com/happy-sea-fox/sail) - Easy-to-use cross-platform image decoding library with pluggable image codecs. [MIT]
 * [Simd](https://github.com/ermig1979/Simd) - C++ image processing library with using of SIMD: SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, AVX-512, VMX(Altivec) and VSX(Power7), NEON for ARM. [MIT]
@@ -763,6 +764,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [GMTL](http://ggt.sourceforge.net/) - Graphics Math Template Library is a collection of tools implementing Graphics primitives in generalized ways. [GPL2]
 * [GMP](https://gmplib.org/) - A C library for arbitrary precision arithmetic, operating on signed integers, rational numbers, and floating-point numbers. [LGPL3 & GPL2]
 * [Klein](https://github.com/jeremyong/klein) - A fast, SIMD-optimized C++17 Geometric Algebra library for point, line, and plane projections, intersections, joins, rigid-body motion, and more. [MIT] [website](https://jeremyong.com/klein)
+* [libfixmath](https://github.com/PetteriAimonen/libfixmath) - Cross Platform Fixed Point Maths Library. [MIT]
 * [linalg.h](https://github.com/sgorsten/linalg) - Single header, public domain, short vector math library for C++. [Unlicense]
 * [MATIO](https://github.com/tbeu/matio) -  MATLAB MAT File I/O Library. [BSD-2-Clause] [website](https://sourceforge.net/projects/matio/)
 * [MatX](https://github.com/NVIDIA/MatX) - A GPU-accelerated C++17 numerical computing library with a MATLAB/Python-like syntax. [BSD 3-clause]

@@ -81,6 +81,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hac
 - [MeBoy](http://arktos.se/meboy) - Supports emulating GBC with sound, color, and save states.
 - [Telegram Micro](https://github.com/faissaloo/telegram-micro) - Telegram client.
 - [VK4ME](https://github.com/VK4ME/client)  - Unofficial client for Russian social network VK for devices supporting CLDC 1.1 and MIDP 2.0.
+- [UPI 123PAY](https://www.npci.org.in/what-we-do/upi-123pay/product-overview) - Official Unified Payment Interface(UPI)payments solution for feature phones by NPCI. Internet not required. Supported only in India.
 
 ### Video Games
 
