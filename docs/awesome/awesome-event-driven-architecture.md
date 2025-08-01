@@ -37,7 +37,9 @@ Event-driven architecture is a software architecture approach where services col
 
 ### Experience Reports And Practicalities
 - [EDA in Practice: Building an eCommerce Platform at Cinch](https://www.youtube.com/watch?v=wM-dTroS0FA&t=493s&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq) - By Toli Apostolidis, September 2022. You can ignore the first 8 minutes and 15 seconds (in fact the link will skip them), they are mostly promotion for AWS. But from there on follows a good talk on real-world experiences with event-driven architecture.
+- [What is the Transactional Outbox Pattern?](https://www.youtube.com/watch?v=5YLpjPmsPCA&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq) - By Wade Waldron, February 2024. A short video (just over 5 minutes) explaining what the transactional outbox pattern is and how it works.
 - [Shifting Gears: From Events to Event-Driven](https://www.youtube.com/watch?v=1dWJO31wpV8&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq) - By Ryan Cormack, May 2024. He tells the story of Motorway's journey to event driven, and also includes a lot of foundational aspects. 
+
 
 ## Related Topics
 - [Event Sourcing – What, Why & How](https://www.youtube.com/watch?v=1KlQVhVYiFU&list=PLXstpDPZ7AtX78V_JYUJX7z8RjdcB9HQq) - By Anita Kvamme, June 2024. While also event based, _Event Sourcing_ is not the same as _Event-Driven Architecture_. They complement each other well, but you can also use either without the other. Thankfully, this great overview of Event Sourcing makes that clear at the very start.
