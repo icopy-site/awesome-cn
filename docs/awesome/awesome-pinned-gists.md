@@ -26,6 +26,7 @@ Displaying data from external services in a pinned gist.
 - [covid-box](https://github.com/puf17640/covid-box) - Update a gist to contain global or country specific coronavirus stats.
 - [douban-box](https://github.com/CodeDaraW/douban-box) - Update a pinned gist to contain the latest user status about books/movies/music from Douban.
 - [goodreads-box](https://github.com/mdluo/goodreads-box) - Update a pinned gist to show your currently reading books and progress on Goodreads.
+- [hackmd-box](https://github.com/tsen159/hackmd-box) - Update a pinned gist to show your latest HackMD notes.
 - [hitokoto-box](https://github.com/greenhandatsjtu/hitokoto-box) - Update a pinned gist to contain a random hitokoto.
 - [hoyolab-box](https://github.com/yangchang-n/HoYoLab-box) - Update a pinned gist to show your Genshin Impact / Honkai: Star Rail play stats.
 - LeetCode (https://leetcode.com/)

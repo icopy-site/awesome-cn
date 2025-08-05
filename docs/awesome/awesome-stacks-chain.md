@@ -65,7 +65,7 @@
 
 - [Lock Stacks](https://lockstacks.com) - App to stack Stacks token directly or with a pool.
 - [Fast pool](https://fastpool.org/) - Trust minimized stacking pool.
-- [PlanBetter pool](https://planbetter.org/) - Stacking pool with Bitcoin rewards.
+- [PlanBetter pool](https://planbetter.com/) - Stacking pool with Bitcoin rewards.
 - [Xverse pool](https://pool.xverse.app/) - Stacking pool built into Xverse mobile app.
 - [Stacking DAO](https://www.stackingdao.com/) - Liquid stacking on Stacks.
 - [Lisa](https://app.lisalab.io) - Liquid stacking on Stacks using rebasing.
