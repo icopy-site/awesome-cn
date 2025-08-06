@@ -166,6 +166,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [Excalidraw](https://excalidraw.com) - Online diagram tool creates quick and easy, handdrawn diagrams and maps. keyboard shortcut '0', browse libraries and Add the "Wardley Maps Symbols" lib.
 - [Flowchart fun](https://flowchart.fun) - text based tool to generate quick flowcharts. Excellent way to quickly create a Value Chain - very useful in conversation or during a meeting.
 - [wardleyToGo](https://owulveryck.github.io/wardleyToGo/demo/) is a SDK to do map-as-code **and** a high level language (`wtg`) to express map-as-data. The set of tools allows an easy integration of the map in CI, and the online demo allows to desing maps online.
+- [Map](https://map.tranquil.systems) - Native macOS app to build wardley maps using its own `wmap` syntax (Apple Silicon only). GPLv3. It includes a QuickLook plugin to preview `wmap` files as images.
 
 ### Doctrine Assessement
 
