@@ -167,6 +167,8 @@ C, C++
 * [ecrepl](https://gitlab.common-lisp.net/ecl/ecrepl) - an interactive REPL for the C language. [BSD_2Clause][17].
 * [Software-Evolution-Library](https://github.com/GrammaTech/sel) - The SEL enables the programmatic modification and evaluation of software (C/C++ support using Clang, compiled assembler, and linked ELF binaries). [GPL3][2].
 * [vacietis](https://github.com/vsedach/Vacietis) -  C to Common Lisp compiler. [LGPL3][9].
+* NEW as of 2025 [Cicili](https://github.com/saman-pasha/cicili/) - C generator macro-driven language. GPL3.0.
+  * "can use lisp libraries to produce compile time content like html, json, sql, ... for inside C generated code".
 
 Cryptography
 ============
@@ -879,6 +881,7 @@ Theorem provers
   * [ACL2-kernel](https://github.com/tani/acl2-kernel), a Jupyter Kernel for ACL2.
   * [ACL2 Sedan](http://acl2s.ccs.neu.edu/acl2s/doc/), an Eclipse plugin that provides a modern IDE for ACL2, used with students at universities.
     * paper: [Using ACL2 to teach students about software testing](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?ACL22022).
+  * [Proceedings of the 19th International Workshop on the ACL2 theorem prover and its applications, 2025 (PDF)](https://cgi.cse.unsw.edu.au/~eptcs/Published/ACL2in2025/Proceedings.pdf)
 * NASA's [PVS](https://pvs.csl.sri.com/), the Prototype Verification System, and [NASAlib](https://github.com/nasa/pvslib), a collection of formal development libraries.
   * its 63 top-level libraries span the fields of: real analysis, limits, continuity, derivatives, integrals; complex integration; directed graphs; exact real arithmetic including trig functions; interval arithmetic and numerical approximations; linear algebra; 2-D, 3-D, 4-D, and n-dimensional vectors… and more.
 
@@ -1650,6 +1653,7 @@ Slime extensions:
 Sly extensions:
 
 * [sly-overlay](https://git.sr.ht/~fosskers/sly-overlay) - an extension for Sly that enables the overlay of Common Lisp evaluation results directly into the buffer in the spirit of CIDER (Clojure), Eros (Emacs Lisp) and the Lem editor.
+* [sly-mrepl-db](https://gitlab.com/akashadutchie/sly-mrepl-db) - from the debugger, evaluate expressions in a REPL with frame context (and not only in the minibuffer).
 
 ## Vim & Neovim ##
 
