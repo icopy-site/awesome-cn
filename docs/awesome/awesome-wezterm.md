@@ -11,7 +11,7 @@
 
 To enhance your WezTerm configuration experience:
 
-- [justinsgithub/wezterm-types](https://github.com/justinsgithub/wezterm-types) - WezTerm types that can be added as a completion source in your editor to provide code assistance when working with WezTerm's Lua API.
+- [DrKJeff16/wezterm-types](https://github.com/DrKJeff16/wezterm-types) - WezTerm types that can be added as a completion source in your editor to provide code assistance when working with WezTerm's Lua API.
 
 
 
