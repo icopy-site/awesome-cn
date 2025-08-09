@@ -339,6 +339,8 @@ As a concept, access control policies can be designed to follow very different a
 
 - [Cerbos](https://github.com/cerbos/cerbos) - An authorization endpoint to write context-aware access control policies.
 
+- [FerrisKey](https://github.com/ferriskey/ferriskey) - Self-hosted, open-source, RBAC system written in Rust.
+
 ### ABAC frameworks
 
 [Attribute-Based Access Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) is an evolution of RBAC, in which roles are replaced by attributes, allowing the implementation of more complex policy-based access control.
