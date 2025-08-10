@@ -172,6 +172,7 @@ Additional lists you might find useful:
 
 - [ADmad/Sequence plugin](https://github.com/ADmad/cakephp-sequence) - Behavior for maintaining ordered list of records.
 - [CakeDecimal plugin](https://github.com/dereuromark/cakephp-decimal) - A value object approach on handling decimals.
+- [CakeUid](https://github.com/josbeir/cakephp-uid) - A collection of UID field types for your Tables (UUIDV4, UUIDV6, UUIDV7, ULID).
 - [Duplicatable plugin](https://github.com/riesenia/cakephp-duplicatable) - Behavior for duplicating entities including related data.
 - [Lampager/Cake plugin](https://github.com/lampager/lampager-cakephp) - Rapid pagination without using OFFSET.
 - [Muffin/Orderly plugin](https://github.com/usemuffin/orderly) - Allows setting default order for your tables.
