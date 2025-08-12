@@ -70,6 +70,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 - [Designite](http://www.designite-tools.com) - Compute source code metrics and detect a variety of implementation, design, and architecture smells for C#.
 - [DesigniteJava](https://github.com/tushartushar/DesigniteJava) - Compute source code metrics and detect a variety of implementation and design smells for Java.
 - [Diggit](https://github.com/jrfaller/diggit) - Agile Ruby Tool to analyze Git repositories.
+- [GitEvo](https://github.com/andrehora/gitevo) - Code evolution analysis for Git repositories.
 - [GrimoireLab](http://grimoirelab.github.io/) - Free/Libre/Open Source tools for Software Development Analytics.
 - [MetricMiner](http://www.github.com/mauricioaniche/metricminer2) - Lean Java DSL to mine and extract data (e.g. commits, developers, modifications, diffs) from Git and SVN repositories.
 - [Maven-miner](https://github.com/diverse-project/maven-miner) - Java tools and infrastructure to resolve the whole Maven dependency graph, hosted in Maven Central, in the form of a [Neo4j](https://neo4j.com/) Graph.

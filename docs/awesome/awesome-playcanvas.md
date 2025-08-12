@@ -229,6 +229,7 @@
 - [Neon Bubblegum](https://www.rtz23.de/) - Demo scene style WebXR-based homepage from Karsten Weil.
 - [Raw: Paralympics XR](https://www.phoria.com.au/projects/paralympics-xr/) - Webby 2022 nominated WebXR 360 video experience.
 - [Storage Space 13](https://js13kgames.com/entries/storage-space-13) - Fun VR game and winner of js13k WebXR category.
+- [Trivver](https://awesome.trivver.com) - Shop Smarter in 3D with real-time personalization and analytics.
 - [Viverse](https://www.viverse.com/) - Open platform for virtual worlds and environments developed by HTC.
 - [WebXR Lab](https://playcanvas.com/project/446331/overview/webxr-vr-lab) - Sandbox for VR interaction experiments.
 
