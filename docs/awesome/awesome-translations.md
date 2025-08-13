@@ -21,7 +21,6 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 - [Crowdin](https://crowdin.com/) - Closed source cloud-based localization technology and services company.
 - [Inlang](https://inlang.com/) - The globalization ecosystem for software companies.
-- [LocaleApp](https://www.localeapp.com/) - App for localization and translation.
 - [Transifex](https://www.transifex.com/) - Proprietary, web-based translation platform, globalization management system (GMS).
 - [Weblate](https://weblate.org/) - Copylefted libre web-based continuous translation platform.
 - [SimpleLocalize](https://simplelocalize.io) - A simple translation management for software projects.
@@ -80,7 +79,6 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [i18n Ally](https://github.com/antfu/i18n-ally) - Extension for VSCode, all in one about i18n.
 - [Translate](https://github.com/translate/translate) - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
 - [Python-i18n](https://pypi.org/project/python-i18n/) - Python internationalization (i18n) package.
-- [Jsproxy for Crowdin](https://store.crowdin.com/products/crowdin-proxy-translator) - Add-on to Crowdin.
 - [Moment.js](https://momentjs.com/) - Parse, validate, manipulate and display dates and times in JavaScript.
 - [WPML](https://wpml.org/) - A WordPress plugin that allows running multilingual websites with a single WordPress install.
 - [FormatJS](https://formatjs.io/) - A modular collection of JavaScript libraries for internationalization that are focused on formatting numbers, dates, and strings for displaying to people.
@@ -88,7 +86,6 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [ICU - International Components for Unicode](https://icu.unicode.org/) - A mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications.
 - [Django docs - i18n](https://docs.djangoproject.com/en/4.1/topics/i18n/) - Part of the Django docs, focused on internationalization and localization.
 - [Localizejs](https://localizejs.com/) - Translations for websites and applications to new languages and streamline translation workflow.
-- [ʻŌlelo Honua](https://brownrw8.github.io/olelo-honua) - Rapidly internationalize your website using LLMs & novel translate->critique->repair approach.
 - [ParaglideJS](https://inlang.com/m/gerre34r) - Synchronous, typesafe and lightweight i18n library.
 - [sphinx-intl](https://github.com/sphinx-doc/sphinx-intl) - A Sphinx utility that make it easy to translate and to apply translations.
 
@@ -133,7 +130,6 @@ This list contains tools, books, articles, blogs, courses and everything related
 ## Blogs
 
 - [Speakt](https://speakt.com/blog/) - Well-rounded resource, offering in-depth information from the best professionals in the industry on everything related to translation.
-- [Lexico](https://www.lexico.com/) - Provides a collection of dictionaries of English and Spanish, and curiosities about many words and languages (in the "Explore" section). It is produced by Oxford University Press.
 - [The Translator's Teacup](https://lingocode.com/translation-blog/) - Contains good tips for beginner translators.
 - [Speaking of Translation](https://speakingoftranslation.com/) - Run by two outstanding experts in the field of translation and localization. You can listen to audio files covering their tips and opinions on the freelance translator's work.
 - [eMpTy Pages](http://kv-emptypages.blogspot.com/) - Presents extremely detailed descriptions and opinions about localization management, collaborative translation platforms, translation management systems, machine translation, as well as the localization industry's biggest players.

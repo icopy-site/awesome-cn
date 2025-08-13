@@ -300,6 +300,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 💰 [Juce](https://github.com/juce-framework/JUCE) - The leading framework for multi-platform audio apps.
     - 🔒 [OpenAL Soft](https://github.com/kcat/openal-soft) - Software implementation of the _OpenAL_ 3D audio API.
     - 🎉 [PortAudio](https://github.com/PortAudio/portaudio) - Cross-platform audio library.
+    - 🎉 [Steam Audio](https://github.com/ValveSoftware/steam-audio) - Cross-platform spatial audio SDK for games and VR.
 - C++: Cross-Platform
     - 🌎 [emscripten](https://github.com/emscripten-core/emscripten) - The C/C++ to JavaScript (as WebAssembly) compiler. [[Website](https://emscripten.org/)]
 - C++: Entity Component System
@@ -382,7 +383,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [PolyPartition](https://github.com/ivanfratric/polypartition) - 2D polygon partitioning and triangulation.
     - ⭐ [RamerDouglasPeucker](https://gist.github.com/TimSC/0813573d77734bcb6f2cd2cf6cc7aa51) - Reduces number of points along a 2D line.
     - 🎉 [Recast & Detour](https://github.com/recastnavigation/recastnavigation) - Navigation-mesh toolset for games.
-    - 🎉 [Seam-aware Decimater](https://github.com/songrun/SeamAwareDecimater) - Simplifies mesh while preserving UVs, based on [Seamless](https://cragl.cs.gmu.edu/seamless/).
+    - 🎉 [Seam-aware Decimater](https://github.com/songrun/SeamAwareDecimater) - Simplifies mesh while preserving UVs.
     - 🎉 [Spheres](https://github.com/caosdoar/spheres) - Four methods to create a sphere mesh.
     - 🔒 [Trimesh2](https://gfx.cs.princeton.edu/proj/trimesh2/) - Utilities for input, output, and manipulation of 3D triangle meshes.
     - 🎉 [V-HACD](https://github.com/kmammou/v-hacd) - Decomposes a 3D surface into a set of "near" convex parts.
@@ -686,6 +687,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Chroma.js](https://github.com/gka/chroma.js) - Library for all kinds of color manipulations.
 - JavaScript: Cross-Platform
     - 🎉 [Apache Cordova](https://cordova.apache.org) - Mobile apps (iOS / Android) with with JavaScript, HTML, and CSS.
+    - 🎉 [Capacitor](https://github.com/ionic-team/capacitor) - Run web apps natively on iOS, Android, Web, and more. [[Website](https://capacitorjs.com/)]
     - 🎉 [Electron](https://github.com/electron/electron) - Cross-platform desktop apps with JavaScript, HTML, and CSS. [[Website](https://www.electronjs.org/)]
     - 📚 [Electron Alternatives](https://github.com/sudhakar3697/electron-alternatives) - Cross-platform gui app development options.
     - 🎉 [Ejecta](https://github.com/phoboslab/Ejecta) - JavaScript / canvas / audio implementation for iOS. App store compatible.
@@ -984,6 +986,9 @@ _Language specific game engine development libraries / frameworks / code._
 
 ## Open Source Games
 _Successful open source video games to pick apart and gain knowledge._
+
+### Awesome Collections
+- 📚 [Quake Engines](https://quakeengines.github.io/) - List of repositories of idTech engines, it's derivatives and sourceports.
 
 ### C
 - 🔒 [Doom](https://github.com/id-Software/DOOM) - The original 1993 3D masterpiece by _id Software_.
