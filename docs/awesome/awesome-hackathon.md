@@ -123,9 +123,13 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 ### Evaluating
 
 - [@CivicWhitaker Anthology](https://smartchicagocollaborative.org/launch-the-civicwhitaker-anthology/) - Evaluates three years of organizing hackathons in Chicago civic tech.
+- [Ansys Developer](https://developer.ansys.com/node/14990) - A set of judging criteria for hackathons.
+- [Evaluation Hackathon](https://www.betterevaluation.org/blog/hackathon) - High-level advice on better evaluation from the IPDET hackathons.
 - [Eventflare's Journal](https://eventflare.io/journal/crafting-effective-hackathon-judging-criteria-a-step-by-step-guide) - Strategies for determining criteria & [recruiting judges](https://eventflare.io/journal/how-to-select-the-right-hackathon-judges-for-your-event).
 - [Expo Table app](https://github.com/nealrs/expo#fork-destination-box) - Create a Devpost Expo table frontend.
+- [Evaluation Manual](https://github.com/mayurah/Evaluation-Manual) - Older guidance sourced from Hacker Earth.
 - [Gavel](https://github.com/anishathalye/gavel) - A project expo judging system by HackMIT that uses fancy math to get good results.
+- [MLH Judging Plan](https://guide.mlh.io/general-information/judging-and-submissions/judging-plan) - A science-fair type approach to evaluation.
 - [Rankeer](https://github.com/Lucasbrunoferreira/rankeer) - An elaborate student project about management and evaluation of hackathons.
 
 ## Guides
@@ -134,6 +138,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 
 - [Dribdat wiki](https://github.com/dribdat/docs/wiki) - Community sourced guidelines from an open source project.
 - [GitHub Guide to Hackathons](https://hackathons.github.com/) - Join a community connected by code, with tips & tricks from GitHub.
+- [Guides et documentation data.gouv.fr](https://guides.data.gouv.fr/autres-ressources-utiles/guide-du-participant-au-hackathon-meteo/ressources-du-hackathon) - (In French) Documentation for open government data hackathon organizers.
 - [Hackathon Guidelines - Opendata.ch](https://opendata.ch/guidelines) - Principles for hackathons from the Swiss open data community.
 - [Hackathon Hackers Guide](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) - Collection of high quality hackathon resources. See also [Etiquette](https://medium.com/hackathon-hackers/hackathon-hackers-etiquette-cbcb9d1cda54#.dmgz1wp4y) and [Subgroups](https://github.com/HackathonHackers/groups).
 - [Hackathon Leitfaden](https://github.com/okfde/hackathon-leitfaden) - (In German) Printed guide for municipalities.
@@ -144,6 +149,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [hack.athon.uk](https://hack.athon.uk/) - A wiki for helping hackers get into hackathons and organise them! 
 - [Hack Tools](https://hack-tools.github.io/) - Theodoros Ploumis has great advice for attendees, evaluators and organizers.
 - [Handbuch Jugend-Hackathons](https://handbuch.jugendhackt.de/) - (In German) An in-depth guide to organizing youth events.
+- [LauzHack How-To](https://hackorgx.dribdat.cc/project/31) - Guides for the student organizers of flagship and mini-sized hackathons in Lausanne.
 - [Mattermost Handbook](https://handbook.mattermost.com/contributors/contributors/how-to-run-a-hackathon) - Practical guidelines from the open source Mattermost chat server.
 - [McKinsey: Demystifying the hackathon](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/demystifying-the-hackathon) - For digital transformation of large organizations.
 - [Mediawiki Handbook](https://www.mediawiki.org/wiki/Hackathons/Handbook) - Suggestions from the Mediawiki community (which powers Wikipedia).
@@ -152,6 +158,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [OpenDataLab.eu Handbook](http://handbook.opendatalab.eu/) - Open 4 Citizens hackathon handbook from an EU project.
 - [OpenHatch In-Person Event Handbook](https://github.com/openhatch/in-person-event-handbook) - For getting your open source project ready for new contributors.
 - [Ultimate Ethereum Hackathon Survival Guide](https://consensys.net/developers/ultimate-hackathon-survival-guide/) - From a popular Web3 community.
+- University Industry Innovation Network (UIIN) - [Participant](https://www.uiin.org/wp-content/uploads/2021/03/SB_Participant-handbook.pdf) and [Organizer](https://uiin.org/wp-content/uploads/2021/04/Hackathon-Handbook-010720.pdf) handbooks.
 - [Zotero - Awesome Hackathon](https://www.zotero.org/groups/5538025/awesome_hackathons) - A web library of references on research into the Impacts, Landscape, Motivation and Organizing of hackathons.
 
 ## Contributing

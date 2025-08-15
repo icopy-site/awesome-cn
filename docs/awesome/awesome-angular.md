@@ -809,7 +809,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-simple-state-management](https://github.com/LionMarc/ng-simple-state-management) - Simple state management implementation for Angular applications. This project provides several libraries for additional functionality.
 * [ngx-statewise](https://github.com/Pierre-MarieMarchio/ngx-statewise) - A state management solution for Angular applications, offering a lighter and easier-to-use alternative to libraries like NgRx or NGXS, while maintaining a clear and predictable architecture for managing your application's state.
 * [fsm-state-manager](https://github.com/NikitaTopchii/fsm-state-manager) - A simple, flexible and strongly-typed finite state machine manager for managing state transitions in Angular or any TypeScript-based application.
-* [signal-tree](https://github.com/JBorgia/signal-tree) - An Angular 16+ store built around signals that focuses on simplicity.
+* [signaltree](https://github.com/JBorgia/signaltree) - A powerful, type-safe, modular signal-based state management solution for Angular applications.
 
 ## Testing
 
@@ -1253,6 +1253,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngxAccessor](https://github.com/Zarlex/ngxAccessor) - This library introduces an innovative method for interacting with Angular forms and signals. While Angular 19 supports Template Driven Forms and Reactive Forms, this library offers a third approach, seamlessly integrating signals while remaining adaptable to other state management solutions.
 * [angular-template-signal-forms](https://github.com/chocosd/angular-template-signal-forms) - A modern Angular form library built from the ground up with Signals — flexible, type-safe, and fully themeable.
 * [ngx-formidable](https://github.com/Cynthion/ngx-formidable) - A powerful Angular component library for building rich, validated forms.
+* [piying-view](https://github.com/piying-org/piying-view) - Frontend Form Solution; strongly typed; Alternatives to ngx-formly; Alternative to Angular's Official Form.
 
 ### Form Controls
 
@@ -1361,6 +1362,7 @@ to simplify usage and allow quick customization.
 ### Images
 
 * [cloudinary](https://cloudinary.com/documentation/angular_integration) - Angular SDK from Cloudinary.
+* [ng-cropper](https://github.com/DanielGabbay/ng-cropper) - An Angular image cropper library built on the powerful `CropperJS` web components. Features a fully customizable interface with an optional built-in toolbar for seamless image cropping experiences.
 * [ngx-advanced-img](https://github.com/bmartinson/ngx-advanced-img) - Angular attribute directives suite that provides various HTML img feature extensions.
 * [ngx-annotorious](https://github.com/vedph/ngx-annotorious) - Angular wrapper for [Annotorious V3](https://annotorious.dev/), a library that adds annotations to images.
 * [ngx-avatars](https://github.com/Heatmanofurioso/ngx-avatars) - Spiritual successor to [ngx-avatar](https://github.com/HaithemMosbahi/ngx-avatar).

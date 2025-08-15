@@ -173,7 +173,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [OutlineEdit 3](https://outlineedit.com) - Fully-featured outline editor, for everyone who loves great structured notes. [![App Store][app-store Icon]](https://apps.apple.com/us/app/outlineedit-3/id1608887438)
 * [Saber](https://saber.adil.hanney.org/) - Cross platform stylus and text notetaking app. Supports image and pdf imports, can sync. [![App Store][app-store Icon]](https://apps.apple.com/us/app/saber/id1671523739)[![Open-Source Software][OSS Icon]](https://github.com/adil192/saber)
 * [SideNotes](https://www.apptorium.com/sidenotes) - Quick notes on the screen side with Markdown support.
-* [Standard Notes](https://standardnotes.com/) - An end-to-end encrypted notes app for digitalists and professionals. [![Open-Source Software][OSS Icon]](https://github.com/standardnotes/app) ![Freeware][Freeware Icon]
+* [Standard Notes](https://standardnotes.com/) - An end-to-end encrypted notes app for digitalists and professionals. [![Open-Source Software][OSS Icon]](https://github.com/standardnotes/app) ![Freeware][Freeware Icon] [![Awesome List][awesome_list Icon]](https://github.com/jonhadfield/awesome-standard-notes#readme)
 * [QOwnNotes](http://www.qownnotes.org/) - Open-source notepad with markdown support and todo list manager. [![Open-Source Software][OSS Icon]](https://github.com/pbek/QOwnNotes) ![Freeware][Freeware Icon]
 * [Quick Note](https://quicknoteapp.com) - Colorful sticky notes in the Menu bar. [![App Store][app-store Icon]](https://apps.apple.com/in/app/quick-note-in-the-menu/id1472935217?mt=12)
 * [Quiver](http://happenapps.com/#quiver) - Mix text, code, Markdown, and LaTeX in one note with live preview.
@@ -657,6 +657,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [WeChat](https://itunes.apple.com/app/wechat/id836500024?mt=12) - Official WeChat app for Mac. ![Freeware][Freeware Icon] ![App Store][app-store Icon]
 * [WeeChat](https://weechat.org/) - The extensible command-line chat client. ![Freeware][Freeware Icon]
 * [WhatsApp Desktop](https://itunes.apple.com/us/app/whatsapp-desktop/id1147396723?mt=12) - Available in the Mac App Store, Whatsapp for Desktop. ![App Store][app-store Icon]
+* [Mezon](https://mezon.ai/) - A new way to communicate with your team. It's free, faster, better organized, better for WFH. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/mezonai/mezon)
 
 ### Email Clients
 

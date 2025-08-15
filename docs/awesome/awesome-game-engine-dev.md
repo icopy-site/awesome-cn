@@ -193,9 +193,10 @@ _Language specific game engine development libraries / frameworks / code._
 ### C
 - 📚 [Learn C Programming](https://www.programiz.com/c-programming) - Excellent tutorials that will guide you to learn C programming.
 - C: App Framework
+    - 🎉 [Allegro](https://github.com/liballeg/allegro5) - Cross-platform library aimed at video game and multimedia apps.
     - 🎉 [glfw](https://github.com/glfw/glfw) - Cross-platform API for windowing, graphics contexts, input and events.
     - 🎉 [MiniFB](https://github.com/emoon/minifb) - Creates a cross-platform frame buffer for drawing pixels.
-    - 🎉 [SDL](https://github.com/libsdl-org/SDL) 🔥 - Low level access to audio, keyboard, mouse, joystick, and graphics hardware.
+    - 🎉 [SDL](https://github.com/libsdl-org/SDL) 🔥 - Low-level access to audio, keyboard, mouse, joystick, and graphics hardware.
     - 🎉 [Sokol](https://github.com/floooh/sokol) 🔥 - Single-file libraries for graphics, windowing, file handling, audio and more.
 - C: Audio
     - ⭐ [Miniaudio](https://github.com/mackron/miniaudio) - Single-file audio playback and capture library.
@@ -256,6 +257,8 @@ _Language specific game engine development libraries / frameworks / code._
 - C: Input
     - 🎉 [libGamepad](https://github.com/mtwilliams/libgamepad) - Cross-platform library for gamepad input.
     - 🎉 [Sokol Gamepad](https://github.com/floooh/sokol/pull/393/commits/26a9da9dafd4adb22a1ace0de0d2569da31ae427) - Branch with addon support for gamepads in _Sokol_.
+- C: Layout
+    - 🎉 [Clay](https://github.com/nicbarker/clay) - High performance 2D UI layout library.
 - C: Libraries
     - ⭐ [Cute Headers](https://github.com/RandyGaul/cute_headers) - Single-file libraries primarily used for games, by [Randy Gaul](https://github.com/RandyGaul).
     - ⭐ [Libs](https://github.com/mattiasgustavsson/libs) - Single-file public domain libraries for C/C++, by [Mattias Gustavsson](https://github.com/mattiasgustavsson).
@@ -528,12 +531,13 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Apos.Gui](https://github.com/Apostolique/Apos.Gui) - UI library for _MonoGame_.
     - 🎉 [Avalonia](https://github.com/AvaloniaUI/Avalonia) - Cross-platform gui framework for .NET. [[Website](https://avaloniaui.net/)]
     - 🎉 [GeonBit.UI](https://github.com/RonenNess/GeonBit.UI) - Gui for _MonoGame_ projects.
-    - 🎉 [Gum](https://github.com/vchelaru/Gum) - Flexible layout tool for creating UI on any platform.
     - 🎉 [MGUI](https://github.com/Videogamers0/MGUI) - UI framework for the _MonoGame_ game framework.
     - 🎉 [MonoGame.Forms](https://github.com/BlizzCrafter/MonoGame.Forms) - _MonoGame_ render window for Windows Forms.
     - 🎉 [Myra](https://github.com/rds1983/Myra) - Gui library for _MonoGame_, _FNA_, and _Stride_.
     - 🎉 [Squid](https://github.com/Roderik11/Squid) - C# Realtime GUI System.
     - 🎉 [Uno](https://github.com/unoplatform/uno) - Mobile, desktop and WebAssembly gui library. [[Website](https://platform.uno/)]
+- C#: Layout
+    - 🎉 [Gum](https://github.com/vchelaru/Gum) - Flexible layout tool for creating UI on any platform.
 - C#: Physics
     - 🎉 [Aether Physics](https://github.com/tainicom/Aether.Physics2D) - 2D physics library with continuous collision detection.
     - 🎉 [Box2D.NET](https://github.com/ikpil/Box2D.NET) - A port of Box2D. 2D physics engine for games, .NET C#, Unity3D, servers.
@@ -690,8 +694,9 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Capacitor](https://github.com/ionic-team/capacitor) - Run web apps natively on iOS, Android, Web, and more. [[Website](https://capacitorjs.com/)]
     - 🎉 [Electron](https://github.com/electron/electron) - Cross-platform desktop apps with JavaScript, HTML, and CSS. [[Website](https://www.electronjs.org/)]
     - 📚 [Electron Alternatives](https://github.com/sudhakar3697/electron-alternatives) - Cross-platform gui app development options.
-    - 🎉 [Ejecta](https://github.com/phoboslab/Ejecta) - JavaScript / canvas / audio implementation for iOS. App store compatible.
+    - 🎉 [Ejecta](https://github.com/phoboslab/Ejecta) - JavaScript canvas & audio implementation for iOS. App store compatible.
     - 🎉 [NW.js](https://github.com/nwjs/nw.js) - Desktop apps with JavaScript. Formerly _Node-Webkit_. [[Website](https://nwjs.io)]
+    - 🎉 [nx.js](https://github.com/TooTallNate/nx.js/) - JavaScript runtime for Nintendo Switch homebrew applications.
     - 📚 [Progressive Web Apps](https://web.dev/progressive-web-apps/) - Using web tech in a way that feels like platform-specific apps.
     - 🎉 [React Native](https://github.com/facebook/react-native) - Framework for building native apps using React. [[Website](https://reactnative.dev/)]
     - 🎉 [Tauri](https://github.com/tauri-apps/tauri) - Smaller, faster, and more secure desktop applications. [[Website](https://tauri.app/)]
