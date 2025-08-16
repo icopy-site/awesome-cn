@@ -37,24 +37,31 @@ This is a curated list of slash-commands, `CLAUDE.md` files, CLI tools, and othe
 
 <!--lint enable double-link-->
 
-Claude Code is a cutting-edge CLI-based coding assistant and agent that you can access in your terminal or IDE. It is a rapidly evolving tool that offers a number of powerful capabilities, and allows for a lot of configuration, in a lot of different ways. Users are actively working out best practices and workflows. It is the hope that this repo will help the community share knowledge and understand how to get the most out of Claude Code.
+Claude Code is a cutting-edge CLI-based coding assistant and agent released by [Anthropic](https://www.anthropic.com/) that you can access in your terminal or IDE. It is a rapidly evolving tool that offers a number of powerful capabilities, and allows for a lot of configuration, in a lot of different ways. Users are actively working out best practices and workflows. It is the hope that this repo will help the community share knowledge and understand how to get the most out of Claude Code.
 
 ### Announcements
 
-- 2025-07-30 - Quick Update: Still trying to iron out the submission flow (sorry for anyone that received duplicate "Congratulations!" issues). If you end up fighting any of the programmatic submission tools, just submit something that has all the necessary data, and I'll take it from there once approved. Other notes: (i) I think it would be really cool/fun to set up a "Claude Code Leaderboard", so feel free to weigh in on the [Discussion](https://github.com/hesreallyhim/awesome-claude-code/discussions/81); (ii) I'm still trying to figure out what to do about **SUB AGENTS**, and I've reached out to some of the other folks who have started similar repo's; (iii) Added a small section that will be updated with new submissions as they roll in.
+- 2025-08-16  
+
+(i) So much happening with Claude Code these days, it is genuinely hard to keep up! Since my last post, let's see... Opus 4.1; status lines; output styles; more sub agents; (plugins??); background shells; lions; tigers... wait sorry that's something else. Anyway, I'm glad to announce that besides some annoying bot messages and small glitches, the new resource submission workflow seems to be working really solidly. It's so much easier for everyone, so if you'd like to contribute to this community resource, make sure you are up to date on [`CONTRIBUTING.md`](https://github.com/hesreallyhim/awesome-claude-code/blob/master/../CONTRIBUTING.md) - I will no longer be accepting _resource submission_ PRs (there may be other cases where a PR is appropriate), but you can now submit something to the list without even cloning the repo or knowing how to spell "git". Just head over to the new resource submission [Issue Template](https://github.com/hesreallyhim/awesome-claude-code/issues/new?template=submit-resource.yml) and you'll be done in no time. If you have a PR open, please try to open it as an issue instead, although I will of course get through existing PR's before switching over entirely.
+
+(ii) I started a new section for Status Lines, and will soon open up another one for Output Styles hopefully. *WE WANT TO SEE YOUR STATUS LINES!* Definitely will be prioritizing those items in the short term. I've sadly been neglecting the awesome-claude-code-agents repo due to Claude Code's impressively rapid release cycle, but I haven't forgotten about it, rest assured.
+
+(iii) Still hoping to organize some friendly competition as soon as time allows.
+
+(iv) Considering imposing some more constraints on submissions, in particular I may decide to have your repo (if it is a repo) evaluated by a State-of-the-art language model, primarily for security, and not for awesomeness, as it's getting hard to keep up with all the great stuff coming in while still doing due diligence to make sure that this is not a home for malware or otherwise insecure resources.
+
+(v) Check out some of the latest entries below, and start shipping your status lines! Even small entries are totally welcome, it doesn't have to be a Picasso - if it fits on a single line, that makes it even easier to compose it with another awesome resource.
 
 ## This Week's Additions ✨
 
 > Resources added in the past 7 days
 
+[`claude-powerline`](https://github.com/Owloops/claude-powerline) &nbsp; by &nbsp; [Owloops](https://github.com/Owloops)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A vim-style powerline statusline for Claude Code with real-time usage tracking, git integration, custom themes, and more
+
 [`ccstatusline`](https://github.com/sirmalloc/ccstatusline) &nbsp; by &nbsp; [sirmalloc](https://github.com/sirmalloc)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A highly customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.
-
-[`viberank`](https://github.com/sculptdotfun/viberank) &nbsp; by &nbsp; [nikshepsvn](https://github.com/nikshepsvn)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-A community-driven leaderboard tool that enables developers to visualize, track, and compete based on their Claude Code usage statistics. It features robust data analytics, GitHub OAuth, data validation, and user-friendly CLI/web submission methods.
-
-[`claude-code-ide.el`](https://github.com/manzaltu/claude-code-ide.el) &nbsp; by &nbsp; [manzaltu](https://github.com/manzaltu)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;GPL-3.0  
-claude-code-ide.el integrates Claude Code with Emacs, like Anthropic’s VS Code/IntelliJ extensions. It shows ediff-based code suggestions, pulls LSP/flymake/flycheck diagnostics, and tracks buffer context. It adds an extensible MCP tool support for symbol refs/defs, project metadata, and tree-sitter AST queries.
 
 
 
@@ -193,6 +200,9 @@ A full-fledged desktop application for orchestrating, monitoring, and interactin
 
 [`ccstatusline`](https://github.com/sirmalloc/ccstatusline) &nbsp; by &nbsp; [sirmalloc](https://github.com/sirmalloc)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A highly customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.
+
+[`claude-powerline`](https://github.com/Owloops/claude-powerline) &nbsp; by &nbsp; [Owloops](https://github.com/Owloops)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A vim-style powerline statusline for Claude Code with real-time usage tracking, git integration, custom themes, and more
 
 <br>
 

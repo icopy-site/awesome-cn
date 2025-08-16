@@ -76,7 +76,7 @@ A general-purpose programming language and toolchain for maintaining robust, opt
 * [mitchellh/libxev](https://github.com/mitchellh/libxev) - Cross-platform event-loop.
 * [kprotty/zefi](https://github.com/kprotty/zefi) - Fiber library.
 * [rsepassi/zigcoro](https://github.com/rsepassi/zigcoro) - coroutine-friendly, based on libxev.
-* [iacore/minicoro-zig](https://git.envs.net/iacore/minicoro-zig) - Bindings for minicoro - Stackful Stack-Switching Coroutine.
+* [iacore/minicoro.zig](https://codeberg.org/iacore/minicoro.zig) - Bindings for minicoro - Stackful Stack-Switching Coroutine.
 * [floscodes/coroutinez](https://github.com/floscodes/coroutinez) - Small runtime for running tasks using coroutines.
 
 
