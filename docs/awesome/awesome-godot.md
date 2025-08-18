@@ -18,6 +18,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 #### Godot 4
 
+- [99Managers Futsal Edition](https://codeberg.org/dulvui/99managers-futsal-edition) - A simple free/libre Futsal team-management game.
 - [A Dark Forest](https://github.com/TinyTakinTeller/GodotProjectZero) - Minimalistic incremental game inspired by "A Dark Room".
 - [Librerama](https://codeberg.org/Yeldham/librerama) - A free/libre fast-paced arcade collection of mini-games.
 - [Poder Solar](https://github.com/antimundo/poder-solar) - Simple resource management game.
@@ -33,7 +34,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [Flappy Race](https://github.com/Jibby-Games/Flappy-Race) - A 2D online multiplayer game inspired by Flappy Bird and Mario Kart for desktop and HTML5.
 - [Haldric](https://github.com/wesnoth/haldric) - Official work-in-progress reimplementation of Battle for Wesnoth.
 - [Memory Game](https://github.com/Tzoop/MemoryGame) - Simple Memory game.
-- [Pocket Broomball](https://github.com/dulvui/pocket-broomball/) - The world's first broomball game, available for iOS, Android and html5.
+- [Pocket Broomball](https://codeberg.org/dulvui/pocket-broomball/) - The world's first broomball game, available for iOS, Android and html5.
 - [Portal 2D](https://github.com/JulianWels/portal2d) - 2D remake of the Portal games.
 - [ROTA](https://github.com/HarmonyHoney/ROTA) - Gravity-bending puzzle platformer game.
 - [spindle of serendipity](https://zacryol.itch.io/spindle-of-serendipity) - Word guessing game with customizable entries.
@@ -73,7 +74,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 #### Godot 3
 
-- [Ball2Box](https://github.com/dulvui/ball2box) - Shoot the ball into the box, available for iOS, Android and html5.
+- [Ball2Box](https://codeberg.org/dulvui/ball2box) - Shoot the ball into the box, available for iOS, Android and html5.
 - [Boom](https://github.com/FelicePollano/Boom) - A very simple, old fashion FPS, work-in-progress but playable.
 - [Broken Seals](https://github.com/Relintai/broken_seals) - A work-in-progress third person action RPG with multiplayer support (needs custom engine modules).
 - [Meteorite](https://github.com/Bauxitedev/meteorite) - A lowres metroidvania FPS, inspired by Metroid Prime, made for LOWREZJAM 2018.

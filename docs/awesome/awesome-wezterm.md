@@ -24,6 +24,7 @@ To enhance your WezTerm configuration experience:
 - [MLFlexer/modal.wezterm](https://github.com/MLFlexer/modal.wezterm) - Predefined Vim-like modal keybindings with a good looking UI.
 - [sei40kr/wez-pain-control](https://github.com/sei40kr/wez-pain-control?tab=readme-ov-file) - Pane control keybindings like tmux-pain-control.
 - [sei40kr/wez-tmux](https://github.com/sei40kr/wez-tmux) - Ported tmux keybindings.
+- [selectnull/pinned-tabs.wezterm](https://github.com/selectnull/pinned-tabs.wezterm) - Lets you assign a key binding to a specific tab.
 
 ## Media
 

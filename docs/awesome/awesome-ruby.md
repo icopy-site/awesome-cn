@@ -121,6 +121,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [CanCanCan](https://github.com/CanCanCommunity/cancancan) - Continuation of CanCan, an authorization Gem for Ruby on Rails.
 * [Consul](https://github.com/makandra/consul) - A scope-based authorization solution for Ruby on Rails.
 * [Pundit](https://github.com/elabs/pundit) - Minimal authorization through OO design and pure Ruby classes.
+* [Rabarber](https://github.com/brownboxdev/rabarber) - Simple role-based authorization for Rails with multi-tenancy support.
 
 ## Automation
 
@@ -405,6 +406,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [groupdate](https://github.com/ankane/groupdate) - The simplest way to group temporal data in ActiveRecord, arrays and hashes.
 * [holidays](https://github.com/holidays/holidays) - A collection of Ruby methods to deal with statutory and other holidays.
 * [ice_cube](https://github.com/seejohnrun/ice_cube) - A date recurrence library which allows easy creation of recurrence rules and fast querying.
+* [Jekyll-Timeago](https://github.com/markets/jekyll-timeago) - A Ruby library to compute distance of dates in words, with localization support, alternative styles, CLI and Jekyll support.
 * [local_time](https://github.com/basecamp/local_time) - Rails Engine for cache-friendly, client-side local time.
 * [montrose](https://github.com/rossta/montrose) - a simple library for expressing, serializing, and enumerating recurring events in Ruby.
 * [stamp](https://github.com/jeremyw/stamp) - Format dates and times based on human-friendly examples, not arcane strftime directives.
@@ -633,6 +635,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [geoip](https://github.com/cjheath/geoip) - Searches a GeoIP database for a given host or IP address, and returns information about the country where the IP address is allocated, and the city, ISP and other information.
 * [Geokit](https://github.com/geokit/geokit) - Geokit gem provides geocoding and distance/heading calculations.
 * [Google Maps for Rails](https://github.com/apneadiving/Google-Maps-for-Rails) - Enables easy Google map + overlays creation in Ruby apps.
+* [IP2Location.io](https://github.com/ip2location/ip2location-io-ruby) - A Ruby SDK allows user to query for an enriched data set based on IP address and provides WHOIS lookup api that helps users to obtain domain information.
 * [rgeo](https://github.com/rgeo/rgeo) - Geospatial data library. Spatial data types, geometric and spherical calculations, and WKT/WKB serialization.
 
 ## Git Tools

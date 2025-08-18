@@ -98,7 +98,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 
 ## Go
 
-- [Alda](https://github.com/alda-lang/alda) _(label: low-hanging-fruit)_ <br> A music programming language for musicians. 🎶
+- [Alda](https://github.com/alda-lang/alda) _(label: low-hanging fruit)_ <br> A music programming language for musicians. 🎶
 - [containerd](https://github.com/containerd/containerd) _(label: exp/beginner)_ <br> Industry-standard container runtime with an emphasis on simplicity, robustness and portability.
 - [Docker/CLI](https://github.com/docker/cli) _(label: exp/beginner)_ <br> The Docker CLI
 - [Dragonfly](https://github.com/dragonflyoss/Dragonfly2) _(label: good first issue)_ <br> Provide efficient, stable and secure file distribution and image acceleration based on p2p technology
@@ -169,7 +169,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [ImprovedTube](https://github.com/code-charity/youtube) _(label: good first issue)_ <br> A powerful but lightweight extension, to enrich your video experience & enable your content selection.
 - [Jasmine](https://github.com/jasmine/jasmine) _(label: good first issue)_ <br> Simple JavaScript testing framework for browsers and node.js.
 - [Jest](https://github.com/facebook/jest) _(label: good first issue)_ <br> A complete and easy to set up JavaScript testing solution.
-- [json-editor](https://github.com/json-editor/json-editor) _(label: good first issue)_ <br> JSON Schema Based Editor. JSON Editor takes a JSON Schema and uses it to generate an HTML form. It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, spectre, tailwind).
 - [Kinto.js](https://github.com/Kinto/kinto.js) _(label: easy-pick)_ <br> An offline-first JavaScript client leveraging the Kinto API for remote data synchronization.
 - [Leaflet](https://github.com/Leaflet/Leaflet) _(label: good first issue)_ <br> JavaScript library for mobile-friendly interactive maps.
 - [material-ui](https://github.com/mui/material-ui) _(label: good first issue)_ <br> React components for faster and easier web development. Build your own design system, or start with Material Design.
@@ -279,6 +278,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [datascience](https://github.com/data-8/datascience) _(label: good first issue)_ <br> A Jupyter notebook Python library for introductory data science.
 - [Devopness](https://github.com/devopness/devopness) _(label: good first issue)_ <br> Deploy any software to any cloud: automated DevOps workflows to save software teams time and money.
 - [django cookiecutter](https://github.com/pydanny/cookiecutter-django) _(label: hacktoberfest)_ <br> An implementation of Python for backend web development.
+- [DocsGPT](https://github.com/arc53/DocsGPT) _(label: good first issue)_ <br> Open-source RAG assistant that helps users get reliable answers from knowledge sources while avoiding hallucinations.
 - [Embedchain](https://github.com/embedchain/embedchain/) _(label: good first issue)_ <br> Embedchain is a framework to easily create LLM powered bots over any dataset.
 - [Fabric](https://github.com/fabric/fabric) _(label: Low-hanging-fruit)_ <br> Pythonic remote execution and deployment.
 - [FastAPI](https://github.com/tiangolo/fastapi) _(label: good first issue)_ <br> A modern, fast (high-performance) web framework for building APIs with Python 3.6+ based on standard Python type hints.
@@ -364,6 +364,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Berry - Active development trunk for Yarn](https://github.com/yarnpkg/berry) _(label: good first issue)_ <br> Fast, reliable, and secure dependency management.
 - [Booster](https://github.com/boostercloud/booster) _(label: good first issue)_ <br> A truly serverless framework, write your code and deploy it in seconds without any server configuration files.
 - [Devopness](https://github.com/devopness/devopness) _(label: good first issue)_ <br> Deploy any software to any cloud: automated DevOps workflows to save software teams time and money.
+- [DocsGPT](https://github.com/arc53/DocsGPT) _(label: good first issue)_ <br> Open-source RAG assistant that helps users get reliable answers from knowledge sources while avoiding hallucinations.
 - [Graphback](https://github.com/aerogear/graphback) _(label: good first issue)_ <br> A CLI and runtime framework to generate a GraphQL API in seconds.
 - [H2O Wave](https://github.com/h2oai/wave) _(label: good first issue)_ <br> Realtime Web Apps and Dashboards framework for Python and R. Suited (not only) for AI audience.
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) _(label: good first issue)_ <br> Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
