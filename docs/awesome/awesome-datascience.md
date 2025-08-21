@@ -54,6 +54,11 @@ Unlike R, Python was not built from the ground up with data science in mind, but
 
 Please, contribute about "agents"
 
+### Workflow  
+**[`^        back to top        ^`](#awesome-data-science)**
+- [sim](https://sim.ai) Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+
+
 ## Training Resources
 **[`^        back to top        ^`](#awesome-data-science)**
 
@@ -1022,6 +1027,7 @@ Some data mining competition platforms
 - [IBB Open Portal](https://data.ibb.gov.tr/en/)
 - [The Humanitarian Data Exchange](https://data.humdata.org/)
 - [250k+ Job Postings](https://aws.amazon.com/marketplace/pp/prodview-p2554p3tczbes) - An expanding dataset of historical job postings from Luxembourg from 2020 to today. Free with 250k+ job postings hosted on AWS Data Exchange.
+- [FinancialData.Net](https://financialdata.net/documentation) - Financial datasets (stock market data, financial statements, sustainability data, and more).
 
 
 ### Comics

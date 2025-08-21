@@ -667,6 +667,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 - [ptdewey/monalisa-nvim](https://github.com/ptdewey/monalisa-nvim) - A dark and colorful Mona Lisa inspired colorscheme.
 - [ntk148v/slack.nvim](https://github.com/ntk148v/slack.nvim) - A ported Slack colorscheme.
 - [motaz-shokry/gruvbox.nvim](https://gitlab.com/motaz-shokry/gruvbox.nvim) - A new gruvbox that the hard variant bg is "#1b1b1b", and it comes with 4 variants.
+- [mcauley-penney/techbase.nvim](https://github.com/mcauley-penney/techbase.nvim) - Dark, cold color scheme inspired by sci-fi horror and retro technology.
 
 ### Lua Colorscheme
 
@@ -828,6 +829,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Note Taking
 
+- [jameswolensky/marker-groups.nvim](https://github.com/jameswolensky/marker-groups.nvim) - Take persistent code notes without modifying code.
 - [bngarren/checkmate.nvim](https://github.com/bngarren/checkmate.nvim) - A beautified Markdown to-do list companion.
 - [lfilho/note2cal.nvim](https://github.com/lfilho/note2cal.nvim) - Quickly send events from your notes to your calendar (i.e. `Do something @ 3pm-3pm` --> will block that time on your calendar.
 - [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim) - Abbreviation reminders (Neovim >= 0.5).
@@ -1001,6 +1003,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Terminal Integration
 
+- [LuxVim/nvim-luxterm](https://github.com/LuxVim/nvim-luxterm) - A floating-window terminal session manager, offering elegant multi-terminal organization, live previews, and intuitive navigation with modern UI design. Manage, switch, and customize multiple terminals effortlessly.
 - [waiting-for-dev/ergoterm.nvim](https://github.com/waiting-for-dev/ergoterm.nvim) - Seamless terminal workflow integration with smart picker-based terminal selection, flexible text sending and persistent configuration.
 - [ingur/floatty.nvim](https://github.com/ingur/floatty.nvim) - A tiny (<200 LOC) but highly customizable floating terminal manager.
 - [imranzero/multiterm.nvim](https://github.com/imranZERO/multiterm.nvim) - Effortlessly manage multiple floating terminal windows.
