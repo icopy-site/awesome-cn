@@ -94,6 +94,7 @@ Tip: An overview of the most used KDE community apps are listed on the [official
 - [KRename](https://apps.kde.org/krename/) - A utility to rename multiple files 📌.
 - [KWin-lowlatency](https://github.com/tildearrow/kwin-lowlatency) - An attempt to reduce latency and stuttering in the popular KWin compositor used in KDE.
 - [KWinFT](https://gitlab.com/kwinft/kwinft) - Wayland compositor and X11 window manager.
+- [LocalTranslate](https://github.com/terslang/LocalTranslate) - Offline translation app built with Qt Quick that makes use of Firefox's [neural translation models](https://github.com/mozilla/firefox-translations-models).
 - [QOwnNotes](https://www.qownnotes.org/) - Note taking app with cloud integration, web and mobile support.
 - [QtPass](https://qtpass.org/) - A multi-platform GUI for [pass](https://www.passwordstore.org/).
 - [Wacom GUI](https://github.com/tb2097/wacom-gui) - Python/PyQt Wacom GUI for KDE.

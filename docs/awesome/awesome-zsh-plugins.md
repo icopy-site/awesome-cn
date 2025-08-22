@@ -796,7 +796,6 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 - [command-time](https://github.com/popstas/zsh-command-time) - Show execution time for long commands in ZSH and [powerlevel9k](https://github.com/bhilburn/powerlevel9k). Similar to `REPORTTIME` builtin, but only outputs when user + system time >= `REPORTTIME`.
 - [communism](https://github.com/victoria-riley-barnett/Communism/) - Displays a Marx quote of the day.
 - [compe](https://github.com/tamago324/compe-zsh) - Add completion for [nvim-compe](https://github.com/hrsh7th/nvim-compe).
-- [completion-generator](https://github.com/RobSis/zsh-completion-generator) - This plugin tries to read the list of options from the help text of programs and generate a completion function automatically. Note that this doesn't do it automatically, you have to explicitly call the generator to create a completion script.
 - [conda (themysciradata)](https://github.com/ThemysciraData/conda.plugin.zsh) - Adds function to provide a prompt segment for [conda](https://conda.io) and aliases for some base functions.
 - [conda (wardhanisukoco)](https://github.com/wardhanisukoco/zsh-plugin-conda/) - Automatically loads `conda` and provides functions for detecting `conda` versions for use in themes.
 - [conda-init](https://github.com/commiyou/conda-init-zsh-plugin) - Cleans up environment variables so [conda](https://conda.io) doesn't mess up `tmux`.
@@ -970,7 +969,6 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 - [git-flow-avh](https://github.com/nekofar/zsh-git-flow-avh) - Adds short aliases for the `git-flow` commands.
 - [git-fuzzy](https://github.com/bigH/git-fuzzy) - A CLI interface to `git` that relies heavily on [fzf](https://github.com/junegunn/fzf).
 - [git-gen](https://github.com/sharif3271/git-gen) - Handle `git` bulk branch delete and create operations.
-- [git-ignore](https://github.com/laggardkernel/git-ignore) - Generates `.gitignore` files from gitignore.io **offline**. [fzf](https://github.com/junegunn/fzf), completion, preview integrated.
 - [git-is-clean](https://github.com/aubreypwd/zsh-plugin-git-is-clean) - This function will return true or false depending on if it finds out your `git` repo is dirty or not.
 - [git-it-on](https://github.com/peterhurford/git-it-on.zsh) - Adds ability to open a folder in your current branch on GitHub.
 - [git-lfs](https://github.com/nekofar/zsh-git-lfs) - Adds short aliases for the `git-lfs` commands.
@@ -1212,7 +1210,6 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 - [nvm-pnpm-auto-switch](https://github.com/spencerbeggs/zsh-nvm-pnpm-auto-switch) - Automatically switches Node.js versions (using `nvm`) and manages pnpm package manager versions (using `corepack`) when changing directories.
 - [nvm](https://github.com/lukechilds/zsh-nvm) - ZSH plugin for installing, updating and loading `nvm`.
 - [oath](https://github.com/alexdesousa/oath) - Manages 2FA authentication 6 digit tokens. It was highly inspired by this article about [using oathtool for 2 step verification](https://www.cyberciti.biz/faq/use-oathtool-linux-command-line-for-2-step-verification-2fa/).
-- [oclif completion generator](https://github.com/MunifTanjim/oclif-plugin-completion) - Generates shell completions for commands lacking them.
 - [oh-my-gpt](https://github.com/vicotrbb/oh-my-gpt) - Provides an easy-to-use interface for interacting with OpenAI's GPT models directly from your terminal. It allows you to send queries, analyze files, and get AI-powered assistance for various tasks.
 - [oh-my-matrix](https://github.com/amstrad/oh-my-matrix) - Turn your terminal into the matrix.
 - [oh-my-posh-manager](https://github.com/wintermi/zsh-oh-my-posh) - Manages the oh-my-posh theme engine, along with providing a default powerline-like theme.
@@ -1300,6 +1297,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 - [proj-jumper](https://github.com/Kikolator/proj-jumper) - A lightweight ZSH plugin that lets you jump straight into any project folder under a single development root -- perfect when that root lives on a removable drive.
 - [project (gko)](https://github.com/gko/project) - Create node/python/ruby projects both locally and on GitHub (private or public repository).
 - [project (voronkovich)](https://github.com/voronkovich/project.plugin.zsh) - Plugin for managing projects.
+- [project-aliases](https://github.com/dvigo/project-aliases) — Zsh plugin to automatically load and unload per-project aliases.
 - [projen](https://github.com/p6m7g8/p6-zsh-projen-plugin) - Adds aliases for [projen](https://github.com/projen/projen).
 - [prompt-dir-perms](https://github.com/xPMo/zsh-prompt-dir-perms) - Creates a segment displaying the permissions of the current directory you can use in your ZSH prompt.
 - [prompt-generator](https://github.com/the10thWiz/zsh-prompt-generator) - Generates custom themes. Some generated themes require powerline-compatible fonts.
@@ -1628,6 +1626,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 - [zservice-py3http](https://github.com/z-shell/zservice-py3http) - Serve a given directory with Python 3's http server from the standard library.
 - [zsh-expand](https://github.com/MenkeTechnologies/zsh-expand) - Expands regular aliases, global aliases and incorrect spellings and phrases with the spacebar key. Native expansions such as globs, command/process substitution, `=command expansion`, history expansion and `$parameters` are also expanded by default but can be turned off.
 - [zsh-in-docker](https://github.com/deluan/zsh-in-docker) - Automates ZSH + [oh-my-zsh](https://ohmyz.sh/) installation into development containers. Works with Alpine, Ubuntu, Debian, CentOS or Amazon Linux.
+- [zsh-hookie-projects](https://github.com/aemonge/zsh-hookie-projects) - Language-agnostic project detection with smart hooks, PowerLevel10k integration, and intelligent path shortening. Automatically detects 100+ project types, provides customizable on_project/off_project hooks, features a smart cd command that goes to project root, and includes a beautiful hookie_dir segment that shortens paths like ~/projects/my-app → ~/p/my-app. Perfect for polyglot developers who want seamless project-aware shell behavior.
 - [zsh-not-vim](https://github.com/redxtech/zsh-not-vim) - Provides a function that automatically shames the user for forgetting they weren't in `vim`.
 - [zsh-select](https://github.com/z-shell/zsh-select) - Displays a selection list. It is similar to `selecta`, but uses the curses library to do display, and when compared to [fzf](https://github.com/junegunn/fzf), the main difference is approximate matching instead of fuzzy matching.
 - [zsh-watch](https://github.com/Thearas/zsh-watch) - Simple `watch` that supports alias and completion.
@@ -1682,7 +1681,6 @@ These plugins add tab completions without adding extra functions or aliases.
 - [cabal (d12frosted)](https://github.com/d12frosted/cabal.plugin.zsh) - Adds autocompletion for cabal.
 - [cabal (ehamberg)](https://github.com/ehamberg/zsh-cabal-completion) - Add tab completion for cabal.
 - [carapace-bin](https://github.com/rsteube/carapace-bin) - Multi-shell multi-command argument completer.
-- [carapace](https://github.com/rsteube/carapace) - Completion generator for Bash, Elvish, Fish, Oil, Powershell, Xonsh and ZSH. Note - this does not automatically generate completions as needed, you have to explicitly run it to generate completions for a command.
 - [cargo](https://github.com/MenkeTechnologies/zsh-cargo-completion) - All the functionality of the original oh-my-zsh cargo completion, with additional support for remote crates via `cargo search` in `cargo add`.
 - [carthage](https://github.com/squarefrog/zsh-carthage) - Provides completions and aliases for use with [Carthage](https://github.com/Carthage/Carthage).
 - [cf-zsh-autocomplete](https://github.com/norman-abramovitz/cf-zsh-autocomplete-plugin) - Adds autocomplete for all [Cloud Foundry CLI](https://docs.cloudfoundry.org/cf-cli/) commands.
@@ -1778,7 +1776,7 @@ These plugins add tab completions without adding extra functions or aliases.
 - [mill](https://github.com/carlosedp/mill-zsh-completions) - Tab completions for Scala's [Mill](http://mill-build.com/) build tool.
 - [miniconda](https://github.com/cmuench/zsh-miniconda) - Tab completions for [miniconda](https://docs.conda.io/en/latest/miniconda.html).
 - [misc-completions](https://github.com/syohex/zsh-misc-completions) - Adds completions for more unix and perl commands.
-- [mooseX-App](https://github.com/perlpunk/MooseX-App-Plugin-ZshCompletion) - completion generator for Perl module `MooseX::App`.
+- [mooseX-App](https://github.com/perlpunk/MooseX-App-Plugin-ZshCompletion) - Completion generator for Perl module `MooseX::App`.
 - [more-completions](https://github.com/MenkeTechnologies/zsh-more-completions) - 13500 ZSH compsys completions! Most were generated by python scripts that parsed --help output and man page output. As such they are of varying quality. Architecture prefixed completions are in the `architecture_src` directory.
 - [msfvenom](https://github.com/Green-m/msfvenom-zsh-completion) - Tab completions for Metasploit.
 - [mx-honey](https://github.com/mukel/mx-honey) - Provides completions for [mx](https://github.com/graalvm/mx); a command-line tool used for the development of Graal projects. It's meant to improve the usual workflow `build unittest benchmark ...` ease discovery and provide handy aliases.
@@ -1859,7 +1857,6 @@ These plugins add tab completions without adding extra functions or aliases.
 - [yarn-extra-completion](https://github.com/BuonOmo/yarn-extra-completion) - Inspired by [lukechilds/zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion).
 - [yarn](https://github.com/g-plane/zsh-yarn-autocompletions) - Add autocompletions for `yarn add`, `yarn remove`, `yarn upgrade`, `yarn why` and `yarn run`.
 - [yt-dlp](https://github.com/clavelm/yt-dlp-omz-plugin) - Tab completions for [yt-dlp](https://github.com/yt-dlp/yt-dlp).
-- [zargparse](https://github.com/ctil/zargparse) - Pass it a script that uses `argparse` and it will write a ZSH completion to your current directory.
 - [zenquotes](https://github.com/aminelch/zenquotes) - Displays a random quote from [zenquotes.io](https://zenquotes.io).
 - [zoxide](https://github.com/jnooree/zoxide-zsh-completion) - Tab completions for [zoxide](https://github.com/ajeetdsouza/zoxide).
 - [zpacman](https://github.com/Yttehs-HDX/zsh-zpacman/) - Add tab completions for [zpacman](https://github.com/Yttehs-HDX/zpacman.git).
@@ -3014,13 +3011,18 @@ There is also a more detailed [Zsh Plugin Standard](https://zdharma-continuum.gi
 ### ZSH Tools
 
 - [argcomplete](https://github.com/kislyuk/argcomplete) - Generates tab completions for programs using Python's `argparse` module.
+- [carapace](https://github.com/rsteube/carapace) - Completion generator for Bash, Elvish, Fish, Oil, Powershell, Xonsh and ZSH. Note - this does not automatically generate completions on demand, you have to explicitly run it to generate completions for a command.
+- [completion-generator](https://github.com/RobSis/zsh-completion-generator) - Tries to read the list of options from the help text of programs and generate a completion function automatically. Note that this doesn't do it automatically, you have to explicitly call the generator to create a completion script.
 - [completion-generators](https://github.com/zetlen/zsh-completion-generators) - Has a table of tool names and the commands for outputting completion scripts for those tools. On every load, will check that table and run the completion command for every tool found in your `$PATH` and save its output to a file _<toolname>. If the path of this repo is in `$fpath`, completions will work immediately.
+- [complgen](https://github.com/adaszko/complgen) - Generates completion scripts for bash/fish/zsh from a man-page/EBNF-like grammar. The resulting standalone scripts require only the target shell to be present.
 - [crazy-complete](https://github.com/crazy-complete/crazy-complete) - Every program should have autocompletion in the shell to enhance user experience and productivity. `crazy-complete` helps solve this task by generating robust and reliable autocompletion scripts.
 - [manpage-completion-generator](https://github.com/umlx5h/zsh-manpage-completion-generator) - Generats ZSH completions from man pages. Requires [create_manpage_completions.py](https://github.com/fish-shell/fish-shell/blob/master/share/tools/create_manpage_completions.py) which is installed by the fish shell
+- [oclif completion generator](https://github.com/MunifTanjim/oclif-plugin-completion) - Generates shell completions for commands lacking them.
 - [oh-plugin](https://github.com/mbergo/oh-plugin) - Helps you install plugins for [oh-my-zsh](https://ohmyz.sh) by typing `oh-plugin install repository_address`.
 - [shell-color-prompt-tool](https://github.com/kyletimmermans/shell-color-prompt-tool) - Helps you create a custom prompt for `ZSH` or `bash`.
 - [shellSpec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for dash, bash, ksh, ZSH and all POSIX shells.
 - [shtab](https://github.com/iterative/shtab) - Automatically generate shell tab completion scripts for Python CLI apps, supports `zsh`, `bash` and `tcsh`.
+- [zargparse](https://github.com/ctil/zargparse) - Pass it a script that uses `argparse` and it will write a ZSH completion to your current directory.
 - [zsh-ai-completions](https://github.com/iloveitaly/zsh-ai-completions) - AI-generated ZSH completions
 - [zsh-bench](https://github.com/romkatv/zsh-bench) - A benchmark for interactive ZSH. It measures user-visible latency of interactive `zsh`: input lag, command lag, etc.
 - [zshdb](https://github.com/rocky/zshdb) - A ZSH debugger.
