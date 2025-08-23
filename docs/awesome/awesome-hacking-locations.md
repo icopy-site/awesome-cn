@@ -31,13 +31,13 @@ Wifi | Power | Climatization  | Address | Open Hours
 
 ## Hackerspaces
 
-Hackerspaces are great places to hack, and in fact they are so great that they have their own list curated for many years now, if you are looking for a hackerspace, please consult:
+Hackerspaces are great places to hack, and in fact, they are so great that they have their own list curated for many years now. If you are looking for a hackerspace, please consult:
 
 - https://wiki.hackerspaces.org/List_of_Hacker_Spaces
 
 ## CoWorking
 
-CoWorking offices are awesome, but typically require a long term commitment, if you are looking for something more stable for a long term stay, look at http://coworkingmap.org/
+CoWorking offices are awesome, but typically require a long-term commitment. If you are looking for something more stable for a long-term stay, look at https://www.coworker.com/map
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
@@ -1333,6 +1333,18 @@ Wifi | Power | Address | Open Hours
 ✔ | ✔ | [C. de Rocafort, 35, 08015 Barcelona](https://goo.gl/maps/bUuKBrot4EWwnp1E9) | Mo-Su 06:00-22:00
 
 ![Speedtest result](https://www.speedtest.net/result/11650923969.png)
+
+## Bilbao
+
+#### Santander Work Café - Banco Santander
+
+> Central location inside the bank. Free signup needed but no reservation. Santander customers have discounts in the café. Is possible to book meeting rooms.
+
+Webpage: https://www.workcafe.es/en/home/oficinas-work-cafe/120-8920--PAIS-VASCO-Bilbao-Work-Cafe-Bilbao
+
+Wifi | Power | Climatization | Address | Open Hours
+---- | ----- | ----------- | ------- | ----------
+✔ | ✔ | ✔ | [Federico Moyúa Plaza, 8, Abando, 48009 Bilbao, Bizkaia, Spain](https://goo.gl/maps/2vtSB2ojg1rP9mY28) | Mo-Fr 8:30am - 7pm (2:30pm in August)
 
 ## Oviedo
 
