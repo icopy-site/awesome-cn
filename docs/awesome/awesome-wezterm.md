@@ -18,6 +18,7 @@ To enhance your WezTerm configuration experience:
 ## AI
 
 - [Michal1993r/ai-helper.wezterm](https://github.com/Michal1993r/ai-helper.wezterm/tree/master) - Ask AI for CLI help with LM Studio or Google Gemini.
+- [dimao/ai-commander.wezterm](https://github.com/dimao/ai-commander.wezterm) - Generate and select bash commands based on natural language prompts.
 
 ## Keybinding
 

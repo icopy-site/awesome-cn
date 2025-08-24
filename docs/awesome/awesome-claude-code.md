@@ -1,27 +1,20 @@
 <div class="github-widget" data-repo="hesreallyhim/awesome-claude-code"></div>
 <!--lint disable remark-lint:awesome-badge-->
 
-#
+<!-- Responsive Logo with Theme Support -->
+<div align="center">
+  
+  <!-- Same ASCII art for all screen sizes, just scales down on mobile -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg?sanitize=true">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/./assets/logo-light.svg?sanitize=true" alt="Awesome Claude Code" width="100%" style="max-width: 900px;">
+  </picture>
+  
+</div>
 
-<!-- [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) -->
+<!-- Generated with https://github.com/denvercoder1/readme-typing-svg -->
 
-<pre style="display: inline-block; text-align: left;">
- █████┐ ██┐    ██┐███████┐███████┐ ██████┐ ███┐   ███┐███████┐
-██┌──██┐██│    ██│██┌────┘██┌────┘██┌───██┐████┐ ████│██┌────┘
-███████│██│ █┐ ██│█████┐  ███████┐██│   ██│██┌████┌██│█████┐
-██┌──██│██│███┐██│██┌──┘  └────██│██│   ██│██│└██┌┘██│██┌──┘
-██│  ██│└███┌███┌┘███████┐███████│└██████┌┘██│ └─┘ ██│███████┐
-└─┘  └─┘ └──┘└──┘ └──────┘└──────┘ └─────┘ └─┘     └─┘└──────┘
-
- ────────────────────────────────────────────────────────────────────────────────────
-
- ██████┐██┐      █████┐ ██┐   ██┐██████┐ ███████┐     ██████┐ ██████┐ ██████┐ ███████┐
-██┌────┘██│     ██┌──██┐██│   ██│██┌──██┐██┌────┘    ██┌────┘██┌───██┐██┌──██┐██┌────┘
-██│     ██│     ███████│██│   ██│██│  ██│█████┐      ██│     ██│   ██│██│  ██│█████┐
-██│     ██│     ██┌──██│██│   ██│██│  ██│██┌──┘      ██│     ██│   ██│██│  ██│██┌──┘
-└██████┐███████┐██│  ██│└██████┌┘██████┌┘███████┐    └██████┐└██████┌┘██████┌┘███████┐
- └─────┘└──────┘└─┘  └─┘ └─────┘ └─────┘ └──────┘     └─────┘ └─────┘ └─────┘ └──────┘
-</pre>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7080D&random=true&width=435&lines=Fumigating...;Gallivanting...;Matriculating...;Toodleedoodling...;Goo-goo-g'joob-ing...;Excaliburating...;Canoodling...;Doing+the+humpty+dance...;Shiver-me-timbers-ing...;Becoming+sentient...;Opening+the+pod+bay+doors...;Rimraf-ing;23-skidoo-ing)](https://git.io/typing-svg)
 
 <!--lint enable remark-lint:awesome-badge-->
 
@@ -57,23 +50,28 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
+[`Claude Code Templates`](https://github.com/davila7/claude-code-templates) &nbsp; by &nbsp; [Daniel Avila](https://github.com/davila7)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Incredibly awesome collection of resources from every category in this list, presented with a neatly polished UI, great features like usage dashboard, analytics, and everything from slash commands to hooks to agents. An awesome companion for this awesome list.
+
+[`claudekit`](https://github.com/carlrannaberg/claudekit) &nbsp; by &nbsp; [Carl Rannaberg](https://github.com/carlrannaberg)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Impressive CLI toolkit providing auto-save checkpointing, code quality hooks, specification generation and execution, and 20+ specialized subagents including oracle (gpt-5), code-reviewer (6-aspect deep analysis), ai-sdk-expert (Vercel AI SDK), typescript-expert and many more for Claude Code workflows.
+
+[`TypeScript Quality Hooks`](https://github.com/bartolli/claude-code-typescript-hooks) &nbsp; by &nbsp; [bartolli](https://github.com/bartolli)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Quality check hook for Node.js TypeScript projects with TypeScript compilation. ESLint auto-fixing, and Prettier formatting. Uses SHA256 config caching for <5ms validation performance during real-time editing.
+
 [`ccflare`](https://github.com/snipeship/ccflare) &nbsp; by &nbsp; [snipeship](https://github.com/snipeship)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Claude Code usage dashboard with a web-UI that would put Tableau to shame. Thoroughly comprehensive metrics, frictionless setup, detailed logging, really really nice UI.
 
 [`Laravel TALL Stack AI Development Starter Kit`](https://github.com/tott/laravel-tall-claude-ai-configs) &nbsp; by &nbsp; [tott](https://github.com/tott)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Transform your Laravel TALL (Tailwind, AlpineJS, Laravel, Livewire) stack development with comprehensive Claude Code configurations that provide intelligent assistance, systematic workflows, and domain expert consultation.
 
-[`claude-powerline`](https://github.com/Owloops/claude-powerline) &nbsp; by &nbsp; [Owloops](https://github.com/Owloops)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-A vim-style powerline statusline for Claude Code with real-time usage tracking, git integration, custom themes, and more
-
-[`ccstatusline`](https://github.com/sirmalloc/ccstatusline) &nbsp; by &nbsp; [sirmalloc](https://github.com/sirmalloc)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-A highly customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.
-
 
 
 ▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Workflows & Knowledge Guides](#workflows--knowledge-guides-)  
 ▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tooling](#tooling-)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[IDE Integrations](#ide-integrations)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Usage Monitors](#usage-monitors)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Orchestrators](#orchestrators)  
 ▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Statusline](#statusline-)  
 ▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Hooks](#hooks-)  
 ▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Slash-Commands](#slash-commands-)  
@@ -88,7 +86,7 @@ A highly customizable status line formatter for Claude Code CLI that displays mo
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Language-Specific](#language-specific)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Domain-Specific](#domain-specific)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Project Scaffolding & MCP](#project-scaffolding--mcp)  
-▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Official Documentation](#official-documentation-)  
+▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Official Documentation](#official-documentation-%EF%B8%8F)  
 
 <br>
 
@@ -135,23 +133,14 @@ A pretty stunning list (88 at the time of this post!) of slash-commands ranging 
 
 > **Tooling** denotes applications that are built on top of Claude Code and consist of more components than slash-commands and `CLAUDE.md` files
 
-[`CC Usage`](https://github.com/ryoppippi/ccusage) &nbsp; by &nbsp; [ryoppippi](https://github.com/ryoppippi)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing local Claude Code logs. Presents a nice dashboard regarding cost information, token consumption, etc.
-
 [`ccexp`](https://github.com/nyatinte/ccexp) &nbsp; by &nbsp; [nyatinte](https://github.com/nyatinte)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Interactive CLI tool for discovering and managing Claude Code configuration files and slash commands with a beautiful terminal UI.
-
-[`ccflare`](https://github.com/snipeship/ccflare) &nbsp; by &nbsp; [snipeship](https://github.com/snipeship)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-Claude Code usage dashboard with a web-UI that would put Tableau to shame. Thoroughly comprehensive metrics, frictionless setup, detailed logging, really really nice UI.
 
 [`cclogviewer`](https://github.com/Brads3290/cclogviewer) &nbsp; by &nbsp; [Brad S.](https://github.com/Brads3290)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A humble but handy utility for viewing Claude Code `.jsonl` conversation files in a pretty HTML UI.
 
-[`Claude Code Flow`](https://github.com/ruvnet/claude-code-flow) &nbsp; by &nbsp; [ruvnet](https://github.com/ruvnet)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
-
-[`Claude Code Usage Monitor`](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) &nbsp; by &nbsp; [Maciek-roboblog](https://github.com/Maciek-roboblog)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-A real-time terminal-based tool for monitoring Claude Code token usage. It shows live token consumption, burn rate, and predictions for token depletion. Features include visual progress bars, session-aware analytics, and support for multiple subscription plans.
+[`Claude Code Templates`](https://github.com/davila7/claude-code-templates) &nbsp; by &nbsp; [Daniel Avila](https://github.com/davila7)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Incredibly awesome collection of resources from every category in this list, presented with a neatly polished UI, great features like usage dashboard, analytics, and everything from slash commands to hooks to agents. An awesome companion for this awesome list.
 
 [`Claude Composer`](https://github.com/possibilities/claude-composer) &nbsp; by &nbsp; [Mike Bannister](https://github.com/possibilities)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Unlicense  
 A tool that adds small enhancements to Claude Code.
@@ -159,32 +148,17 @@ A tool that adds small enhancements to Claude Code.
 [`Claude Hub`](https://github.com/claude-did-this/claude-hub) &nbsp; by &nbsp; [Claude Did This](https://github.com/claude-did-this)    
 A webhook service that connects Claude Code to GitHub repositories, enabling AI-powered code assistance directly through pull requests and issues. This integration allows Claude to analyze repositories, answer technical questions, and help developers understand and improve their codebase through simple @mentions.
 
-[`Claude Squad`](https://github.com/smtg-ai/claude-squad) &nbsp; by &nbsp; [smtg-ai](https://github.com/smtg-ai)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;AGPL-3.0  
-Claude Squad is a terminal app that manages multiple Claude Code, Codex (and other local agents including Aider) in separate workspaces, allowing you to work on multiple tasks simultaneously.
-
-[`Claude Swarm`](https://github.com/parruda/claude-swarm) &nbsp; by &nbsp; [parruda](https://github.com/parruda)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-Launch Claude Code session that is connected to a swarm of Claude Code Agents.
-
-[`Claude Task Master`](https://github.com/eyaltoledano/claude-task-master) &nbsp; by &nbsp; [eyaltoledano](https://github.com/eyaltoledano)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;NOASSERTION  
-A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
-
-[`Claude Task Runner`](https://github.com/grahama1970/claude-task-runner) &nbsp; by &nbsp; [grahama1970](https://github.com/grahama1970)    
-A specialized tool to manage context isolation and focused task execution with Claude Code, solving the critical challenge of context length limitations and task focus when working with Claude on complex, multi-step projects.
-
 [`claude-code-tools`](https://github.com/pchalasani/claude-code-tools) &nbsp; by &nbsp; [Prasad Chalasani](https://github.com/pchalasani)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A collection of awesome tools, including tmux integrations, better session management, hooks that enhance security - a really well-done set of Claude Code enhancers, especially for tmux users.
+
+[`claudekit`](https://github.com/carlrannaberg/claudekit) &nbsp; by &nbsp; [Carl Rannaberg](https://github.com/carlrannaberg)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Impressive CLI toolkit providing auto-save checkpointing, code quality hooks, specification generation and execution, and 20+ specialized subagents including oracle (gpt-5), code-reviewer (6-aspect deep analysis), ai-sdk-expert (Vercel AI SDK), typescript-expert and many more for Claude Code workflows.
 
 [`Container Use`](https://github.com/dagger/container-use) &nbsp; by &nbsp; [dagger](https://github.com/dagger)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
 
-[`TSK - AI Agent Task Manager and Sandbox`](https://github.com/dtormoen/tsk) &nbsp; by &nbsp; [dtormoen](https://github.com/dtormoen)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-A Rust CLI tool that lets you delegate development tasks to AI agents running in sandboxed Docker environments. Multiple agents work in parallel, returning git branches for human review.
-
 [`tweakcc`](https://github.com/Piebald-AI/tweakcc) &nbsp; by &nbsp; [Piebald-AI](https://github.com/Piebald-AI)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Command-line tool to customize your Claude Code styling.
-
-[`viberank`](https://github.com/sculptdotfun/viberank) &nbsp; by &nbsp; [nikshepsvn](https://github.com/nikshepsvn)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-A community-driven leaderboard tool that enables developers to visualize, track, and compete based on their Claude Code usage statistics. It features robust data analytics, GitHub OAuth, data validation, and user-friendly CLI/web submission methods.
 
 
 ### IDE Integrations
@@ -203,6 +177,42 @@ A seamless integration between Claude Code AI assistant and Neovim.
 
 [`crystal`](https://github.com/stravu/crystal) &nbsp; by &nbsp; [stravu](https://github.com/stravu)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A full-fledged desktop application for orchestrating, monitoring, and interacting with Claude Code agents.
+
+
+### Usage Monitors
+
+[`CC Usage`](https://github.com/ryoppippi/ccusage) &nbsp; by &nbsp; [ryoppippi](https://github.com/ryoppippi)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing local Claude Code logs. Presents a nice dashboard regarding cost information, token consumption, etc.
+
+[`ccflare`](https://github.com/snipeship/ccflare) &nbsp; by &nbsp; [snipeship](https://github.com/snipeship)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Claude Code usage dashboard with a web-UI that would put Tableau to shame. Thoroughly comprehensive metrics, frictionless setup, detailed logging, really really nice UI.
+
+[`Claude Code Usage Monitor`](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) &nbsp; by &nbsp; [Maciek-roboblog](https://github.com/Maciek-roboblog)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A real-time terminal-based tool for monitoring Claude Code token usage. It shows live token consumption, burn rate, and predictions for token depletion. Features include visual progress bars, session-aware analytics, and support for multiple subscription plans.
+
+[`viberank`](https://github.com/sculptdotfun/viberank) &nbsp; by &nbsp; [nikshepsvn](https://github.com/nikshepsvn)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A community-driven leaderboard tool that enables developers to visualize, track, and compete based on their Claude Code usage statistics. It features robust data analytics, GitHub OAuth, data validation, and user-friendly CLI/web submission methods.
+
+
+### Orchestrators
+
+[`Claude Code Flow`](https://github.com/ruvnet/claude-code-flow) &nbsp; by &nbsp; [ruvnet](https://github.com/ruvnet)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
+
+[`Claude Squad`](https://github.com/smtg-ai/claude-squad) &nbsp; by &nbsp; [smtg-ai](https://github.com/smtg-ai)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;AGPL-3.0  
+Claude Squad is a terminal app that manages multiple Claude Code, Codex (and other local agents including Aider) in separate workspaces, allowing you to work on multiple tasks simultaneously.
+
+[`Claude Swarm`](https://github.com/parruda/claude-swarm) &nbsp; by &nbsp; [parruda](https://github.com/parruda)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Launch Claude Code session that is connected to a swarm of Claude Code Agents.
+
+[`Claude Task Master`](https://github.com/eyaltoledano/claude-task-master) &nbsp; by &nbsp; [eyaltoledano](https://github.com/eyaltoledano)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;NOASSERTION  
+A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
+
+[`Claude Task Runner`](https://github.com/grahama1970/claude-task-runner) &nbsp; by &nbsp; [grahama1970](https://github.com/grahama1970)    
+A specialized tool to manage context isolation and focused task execution with Claude Code, solving the critical challenge of context length limitations and task focus when working with Claude on complex, multi-step projects.
+
+[`TSK - AI Agent Task Manager and Sandbox`](https://github.com/dtormoen/tsk) &nbsp; by &nbsp; [dtormoen](https://github.com/dtormoen)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A Rust CLI tool that lets you delegate development tasks to AI agents running in sandboxed Docker environments. Multiple agents work in parallel, returning git branches for human review.
 
 <br>
 
@@ -241,6 +251,9 @@ Nice set of hooks for enforcing code quality (linting, testing, notifications), 
 
 [`TDD Guard`](https://github.com/nizos/tdd-guard) &nbsp; by &nbsp; [Nizar Selander](https://github.com/nizos)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A hooks-driven system that monitors file operations in real-time and blocks changes that violate TDD principles.
+
+[`TypeScript Quality Hooks`](https://github.com/bartolli/claude-code-typescript-hooks) &nbsp; by &nbsp; [bartolli](https://github.com/bartolli)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Quality check hook for Node.js TypeScript projects with TypeScript compilation. ESLint auto-fixing, and Prettier formatting. Uses SHA256 config caching for <5ms validation performance during real-time editing.
 
 <br>
 

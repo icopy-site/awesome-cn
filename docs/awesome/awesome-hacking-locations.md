@@ -11,23 +11,11 @@ Awesome Hacking Locations [![Awesome](https://cdn.rawgit.com/sindresorhus/awesom
 
 This is a community curated list, please submit your PR with the spots you know and love for hacking!
 
-> Q: What makes a hacking spot awesome?
+Q: What makes a hacking spot awesome?
 
-A place where you would go and take your friends to go hacking with, power and wifi are a plus, having coffee and snacks is a bonus. We are excluding for now places that require a subscription or membership of somekind (unless that membership can be done at the of the visit moment and it doesn't require a long term commitment).
+> A place where you would go and take your friends to go hacking with, power and wifi are a plus, having coffee and snacks is a bonus. We are excluding for now places that require a subscription or membership of somekind (unless that membership can be done at the of the visit moment and it doesn't require a long term commitment).
 
-## Template
-
-```markdown
-#### NAME OF THE AWESOME HACKING SPOT
-
-> SMALL DESCRIPTION OF THE AWESOME HACKING SPOT AND WHY IT IS SO AWESOME :D
-
-Webpage: PLACE WEBPAGE (IF NOT AVAILABLE, USE FOURSQUARE SHORT URL)
-
-Wifi | Power | Climatization  | Address | Open Hours
----- | ----- | -------------- | ------- | ----------
-✔ | ✘ | ❄️/♨️ | [ADDRESS](https://github.com/daviddias/awesome-hacking-locations/blob/master/GOOGLE MAPS SHORT URL) | OPEN HOURS
-```
+Check [CONTRIBUTING.MD](https://github.com/daviddias/awesome-hacking-locations/blob/master/./CONTRIBUTING.MD) and start contributing.
 
 ## Hackerspaces
 
@@ -64,18 +52,6 @@ Wifi | Power | Address | Open Hours
 
 ## Brussels
 
-#### Workshop Café
-
-> Fantastic coffee shop, delicious 'Quiche', lots of tables.
-
-Webpage: https://www.facebook.com/WorkshopCafeBelgium/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Av Louise, 146 1050 Brussels](https://goo.gl/maps/hsGKR1Ytn6N2) | Mon-Sun 8:00-19:00
-
-![](http://www.speedtest.net/result/6022204011.png)
-
 #### Hackerspace Brussels (HSBXL)
 
 > Hackerspace Brussels (HSBXL) is a space, dedicated to various aspects of constructive & creative hacking. The space is about 300 square meters, there is a little electronics lab with over 9000 components, a library, and lots of tools. You're always welcome to follow one of the workshops or come to the weekly Tuesday meetings, hack nights or other get-together events.
@@ -93,16 +69,7 @@ Wifi | Power  | Address | Open Hours
 
 ## Rio de Janeiro
 
-#### Grama
-
-> Front-end company that supports open culture. Not too many seats, but fast wifi. It's free.
-
-Webpage: http://grama.cc/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-ask | ✔ | [Rua Sorocaba 190, Botafogo, Rio de Janeiro](https://goo.gl/maps/vPa8ZRbAjUx) | Mon-Fri 11:00-20:00, ask for a different time
-
+No spots now. Grama closed
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
@@ -154,7 +121,7 @@ Wifi | Power | Address | Open Hours
 
 ## Hamilton
 
-#### Mulberry Street Coffeehouse
+#### Mulberry Coffeehouse
 
 > Cafe in the former lobby of an 1880s hotel. Great coffee, beer, sweets & sandwiches.
 
@@ -308,8 +275,8 @@ Webpage: https://copenhagencoffeelab.com/cafes/cafes-france/nice
 
 Wifi | Power | Climatization  | Address | Open Hours
 ---- | ----- | -------------- | ------- | ----------
-✔ | ✔ | ✔ | [47 Rue de France, 06000 Nice](https://goo.gl/maps/MPnAWDPEmm2zTC3c9) | Mon-Sun 7AM - 7PM
-✔ | ✔ | ✔ | [16 Bd Jean Jaurès, 06300 Nice](https://goo.gl/maps/T9nTCLzJfKpxD6NLA) | Mon-Sun 7AM - 7PM
+✔ | ✔ | ✔ | [47 Rue de France, 06000 Nice](https://maps.app.goo.gl/gqhGPJxrF8E7MX479) | Mon-Sun 7AM - 7PM
+✔ | ✔ | ✔ | [16 Bd Jean Jaurès, 06300 Nice](https://maps.app.goo.gl/UMxuAM5Jmmdw5ek8A) | Mon-Sun 7AM - 7PM
 
 ## Paris
 
@@ -317,11 +284,9 @@ Wifi | Power | Climatization  | Address | Open Hours
 
 > Speciality French Coffee Makers
 
-Webpage: https://www.facebook.com/CafeShopSouthPigalle
-
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✘ | [53 Avenue Trudaine, 75009 Paris](https://goo.gl/maps/RRm5Qdx2k3u) | Mon-Fri 7:30-18:30, Sat-Sun: 9:00-18:30
+✔ | ✘ | [53 Avenue Trudaine, 75009 Paris](https://maps.app.goo.gl/tSkP9PHT5PUPPGMW9) | Mon-Fri 7:30-18:30, Sat-Sun: 9:00-18:30
 
 #### Le Progrès
 
@@ -331,19 +296,7 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✘ | [7 Rue des Trois Frères, 75018 Paris](https://goo.gl/maps/EPuXWaLcKa22) |
 
-#### Loustic
-
-> Small coffee shop but with good coffee
-
-Webpage: http://www.cafeloustic.com/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [40 Rue Chapon, 75003 Paris](https://goo.gl/maps/UaCpEQj8YAS2) | Mon-Fri 8:00-18:00, Sat 9:00-18:00, Sun 10:00-18:00
-
-![](http://www.speedtest.net/result/4990205803.png)
-
-#### Anticafe Louvre
+#### After Place Louvre
 
 > You pay 5 euros per hour and everything on the menu is free.
 
@@ -354,18 +307,6 @@ Wifi | Power | Address | Open Hours
 ✔ | ✔ | [10 Rue Richelieu, 75001 Paris](https://goo.gl/maps/RAFpjLLeSPJ2) | Mon-Fri 9:00-22:30, Sat-Sun 10:00-21.30
 
 ![](http://www.speedtest.net/result/4986816433.png)
-
-#### Anticafe Beauborg
-
-> You pay 5 euros per hour and everything on the menu is free.
-
-Webpage: http://www.anticafe.eu/beaubourg
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [79 Rue Quincampoix 75003 Paris](https://goo.gl/maps/S9GT8mH6oYT2) | Mon-Fri 9:00-22:30, Sat-Sun 10:00-9:30
-
-![](http://www.speedtest.net/result/4987963541.png)
 
 #### Bibliothèque Sainte-Geneviève
 
@@ -395,16 +336,6 @@ Wikipedia: https://en.wikipedia.org/wiki/C-base
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Rungestraße 20, 10179 Berlin, Germany](https://goo.gl/maps/KuJq77w99Tn) | Variable
-
-#### Schiller Bar
-
-> Next to a bakery ; very quiet between 10:00 and 18:00 ; awesome (english-speaking) staff.
-
-Webpage: http://www.schillerbar.com
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Herrfurthstraße 7, 12049 Berlin](https://goo.gl/maps/LzTzgA64Jpv) | Mon-Sun 09:00–00:00
 
 #### St. Oberholz
 
@@ -460,7 +391,7 @@ Wifi | Power | Address | Open Hours
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Krautgasse 26, 07743 Jena](https://goo.gl/maps/kGtrdrehFHy) | Mon-Fri 07:30–19:00; Sat 10:00–17:00
+✔ | ✔ | [Krautgasse 26, 07743 Jena](https://maps.app.goo.gl/QaMgf3d5WXtuJRvPA) | Mon-Fri 07:30–19:00; Sat 10:00–17:00
 
 ## Munich
 
@@ -479,15 +410,7 @@ Wifi | Power | Address | Open Hours
 
 ## Hong Kong 🇭🇰
 
-#### Pink Coffee
-
-> They have a standing desk!
-
-Webpage: https://www.facebook.com/PinkCoffeeHK
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Shop 305, D2 Place, Lai Chi Kok](https://goo.gl/maps/SuyKBeM86752) | Mon-Fri 8:00-21:00, Sat-Sun 9:30-18:00
+Missing Hacking Locations after the closure of Pink Coffee
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
@@ -496,15 +419,7 @@ Wifi | Power | Address | Open Hours
 
 ## Hyderabad
 
-#### Whiteboard Cafe
-
-> Healthy food, books, printer, fast wifi
-
-Webpage: http://www.whiteboard.cafe, [Zomato](https://www.zomato.com/whiteboardcafe)
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Plot 15/1, 1st Floor, Sector 2, Opposite Cyber Gateway, Hitech City, Hyderabad](https://goo.gl/maps/XkwPfawQWrp) | Mon-Sun 8:00-22:00
+Missing Hacking Locations after the closure of  Whiteboard Cafe
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
@@ -559,36 +474,17 @@ Wifi | Power | Address | Open Hours
 
 > Small hack-cafe with good people and vibes
 
+**_NOTE:_** Potentially closed. Needs confirmation.
+
 Webpage: http://www.osscafe.net/ja/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [〒155-0033 Tokyo, Setagaya, Daita, 6 Chome−11−14, G1](https://goo.gl/maps/ek2VPvXcVjA2) | Daily: 10:00-20:00. Closed Fridays.
 
-
-#### Unir Coffee
-
-> 24 Hour Hotel Lobby coffeeshop with industrial modern edge and a robot
-
-Webpage: http://unir-coffee-akasaka.com
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [2 Chome-14-14 Akasaka, 港区赤坂 Tōkyō-to 107-0052](https://goo.gl/maps/jW9Ax6q33Ky) | Daily: 00:00-23:59
-
-![](http://www.speedtest.net/result/5787230824.png)
-
 ## Kyoto
 
-#### Mos Cafe
-
-> Nice cafe where they don't mind if you stay for the whole day. The wifi is so so but you can buy wi2 premium for 3$/6h.
-
-Webapage: https://www.mos.jp/shop/detail/02388/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [〒604-8162 Kyoto, Nakagyō-ku, Shichikannoncho, 烏丸通六角下る253-1 読売京都ビル](https://goo.gl/maps/7fMyyAVBkmWomHM17) | Daily: 10:00-21:00
+Missing hacking locations after the closure of Mos coffee
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
@@ -636,15 +532,6 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Weesperzijde 23, 1091 EC Amsterdam, Netherlands](http://goo.gl/qLPEjU) | Sun-Thu 8AM-1AM, Fri-Sat 8AM-2AM
 
-#### Public Space
-
-> Across the river from Amsterdam Central. Great food, great coffee, remote worker friendly.
-
-Webpage: [publicspace.amsterdam](https://publicspace.amsterdam/)
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Bercylaan 301, 1031 KP Amsterdam, Netherlands](https://g.page/public-space-amsterdam) | Mon-Fri 9:00-17:00, Sun 10:00-17:00
 
 ## Delft
 
@@ -665,49 +552,20 @@ Wifi | Power | Address | Open Hours
 
 ## Stavanger
 
-#### Coffeeberry
-
-> Awesome coffee with breakfast deal of coffee, juice and rye bread w/ brown cheese.
-
-Webpage: http://www.coffeeberry.com/
-
-Wifi| Power | Address  | Open Hours
---- | ----- | ------------------------------ | -------------------------------------------
-✔   | ✔     | [Klubbgata 3](https://goo.gl/maps/67j81KFYqSt) | Mon-Fri 7:00-19:00, Sat 9:00-18:00, Sun 11:00-18:00
-
-
 #### Kokko
 
 > Roasters, Architecture, Design, Books.
 
-Webpage: http://www.kokkokokko.no/
+Webpage: https://kokkostore.no/
 
 Wifi| Power | Address  | Open Hours
 --- | ----- | ------------------------------ | -------------------------------------------
-✔   | ✔     | [Østervåg 43](https://goo.gl/maps/EUugf632tpy) | Mon-Thu 10:00-19:00, Fri-Sat 10:00-01:00, Sun 11:00-18:00
+✔   | ✔     | [Østervåg 43](https://maps.app.goo.gl/4zyiRWxnrjWX4cH3A) | Mon-Thu 10:00-19:00, Fri-Sat 10:00-01:00, Sun 11:00-18:00
 
-
-#### Bluebird
-
-> Award winning coffee and cosy place.
-
-Webpage: https://www.facebook.com/Bluebirdkaffebar/
-
-Wifi| Power | Address  | Open Hours
---- | ----- | ------------------------------ | -------------------------------------------
-✔   | ✔     | [Kongsgata 48](https://goo.gl/maps/PJDE5hSi3BJ2) | Mon-Fri 8:00-18:00, Sat 10:00-17:00, Sun Closed.
 
 ## Tromsø
 
-#### Lugar 34
-
-> Very comfy and chill place. Beer is expensive as hell like everywhere else in Norway, but they also do excellent coffee. Has hippie style. 8mbit/1mbit wifi. Great opening hours.
-
-Webpage: https://facebook.com/lugar34
-
-Wifi| Power | Address  | Open Hours
---- | ----- | ------------------------------ | -------------------------------------------
-✔   | ✔     | [Storgata 34](https://goo.gl/maps/x2h8ApkDiSw) | 09–01
+No Hacking locations reported after the closure of Lugar 34
 
 ## Ålesund
 
@@ -736,16 +594,6 @@ Webpage: http://www.karmaroasters.com/
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Krupnicza 12, 31-123 Kraków](https://goo.gl/maps/Q7GAvneeUiu) | Mon-Fri 8:00-20:00, Sat-Sun 10:00-19:00
-
-#### COFFEE Street
-
-> Not big coffee shop with great coffee, very nice atmosphere and fast wifi. All you need for hacking.
-
-Webpage: [www.coffeestreet.pl](http://www.coffeestreet.pl/)
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Dolnych Młynów 3. 31-000 Kraków](https://goo.gl/maps/WY8CapFQ2N72) | Mon-Fri 6:30-21:00, Sat-Sun 7:30-20:00
 
 #### Blossom
 
@@ -799,15 +647,7 @@ Wifi | Power | Address | Open Hours
 
 ## Gliwice
 
-#### Kafo
-
-> Great coffee shop. Location in the city center (near main square), high quality coffee and snacks. It's small, but cozy place. They have wifi.
-
-Webpage: http://kafo.info/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Józefa Wieczorka 14, 44-100 Gliwice](https://goo.gl/maps/3KBX4BrxovL2) | Mon-Fri 7:00-20:00, Sat 9:00-20:00, Sun 10:00-20:00
+No hacking locations reported after the closure of Kafo.
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
@@ -815,18 +655,6 @@ Wifi | Power | Address | Open Hours
 ## Portugal 🇵🇹
 
 ## Aveiro
-
-#### Mercado Negro
-
-> Old refurnished house; vintage; good for night owl hackers that just wanted to get something done. Calm and clean with several rooms, so there's always a quiet place to work.
-
-Webpage: [mercadonegro-aveiro.blogspot.pt](https://mercadonegro-aveiro.blogspot.pt)
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Rua Joao Mendonca 17, 3880-200 Aveiro](https://goo.gl/maps/ay2aTFp8EQr) | Mon 21:00-02:00, Tue-Fri 17:00-02:00, Sat-Sun 14:00-02:00
-
-![](https://www.speedtest.net/result/9023464358.png)
 
 #### NATA Lisboa
 
@@ -957,34 +785,6 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✘ | ✘ | [Rua Portas De Santo Antão, 136, Lisbon, Portugal](https://goo.gl/maps/6cYBbdg82rv) |
 
-#### Montana Lisboa Café
-
-> Street Art shop + speciality coffee place that is laptop friendly!
-
-Webpage: http://4sq.com/2fHRcQF
-
-Wifi | Power | Climatization  | Address | Open Hours
----- | ----- | -------------- | ------- | ----------
-✔ | ✔ | ❄️ | [Rua da Cintura do Porto de Lisboa, Armazém 20, porta 3, 1200-450 Lisboa](https://goo.gl/maps/1rmr8E1WBzH2) | 10am - 7pm
-
-![](http://beta.speedtest.net/result/6938533453.png)
-
-Wifi pw: `graffiti`
-
-#### O pão nosso
-
-> Although small, it is a great bakery. Staff is super friendly.
-
-Webpage: http://www.opaonosso.pt/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [R. Marquês Sá da Bandeira 46, 1050-149 Lisboa, Portugal](https://goo.gl/maps/FD69tn3WZ2G2) |
-
-![](http://www.speedtest.net/result/6430591434.png)
-
-Wifi pw: `fermento`
-
 #### Padaria Portuguesa - Cais do Sodré
 
 > One of the many Padaria Portuguesa bakeries, delivious sweets and sandwiches.
@@ -999,36 +799,6 @@ Wifi | Power | Climatization  | Address | Open Hours
 
 Wifi pw: `portuguesa`
 
-#### Pois Café
-
-Webpage: http://www.poiscafe.com/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Rua S. João da Praça, 93-95 Lisboa](https://goo.gl/maps/Wj6aHXwyWYU2) |
-
-#### Quatro ao Rato
-
-> Nice place with nice environment in the middle of city. Always has a vegetarian alternative for lunch. Opens early.
-
-Webpage: https://pt-pt.facebook.com/quatroaorato/
-
-Wifi | Power | Climatization  | Address | Open Hours
----- | ----- | -------------- | ------- | ----------
-✔ | ✔ | ♨️ | [Largo do Rato 4A, 1250-096 Lisboa](https://goo.gl/maps/BChdxAHRKmT2) | 8am - 20pm
-
-![](http://www.speedtest.net/result/7121883484.png)
-
-#### Royale Café
-
-> Quiet and friendly staff. A bit on the pricey $$ side though.
-
-Webpage: http://www.royalecafe.com
-
-Wifi | Power | Climatization  | Address | Open Hours
----- | ----- | -------------- | ------- | ----------
-✔ | ✔ | ❄️/♨️ | [Largo Rafael Bordalo Pinheiro 29 R/C Lisboa](https://goo.gl/maps/Eho6a8ufqRQ2) | Mon-Wed 12-11pm & Thu-Sun 12pm-12am
-
 #### Tartine
 
 Webpage: http://tartine.pt/
@@ -1038,40 +808,6 @@ Wifi | Power | Climatization | Address | Open Hours
 ✔ | ✔ | ❄️/♨️ | [R. Serpa Pinto 15A, 1200-026 Lisboa](https://goo.gl/maps/NNnXK6LkzFJ2) |
 
 ![](http://beta.speedtest.net/result/6628785269.png)
-
-#### Wish - Slow Coffee House
-
-> Small coffee shop with good tables
-
-Webpage: https://www.facebook.com/wishslowcoffeehouse
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Rua Rodrigues Faria, 103 - Espaço G2 1300-501 Lisbon](https://goo.gl/maps/h5rSLnrrEmx) |
-
-![](http://www.speedtest.net/result/5789565474.png)
-
-#### Mercearia do Campo
-
-> Great lunch menu, quiet all day (except lunch), friendly people and cosy atmosphere.
-
-Webpage: http://www.merceariadocampo.pt/en_GB/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Rua Saraiva de Carvalho - 115 R/C, 1250-242 Lisboa](https://goo.gl/maps/AX6XdBCy2bN2) | Mon-Thu 08:00 - 00:00, Fri-Sat 09:00 - 02:00
-
-![](http://www.speedtest.net/result/7297518934.png)
-
-####  Eric Kayser
-
-> Open space even with wifi outdoors and nice cakes, could be noisy sometimes 
-
-Webpage: https://www.facebook.com/erickayserportugal
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Amoreiras Plaza Rua Professor, R. Carlos Alberto da Mota Pinto 9, 1250-252 Lisboa](https://goo.gl/maps/zxuU8HZMJbRwNpPWA) | Sat-Sun 08:00 - 20:00, Mon-Fri 07:30 - 20:30
 
 ## Porto
 
@@ -1086,31 +822,7 @@ Wifi | Power | Address | Open Hours
 
 ![Screenshot from 2022-08-09 15-51-59](https://user-images.githubusercontent.com/19710754/183682207-df364826-3299-4945-9962-39e9996d177c.png)
 
-#### Bop
-
-> Hipster vibes with large record collection, coffee, beer, and tasty bagels.
-
-Webpage: https://www.bop.pt
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [R. da Firmeza 575, Porto, Portugal](https://goo.gl/maps/wpxTd6PzQEw) | Mon 12:30pm - 1:00am, Tue-Sun 10:00am - 1:00am
-
-![](http://www.speedtest.net/result/5468130872.png)
-
-#### Duas de Letra
-
-> Calm and cosy cafe with relaxing music and a nice backyard.
-
-Webpage: (duasdeletra.pt)[http://duasdeletra.pt/]
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Passeio de São Lázaro Nº 48, Porto, Portugal](https://goo.gl/maps/ouhN2fTzyKG2) | Mon-Thu 10:00am - 10:00pm, Fri-Sat 10:00am - 12:00am, Sun 02:00pm - 08:00pm
-
-![](http://www.speedtest.net/result/5736595558.png)
-
-#### Embaixado
+#### Embaixada
 
 > Quiet cafe with nice music, empty upstairs, great salad, and cool dances at night.
 
@@ -1134,16 +846,6 @@ Wifi | Power | Address | Open Hours
 
 ![](http://www.speedtest.net/result/5425343488.png)
 
-#### Moustache
-
-> Very nice and cozy coffee in the city center of Porto, near Carmo Church and Fountain of Lions. Has 2 floors, with a lot of comfortable chairs and a small room with tables and plugs.
-
-Webpage: http://www.moustache.pt/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Praça Carlos Alberto 104, Porto, Portugal](https://goo.gl/maps/sRRxzxuGLhB2) | Mon-Wed 8:00 - 20:00, Thu-Sat 8:00 - 2:00, Sun 14:00-20:00
-
 #### Café Candelabro
 
 > Coffee shop, library and bookshop right in the center of Porto.
@@ -1154,41 +856,10 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Rua da Conceição 2, Porto, Portugal](https://goo.gl/maps/fDQuuCgAZPZSgdgt7) | Sat 4:00pm - 2:00am, Sunday 4:00pm - 12:00am, Monday 1:00pm - 2:00am, Tuesday - Friday 10:30am - 2:00am
 
-#### Café Vitória
-
-> Restaurant and coffee shop right in the center of Porto with a nice garden in the back.
-
-Webpage: http://www.cafevitoria.com/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Rua de José Falcão 156, Porto, Portugal](https://goo.gl/maps/HT8dioSQPnDGecsMA) | Saturday 2:00pm – 2:00am, Sunday Closed, Monday - Thursday 12:00pm – 1:00am, Friday 12:00pm – 2:00am
 
 ## Viana do Castelo
 
-#### Pastelaria Jardim
-
-> Hacking with a great view of the city's park
-
-Webpage: https://pt.foursquare.com/v/pastelaria-jardim/4f1c28e5e4b08fa665830c09<Paste>
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Rua Joao Tomas da Costa, Viana do Castelo 4900-509, Portugal](https://goo.gl/maps/bpfWKYvfsTk) |
-
-![](http://www.speedtest.net/result/5643463433.png)
-
-#### Casinha Boutique Café
-
-> Quiet place near the city center, with lots of natural light and a good selection of snacks and salads.
-
-Webpage: https://pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1bfd0cfcb7a
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Rua Cândido Dos Reis, N° 20](https://goo.gl/maps/bpfWKYvfsTk) |
-
-![](http://www.speedtest.net/result/5644569150.png)
+No hacking locations reported after the closure of Casinha Boutique Café and Pastelaria Jardim
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
@@ -1197,25 +868,7 @@ Wifi | Power | Address | Open Hours
 
 ## Outram Park
 
-#### Just Want Coffee
-
-> Not so much noisy and crowded. It is located nearby MRT station. Coffee and cakes are also good.
-
-Webpage: https://www.facebook.com/JWCEverton/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Blk 1 Everton Park, #01-27, Singapore 081001](https://goo.gl/maps/wFxgBRghZuC2) | Mon - Fri 8:30AM–6PM, Sat - Sun 10AM–6PM
-
-#### Bread & Hearth
-
-> In the center of Keong Siak road, with plenty of coffee shops and restaurants. Awesome handcrafted artisan bread, and decent coffee. Crowded between 12 - 2pm.
-
-Webpage: http://breadandhearth.com/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ? | [18 Keong Saik Road, 089125](https://goo.gl/maps/hyWVdRe7Dys) | Daily 8:30AM–9.30PM
+No hacking locations after the closure of Bread & Hearth and Just Coffee
 
 ## one north
 
@@ -1240,27 +893,7 @@ See https://github.com/otobrglez/awesome-workplaces-slovenia
 
 ## Seoul
 
-#### Hollys Coffee, Line 9, Sinnonhyeon station
-
-> Extremely fast, stable internet, Power outlet on every seats, 24 Hours open
->
-> I saw ASUS RT-AC68U WiFi Router
->
-> Router connected with KT Giga Internet, which is fastest internet in South Korea (including oversea network access)
->
-> Many seats and seat types (Sofa, Bar Stools...)
->
-> Has Smoking Area
-
-Google Maps: https://goo.gl/maps/osWKar7YQfm
-
-Naver Map: http://naver.me/FjThMRso
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [478, Gangnam-daero, Gangnam-gu, Seoul, Republic of Korea](https://goo.gl/maps/osWKar7YQfm) | 24H, Everyday
-
-![](http://www.speedtest.net/result/7264247601.png)
+No hacking locations reported after the closure of Hollys Coffee
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
@@ -1308,9 +941,9 @@ Wifi | Power | Address | Open Hours
 > ⛔ Phone Calls and Conference Calls are not allowed.
 
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ⛔ | [Carrer de Manso, 17, L'Eixample, 08015 Barcelona]() |
+Wifi | Power | Climatization | Address | Open Hours
+---- | ----- | ------------- | ------- | ----------
+✔ | ⛔ | ✔ | [Carrer de Manso, 17, L'Eixample, 08015 Barcelona]() | Tue-Sun 09:00 - 06:00 pm 
 
 ![Speedtest result](https://www.speedtest.net/result/18052522866.png)
 
@@ -1356,7 +989,7 @@ Webpage: http://www.26grados.com/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Calle Rosal, 13, 33009 Oviedo, Asturias](hhttps://goo.gl/maps/btPUB2EHodR2) |
+✔ | ✔ | [Calle Rosal, 13, 33009 Oviedo, Asturias](https://goo.gl/maps/btPUB2EHodR2) |
 
 ![](http://www.speedtest.net/result/5453643373.png)
 
@@ -1372,6 +1005,7 @@ Wifi | Power | Address | Open Hours
 #### Café Fåtöljen
 
 > Coffee is okay. Open access point, ~7mbit down on average, 1mbit up. Ample power. Very quiet and very close to the metro.
+Multiple locations
 
 Webpage: http://cafefatoljen.com
 
@@ -1391,7 +1025,7 @@ Wifi | Power | Address | Open Hours
 
 ## Uppsala
 
-#### Cafe Linne
+#### Cafe Linné
 
 > Nice place. Food is a bit pricey but very good. Coffee is good. English is understood, as are foreign cards. Wifi is good enough. Open ridiculously late!
 
@@ -1427,25 +1061,13 @@ Wifi | Power | Address | Open Hours
 
 ## Istanbul
 
-#### Istanbul HS
-
-Webpage: https://istanbulhs.org
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Eğitim Mh. Muratpaşa Cd. Altay Apt. No:11/A Kadıköy](https://istanbulhs.org/wiki/iletisim/) |
+No hacking location reported after the closure of Istanbul HS.
 
 ## Denizli
 
-#### Denizli HS
 
-> A Hackerspace spot.
-
-Webpage: http://www.denizlihs.org/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Çamlaraltı Mah. Hüseyin Yılmaz Cad. No:67 Pamukkale/Denizli](https://www.google.com.tr/maps/@37.7382126,29.0916182,18z)| 24/7
+No hacking location reported after the closure of Denizli HS.
+The previous link has been taken over.
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
@@ -1459,6 +1081,7 @@ Wifi | Power | Address | Open Hours
 #### London Hackspace
 
 > Access to C&C Mill, Laser cutter, 3d printer(s) & more. Food & drinks available
+> reopened 03-07-2024
 
 Webpage: https://london.hackspace.org.uk/
 
@@ -1480,18 +1103,6 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [1 Summerhall, Edinburgh, EH9 1PL](https://goo.gl/maps/JNmhHj7JoVn) | Open night every tuesday
 
-#### BrewLab
-
-> Restoration hardware styled light cafe with professional brews, good seats, wifi, great music, food, in the old part of town.
-
-Webpage: www.brewlabcoffee.co.uk
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [6-8 South College Street, Edinburgh, EH8 9AA](https://goo.gl/maps/zBEETf2NjaB2) | Mon-Fri 8:00-18:00, Sat-Sun 9:00-18:00
-
-![](http://www.speedtest.net/result/5370523932.png)
-
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
@@ -1501,13 +1112,7 @@ Wifi | Power | Address | Open Hours
 
 ### Tucson, AZ <a id="tucson-az"></a>
 
-#### Shot in the Dark Cafe
-
-> local art, some food, kind of punk/dingy, lots of people at their computers, 24/7
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔| [21 E Broadway Blvd, Tucson, AZ 85701](https://goo.gl/maps/WUJjwGczYS42) |24/7
+No hacking locations reported after the closure of Shot in the Dark Cafe.
 
 ## California <a id="california"></a>
 
@@ -1545,14 +1150,6 @@ Wifi | Power | Address | Open Hours
 
 ### Oakland, CA <a id="oakland-ca"></a>
 
-#### Arbor Cafe
-
-> Huge, artsy space with ample power outlets, varied seating, and solid wifi.
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-  ✔ | ✔| [4210 Telegraph Ave, Oakland, CA 94609](https://goo.gl/maps/QWCffXaT5482) | 8AM - 7PM
-
 #### Hudson Bay Cafe
 
 > Very sunny, cozy spot with tasty coffee and food. Right on the street corner
@@ -1560,24 +1157,14 @@ Wifi | Power | Address | Open Hours
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-  ✔ | ✔| [5401 College Ave, Oakland, CA 94618](https://goo.gl/maps/fHX4zid3HH72) | Weekdays: 6AM - 6PM, Weekends: 7AM - 6PM
+  ✔ | ✔| [5401 College Ave, Oakland, CA 94618](https://maps.app.goo.gl/Aoc8smv18wRHi1Lw9) | Weekdays: 6AM - 6PM, Weekends: 7AM - 6PM
 
 ### Palo Alto, CA <a id="palo-alto-ca"></a>
-
-#### HanaHaus
-
-> Historic Varsity Theatre location with free and reservable seats, well-tuned wifi, and Blue Bottle Coffee.
-
-Webpage: http://hanahaus.com/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-  ✔ | ✔| [456 University Ave, Palo Alto, CA 94301](https://goo.gl/maps/B2Q66N7tdvP2) | Mon-Fri 7:00-19:00, Sat-Sun 8:00-19:00
 
 #### Backyard Brew
 
 > Outdoor caffee in backyard with tents to shelter you from sun/rain. Open all-year round.
-
+> temporarily closed
 Webpage: https://aoccoffee.com/
 
 Wifi | Power | Coffee | Address | Open Hours
@@ -1587,14 +1174,6 @@ Wifi | Power | Coffee | Address | Open Hours
 ![](https://www.speedtest.net/result/7995445392.png)
 
 ### San Francisco, CA <a id="san-francisco-ca"></a>
-
-#### Coffee Bar
-
-> Big and spacious space with many seats, lots of plugs, not that great WiFi. During summer it may get quite hot as no AC/good airflow.
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-  ✔ | ✔| [1890 Bryant St, San Francisco, CA 94110](https://goo.gl/maps/6i2sppYKZ2P2) | Mon-Fri 7:30-16:00, Sat 8:00-16:00, Sun 10:00-16:00
 
 #### Sightglass Coffee
 
@@ -1619,39 +1198,16 @@ Wifi | Power | Address | Open Hours
 
 ### San Jose, CA
 
-#### Caffe Frascati
+No locations recommended after the closure of the Caffe Frascati.
 
-> Nice decor & theming, upstairs seating, and friendly staff. Wifi is *decent*.
-
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ----- | ------- | ----------
-ask | ✔ | ✔ | [315 S 1st St, San Jose, CA 95113](https://goo.gl/maps/VRUZDfDBakM2) | Mon-Thu 7:30-22:00, Fri-Sat 8:00-00:00, Sun 8:00-21:00
 
 ### Santa Monica, CA <a id="santa-monica-ca"></a>
 
-#### Refinery
-
-> Great coffee and usually has available seating. Wifi is *bad*.
-
-Webpage: http://the-refinery.cafes-city.com/
-
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-(✔) | ✔ | ✔ | [413 Santa Monica Blvd, Santa Monica, CA 90401](https://goo.gl/maps/uBJQacVNWd62) | Mon-Fri 7:30-18:00, Sat 8:00-18:00, Sun *closed*
+No locations recommended after the closure of the Refinery.
 
 ## Illinois
 
 ### Chicago, IL <a id="chicago-il"></a>
-
-#### Dolce Casa
-
-> A coffee shop, a European-style café, and a neighborhood gathering spot all in one.
-
-Webpage: http://dolcecasacafe.com/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [4947 N Damen Ave, Chicago, IL 60625](https://goo.gl/maps/eNmG3ETExt92) | Mon-Fri 7:00-16:00, Sat-Sun 8:00-15:00
 
 #### The Perfect Cup
 
@@ -1677,16 +1233,6 @@ Wifi | Power | Address | Open Hours
 ## Massachusetts <a id="massachusetts"></a>
 
 ### Boston, MA <a id="boston-ma"></a>
-
-#### District Hall
-
-> Open workspace with whiteboard walls, great coffee, moderately busy.
-
-Webpage: http://www.districthallboston.org/
-
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-open | ✔ | ✔ | [175 Northern Ave, Boston, MA 02210](https://goo.gl/maps/odxUyRJT2bS2) | Mon-Fri 08:00-02:00, Sat 12:00-02:00, Sun 12:00-21:00
 
 #### Pavement Coffeehouse
 
@@ -1762,16 +1308,7 @@ paying | ✔ | ✔ | [626 Somerville Ave, Somerville, MA 02143](https://goo.gl/m
 ## Minnesota <a id="minnesota"></a>
 
 ### Minneapolis, MN <a id="minneapolis-mn-"></a>
-
-#### Peace Coffee
-
-> Good coffee and food options, big tables and a community room available
-
-Webpage: https://www.peacecoffee.com/peace-coffee-shops/wonderland-park/
-
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | ------ | ------- | ----------
-open | ✔ | ✔ | [3262 Minnehaha Ave, Minneapolis, MN 55406](https://goo.gl/maps/YaHLw8SkRLtYhG9q6) | Mon-Fri 06:30AM-08:00PM, Sat 07:00AM-08:00PM, Sun 8:00AM-8:00PM
+No hacking locations recommended after the closure of Peace Coffee
 
 ## South Carolina <a id="south-carolina-"></a>
 
@@ -1805,16 +1342,6 @@ Wifi | Power | Climatization  | Address | Open Hours
 
 ### New York, NY <a id="new-york-ny"></a>
 
-#### Amazon AWS Loft
-
-> Free loft in soho sponsored by Amazon web services with free food, wifi, coffee and beer.
-
-Webpage: https://aws.amazon.com/start-ups/loft/ny-loft/
-
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | -------| ------- | ----------
-open, password on wall | ✔ | ✔ | [350 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm) | Open Monday - Friday, 10:00am - 6:00pm
-
 #### Ground Support Cafe
 > Great spot in Soho for getting things done and feeling like you belong with the cool soho crowd
 
@@ -1823,16 +1350,6 @@ Webpage: http://www.groundsupportcafe.com/
 Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | -------| ------- | ----------
 open, password on wall | ✔ | ✔ | [399 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm) | Open Weekdays 7am - 8pm Weekends 8am - 8pm |
-
-#### Pushcart Coffee Chelsea
-
-> Great community workspace with coffee, pastries and beer.
-
-Webpage: http://www.pushcartcoffee.com/
-
-Wifi | Power | Coffee | Address | Open Hours
----- | ----- | -------| ------- | ----------
-open, password on Wall | ✔ | ✔  | [401 W 25th St, New York, NY 10001](https://goo.gl/maps/52PdznrXbsF2) | Open Monday - Friday, 7:00am - 8:30pm Saturday - Sunday, 8:00am - 7:30pm |
 
 ## Virginia <a id="virginia"></a>
 
@@ -1887,11 +1404,3 @@ open | ✔ | ✔ | [171 S Jackson St, Seattle, WA 98104](https://goo.gl/maps/SBz
 Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
 ask | ✔ | ✔ | [425 15th Ave E, Seattle, WA 98112](https://goo.gl/maps/2RFTNQaXynm) | Mon-Sun 8:00-22:00
-
-#### Fix Coffeehouse
-
-> Cafe, with beer and nice location on Green Lake
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-ask | ✔ | [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps/hgjYxwLr8sS2) | Mon-Fri 6:00-21:00, Sat 7:00-21:00, Sun 7:00-20:00

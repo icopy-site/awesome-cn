@@ -188,6 +188,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [HTTP Prompt](https://github.com/eliangcs/http-prompt) - Interactive HTTP client featuring autocomplete and syntax highlighting.
 - [ain](https://github.com/jonaslu/ain) - HTTP client with a simple format to organize API endpoints.
 - [curlie](https://github.com/rs/curlie) - A curl frontend with the ease of use of HTTPie.
+- [ATAC](https://github.com/Julien-cpsn/ATAC) - A feature-full TUI API client made in Rust.
 
 ## Productivity
 
@@ -428,6 +429,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [clifm](https://github.com/leo-arch/clifm) - The command line file manager.
 - [far2l](https://github.com/elfmz/far2l) - Orthodox file manager.
 - [yazi](https://github.com/sxyazi/yazi) - Blazing fast file manager.
+- [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer.
 
 ### Deleting, Copying, and Renaming
 
@@ -437,15 +439,21 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) - Copies files.
 - [rename-cli](https://github.com/jhotmann/node-rename-cli) - Rename files quickly.
 - [renameutils](https://www.nongnu.org/renameutils/) - Mass renaming in your editor.
+
+### Disk Usage
+
 - [diskonaut](https://github.com/imsnif/diskonaut) - Disk space navigator.
-- [dua-cli](https://github.com/Byron/dua-cli) - Disk usage analizer.  View disk space usage and delete unwanted data, fast.
+- [dua-cli](https://github.com/Byron/dua-cli) - Disk usage analyzer.
+- [duf](https://github.com/muesli/duf) - A better `df` alternative.
+- [dust](https://github.com/bootandy/dust) - A more intuitive version of `du` in Rust.
+- [dutree](https://github.com/nachoparker/dutree) - A tool to analyze file system usage written in Rust.
+- [NCDu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
 
 ### Files
 
 - [chokidar-cli](https://github.com/open-cli-tools/chokidar-cli) - CLI to watch file system changes.
 - [file-type-cli](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
 - [bat](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting.
-- [NCDu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
 - [unix-permissions](https://github.com/ehmicky/unix-permissions) - Swiss Army knife for Unix permissions.
 - [transmission-cli](https://transmissionbt.com) - Torrent client for your command line.
 - [webtorrent-cli](https://github.com/feross/webtorrent-cli) – Streaming torrent client.
@@ -497,7 +505,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
 - [broot](https://github.com/Canop/broot) - Fuzzy finder similar to fzf, but with space usage visualization.
 - [rare](https://github.com/zix99/rare) - Real-time regex aggregation and analysis.
-- [skim](https://github.com/lotabout/skim) - A general fuzzy finder written in rust, similar to fzf.
+- [skim](https://github.com/lotabout/skim) - A general fuzzy finder written in Rust, similar to fzf.
 - [ast-grep](https://github.com/ast-grep/ast-grep) - A tool for code structural search, linting and rewriting.
 - [television](https://github.com/alexpasmantier/television) - A very fast general purpose fuzzy finder.
 
@@ -524,6 +532,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [czg](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
 - [Lazygit](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
+- [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy bash prompt for Git users.
+- [gitui](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in Rust.
 
 ### GitHub
 
