@@ -207,7 +207,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 ### Mapping
 
 - [Wardley Maps in draw.io](https://juliusgamanyi.com/2019/03/25/wardley-maps-in-drawio/) - How-to guide with animations and a collection of open source Wardley map icons.
-- [Office 365 Wardley Mapping Templates](https://blogs.endjin.com/2020/03/office365-wardley-mapping-templates/) - Templates for Microsoft Visio and PowerPoint.
+- [Office 365 Wardley Mapping Templates](https://endjin.com/blog/2020/03/office365-wardley-mapping-templates) - Templates for Microsoft Visio and PowerPoint.
 - [Miro Wardley Mapping Template](https://miro.com/blog/wardley-maps-whiteboard-canvas/) - How-to guide on mapping using this template.
 - [Figma Mapping Template](https://community.wardleymaps.com/t/figma-mapping-template/487) - A mapping template for Figma.
 - [wardley-omnigraffle](https://github.com/harrylove/wardley-omnigraffle) - Wardley mapping stencils for OmniGraffle.

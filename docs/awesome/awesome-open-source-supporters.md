@@ -23,7 +23,6 @@ A curated list of awesome companies that offer their tools and services for free
 - [lgtm](https://lgtm.com/) - Automated code reviews for developers.
 - [PullApprove](https://about.pullapprove.com/) - Approve GitHub pull request through code review.
 - [Reviewable](https://reviewable.io/) - Automated GitHub code reviews.
-- [Scrutinizer](https://scrutinizer-ci.com/) - Continuous code quality analysis.
 - [SonarCloud](https://sonarcloud.io/) - Continuous code inspection.
 - [StyleCI](https://styleci.io/) - PHP code style review.
 
@@ -76,7 +75,6 @@ A curated list of awesome companies that offer their tools and services for free
 
 - [Crowdin](https://crowdin.com/) `requires-approval` - Localization management platform.
 - [LingoHub](https://lingohub.com/) `requires-approval` - Translation management.
-- [Locale](https://www.localeapp.com/) - Localization and Translation.
 - [Lokalise](https://lokalise.com/) `requires-approval` - Localization and Translation Software Tool.
 - [POEditor](https://poeditor.com/) `requires-approval` - Localization management platform.
 - [Transifex](https://www.transifex.com/) `requires-approval` - Localization platform for translating digital content.

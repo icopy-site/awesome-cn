@@ -16,7 +16,7 @@ platform.
 
 ## Development tools
 
-- [bcc - Bruce's Compiler](https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/distributions/1.2/repos/pkg-html/bcc.html) - Bruce's C compiler is a simple C compiler that produces 8086 assembler for tiny/small memory models.
+- [bcc - Bruce's C Compiler](https://gitlab.com/FreeDOS/devel/bcc) - Bruce's C compiler is a simple C compiler that produces 8086 assembler for tiny/small memory models.
 - [DJGPP](http://www.delorie.com/djgpp/) - DJ Delorie's complete 32-bit C/C++ development environment for Intel 80386. Used for Quake.
 - [GCC IA-16 toolchain](https://gitlab.com/tkchia/build-ia16/-/releases) - A 16-bit counterpart to DJGPP, a GCC-based toolchain for developing 16-bit (8086 to 80286, a.k.a. IA-16) DOS applications, currently maintained by TK Chia.
 - [Insight](https://www.bttr-software.de/products/insight/) - Very small debugger for real-mode DOS programs with Borland's Turbo like UI. Features an i80486 disassembler, and i8086 assembler.

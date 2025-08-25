@@ -703,6 +703,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [fingerprint](https://dev.fingerprint.com/docs/angular) - The Fingerprint Angular SDK is an easy way to integrate Fingerprint into your Angular application.
 * [frontegg-angular](https://github.com/frontegg/frontegg-angular) - [Frontegg](https://frontegg.com) is a web platform where SaaS companies can set up their fully managed, scalable, and brand-aware SaaS features and integrate them into their SaaS portals in up to 5 lines of code. Quickly integrate Frontegg's login box with this [quickstart guide](https://developers.frontegg.com/sdks/frontend/angular/hosted-login).
 * [FusionAuth Angular SDK](https://fusionauth.io/docs/sdks/angular-sdk) - [FusionAuth](https://fusionauth.io/) SDK helps manage authentication state for your Angular app and provides functionality to login, register, and logout users. It also can be configured to automatically manage your refresh token.
+* [hanko](https://github.com/teamhanko/hanko) - Follow this [quickstart guide](https://docs.hanko.io/quickstarts/frontend/angular) to integrate [Hanko](https://www.hanko.io/), an open source authentication and user management solution, into your Angular app.
 * [hexaeight-sessions](https://www.npmjs.com/package/hexaeight-sessions) - A powerful NPM library designed to simplify session management and authentication in web applications. Whether you're working with React, Angular, or Vue, [HexaEight Sessions](https://docs.hexaeight.com/HexaEight-Sessions/003-HexaEightSessions/) provides an intuitive interface for managing user sessions efficiently.
 * [keycloak-angular](https://github.com/mauriciovigolo/keycloak-angular) - Easy Keycloak setup for Angular applications.
 * [kinde-angular](https://github.com/luukhaijes/kinde-angular) - Angular wrapper around the [Kinde](https://kinde.com/) TypeScript [SDK](https://docs.kinde.com/developer-tools/sdks/backend/typescript-sdk/).
@@ -1470,12 +1471,13 @@ to simplify usage and allow quick customization.
 
 ### Markdown
 
-* [ngx-markdown](https://github.com/jfcere/ngx-markdown) - Angular library that combines Marked, Prism.js, Emoji-Toolkit, KaTeX, Mermaid and Clipboard.js.
-* [ngx-remark](https://github.com/ericleib/ngx-remark) - Render markdown with custom Angular templates.
 * [angular-markdown-editor](https://github.com/ghiscoding/angular-markdown-editor) - Angular Markdown Editor. All-in-one Markdown Editor and Preview.
-* [ngx-textile](https://github.com/vincent/ngx-textile) - Use the Textile markup language in your Angular project using [textile-js](https://github.com/borgar/textile-js).
+* [markular](https://github.com/larswaechter/markular) - A lightweight Markdown editor for Angular.
 * [mdbook-angular](https://github.com/bgotink/mdbook-angular) - A renderer for [mdbook](https://rust-lang.github.io/mdBook/index.html) that turns Angular code samples into running Angular applications.
+* [ngx-markdown](https://github.com/jfcere/ngx-markdown) - Angular library that combines Marked, Prism.js, Emoji-Toolkit, KaTeX, Mermaid and Clipboard.js.
 * [ngx-mdx](https://github.com/SalathielGenese/ngx-mdx) - Take Angular lifecycle to Markdown for a seamless experience.
+* [ngx-remark](https://github.com/ericleib/ngx-remark) - Render markdown with custom Angular templates.
+* [ngx-textile](https://github.com/vincent/ngx-textile) - Use the Textile markup language in your Angular project using [textile-js](https://github.com/borgar/textile-js).
 
 ### Media
 

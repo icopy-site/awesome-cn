@@ -1,108 +1,108 @@
 <div class="github-widget" data-repo="atkirtland/awesome-computational-geometry"></div>
 ## Awesome Computational Geometry [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-&gt; 精选的计算几何可视化、库和资源列表.
+> A curated list of awesome computational geometry visualizations, libraries, and resources.
 
-[Computational geometry](https://en.wikipedia.org/wiki/Computational_geometry) 是计算机科学中的一个主题，侧重于解决几何问题. 
-计算几何的应用包括计算机辅助设计、机器人技术、GIS 系统和计算机视觉. 
+[Computational geometry](https://en.wikipedia.org/wiki/Computational_geometry) is a topic in computer science that focuses on solving problems in geometry.
+Applications of computational geometry include computer-aided design, robotics, GIS systems, and computer vision.
 
 
 
 ## Algorithm Visualizations
 
-- [Convex Hull](https://visualgo.net/en/convexhull?slide=1) - 形状的凸包是包含它的最小凸集.
-- [Convex Hull Algorithms](https://erencan-02.github.io/ConvexHullVisualizer/index.html) - 一个可视化许多凸包算法的网站，包括礼品包装、Graham 的扫描、quickhull、分而治之、单调链和 Chan 的算法.
-- [Chan's Algorithm](http://sophiedasinger.github.io/Classwork/163proj/#viz) - 一种优化的输出敏感算法，用于计算 2 或 3 维中一组点的凸包.
-- [Kirkpatrick's Point location](http://rkaneriya.github.io/point-location/) - 使用三角测量的 O(n) 空间和 O(log n) 查询时间的点定位的数据结构和方法.
-- [Voronoi Diagrams](http://alexbeutel.com/webgl/voronoi.html) - 将平面划分为靠近给定点集的区域.
+- [Convex Hull](https://visualgo.net/en/convexhull?slide=1) - The convex hull of a shape is the smallest convex set that contains it.
+- [Convex Hull Algorithms](https://erencan-02.github.io/ConvexHullVisualizer/index.html) - A website with visualizations of many convex hull algorithms, including gift wrapping, Graham's scan, quickhull, divide and conquer, monotone chain, and Chan's algorithm.
+- [Chan's Algorithm](http://sophiedasinger.github.io/Classwork/163proj/#viz) - An optimal output-sensitive algorithm to compute the convex hull of a set of points in 2 or 3 dimensions.
+- [Kirkpatrick's Point location](http://rkaneriya.github.io/point-location/) - A data structure and method for point location with O(n) space and O(log n) query time using triangulation.
+- [Voronoi Diagrams](http://alexbeutel.com/webgl/voronoi.html) - A partition of a plane into regions close to a given set of points.
 - [Fortune's Algorithm](https://www.desmos.com/calculator/ejatebvup4) - A sweep line algorithm for generating the Voronoi diagram in O(n log n) time and O(n) space.
-- [Point/Line Duality](https://people.eng.unimelb.edu.au/henli/programs/duality-demo/) - 一种常用于计算几何算法的数学对偶性.
-- [k-d tree](https://opendsa-server.cs.vt.edu/ODSA/AV/Development/kd-treeAV.html?selfLoggingEnabled=false&localMode=false&module=KDtree&JXOP-debug=true&JOP-lang=en&JXOP-code=java&scoringServerEnabled=false&threshold=1.0&points=0&required=False) - 一种以有效方式划分 k 维空间的方法，用于像最近邻居这样的搜索.
-- [Configuration Space](https://www.youtube.com/watch?v=SBFwgR4K1Gk) - 像机器人这样的物体的可能配置空间.
+- [k-d tree](https://web.archive.org/web/20250209182314/https://opendsa-server.cs.vt.edu/ODSA/AV/Development/kd-treeAV.html?selfLoggingEnabled=false&localMode=false&module=KDtree&JXOP-debug=true&JOP-lang=en&JXOP-code=java&scoringServerEnabled=false&threshold=1.0&points=0&required=False) - A method of partitioning k-dimensional space in an efficient way for searches like nearest neighbors.
+- [Configuration Space](https://www.youtube.com/watch?v=SBFwgR4K1Gk) - The space of possible configurations of an object like a robot.
+- [CGViz: Computational Geometry Interactive Visualizations](https://jes24.github.io/CGViz/) ([GitHub](https://github.com/JeS24/CGViz)) - CGViz is a FOSS web app for step-by-step visualizations of many algorithms, designed for exploration, teaching, and creating exportable visuals.
 
 ## Books
 
-- [Computational Geometry: Algorithms and Applications](https://www.amazon.com/Computational-Geometry-Applications-Mark-Berg/dp/3540779736) - Mark de Berg、Otfried Cheong、Marc van Kreveld 和 Mark Overmars 合着的教科书（2008 年）.
-- [Computational Geometry in C](https://www.amazon.com/Computational-Geometry-Cambridge-Theoretical-Paperback/dp/0521649765) - Joseph O&#39;Rourke（1998 年）对计算机图形学、机器人学和工程设计等领域中出现的几何算法的设计和实现的流行介绍.
-- [Computational Geometry: An Introduction](https://www.amazon.com/Computational-Geometry-Introduction-Monographs-Computer/dp/0387961313) - Franco P. Preparata 和 Michael I. Shamos (1993) 的介绍性教科书.
-- [Algorithmic Geometry](https://www.amazon.com/Algorithmic-Geometry-Jean-Daniel-Boissonnat/dp/0521565294) - Jean-Daniel Boissonnat、Mariette Yvinec 和 Herve Bronniman 合着的教科书（1998 年）.
-- [Discrete and Computational Geometry](https://www.amazon.com/Discrete-Computational-Geometry-Satyan-Devadoss/dp/0691145539) - 对离散几何的混合进行了全面但易于理解的介绍，这是纯数学中相对较新的发展，计算几何是 Satyan L. Devadoss 和 Joseph O&#39;Rourke（2011 年）应用驱动的计算机科学中的一个新兴领域.
-- [Interactive Computational Geometry - A taxonomic approach](http://www.clearviewtraining.com/interactive-computational.html) - Jim Arlow（2014 年）使用 Mathematica 交互式介绍了一些计算几何的基本算法.
+- [Computational Geometry: Algorithms and Applications](https://www.amazon.com/Computational-Geometry-Applications-Mark-Berg/dp/3540779736) - A textbook by Mark de Berg, Otfried Cheong, Marc van Kreveld, and Mark Overmars (2008).
+- [Computational Geometry in C](https://www.amazon.com/Computational-Geometry-Cambridge-Theoretical-Paperback/dp/0521649765) - A popular introduction to the design and implementation of geometry algorithms arising in areas such as computer graphics, robotics, and engineering design by Joseph O'Rourke (1998).
+- [Computational Geometry: An Introduction](https://www.amazon.com/Computational-Geometry-Introduction-Monographs-Computer/dp/0387961313) - An introductory textbook by Franco P. Preparata and Michael I. Shamos (1993).
+- [Algorithmic Geometry](https://www.amazon.com/Algorithmic-Geometry-Jean-Daniel-Boissonnat/dp/0521565294) - A textbook by Jean-Daniel Boissonnat, Mariette Yvinec, and Herve Bronniman (1998).
+- [Discrete and Computational Geometry](https://www.amazon.com/Discrete-Computational-Geometry-Satyan-Devadoss/dp/0691145539) - A comprehensive yet accessible introduction to the intermingling of discrete geometry, a relatively new development in pure mathematics, and computational geometry, an emerging area in applications-driven computer science by Satyan L. Devadoss and Joseph O'Rourke (2011).
+- [Interactive Computational Geometry - A taxonomic approach](http://www.clearviewtraining.com/interactive-computational.html) - An interactive introduction to some of the fundamental algorithms of computational geometry with Mathematica by Jim Arlow (2014).
 
 ## Notes
 
-- [Lecture Notes](http://www.cs.umd.edu/~mount/754/Lects/754lects.pdf) - David Mount 的马里兰大学 CMSC 754 计算几何的讲义（2002 年）.
-- [Handbook of Discrete and Computational Geometry](https://www.csun.edu/~ctoth/Handbook/HDCG3.html) - Jacob E. Goodman、Joseph O&#39;Rourke 和 Csaba D. Tóth 的手册（2017 年）.
-- [Handbook of Computational Geometry](https://www.amazon.com/Handbook-Computational-Geometry-J-Sack-ebook/dp/B00QM3S1SC) - JR Sack 和 J. Urrutia（1998 年）对计算几何中的关键概念和结果的概述.
-- [Computing in Euclidean Geometry](https://www.amazon.com/Computing-Euclidean-Geometry-Lecture-Notes/dp/9810218761) - Ding-Zhu Du 和 Frank Hwang（1995 年）关于计算欧几里德几何领域最新发展的调查和探索性文章集.
+- [Lecture Notes](http://www.cs.umd.edu/~mount/754/Lects/754lects.pdf) - Lecture notes from CMSC 754 Computational Geometry at the University of Maryland by David Mount (2002).
+- [Handbook of Discrete and Computational Geometry](https://www.csun.edu/~ctoth/Handbook/HDCG3.html) - A handbook by Jacob E. Goodman, Joseph O'Rourke, and Csaba D. Tóth (2017).
+- [Handbook of Computational Geometry](https://www.amazon.com/Handbook-Computational-Geometry-J-Sack-ebook/dp/B00QM3S1SC) - An overview of key concepts and results in computational geometry by J. R. Sack, and J. Urrutia (1998).
+- [Computing in Euclidean Geometry](https://www.amazon.com/Computing-Euclidean-Geometry-Lecture-Notes/dp/9810218761) - A collection of surveys and exploratory articles about recent developments in the field of computational Euclidean geometry by Ding-Zhu Du and Frank Hwang (1995).
 
 ## Libraries
 
-- [CGAL](https://www.cgal.org/)  - 一个软件项目，以 C++ 库的形式提供对高效可靠的几何算法的轻松访问. 该网站还对其中许多算法进行了解释.
-- [Wykobi](http://www.wykobi.com/index.html) - 一个极其高效、健壮且易于使用的面向 C++ 2D/3D 的计算几何库.
+- [CGAL](https://www.cgal.org/) - A software project that provides easy access to efficient and reliable geometric algorithms in the form of a C++ library. This website also has explanations of many of these algorithms.
+- [Wykobi](http://www.wykobi.com/index.html) - An extremely efficient, robust, and simple to use C++ 2D/3D oriented computational geometry library.
 - [geometry3Sharp](https://github.com/gradientspace/geometry3Sharp) - Open-Source, Boost-licensed C# library for geometric computing.
-- [Computational Geometry Software Libraries](http://jeffe.cs.illinois.edu/compgeom/software.html) - Jeff Erickson 的 UIUC 几何软件的大型集合和库.
-- [The Stony Brook Algorithm Repository](http://www3.cs.stonybrook.edu/~algorith/major_section/1.6.shtml) - 基于算法的存储库 [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693).
-- [Geometric Tools](https://www.geometrictools.com/index.html) - 用于数学、图形、图像分析和物理领域计算的源代码库，其中包括一些计算几何算法.
+- [Computational Geometry Software Libraries](http://jeffe.cs.illinois.edu/compgeom/software.html) - UIUC's large collection and library of geometric software by Jeff Erickson.
+- [The Stony Brook Algorithm Repository](http://www3.cs.stonybrook.edu/~algorith/major_section/1.6.shtml) - A repository of algorithms based on [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693).
+- [Geometric Tools](https://www.geometrictools.com/index.html) - A library of source code for computing in the fields of mathematics, graphics, image analysis, and physics that includes some computational geometry algorithms.
 - [GeoLib](http://www.geolib.co.uk/) - A fast and efficient computational geometry library available in C++, C# and Java.
-- [hull.js](https://github.com/AndriiHeonia/hull) - 构建一组点的凸包的 JavaScript 库.
-- [S2 Geometry Library](https://github.com/google/s2geometry)  - 用于操纵几何形状的包. 与许多几何库不同，S2 主要设计用于处理球面几何，即绘制在球体上而不是平面 2D 地图上的形状. 这使得它特别适合处理地理数据.
-- [Computational Geometry Unity Library](https://github.com/Habrador/Computational-geometry) - 用于 Unity 的计算几何算法库.
+- [hull.js](https://github.com/AndriiHeonia/hull) - JavaScript library that builds the convex hull of a set of points.
+- [S2 Geometry Library](https://github.com/google/s2geometry) - A package for manipulating geometric shapes. Unlike many geometry libraries, S2 is primarily designed to work with spherical geometry, i.e., shapes drawn on a sphere rather than on a planar 2D map. This makes it especially suitable for working with geographic data.
+- [Computational Geometry Unity Library](https://github.com/Habrador/Computational-geometry) - A library of computational geometry algorithms for Unity.
 
 ## Conferences
 
 ### Strictly Computational Geometry
 
-- [Symposium on Computational Geometry](http://www.computational-geometry.org/) - 年度研讨会.
-- [The Canadian Conference on Computational Geometry](http://www.cccg.ca/)  - 一年一度的国际盛会，旨在传播计算和组合几何领域的新成果. 会议通常在 8 月中旬的某个时间在加拿大某个城市举行.
-- [Japan Conference on Discrete and Computational Geometry, Graphs, and Games](http://www.alg.cei.uec.ac.jp/itohiro/JCDCGG/) - 自 1997 年以来每年举行一次会议，2008 年除外.
+- [Symposium on Computational Geometry](http://www.computational-geometry.org/) - An annual symposium.
+- [The Canadian Conference on Computational Geometry](http://www.cccg.ca/) - An annual international event for the dissemination of new results in the fields of computational and combinatorial geometry. The conference is usually held in a Canadian city sometime in mid-August.
+- [Japan Conference on Discrete and Computational Geometry, Graphs, and Games](http://www.alg.cei.uec.ac.jp/itohiro/JCDCGG/) - A conference held annually since 1997, except for 2008.
 
 ### Broader
 
-- [Symposium on Discrete Algorithms](https://www.siam.org/conferences/cm/conference/soda22) - ACM-SIAM，每年举办一次.
-- [Annual ACM Symposium on Theory of Computing](http://acm-stoc.org/) - STOC 涵盖算法和计算理论中的所有研究领域.
-- [IEEE Symposium on Foundations of Computer Science](http://ieee-focs.org/) - 由 IEEE 计算机协会计算数学基础技术委员会 (TCMF) 主办的旗舰会议，涵盖广泛的理论计算机科学.
-- [Annual Allerton Conference on Communications, Control and Computing](http://allerton.csl.illinois.edu/) - 吸引来自工业界、学术界和政府的一些最聪明的头脑讨论通信、控制和计算领域的创新.
+- [Symposium on Discrete Algorithms](https://www.siam.org/conferences/cm/conference/soda22) - ACM-SIAM, held annually.
+- [Annual ACM Symposium on Theory of Computing](http://acm-stoc.org/) - STOC covers all areas of research within Algorithms and Computation Theory.
+- [IEEE Symposium on Foundations of Computer Science](http://ieee-focs.org/) - The flagship conference sponsored by the IEEE Computer Society Technical Committee on the Mathematical Foundations of Computing (TCMF) and covers a broad range of theoretical computer science.
+- [Annual Allerton Conference on Communications, Control and Computing](http://allerton.csl.illinois.edu/) - Draws some of the brightest minds from industry, academia, and government to discuss innovation in the fields of communication, control, and computing.
 
 ## Journals
 
-- [arXiv](https://arxiv.org/list/cs.CG/recent) - 最近向 arXiv 提交的关于计算几何的文章.
-- [Elsevier](https://www.journals.elsevier.com/computational-geometry) - 计算几何理论和应用方面的研究论坛.
-- [Journal of Computational Geometry](https://jocg.org/index.php/jocg) - 一份国际开放获取期刊，致力于发表计算几何各个方面最高质量的原创研究.
+- [arXiv](https://arxiv.org/list/cs.CG/recent) - Recent submissions to arXiv about computational geometry.
+- [Elsevier](https://www.journals.elsevier.com/computational-geometry) - A forum for research in theoretical and applied aspects of computational geometry.
+- [Journal of Computational Geometry](https://jocg.org/index.php/jocg) - An international open access journal devoted to publishing original research of the highest quality in all aspects of computational geometry.
 
 ## Competitive Programming
 
-- [HackerEarth](https://www.hackerearth.com/practice/notes/computational-geometry-i-1/) - 一组关于计算几何的文章.
-- [TopCoder](https://www.topcoder.com/community/data-science/data-science-tutorials/geometry-concepts-basic-concepts/) - 一组关于计算几何的文章.
-- [HackerRank](https://www.hackerrank.com/domains/mathematics/geometry) - 一组使用计算几何的编程问题.
-- [GeeksforGeeks](https://www.geeksforgeeks.org/geometric-algorithms/) - 几何算法中大量常见问题和常见话题的实现和解释.
+- [HackerEarth](https://www.hackerearth.com/practice/notes/computational-geometry-i-1/) - A set of articles on computational geometry.
+- [TopCoder](https://www.topcoder.com/community/data-science/data-science-tutorials/geometry-concepts-basic-concepts/) - A set of articles on computational geometry.
+- [HackerRank](https://www.hackerrank.com/domains/mathematics/geometry) - A set of programming problems using computational geometry.
+- [GeeksforGeeks](https://www.geeksforgeeks.org/geometric-algorithms/) - Implementations and explanations for a large number of commonly asked questions and common topics in geometric algorithms.
 
 ## Courses
 
 ### Open Courses
 
-- [MIT OCW](https://ocw.mit.edu/courses/mechanical-engineering/2-158j-computational-geometry-spring-2003/) - Nicholas Patrick 和 Takashi Maekawa 在
-- [Udemy](https://www.udemy.com/course/mastering-computational-geometry-cpp/) - 关于在 C++ 中实现计算几何算法的课程.
-- [edX](https://www.edx.org/course/computational-geometry) - 计算几何课程.
-- [Brilliant](https://brilliant.org/practice/computational-geometry-intro/) - 计算几何基本概念的练习题.
+- [MIT OCW](https://ocw.mit.edu/courses/mechanical-engineering/2-158j-computational-geometry-spring-2003/) - A course taught by Nicholas Patrikalakis and Takashi Maekawa in 2013.
+- [Udemy](https://www.udemy.com/course/mastering-computational-geometry-cpp/) - A course about implementing computational geometry algorithms in C++.
+- [edX](https://www.edx.org/course/computational-geometry) - A course in computational geometry.
+- [Brilliant](https://brilliant.org/practice/computational-geometry-intro/) - Practice problems for basic concepts in computational geometry.
 
 ### University Courses
 
-- [Brown University](http://cs.brown.edu/courses/cs252/) - 2005 年由 Roberto Tamassia 教授的课程.
-- [Washington University in St. Louis](http://www.cs.wustl.edu/~taoju/cse546/) - 2017年陶炬教授的一门课程.
-- [The University of Maryland](http://www.cs.umd.edu/~mount/754/) - Dave Mount 于 2002 年教授的课程.
-- [UC Santa Barbara](https://sites.cs.ucsb.edu/~suri/cs235/235.html) - 2021 年由 Subhash Suri 教授的课程.
-- [UIUC](https://jeffe.cs.illinois.edu/teaching/compgeom/) - 杰夫·埃里克森 (Jeff Erickson) 于 2022 年教授的课程.
-- [UC Berkeley](https://people.eecs.berkeley.edu/~jrs/274/) - 2019 年 Jonathan Shewchuk 教授的课程.
-- [Tufts](http://www.cs.tufts.edu/comp/163/) - 2022 年由 Diane Souvaine 教授的课程.
-- [KIT](https://i11www.iti.kit.edu/teaching/sommer2018/compgeom/index) - 2018 年由 Tamara Mchedlidze 和 Chih-Hung Liu 教授的课程.
+- [Brown University](http://cs.brown.edu/courses/cs252/) - A course taught by Roberto Tamassia in 2005.
+- [Washington University in St. Louis](http://www.cs.wustl.edu/~taoju/cse546/) - A course taught by Tao Ju in 2017.
+- [The University of Maryland](http://www.cs.umd.edu/~mount/754/) - A course taught by Dave Mount in 2002.
+- [UC Santa Barbara](https://sites.cs.ucsb.edu/~suri/cs235/235.html) - A course taught by Subhash Suri in 2021.
+- [UIUC](https://jeffe.cs.illinois.edu/teaching/compgeom/) - A course taught by Jeff Erickson in 2022.
+- [UC Berkeley](https://people.eecs.berkeley.edu/~jrs/274/) - A course taught by Jonathan Shewchuk in 2019.
+- [Tufts](http://www.cs.tufts.edu/comp/163/) - A course taught by Diane Souvaine in 2022.
+- [KIT](https://i11www.iti.kit.edu/teaching/sommer2018/compgeom/index) - A course taught by Tamara Mchedlidze and Chih-Hung Liu in 2018.
 
 ## Miscellaneous
 
-- [The Open Problems Project](https://topp.openproblem.net/) - 一个旨在记录计算几何和相关领域中重要的未解决问题的项目.
-- [Wolfram](https://reference.wolfram.com/language/guide/GeometricComputation.html) - 用 Wolfram 语言实现的计算几何算法的文档.
-- [Matlab](https://www.mathworks.com/help/matlab/computational-geometry.html) - 在 Matlab 中实现的计算几何算法的文档.
+- [The Open Problems Project](https://topp.openproblem.net/) - A project aimed to record important open problems in computational geometry and related fields.
+- [Wolfram](https://reference.wolfram.com/language/guide/GeometricComputation.html) - Documentation for computational geometry algorithms implemented in the Wolfram language.
+- [Matlab](https://www.mathworks.com/help/matlab/computational-geometry.html) - Documentation for computational geometry algorithms implemented in the Matlab.
 
 ## Contributing
 
-欢迎投稿！ 见 [contribution guidelines](https://github.com/atkirtland/awesome-computational-geometry/blob/master/contributing.md).
+Contributions are welcome! See the [contribution guidelines](https://github.com/atkirtland/awesome-computational-geometry/blob/master/contributing.md).
