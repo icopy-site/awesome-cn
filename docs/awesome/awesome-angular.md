@@ -1307,6 +1307,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-input-color](https://github.com/mr-samani/ngx-input-color) - `ngx-input-color` and `ngx-input-gradient` are powerful, customizable Angular components for color and gradient picking. They support multiple color formats, real-time preview, inline and input modes, and seamless integration with Angular forms.
 * [ngx-morse](https://github.com/monkeyscript/ngx-morse) - A simple morse code encoder and decoder for Angular.
 * [ngxsmk-tel-input](https://github.com/toozuuu/ngxsmk-tel-input) - An Angular telephone input component with country dropdown, flags, and robust validation/formatting.
+* [gradient-picker](https://github.com/acrodata/gradient-picker) - A powerful and beautiful gradient picker.
 
 ### JSON Forms
 
@@ -1729,6 +1730,7 @@ to simplify usage and allow quick customization.
 * [kage-ui](https://github.com/sanjib-kumar-mandal/kage-ui) - A lightweight, flexible Angular component library inspired by border-first design systems. It offers a clean set of reusable UI components to help developers build scalable and consistent user interfaces effortlessly.
 * [quix-quang](https://github.com/quix-it/quix-quang) - Angular component and utility library developed by [Quix Srl](https://www.quixconsulting.com/).
 * [ngx-vflow](https://github.com/artem-mangilev/ngx-vflow) - An open source library to build node-based UI with Angular.
+* [ship-ui](https://github.com/shipuicom/core) - A modern, signal-based, zoneless-compatible UI library for Angular. Explore its features and documentation on their [official website](https://www.shipui.com).
 
 ### UI Libraries built on Bootstrap
 

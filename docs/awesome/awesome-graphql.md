@@ -625,7 +625,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Step CI](https://stepci.com) - Open-Source API Testing and Monitoring with GraphQL support
 - [graphql-to-karate](https://github.com/wbaldoumas/graphql-to-karate) - Generate Karate API tests from your GraphQL schemas
 - [Microcks](https://microcks.io/) - The open source ([CNCF](https://www.cncf.io/projects/microcks/) project), cloud native tool for API Mocking and Testing with [GraphQL support](https://microcks.io/blog/graphql-features-what-to-expect/) 🎥 [GraphQL conf 2023](https://youtu.be/UjDnrrTp7uI?si=M6S4l_Bukp9CEYl4)
-- [Keploy] (https://keploy.io/) - Open-source AI Powered API testing tool that generates test cases and data mocks automatically by recording real API traffic. Supports GraphQL, REST, and gRPC.
+- [Keploy](https://keploy.io/) - Open-source AI Powered API testing tool that generates test cases and data mocks automatically by recording real API traffic. Supports GraphQL, REST, and gRPC.
 
 <a name="tool-security" />
 
