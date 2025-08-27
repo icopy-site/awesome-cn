@@ -54,7 +54,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/Fox
 - [GSAK (Geocaching Swiss Army Knife)](https://gsak.net/index.php/) - `[Windows]` Desktop app for managing geocaches and waypoints.
 - [CacheStats](https://logicweave.com/) - `[Windows]` Application that displays your geocaching statistics.
 - [Caching on Kai](https://caching-on-kai.com/) - `[KaiOS]` Geocaching app for KaiOS users.
-- [Cacher](https://apps.garmin.com/apps/624aed67-b068-45b4-92af-cbc1885b7e1d) - `[Garmin]` Gatmin watch app for geocaching.
+- [Cacher](https://apps.garmin.com/apps/624aed67-b068-45b4-92af-cbc1885b7e1d) - `[Garmin]` Garmin watch app for geocaching.
 
 
 ## Other

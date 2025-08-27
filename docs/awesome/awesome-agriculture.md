@@ -16,6 +16,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 - [Earth Rover](https://github.com/earthrover) - Ag AGV ROS1 precision farming rover 
 - [EcoTerra Bot](https://ecoterrabot.com/) - Delta & Rover
 - [FarmBot](https://github.com/farmbot) - Open source precision gardening project.
+- [FarmBot-ROS](https://github.com/farmbot-ros/) - Open source farming robot.
 - [Fields2Cover](https://github.com/Fields2Cover/Fields2Cover) - Robust and efficient coverage paths for autonomous agricultural vehicles.
 - [Romi project](https://media.romi-project.eu/documents/index.html) - Europe-funded research project 
 - [ROS Agriculture](http://rosagriculture.org/) - Open Source community focusing on using Robot Operating System to empower farmers with robotics tools. 
@@ -89,7 +90,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 ## IoT, Hardware
 
 - [AgOpenGPS](https://github.com/farmerbriantee/AgOpenGPS) - Ag precision mapping and section control software.
-- [DRO-Matic](https://github.com/drolsen/DRO-Matic) - Fully Automated Hydroponic OS for DIY DRO-Matic cabinets - Nutrient dosing, irrigation, topoffs, timers, EC & pH drift fixing.
+- [Open hydroponics](https://openhydroponics.com/) - Fully Automated Hydroponic OS 
 - [Farm-Data-Relay-System](https://github.com/timmbogner/Farm-Data-Relay-System) - System using ESP-NOW, LoRa, and other protocols to transport sensor data in remote areas without relying on WiFi.
 - [Farm Hack](https://farmhack.org/tools) - Worldwide community of farmers that build and modify our own tools.
 - [Open Agriculture Foundation](https://github.com/OpenAgricultureFoundation) -  Open Source ecosystem of technologies that enable and promote transparency, networked experimentation, education, and hyper-local production.
