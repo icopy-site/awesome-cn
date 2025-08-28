@@ -538,6 +538,8 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [LIME](https://github.com/marcotcr/lime) | Explaining the predictions of any machine learning classifier |
 | [zasper](https://github.com/zasper-io/zasper) | Supercharged IDE for Data Science |
 | [skrub](https://github.com/skrub-data/skrub/) | A Python library to ease preprocessing and feature engineering for tabular machine learning |
+| [Codeflash](https://www.codeflash.ai/) | Ship Blazing-Fast Python Code — Every Time |
+
 
 
 
