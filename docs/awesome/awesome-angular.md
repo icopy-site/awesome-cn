@@ -593,6 +593,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-device-detector](https://github.com/AhsanAyaz/ngx-device-detector) - An Angular v7+ library to detect the device, OS, and browser details.
 * [ng2-idle](https://github.com/moribvndvs/ng2-idle) - A module for responding to idle users in Angular applications.
 * [ng-lens](https://github.com/MerrittMelker/ng-lens) - This Node.js utility uses `ts-morph` to statically analyze Angular TypeScript components and identify service usage patterns from any specified API library.
+* [ngx-json-reader](https://github.com/Verbalman/ngx-json-reader) - Angular 17+ JSON reader/editor with multi-URL comparison and diffing.
 
 ### Documentation Tools
 
@@ -778,6 +779,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngrx-manager](https://github.com/smoosee/ngrx-manager) - Plug-N-Play State Manager for NgRx stores.
 * [ngrx-set](https://github.com/parloti/ngrx-set) - This simplifies the creation of actions for asynchronous requests that can succeed, fail, or be aborted.
 * [easy-ngrx-distinct-selector](https://github.com/NGneers/easy-ngrx-distinct-selector) - Provides functions to easily create `@ngrx/store` selectors with equal functions for arguments and result values.
+* [ngrx-store-wrapper](https://github.com/himanshuarora111/ngrx-store-wrapper) - A lightweight Angular library that lets you manage NgRx store state without writing actions, reducers, or effects manually, with built-in support for syncing to session and local storage.
 
 ### NGXS
 
@@ -1731,6 +1733,7 @@ to simplify usage and allow quick customization.
 * [quix-quang](https://github.com/quix-it/quix-quang) - Angular component and utility library developed by [Quix Srl](https://www.quixconsulting.com/).
 * [ngx-vflow](https://github.com/artem-mangilev/ngx-vflow) - An open source library to build node-based UI with Angular.
 * [ship-ui](https://github.com/shipuicom/core) - A modern, signal-based, zoneless-compatible UI library for Angular. Explore its features and documentation on their [official website](https://www.shipui.com).
+* [slateui](https://github.com/angularcafe/slateui) - A modern, accessible UI component library that provides directive-based components built with Angular primitives, Tailwind CSS, and signals.
 
 ### UI Libraries built on Bootstrap
 

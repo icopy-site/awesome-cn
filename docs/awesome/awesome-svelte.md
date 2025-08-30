@@ -124,6 +124,7 @@ _Tables and data grids._
 - [svelte-generic-table-pager](https://github.com/ivosdc/svelte-generic-table-pager) - Svelte-generic-crud-table with paginator.
 - [powertable](https://github.com/muonw/powertable) - PowerTable is a JavaScript component that turns JSON data into an interactive HTML table. This facilitates manual inspection, sorting, filtering, searching, and editing of the data.
 - [svelte-pivottable](https://github.com/jjagielka/svelte-pivottable) - Svelte-based pivot table library with drag'n'drop functionality.
+- [SVAR DataGrid](https://github.com/svar-widgets/grid) - A Svelte datagrid with in-cell editing, sorting, context menu, collapsible and frozen columns, tree data view, paging and virtual scrolling. 
 - [svelte-datagrid](https://github.com/revolist/svelte-datagrid) - Powerful data grid library based on [revogrid](https://rv-grid.com) with best features from Excel.
 - [@wjfe/dataview](https://github.com/WJSoftware/wjfe-dataview) - Table for data visualization purposes with advanced features like column pinning, and the only component in the world that does cross-table column position synchronization for master-child scenarios.
 
@@ -179,6 +180,7 @@ _Display non-editable events in a calendar._
 - [svelte-frappe-charts](https://github.com/himynameisdave/svelte-frappe-charts) - Svelte bindings for frappe-charts.
 - [Layer Cake](https://github.com/mhkeller/layercake) - A framework for mostly-reusable graphics with svelte
 - [LayerChart](https://github.com/techniq/layerchart) - Large collection of composable Svelte components to build a wide range of visualizations, built upon Layer Cake
+- [SVAR Gantt Chart](https://github.com/svar-widgets/gantt) - An interactive, customizable Gantt chart component written in Svelte
 
 ### Graphs
 
@@ -186,6 +188,7 @@ _Display non-editable events in a calendar._
 
 ### Miscellaneous
 
+- [number-flow](https://github.com/barvian/number-flow) - A component to transition, format, and localize numbers.
 - [Svelte Tweakpane UI](https://kitschpatrol.com/svelte-tweakpane-ui) - UI elements from [Tweakpane](https://tweakpane.github.io/docs/) wrapped in a collection of idiomatic Svelte components.
 - [svelte-tree-viewer](https://github.com/kpulkit29/svelte-tree-viewer) - A lightweight component to render tree views.
 - [svelte-copyright](https://github.com/himynameisdave/svelte-copyright) - A Svelte component to format and display a copyright notice.
@@ -208,6 +211,7 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 - [vite-svelte-docker-template](https://github.com/bavragor/vite-svelte-docker-template) - Template for Svelte + Docker + Vite + Vitest.
 - [svelte-docs-starter](https://github.com/code-gio/svelte-docs-starter) - A modern documentation template built with Svelte 5, MDSvex, and Tailwind CSS.
 - [template-svelte](https://github.com/phaserjs/template-svelte) - An official quickstart template with Phaser.
+- [generic-app-template](https://github.com/GantonL/templates/tree/main/sveltekit-shadcn-v5) - A open-source modern full-stack web application template built with SvelteKit + shadcn-svelte. Supports i18n, theming, cookie managment, SEO management, static content with mdsvex, a shell component and more. 
 
 ## Utilities
 
@@ -215,10 +219,12 @@ _Templates / boilerplate / starter kits / stack ensemble / Yeoman generator._
 
 - [AutoAnimate](https://auto-animate.formkit.com/) - A zero-config, drop-in animation utility that adds smooth transitions to your Svelte app.
 - [svelte-typewriter](https://github.com/henriquehbr/svelte-typewriter) - A simple and reusable typewriter effect for your Svelte applications.
+- [moving-icons](https://github.com/jis3r/icons) - beautifully crafted, moving icons. for svelte. 🧡
 
 ### Drag & Drop
 
 - [neodrag](https://github.com/PuruVJ/neodrag) - One Draggable to rule them all 💍.
+- sveltednd(https://github.com/thisuxhq/sveltednd) - A lightweight, flexible drag and drop library for Svelte 5 applications.
 
 ### Forms
 

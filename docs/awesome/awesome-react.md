@@ -28,21 +28,23 @@ A collection of awesome things regarding the React ecosystem.
 #### React Frameworks
 
 - [next](https://github.com/vercel/next.js) - The React Framework
-- [remix](https://github.com/remix-run/remix) - Full stack web Framework that lets you focus on the user interface
 - [gatsby](https://github.com/gatsbyjs/gatsby) - Build modern websites with React
+- [remix](https://github.com/remix-run/remix) - Full stack web Framework that lets you focus on the user interface
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications
 - [refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints
+- [vike](https://github.com/vikejs/vike) - The Modular Framework - Next.js & Nuxt alternative 
 
 #### React Component Libraries
 
 - [material-ui](https://github.com/mui/material-ui) - Ready-to-use foundational React components
 - [ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [shadcn-ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built using Radix UI and Tailwind CSS
+- [chakra-ui](https://github.com/chakra-ui/chakra-ui) - Component system for building SaaS products with speed
+- [mantine](https://github.com/mantinedev/mantine) - Fully featured React components library
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [fluentui](https://github.com/microsoft/fluentui) - Microsoft's Fluent UI
 - [framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
-- [mantine](https://github.com/mantinedev/mantine) - Fully featured React components library
 - [react-email](https://github.com/resend/react-email) - Unstyled components for creating beautiful emails
 
 #### React State Management and Data Fetching
@@ -75,7 +77,6 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Development Tools
 
-- [create-react-app](https://github.com/facebook/create-react-app) - Set up a modern Web app by running one command
 - [vite](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
 - [parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web
 - [million](https://github.com/aidenybai/million) - An extremely fast and lightweight optimizing compiler
@@ -128,10 +129,9 @@ A collection of awesome things regarding the React ecosystem.
 #### React Forms
 
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - React Hooks for form state management and validation
-- [formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears
 - [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSON Schema
 - [formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
-- [vest](https://github.com/ealush/vest) - Declarative validations framework
+- [tanstack-form](https://github.com/TanStack/form) - Headless, performant, and type-safe form state management
 
 #### React Tables and Grids
 
@@ -189,6 +189,7 @@ A collection of awesome things regarding the React ecosystem.
 - [webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 - [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
 - [wave](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
+- [readest](https://github.com/readest/readest) - A minimalistic, feature-rich and cross-platform eBook reader
 
 ### React Native
 

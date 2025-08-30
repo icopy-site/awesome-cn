@@ -151,6 +151,9 @@
 
 - [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - A React renderer for three.js. Additional WebXR-specific hooks and components are available in [React XR](https://github.com/pmndrs/react-xr) as well.
 
+- [reactylon](https://www.reactylon.com/) - A powerful multiplatform framework built on top of Babylon.js and React, designed to create 3D/XR experiences.
+  - [Official Documentation](https://www.reactylon.com/docs)
+
 - [three.js](https://threejs.org/) - A JavaScript library for rendering 3D content with WebGL that powers many existing WebXR experiences and tools.
   - [Official Documentation](https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene)
 

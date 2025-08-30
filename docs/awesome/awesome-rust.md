@@ -14,6 +14,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 ## Applications
 
 * [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU enhanced terminal emulator
+* [Andromeda](https://github.com/tryandromeda/andromeda) - JavaScript & TypeScript runtime built from the ground up in Rust 🦀 and powered by The Nova Engine.
 * [Arti](https://gitlab.torproject.org/tpo/core/arti) - An implementation of Tor. (So far, it's a not-very-complete client. But watch this space!) [![Crates.io](https://img.shields.io/crates/v/arti.svg)](https://crates.io/crates/arti)
 * [asm-cli-rust](https://github.com/cch123/asm-cli-rust) - An interactive assembly shell.
 * [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A cross-platform, modern Clash GUI based on tauri & rust, supporting Windows, macOS, and Linux.
@@ -367,6 +368,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [kpcyrd/rshijack](https://github.com/kpcyrd/rshijack) - A TCP connection hijacker; rewrite of shijack
 * [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) - A semi-automatic OSINT framework and package manager
 * [kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue) - A secure multithreaded packet sniffer
+* [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - A blazingly fast tool for secret detection and live validation across files, Git repos, S3, Jira, and Confluence
 * [observer_ward](https://github.com/emo-crab/observer_ward) - Web application and service fingerprint identification tool
 * [Raspirus](https://github.com/Raspirus/Raspirus) - User- and resources-friendly rules-based malware scanner [![status](https://github.com/Raspirus/Raspirus/actions/workflows/testproject.yml/badge.svg)](https://github.com/Raspirus/Raspirus/actions/workflows/testproject.yml)
 * [ripasso](https://github.com/cortex/ripasso/) - A password manager, filesystem compatible with pass
@@ -890,6 +892,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 #### OpenAI
 
 * [64bit/async-openai](https://github.com/64bit/async-openai) [[async-openai](https://crates.io/crates/async-openai)] - Ergonomic Rust bindings for OpenAI API based on OpenAPI spec.
+* [openai/harmony](https://github.com/openai/harmony) [[openai-harmony](https://crates.io/crates/openai-harmony/0.0.3)] - Renderer for the harmony response format to be used with gpt-oss.
 * [zurawiki/tiktoken-rs](https://github.com/zurawiki/tiktoken-rs) [[tiktoken-rs](https://crates.io/crates/tiktoken-rs)] - Library for tokenizing text with OpenAI models using tiktoken. [![CI](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml/badge.svg)](https://github.com/zurawiki/tiktoken-rs/actions/workflows/ci.yml)
 
 #### Tooling
@@ -1456,7 +1459,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
   * [Pumpkin](https://github.com/pumpkin-mc/pumpkin) - A high-performance Minecraft server Software fully written in Rust
 * [Raylib](https://www.raylib.com/)
   * [deltaphc/raylib-rs](https://github.com/deltaphc/raylib-rs) [[raylib](https://crates.io/crates/raylib)] - Bindings for raylib
-* [SDL](http://www.libsdl.org/) [[sdl](https://crates.io/keywords/sdl)]
+* [SDL](https://www.libsdl.org/) [[sdl](https://crates.io/keywords/sdl)]
   * [brson/rust-sdl](https://github.com/brson/rust-sdl) - SDL1 bindings
   * [Rust-SDL2/rust-sdl2](https://github.com/Rust-SDL2/rust-sdl2) - SDL2 bindings
 * SFML

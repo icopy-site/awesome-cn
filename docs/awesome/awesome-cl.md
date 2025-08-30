@@ -372,6 +372,7 @@ Data Structures
 strings:
 
 * 👍 [str](https://github.com/vindarel/cl-str) - a modern, simple and consistent string manipulation library. [MIT][200].
+* [rope](https://github.com/garlic0x1/rope) -  Immutable Ropes for Common Lisp. MIT.
 
 lists and sequences:
 
@@ -388,7 +389,6 @@ lists and sequences:
 * [sycamore](https://github.com/ndantam/sycamore) -  a fast, purely functional data structure library. [BSD_3Clause][15].
   - comparison: [FSet vs. Sycamore](https://scottlburson2.blogspot.com/2024/10/comparison-fset-vs-sycamore.html)
 * [modf](https://github.com/smithzvk/modf) - a setf-like macro for functional programming.
-* [rope](https://github.com/garlic0x1/rope) -  Immutable Ropes for Common Lisp. MIT.
 * also cl-containers, cl-data-structures
 
 hash-tables:
@@ -951,6 +951,7 @@ Reference
 * [CLOS MOP specification](https://clos-mop.hexstreamsoft.com/) - A modern public domain online version of chapters 5 and 6 of The Art of the Metaobject Protocol
 * [Common Lisp Standard Draft (pdf)](https://franz.com/support/documentation/cl-ansi-standard-draft-w-sidebar.pdf) - The standard draft of the Common Lisp specifications, in a well formatted PDF with a sidebar.
   * also [dpans2texi](https://github.com/mmontone/dpans2texi/releases/) - the standard draft converted to Texinfo and published as a well formatted PDF.
+  * which can be read online: https://mmontone.github.io/dpans2texi/
 * [Common Lisp the Language](http://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html) - The original standard for Common Lisp before the ANSI spec.
   * [CLtL2, in PDF format](https://github.com/mmontone/cltl2-doc)
 * [Minispec](https://lamberta.github.io/minispec/) - A friendlier, but less-complete, version of CLHS. Also contains documentation for some commonly-used CL libraries (such as Alexandria).
@@ -1556,6 +1557,8 @@ Readline, ncurses and other graphical helpers
   interface to `libcurses` in Common Lisp. It provides both a raw,
   low-level interface to libcurses via CFFI, and a more higher-level
   lispier interface. [MIT][200].
+* [cl-termbox2](https://github.com/garlic0x1/cl-termbox2) - [Termbox2](https://github.com/termbox/termbox2) bindings.
+  * "termbox2 is a terminal I/O library for creating TUIs. It is a slim alternative to the ubiquitous ncurses library. Unlike ncurses, it has a tighter API, and comes with built-in support for popular terminals if a terminfo db is not present on the system."
 * [replic](https://github.com/vindarel/replic/) - helpers to turn existing code into a readline application, with a focus on defining the completion of the commands' arguments. Also comes as a ready to use executable, that transforms a user's lispy init file into readline commands. [MIT][200].
 * [cl-ansi-term](https://github.com/vindarel/cl-ansi-term) - print
   colorized text, horizontal lines, progress bars, (un)ordered lists
