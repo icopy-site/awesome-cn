@@ -77,6 +77,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-ws](https://github.com/art-ws/ngx-ws) - Easily split a large `angular.json` into modular, project-local files using the power of [JSON References](https://www.npmjs.com/package/@apidevtools/json-schema-ref-parser), with the convenience of [YAML](https://yaml.org/) and [JSON5](https://json5.org/) formats.
 * [rafacli](https://github.com/rafa00716/rafacli) - A command-line tool designed to generate authentication and CRUD modules (and more soon) for NestJS and Angular applications. It streamlines the development process by automating boilerplate code creation, reducing repetitive tasks, and ensuring consistency across projects.
 * [ngx-crafter](https://github.com/ErwanHeschung/ngx-crafter) - A powerful CLI tool that helps you craft Angular projects with pre-configured folder structures and essential packages.
+* [ng new command generator](https://ng.gridatek.com/) - Generate optimized `ng new` commands.
 
 ### Deployment
 
@@ -143,11 +144,12 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### Newsletters
 
 * [angular addicts](https://www.angularaddicts.com/)
-* [weekly angular](https://prodigious-knitter-4508.ck.page/subscribe)
+* [angular digest](https://geromegrignon.substack.com/)
 * [angular weekly](https://angularweekly.substack.com/)
-* [practical-angular-newsletter](https://angularmentor.io/practical-angular-newsletter)
 * [danywalls](https://www.danywalls.com/newsletter)
+* [practical-angular-newsletter](https://angularmentor.io/practical-angular-newsletter)
 * [ultimate courses](https://ultimatecourses.com/newsletter)
+* [weekly angular](https://prodigious-knitter-4508.kit.com/subscribe)
 
 ### Podcasts
 
@@ -940,6 +942,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [spartan-stack-starter](https://github.com/thatsamsonkid/spartan-stack-starter) - An Opinionated Template Project Starter using Spartan Stack.
 * [jet](https://github.com/karmasakshi/jet) - Angular starter-kit for building quality web apps fast.
 * [serene](https://github.com/ClaudioAlcantaraR/serene) - A modern starter-kit for full-stack web development using Spring Boot and Angular. Inspired by Laravel Breeze, it provides a clean, secure, and minimalist foundation.
+* [free-angular-tailwind-dashboard](https://github.com/TailAdmin/free-angular-tailwind-dashboard) - Free, open-source Angular + Tailwind CSS admin dashboard with essential UI components and pre-built pages for a sleek, modern interface.
 
 ### Paid Templates
 

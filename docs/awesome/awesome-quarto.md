@@ -72,6 +72,8 @@ Contributions of any kind are welcome, just follow the [guidelines](https://gith
 - [How to self-publish a technical book on Leanpub and Amazon using Quarto](https://www.brodrigues.co/blog/2023-06-29-book_quarto/) - This blog post explains which settings to use to compile an Epub for Leanpub and a print-ready PDF for Amazon's self-publishing service (KDP).
 - [Hello Quarto: Porting my Website from Hugo Apéro](https://silviacanelon.com/blog/2023-09-29-hello-quarto/) - A blog post detailing a user's experience of porting a blogdown Hugo Apéro site to Quarto, with content including design ideas, CSS tips, HTML partials, setting up redirects, and others.
 - [Seven Tips for Creating Quarto Reveal.js Presentations](https://remlapmot.github.io/post/2025/quarto-revealjs-tips/) - A blog post showing few tips on how to customise Reveal.js slides with R/knitr, HTML/CSS, and Quarto native options.
+- [Creating effectively multi-engine Quarto documents using Quarto's embed shortcode](https://remlapmot.github.io/post/2025/multi-engine-quarto/) - A blog post describing how to use the embed shortcode to show code and execute its output from different languages/engines in the same document.
+- [Migrating my Academic (Hugo Wowchemy) website to Quarto](https://jc-castillo.com/blog/posts/quarto-migration/) - A blog post documenting the migration of an academic website from Hugo Academic/Wowchemy to Quarto, including technical steps for converting content, publications, and site structure.
 
 ## Talks and videos
 
@@ -188,6 +190,7 @@ Contributions of any kind are welcome, just follow the [guidelines](https://gith
 - [rainbowR website](https://rainbowr.org) - rainbowR is a community for LGBTQ+ folks who code in R - its website has a rainbow colour theme, custom syntax highlighting for both light and dark modes, and some fun customisations in the navbar.
 - [Marten Walk's website](https://martenw.com/) - Academic website of Marten Walk, using a custom theme inspired by the Financial Times, with modern look and many customisations (*i.e.*, custom fonts, custom graphs, etc.).
 - [Skimpy documentation](https://aeturrell.github.io/skimpy/) - Skimpy documentation made using `quartodoc`.
+- [Juan Torres Munguía's website](https://github.com/jatorresmunguia/juan-torresmunguia.github.io) - A Quarto website with a custom theme adapted from flatly, integrating particles.js for a lightweight, interactive canvas background on the home page (see <https://juan-torresmunguia.netlify.app/>).
 
 ### Book formats
 
@@ -196,6 +199,7 @@ Contributions of any kind are welcome, just follow the [guidelines](https://gith
 - [mlr3book](https://github.com/mlr-org/mlr3book/tree/main/book/) - Book on the [`mlr3`](https://mlr3.mlr-org.com/) packages ecosystem (see <https://mlr3book.mlr-org.com/>).
 - [Introduction to Data Analysis with R](https://jmbuhr.de/dataintro/) - Introductory course with videos and lecture scripts as a Quarto book format.
 - [Python for Data Analysis, 3E](https://github.com/wesm/pydata-book) - "Python for Data Analysis" book third edition (see <https://wesmckinney.com/book/>).
+- [Network Science: Models, Mathematics, and Computation](https://github.com/network-science-notes/network-science-notes.github.io) - Undergraduate lecture notes in network science featuring custom CSS and companion live-coding notebooks via Google Colab. (see <https://network-science-notes.github.io/>).
 
 ### Other formats
 
