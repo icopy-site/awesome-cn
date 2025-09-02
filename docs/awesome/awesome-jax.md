@@ -8,6 +8,7 @@
 This is a curated list of awesome JAX libraries, projects, and other resources. Contributions are welcome!
 
 
+- [Papers](#papers)https://github.com/jax-ml/jax
 
 <a name="libraries" />
 
@@ -51,12 +52,14 @@ This section contains libraries that are well-made and useful, but have not nece
     - [FedJAX](https://raw.githubusercontent.com/google/fedjax) - Federated learning in JAX, built on Optax and Haiku. <img src="https://img.shields.io/github/stars/google/fedjax?style=social" align="center">
     - [Equivariant MLP](https://raw.githubusercontent.com/mfinzi/equivariant-MLP) - Construct equivariant neural network layers. <img src="https://img.shields.io/github/stars/mfinzi/equivariant-MLP?style=social" align="center">
     - [jax-resnet](https://raw.githubusercontent.com/n2cholas/jax-resnet/) - Implementations and checkpoints for ResNet variants in Flax. <img src="https://img.shields.io/github/stars/n2cholas/jax-resnet?style=social" align="center">
+    - [jax-raft](https://raw.githubusercontent.com/alebeck/jax-raft/) - JAX/Flax port of the RAFT optical flow estimator. <img src="https://img.shields.io/github/stars/alebeck/jax-raft?style=social" align="center">
     - [Parallax](https://raw.githubusercontent.com/srush/parallax) - Immutable Torch Modules for JAX. <img src="https://img.shields.io/github/stars/srush/parallax?style=social" align="center">
 - Nonlinear Optimization
-    - [Optimistix](https://raw.githubusercontent.com/patrick-kidger/optimistix) - Root finding, minimisation, fixed points, and least squares. <img src="https://img.shields.io/github/stars/deepmind/optax?style=social" align="center">
+    - [Optimistix](https://raw.githubusercontent.com/patrick-kidger/optimistix) - Root finding, minimisation, fixed points, and least squares. <img src="https://img.shields.io/github/stars/patrick-kidger/optimistix?style=social" align="center">
     - [JAXopt](https://raw.githubusercontent.com/google/jaxopt) - Hardware accelerated (GPU/TPU), batchable and differentiable optimizers in JAX. <img src="https://img.shields.io/github/stars/google/jaxopt?style=social" align="center">
 - [jax-unirep](https://raw.githubusercontent.com/ElArkk/jax-unirep) - Library implementing the [UniRep model](https://www.nature.com/articles/s41592-019-0598-1) for protein machine learning applications. <img src="https://img.shields.io/github/stars/ElArkk/jax-unirep?style=social" align="center">
 - [flowjax](https://raw.githubusercontent.com/danielward27/flowjax) - Distributions and normalizing flows built as equinox modules. <img src="https://img.shields.io/github/stars/danielward27/flowjax?style=social" align="center">
+- [flaxdiff](https://raw.githubusercontent.com/AshishKumar4/FlaxDiff) - Framework and Library for building and training Diffusion models in multi-node multi-device distributed settings (TPUs) <img src="https://img.shields.io/github/stars/AshishKumar4/FlaxDiff?style=social" align="center">
 - [jax-flows](https://raw.githubusercontent.com/ChrisWaites/jax-flows) - Normalizing flows in JAX. <img src="https://img.shields.io/github/stars/ChrisWaites/jax-flows?style=social" align="center">
 - [sklearn-jax-kernels](https://raw.githubusercontent.com/ExpectationMax/sklearn-jax-kernels) - `scikit-learn` kernel matrices using JAX. <img src="https://img.shields.io/github/stars/ExpectationMax/sklearn-jax-kernels?style=social" align="center">
 - [jax-cosmo](https://raw.githubusercontent.com/DifferentiableUniverseInitiative/jax_cosmo) - Differentiable cosmology library. <img src="https://img.shields.io/github/stars/DifferentiableUniverseInitiative/jax_cosmo?style=social" align="center">
@@ -124,6 +127,10 @@ This section contains libraries that are well-made and useful, but have not nece
 - [tmmax](https://raw.githubusercontent.com/bahremsd/tmmax) - Vectorized calculation of optical properties in thin-film structures using JAX. Swiss Army knife tool for thin-film optics research <img src="https://img.shields.io/github/stars/bahremsd/tmmax" align="center">
 - [Coreax](https://raw.githubusercontent.com/gchq/coreax) - Algorithms for finding coresets to compress large datasets while retaining their statistical properties. <img src="https://img.shields.io/github/stars/gchq/coreax?style=social" align="center">
 - [NAVIX](https://raw.githubusercontent.com/epignatelli/navix) - A reimplementation of MiniGrid, a Reinforcement Learning environment, in JAX <img src="https://img.shields.io/github/stars/epignatelli/navix?style=social" align="center">
+- [FDTDX](https://raw.githubusercontent.com/ymahlau/fdtdx) - Finite-Difference Time-Domain Electromagnetic Simulations in JAX <img src="https://img.shields.io/github/stars/ymahlau/fdtdx?style=social" align="center">
+- [DiffeRT](https://raw.githubusercontent.com/jeertmans/DiffeRT) - Differentiable Ray Tracing toolbox for Radio Propagation powered by the JAX ecosystem. <img src="https://img.shields.io/github/stars/jeertmans/DiffeRT?style=social" align="center">
+- [JAX-in-Cell](https://raw.githubusercontent.com/uwplasma/JAX-in-Cell) - Plasma physics simulations using a PIC (Particle-in-Cell) method to self-consistently solve for electron and ion dynamics in electromagnetic fields <img src="https://img.shields.io/github/stars/uwplasma/JAX-in-Cell?style=social" align="center">
+- [kvax](https://raw.githubusercontent.com/nebius/kvax) - A FlashAttention implementation for JAX with support for efficient document mask computation and context parallelism. <img src="https://img.shields.io/github/stars/nebius/kvax?style=social" align="center">
 
 
 <a name="models-and-projects" />
@@ -145,6 +152,7 @@ This section contains libraries that are well-made and useful, but have not nece
 
 ### Flax
 
+- [awesome-jax-flax-llms](https://github.com/your-username/awesome-jax-flax-llms) - Collection of LLMs implemented in **JAX** & **Flax**
 - [DeepSeek-R1-Flax-1.5B-Distill](https://github.com/J-Rosser-UK/Torch2Jax-DeepSeek-R1-Distill-Qwen-1.5B) - Flax implementation of DeepSeek-R1 1.5B distilled reasoning LLM.
 - [Performer](https://github.com/google-research/google-research/tree/master/performer/fast_attention/jax) - Flax implementation of the Performer (linear transformer via FAVOR+) architecture.
 - [JaxNeRF](https://github.com/google-research/google-research/tree/master/jaxnerf) - Implementation of [_NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis_](http://www.matthewtancik.com/nerf) with multi-device GPU/TPU support.
@@ -208,6 +216,10 @@ tracks of the [OGB Large-Scale Challenge](https://ogb.stanford.edu/kddcup2021/) 
 - [lqg](https://github.com/RothkopfLab/lqg) - Official implementation of Bayesian inverse optimal control for linear-quadratic Gaussian problems from the paper [_Putting perception into action with inverse optimal control for continuous psychophysics_](https://elifesciences.org/articles/76635)
 
 
+### Equinox
+
+- [Sampling Path Candidates with Machine Learning](https://differt.eertmans.be/icmlcn2025/notebooks/sampling_paths.html) - Official tutorial and implementation from the paper [_Towards Generative Ray Path Sampling for Faster Point-to-Point Ray Tracing_](https://arxiv.org/abs/2410.23773).
+
 <a name="videos" />
 
 ## Videos
@@ -228,13 +240,13 @@ tracks of the [OGB Large-Scale Challenge](https://ogb.stanford.edu/kddcup2021/) 
 
 This section contains papers focused on JAX (e.g. JAX-based library whitepapers, research on JAX, etc). Papers implemented in JAX are listed in the [Models/Projects](#projects) section.
 
-<!--lint ignore awesome-list-item-->
+<!--lint disable-->
 - [__Compiling machine learning programs via high-level tracing__. Roy Frostig, Matthew James Johnson, Chris Leary. _MLSys 2018_.](https://mlsys.org/Conferences/doc/2018/146.pdf) - White paper describing an early version of JAX, detailing how computation is traced and compiled.
 - [__JAX, M.D.: A Framework for Differentiable Physics__. Samuel S. Schoenholz, Ekin D. Cubuk. _NeurIPS 2020_.](https://arxiv.org/abs/1912.04232) - Introduces JAX, M.D., a differentiable physics library which includes simulation environments, interaction potentials, neural networks, and more.
 - [__Enabling Fast Differentially Private SGD via Just-in-Time Compilation and Vectorization__. Pranav Subramani, Nicholas Vadivelu, Gautam Kamath. _arXiv 2020_.](https://arxiv.org/abs/2010.09063) - Uses JAX's JIT and VMAP to achieve faster differentially private than existing libraries.
 - [__XLB: A Differentiable Massively Parallel Lattice Boltzmann Library in Python__. Mohammadmehdi Ataei, Hesam Salehipour. _arXiv 2023_.](https://arxiv.org/abs/2311.16080) - White paper describing the XLB library: benchmarks, validations, and more details about the library.
+<!--lint enable-->
 
-<!--lint enable awesome-list-item-->
 
 <a name="tutorials-and-blog-posts" />
 
