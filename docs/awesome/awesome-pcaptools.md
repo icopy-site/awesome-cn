@@ -67,6 +67,10 @@ Traffic Capture<a name="capture"></a>
 
 * [PF_RING](https://www.ntop.org/products/packet-capture/pf_ring/): PF_RING is a new type of network socket that dramatically improves the packet capture speed. Available for Linux kernels 2.6.32 and newer. No need to patch the kernel. PF_RING-aware drivers for increased packet capture acceleration.
 
+* [pmacct](https://github.com/pmacct/pmacct): is a small set of multi-purpose passive network monitoring tools. It can account, classify, aggregate, replicate and export forwarding-plane data, ie. IPv4 and IPv6 traffic; collect and correlate control-plane data via BGP and BMP; collect and correlate RPKI data; collect infrastructure data via Streaming Telemetry.
+
+* [softflowd](https://github.com/irino/softflowd): is a flow-based network monitor, that listens promiscously to a network interface using libpcap and exports NetFlow data.
+
 * [TTT](https://www2.sonycsl.co.jp/person/kjc/kjc/software.html#ttt): (Tele Traffic Tapper) is yet another descendant of tcpdump but it is capable of real-time, graphical, and remote traffic-monitoring. ttt won't replace tcpdump, rather, it helps you find out what to look into with tcpdump. ttt monitors the network and automatically picks up the main contributors of the traffic within the time window. The graphs are updated every second by default.
 
 * [Yaf](https://tools.netsa.cert.org/yaf/yaf.html): It's a reliable piece of software, quite solid and able to generate flow records from pcap. This is very nice for indexing huge pcap or even doing packet capture. The recent version can even extract payloads and put in the flow records.
@@ -97,6 +101,8 @@ Traffic Analysis/Inspection<a name="analysis"></a>
 
 * [EtherApe](https://etherape.sourceforge.io/): is a graphical network monitor for Unix modeled after etherman. Featuring link layer, ip and TCP modes, it displays network activity graphically. Hosts and links change in size with traffic. Color coded protocols display. It supports Ethernet, FDDI, Token Ring, ISDN, PPP and SLIP devices. It can filter traffic to be shown, and can read traffic from a file as well as live from the network.
 
+* [Ettercap](https://github.com/Ettercap/ettercap): is a suite of tools for traffic capture and analysis using ARP Poisoning (A form of MitM attack, only use on networks you control)
+
 * [HttpSniffer](https://github.com/caesar0301/http-sniffer): A multi-threading tool to sniff TCP flow statistics and embedded HTTP headers from PCAP file. Each TCP flow carrying HTTP is exported to text file in JSON format.
 
 
@@ -117,6 +123,8 @@ Traffic Analysis/Inspection<a name="analysis"></a>
 * [NetDude](http://netdude.sourceforge.net/): (NETwork DUmp data Displayer and Editor). From their webpage, "it is a GUI-based tool that allows you to make detailed changes to packets in tcpdump tracefiles."
 
 * [Network Expect](https://www.netexpect.org/): is a framework that allows to easily build tools that can interact with network traffic. Following a script, traffic can be injected into the network, and decisions can be taken, and acted upon, based on received network traffic. An interpreted language provides branching and high-level control structures to direct the interaction with the network. Network Expect uses libpcap for packet capture and libwireshark (from the Wireshark project) for packet dissection tasks. (GPL, BSD/Linux/OSX).
+
+* [nfdump](https://github.com/phaag/nfdump): is a powerful suite of tools for collecting, processing, and analysing flow data from network devices.
 
 * [NFStream](https://github.com/nfstream/nfstream): is a Python framework providing fast, flexible, and expressive data structures designed to make working with online or offline network data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world network data analysis in Python. Additionally, it has the broader goal of becoming a common network data analytics framework for researchers providing data reproducibility across experiments.
 
@@ -144,6 +152,8 @@ Traffic Analysis/Inspection<a name="analysis"></a>
 
 
 * [Scapy](http://www.secdev.org/projects/scapy/): Scapy is a powerful interactive packet manipulation program. It is able to forge or decode packets of a wide number of protocols, send them on the wire, capture them, match requests and replies, and much more. It can easily handle most classical tasks like scanning, tracerouting, probing, unit tests, attacks or network discovery (it can replace hping, 85% of nmap, arpspoof, arp-sk, arping, tcpdump, tethereal, p0f, etc.). It also performs very well at a lot of other specific tasks that most other tools can't handle, like sending invalid frames, injecting your own 802.11 frames, combining technics (VLAN hopping+ARP cache poisoning, VOIP decoding on WEP encrypted channel, ...), etc.
+
+* [SiLK](https://tools.netsa.cert.org/silk/): SiLK (the System for Internet-Level Knowledge), is a collection of traffic analysis tools developed to facilitate security analysis of large networks. The SiLK tool suite supports the efficient collection, storage, and analysis of network flow data.
 
 * [Sniff](http://www.thedumbterminal.co.uk/software/sniff.html): Makes output from the tcpdump program easier to read and parse.
 
@@ -176,6 +186,10 @@ Traffic Analysis/Inspection<a name="analysis"></a>
 * [Tstat](http://tstat.tlc.polito.it/): A passive sniffer able to provide several insight on the traffic patterns at both the network and transport levels with a tremendous set of flow features.
 
 * [WAND](https://research.wand.net.nz/): A wonderful collection of tools built on libtrace to process network traffic, which is from The University of Waikato. I love this project!
+
+* [WinDivert](https://github.com/basil00/WinDivert): is a Windows library for user-mode packet interception.
+
+* [WinDump](https://www.winpcap.org/windump/): is the Windows equivalent of tcpdump, uses WinPcap.
 
 * [WinPcap](https://www.winpcap.org/): An extract of a message from Guy Harris on state of WinPcap and WinDump.
 
