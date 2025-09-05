@@ -121,7 +121,7 @@ System integration is the process of linking together different IT systems (com
 
 <!--lint disable-->
 <!--lint enable-->
-### BRE
+### Business Rules Engine
 *Business Rules Engines and Business Rules Management Systems (BRMS) are software systems that allow organizations to define, manage, and execute business rules. These rules are used to automate decision-making processes, enforce business policies, and ensure regulatory compliance. A BRMS provides a way for organizations to centrally manage their business rules and make changes to them quickly and easily, without requiring changes to the underlying code. It is a valuable tool for businesses that need to be agile and respond quickly to changing market conditions.*
 - [Drools (⭐6.1k)](https://github.com/apache/incubator-kie-drools) - Open-source engine that supports advanced Decision Model and Notation (DMN) with Eclipse IDE integration for efficient rule development.
 - [Easy Rules (⭐5.1k)](https://github.com/j-easy/easy-rules) - Lightweight Java-based rules engine designed for straightforward rule processing and rapid decision automation.
@@ -135,10 +135,9 @@ System integration is the process of linking together different IT systems (com
 
 <!--lint disable-->
 <!--lint enable-->
-### BPM
+### Business Process Management
 *BPM solutions are software tools that help businesses streamline and automate their operational processes to improve efficiency and productivity. These solutions typically provide features such as process modeling, workflow management, task automation, and reporting. They can be used to automate a wide range of processes, from simple tasks like data entry to complex workflows involving multiple departments and stakeholders.*
 - [Appian BPM Suite](https://appian.com/platform/complete-automation/business-process-management-bpm.html) - Low-code BPM platform that empowers both IT and citizen developers to quickly build process- and case-centric applications.
-- [Genpack Cora SeQuence](https://www.genpact.com/cora/sequence) - Agile process orchestration tool that enhances business efficiency by seamlessly integrating and managing workflows.
 - [IBM Business Automation Workflow](https://www.ibm.com/products/business-automation-workflow) - Integrated platform combining workflow automation and BPM to optimize operational processes and decision-making.
 - [Oracle BPM Suite](https://www.oracle.com/middleware/technologies/bpm.html) - Comprehensive solution offering robust process modeling, workflow automation, and real-time analytics to drive operational excellence.
 - [Pega Platform](https://www.pega.com/products/platform) - Advanced BPM and RPA platform featuring intelligent process automation and workforce analytics to streamline operations.
@@ -148,16 +147,7 @@ System integration is the process of linking together different IT systems (com
 
 <!--lint disable-->
 <!--lint enable-->
-### Data Mapping Solution
-*Data Mapping tools are used to define and transform data between different systems, applications, and formats. These tools allow for the mapping of data from source to target, allowing for data transformation and integration. This section covers different data mapping solutions that can be used to facilitate data mapping and transformation processes for different use cases.*
-- [Altova MapForce](https://www.altova.com/mapforce) - Graphical data mapping solution that enables any-to-any conversion, reducing complexity and accelerating integration projects.
-- [AtlasMap (⭐205)](https://github.com/atlasmap/atlasmap) - Interactive web-based tool that simplifies mapping across Java, XML, CSV, and JSON data sources with an intuitive interface.
-- [JOLT (⭐1.6k)](https://github.com/bazaarvoice/jolt) - Java-based JSON transformation library that uses a specification-driven approach for effortless JSON-to-JSON conversions.
-- [JSLT (⭐673)](https://github.com/schibsted/jslt) - Powerful JSON query and transformation language inspired by jq and XPath, designed for rapid and flexible data manipulation.
-
-<!--lint disable-->
-<!--lint enable-->
-### CDC
+### Change Data Capture
 *Change Data Capture (CDC) solutions enable real-time identification and capture of changes made to data in databases, data warehouses, and other data sources. These tools continuously monitor data changes and propagate them to downstream systems, enabling real-time data synchronization, event-driven architectures, and maintaining data consistency across distributed systems. CDC is essential for modern data architectures, microservices, and real-time analytics.*
 - [Debezium (⭐11k)](https://github.com/debezium/debezium) - Open-source distributed platform for change data capture that turns your existing databases into event streams for real-time data integration.
 - [IBM InfoSphere CDC](https://www.ibm.com/products/infosphere-change-data-capture) - Enterprise CDC solution that captures and delivers data changes with minimal impact on source systems and low latency.
@@ -167,24 +157,7 @@ System integration is the process of linking together different IT systems (com
 
 <!--lint disable-->
 <!--lint enable-->
-### ESB
-*Enterprise Service Bus (ESB) solutions facilitate the integration of disparate systems and applications by providing a communication layer that allows them to exchange information. ESBs offer a range of capabilities such as message routing, transformation, protocol conversion, and data mediation. They typically support various messaging patterns and communication protocols and provide a centralized platform for managing and monitoring message traffic.*
-- [Anypoint Platform](https://www.mulesoft.com/platform/enterprise-integration) - Comprehensive integration solution that leverages robust ESB capabilities to connect and orchestrate disparate systems.
-- [Apache ServiceMix](https://servicemix.apache.org/) - Versatile open-source integration container combining messaging, routing, and service mediation for flexible enterprise connectivity.
-- [ArcESB](https://www.arcesb.com/integration/) - Flexible integration platform that synchronizes data across applications, streamlines partner connectivity, and enhances data accessibility.
-- [IBM App Connect](https://www.ibm.com/cloud/app-connect) - Robust integration solution that connects diverse applications and protocols, ensuring seamless data flow across the enterprise.
-- [IBM webMethods Integration](https://www.ibm.com/products/webmethods-integration) - Comprehensive platform that accelerates application integration and simplifies connectivity across heterogeneous systems.
-- [NServiceBus (⭐2.1k)](https://github.com/Particular/NServiceBus) - Developer-friendly, .NET-based service bus that simplifies messaging and orchestrates service integration efficiently.
-- [Oracle Service Bus](https://www.oracle.com/middleware/technologies/service-bus.html) - Powerful ESB solution that virtualizes and manages service interactions to reduce integration complexity.
-- [Oracle SOA Suite](https://www.oracle.com/middleware/technologies/soasuite.html) - Comprehensive SOA platform that orchestrates services into composite applications, driving efficient business process integration.
-- [Red Hat Fuse](https://developers.redhat.com/products/fuse/overview) - Cloud-native integration platform that delivers distributed integration capabilities for agile, scalable connectivity.
-- [TIBCO BusinessWorks](https://www.tibco.com/products/tibco-businessworks) - Enterprise-grade integration platform implementing proven hybrid integration patterns for reliable data exchange.
-- [UltraESB](https://www.adroitlogic.com/products/ultraesb/) - High-performance ESB engineered for extreme throughput with zero-copy proxying and non-blocking IO techniques.
-- [WSO2 Enterprise Integrator (⭐389)](https://github.com/wso2/product-ei) - API-centric, cloud-native integration platform offering robust, distributed capabilities for modern software architectures.
-
-<!--lint disable-->
-<!--lint enable-->
-### ETL
+### Data Integration
 *ETL (Extract, Transform, Load) and ELT (Extract, Load, Transform) are processes used to integrate and consolidate data from multiple sources. This section covers a range of open source and commercial tools for performing these tasks, including data ingestion, transformation, and loading into data warehouses or other data storage systems.*
 - [Apache InLong (⭐1.4k)](https://github.com/apache/inlong) - One-stop, full-scenario integration framework for massive data that supports data ingestion, synchronization, and subscription with real-time ETL capabilities.
 - [Apache NiFi (⭐5.6k)](https://github.com/apache/nifi) - Automated data integration tool with a visual interface that seamlessly extracts, transforms, and delivers data across systems.
@@ -204,6 +177,32 @@ System integration is the process of linking together different IT systems (com
 
 <!--lint disable-->
 <!--lint enable-->
+### Data Mapping Solution
+*Data Mapping tools are used to define and transform data between different systems, applications, and formats. These tools allow for the mapping of data from source to target, allowing for data transformation and integration. This section covers different data mapping solutions that can be used to facilitate data mapping and transformation processes for different use cases.*
+- [Altova MapForce](https://www.altova.com/mapforce) - Graphical data mapping solution that enables any-to-any conversion, reducing complexity and accelerating integration projects.
+- [AtlasMap (⭐205)](https://github.com/atlasmap/atlasmap) - Interactive web-based tool that simplifies mapping across Java, XML, CSV, and JSON data sources with an intuitive interface.
+- [JOLT (⭐1.6k)](https://github.com/bazaarvoice/jolt) - Java-based JSON transformation library that uses a specification-driven approach for effortless JSON-to-JSON conversions.
+- [JSLT (⭐673)](https://github.com/schibsted/jslt) - Powerful JSON query and transformation language inspired by jq and XPath, designed for rapid and flexible data manipulation.
+
+<!--lint disable-->
+<!--lint enable-->
+### Enterprise Service Bus
+*Enterprise Service Bus (ESB) solutions facilitate the integration of disparate systems and applications by providing a communication layer that allows them to exchange information. ESBs offer a range of capabilities such as message routing, transformation, protocol conversion, and data mediation. They typically support various messaging patterns and communication protocols and provide a centralized platform for managing and monitoring message traffic.*
+- [Anypoint Platform](https://www.mulesoft.com/platform/enterprise-integration) - Comprehensive integration solution that leverages robust ESB capabilities to connect and orchestrate disparate systems.
+- [Apache ServiceMix](https://servicemix.apache.org/) - Versatile open-source integration container combining messaging, routing, and service mediation for flexible enterprise connectivity.
+- [ArcESB](https://www.arcesb.com/integration/) - Flexible integration platform that synchronizes data across applications, streamlines partner connectivity, and enhances data accessibility.
+- [IBM App Connect](https://www.ibm.com/cloud/app-connect) - Robust integration solution that connects diverse applications and protocols, ensuring seamless data flow across the enterprise.
+- [IBM webMethods Integration](https://www.ibm.com/products/webmethods-integration) - Comprehensive platform that accelerates application integration and simplifies connectivity across heterogeneous systems.
+- [NServiceBus (⭐2.1k)](https://github.com/Particular/NServiceBus) - Developer-friendly, .NET-based service bus that simplifies messaging and orchestrates service integration efficiently.
+- [Oracle Service Bus](https://www.oracle.com/middleware/technologies/service-bus.html) - Powerful ESB solution that virtualizes and manages service interactions to reduce integration complexity.
+- [Oracle SOA Suite](https://www.oracle.com/middleware/technologies/soasuite.html) - Comprehensive SOA platform that orchestrates services into composite applications, driving efficient business process integration.
+- [Red Hat Fuse](https://developers.redhat.com/products/fuse/overview) - Cloud-native integration platform that delivers distributed integration capabilities for agile, scalable connectivity.
+- [TIBCO BusinessWorks](https://www.tibco.com/products/tibco-businessworks) - Enterprise-grade integration platform implementing proven hybrid integration patterns for reliable data exchange.
+- [UltraESB](https://www.adroitlogic.com/products/ultraesb/) - High-performance ESB engineered for extreme throughput with zero-copy proxying and non-blocking IO techniques.
+- [WSO2 Enterprise Integrator (⭐389)](https://github.com/wso2/product-ei) - API-centric, cloud-native integration platform offering robust, distributed capabilities for modern software architectures.
+
+<!--lint disable-->
+<!--lint enable-->
 ### Integration Frameworks
 *The Integration frameworks section includes software tools and libraries that help developers implement and manage integration patterns in their applications. These frameworks are based on well-established Enterprise Integration Patterns (EIPs), which provide a standard vocabulary and architecture for designing and implementing integration solutions. The frameworks in this section can help simplify the process of integrating different systems, applications, and data sources by providing pre-built connectors, message routing, and transformation capabilities.*
 - [Apache Camel (⭐5.9k)](https://github.com/apache/camel) - Robust integration framework leveraging Enterprise Integration Patterns to seamlessly connect diverse systems and APIs.
@@ -213,7 +212,7 @@ System integration is the process of linking together different IT systems (com
 
 <!--lint disable-->
 <!--lint enable-->
-### iPaaS
+### Integration Platform as a Service
 *Integration Platform as a Service (iPaaS) is a cloud-based platform that enables businesses to integrate different systems, applications, and data sources with ease. It provides a unified platform for managing data flows between various systems, simplifying the process of integrating different systems and automating workflows. iPaaS tools typically provide a visual interface for designing, deploying, and managing integrations, as well as pre-built connectors and APIs for integrating with popular systems and services.*
 - [Anypoint Platform](https://www.mulesoft.com/platform/saas/cloudhub-ipaas-cloud-based-integration) - Combines API management and integration into one platform, enabling seamless connectivity across diverse applications.
 - [Boomi AtomSphere](https://boomi.com/platform) - Cloud-native, intelligent platform that connects systems effortlessly while automating integration processes.
@@ -232,7 +231,7 @@ System integration is the process of linking together different IT systems (com
 
 <!--lint disable-->
 <!--lint enable-->
-### MaaS
+### Messaging as a Service
 *Cloud Messaging as a Service (MaaS) refers to cloud-based messaging platforms that enable reliable, secure, and scalable communication between distributed applications and services. These platforms provide various messaging patterns such as publish-subscribe, request-reply, and streaming. They also offer features such as message routing, filtering, transformation, and persistence, and support various protocols and APIs for integration with different systems.*
 - [Amazon MQ](https://aws.amazon.com/amazon-mq) - Fully managed message broker supporting Apache ActiveMQ and RabbitMQ, ensuring reliable and secure messaging.
 - [Amazon MSK](https://aws.amazon.com/msk) - Managed Apache Kafka service that simplifies cluster setup, scaling, and real-time data streaming.
@@ -260,7 +259,7 @@ System integration is the process of linking together different IT systems (com
 
 <!--lint disable-->
 <!--lint enable-->
-### MFT
+### Managed File Transfer
 *Managed File Transfer (MFT) solutions provide secure and reliable file transfer capabilities that help organizations meet regulatory compliance requirements, improve operational efficiency, and reduce the risk of data breaches. MFT software typically includes features such as encryption, digital signatures, user access controls, and detailed audit logs to ensure that data is transmitted securely and can be tracked throughout the transfer process.*
 - [ArcESB Managed File Transfer](https://www.arcesb.com/mft/) - Enterprise-grade MFT solution with an intuitive interface and powerful automation for streamlined file exchanges.
 - [Axway Managed File Transfer](https://www.axway.com/en/products/managed-file-transfer) - Robust platform offering advanced security and efficient, reliable data transfer across enterprise systems.
@@ -276,7 +275,7 @@ System integration is the process of linking together different IT systems (com
 
 <!--lint disable-->
 <!--lint enable-->
-### MDM
+### Master Data Management
 *Master Data Management (MDM) solutions help organizations create a single, authoritative source of accurate and consistent data across different systems, applications, and departments. These tools provide capabilities for data profiling, cleansing, enrichment, and governance, enabling organizations to improve data quality, reduce errors, and increase operational efficiency.*
 - [IBM InfoSphere Master Data Management](https://www.ibm.com/products/ibm-infosphere-master-data-management) - Comprehensive platform that centralizes data governance, ensuring consistency and accuracy across your enterprise.
 - [Informatica Multidomain MDM](https://www.informatica.com/products/master-data-management/multidomain-mdm.html) - Integrated solution for managing and governing master data across all domains, enhancing overall data quality.
@@ -290,7 +289,7 @@ System integration is the process of linking together different IT systems (com
 
 <!--lint disable-->
 <!--lint enable-->
-### Messaging
+### Message Broker
 *Message brokers are a type of middleware that allows communication between different applications or systems by facilitating the exchange of messages. They can handle different messaging patterns, such as point-to-point, publish-subscribe, and request-reply, and provide features such as message transformation, routing, and filtering.*
 - [Apache ActiveMQ (⭐2.3k)](https://github.com/apache/activemq) - Open-source broker that implements JMS, enabling seamless conversion between synchronous and asynchronous messaging.
 - [Apache ActiveMQ Artemis (⭐982)](https://github.com/apache/activemq-artemis) - Next-generation message broker from Apache ActiveMQ with high performance, clustering support, and multi-protocol capabilities.
@@ -316,7 +315,7 @@ System integration is the process of linking together different IT systems (com
 
 <!--lint disable-->
 <!--lint enable-->
-### RPA
+### Robotic Process Automation
 *Robotic Process Automation (RPA) solutions are software tools that automate repetitive, rule-based tasks within business processes. RPA bots can perform tasks such as data entry, data extraction, and data processing with accuracy and speed, freeing up human workers to focus on more complex tasks.*
 - [Automation Anywhere](https://www.automationanywhere.com/) - Intelligent automation ecosystem that streamlines business processes and reduces errors through advanced RPA capabilities.
 - [Blue Prism](https://www.blueprism.com/products/intelligent-rpa-automation/) - No-code platform delivering robust, scalable automation to minimize manual tasks and boost productivity.
@@ -341,7 +340,7 @@ System integration is the process of linking together different IT systems (com
 
 <!--lint disable-->
 <!--lint enable-->
-### Workflow engine
+### Workflow Engine
 *Software tools that enable the design, execution, and monitoring of complex workflows or business processes. Workflow engines provide a way to automate and streamline business processes, while orchestration engines help to manage the interactions between different systems or services.*
 - [Activiti (⭐10k)](https://github.com/Activiti/Activiti) - Lightweight, Java-centric BPMN engine that efficiently executes business workflows with a focus on simplicity.
 - [Apache Airflow (⭐41k)](https://github.com/apache/airflow) - Platform for programmatically creating, scheduling, and monitoring workflows, ideal for managing complex data pipelines.
@@ -821,7 +820,9 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 - [BSON](https://bsonspec.org/) - Binary-encoded serialization format for JSON-like documents that is designed to be lightweight and efficient. It supports rich data types and is widely used in NoSQL databases, such as MongoDB.
 - [CSV](https://datatracker.ietf.org/doc/html/rfc4180) - A simple and widely used data format that stores tabular data in plain text. It is easy to read and write, and can be processed by most programming languages.
 - [JSON](https://datatracker.ietf.org/doc/html/rfc8259) - A lightweight and easy-to-read data format that is widely used for data exchange. It supports a wide range of data types and is compatible with many programming languages.
-- [NDJSON (⭐766)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+   - [NDJSON (⭐766)](https://github.com/ndjson/ndjson-spec) - A standard for delimiting JSON objects in stream protocols. It allows for efficient processing of large JSON datasets and is widely used in big data processing.
+   - [JSON Lines](https://jsonlines.org/) - A text format for storing structured data one record per line.
+   - [JSON Text Sequence](https://datatracker.ietf.org/doc/html/rfc7464) - Defined in RFC 7464, describe a specific format for transmitting or storing a sequence of individual JSON texts.
 - [Protocol Buffers (⭐68k)](https://github.com/protocolbuffers/protobuf) - A language-neutral and platform-neutral serialization mechanism that is designed to be highly efficient and extensible. It supports rich data types and is widely used in distributed systems, such as gRPC and Apache Kafka.
 - [XML](https://www.w3.org/TR/xml11/) - A flexible and widely used markup language that is used for storing and exchanging structured data. It supports rich data types and is compatible with many programming languages.
 - [YAML (⭐404)](https://github.com/yaml/yaml-spec) - A human-friendly and easy-to-read data serialization format that is widely used for configuration files and data exchange. It supports rich data types and is compatible with most programming languages.
