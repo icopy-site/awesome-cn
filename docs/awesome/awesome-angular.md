@@ -599,6 +599,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng2-idle](https://github.com/moribvndvs/ng2-idle) - A module for responding to idle users in Angular applications.
 * [ng-lens](https://github.com/MerrittMelker/ng-lens) - This Node.js utility uses `ts-morph` to statically analyze Angular TypeScript components and identify service usage patterns from any specified API library.
 * [ngx-json-reader](https://github.com/Verbalman/ngx-json-reader) - Angular 17+ JSON reader/editor with multi-URL comparison and diffing.
+* [ngx-compare-object](https://github.com/RzoDev/ngx-compare-object) - Angular utility to compare an original object with its modified version.
 
 ### Documentation Tools
 
@@ -1745,12 +1746,14 @@ to simplify usage and allow quick customization.
 * [ngx-vflow](https://github.com/artem-mangilev/ngx-vflow) - An open source library to build node-based UI with Angular.
 * [ship-ui](https://github.com/shipuicom/core) - A modern, signal-based, zoneless-compatible UI library for Angular. Explore its features and documentation on their [official website](https://www.shipui.com).
 * [slateui](https://github.com/angularcafe/slateui) - A modern, accessible UI component library that provides directive-based components built with Angular primitives, Tailwind CSS, and signals.
+* [@nexcraft/forge](https://github.com/dev-ignis/forge) - Framework-agnostic Web Components UI library. Works in Angular via custom elements.
 
 ### UI Libraries built on Bootstrap
 
 * [angular-bootstrap-md](https://mdbootstrap.com/docs/angular/) - Material Design
 for Bootstrap 5 & Angular 17.
 * [ng-bootstrap](https://ng-bootstrap.github.io) - Angular widgets built from the ground up using only Bootstrap 5 CSS with APIs designed for the Angular ecosystem.
+* [ng-bootstrap-addons](https://github.com/mikaelbotassi/ng-bootstrap-addons) - Adds UI components not available in `ng-bootstrap` (e.g., input/form controls).
 * [ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap) - Fast and reliable Bootstrap widgets in Angular (supports Ivy engine).
 * [design-angular-kit](https://github.com/italia/design-angular-kit) - A toolkit based on Bootstrap Italia
 for the creation of web applications developed with Angular.
@@ -2022,6 +2025,7 @@ for the creation of web applications developed with Angular.
 * [reaktiv](https://github.com/buiapp/reaktiv) - Reactive Signals for Python with first-class async support, inspired by Angular's reactivity model.
 * [sio](https://github.com/silicia-apps/sio) - Silicia Framework: a fresh approach built upon Ionic, designed to streamline the development of hybrid applications and websites.
 * [ts-react-directives](https://github.com/skycodr/ts-react-directives) - A small React/TypeScript library designed to mimic Angular directives.
+* [UnReact.js](https://github.com/arnvjshi/unreactpjs) - A modern framework combining the best of Angular and React for enhanced component communication.
 * [use-vue-service](https://github.com/kaokei/use-vue-service) - Lightweight Vue 3 state management with dependency injection, inspired by Angular services.
 * [vyuha](https://github.com/RamanSharma100/vyuha) - A Node.js Template Engine Inspired by EJS, Angular, and Laravel Blade.
 

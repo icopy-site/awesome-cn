@@ -71,6 +71,11 @@ Additional lists you might find useful:
 - [lordsimal/cakephp-psalm](https://github.com/LordSimal/cakephp-psalm) - A Psalm extension to resolve CakePHP magic around getter return types for the static analyzer.
 - [TestHelper plugin](https://github.com/dereuromark/cakephp-test-helper) - Provides testing enhancements and TDD support as browser backend.
 
+## Console
+*Plugins for console enhancements.*
+
+- [SignalHandler plugin](https://github.com/skie/SignalHandler) - Cross-platform signal handling for CakePHP console commands with zero external dependencies. Supports Linux (pcntl), Windows (native API).
+
 ## Debugging
 *Plugins for debugging and local development.*
 
