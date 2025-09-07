@@ -1407,6 +1407,8 @@ We applied our framework to three visual recognition tasks, namely, image classi
 
 * [Robotic search for optimal cell culture in regenerative medicine](https://elifesciences.org/articles/77007) - ***eLife***, 2022. [[All Versions](https://scholar.google.com/scholar?cluster=1330075145723138159)]. This paper develops a robotic AI system with a batch Bayesian optimization algorithm that autonomously induces the differentiation of induced pluripotent stem cell-derived retinal pigment epithelial (iPSC-RPE) cells. From 200 million possible parameter combinations, the system performed cell culture in 143 different conditions in 111 days, resulting in 88% better iPSC-RPE production than that obtained by the pre-optimized culture in terms of the pigmentation scores.
 
+* [Balancing autonomy and expertise in autonomous synthesis laboratories](https://www.nature.com/articles/s43588-025-00769-x) - ***Nature Computational Science***, 2025. [[All Versions](https://scholar.google.com/scholar?cluster=2487456887760587329)]. Autonomous synthesis laboratories promise to streamline the plan–make–measure–analyze iteration loop. Here, the authors comment on the barriers in the field, the promise of a human on-the-loop approach, and strategies for optimizing accessibility, accuracy, and efficiency of autonomous laboratories.
+
 
 #### AI Assisted Research
 

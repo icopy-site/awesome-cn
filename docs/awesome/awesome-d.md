@@ -331,6 +331,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [onedrive](https://github.com/abraunegg/onedrive) - #1 Free OneDrive Client for Linux.
 * [tshare](https://github.com/trikko/tshare) - Fast file sharing from cli, using transfer.sh.
 * [todod](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise](https://github.com/antirez/linenoise).
+* [Soulfind](https://github.com/soulfind-dev/soulfind) - Soulseek server implementation in D.
 
 ## GUI Libraries
 
