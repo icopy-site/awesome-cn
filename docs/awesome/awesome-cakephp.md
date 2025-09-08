@@ -103,6 +103,8 @@ Additional lists you might find useful:
 
 - see Cake/Localized plugin below.
 - see Tools plugin below.
+- [RuleFlow plugin](https://github.com/skie/rule-flow) - A plugin that seamlessly transforms server-side validation rules into client-side JSON Logic validation, providing automatic form validation without requiring separate client-side validation code.
+
 
 ## Geolocation
 *Plugins for geocoding addresses and working with latitudes and longitudes.*

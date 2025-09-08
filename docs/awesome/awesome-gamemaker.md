@@ -249,6 +249,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [BSP 4 GMS](https://cdlegasse.itch.io/ozarq-bsp-4-gms) - Import BSP files into GameMaker. Currently just a demo but worth keeping an eye on.
 - [dotobj](https://github.com/JujuAdams/dotobj) - Lightweight .obj/.mtl 3D model loader written in native GML.
 - [Bronze Box](https://github.com/cicadian/Bronze-Box) - Example of how to build 3D world models from a 2D grid.
+- [DopeFish Respawned](https://lemontoast-games.itch.io/dopefish-respawned) - Extensive WAD manager to load DOOM maps in GameMaker.
 - [Camera3D](https://gizmo199.itch.io/camera3d) - Simple 3D camera setup.
 - [Blender to GameMaker](https://github.com/blender-to-gmstudio) - A collection of scripts to export and import Blender models to and from GameMaker.
 - [DmrVBM](https://github.com/Dreamer13sq/DmrVBM-blender-to-gms2) - Import/Export tools to load vertex buffer data out of Blender and into GMS.
