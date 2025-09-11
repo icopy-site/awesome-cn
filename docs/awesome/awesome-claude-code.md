@@ -42,11 +42,11 @@ Just a quick update to let folks know that I'm going to be working through the b
 
 > Resources added in the past 7 days
 
-[`claude-code-statusline`](https://github.com/rz1989s/claude-code-statusline) &nbsp; by &nbsp; [rz1989s](https://github.com/rz1989s)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-Enhanced 4-line statusline for Claude Code with themes, cost tracking, and MCP server monitoring
+[`Design Review Workflow`](https://github.com/OneRedOak/claude-code-workflows/tree/main/design-review) &nbsp; by &nbsp; [Patrick Ellis](https://github.com/OneRedOak)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A tailored workflow for enabling automated UI/UX design review, including specialized sub agents, slash commands, `CLAUDE.md` excerpts, and more. Covers a broad range of criteria from responsive design to accessibility.
 
-[`Claude Code PM`](https://github.com/automazeio/ccpm) &nbsp; by &nbsp; [Ran Aroussi](https://github.com/ranaroussi)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-Really comprehensive and feature-packed project-management workflow for Claude Code. Numerous specialized agents, slash-commands, and strong documentation.
+[`SuperClaude`](https://github.com/SuperClaude-Org/SuperClaude_Framework) &nbsp; by &nbsp; [SuperClaude-Org](https://github.com/SuperClaude-Org)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A versatile configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies, such as "Introspection" and "Orchestration".
 
 
 
@@ -88,6 +88,9 @@ A comprehensive knowledge base with detailed breakdowns of advanced [mechanics](
 
 [`Context Priming`](https://github.com/disler/just-prompt/tree/main/.claude/commands) &nbsp; by &nbsp; [disler](https://github.com/disler)    
 Provides a systematic approach to priming Claude Code with comprehensive project context through specialized commands for different project scenarios and development contexts.
+
+[`Design Review Workflow`](https://github.com/OneRedOak/claude-code-workflows/tree/main/design-review) &nbsp; by &nbsp; [Patrick Ellis](https://github.com/OneRedOak)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A tailored workflow for enabling automated UI/UX design review, including specialized sub agents, slash commands, `CLAUDE.md` excerpts, and more. Covers a broad range of criteria from responsive design to accessibility.
 
 [`Laravel TALL Stack AI Development Starter Kit`](https://github.com/tott/laravel-tall-claude-ai-configs) &nbsp; by &nbsp; [tott](https://github.com/tott)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Transform your Laravel TALL (Tailwind, AlpineJS, Laravel, Livewire) stack development with comprehensive Claude Code configurations that provide intelligent assistance, systematic workflows, and domain expert consultation.
@@ -145,6 +148,9 @@ Impressive CLI toolkit providing auto-save checkpointing, code quality hooks, sp
 
 [`Container Use`](https://github.com/dagger/container-use) &nbsp; by &nbsp; [dagger](https://github.com/dagger)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
+
+[`SuperClaude`](https://github.com/SuperClaude-Org/SuperClaude_Framework) &nbsp; by &nbsp; [SuperClaude-Org](https://github.com/SuperClaude-Org)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A versatile configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies, such as "Introspection" and "Orchestration".
 
 [`tweakcc`](https://github.com/Piebald-AI/tweakcc) &nbsp; by &nbsp; [Piebald-AI](https://github.com/Piebald-AI)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Command-line tool to customize your Claude Code styling.

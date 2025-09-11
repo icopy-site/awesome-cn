@@ -12,6 +12,19 @@
 
 ## Family
 
+### [Takenoko](https://boardgamegeek.com/boardgame/70919/takenoko)
+
+> Takenoko: A long time ago at the Japanese Imperial court, the Chinese Emperor offered a giant panda bear as a symbol of peace to the Japanese Emperor. Since then, the Japanese Emperor has entrusted his court members (the players) with the difficult task of caring for the animal by tending to his bamboo garden.
+>
+> In Takenoko, the players will cultivate land plots, irrigate them, and grow one of the three species of bamboo (Green, Yellow, and Pink) with the help of the Imperial gardener to maintain this bamboo garden. They will have to bear with the immoderate hunger of this sacred animal for the juicy and tender bamboo. The player who manages his land plots best, growing the most bamboo while feeding the delicate appetite of the panda, will win the game. 
+
+
+![Takenoko image](https://cf.geekdo-images.com/uvz-5V6A2R6dp2oWIXmj_g__itemrep/img/fT5tXhYc0kc5ur8NDdnJHj_GOSw=/fit-in/246x300/filters:strip_icc()/pic1912529.jpg)
+
+| Players | Min. Age | Time   |
+| ------: | -------: | -----: |
+|   2 - 4 |       8+ | 45m |
+
 ### [Shadows of Brimstone: Swamps of Death](https://boardgamegeek.com/boardgame/150997/shadows-of-brimstone-swamps-of-death)
 
 > Shadows of Brimstone: Swamps of Death is a fast-paced, fully cooperative, dungeon-crawl board game set in the Old West, with a heavy dose of unspeakable horror! Players create characters, taking on the role of a classic Western Hero Archetype, such as the Law Man, Gunslinger, or Saloon Girl. Forming an adventuring posse, the Heroes venture down into the dark mines, overrun with all manner of ancient demons and foul creatures from another world. With tactical gameplay, lots of dice, and a robust card-driven exploration system, no two games are ever the same as the heroes explore the mines finding new enemies to fight, new loot to collect, and new dangers to overcome. 
@@ -425,7 +438,7 @@
 | ------: | -------: | -----: |
 |   2 - 4 |        10 | 30-60m |
 
-### [The Quacks of Quedlinburg](https://boardgamegeek.com/boardgame/244521/the-quacks-of-quedlinburg)
+### [The Quacks of Quedlinburg](https://boardgamegeek.com/boardgame/244521/quacks)
 
 > In The Quacks of Quedlinburg, players are charlatans — or quack doctors — each making their own secret brew by adding ingredients one at a time. Take care with what you add, though, for a pinch too much of this or that will spoil the whole mixture!
 > 
@@ -810,7 +823,7 @@
 | ------: | -------: | -----: |
 |       2 |        9 | 30-60m |
 
-### [Cthulhu Wars](https://petersengames.com/cthulhu-wars/)
+### [Cthulhu Wars](https://shop.petersengames.com/products/cthulhu-wars-o4-edition)
 
 > Cthulhu Wars is a fast-moving strategy game about the end of the world. You take the part of various monstrous aliens seeking to dominate the world. You can play as Great Cthulhu himself, or you can take charge of other factions, such as the slithering hordes of the Crawling Chaos, or the insane minions of the Yellow Sign.
 
@@ -2529,7 +2542,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 > Living Forest is a 2021 board game designed by Aske Christiansen.Players act as Spirits of Nature to defend trees from being burnt by Onibi. Each turn is split into three phases, the guardian animal phase, the action phase, and attacks by Onibi. In the guardian phase, players draw guardian animal cards to form help lines using a push-your-luck mechanism.The action phase is split into actions that players may perform depending on the symbols on their help line, including gaining fragment tiles, attracting guardian animals, extinguishing a fire, moving on the Circle of Spirits board, or placing a protective tree. However, the strengths of the actions vary depending on symbols on guardian animal cards. For example, players may only extinguish fires for which they have fire symbols. After the action phase, the players have to take penalty cards to their own discard pile, a tree is attacked, and guardian animals are altered. Once a player reaches one of the game thresholds, including planting 12 trees, extinguishing 12 fires or gaining 12 flower symbols, the player ending the game wins.
 
-![Living Forest](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPsHzWlhZvgpR5MB4NhKMACKevOsMif4fALE1Z2ldv7qF2sNHkAITMnq6WMkepW_7btvQ&usqp=CAU)
+![Living Forest](https://cf.geekdo-images.com/fPhdfZX9UTLr4-SVgK0zoQ__itemrep/img/GkBRKg9Bx3YA5cciuNivpAul7V0=/fit-in/246x300/filters:strip_icc()/pic5899025.jpg)
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
@@ -2807,7 +2820,7 @@ Superfight is a game where you argue with your friends over ridiculous fights. T
 
 > "Kill Doctor Lucky" is a unique board game where players compete to murder Doctor Lucky, the mansion's owner. Players move through rooms, collect weapon cards, and attempt to eliminate Doctor Lucky while bluffing opponents. The game combines strategy, humor, and a reversed murder-mystery theme for a fun experience. "Kill Doctor Lucky" stands out as a lighthearted and entertaining board game that offers a unique twist on the traditional murder-mystery theme. Players enter a world of colorful rooms, dangerous weapons, and humorous strategies as they vie to commit the murder of Doctor Lucky. This game encourages creative thinking, clever moves, and comical bluffing, making it a delightful choice for board game enthusiasts seeking a humorous and engaging gaming experience.
 
-![Kill Doctor Lucky](https://boardgaming.com/wp-content/uploads/2011/12/killdoctorlucky-title1.jpg)
+![Kill Doctor Lucky](https://cf.geekdo-images.com/HzSvdAtAiktVmdTfDEIayA__itemrep/img/rkpchyBfTrCdFbG9SiPRHOGGXHA=/fit-in/246x300/filters:strip_icc()/pic2923257.jpg)
 
 | Players | Min. Age | Time   |
 | ------: | -------: | -----: |
