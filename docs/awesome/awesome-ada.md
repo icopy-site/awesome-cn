@@ -173,10 +173,11 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Text Modes
 - [gnu-emacs-ada-mode](https://www.nongnu.org/ada-mode/) - Gnu Emacs major-mode for editing Ada sources.
-- [vim-ada-bundle](https://github.com/thindil/Ada-Bundle) - Maintained Ada Bundle : Complete Ada-Mode for Vim/NeoVim.
+- [vim-ada-bundle](https://github.com/thindil/Ada-Bundle) - Maintained Ada Bundle : Complete Ada-Mode for Vim/Neovim.
 - [ada-tmbundle](https://github.com/textmate/ada.tmbundle) - TextMate support for Ada.
 - [bbedit-ada-module](https://www.barebones.com/support/bbedit/plugin_library.html) - BBEdit support for Ada.
 - [ob-ada-spark](https://github.com/rocher/ob-ada-spark/) - Ada/SPARK support for org-babel : Evaluate source code blocks with Gnu Emacs and org files.
+- [doom-ada](https://github.com/tomekw/doom-ada) - Doom Emacs Ada language module with syntax highlighting, LSP and Alire support.
 
 ### VSCode Extensions
 - [adacore-ada](https://marketplace.visualstudio.com/items?itemName=AdaCore.ada) - Language Support for Ada. It includes [Language Server for Ada][ada-language-server].
@@ -206,7 +207,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [avr-ada](https://sourceforge.net/projects/avr-ada) - GNAT for 8-bit AVR microcontrollers.
 - [ada-runtime](https://github.com/Componolit/ada-runtime) - A downsized Ada runtime which can be adapted to different platforms.
 - [cortex-gnat-rts](https://github.com/simonjwright/cortex-gnat-rts) - This package includes GNAT Ada Run Time Systems (RTSs) based on FreeRTOS and targeted at boards with Cortex-M0, M3, -M4, -M4F MCUs.
-- [adawebpack](https://github.com/godunko/adawebpack) - GNAT RTL for WASM and bindings for Web API.
+- [adawebpack](https://github.com/godunko/adawebpack) - GNAT RTL for WebAssembly and bindings for Web API.
 
 [ada-runtime]: https://github.com/Componolit/ada-runtime
 [adawebpack]: https://github.com/godunko/adawebpack
@@ -288,12 +289,14 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [ada-doom-3](https://github.com/AdaDoom3/AdaDoom3) - Id Software's Id-tech-4-BFG in the Ada programming language.
 
 ### Database
-- [ada-ado](https://github.com/stcarrez/ada-ado) - Ada Database Objects is an Ada05 library that provides object relational mapping to access a database in Ada05. The library supports Postgresql, MySQL, SQLite as databases. Most of the concepts developped for ADO come from the Java Hibernate ORM.
+- [ada-ado](https://github.com/stcarrez/ada-ado) - Ada Database Objects is an Ada05 library that provides object relational mapping to access a database in Ada05. The library supports PostgreSQL, MySQL, SQLite as databases. Most of the concepts developped for ADO come from the Java Hibernate ORM.
 - [ada-base](https://github.com/jrmarino/AdaBase) - Thick database bindings to MySQL, PostgreSQL and SQLite for Ada.
 - [apq-base](https://github.com/ada-apq/apq/) - APQ is a database interface library written in Ada95.
 
 ### Web
+<!--lint disable awesome-spell-check-->
 - [aws](https://github.com/AdaCore/aws) - AWS is a complete framework to develop Web based applications in Ada.
+<!--lint enable awesome-list-item-->
 - [awa](https://github.com/stcarrez/ada-awa) - Ada Web Application is a framework to build a Web Application in Ada 2012. The framework provides several ready to use and extendable modules that are common to many web application. This includes the login, authentication, users, permissions, managing comments, tags, votes, documents, images.
     - [dynamo](https://github.com/stcarrez/dynamo) - Code generator used to generate an Ada Web Application or database mappings from hibernate-like XML description, YAML doctrine model or UML models.
     - [ada-wiki](https://github.com/stcarrez/ada-wiki) - Ada Wiki is a small library that provides a Wiki engine.
@@ -394,7 +397,9 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [paraffin](https://sourceforge.net/projects/paraffin/) - A suite of Ada 2012 generics to facilitate iterative and recursive parallelism for multicore systems.
 - [deepend](https://sourceforge.net/projects/deepend/) - Deepend is a storage pool with subpool capabilities for Ada 2012, Ada 2005, and Ada 95.
 - [charles](https://web.archive.org/web/20161207211935/https://home.earthlink.net/~matthewjheaney/charles/) - Charles is an Ada 95 container library, precursor to Ada 2005+ standard containers.
+<!--lint disable awesome-spell-check-->
 - [simple-blockchain](https://github.com/tomekw/simple_blockchain) - Simple blockchain in Ada.
+<!--lint enable awesome-spell-check-->
 - [adagio](https://github.com/mosteo/adagio) - Gnutella2 (G2) network server leaf.
 - [agpl](https://github.com/mosteo/agpl) - Ada General Purpose Library (Miscellaneous utilities, with a robotic flavor).
 - [az3](https://github.com/Componolit/AZ3) - Ada binding for Z3.
@@ -499,7 +504,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 
 ### Graphics and Multimedia
 - [opengl-ada](https://github.com/flyx/OpenGLAda) - Thick Ada binding for OpenGL and GLFW.
-- [adagl](https://github.com/godunko/adagl) - Multiplatform Ada/OpenGL bindings (ported to native/OpenGL, A2JS/WebGL and WASM/WebGL).
+- [adagl](https://github.com/godunko/adagl) - Multiplatform Ada/OpenGL bindings (ported to native/OpenGL, A2JS/WebGL and WebAssembly/WebGL).
 - [sdlada](https://github.com/Lucretia/sdlada) - Ada 2012 bindings to SDL 2.
 - [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) - Ada bindings to NanoVG.
 - [free-type-ada](https://github.com/flyx/FreeTypeAda) - FreeType binding for Ada 2005.
@@ -525,8 +530,9 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [oto](https://github.com/darkestkhan/oto) - Ada binding to OpenAL which tries to mimic original API while using Ada types.
 - [coreland-openal-ada](https://github.com/io7m/coreland-openal-ada) - Ada binding to OpenAL.
 - [ada-synthetizer](https://github.com/frett27/Ada-Synthetizer) - Sound Synthetizer Library implemented in Ada.
+<!--lint disable awesome-spell-check-->
 - [scala](https://www.huygens-fokker.org/scala) - Scala is a powerful software tool for experimentation with musical tunings, such as just intonation scales, equal and historical temperaments, microtonal and macrotonal scales, and non-Western scales.
-- [portable-openal-sound](https://github.com/fastrgv/portable-openal-sound) - A linux-sound-playing package for Ada apps that can asynchronously start and stop music loops, as well as initiate transient sounds.
+<!--lint enable awesome-list-item-->- [portable-openal-sound](https://github.com/fastrgv/portable-openal-sound) - A linux-sound-playing package for Ada apps that can asynchronously start and stop music loops, as well as initiate transient sounds.
 - [adaogg](https://phasercat.com/adaogg/) - Complete thin interface layer that brings the Ogg, Vorbis, and Theora libraries to the Ada 2012 programming language.
 
 ### Localization
