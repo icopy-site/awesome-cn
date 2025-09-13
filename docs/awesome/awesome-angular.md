@@ -892,6 +892,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [shallow-render](https://github.com/getsaf/shallow-render) - Angular testing made easy with shallow rendering and easy mocking.
 * [@storybookjs/testing-angular](https://github.com/storybookjs/testing-angular) - Testing utilities that allow you to reuse your stories in your unit tests.
 * [ngx-testbox](https://github.com/kirill-kolomin/ngx-testbox) - A comprehensive testing utility library for Angular applications that simplifies test writing and improves test reliability. You will find this library useful for unit, integration, and e2e testing.
+* [ng-automocks](https://github.com/MillerSvt/ng-automocks) - It simplifies Angular testing by automatically generating mock components, directives, pipes, modules, and services using Jest's module mocking, eliminating the need for manual stubbing or complex workarounds.
+* [jest-angular-test-verifier](https://github.com/Neizan93/jest-angular-test-verifier) - Jest reporter that verifies Angular components, services, directives, and other file types have matching test files.
 
 ## Site Templates
 
@@ -1606,6 +1608,7 @@ to simplify usage and allow quick customization.
 * [ngx-pipe-lib](https://github.com/mofirojean/ngx-pipe-lib) - Common Angular pipe examples for your day to day tasks.
 * [memoize-pipe](https://github.com/ngx-rock/memoize-pipe) - A universal pipe for memoizing computations in Angular templates.
 * [ngx-number-to-words](https://www.npmjs.com/package/ngx-number-to-words) - An Angular library that provides a simple and effective pipe to convert numbers into their respective word representations. This is particularly useful for applications that need to display numbers in words, such as invoices, reports, or financial applications.
+* [ngx-highlight-text](https://github.com/ultrasonicsoft/ngx-highlight-text) - Angular pipe that highlights a selected word in the HTML markup.
 
 ### Printing
 
@@ -1978,6 +1981,7 @@ for the creation of web applications developed with Angular.
 * [gojs-angular](https://github.com/NorthwoodsSoftware/gojs-angular) - A set of Angular components to manage [GoJS](https://gojs.net/latest/index.html) Diagrams, Palettes, and Overviews.
 * [lyne-angular](https://github.com/sbb-design-systems/lyne-angular) - Angular wrapper for the [Lyne Web Components](https://github.com/sbb-design-systems/lyne-components).
 * [@interopio/ng](https://www.npmjs.com/package/@interopio/ng) - This [IO Connect](https://interop.io/) Angular wrapper aims to facilitate Angular developers in initializing the IO Connect JavaScript libraries and using IO Connect functionalities in their projects.
+* [ng-elementum](https://github.com/MillerSvt/ng-elementum) - A modern fork of `@angular/elements` that enhances the integration of Angular components with the Web Components standard.
 * [ngx-chessground](https://github.com/topce/ngx-chessground) - Angular wrapper for [chessground](https://github.com/ornicar/chessground).
 * [ngx-grapesjs](https://github.com/Developer-Plexscape/ngx-grapesjs) - Angular wrapper library for [GrapesJS](https://grapesjs.com).
 * [ngx-three](https://github.com/demike/ngx-three) - Use [Three.js](https://threejs.org) with your Angular project in a declarative way.
