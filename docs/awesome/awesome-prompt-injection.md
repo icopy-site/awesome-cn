@@ -15,6 +15,7 @@ The severity of a prompt injection attack can vary, influenced by factors like t
 
 ## Articles and Blog posts
 
+- [Design Patterns for Securing LLM Agents against Prompt Injections](https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/) - Overview of various strategies to mitigate the risk of prompt injection
 - [Prompt injection: What's the worst that can happen?](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/) - General overview of Prompt Injection attacks, part of a series.
 - [ChatGPT Plugins: Data Exfiltration via Images & Cross Plugin Request Forgery](https://embracethered.com/blog/posts/2023/chatgpt-webpilot-data-exfil-via-markdown-injection/) - This post shows how a malicious website can take control of a ChatGPT chat session and exfiltrate the history of the conversation.
 - [Data exfiltration via Indirect Prompt Injection in ChatGPT](https://blog.fondu.ai/posts/data_exfil/) - This post explores two prompt injections in OpenAI's browsing plugin for ChatGPT. These techniques exploit the input-dependent nature of AI conversational models, allowing an attacker to exfiltrate data through several prompt injection methods, posing significant privacy and security risks.
