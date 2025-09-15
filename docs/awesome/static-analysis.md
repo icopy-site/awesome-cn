@@ -1122,7 +1122,7 @@ Kani verifies:
 
 - [RustViz](https://github.com/rustviz/rustviz) — RustViz is a tool that generates visualizations  from simple Rust programs to assist users in better  understanding the Rust Lifetime and Borrowing mechanism. It generates SVG files with graphical indicators that integrate  with mdbook to render visualizations of data-flow in Rust programs.
 
-- [warnalyzer](https://github.com/est31/warnalyzer) — Show unused code from multi-crate Rust projects
+- **warnalyzer** :warning: — Show unused code from multi-crate Rust projects
 
 
 <a name="sql" />

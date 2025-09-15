@@ -31,74 +31,113 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - Unless your game requires complex physics interactions, it's generally advised to avoid GameMaker's built-in physics system.
 - Schedule routine backups for projects. If you are dealing with larger media files in your repo, try [Git LFS](https://git-lfs.github.com/).
 
-## Utilities
+## Data Manipulation
 
-- [gm-core](https://github.com/gm-core) - Foundational utility suite and a great starting point for new GameMaker projects. Comes with quality of life methods, networking tools, testing framework, delta timing, and more.
-- [FAST](https://github.com/Hyomoto/FAST) - Flexible Assistant Toolkit. Similar to gm-core but comes with input and resolution handling.
-- [Stitch](https://www.npmjs.com/package/@bscotch/stitch) - Pipeline Development Kit. Includes cross-project imports, batch-creating/updating sprites and sounds, texture page management, and more. Tested on Windows only.
-- [DDDEditor](https://github.com/DragoniteSpam/DDDEditorGMS2) - General purpose game editor.
-- [handytools](https://github.com/JujuAdams/handytools/) - A collection of Juju's libraries in one convenient project.
-- [GameMaker Scaffolding](https://github.com/babaganosch/GameMakerScaffolding) - Another cool all-encompassing template with a focus on building low-res, tile-based games.
+This includes data structures and file formats that do not fit into a more specific category.
+
+- [GML-OOP](https://github.com/Mtax-Development/GML-OOP) - A constructor library for operating the primary functionalities of GameMaker.
+- [GML-Classes](https://github.com/Nikko-the-cat/GML-Classes) - Another project that adds OOP functionality to GameMaker.
+- [Destructors](https://github.com/DatZach/Destructors) - Allows you to use ds_* types such as lists and maps inside of structs.
+- [SNAP](https://github.com/JujuAdams/SNAP) - Easy data format saving and loading. Please note that newer versions of GameMaker contain `json_parse` and `json_stringify`. However, if you are converting csv, ini, xml, etc, you may find this very useful.
+- [LWO](https://github.com/tabularelf/lwo) - Lightweight objects using structs.
+- [Lock And Key](https://github.com/AlubJ/Lock-And-Key) - String and file encryption.
+- [Map](https://github.com/GameMakerDiscord/Map.gml) - Hash table implementations.
+- [Matrices](https://github.com/JujuAdams/matrices) - A collection of matrix handling scripts.
+- [gm-stream](https://github.com/daikon-games/gm-stream) - Data structure manipulation.
+- [Promises](https://github.com/YAL-GameMaker/Promise.gml) - An adaptation of JavaScript Promises.
+- [ForEach](https://github.com/KeeVeeGames/foreach.gml) - Adds a foreach implementation for arrays, ds_lists, ds_maps, ds_stacks, ds_queues, ds_priorities and structs.
+- [DeepCopy](https://github.com/KeeVeeGames/DeepCopy.gml) - Deep clone class instances / constructed structs, anonymous structs and arrays nested in any order!
+- [Cottonwool](https://github.com/JujuAdams/Cottonwool) - Safe surfaces without memory leaks.
+- [BSONGML](https://github.com/LAGameStudio/BSONGML) - Save and load GML structured data in binary files, skirting memory and performance concerns associated with loading JSON as a string.
+- [Binder](https://github.com/Homunculus84/Binder) - A binary search library for efficient lookups on large datasets.
+- [Airkiver](https://github.com/AlubJ/Airkiver) - Game file archive tool.
+- [OKColor](https://github.com/KeeVeeGames/OKColor.gml) - An okay color manager for implementing OKLab/OKLCH colors.
+- [Exception](https://github.com/KeeVeeGames/Exception.gml) - A base class for custom exceptions.
+- [ArrayList](https://github.com/KeeVeeGames/ArrayList.gml) - The most complete list class. Garbage collected, fast sort function, [] accessor and referencing as an array.
+- [Bit Buffers](https://yellowafterlife.itch.io/gamemaker-bit-buffers) - Read and write buffers with per-bit granularity.
+- [sprite_add_gif](https://yellowafterlife.itch.io/gamemaker-sprite-add-gif) - Dynamically load animated GIFs as sprites.
+
+## Native Extensions
+
+These work on specific platform(s) and enable the games to do something that would be impossible, impractical, or inefficient to do in GML alone. Native extensions related to a specific task (e.g. input handling) can be found in those sections.
+
+- [zlib functions](https://yellowafterlife.itch.io/gamemaker-zlib) - Simple compression/decompression functions.
+- [Window Taskbar](https://yellowafterlife.itch.io/gamemaker-window-taskbar) - Windows only. Flash the game window border and/or its taskbar button.
+- [GMSDLL](https://github.com/YAL-GameMaker/GMSDLL) - A template project for building DLLs for GameMaker.
+- [Extension Collection](https://samuel-venable.itch.io/gamemaker-extension-collection) - A suite of various extensions.
+- [gameframe](https://github.com/YAL-GameMaker/gameframe) - Custom window caption and border for Windows.
+- [GMD3D11](https://github.com/blueburncz/GMD3D11) - A DLL for interfacing with Windows Direct3D.
+- [GM Sysinfo](https://github.com/SpikeHD/gm-sysinfo) - Cross-platform extension for getting system information and resource usage.
+- [Video Player Extension](https://forum.yoyogames.com/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/) - Play videos. However, the latest version of GMS has video support.
+- [GMESCAPI](https://marketplace.yoyogames.com/assets/9529/gmescapi) - Webcam capture.
+- [Rousr Release](https://gitlab.com/rousr-release/) - Unmaintained projects from the Rousr team (in case anyone asks where OutsideTheBox/Dissonance went).
+- [window_shape](https://yellowafterlife.itch.io/gamemaker-window-shape) - Custom-shaped windows on Windows. 💸
+- [Windows' windows](https://yellowafterlife.itch.io/gamemaker-winwin) - Multiple windows on Windows. 💸
+- [winMenu](https://yellowafterlife.itch.io/gamemaker-winmenu) - Native menus on Windows. 💸
+- [window_set_icon](https://yellowafterlife.itch.io/window-set-icon) - Change window and/or taskbar icons on Windows.
+- [file_dropper](https://yellowafterlife.itch.io/gamemaker-file-dropper) - Accept drag-and-dropping files onto a game window on Windows.
+- [file_dragger](https://github.com/YAL-GameMaker/file_dragger) - Drag-and-drop files *out* of the game window on Windows.
+- [Window Commands](https://yellowafterlife.itch.io/gamemaker-window-commands) - Dispatch/intercept window controls like Minimize (and other window-related functions).
+- [wasm-bridge](https://github.com/Sidorakh/wasm-bridge) - A way to use JS extensions in GX/WASM games.
+- [Web Dynamic Textures](https://yellowafterlife.itch.io/gamemaker-web-dyn-textures) - A dynamic texture page loading system for HTML5.
+- [GMWinBackdrop](https://topherlicious.itch.io/gmwinbackdrop) - Windows 11 backdrop materials.
+
+## Timing
+
+Custom timers, timelines, and task scheduling.
+
 - [Iota](https://github.com/JujuAdams/iota) - Lightweight timestep library.
 - [Stopwatch](https://github.com/Lojemiru/Stopwatch) - GameMaker alarm replacement.
 - [wTimer](https://mors-games.itch.io/wtimer) - Robust alternative for alarms.
 - [FrogAlarm](https://github.com/colmeye/FrogAlarms) - Another easy alternative to GameMaker alarms.
 - [fuwafuwa](https://github.com/kemonologic/fuwafuwa) - Easy-to-use timer system.
 - [Timer](https://github.com/nommiin/Timers) - Timer methods based on setTimeout and setInterval from JS.
+- [GMTimeLine](https://github.com/TimVN/GMTimeLine) - A pure code alternative to GameMaker timelines.
+- [Agenda](https://github.com/benal20/Agenda.gml) - Schedule and delay the execution of callbacks.
+
+## Utilities
+
+- [gm-core](https://github.com/gm-core) - Foundational utility suite and a great starting point for new GameMaker projects. Comes with quality of life methods, networking tools, testing framework, delta timing, and more.
+- [FAST](https://github.com/Hyomoto/FAST) - Flexible Assistant Toolkit. Similar to gm-core but comes with input and resolution handling.
+- [DDDEditor](https://github.com/DragoniteSpam/DDDEditorGMS2) - General purpose game editor.
+- [handytools](https://github.com/JujuAdams/handytools/) - A collection of Juju's libraries in one convenient project.
+- [GameMaker Scaffolding](https://github.com/babaganosch/GameMakerScaffolding) - Another cool all-encompassing template with a focus on building low-res, tile-based games.
 - [Broadcast](https://github.com/JulianDicken/Broadcast) - Event handling library.
 - [Polarca](https://github.com/VitorEstevam/polarca) - Interpolation functions.
 - [Twerp](https://pixelatedpope.itch.io/twerp) - Easing function similar to lerp().
 - [Coroutines](https://github.com/JujuAdams/Coroutines) - Asynchronous functions for GameMaker.
-- [GML-OOP](https://github.com/Mtax-Development/GML-OOP) - A constructor library for operating the primary functionalities of GameMaker.
-- [GML-Classes](https://github.com/Nikko-the-cat/GML-Classes) - Another project that adds OOP functionality to GameMaker.
-- [Map](https://github.com/GameMakerDiscord/Map.gml) - Hash table implementations.
-- [Matrices](https://github.com/JujuAdams/matrices) - A collection of matrix handling scripts.
-- [gm-stream](https://github.com/daikon-games/gm-stream) - Data structure manipulation.
-- [Promises](https://github.com/YAL-GameMaker/Promise.gml) - An adaptation of JavaScript Promises.
-- [Destructors](https://github.com/DatZach/Destructors) - Allows you to use ds_* types such as lists and maps inside of structs.
-- [SNAP](https://github.com/JujuAdams/SNAP) - Easy data format saving and loading. Please note that newer versions of GameMaker contain `json_parse` and `json_stringify`. However, if you are converting csv, ini, xml, etc, you may find this very useful.
 - [Dynamo](https://github.com/JujuAdams/Dynamo) - Dynamic data loader.
-- [LWO](https://github.com/tabularelf/lwo) - Lightweight objects using structs.
 - [Gumshoe](https://github.com/JujuAdams/Gumshoe) - Simple deep file search function.
-- [Lock And Key](https://github.com/AlubJ/Lock-And-Key) - String and file encryption.
 - [Mathematical Scripts](https://github.com/adam-rumpf/game-maker-scripts) - A collection of math scripts.
 - [Seedpod](https://github.com/daikon-games/gm-seedpod) - A collection of scripts to improve the GML programming experience.
 - [Trixscript](https://trixelized.itch.io/trixscript) - Juices up your game with useful functions.
 - [CoreExtension](https://github.com/blueburncz/CoreExtension) - A collection of CC0 programming libraries. (archived)
 - [Voxeledphoton's FreeGMScripts](https://github.com/vphoton/FreeGMScripts) - Additional GML helper functions. Some may be out of date with 2.3+ syntax.
-- [ForEach](https://github.com/KeeVeeGames/foreach.gml) - Adds a foreach implementation for arrays, ds_lists, ds_maps, ds_stacks, ds_queues, ds_priorities and structs.
-- [DeepCopy](https://github.com/KeeVeeGames/DeepCopy.gml) - Deep clone class instances / constructed structs, anonymous structs and arrays nested in any order!
 - [Motion Scripts](https://avis.itch.io/motion-scripts) - Provides replacement methods for built-in motion variables.
-- [Cottonwool](https://github.com/JujuAdams/Cottonwool) - Safe surfaces without memory leaks.
 - [Canvas](https://github.com/tabularelf/Canvas) - Another great solution for surface management.
-- [zlib functions](https://yellowafterlife.itch.io/gamemaker-zlib) - Simple compression/decompression functions.
-- [Window Taskbar](https://yellowafterlife.itch.io/gamemaker-window-taskbar) - Windows only. Flash the game window border and/or its taskbar button.
-- [GMSDLL](https://github.com/YAL-GameMaker/GMSDLL) - A template project for building DLLs for GameMaker.
-- [Extension Collection](https://samuel-venable.itch.io/gamemaker-extension-collection) - A suite of various extensions.
 - [GMLodash](https://github.com/DatZach/GMLodash) - Functional programming in GML.
 - [Autoframer](https://github.com/mstop4/auto-framer) - Automatically handles resizing the game view across different display and window sizes.
-- [gameframe](https://github.com/YAL-GameMaker/gameframe) - Custom window caption and border for Windows.
 - [GML+](https://xgasoft.itch.io/gmlp) - A script collection with a goal to "fill the gaps" in GML. 💸
 - [GMLive](https://yellowafterlife.itch.io/gamemaker-live) - Livecoding / interactive programming. 💸
+- [gml-highscorer](https://github.com/Grisgram/gml-highscorer) - Highscore and trophy system.
+- [SSave](https://github.com/stoozey/SSave) - Simple file saving system.
+- [Catspeak](https://github.com/katsaii/catspeak-lang) - Cross-platform programming language for modding support.
+- [GMBenchmark](https://github.com/DragoniteSpam/GMBenchmark) - A tool to benchmark GML code.
+- [GML-Multiprocessing](https://github.com/tinkerer-red/GML-Multiprocessing) - A proof of concept for multiprocessing.
+
+## Tools
+
+Things that work with project files or GameMaker itself rather than being something that's used in-game.
+
+- [Stitch](https://www.npmjs.com/package/@bscotch/stitch) - Pipeline Development Kit. Includes cross-project imports, batch-creating/updating sprites and sounds, texture page management, a VS Code integration, and more.
 - [GMEdit](https://github.com/YellowAfterlife/GMEdit) - Code editor to use in conjunction with GameMaker.
 - [YYP Maker](https://sahaun.itch.io/yyp-maker) - Makes `.yyp` files for you.
 - [Rubber](https://github.com/GameMakerDiscord/Rubber) - Compile GameMaker projects via the command line. Here's a [great guide](https://www.patreon.com/posts/how-to-build-36556955) on how to use it.
-- [gml-highscorer](https://github.com/Grisgram/gml-highscorer) - Highscore and trophy system.
-- [SSave](https://github.com/stoozey/SSave) - Simple file saving system.
-- [GMD3D11](https://github.com/blueburncz/GMD3D11) - A DLL for interfacing with Windows Direct3D.
-- [GMTimeLine](https://github.com/TimVN/GMTimeLine) - A pure code alternative to GameMaker timelines.
-- [Catspeak](https://github.com/katsaii/catspeak-lang) - Cross-platform programming language for modding support.
-- [GMBenchmark](https://github.com/DragoniteSpam/GMBenchmark) - A tool to benchmark GML code.
-- [Agenda](https://github.com/benal20/Agenda.gml) - Schedule and delay the execution of callbacks.
 - [GMSnip](https://manta-ray.itch.io/gmsnip) - Experimental tool to define unlimited code snippets in the IDE.
-- [Airkiver](https://github.com/AlubJ/Airkiver) - Game file archive tool.
-- [OKColor](https://github.com/KeeVeeGames/OKColor.gml) - An okay color manager for implementing OKLab/OKLCH colors.
-- [Exception](https://github.com/KeeVeeGames/Exception.gml) - A base class for custom exceptions.
-- [ArrayList](https://github.com/KeeVeeGames/ArrayList.gml) - The most complete list class. Garbage collected, fast sort function, [] accessor and referencing as an array.
-- [GM Sysinfo](https://github.com/SpikeHD/gm-sysinfo) - Cross-platform extension for getting system information and resource usage.
-- [BSONGML](https://github.com/LAGameStudio/BSONGML) - Save and load GML structured data in binary files, skirting memory and performance concerns associated with loading JSON as a string.
-- [GML-Multiprocessing](https://github.com/tinkerer-red/GML-Multiprocessing) - A proof of concept for multiprocessing.
-- [Binder](https://github.com/Homunculus84/Binder) - A binary search library for efficient lookups on large datasets.
+- [vim-GML](https://github.com/JafarDakhan/vim-gml) - High quality Vim syntax highlighting for GameMaker.
+- [sfGML](https://yellowafterlife.itch.io/gamemaker-haxe) - Generate GML code from strongly-typed Haxe.
+- [Win7 patcher for GM2024.11+](https://yellowafterlife.itch.io/gm2024-win7-patcher) - Makes games made in new GM versions run on Windows 7.
+- [RerouteAudio](https://yellowafterlife.itch.io/gamemaker-reroute-audio) - Organizes audio files compiled games into subdirectories. 💸
 
 ## Debugging
 
@@ -113,6 +152,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Duck](https://github.com/imlazyeye/duck) - A fast GML analyzer to enforce code styling and detect errors.
 - [Gobo](https://github.com/Pizzaandy/Gobo/) - An opinionated code formatter for GML.
 - [Inspectron](https://github.com/shdwcat/Inspectron) - A fluent API for easily creating GameMaker debug views.
+- [GMPulse](https://topherlicious.itch.io/gmpulse) - A runtime inspector and control panel. 💸
 
 ## Input Handling
 
@@ -122,6 +162,8 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Good Vibes](https://github.com/mrdaneeyul/good-vibes) - Device vibration.
 - [Mouse Queue](https://github.com/YAL-GameMaker/window_mouse_queue) - Tracks the Windows mouse pointer with high precision.
 - [Native Cursors](https://yellowafterlife.itch.io/gamemaker-native-cursors) - System-level custom cursors. 💸
+- [Native Mouselock](https://yellowafterlife.itch.io/gamemaker-native-mouselock) - System-level mouse locking. 💸
+- [Raw Input](https://yellowafterlife.itch.io/gamemaker-raw-input) - Use multiple mice and keyboards. 💸
 
 ## User Interface
 
@@ -155,6 +197,8 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [GMLocalize](https://github.com/DragoniteSpam/GMLocalize2) - Not a full localization solution. Extracts text strings for localization from a GameMaker Studio 2 project and saves it to a JSON file.
 - [Small Pentapop Localization Tool](https://github.com/AntonBergaker/small_pp_localization_tool) - Similar export tool to GMLocalize but exports to a csv.
 - [gms2-mofile](https://github.com/pmarincak/gms2-mofile) - Mofile reader used for localization.
+- [cmnLoc](https://yellowafterlife.itch.io/gamemaker-cmn-loc) - Localization library with a text extractor, short syntax, and ICU/pluralization support. 💸
+- [MythLoco](https://mythloco.co.uk) - A localization system with a web-based strings editor.
 
 ## Physics
 
@@ -189,6 +233,14 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Vinyl](https://github.com/JujuAdams/Vinyl) - Live updating audio system.
 - [LineAudio](https://github.com/WangleLine/LineAudio) - Audio helper functions.
 - [Bard](https://github.com/gl326/bard-audio) - An engine for desiging and implementing good audio in GameMaker. Updated to make use of the more recent GameMaker audio effects.
+- [SynthEngine](https://topherlicious.itch.io/synthengine) - A fully-featured musical synthesizer for GameMaker.
+- [MusicTheoryLib](https://topherlicious.itch.io/musictheorylib) - Convenient music theory utilities for GameMaker.
+- [WaveForm](https://topherlicious.itch.io/waveform) - Render audio wave forms from audio buffers in GameMaker.
+- [WaveWrite](https://topherlicious.itch.io/wavewrite) - Read and write WAV files in GameMaker.
+- [GMMidi](https://topherlicious.itch.io/gmmidi) - Read and write MIDI files in GameMaker.
+- [EZAFX](https://topherlicious.itch.io/ezafx) - Instant preset audio effects for GameMaker.
+- [GMSync](https://topherlicious.itch.io/gmsync) - Perfectly sync game elements to the rhythm of your music.
+- [MicVol](https://topherlicious.itch.io/micvol) - Easily monitor microphone volume in real time in GameMaker. 💸
 
 ## Levels
 
@@ -262,6 +314,7 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [3D GameMaker Playlist](https://www.youtube.com/watch?v=ojfN--tdSNM&list=PL_hT--4HOvrcML9uqHe4fwBVTm650Vy3V) - DragoniteSpam. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [3D Collisions Playlist](https://www.youtube.com/watch?v=o7kjtTEMpeU&list=PL_hT--4HOvrf_VYo26LNl3zN5uwfuC3CC) - DragoniteSpam. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [3D Optimization Playlist](https://www.youtube.com/watch?v=knfAZbJJKNY&list=PL_hT--4HOvrf_CJSA7fVU1tkjGVv5Sq2t) - DragoniteSpam. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
+- [glTF parser](https://bitbucket.org/tijit/gltf-parser-for-gamemaker-lts/src/main/) - A model loader with support for animations.
 
 ## Sprite Stacking
 
@@ -330,8 +383,6 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 ## Useful Extras
 
 - [Animated Flag](https://github.com/Grisgram/gml-animated-flag) - Vertex-animated flag.
-- [Video Player Extension](https://forum.yoyogames.com/index.php?threads/video-player-for-windows-macos-and-ubuntu.77882/) - Play videos. However, the latest version of GMS has video support.
-- [GMESCAPI](https://marketplace.yoyogames.com/assets/9529/gmescapi) - Webcam capture.
 - [Danmaku Project](https://github.com/OmegaX1000/DanmakuProject) - Bullet hell engine.
 - [OrbinautFramework](https://github.com/TrianglyRU/OrbinautFramework) - Accurate framework to make classic Sonic games.
 - [Mouse Trail Effect](https://all-x.itch.io/gms2-mouse-trail-effect) - Shows how to trace a line with primitives to create a colorful trail.
@@ -352,8 +403,6 @@ What kind of games can you make in GameMaker? [Check out this list.](https://ste
 - [Game Resolution & Aspect Ratio Management](https://www.youtube.com/watch?v=_g1LQ6aIJFk&list=PLXkVsacazW2qvdnKNzgBLkUwlgi3FU-VO) - Pixelated Pope. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [Setting up a Virtual Machine for GameMaker](https://www.youtube.com/watch?v=cK5k1_zN4eM) - MicahTheManiac. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [Making Attacks Feel Good](https://www.youtube.com/watch?v=RWkMsD2WUz8) - Blobfish. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
-- [vim-GML](https://github.com/JafarDakhan/vim-gml) - High quality Vim syntax highlighting for GameMaker.
-- [Rousr Release](https://gitlab.com/rousr-release/) - Unmaintained projects from the Rousr team (in case anyone asks where OutsideTheBox/Dissonance went).
 - [Tome](https://github.com/chesrowe/Tome/) - Automatically generate documentation sites from GameMaker projects.
 - [Piano example](https://github.com/gmclan-org/piano_example) - Example of playing intrument notes by changing pitch, using only one audio file.
 - [Compatibility scripts](https://github.com/gmclan-org/compatibility-scripts) - Scripts that are used by GM when importing GM:S 1.4 projects, taken directly from runtime files.

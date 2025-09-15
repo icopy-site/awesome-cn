@@ -217,6 +217,7 @@
 - [DiffStudio](https://diffstudio.co) - Create digital twins of e-commerce products.
 - [Doly](https://www.animl.ai/) - Capture high-quality 3D photos of your products and embed them on Shopify in minutes.
 - [GSplat Share](https://gsplat.org/) – Share your splats with optional time-limited and password-protected links.
+- [Montreal Museum of Fine Arts](https://labs.dpt.co/article-3dgs.html) - Explore 6 rooms at the museum.
 - [Nikon Creates](https://www.creates.nikon.com/access/#3dgs) - Scans of Nikon's studio space in Tokyo.
 - [Old Main](https://www.ryanfellers.com/oldmain/) - The Public Library of Cincinnati's Grand Hall as it appeared in 1900.
 - [Prewatch](https://www.prewatch.io/) - Smart virtual scouting for better decisions.
@@ -242,9 +243,7 @@
 ## Blockchain/Crypto/NFT
 
 - [Aritelia](https://aritelia.io/) - Open world social MMO with sandbox building and collectable NFTs.
-- [Doge Temple](https://www.dogetemple.io/) - Online microverse devoted to Dogecoin.
 - [The Crypt](https://www.crypt.art/) - Gallery for rare art and collectibles.
-- [RareRooms](https://www.rarerooms.io/) - 3D virtual rooms for NFT collections.
 - [Somnium Space](https://somniumspace.com/parcel/) - Virtual Reality world built on the Ethereum blockchain.
 
 ## Contributing
