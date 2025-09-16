@@ -40,6 +40,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Ocelot](https://github.com/ThreeMammals/Ocelot) - .NET core API Gateway
 * [CommandQuery](https://github.com/hlaueriksson/CommandQuery) - Command Query Separation for 🌐ASP.NET Core ⚡AWS Lambda ⚡Azure Functions ⚡Google Cloud Functions 🌐ASP.NET Web API 2
 * [Population.NET](https://github.com/Authentic199/Population.NET) - A .NET library allows clients to specify the exact fields they need, reducing unnecessary data transfer by avoiding the retrieval of all fields by default.
+* [Wissance.WebApiTookit](https://github.com/Wissance/WebApiToolkit) - A set of libraries and classes that simplify building REST APIs and gRPC services, reducing the amount of code to be written with even one line of code for a fully functional REST controller.
 
 ## Application Frameworks
 
@@ -572,6 +573,7 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 * [ML.NET](https://github.com/dotnet/machinelearning) - Cross-platform open-source machine learning framework which makes machine learning accessible to .NET developers.
 * [F# Data](https://github.com/fsprojects/FSharp.Data) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
 * [SciSharp STACK](https://scisharp.github.io/SciSharp/) - A rich machine learning ecosystem for .NET created by porting the most popular Python libraries to C#.
+* [OpenGA.Net](https://github.com/asarnaout/OpenGeneticAlgorithm.NET) - Genetic algorithm .NET library for solving optimization problems, featuring extensible operators and adaptive strategy selection.
 
 ## Markdown Processors
 * [F# Formatting](https://fsprojects.github.io/FSharp.Formatting/) - Tools for documenting F# and C# projects.  The library contains extensible Markdown parser as a core component.
@@ -989,6 +991,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## Windows Services
 
+* [Servy](https://github.com/aelassas/servy) - A tool to turn any app into a native Windows service with powerful configuration and management options (a modern alternative to NSSM and WinSW).
 
 ## WPF
 

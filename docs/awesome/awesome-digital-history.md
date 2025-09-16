@@ -164,6 +164,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 - [Crafting Digital History](http://workbook.craftingdigitalhistory.ca/) - A Workbook for Methods and Readings in Digital History.
 - [Digital History Guide](http://chnm.gmu.edu/digitalhistory/) - Introduction to the web for historians, who wish to produce online historical work.
 - [Geospatial Historian](https://geospatialhistorian.wordpress.com/) - Open HGIS Lessons and Resources.
+- [Grundlagen, Methoden und Anwendungen der Digital History](https://dh-erfurt.github.io/digital-history/home.html) - Teaching and collaborative resources for digital history (University of Erfurt).
 - [HIST 7370](https://cblevins.github.io/f19-dig-hist/) - Online course for Methods and Readings in Digital History.
 - [History Toolkit](https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/) - History Toolkit for Students.
 - [Introduction to Digital History](https://wissen-ist-acht.github.io/digitalhistory.intro/) - This guide, created in the fall semester of 2022, accompanies the introductory courses in history at the University of Basel and is intended to provide a first insight into the field of digital history.

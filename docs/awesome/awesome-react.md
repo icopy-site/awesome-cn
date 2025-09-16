@@ -36,10 +36,9 @@ A collection of awesome things regarding the React ecosystem.
 
 #### React Component Libraries
 
-- [material-ui](https://github.com/mui/material-ui) - Ready-to-use foundational React components
-- [ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
-- [Radix](https://www.radix-ui.com/) - Unstyled, accessible components for building high‑quality design systems.
 - [shadcn-ui](https://github.com/shadcn-ui/ui) - Beautifully designed components built using Radix UI and Tailwind CSS
+- [ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
+- [material-ui](https://github.com/mui/material-ui) - Ready-to-use foundational React components
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - Component system for building SaaS products with speed
 - [mantine](https://github.com/mantinedev/mantine) - Fully featured React components library
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
@@ -47,6 +46,7 @@ A collection of awesome things regarding the React ecosystem.
 - [framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [react-email](https://github.com/resend/react-email) - Unstyled components for creating beautiful emails
+- [8bitcn-ui](https://github.com/TheOrcDev/8bitcn-ui) - A retro 8-bit themed React component library built on top of shadcn
 
 #### React State Management and Data Fetching
 
@@ -99,6 +99,7 @@ A collection of awesome things regarding the React ecosystem.
 - [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing
 - [react-testing-library](https://github.com/testing-library/react-testing-library) - Simple and complete React DOM testing utilities
 - [cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser
+- [playwright](https://github.com/microsoft/playwright) - A framework for Web Testing and Automation
 
 #### React Awesome Components
 
@@ -119,6 +120,7 @@ A collection of awesome things regarding the React ecosystem.
 - [kbar](https://github.com/timc1/kbar) - Fast, portable, and extensible cmd+k interface for your site
 - [tagify](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
 - [puck](https://github.com/measuredco/puck) - The visual editor for React
+- [json-edit-react](https://github.com/CarlosNZ/json-edit-react) - Highly configurable JSON/Object tree editor/viewer
 
 #### React Components Sandboxes
 
@@ -130,7 +132,7 @@ A collection of awesome things regarding the React ecosystem.
 #### React Forms
 
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) - React Hooks for form state management and validation
-- [react-jsonschema-form](https://github.com/mozilla-services/react-jsonschema-form) - A React component for building Web forms from JSON Schema
+- [react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema
 - [formily](https://github.com/alibaba/formily) - Alibaba Group Unified Form Solution
 - [tanstack-form](https://github.com/TanStack/form) - Headless, performant, and type-safe form state management
 
@@ -166,6 +168,7 @@ A collection of awesome things regarding the React ecosystem.
 
 - [formatjs](https://github.com/formatjs/formatjs) - Internationalize your web apps
 - [react-i18next](https://github.com/i18next/react-i18next) - Internationalization for React done right
+- [react-inltayer](https://github.com/aymericzip/intlayer) - Internationalization focused on maintenability for React 
 
 #### React Graphics and Animations
 
@@ -191,6 +194,7 @@ A collection of awesome things regarding the React ecosystem.
 - [overreacted](https://github.com/gaearon/overreacted.io) - Personal blog by Dan Abramov
 - [wave](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [readest](https://github.com/readest/readest) - A minimalistic, feature-rich and cross-platform eBook reader
+- [bookcars](https://github.com/aelassas/bookcars) - Car rental platform
 
 ### React Native
 
@@ -215,9 +219,10 @@ A collection of awesome things regarding the React ecosystem.
 
 - [realm-js](https://github.com/realm/realm-js) - A mobile database: an alternative to SQLite & key-value stores
 - [react-native-device-info](https://github.com/react-native-device-info/react-native-device-info) - Device Information for React Native iOS and Android
+- [react-native-maps](https://github.com/react-native-maps/react-native-maps) - React Native Mapview component
 
 ### Contribution
 
-This list began as a personal compilation of interesting things related to React. When it was initiated, React was still in beta, a special script was required to convert JSX to JS, and Flux had not yet been released. Today, React has become mainstream, with numerous developments taking place. Kindly refrain from using this list as an advertisement board or a space to promote your experiments. We focus on sharing entirely free resources here. Please feel free to propose updates for outdated projects and articles, as well as new contributions. Your input and suggestions are wholeheartedly♡ appreciated. (✿◠‿◠)
+This list began as a personal compilation of interesting things related to React. When it was initiated, React was still in beta, a special script was required to convert JSX to JS, and Flux (if you know what it was) had not yet been released. Today, React has become boring mainstream. Kindly refrain from using this list as an advertisement board or a space to promote your experiments. We focus on sharing entirely free resources here. Please feel free to propose updates for outdated projects and articles, as well as new contributions. I would prefer GitHub links, please. Your input and suggestions are wholeheartedly♡ appreciated. (✿◠‿◠)
 
 [![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
