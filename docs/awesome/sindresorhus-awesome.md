@@ -48,6 +48,9 @@
 				</div>
 			</a>
 			<b>Talk to code, stay in the Flow.</b>
+			<div>
+				<sup>Flow is built for devs who live in their tools. Speak and give more context, get better results.</sup>
+			</div>
 		</div>
 		<br>
 		<br>

@@ -639,6 +639,8 @@ processes. It has
   * [EQL5 on the Android store](https://play.google.com/store/apps/details?id=org.eql5.android.repl&pcampaignid=web_share)
 * [bodge-nuklear](https://github.com/borodust/bodge-nuklear) - Wrapper over the [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) immediate mode GUI library. [MIT][200].
 * [vk](https://github.com/JolifantoBambla/vk) -  Common Lisp/CFFI bindings for the Vulkan API. [MIT][200].
+  * see also [cl-vulkan](https://github.com/awolven/cl-vulkan) - supports Vulkan 1.0 and 1.2, including compute pipelines. Vulkan 1.1 and 1.3 are coming soon©. MIT.
+    * cl-vulkan currently supports SBCL and Clozure Common Lisp on Microsoft Windows, Linux and MacOS.
 
 Other utilities:
 
@@ -758,6 +760,7 @@ Changing the syntax
 For strings:
 
 * ⭐ [cl-interpol](https://github.com/edicl/cl-interpol/) - A set of reader modifications to allow string interpolation. [BSD][15].
+  * see also: [f-string](https://git.sr.ht/~dieggsy/f-string) for only string interpolation, with no dependencies. MIT.
 * [mstrings](https://git.sr.ht/~shunter/mstrings) -  a reader macro to provide visually appealing multiline blocks. An M-string trims leading whitespace, concatenates lines together, etc. [BSD_3Clause][15].
 * [pythonic-string-reader](https://github.com/smithzvk/pythonic-string-reader) - A simple and unobtrusive read table modification inspired by Python's three quote strings. [BSD_3Clause][15].
 * [cl-heredoc](https://github.com/outergod/cl-heredoc) - a ["heredocs"](https://github.com/outergod/cl-heredoc) dispatcher. [GPL3][2]. Allows to write: `#>eof>Write whatever (you) "want", no matter what characters, until the magic end sequence has been reached.eof`

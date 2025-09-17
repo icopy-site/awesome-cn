@@ -35,11 +35,35 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 ### Announcements
 
-#### 2025-09-12 - 💰💰💰 DONATIONS 💰💰💰
+<details open>
+<summary>View Announcements</summary>
 
-- We've got a few new resources this week, and I've made some good progress on the backlog.
+- <details open>
+  <summary>2025-09-12 - 💰💰💰 DONATIONS 💰💰💰</summary>
 
-- I've created a [DONATING](https://github.com/hesreallyhim/awesome-claude-code/blob/master/https://github.com/hesreallyhim/awesome-claude-code/blob/master/DONATING.md) page in case anyone want to support this repository. This is _not_ a GitHub sponsorship or a "Buy Me a Coffee" link - I'm trying something a little different. Hopefully it will work out. See the very bottom of the README for an overview, and check out the [DONATING](https://github.com/hesreallyhim/awesome-claude-code/blob/master/https://github.com/hesreallyhim/awesome-claude-code/blob/master/DONATING.md) page for details. **We get a lot of visitors here at Awesome Claude Code (currently about 100 new stars a day) - can we raise $100 for a good cause by the end of next week??** Let's see what this community can do! 🙏
+  - <details open>
+    <summary>New resources and backlog progress</summary>
+
+    - We've got a few new resources this week, and I've made some good progress on the backlog.
+
+    </details>
+
+  - <details open>
+    <summary>Support this repository - Help raise $100 for a good cause! 🙏</summary>
+
+    - I've created a [DONATING](https://github.com/hesreallyhim/awesome-claude-code/blob/master/DONATING.md) page in case anyone want to support this repository. This is _not_ a GitHub sponsorship or a "Buy Me a Coffee" link - I'm trying something a little different. Hopefully it will work out.
+      
+      See the very bottom of the README for an overview, and check out the [DONATING](https://github.com/hesreallyhim/awesome-claude-code/blob/master/DONATING.md) page for details.
+      
+      **We get a lot of visitors here at Awesome Claude Code (currently about 100 new stars a day) - can we raise $100 for a good cause by the end of next week??**
+      
+      Let's see what this community can do!
+
+    </details>
+
+  </details>
+
+</details>
 
 ## This Week's Additions ✨
 
@@ -67,30 +91,37 @@ A versatile configuration framework that enhances Claude Code with specialized c
 **$???** (Will be disclosed once a non-trivial amount has been raised.)
 
 
-▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Workflows & Knowledge Guides](#workflows--knowledge-guides-)  
-▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Tooling](#tooling-)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[IDE Integrations](#ide-integrations)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Usage Monitors](#usage-monitors)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Orchestrators](#orchestrators)  
-▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Statusline](#statusline-)  
-▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Hooks](#hooks-)  
-▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Slash-Commands](#slash-commands-)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Version Control & Git](#version-control--git)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Code Analysis & Testing](#code-analysis--testing)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Context Loading & Priming](#context-loading--priming)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Documentation & Changelogs](#documentation--changelogs)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CI / Deployment](#ci--deployment)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Project & Task Management](#project--task-management)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Miscellaneous](#miscellaneous)  
-▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[CLAUDE.md Files](#claudemd-files-)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Language-Specific](#language-specific)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Domain-Specific](#domain-specific)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▫&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Project Scaffolding & MCP](#project-scaffolding--mcp)  
-▪&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Official Documentation](#official-documentation-%EF%B8%8F)  
+<details open>
+<summary>Table of Contents</summary>
+
+
+- <details open>
+  <summary><a href="#tooling-">Tooling</a></summary>
+
+
+  </details>
+
+
+
+- <details open>
+  <summary><a href="#slash-commands-">Slash-Commands</a></summary>
+
+
+  </details>
+
+- <details open>
+  <summary><a href="#claudemd-files-">CLAUDE.md Files</a></summary>
+
+
+  </details>
+
+
+</details>
 
 <br>
 
-## Workflows & Knowledge Guides 🧠
+<details open>
+<summary><h2>Workflows & Knowledge Guides 🧠</h2></summary>
 
 > A **workflow** is a tightly coupled set of Claude Code-native resources that facilitate specific projects
 
@@ -136,6 +167,8 @@ A broader project management workflow for Claude Code that encompasses not just 
 [`Slash-commands megalist`](https://github.com/wcygan/dotfiles/tree/d8ab6b9f5a7a81007b7f5fa3025d4f83ce12cc02/claude/commands) &nbsp; by &nbsp; [wcygan](https://github.com/wcygan)    
 A pretty stunning list (88 at the time of this post!) of slash-commands ranging from agent orchestration, code review, project management, security, documentation, self-assessment, almost anything you can dream of.
 
+</details>
+
 <br>
 
 ## Tooling 🧰
@@ -179,7 +212,8 @@ A versatile configuration framework that enhances Claude Code with specialized c
 Command-line tool to customize your Claude Code styling.
 
 
-### IDE Integrations
+<details open>
+<summary><h3>IDE Integrations</h3></summary>
 
 [`Claude Code Chat`](https://marketplace.visualstudio.com/items?itemName=AndrePimenta.claude-code-chat) &nbsp; by &nbsp; [andrepimenta](https://github.com/andrepimenta)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;&copy;  
 An elegant and user-friendly Claude Code chat interface for VS Code.
@@ -196,10 +230,12 @@ A seamless integration between Claude Code AI assistant and Neovim.
 [`crystal`](https://github.com/stravu/crystal) &nbsp; by &nbsp; [stravu](https://github.com/stravu)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A full-fledged desktop application for orchestrating, monitoring, and interacting with Claude Code agents.
 
+</details>
 
-### Usage Monitors
+<details open>
+<summary><h3>Usage Monitors</h3></summary>
 
-[`CC Usage`](https://github.com/ryoppippi/ccusage) &nbsp; by &nbsp; [ryoppippi](https://github.com/ryoppippi)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`CC Usage`](https://github.com/ryoppippi/ccusage) &nbsp; by &nbsp; [ryoppippi](https://github.com/ryoppippi)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;NOASSERTION  
 Handy CLI tool for managing and analyzing Claude Code usage, based on analyzing local Claude Code logs. Presents a nice dashboard regarding cost information, token consumption, etc.
 
 [`ccflare`](https://github.com/snipeship/ccflare) &nbsp; by &nbsp; [snipeship](https://github.com/snipeship)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
@@ -211,8 +247,10 @@ A real-time terminal-based tool for monitoring Claude Code token usage. It shows
 [`viberank`](https://github.com/sculptdotfun/viberank) &nbsp; by &nbsp; [nikshepsvn](https://github.com/nikshepsvn)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A community-driven leaderboard tool that enables developers to visualize, track, and compete based on their Claude Code usage statistics. It features robust data analytics, GitHub OAuth, data validation, and user-friendly CLI/web submission methods.
 
+</details>
 
-### Orchestrators
+<details open>
+<summary><h3>Orchestrators</h3></summary>
 
 [`Claude Code Flow`](https://github.com/ruvnet/claude-code-flow) &nbsp; by &nbsp; [ruvnet](https://github.com/ruvnet)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 This mode serves as a code-first orchestration layer, enabling Claude to write, edit, test, and optimize code autonomously across recursive agent cycles.
@@ -235,11 +273,14 @@ Spawn and control multiple Claude Codes in parallel from your phone or desktop. 
 [`TSK - AI Agent Task Manager and Sandbox`](https://github.com/dtormoen/tsk) &nbsp; by &nbsp; [dtormoen](https://github.com/dtormoen)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A Rust CLI tool that lets you delegate development tasks to AI agents running in sandboxed Docker environments. Multiple agents work in parallel, returning git branches for human review.
 
+</details>
+
 <br>
 
-## Statusline 📊
+<details open>
+<summary><h2>Status Lines 📊</h2></summary>
 
-> **Statusline** configurations and customizations for Claude Code's status bar functionality
+> **Status lines** - Configurations and customizations for Claude Code's status bar functionality
 
 [`ccstatusline`](https://github.com/sirmalloc/ccstatusline) &nbsp; by &nbsp; [sirmalloc](https://github.com/sirmalloc)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A highly customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.
@@ -250,13 +291,14 @@ Enhanced 4-line statusline for Claude Code with themes, cost tracking, and MCP s
 [`claude-powerline`](https://github.com/Owloops/claude-powerline) &nbsp; by &nbsp; [Owloops](https://github.com/Owloops)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A vim-style powerline statusline for Claude Code with real-time usage tracking, git integration, custom themes, and more
 
+</details>
+
 <br>
 
-## Hooks 🪝
+<details open>
+<summary><h2>Hooks 🪝</h2></summary>
 
-> **Hooks** are a brand new API for Claude Code that allows users to activate commands and run scripts at different points in Claude's agentic lifecycle.
-
-**[Experimental]** - The resources listed in this section have not been fully vetted and may not work as expected, given the bleeding-edge nature of Claude Code hooks. Nevertheless, I wished to include them at least as a source of inspiration and to explore this unknown terrain. YMMV!
+> **Hooks** are a powerful API for Claude Code that allows users to activate commands and run scripts at different points in Claude's agentic lifecycle.
 
 [`CC Notify`](https://github.com/dazuiba/CCNotify) &nbsp; by &nbsp; [dazuiba](https://github.com/dazuiba)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 CCNotify provides desktop notifications for Claude Code, alerting you to input needs or task completion, with one-click jumps back to VS Code and task duration display.
@@ -279,11 +321,14 @@ A hooks-driven system that monitors file operations in real-time and blocks chan
 [`TypeScript Quality Hooks`](https://github.com/bartolli/claude-code-typescript-hooks) &nbsp; by &nbsp; [bartolli](https://github.com/bartolli)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Quality check hook for Node.js TypeScript projects with TypeScript compilation. ESLint auto-fixing, and Prettier formatting. Uses SHA256 config caching for <5ms validation performance during real-time editing.
 
+</details>
+
 <br>
 
 ## Slash-Commands 🔪
 
-### Version Control & Git
+<details open>
+<summary><h3>Version Control & Git</h3></summary>
 
 [`/analyze-issue`](https://github.com/jerseycheese/Narraitor/blob/feature/issue-227-ai-suggestions/.claude/commands/analyze-issue.md) &nbsp; by &nbsp; [jerseycheese](https://github.com/jerseycheese)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Fetches GitHub issue details to create comprehensive implementation specifications, analyzing requirements and planning structured approach with clear implementation steps.
@@ -324,8 +369,10 @@ Reviews pull request changes to provide feedback, check for issues, and suggest 
 [`/update-branch-name`](https://github.com/giselles-ai/giselle/blob/main/.claude/commands/update-branch-name.md) &nbsp; by &nbsp; [giselles-ai](https://github.com/giselles-ai)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 Updates branch names with proper prefixes and formats, enforcing naming conventions, supporting semantic prefixes, and managing remote branch updates.
 
+</details>
 
-### Code Analysis & Testing
+<details open>
+<summary><h3>Code Analysis & Testing</h3></summary>
 
 [`/check`](https://github.com/rygwdn/slack-tools/blob/main/.claude/commands/check.md) &nbsp; by &nbsp; [rygwdn](https://github.com/rygwdn)    
 Performs comprehensive code quality and security checks, featuring static analysis integration, security vulnerability scanning, code style enforcement, and detailed reporting.
@@ -348,8 +395,10 @@ Guides development using Test-Driven Development principles, enforcing Red-Green
 [`/tdd-implement`](https://github.com/jerseycheese/Narraitor/blob/feature/issue-227-ai-suggestions/.claude/commands/tdd-implement.md) &nbsp; by &nbsp; [jerseycheese](https://github.com/jerseycheese)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Implements Test-Driven Development by analyzing feature requirements, creating tests first (red), implementing minimal passing code (green), and refactoring while maintaining tests.
 
+</details>
 
-### Context Loading & Priming
+<details open>
+<summary><h3>Context Loading & Priming</h3></summary>
 
 [`/context-prime`](https://github.com/elizaOS/elizaos.github.io/blob/main/.claude/commands/context-prime.md) &nbsp; by &nbsp; [elizaOS](https://github.com/elizaOS)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Primes Claude with comprehensive project understanding by loading repository structure, setting development context, establishing project goals, and defining collaboration parameters.
@@ -372,8 +421,10 @@ Sets up initial project context by viewing directory structure and reading key f
 [`/rsi`](https://github.com/ddisisto/si/blob/main/.claude/commands/rsi.md) &nbsp; by &nbsp; [ddisisto](https://github.com/ddisisto)    
 Reads all commands and key project files to optimize AI-assisted development by streamlining the process, loading command context, and setting up for better development workflow.
 
+</details>
 
-### Documentation & Changelogs
+<details open>
+<summary><h3>Documentation & Changelogs</h3></summary>
 
 [`/add-to-changelog`](https://github.com/berrydev-ai/blockdoc-python/blob/main/.claude/commands/add-to-changelog.md) &nbsp; by &nbsp; [berrydev-ai](https://github.com/berrydev-ai)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Adds new entries to changelog files while maintaining format consistency, properly documenting changes, and following established project standards for version tracking.
@@ -390,8 +441,10 @@ Documents solution approaches for GitHub issues, explaining technical decisions,
 [`/update-docs`](https://github.com/Consiliency/Flutter-Structurizr/blob/main/.claude/commands/update-docs.md) &nbsp; by &nbsp; [Consiliency](https://github.com/Consiliency)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Reviews current documentation status, updates implementation progress, reviews phase documents, and maintains documentation consistency across the project.
 
+</details>
 
-### CI / Deployment
+<details open>
+<summary><h3>CI / Deployment</h3></summary>
 
 [`/release`](https://github.com/kelp/webdown/blob/main/.claude/commands/release.md) &nbsp; by &nbsp; [kelp](https://github.com/kelp)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Manages software releases by updating changelogs, reviewing README changes, evaluating version increments, and documenting release changes for better version tracking.
@@ -399,8 +452,10 @@ Manages software releases by updating changelogs, reviewing README changes, eval
 [`/run-ci`](https://github.com/hackdays-io/toban-contribution-viewer/blob/main/.claude/commands/run-ci.md) &nbsp; by &nbsp; [hackdays-io](https://github.com/hackdays-io)    
 Activates virtual environments, runs CI-compatible check scripts, iteratively fixes errors, and ensures all tests pass before completion.
 
+</details>
 
-### Project & Task Management
+<details open>
+<summary><h3>Project & Task Management</h3></summary>
 
 [`/create-command`](https://github.com/scopecraft/command/blob/main/.claude/commands/create-command.md) &nbsp; by &nbsp; [scopecraft](https://github.com/scopecraft)    
 Guides Claude through creating new custom commands with proper structure by analyzing requirements, templating commands by category, enforcing command standards, and creating supporting documentation.
@@ -423,8 +478,10 @@ Creates customizable greeting components with name input, demonstrating argument
 [`/todo`](https://github.com/chrisleyva/todo-slash-command/blob/main/todo.md) &nbsp; by &nbsp; [chrisleyva](https://github.com/chrisleyva)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A convenient command to quickly manage project todo items without leaving the Claude Code interface, featuring due dates, sorting, task prioritization, and comprehensive todo list management.
 
+</details>
 
-### Miscellaneous
+<details open>
+<summary><h3>Miscellaneous</h3></summary>
 
 [`/five`](https://github.com/TuckerTucker/tkr-portfolio/blob/main/.claude/commands/five.md) &nbsp; by &nbsp; [TuckerTucker](https://github.com/TuckerTucker)    
 Applies the "five whys" methodology to perform root cause analysis, identify underlying issues, and create solution approaches for complex problems.
@@ -441,13 +498,16 @@ Reviews old Dcell implementation files, comparing with newer Dango model, noting
 [`/use-stepper`](https://github.com/zuplo/docs/blob/main/.claude/commands/use-stepper.md) &nbsp; by &nbsp; [zuplo](https://github.com/zuplo)    
 Reformats documentation to use React Stepper component, transforming heading formats, applying proper indentation, and maintaining markdown compatibility with admonition formatting.
 
+</details>
+
 <br>
 
 ## CLAUDE.md Files 📂
 
 > **`CLAUDE.md` files** are files that contain important guidelines and context-specfic information or instructions that help Claude Code to better understand your project and your coding standards
 
-### Language-Specific
+<details open>
+<summary><h3>Language-Specific</h3></summary>
 
 [`AI IntelliJ Plugin`](https://github.com/didalgolab/ai-intellij-plugin/blob/main/CLAUDE.md) &nbsp; by &nbsp; [didalgolab](https://github.com/didalgolab)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 Provides comprehensive Gradle commands for IntelliJ plugin development with platform-specific coding patterns, detailed package structure guidelines, and clear internationalization standards.
@@ -491,8 +551,10 @@ Enforces strict coding conventions with comprehensive testing guidelines, multip
 [`TPL`](https://github.com/KarpelesLab/tpl/blob/master/CLAUDE.md) &nbsp; by &nbsp; [KarpelesLab](https://github.com/KarpelesLab)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Details Go project conventions with comprehensive error handling recommendations, table-driven testing approach guidelines, and modernization suggestions for latest Go features.
 
+</details>
 
-### Domain-Specific
+<details open>
+<summary><h3>Domain-Specific</h3></summary>
 
 [`AVS Vibe Developer Guide`](https://github.com/Layr-Labs/avs-vibe-developer-guide/blob/master/CLAUDE.md) &nbsp; by &nbsp; [Layr-Labs](https://github.com/Layr-Labs)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Structures AI-assisted EigenLayer AVS development workflow with consistent naming conventions for prompt files and established terminology standards for blockchain concepts.
@@ -521,8 +583,10 @@ Serves as development guide for Mac security audit tool with build instructions,
 [`SteadyStart`](https://github.com/steadycursor/steadystart/blob/main/CLAUDE.md) &nbsp; by &nbsp; [steadycursor](https://github.com/steadycursor)    
 Clear and direct instructives about style, permissions, Claude's "role", communications, and documentation of Claude Code sessions for other team members to stay abreast.
 
+</details>
 
-### Project Scaffolding & MCP
+<details open>
+<summary><h3>Project Scaffolding & MCP</h3></summary>
 
 [`Basic Memory`](https://github.com/basicmachines-co/basic-memory/blob/main/CLAUDE.md) &nbsp; by &nbsp; [basicmachines-co](https://github.com/basicmachines-co)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;AGPL-3.0  
 Presents an innovative AI-human collaboration framework with Model Context Protocol for bidirectional LLM-markdown communication and flexible knowledge structure for complex projects.
@@ -533,9 +597,12 @@ Provides detailed and emphatic instructions for Claude to follow as a coding age
 [`Perplexity MCP`](https://github.com/Family-IT-Guy/perplexity-mcp/blob/main/CLAUDE.md) &nbsp; by &nbsp; [Family-IT-Guy](https://github.com/Family-IT-Guy)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;ISC  
 Offers clear step-by-step installation instructions with multiple configuration options, detailed troubleshooting guidance, and concise architecture overview of the MCP protocol.
 
+</details>
+
 <br>
 
-## Official Documentation 🏛️
+<details open>
+<summary><h2>Official Documentation 🏛️</h2></summary>
 
 > Links to some of Anthropic's terrific documentation and resources regarding Claude Code
 
@@ -549,6 +616,8 @@ Offers comprehensive development guides for three distinct AI-powered demo proje
 
 [`Claude Code GitHub Actions`](https://github.com/anthropics/claude-code-action/tree/main/examples) &nbsp; by &nbsp; [Anthropic](https://github.com/anthropics)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Official GitHub Actions integration for Claude Code with examples and documentation for automating AI-powered workflows in CI/CD pipelines.
+
+</details>
 
 
 ## Contributing 🌻

@@ -132,7 +132,6 @@
 - [Scooter Xtreme](https://gamesnacks.com/games/scooterxtreme) - Casual scooter riding game.
 - [Slice Rush](https://play.famobi.com/slice-rush) - Take the knife and chop your way through the kitchen.
 - [Stack Smash](https://play.famobi.com/stack-smash) - Destroy all platforms to get to the ground and win.
-- [Star Stable](https://www.starstable.com/en/register) - Character registration portal for popular horse game.
 - [Stickman Climb](https://poki.com/en/g/stickman-climb) - Physics based puzzle game.
 - [The Walking Dead: Those Beyond](https://twd.thosebeyond.io/) - A community survivor camp experience game.
 - [TNT Bomb](https://play.famobi.com/tnt-bomb) - Destroy buildings and structures with explosive power ups.
