@@ -332,6 +332,10 @@ JSON tools:
 * [cl-jwk](https://github.com/dnaeon/cl-jwk) -  Common Lisp system for decoding public JSON Web Keys (JWK). BSD License.
 * [JOSE](https://github.com/fukamachi/jose) - A JSON Object Signing and Encryption (JOSE) implementation for Common Lisp. BSD_2Clause.
 
+JSON online services:
+
+* [pantry](https://github.com/dotemacs/pantry) - client library for the [Pantry JSON storage service](https://getpantry.cloud/). BSD.
+
 and search for JSON RPC below.
 
 TOML
@@ -868,6 +872,7 @@ Typing
   * [tokyo-tojo-json](https://github.com/tojoqk/tokyo.tojo.json) - a JSON parser implemented in Coalton.
   * [coalton-threads](https://github.com/garlic0x1/coalton-threads) - primitive thread and concurrency operations for Coalton.
   * [Lem editor mode for Coalton](https://lem-project.github.io/modes/coalton-lang/) - syntax highlighting, code completion, autodoc, interactive compilation commands (`coalton-compile-defun`, `C-c C-c`).
+  * [Coalton.app playground](https://coalton.app/) - a web-based REPL for Coalton. [blog post announce](https://abacusnoir.com/2025/08/12/coalton-playground-type-safe-lisp-in-your-browser/).
 * 👍 [trivial-types](https://github.com/m2ym/trivial-types) - provides missing but important type definitions such as `proper-list`, `association-list`, `property-list` and `tuple`. [LLGPL][8].
 * [defstar](https://bitbucket.org/eeeickythump/defstar/src/master/) - a collection of macros for easy inclusion of type declarations for arguments in lambda lists. [GNU GPL3][2]
 * [algebraic-data-types](https://github.com/stylewarning/cl-algebraic-data-type) - defining algebraic data types in a similar spirit to Haskell or Standard ML, as well as for operating on them. [BSD_3Clause][15].
@@ -1236,9 +1241,18 @@ Deployment
 
 See also:
 
-- [Platform.sh](https://platform.sh/blog/2019/lisp/) has Common Lisp support, so has [OVH](https://docs.ovh.com/ie/en/web-paas/languages-lisp/) through their Web PaaS partnership.
-- [Heliohost](https://www.heliohost.org/) for a free hosting solution.
 - [Cloud Init file for SBCL](https://git.sr.ht/%7Emarcuskammer/cloudinit/tree/main/item/sbcl-nginx.yml) - an init file for providers supporting the cloudinit format (DigitalOcean etc).
+
+### Hosting platforms
+
+We can host Common Lisp services on any server. These services offer
+out of the box availability for CL:
+
+- [Heliohost](https://www.heliohost.org/) for a free hosting solution.
+- [Nearly Free Speech](https://www.nearlyfreespeech.net/) - 25+ programming languages, pay for what you use.
+  - SBCL and GNU CLISP
+- [Platform.sh](https://platform.sh/blog/2019/lisp/) has Common Lisp support, so has [OVH](https://docs.ovh.com/ie/en/web-paas/languages-lisp/) through their Web PaaS partnership.
+
 
 Monitoring
 ----------
@@ -1333,9 +1347,7 @@ Sending emails with a third-party provider:
 
 Parsing email addresses:
 
-* [darts.lib.email.address](https://github.com/deterministic-arts/DartsCLEmailAddress) for RFC 5322 parsing
-  * *last commit 9 years ago*
-* try [email-parse](https://github.com/pyramidi0n/email-parse) or [email-validator](https://github.com/mtha790/email-validator) for RFC 5321.
+* [parcom/email](https://github.com/fosskers/parcom/?tab=readme-ov-file#email-addresses) - types and parsers for RFC5322 email addresses. The implementation is RFC-compliant and particularly memory-efficient for well-behaved addresses.
   * *NEW As of 2025*
 
 

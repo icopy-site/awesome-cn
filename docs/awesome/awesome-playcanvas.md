@@ -118,6 +118,7 @@
 - [Garden Bloom](https://play.famobi.com/garden-bloom) - Garden themed 2D match 3 game.
 - [Garden Match 3D](https://play.famobi.com/garden-match-3d) - 3D match 3 game.
 - [Geometry Run](https://www.gamee.com/game/geometryrun) - Stylized endless runner built from geometric shapes.
+- [Golf and Friends](https://gamesnacks.com/games/3v0ua21gf5hso) - Swing into a vibrant online minigolf adventure.
 - [Hoop Royale](https://play.famobi.com/hoop-royale) - Maneuver the ring around the ball.
 - [Jungle Friends](https://poki.com/en/g/jungle-friends) - Earn coins by helping your animal friends.
 - [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) - Dinosaurs, LEGO and vehicle stunts.

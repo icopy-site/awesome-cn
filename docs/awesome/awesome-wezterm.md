@@ -43,7 +43,7 @@ To enhance your WezTerm configuration experience:
 ## Session
 
 - [DavidRR-F/quick_domains.wezterm](https://github.com/DavidRR-F/quick_domains.wezterm) - Faster way to search and attach to (SSH) domains.
-- [mikkasendke/sessionizer.wezterm](https://github.com/mikkasendke/sessionizer.wezterm) - Opening git repositories as their own WezTerm workspaces using `fd`.
+- [mikkasendke/sessionizer.wezterm](https://github.com/mikkasendke/sessionizer.wezterm) - Opening Git repositories as their own WezTerm workspaces using `fd`.
 - [MLFlexer/resurrect.wezterm](https://github.com/MLFlexer/resurrect.wezterm) - Save and restore the state of windows, tabs and panes.
 - [MLFlexer/smart_workspace_switcher.wezterm](https://github.com/MLFlexer/smart_workspace_switcher.wezterm) - Switch between workspaces with fuzzy finding and `zoxide`.
 - [vieitesss/workspacesionizer.wezterm](https://github.com/vieitesss/workspacesionizer.wezterm) - Blazingly fast workspace chooser inspired by `tmux-sessionizer`.
@@ -69,3 +69,4 @@ To enhance your WezTerm configuration experience:
 - [lilaqua/tunicodes](https://gitlab.com/lilaqua/tunicodes) - Insert Unicode characters via their codepoints.
 - [zsh-sage/toggle_terminal.wez](https://github.com/zsh-sage/toggle_terminal.wez) - An easy-to-use toggleable terminal window.
 - [quickselect.wezterm](https://github.com/quantonganh/quickselect.wezterm) - Jump to the build error by opening them in Helix.
+- [btrachey/wezterm-replay](https://github.com/btrachey/wezterm-replay) - Parse command output and get URLs, shell commands, etc. pasted into your next prompt.
