@@ -75,6 +75,7 @@ Additional lists you might find useful:
 *Plugins for console enhancements.*
 
 - [SignalHandler plugin](https://github.com/skie/SignalHandler) - Cross-platform signal handling for CakePHP console commands with zero external dependencies. Supports Linux (pcntl), Windows (native API).
+- [Scheduling plugin](https://github.com/skie/cakephp-scheduling) - The plugin provides task scheduling capabilities with sub-minute precision, allowing you to schedule tasks as frequently as every second, with single crontab entry point. It allows tasks monitoring.
 
 ## Debugging
 *Plugins for debugging and local development.*

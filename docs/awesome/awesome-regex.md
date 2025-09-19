@@ -68,6 +68,7 @@ Contributions are welcome. Add links through pull requests ([guidelines](https:/
 
 **By flavor**
 
+- fancy-regex (Rust library): [fancy-regex playground](https://fancy-regex.github.io/fancy-regex/) \[[*GitHub*](https://github.com/fancy-regex/fancy-regex/tree/main/playground)].
 - JavaScript: [RegViz](http://regviz.org/).
 - .NET: [Regex Storm](http://regexstorm.net/tester) \[[*GitHub*](https://github.com/lonekorean/regex-storm)].
 - PCRE: [PHP Live Regex](https://www.phpliveregex.com/).
@@ -313,6 +314,7 @@ Many regexes found online are low quality. It's risky to use regexes you don't f
 - Find regex mistakes and improvements: [eslint-plugin-regexp](https://github.com/ota-meshi/eslint-plugin-regexp) \[[*home*](https://ota-meshi.github.io/eslint-plugin-regexp/)], [eslint-plugin-optimize-regex](https://github.com/BrainMaestro/eslint-plugin-optimize-regex).
 - Generate strings that match a given regex: [randexp.js](https://github.com/fent/randexp.js), [regex-to-strings](https://github.com/wimpyprogrammer/regex-to-strings).
 - Generate a regex from given strings: [regexgen](https://github.com/devongovett/regexgen).
+- [regex-utils](https://github.com/gruhn/regex-utils) - Check regex equivalence, build regex intersections, and other meta utilities.
 
 ## JavaScript regex evolution
 
@@ -394,12 +396,12 @@ Awesome Regex was created by [Steven Levithan](https://github.com/slevithan) and
 
 ### Sponsors and backers
 
-[<img src="https://raw.githubusercontent.com/brc-dd.png" width="40" height="40">](https://raw.githubusercontent.com/brc-dd)
 [<img src="https://raw.githubusercontent.com/roboflow.png" width="40" height="40">](https://raw.githubusercontent.com/roboflow)
 
 ### Past sponsors
 
 [<img src="https://raw.githubusercontent.com/antfu.png" width="40" height="40">](https://raw.githubusercontent.com/antfu)
+[<img src="https://raw.githubusercontent.com/brc-dd.png" width="40" height="40">](https://raw.githubusercontent.com/brc-dd)
 
 If you want to support this project, I'd love your help by contributing improvements, sharing it with others, or [sponsoring](https://github.com/sponsors/slevithan) ongoing development.
 
