@@ -61,7 +61,16 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
-*No new resources added this week.*
+[`ccoutputstyles`](https://github.com/viveknair/ccoutputstyles) &nbsp; by &nbsp; [Vivek Nair](https://github.com/viveknair)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+CLI tool and template gallery for customizing Claude Code output styles with pre-built templates. Features over 15 templates at the time of writing!
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for ccoutputstyles](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ccoutputstyles&username=viveknair&all_stats=true&stats_only=true)
+
+</details>
+<br>
 
 
 
@@ -100,6 +109,12 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
   </details>
 
 - <details open>
+  <summary><a href="#output-styles-">Output Styles</a></summary>
+
+
+  </details>
+
+- <details open>
   <summary><a href="#slash-commands-">Slash-Commands</a></summary>
 
 
@@ -112,7 +127,7 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
   </details>
 
 - <details open>
-  <summary><a href="#official-documentation-%EF%B8%8F">Official Documentation</a></summary>
+  <summary><a href="#official-documentation-">Official Documentation</a></summary>
 
 
   </details>
@@ -714,6 +729,27 @@ Quality check hook for Node.js TypeScript projects with TypeScript compilation. 
 <br>
 
 
+> **Output styles** allow you to use Claude Code as any type of agent while keeping its core capabilities, such as running local scripts, reading/writing files, and tracking TODOs.
+
+<details open>
+<summary><h3>General <a href="#awesome-claude-code">🔝</a></h3></summary>
+
+[`ccoutputstyles`](https://github.com/viveknair/ccoutputstyles) &nbsp; by &nbsp; [Vivek Nair](https://github.com/viveknair)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+CLI tool and template gallery for customizing Claude Code output styles with pre-built templates. Features over 15 templates at the time of writing!
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for ccoutputstyles](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ccoutputstyles&username=viveknair&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+</details>
+
+<br>
+
+
 <details open>
 <summary><h3>Version Control & Git <a href="#awesome-claude-code">🔝</a></h3></summary>
 
@@ -1258,7 +1294,7 @@ Reformats documentation to use React Stepper component, transforming heading for
 <br>
 
 
-> **`CLAUDE.md` files** are files that contain important guidelines and context-specfic information or instructions that help Claude Code to better understand your project and your coding standards
+> **`CLAUDE.md` files** are files that contain important guidelines and context-specific information or instructions that help Claude Code to better understand your project and your coding standards
 
 <details open>
 <summary><h3>Language-Specific <a href="#awesome-claude-code">🔝</a></h3></summary>
@@ -1571,16 +1607,16 @@ Offers clear step-by-step installation instructions with multiple configuration 
 <details open>
 <summary><h3>General <a href="#awesome-claude-code">🔝</a></h3></summary>
 
-[`Anthropic Documentation`](https://docs.anthropic.com/en/docs/claude-code) &nbsp; by &nbsp; [Anthropic](https://github.com/anthropics)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;&copy;  
+[`Anthropic Documentation`](https://docs.claude.com/en/home) &nbsp; by &nbsp; [Anthropic](https://github.com/anthropics)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;&copy;  
 The official documentation for Claude Code, including installation instructions, usage guidelines, API references, tutorials, examples, loads of information that I won't list individually. Like Claude Code, the documentation is frequently updated.
 
-[`Anthropic Quickstarts`](https://github.com/anthropics/anthropic-quickstarts/blob/main/CLAUDE.md) &nbsp; by &nbsp; [Anthropic](https://github.com/anthropics)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`Anthropic Quickstarts`](https://github.com/anthropics/claude-quickstarts) &nbsp; by &nbsp; [Anthropic](https://github.com/anthropics)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Offers comprehensive development guides for three distinct AI-powered demo projects with standardized workflows, strict code style guidelines, and containerization instructions.
 
 <details>
 <summary>📊 GitHub Stats</summary>
 
-![GitHub Stats for anthropic-quickstarts](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=anthropic-quickstarts&username=anthropics&all_stats=true&stats_only=true)
+![GitHub Stats for claude-quickstarts](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-quickstarts&username=anthropics&all_stats=true&stats_only=true)
 
 </details>
 <br>
