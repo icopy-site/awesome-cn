@@ -135,7 +135,7 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [Autofill save password](https://github.com/Cap-go/capacitor-autofill-save-password/) - Capacitor plugin to save login into device password managager
 
 
-## [Capawesome plugins](https://capawesome.io/)
+## [Capawesome plugins](https://github.com/capawesome-team/capacitor-plugins)
 Plugins owned by [Capawesome organisation](https://github.com/capawesome-team) and maintained by [@robingenz](https://github.com/robingenz).
 
 - [Background tasks](https://github.com/capawesome-team/capacitor-background-task) - A native plugin for running background tasks.

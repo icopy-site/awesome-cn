@@ -73,6 +73,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [TypL](https://github.com/getify/TypL) - the JavaScript Type Linter with a bias on type inference.
 * [Hindley Milner Definitions](https://github.com/xodio/hm-def) - runtime type checking for JavaScript functions using Haskell-alike Hindley Milner type signatures.
 * [Zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with built-in static type inference.
+* [Yup](https://github.com/jquense/yup) - JavaScript schema builder and validator.
 
 ## Testing Frameworks
 
@@ -596,6 +597,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [Highlight.js](https://github.com/isagalaev/highlight.js) - JavaScript syntax highlighter.
 * [PrismJS](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
+* [shiki](https://github.com/shikijs/shiki) - Code highlighter powered by VS Code TextMate grammars. Accurate, themeable, works in Node or browser, great for JS and TS.
 
 ## Loading Status
 *Libraries for indicate load status.*

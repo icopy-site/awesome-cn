@@ -78,6 +78,7 @@
 ## Interactive Experiences
 
 - [Call of Duty: Gunsmith](https://playcanv.as/p/XPWoTZ4F/) - Promotional 3D experience themed on Call of Duty.
+- [Camille World](https://cmworld.io) - Explore 3D worlds and play as puzzles.
 - [Childhood on the Move](https://gallery.familyforeverychild.org/Childhood-on-The-Move/) - Virtual art exhibition from charity Family for Every Child.
 - [Cyber City](https://vz777.com/cybercity/index.html) - Promotional site for Visionaries777.
 - [Da Viking Code's Metaverse](https://metavers.davikingcode.com/) - Explorable 3D project portfolio of a digital agency.

@@ -23,7 +23,6 @@ A collection of awesome things regarding the React ecosystem.
 - [Design patterns and Component patterns for building powerful Web Apps](https://www.patterns.dev/)
 - [A simple, scalable, and powerful architecture for building production ready React applications](https://github.com/alan2207/bulletproof-react)
 - [Cheatsheets for experienced React developers getting started with TypeScript](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
-- [The Fullstack Tutorial for GraphQL](https://github.com/howtographql/howtographql)
 
 #### React Frameworks
 
@@ -73,14 +72,12 @@ A collection of awesome things regarding the React ecosystem.
 #### React Routing
 
 - [react-router](https://github.com/remix-run/react-router) - Declarative routing for React
-- [wouter](https://github.com/molefrog/wouter) - A minimalist-friendly routing
 - [tanstack-router](https://github.com/TanStack/router) - Type-safe router with built-in caching & URL state management
 
 #### React Development Tools
 
 - [vite](https://github.com/vitejs/vite) - Next Generation Frontend Tooling
 - [parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web
-- [million](https://github.com/aidenybai/million) - An extremely fast and lightweight optimizing compiler
 - [reactotron](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
 - [why-did-you-render](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
@@ -107,15 +104,12 @@ A collection of awesome things regarding the React ecosystem.
 - [react-select](https://github.com/JedWatson/react-select) - The Select Component for React
 - [react-big-calendar](https://github.com/jquense/react-big-calendar) - Calendar component
 - [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) - A simple and reusable datepicker component for React
-- [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - Create skeleton screens that automatically adapt to your app
 - [react-qrcode](https://github.com/zpao/qrcode.react) - QR component for use with React
 - [react-archer](https://github.com/pierpo/react-archer) - Draw arrows between React elements
-- [react-icons](https://github.com/react-icons/react-icons) - SVG React icons of popular icon packs
 - [react-complex-tree](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree
 - [react-insta-stories](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
 - [swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider
 - [keen-slider](https://github.com/rcbyr/keen-slider) - The Touch slider carousel
-- [cookie-consent-banner](https://github.com/porscheofficial/cookie-consent-banner) – The lightweight and flexible Cookie Consent Banner
 - [heart-switch](https://github.com/anatoliygatt/heart-switch) - A heart-shaped toggle switch component for React
 - [kbar](https://github.com/timc1/kbar) - Fast, portable, and extensible cmd+k interface for your site
 - [tagify](https://github.com/yairEO/tagify) - Lightweight, efficient Tags input component
@@ -125,7 +119,6 @@ A collection of awesome things regarding the React ecosystem.
 #### React Components Sandboxes
 
 - [storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation
-- [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev tool for creating reusable React components
 - [bit](https://github.com/teambit/bit) - A build system for development of composable software
 
@@ -182,9 +175,7 @@ A collection of awesome things regarding the React ecosystem.
 #### React Integration
 
 - [rescript-compiler](https://github.com/rescript-lang/rescript-compiler) - A robustly typed language that compiles to efficient and human-readable JavaScript
-- [react-rails](https://github.com/reactjs/react-rails) - Integrate React with Rails
 - [fulcro](https://github.com/fulcrologic/fulcro) - A library for development of web applications in clj/cljs
-- [tailwind-react](https://tw-elements.com/docs/standard/integrations/react-integration/) - Article that shows you how to integrate React application with Tailwind
 
 #### React Real Apps
 
@@ -204,7 +195,6 @@ A collection of awesome things regarding the React ecosystem.
 - [React Native GitHub](https://github.com/facebook/react-native)
 - [React Native Community](https://reactnative.dev/community/overview)
 - [Expo](https://expo.dev/)
-- [Expo Snack Playground](https://snack.expo.dev/)
 
 #### React Native Navigation
 

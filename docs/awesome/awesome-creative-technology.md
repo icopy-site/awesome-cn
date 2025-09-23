@@ -79,6 +79,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**dotdotdash**](https:&#x2F;&#x2F;dotdotdash.io&#x2F;) | [Portland] [LA] [NYC] | innovation agency that seamlessly blends the physical and digital | [🌐](https:&#x2F;&#x2F;www.dotdotdash.io&#x2F;careers)
 | [**Downstream**](https:&#x2F;&#x2F;downstream.com&#x2F;) | [Portland] [Amsterdam] [Melbourne] | strategy + design + content + technology | [🌐](https:&#x2F;&#x2F;downstream.com&#x2F;careers)
 | [**Dpt.**](https:&#x2F;&#x2F;dpt.co&#x2F;) | [Montreal] | generating wonder with immersive platforms, AR, &amp; VR | [🌐](https:&#x2F;&#x2F;dpt.co&#x2F;en&#x2F;contact-us&#x2F;)
+| [**EMMA Co-op**](https:&#x2F;&#x2F;emma.coop) | [NYC] | We develop software for clients in the video game, theater, public installation and media arts spaces among others. | 
 | [**Eness**](https:&#x2F;&#x2F;www.eness.com&#x2F;) | [Melbourne] | evocative interactive experiences for public, commercial and cultural entities | [🌐](https:&#x2F;&#x2F;www.eness.com&#x2F;jobs)
 | [**Envoy**](https:&#x2F;&#x2F;www.weareenvoy.com&#x2F;) | [Chicago] [LA] [San Diego] | transform environments into exceptional experiences, formerly Leviathan | [🌐](https:&#x2F;&#x2F;www.weareenvoy.com&#x2F;careers)
 | [**Eos Lightmedia**](https:&#x2F;&#x2F;www.eoslightmedia.com&#x2F;) | [Vancouver] [NYC] [Orlando] | lighting and audiovisual design, themed attractions, museums, architecture, public spaces, building facades, presentation centers, and public art installations | 
@@ -86,6 +87,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Extrapolation Factory**](https:&#x2F;&#x2F;extrapolationfactory.com&#x2F;) | [NYC] | research studio, futures studies, collaborative prototyping | 
 | [**Fast Horse**](https:&#x2F;&#x2F;www.fasthorseinc.com&#x2F;) | [Minneapolis] | a truly integrated creative agency | [🌐](https:&#x2F;&#x2F;www.fasthorseinc.com&#x2F;careers&#x2F;)
 | [**FIELD**](https:&#x2F;&#x2F;www.field.io&#x2F;) | [London] | future aesthetics for design, motion, experiential | 
+| [**Five Stone Studios**](https:&#x2F;&#x2F;fivestonestudios.com&#x2F;) | [Nashville] | Our creative arsenal spans design, live action, animation, &amp; experiential storytelling | 
 | [**Float4**](https:&#x2F;&#x2F;float4.com&#x2F;en&#x2F;) | [Montreal] [NYC] | integrates digital experiences into physical spaces to amplify their identity | [🌐](https:&#x2F;&#x2F;float4.com&#x2F;en&#x2F;life-at-float4&#x2F;)
 | [**fuse**](https:&#x2F;&#x2F;www.fuseworks.it&#x2F;en&#x2F;) | [Modena, Italy] | live-media performances, experimentation, electronic music, digital arts | 
 | [**Future Colossal**](https:&#x2F;&#x2F;www.futurecolossal.com&#x2F;) | [NYC] | experiential technologies in advertising and entertainment and art | [🌐](https:&#x2F;&#x2F;www.futurecolossal.com&#x2F;contact)
@@ -127,6 +129,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Neon Global**](https:&#x2F;&#x2F;www.neonglobal.com&#x2F;) | [Singapore] | world class and epic experiences that are innovative, creative and exciting | [🌐](https:&#x2F;&#x2F;www.neonglobal.com&#x2F;en&#x2F;connect&#x2F;)
 | [**NeoPangea**](https:&#x2F;&#x2F;www.neopangea.com&#x2F;) | [Reading, PA] | microsites, games, VR&#x2F;AR, digital, social | 
 | [**NEXT&#x2F;NOW**](https:&#x2F;&#x2F;www.nextnowagency.com&#x2F;) | [Chicago] | brand activations, immersive environments, emerging technologies | [🌐](https:&#x2F;&#x2F;www.nextnowagency.com&#x2F;careers)
+| [**Nexus Studios**](https:&#x2F;&#x2F;nexusstudios.com&#x2F;) | [London] [Los Angeles] | film, experiential, AR | [🌐](https:&#x2F;&#x2F;apply.workable.com&#x2F;nexusstudios&#x2F;)
 | [**NGX Interactive**](https:&#x2F;&#x2F;ngxinteractive.com&#x2F;) | [Vancouver] | pushing new technologies to create experiences that are vivid and meaningful | [🌐](https:&#x2F;&#x2F;ngxinteractive.recruitee.com&#x2F;)
 | [**Night Kitchen**](https:&#x2F;&#x2F;www.whatscookin.com&#x2F;) | [Philadelphia] | dynamic digital experiences, online exhibitions, digital strategy, storytelling | [📧](https://github.com/j0hnm4r5/awesome-creative-technology/blob/master/mailto:jobs@whatscookin.com)
 | [**Nohlab**](https:&#x2F;&#x2F;nohlab.com&#x2F;works) | [Istanbul] | producing interdisciplinary experiences around art, design and technology | [📧](https://github.com/j0hnm4r5/awesome-creative-technology/blob/master/mailto:apply@nohlab.com)
@@ -152,6 +155,7 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Second Story**](https:&#x2F;&#x2F;secondstory.com&#x2F;) | [Atlanta] [Portland] [NYC] | exhibition, interactive, software, experience, hardware, VR, AR, projection | [🌐](https:&#x2F;&#x2F;careers.smartrecruiters.com&#x2F;PublicisGroupe&#x2F;razorfish)
 | [**Seeeklab**](https:&#x2F;&#x2F;www.seeeklab.com&#x2F;en&#x2F;) | [Xiamen] | marketing events, interactive installation | 
 | [**Set Reset**](https:&#x2F;&#x2F;set-reset.com&#x2F;) | [London] | transforming data into compelling stories that fuel growth and create opportunity | 
+| [**Sitara Systems**](https:&#x2F;&#x2F;sitara.systems) | [Las Vegas] | we create interactive and immersive experiences that break down complex ideas, inspire reflection, and ignite curiosity. | 
 | [**SOSO**](https:&#x2F;&#x2F;www.sosolimited.com&#x2F;) | [Boston] [San Diego] | delivering real human impact across physical and virtual space, placemaking and storytelling | [🌐](https:&#x2F;&#x2F;www.sosolimited.com&#x2F;careers&#x2F;)
 | [**space150**](https:&#x2F;&#x2F;www.space150.com&#x2F;) | [Minneapolis] [LA] [NYC] | a tech-driven creative agency | [🌐](https:&#x2F;&#x2F;www.space150.com&#x2F;careers)
 | [**Sparks**](https:&#x2F;&#x2F;www.wearesparks.com&#x2F;) | [Philadelphia] [Shanghai] [Paris] [Berlin] [Amsterdam] | conferences, popups, event production, fabrication | 
@@ -184,8 +188,8 @@ Creative technologists by definition have a breadth of skills as opposed to a sp
 | [**Unified Field**](https:&#x2F;&#x2F;www.unifiedfield.com&#x2F;) | [NYC] | content-rich, experiential and interactive media for digital branding, media environments, and exhibits in public spaces | [📧](https://github.com/j0hnm4r5/awesome-creative-technology/blob/master/mailto:career@unifiedfield.com)
 | [**UNIT9**](https:&#x2F;&#x2F;www.unit9.com&#x2F;) | [London] [LA] [NYC] [Berlin] | innovation architects, product designers, software engineers, gaming experts, creatives, art directors, designers, producers and film directors | [🌐](https:&#x2F;&#x2F;www.unit9.com&#x2F;jobs)
 | [**Upswell**](https:&#x2F;&#x2F;hello-upswell.com&#x2F;) | [Portland] | digital and physical content first experiences | [🌐](https:&#x2F;&#x2F;upswell.studio&#x2F;contact)
+| [**Volvox Labs**](https:&#x2F;&#x2F;volvoxlabs.com&#x2F;) | [NYC] [LA] | high-end design, code, fabrication, sound, robotics | [🌐](https:&#x2F;&#x2F;volvoxlabs.com&#x2F;contact&#x2F;)
 | [**VTProDesign**](https:&#x2F;&#x2F;vtprodesign.com&#x2F;) | [LA] | high tech robotics and projection mapping | [📧](https://github.com/j0hnm4r5/awesome-creative-technology/blob/master/mailto:jobs@vtprodesign.com)
-| [**VVOX**](https:&#x2F;&#x2F;volvoxlabs.com&#x2F;) | [NYC] [LA] | high-end design, code, fabrication, sound | [🌐](https:&#x2F;&#x2F;volvoxlabs.com&#x2F;contact&#x2F;)
 | [**We Are Royale**](https:&#x2F;&#x2F;weareroyale.com&#x2F;) | [LA] [Seattle] | frontlines of design &amp; technology to arm brands with the creative to turn audiences into advocates | [📧](https://github.com/j0hnm4r5/awesome-creative-technology/blob/master/mailto:jobs@weareroyale.com)
 | [**WHITEvoid**](https:&#x2F;&#x2F;www.whitevoid.com&#x2F;) | [Berlin] [Shanghai] | public or brand spaces and events, trade fair stands, shows and exhibitions, museums and festivals | 
 | [**WOA STUDIO**](https:&#x2F;&#x2F;www.woastudio.it&#x2F;) | [Milan] | immersive experiences, multimedia, video mapping, digital artistry | 
@@ -216,7 +220,8 @@ Established artist collectives&#x2F;practices that work with creative technology
 | [**Smooth Technology**](https:&#x2F;&#x2F;smooth.technology&#x2F;) | [NYC] | cutting-edge technology and artistic sensibility, wireless wearables, create the impossible | 
 | [**Taller Estampa**](https:&#x2F;&#x2F;www.tallerestampa.com) | [Barcelona] | group of filmmakers, programmers and researchers who work in the fields of experimental audiovisual and digital environments. | 
 | [**teamLab**](https:&#x2F;&#x2F;www.teamlab.art&#x2F;) | [Tokyo] | full-room interactive projection mapping, interdisciplinary group of ultratechnologists | 
-| [**The Cuttelfish**](https:&#x2F;&#x2F;www.thecuttlefish.com&#x2F;) | [USA] | explore and imagine and prototyp and creatr future-forward creative concepts | 
+| [**The Cuttlefish**](https:&#x2F;&#x2F;www.thecuttlefish.com&#x2F;) | [USA] | explore and imagine and prototyp and creatr future-forward creative concepts | 
+| [**TUNDRA**](https:&#x2F;&#x2F;www.wearetundra.com&#x2F;) | [St. Petersburg] | In our artworks, we blend light, sound, space and use technology as a tool to interact with rapidly-changing environmental context. | 
 | [**Ultravioletto**](https:&#x2F;&#x2F;ultraviolet.to&#x2F;) | [Rome] | exhibitions, fairs, museums, brand experiences and events | 
 | [**United Visual Artists**](https:&#x2F;&#x2F;www.uva.co.uk&#x2F;) | [London] | new technologies with traditional media, site-specific, instruments that manipulate perception | 
 | [**WHYIXD**](https:&#x2F;&#x2F;www.whyixd.com&#x2F;) | [Taiwan] | cross-disciplinary art installations, dance, architecture, music | 
