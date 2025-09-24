@@ -220,6 +220,7 @@
 - [GSplat Share](https://gsplat.org/) – Share your splats with optional time-limited and password-protected links.
 - [Montreal Museum of Fine Arts](https://labs.dpt.co/article-3dgs.html) - Explore 6 rooms at the museum.
 - [Nikon Creates](https://www.creates.nikon.com/access/#3dgs) - Scans of Nikon's studio space in Tokyo.
+- [Nood](https://nood.co.nz/pages/interactive-lounge) - Furniture retailer.
 - [Old Main](https://www.ryanfellers.com/oldmain/) - The Public Library of Cincinnati's Grand Hall as it appeared in 1900.
 - [Prewatch](https://www.prewatch.io/) - Smart virtual scouting for better decisions.
 - [Reflct](https://www.reflct.app/) - Curate, manage and deploy 3DGS scenes online.

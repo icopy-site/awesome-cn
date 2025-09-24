@@ -1,15 +1,15 @@
 <div class="github-widget" data-repo="joewdavies/awesome-frontend-gis"></div>
 <!--lint disable double-link awesome-heading -->
-<div align="center">
-<h2>Awesome Frontend GIS   <a href="https://github.com/sindresorhus/awesome">
-    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" href="https://raw.githubusercontent.com/sindresorhus/awesome">
+<div align='center'>
+<h2>Awesome Frontend GIS   <a href='https://github.com/sindresorhus/awesome'>
+    <img src='https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg' alt='Awesome' href='https://raw.githubusercontent.com/sindresorhus/awesome'>
   </a></h2>
 
  Geographic Information Systems (GIS) for web browsers. <br>
  For managing, analyzing, editing, and visualizing geographic data.
   
 <div>
-    <a href="https://github.com/eurostat/gridviz" target="_blank">
+    <a href='https://github.com/eurostat/gridviz' target='_blank'>
         <img src='https://user-images.githubusercontent.com/25485293/191950255-cbd83c6a-4880-4c0a-a665-b59a21467702.PNG'>
     </a>
 </div>
@@ -81,7 +81,6 @@ Libraries that help you analyse and process geospatial data:
 - [rbush](https://github.com/mourner/rbush) - RBush is a high-performance JavaScript library for 2D spatial indexing. ![GitHub stars](https://img.shields.io/github/stars/mourner/rbush?style=social)
 - [spl.js](https://github.com/jvail/spl.js) - Makes it possible to use SpatiaLite functionality in JavaScript. ![GitHub stars](https://img.shields.io/github/stars/jvail/spl.js?style=social)
 - [statsbreaks](https://github.com/riatelab/statsbreaks) - Split a quantitative dataset into classes for thematic mapping. ![GitHub stars](https://img.shields.io/github/stars/riatelab/statsbreaks?style=social)
-- [supercluster](https://www.npmjs.com/package/supercluster) - A very fast JavaScript library for geospatial point clustering. ![GitHub stars](https://img.shields.io/github/stars/mapbox/supercluster?style=social)
 - [Turf.js](https://github.com/Turfjs/turf) - A JavaScript library for spatial analysis. ![GitHub stars](https://img.shields.io/github/stars/Turfjs/turf?style=social)
 - [topoJSON](https://github.com/topojson/topojson) - Convert GeoJSON to TopoJSON for use in D3 maps. ![GitHub stars](https://img.shields.io/github/stars/topojson/topojson?style=social)
 - [Wicket](https://github.com/arthur-e/Wicket) - A modest library for moving between Well-Known Text (WKT) and various framework geometries. ![GitHub stars](https://img.shields.io/github/stars/arthur-e/Wicket?style=social)
@@ -136,7 +135,7 @@ Data available for download:
 - [Sentinel Hub custom scripts](https://github.com/sentinel-hub/custom-scripts) - Repository of custom scripts for Sentinel Hub.
 - [USGS Earth Explorer](https://earthexplorer.usgs.gov/) - Query and order satellite images and more.
 - [World Atlas TopoJSON](https://github.com/topojson/world-atlas) - Natural Earth's vector data as TopoJSON.
-- [World Bank](https://data.worldbank.org/) - Free access to global development data.
+- [World Bank](https://www.unccd.int/resources/knowledge-sharing-system/world-banks-open-data) - Free access to global development data.
 - [WorldPop](https://www.worldpop.org/) - Open access spatial demographic datasets.
 
 
@@ -178,7 +177,8 @@ Compilations and repositories of open geospatial datasets:
 - [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - An awesome repository full of open datasets from an abundance of different categories.
 - [Free GIS data](https://freegisdata.rtwilson.com/) - Links to over 500 sites providing freely available geographic datasets.
 - [Public APIs](https://github.com/public-apis-dev/public-apis) - A collective list of free APIs for use in software and web development.
-- [WRI](https://www.wri.org/data) - World Resources Institute.
+- [WRI](https://datasets.wri.org/) - World Resources Institute.
+- [David Rumsey map collection](https://www.davidrumsey.com/) - Historical map archives.
 
 ## 📒 Notebooks 
 Some JavaScript notebooks to help you code:
@@ -220,7 +220,7 @@ A compilation of interesting web maps:
 - [Radio Garden](https://radio.garden/) - 3D Globe Radio Tuner.
 - [Map of every building in the United States](https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html) - New York Times.
 - [Map of the Roman transport network](https://orbis.stanford.edu/) - The Stanford Geospatial Network Model of the Roman World.
-- [Webgl Wind](https://github.com/mapbox/webgl-wind) - A WebGL-powered visualization of wind power. Capable of rendering up to 1 million wind particles at 60fps.
+- [WebGL Wind](https://github.com/mapbox/webgl-wind) - A WebGL-powered visualization of wind power. Capable of rendering up to 1 million wind particles at 60fps.
 - [Statistical Atlas](https://ec.europa.eu/statistical-atlas/viewer) - A leaflet-powered atlas showcasing Eurostat's statistics.
 - [ShadeMap](https://shademap.app/) - Every mountain, building and tree shadow in the world simulated for any date and time.
 - [ClimateArchive](https://climatearchive.org/) - An interactive visualisation of climate model data across time and space.
