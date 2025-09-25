@@ -61,6 +61,17 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
+[`ClaudoPro Directory`](https://github.com/JSONbored/claudepro-directory) &nbsp; by &nbsp; [ghost](https://github.com/JSONbored)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Well-crafted, wide selection of Claude Code hooks, slash commands, subagent files, and more, covering a range of specialized tasks and workflows. Better resources than your average "Claude-template-for-everything" site.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for claudepro-directory](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claudepro-directory&username=JSONbored&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`ccoutputstyles`](https://github.com/viveknair/ccoutputstyles) &nbsp; by &nbsp; [Vivek Nair](https://github.com/viveknair)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 CLI tool and template gallery for customizing Claude Code output styles with pre-built templates. Features over 15 templates at the time of writing!
 
@@ -177,6 +188,17 @@ Really comprehensive and feature-packed project-management workflow for Claude C
 
 [`ClaudeLog`](https://claudelog.com) &nbsp; by &nbsp; [InventorBlack](https://www.reddit.com/user/inventor_black/)    
 A comprehensive knowledge base with detailed breakdowns of advanced [mechanics](https://claudelog.com/mechanics/you-are-the-main-thread/) including [CLAUDE.md best practices](https://claudelog.com/mechanics/claude-md-supremacy), practical technique guides like [plan mode](https://claudelog.com/mechanics/plan-mode), [ultrathink](https://claudelog.com/faqs/what-is-ultrathink/), [sub-agents](https://claudelog.com/mechanics/task-agent-tools/), [agent-first design](https://claudelog.com/mechanics/agent-first-design/) and [configuration guides](https://claudelog.com/configuration).
+
+[`ClaudoPro Directory`](https://github.com/JSONbored/claudepro-directory) &nbsp; by &nbsp; [ghost](https://github.com/JSONbored)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Well-crafted, wide selection of Claude Code hooks, slash commands, subagent files, and more, covering a range of specialized tasks and workflows. Better resources than your average "Claude-template-for-everything" site.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for claudepro-directory](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claudepro-directory&username=JSONbored&all_stats=true&stats_only=true)
+
+</details>
+<br>
 
 [`Context Priming`](https://github.com/disler/just-prompt/tree/main/.claude/commands) &nbsp; by &nbsp; [disler](https://github.com/disler)    
 Provides a systematic approach to priming Claude Code with comprehensive project context through specialized commands for different project scenarios and development contexts.
