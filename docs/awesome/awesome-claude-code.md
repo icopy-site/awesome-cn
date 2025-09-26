@@ -61,6 +61,17 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
+[`run-claude-docker`](https://github.com/icanhasjonas/run-claude-docker) &nbsp; by &nbsp; [Jonas](https://github.com/icanhasjonas/)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A self-contained Docker runner that forwards your current workspace into a safe(r) isolated docker container, where you still have access to your Claude Code settings, authentication, ssh agent, pgp, optionally aws keys etc.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for run-claude-docker](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=run-claude-docker&username=icanhasjonas&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`ClaudoPro Directory`](https://github.com/JSONbored/claudepro-directory) &nbsp; by &nbsp; [ghost](https://github.com/JSONbored)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Well-crafted, wide selection of Claude Code hooks, slash commands, subagent files, and more, covering a range of specialized tasks and workflows. Better resources than your average "Claude-template-for-everything" site.
 
@@ -407,6 +418,17 @@ Development environments for coding agents. Enable multiple agents to work safel
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for container-use](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=container-use&username=dagger&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`run-claude-docker`](https://github.com/icanhasjonas/run-claude-docker) &nbsp; by &nbsp; [Jonas](https://github.com/icanhasjonas/)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A self-contained Docker runner that forwards your current workspace into a safe(r) isolated docker container, where you still have access to your Claude Code settings, authentication, ssh agent, pgp, optionally aws keys etc.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for run-claude-docker](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=run-claude-docker&username=icanhasjonas&all_stats=true&stats_only=true)
 
 </details>
 <br>

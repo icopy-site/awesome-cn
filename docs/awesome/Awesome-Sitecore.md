@@ -11,7 +11,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 
 - [Helix](#helix) 
-- [Maintenance](#maintenance) 
 - [ORM](#orm) 
 - [Security](#security) 
 - [SEO](#seo) 
@@ -118,6 +117,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Content Hub ONE examples](https://github.com/Sitecore/contenthubone-examples) - A set of various examples using Content Hub One.
 - [Sitecore.Demo.CHONE](https://github.com/Sitecore/Sitecore.Demo.CHONE) - Repository for all the Content Hub ONE demos built by the Sitecore Demo Solutions team, including PLAY Media Next.js Website and PLAY Media Mobile Phone Application.
 - [Content Hub ONE Next.JS Starter Kit](https://github.com/Sitecore/content-hub-one-nextjs-starterkit) - The starter kit contains helping functionalities such as handling GraphQL JSON output conversion to HTML for Rich Text, Media Fields, and References. It also contains a small example implementation that Developers can use to start their customer projects.
+
+
+- [Sitecore Content SDK](https://github.com/Sitecore/content-sdk) - The source code for all Sitecore Content SDK packages and templates to help you get started using Sitecore Content SDK.
+- [XM Cloud Front End Application Starter Kits](https://github.com/Sitecore/xmcloud-starter-js) - This Content SDK repository contains multiple Next.js Starter Kits, and the SPA Starters monorepo (which includes a Node Proxy Application and and SPA starter apps) for Sitecore XM Cloud Development.
 
 
 - [Sitecore spatial geojson polygons](https://github.com/josedbaez/sitecore-spatial-geojson-polygons) - Implementation of a Linq extension to be able to query on points that intercept GeoJson polygons in Solr indexes. The demo provides a template with the spatial field, a couple of sample items with polygons from OpenStreetMap that cover some cities; and a controller rendering that reads lat and long from the query string and returns the polygon of the item found (e.g. Big Ben's coordinates return London).
@@ -286,6 +289,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Admin Scripts for Development and Deploying](https://github.com/jbluemink/Sitecore-Admin-Scripts-for-Development-and-Deploying) - The additional features for `/admin` folder: AddAdminUser, AddEditorUser, ResetAdminPassword, FillDbWithExtranetUser, InstallUpdatePackage, InstallZipPackage, ParameterDrivenPublish and IsPublishTaskRunning.
 - [Sitecore Instance Manager](https://github.com/Sitecore/Sitecore-Instance-Manager) - The legendary Sitecore Instant Manager, now with version 9.x support.
 - [Sifon](https://github.com/MartinMiles/Sifon) - Backup-restore tool supporting XC and remote machine operation with an excellent pluggable interface. Sifon also has a very powerful extension system with plugins covering many aspects of day-to-day activities.
+
+## Marketplace
+- [Sitecore Marketplace Starter](https://github.com/Sitecore/marketplace-starter) - the starter template for building Marketplace extensions. It demonstrates five extension points: Custom Field, Dashboard Widget, Fullscreen, Pages Context Panel, and Standalone. Each extension point has its own UI and integration with the Sitecore Marketplace SDK.
+- [Google Analytics](https://github.com/Sitecore/marketplace-google-analytics) - Seamless Google Analytics integration within the XM Cloud environment. This module provides real-time analytics data visualization, including page views and active user metrics, directly within your Sitecore experience.
+- [Icon Picker](https://github.com/Sitecore/marketplace-icon-picker) - Marketplace Icon picker - a sample application showingcasing how to create a custom field extension.
 
 ## Media
 
