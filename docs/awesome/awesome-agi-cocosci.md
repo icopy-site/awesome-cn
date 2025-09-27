@@ -634,6 +634,7 @@ Contributions are greatly welcomed! Please refer to [Contribution Guidelines](ht
 * [A Generalized Earley Parser for Human Activity Parsing and Prediction](https://scholar.google.com/scholar?cluster=8196745813546421985) - ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2020. [[All Versions](https://scholar.google.com/scholar?cluster=8196745813546421985)]. Detection, parsing, and future predictions on sequence data (e.g., videos) require the algorithms to capture non-Markovian and compositional properties of high-level semantics. Context-free grammars are natural choices to capture such properties, but traditional grammar parsers (e.g., Earley parser) only take symbolic sentences as inputs. This paper generalizes the Earley parser to parse sequence data which is neither segmented nor labeled. Given the output of an arbitrary probabilistic classifier, this generalized Earley parser finds the optimal segmentation and labels in the language defined by the input grammar. Based on the parsing results, it makes top-down future predictions. The proposed method is generic, principled, and widely applicable. Experiment results clearly show the benefit of the method for both human activity parsing and prediction on three video datasets.
 
 
+
 #### Logic DSL Applications
 
 * [Situation Calculus](https://en.wikipedia.org/wiki/Situation_calculus) - ***Wikipedia***. Wikipedia on Situation Calculus, a logic formalism designed for representing and reasoning about dynamical domains.

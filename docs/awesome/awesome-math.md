@@ -468,6 +468,11 @@ All resources are freely available except those with a 💲 icon.
 * 📝 [Partial Differential Equations: Lecture Notes](http://www.math.uni-leipzig.de/~miersemann/pdebook.pdf) - Erich Miersemann (Leipzig University)
 * 📝 [Linear Methods of Applied Mathematics](http://www.mathphysics.com/pde/) - E. Harrell, J. Herod (Georgia Tech)
 
+### Chaos Theory
+
+* 📝 [Chaos: Making a New Science](https://archive.org/details/chaosmakingnewsc0000unse) - James Gleick
+* 📝 [Complexity: A Guided Tour](https://archive.org/details/complexityguided0000mitc?utm_source=chatgpt.com) - Melanie Mitchell (Oxford University)
+
 
 ## Probability and Statistics
 

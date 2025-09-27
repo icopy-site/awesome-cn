@@ -4,7 +4,6 @@
 A curated list of awesome niche job boards.
 
 
-- [Quantum Computing)(#quantum-computing)
 
 ## Artificial Intelligence (AI)
 
