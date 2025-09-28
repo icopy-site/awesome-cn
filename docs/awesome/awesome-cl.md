@@ -1768,8 +1768,9 @@ Sly extensions:
 
 ## REPLs ##
 
-* [cl-repl](https://github.com/lisp-maintainers/cl-repl) - an ipython-like REPL. With completion, shell commands, magic commands, debugger, etc. [GPL3][2]. With [colorthemes](https://github.com/koji-kojiro/lem-pygments-colorthemes).
-  * new as of 2024: it now provides multi-line input and binary releases. Simply download a binary (Ubuntu so far) and run it.
+* [cl-repl](https://github.com/lisp-maintainers/cl-repl) - an ipython-like REPL. With completion, shell commands, magic commands, debugger, etc. [GPL3][2].
+  * binary releases: simply download a binary (Ubuntu, OSX, Windows) and run it.
+  * [colorthemes](https://github.com/koji-kojiro/lem-pygments-colorthemes).
 * [sbcli](https://github.com/hellerve/sbcli) - a readline REPL for SBCL. With completion, quick commands, optional syntax highlighting (with pygments), and no interactive debugger. [GPL3][2].
 
 ## Online editors ##

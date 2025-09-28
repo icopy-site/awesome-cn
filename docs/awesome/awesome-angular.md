@@ -78,6 +78,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [rafacli](https://github.com/rafa00716/rafacli) - A command-line tool designed to generate authentication and CRUD modules (and more soon) for NestJS and Angular applications. It streamlines the development process by automating boilerplate code creation, reducing repetitive tasks, and ensuring consistency across projects.
 * [ngx-crafter](https://github.com/ErwanHeschung/ngx-crafter) - A powerful CLI tool that helps you craft Angular projects with pre-configured folder structures and essential packages.
 * [ng new command generator](https://ng.gridatek.com/) - Generate optimized `ng new` commands.
+* [tailwind-init-cli](https://github.com/ImLeoNova/tailwind-init-cli) - A one-command setup tool for Tailwind CSS in Angular, React, or Next.js projects!
 
 ### Deployment
 
@@ -117,6 +118,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-update-app](https://github.com/Celtian/ngx-update-app) - Angular directive for updating app via service workers.
 * [Angular Caniuse](https://www.dolmen.tools/en/angular/caniuse/explorer) - Track Angular features from preview to stable stages.
 * [ngx-boomer](https://github.com/angular-sanctuary/ngx-boomer) - This project is a straightforward utility designed to enforce rules that preserve Angular's previous naming conventions in Angular 20.
+* [angular-updater](https://github.com/stardyn/angular-updater) - A flexible and lightweight solution for managing version control and update alerts in Angular apps, featuring seamless integration with service workers.
 
 ## Angular Pulse
 
@@ -694,6 +696,13 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular React SEO](https://github.com/ganatan/angular-react-seo) - Angular & React Examples SEO (Search engine optimization).
 * [unhead](https://www.npmjs.com/package/@unhead/angular) - Full-stack `<head>` management for Angular applications.
 * [seo-manager-pro](https://github.com/mbsh-code/seo-manager-pro) - A powerful SEO Manager for Angular, React, Vue, and Vanilla JS projects. Easily set meta tags, Open Graph tags, Schema.org structured data, canonical URLs, robots meta, and more!
+
+### Styling
+
+* [Angular-Material-Tailwind-Integration](https://github.com/adandedjanstephane-git/Angular-Material-Tailwind-Integration) - A stable, themeable set of CSS custom properties mapping Material Design System tokens to Tailwind CSS utility classes.
+* [element-identifier](https://github.com/jooherrera/element-identifier) - Create reliable, distinct CSS selectors to target DOM elements, and utilize a web component for visual inspection and selection.
+* [ngx-classed](https://github.com/lukonik/ngx-classed) - A library allows you to dynamically add or remove classes based on state.
+* [panda](https://github.com/chakra-ui/panda) - Easily use Panda, CSS-in-JS Framework, with Angular with its dedicated [integration](https://panda-css.com/docs/docs/installation/angular).
 
 ## Security and Authentication
 
