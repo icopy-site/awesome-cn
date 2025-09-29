@@ -133,6 +133,7 @@
 - [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Destroy wave after wave of enemies on a tiny world.
 - [Scooter Xtreme](https://gamesnacks.com/games/scooterxtreme) - Casual scooter riding game.
 - [Slice Rush](https://play.famobi.com/slice-rush) - Take the knife and chop your way through the kitchen.
+- [Squid Dash](https://poki.com/en/g/squid-dash) - Help Squiddy get to the ocean.
 - [Stack Smash](https://play.famobi.com/stack-smash) - Destroy all platforms to get to the ground and win.
 - [Stickman Climb](https://poki.com/en/g/stickman-climb) - Physics based puzzle game.
 - [The Walking Dead: Those Beyond](https://twd.thosebeyond.io/) - A community survivor camp experience game.
@@ -215,6 +216,7 @@
 - [4DV](https://www.4dv.ai/) - Impressive implementation of animated Gaussian splats (4DGS).
 - [Arrival Space](https://arrival.space/) - Social metaverse built on splat-based spaces.
 - [Braintrance](https://www.braintrance.net/) - A platform to share and experience 3D memories.
+- [Clos Belharra](https://adnfamily.com/studio/mj/clos_belharra/experience/index.html) - Real estate visualization blending synthetic and photo-based splats.
 - [DiffStudio](https://diffstudio.co) - Create digital twins of e-commerce products.
 - [Doly](https://www.animl.ai/) - Capture high-quality 3D photos of your products and embed them on Shopify in minutes.
 - [GSplat Share](https://gsplat.org/) – Share your splats with optional time-limited and password-protected links.

@@ -142,6 +142,7 @@ _Info on topics necessary for designing and developing game engines._
 - Commercial Studios Research Divisions
     - 🌎 [Activision Research](https://research.activision.com/) - Blog posts, articles and presentations from research within _Activision_.
     - 🌎 [EA Technology](https://www.ea.com/technology/research) - Research on game tech including info on the _Frostbite_ engine.
+    - 🌎 [tri-Ace Research](https://research.tri-ace.com/) - Publications from the Research and Development Department at _tri-Ace Inc_.
     - 🌎 [Ubisoft Technology](https://www.ubisoft.com/en-us/company/how-we-make-games/technology) - Learn about in-house tech including the _Anvil_ and _Snowdrop_ engines.
 - Education Portals
     - 📚 [3D Game Engine Programming](https://www.3dgep.com) - Articles on graphics, physics, AI, I/O and more.
@@ -273,7 +274,9 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Kazmath](https://github.com/Kazade/kazmath) - Math library targeted at games.
     - 🎉 [Raymath](https://github.com/raysan5/raylib/blob/master/src/raymath.h) - Math library included in the _RayLib_ game framework.
 - C: Network
+    - 🎉 [ENet](https://github.com/zpl-c/enet) - Simple, lightweight and reliable UDP networking library.
     - 🎉 [librg](https://github.com/zpl-c/librg) - Middleware between networking / file-streaming libraries and app logic.
+    - 🎉 [netcode](https://github.com/mas-bandwidth/netcode) - Secure client/server protocol for multiplayer games built on top of UDP.
 - C: Physics
     - 🎉 [Chipmunk](https://github.com/slembcke/Chipmunk2D) - Fast, lightweight 2D game physics library. [[Docs](https://chipmunk-physics.net/documentation.php)]
 - C: Scripting
@@ -352,7 +355,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Cocos2d-x](https://github.com/cocos2d/cocos2d-x) - Widely used in indie game dev community.
     - 🎉 [Cute Framework](https://github.com/RandyGaul/cute_framework) - Simple and consise framework for making 2D games.
     - 🔒 [Fireworks Engine](https://github.com/Pikachuxxxx/Fireworks-Engine) - Lightweight OpenGL framework for quick prototyping.
-    - 🎉 [Halley](https://github.com/amzeratul/halley) - Modern C++17. Used for Wargroove, a strategy game on desktop and consoles.
+    - 🎉 [Halley](https://github.com/amzeratul/halley) - Modern C++17. Used for _Wargroove_, a strategy game on desktop and consoles.
     - 🎉 [is::Engine](https://github.com/Is-Daouda/is-Engine) - 2D framework built on _SDL2_ and _SFML_.
     - 🎉 [JNGL](https://github.com/jhasse/jngl) - 2D framework. Develop anywhere, deploy everywhere.
     - 🔒 [KlayGE](https://github.com/gongminmin/KlayGE) - Cross-platform game framework with plugin-based architecture.
@@ -447,6 +450,8 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [OpenGL Mathematics](https://github.com/g-truc/glm) - Header-only math library for graphics software.
 - C++: Network
     - 🎉 [Cpp-HttpLib](https://github.com/yhirose/cpp-httplib) - Single-header file HTTP server and client library in C++11.
+    - 🎉 [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) - Messages over UDP, message fragmentation & reassembly, P2P networking, encryption.
+    - 🎉 [yojimbo](https://github.com/mas-bandwidth/yojimbo) - Network library for client/server games.
 - C++: Physics
     - 🎉 [Box2D](https://github.com/erincatto/box2d) - Battle tested 2D physics for games. [[Docs](https://box2d.org/documentation/) | [Fixed Time-Step](https://www.unagames.com/blog/daniele/2010/06/fixed-time-step-implementation-box2d) | [Tutorials](http://www.iforce2d.net/b2dtut/introduction)]
     - 🎉 [Bullet Physics](https://github.com/bulletphysics/bullet3) - Popular 3D physics libary.
@@ -525,7 +530,7 @@ _Language specific game engine development libraries / frameworks / code._
 - C#: Geometry
     - 🎉 [DotRecast](https://github.com/ikpil/DotRecast) - A port of _Recast & Detour_, navigation mesh toolset for games, Unity3D, servers, C#.
 - C#: Graphics - 3D
-    - 🎉 [OpenTK](https://github.com/opentk/opentk) - Open Toolkit, C# bindings for OpenGL. [[LearnOpenGL](https://github.com/opentk/LearnOpenTK)]
+    - 🎉 [OpenTK](https://github.com/opentk/opentk) - Open Toolkit, C# bindings for OpenGL. [[LearnOpenTK](https://github.com/opentk/LearnOpenTK)]
     - 🎉 [Veldrid](https://github.com/mellinoe/veldrid) - Cross-platform, graphics API-agnostic rendering and compute library for .NET.
 - C#: Gui
     - 🎉 [Apos.Gui](https://github.com/Apostolique/Apos.Gui) - UI library for _MonoGame_.
@@ -1295,7 +1300,7 @@ _Software to help with game engine / video game development._
 - 💰 [Ken Shape](https://tools.kenney.nl/kenshape/) - Draw in 2D, set the depth for each pixel and generate 3D models!
 - 🎉 [IsoVoxel](https://github.com/tommyettinger/IsoVoxel) - Generates isometric pixel art from _MagicaVoxel_ .vox files.
 - 🆓 [MagicaVoxel](https://ephtracy.github.io) - Lightweight voxel art editor.
-- 💰 [Qubicle](https://www.getqubicle.com) - Popular (Crossy Road, Pacman 256) voxel editor, easy creation of 3D models.
+- 💰 [Qubicle](http://minddesk.com/) - Popular (Crossy Road, Pacman 256) voxel editor, easy creation of 3D models.
 
 <br />
 <br />
