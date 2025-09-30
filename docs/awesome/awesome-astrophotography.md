@@ -13,21 +13,21 @@ Contributions are welcome. Please read the [contributing guideline](https://gith
 
 - [An Astrophotographer's Gentle Introduction To Noise](https://skyandtelescope.org/astronomy-blogs/imaging-foundations-richard-wright/astrophotography-gentle-introduction-noise/) - An easy to understand introduction to various sources of noise in astrophotography and how to eliminate them.
 - [Autoguiding](https://astrobackyard.com/autoguiding/) - An introduction to auto-guiding.
-- [Buyer's Guide to ZWO Astronomy Cameras](https://agenaastro.com/articles/zwo-astronomy-cameras-buyers-guide.html) - ZWO has a diverse product line. This guide will help you make the right choice.
+- [Buyer's Guide to ZWO Astronomy Cameras](https://web.archive.org/web/20250828163126/https://agenaastro.com/articles/zwo-astronomy-cameras-buyers-guide.html) - ZWO has a diverse product line. This guide will help you make the right choice.
 - [Cable Management Recommendations](https://pegasusastro.com/cable-management-recommendations/) - Some solid advice on cables in an astrophotography setup.
 - [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/) - Another interactive guide by Bartosz Ciechanowski, this time about cameras and lenses. A **must-read** for anyone interested in telescopes and photography.
 - [DeepSkyStacker vs PixInsight](https://web.archive.org/web/20230408140244/https://www.lightvortexastronomy.com/image-pre-processing-deepskystacker-vs-pixinsight.html) - A detailed comparison of the pre-processing features.
 - [Drift Alignment by Robert Vice (D.A.R.V)](https://www.cloudynights.com/articles/cat/articles/darv-drift-alignment-by-robert-vice-r2760) - Accurate alignment in just a matter of minutes.
 - [Flat Fields and Stray Light in Amateur Telescopes](https://diffractionlimited.com/flat-fields-stray-light-amateur-telescopes/) - A great resource to help one identify and resolve flat-fielding issues.
 - [Guide Scope vs. Off-Axis Guider: Which is Better for Astrophotography?](https://web.archive.org/web/20240928205001/https://optcorp.com/blogs/deep-sky-imaging/guide-scope-vs-off-axis-guider) - Compares the two guiding options in details.
-- [Guide to Focal Reducers for Astronomy](https://agenaastro.com/articles/focal-reducers-guide.html) - How focal reducers work, what types are there, and how to use them.
+- [Guide to Focal Reducers for Astronomy](https://web.archive.org/web/20250501171410/https://agenaastro.com/articles/focal-reducers-guide.html) - How focal reducers work, what types are there, and how to use them.
 - [Guide to Preprocessing of Raw Data With PixInsight](https://pixinsight.com/forum/index.php?threads/guide-to-preprocessing-of-raw-data-with-pixinsight.11547/) - Mistakes that happen during the pre-processing stages cannot be corrected anymore in post-processing. This guide from Bernd Landmann acquaints fellow astrophotographers with PixInsight's tools needed for recognising and avoiding such mistakes.
 - [How to Set the Correct Back Focus](https://web.archive.org/web/20240928205054/https://optcorp.com/blogs/deep-sky-imaging/how-to-set-the-correct-back-focus) - An easy to follow guide on what back focus is and how to set it.
 - [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/) - This interactive guide to light by Bartosz Ciechanowski, teaches about travel vectors, irradiance, radiance, angles, luminance, and more.
 - [Master PixInsight's Astrophotography Statistics: Analyze, Adjust, Enhance](https://www.kozmosi.io/articles/a-to-z-of-pixinsight-statistics-panel) - Successfully processing astronomical images entails a series of informed decisions. Understanding the data is crucial. This article provides a comprehensive guide to the Statistics process in PixInsight.
 - [Mastering Flat Frames: Gain matching](https://www.astroworldcreations.com/blog/understanding-flats-part-1-gain-matching) - This blog series by Willem Jan Drijfhout will take you on a deep dive into the topic of flat frames ([Part 2: Flat Panels compared](https://www.astroworldcreations.com/blog/understanding-flats-part-2-flat-panels-compared), and [Part 3: Bias, Flat-Darks and Conclusions](https://www.astroworldcreations.com/blog/understanding-flats-part3-conclusions)).
 - [Optical Glass Types](https://www.stellarvue.com/optical-glass-types/) - What makes a top-tier telescope? This article will clear up some common misconceptions.
-- [Selecting a Guide Scope and Autoguiding Camera for Astrophotography](https://agenaastro.com/articles/guides/selecting-a-guide-scope-and-autoguiding-camera-for-astrophotography.html) - Choosing the right autoguiding equipment can be challenging. This guide will help with making the right decision.
+- [Selecting a Guide Scope and Autoguiding Camera for Astrophotography](https://web.archive.org/web/20250501171421/https://agenaastro.com/articles/guides/selecting-a-guide-scope-and-autoguiding-camera-for-astrophotography.html) - Choosing the right autoguiding equipment can be challenging. This guide will help with making the right decision.
 - [Signal, Noise and Histograms](https://jonrista.com/the-astrophotographers-guide/astrophotography-basics/signal-noise-and-histograms/) - Part of Jon Rista's Astrophotography Basics series, this article provides a great bit of theory around signals, noise and histograms.
 - [Sky-Watcher AZ-GTI: The Perfect Mount for Mobile Astrophotography](https://web.archive.org/web/20221205012955/https://milkywayphotographers.com/article/2021/03/11/sky-watcher-az-gti-the-perfect-mount-for-mobile-astrophotography/) - The Sky-Watcher AZ-GTI mount was never meant for astrophotography. Oh, the irony!
 - [The Differences between CCD and CMOS Sensors](https://www.atik-cameras.com/news/difference-between-ccd-cmos-sensors/) - One of the best explanations to CCD vs. CMOS camera sensors.
@@ -54,7 +54,7 @@ Contributions are welcome. Please read the [contributing guideline](https://gith
 - [Chris White's Guide to Fixing Tilt and Spacing](https://overcastobservatory.com/products/guide-to-tilt-and-spacing-analysis-download-link-in-listing) - Annoying and hard to fix, tilt and spacing can ruin your imaging. This guide will help you eliminate them.
 - [Filters for Deep Sky Astrophotography](https://www.youtube.com/playlist?list=PLrzbdmripj1fIXrivZF1BT4BtJMZ6xvWo) - A video series that kicks off with a gentle introduction to filters and closes down comparing the most popular ones.
 - [Harry's PixInsight tutorials](https://web.archive.org/web/20220115193835/http://www.harrysastroshed.com/Pixinsighthome.html) - Newcomer friendly, down-to-earth and comprehensive video tutorials.
-- [How to Eliminate Star Halos in PixInsight](https://digitalstars.wordpress.com/2019/10/27/tutorial-how-to-eliminate-star-halos-in-pixinsight/) - One of the more challenging issues in astrophotography. Charles Bracken, the author of "The Deep-Sky Imaging Primer", has you covered.
+- [How to Eliminate Star Halos in PixInsight](https://digitalstars.wordpress.com/2019/10/27/tutorial-how-to-eliminate-star-halos-in-pixinsight/) - One of the more challenging issues in astrophotography. Charles Bracken, the author of “The Deep-Sky Imaging Primer”, has you covered.
 - [How to Make a Padded Travel Box for Your Telescope](https://www.youtube.com/watch?v=90F_cBiZpH8) - Rig assembly on-site can be tedious. A more comfortable alternative is to assemble at home, then upon arrival at the imaging site, install on the mount.
 - [Independent Starless Processing](https://www.nightphotons.com/guides/star-addition) - This article details a simple and effective method to separate, process, and later reintroduce stars into an image without artifacts. It also discusses how to get more naturally looking stars from a narrowband dataset.
 - [Light Vortex Astronomy's PixInsight tutorials](https://web.archive.org/web/20230509214425/https://www.lightvortexastronomy.com/tutorials.html) - An extensive collection of tutorials covering both pre- and post-processing workflows.
@@ -109,9 +109,10 @@ Contributions are welcome. Please read the [contributing guideline](https://gith
 
 - [12 Deep Sky Objects to Photograph](https://www.nebulaphotos.com/doc/brightLargeDsos.pdf) - A beginner friendly list of objects to photograph with a DSLR camera.
 - [Astronomy Tools](https://astronomy.tools/) - A tools suite with various calculators, field of view simulation, star chart, etc.
-- [Blackwater Skies Imaging Toolbox](https://www.blackwaterskies.co.uk/imaging-toolbox/) - Plan your framing.
 - [Noise Analysis in Stacked Exposures](https://smallstarspot.com/shiny/StackSNR/) - A web application that assists in finding the optimal sub-exposure time. It takes into account the imaging setup, sky glow, etc.
-- [PhotoPills](https://www.photopills.com) - A photography planning mobile app (Android & iOS). Best for planning your next Milky Way, Moon, Sunrise, Sunset, Star Trails, Meteor Showers, Solar or Lunar eclipse photo.
+- [Nova DSO Tracker](https://github.com/mrantonSG/nova_DSO_tracker) - A free and open source, self-hosted web application for astrophotography planning. Features both single and multi-user modes, making it suitable for individuals or entire astronomy clubs.
+- [PhotoPills](https://www.photopills.com) - A photography planning mobile app (Android & iOS). It helps you plan your photos ahead of time so you’re always at the right place at the right time to capture the best photo possible.
+- [SolarHam](https://www.solarham.com) - Real time Space Weather news and solar and geomagnetic activity data from various sources. All in one location for easy navigation. Indispensable for planning solar imaging sessions.
 - [Telescopius](https://telescopius.com) - Free planning and image hosting for astrophotographers.
 - [lightpollutionmap.info](https://www.lightpollutionmap.info) - This website uses satellite data to show light pollution related content.
 
@@ -135,7 +136,7 @@ Contributions are welcome. Please read the [contributing guideline](https://gith
 
 ## Reference
 
-- [Astrobin's Heatmap of the Sky](https://www.astrobin.com/full/e4clel/0/) - An inspiring map showing the parts of the sky that the community on Astrobin photographs the most (or least).
+- [Astrobin's Heatmap of the Sky](https://app.astrobin.com/i/e4clel) - An inspiring map showing the parts of the sky that the community on Astrobin photographs the most (or least).
 - [Calibration Frames Cheat-Sheet](https://drive.google.com/file/d/1I1deTi8sCFIn_bwQbYiqqxliVLInsGx6/view) ([cached version](https://github.com/lunohodov/awesome-astrophotography/blob/master/assets/docs/calibration-frames-cheatsheet.pdf))
 - [Canon EOS DSLR models matrix](https://www.astrophotography.app/EOS.php) - A list of Canon EOS models with useful reference information such as sensor and pixel size, quantum efficiency, shutter life, etc.
 - [Digital Camera Database](https://www.digicamdb.com) - A database holding sensor characteristics for a plethora of digital cameras.
@@ -149,7 +150,7 @@ Contributions are welcome. Please read the [contributing guideline](https://gith
 - [Processing Methods Under PixInsight](https://astro-photographie.fr/traitement_pixinsight.html) - An extensive collection of workflow diagrams for image processing in PixInsight. It covers both one-shot and monochrome cameras. A great resource for beginners and advanced users alike.
 - [Rouzastro equipment reviews](https://rouzastro.com/reviews/) - A growing list of equipment reviews. The experiences and results may prove useful for those looking at new gear.
 - [Sharpless](http://www.sharplesscatalog.com/sharpless.aspx) - Images of all objects from the Sharpless catalogue each with capture and background information.
-- [The 750 Best Deep Sky Objects (Reachable from the Northern Hemisphere)](https://www.astrobin.com/8cawy6/) - A simplified tool to help astrophotographers easily find targets on any night of the year.
+- [The 750 Best Deep Sky Objects (Reachable from the Northern Hemisphere)](https://app.astrobin.com/i/8cawy6) - A simplified tool to help astrophotographers easily find targets on any night of the year.
 
 
 
