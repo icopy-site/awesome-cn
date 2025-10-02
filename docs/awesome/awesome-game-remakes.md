@@ -41,17 +41,23 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Zelda Classic](https://github.com/ArmageddonGames/ZeldaClassic) - A game and editing tool that lets you create custom Legend of Zelda quests.
 
 ## FPS
+- [Aleph One](https://github.com/Aleph-One-Marathon/alephone) - The open source continuation of Bungie’s Marathon 2 game engine.
 - [Allegiance](https://github.com/FreeAllegiance/Allegiance) - Allegiance is RTS and FPS Space Combat game.
 - [BetterSpades](https://github.com/xtreme8000/BetterSpades/) - Ace Of Spades open source implementation that runs on older machines.
 - [BStone](https://github.com/bibendovsky/bstone) - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
 - [CatacombGL](https://github.com/ArnoAnsems/CatacombGL) - Windows source port of Catacomb 3D and the Catacomb Adventure series.
 - [Chocolate Doom](https://github.com/chocolate-doom/chocolate-doom) - Source port that is minimalist, historically accurate and includes ports of Heretic and Hexen, and Strife. :flower_playing_cards:
+- [Chocolate Quake](https://github.com/Henrique194/chocolate-quake) - A purist Quake source port that restores the original look and feel of v1.09 and earlier.
 - [ClassiCube](https://github.com/ClassiCube/ClassiCube) - Minecraft Classic compatible client written in C from scratch. :flower_playing_cards:
+- [Crispy Doom](https://github.com/fabiangreffrath/crispy-doom) - A limit-removing enhanced-resolution Doom source port based on Chocolate Doom.
+- [dhewm3](https://github.com/dhewm/dhewm3) - A source port of Doom 3.
 - [Doom Legacy](https://sourceforge.net/projects/doomlegacy/) - One of the most popular DOOM source ports, which enhances it with things like TCP/IP networking, OpenGL renderer etc. :flower_playing_cards:
 - [DoomRetro](https://github.com/bradharding/doomretro) - Classic, refined DOOM source port for Windows PC. :flower_playing_cards:
 - [Doomsday Engine](https://github.com/skyjake/Doomsday-Engine) - Source port of id Software's DOOM I/II and Raven Software's Heretic and Hexen. :flower_playing_cards:
+- [DSDA-Doom](https://github.com/kraflab/dsda-doom) - A successor of prboom+ with extra tooling for demo recording and playback, with a focus on speedrunning and quality of life.
 - [DukeGDX](https://gitlab.com/m210/DukeGDX) - Duke Nukem 3D port.
 - [ECWolf](https://bitbucket.org/ecwolf/ecwolf/src/master/) - Port of Wolfenstein 3D based on Wolf4SDL.
+- [Eduke32](https://voidpoint.io/terminx/eduke32) - Source port of Duke Nukem 3D and the BUILD Engine.
 - [ezQuake](https://github.com/ezQuake/ezquake-source) - Combining the features of all modern QuakeWorld clients, ezQuake makes QuakeWorld easier to start and play.
 - [FreeCS](https://sourceforge.net/projects/freecs-1-5/) - Free-software re-implementation of Counter-Strike 1.5 running on the FTEQW engine. :flower_playing_cards:
 - [Freedoom](https://github.com/freedoom/freedoom) - Free software FPS based on the classic DOOM engine. :flower_playing_cards:
@@ -59,18 +65,24 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [GZDoom](https://github.com/coelckers/gzdoom) - Modder-friendly OpenGL and Vulkan source port based on the DOOM engine. :flower_playing_cards:
 - [Hexen II: Hammer of Thyrion](https://sourceforge.net/p/uhexen2/code/HEAD/tree/) - Cross-platform port of the Hexen II game.
 - [ioquake3](https://github.com/ioquake/ioq3) - The free software FPS engine that can be used to play Quake 3, or make your own game.
+- [iortcw](https://github.com/iortcw/iortcw) - Source port of Return to Castle Wolfenstein.
+- [ironwail](https://github.com/andrei-drexler/ironwail) - High-performance QuakeSpasm fork.
 - [NBlood](https://github.com/nukeykt/NBlood) - Port of the classic FPS Blood.
 - [NearChuckle](https://github.com/rohit-n/NearChuckle) - A Linux port of Far Cry 1.
 - [Odamex](https://github.com/odamex/odamex) - Online multiplayer DOOM port with a strong focus on the original gameplay while providing a breadth of enhancements. :flower_playing_cards:
 - [OpenMoHAA](https://github.com/openmoh/openmohaa) - Open re-implementation of Medal of Honor: Allied Assault including Spearhead and Breakthrough expansions.
 - [OpenSpades](https://github.com/yvt/openspades) - Compatible client of Ace of Spades, a voxel FPS.
+- [Quake3e](https://github.com/ec-/Quake3e) - Improved Quake III Arena engine.
 - [QuakeSpasm](https://sourceforge.net/projects/quakespasm/) - A modern, cross-platform Quake game engine.
 - [RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) - Doom 3 BFG Edition with soft shadows, cleaned up source, Linux and 64 bit Support.
 - [RedneckGDX](https://gitlab.com/m210/RedneckGDX) - Port of Redneck Rampage.
+- [SeriousSamClassic-VK](https://github.com/tx00100xt/SeriousSamClassic-VK) - Open source game engine for Serious Sam Classic with Vulkan support.
 - [SurrealEngine](https://github.com/dpjudas/SurrealEngine) - The goal of this project is to reimplement enough of the original Unreal Engine to make the Unreal Tournament (UT99) maps playable.
+- [Taradino](https://github.com/fabiangreffrath/taradino) - SDL2 port of Rise of the Triad.
 - [The Eternity Engine](https://github.com/team-eternity/eternity) - Advanced DOOM source port. :flower_playing_cards:
 - [The Force Engine](https://github.com/luciusDXL/TheForceEngine) - Jedi Engine for modern systems and the games that used that engine - Dark Forces and Outlaws.
 - [Tyrquake](https://github.com/libretro/tyrquake) - Libretro port of Tyrquake.
+- [vkQuake](https://github.com/Novum/vkQuake) - Vulkan Quake port based on QuakeSpasm.
 - [Yamagi Quake II](https://github.com/yquake2/yquake2) - Enhanced client for id Software's Quake II with focus on offline and coop gameplay.
 - [Zandronum](https://zandronum.com/) - Multiplayer oriented port, based off Skulltag, for Doom and Doom II. Also runs Heretic, Hexen and Strife. :flower_playing_cards:
 

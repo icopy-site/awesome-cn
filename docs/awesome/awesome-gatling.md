@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="aliesbelik/awesome-gatling"></div>
 ## Awesome Gatling [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-<!--lint ignore double-link-->
+<!--lint ignore double-link match-punctuation -->
 [<img src="https://raw.githubusercontent.com/aliesbelik/awesome-gatling/master/assets/images/gatling-logo.svg?sanitize=true" align="right" width="260" alt="Gatling">](https://gatling.io/)
 <!--lint ignore double-link-->
 A curated collection of resources covering all aspects of load testing using [Gatling](https://gatling.io/) and related stuff: plugins, integrations, testing techniques, DevOps practices, etc.
