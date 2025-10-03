@@ -629,6 +629,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Machine Learning For Absolute Beginners](https://www.amazon.in/Machine-Learning-Absolute-Beginners-Introduction-ebook/dp/B07335JNW1)
 - [Unifying Business, Data, and Code: Designing Data Products with JSON Schema](https://learning.oreilly.com/library/view/unifying-business-data/9781098144999/)
 - [Grokking Bayes](https://www.manning.com/books/grokking-bayes)
+- [Machine Learning Q and AI](https://sebastianraschka.com/books/ml-q-and-ai)
 
 #### Book Deals (Affiliated)
 

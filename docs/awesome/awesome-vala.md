@@ -3,7 +3,7 @@
 
 [<img src="https://raw.githubusercontent.com/desiderantes/awesome-vala/master/vala.svg?sanitize=true" align="right" width="100">](https://vala.dev)
 
-A curated list of resources for Vala - A programming language using modern high level abstractions without imposing additional runtime requirements, by leaning on GLib and GObject.
+A curated list of resources for [Vala](https://vala.dev/) - A programming language using modern high level abstractions without imposing additional runtime requirements, by leaning on GLib and GObject.
 
 
 
@@ -116,7 +116,7 @@ A curated list of resources for Vala - A programming language using modern high 
 ### Data Structures & Data Types
 
 - [Graphene](https://github.com/ebassi/graphene) - A thin layer of types for graphic libraries. It provides common types needed to handle 3D transformations: points, triangles, rectangles, quads, quaternions, vectors, matrices, spheres, etc.
-- [Libgee](https://wiki.gnome.org/Projects/Libgee) - A utility library providing GObject-based interfaces and classes for commonly used data structures (lists, maps, queues, trees, etc.).
+- [Libgee](https://gitlab.gnome.org/GNOME/libgee) - A utility library providing GObject-based interfaces and classes for commonly used data structures (lists, maps, queues, trees, etc.).
 - [Numeric-GLib](https://github.com/arteymix/numeric-glib) - A collection of numeric data types for GLib (and Vala) via GCC extensions. It includes 128 bit integers & floats, complex types, vectorized operations, and decimal types.
 - [United](https://github.com/lcallarec/united) - A library for unit manipulation (like kilograms, meters, etc).
 - [vul (Vala Utility Libraries)](https://gitlab.gnome.org/BZHDeveloper/vul) - A set of utility libraries for Vala that add: Text stream handling (input and output), JSON serialization and deserialization, and, Archive compression and extraction.
