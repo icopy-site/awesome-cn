@@ -75,6 +75,8 @@ List of interesting community plugins.
 - [elliott-w / imageAspectRatios.ts](https://gist.github.com/elliott-w/19676d9373d79ee20b9195601dc45808) - Payload image aspect ratios plugin.
 - [AdrianMaj / payload-lexical-typography](https://github.com/AdrianMaj/payload-lexical-typography) - Payload plugin for extending lexical typography options (Text color, Font size, Letter spacing, Line height, Font Family etc.)
 - [rilrom / payload-bites](https://github.com/rilrom/payload-bites) - Collection of various bite-sized Payload v3 plugins including image-search, fullscreen-editor, audit-fields, soft-delete and activity-log.
+- [shefing / payload-tools](https://github.com/shefing/payload-tools) - Contains a set of powerful plugins designed to enhance your Payload projects (Authorization, Authors Info, Rich-text Comments, Right Panel, Custom Version View, Cross-Collection Config, Field-type Component Override, Color Picker Field, Icon Select, Quick Filter, Reset List View, etc).
+- [Crayonan / payload-plugin-ai-localization](https://github.com/Crayonan/payload-plugin-ai-localization) - Adds an AI-powered "Translate" button to non-primary localized fields in Payload. Automatically translates content from the primary language using OpenAI or other models.
 
 ## Miscellaneous
 
