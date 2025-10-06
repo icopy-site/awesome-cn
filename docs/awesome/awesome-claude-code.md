@@ -14,13 +14,11 @@
 
 <!-- Generated with https://github.com/denvercoder1/readme-typing-svg -->
 
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7080D&random=true&width=435&lines=Fumigating...;Gallivanting...;Matriculating...;Toodleedoodling...;Goo-goo-g'joob-ing...;Excaliburating...;Canoodling...;Doing+the+humpty+dance...;Shiver-me-timbers-ing...;Becoming+sentient...;Opening+the+pod+bay+doors...;Rimraf-ing...;23-skidoo-ing...;Skip-to-my-loo'ing...;High-falutin'...;Disambiguating...;Coagulating...;Undulating...;Just+Clauding+around...)](https://git.io/typing-svg) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7080D&random=true&width=435&lines=Fumigating...;Gallivanting...;Matriculating...;Toodleedoodling...;Goo-goo-g'joob-ing...;Excaliburating...;Canoodling...;Doing+the+humpty+dance...;Shiver-me-timbers-ing...;Becoming+sentient...;Opening+the+pod+bay+doors...;Rimraf-ing...;23-skidoo-ing...;Skip-to-my-loo'ing...;High-falutin'...;Disambiguating...;Coagulating...;Undulating...;Just+Clauding+around...)](https://git.io/typing-svg)
 
 <!--lint enable remark-lint:awesome-badge-->
 
-<!-- [![Awesome](https://awesome.re/badge-flat2.svg?sanitize=true)](https://awesome.re) [![FREEDOM FUNDER](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master//assets/freedom-funder-badge.svg?sanitize=true)](https://bailproject.org) -->
-
-[![Awesome MF DOOM](https://readme-typing-svg.demolab.com/?weight=600&repeat=false&font=Fira+Code&size=50&duration=1000&pause=100&color=F71313&center=true&multiline=true&width=1200&height=4650&lines=So+nasty+that+it%E2%80%B2s+probably+;Somewhat+of+a+travesty+having+me+;Daily+told+the+people;%22You+can+call+me+Your+Majesty!%22;Keep+your+battery+charged;You+know+it+won%27t+stick%2C+yo;And+it%E2%80%B2s+not+his+fault+you+kick+slow;Should%27ve+let+your+trick+%27ho;Chick+hold+your+sick+glow;Plus+nobody+couldn%E2%80%B2t+do+nothin%E2%80%B2;Once+he+let+the+brick+go;And+you+know+I+know;That%27s+a+bunch+of+snow;The+beat+is+so+butter;Peep+the+slow+cutter;As+he+utter+the+calm+flow;(Your+mother);Don%E2%80%B2t+talk+about+my+moms%2C+yo;Sometimes+he+rhyme+quick%2C;Sometimes+he+rhyme+slow;Or+vice+versa;Whip+up+a+slice+of+nice+verse+pie;Hit+it+on+the+first+try;Villain%3A+the+worst+guy;Spot+hot+tracks+like;Spot+a+pair+of+fat+asses;Shots+of+the+scotch;from+out+of+square+shot+glasses;And+he+won%27t+stop+;%E2%80%B2til+he+got+the+masses;And+show+%27em+what+they+know+not;through+flows+of+hot+molasses;Do+it+like+the+robot;To+headspin+to+boogaloo;Took+a+few+minutes+;to+convince+the+average+bug-a-boo;It%E2%80%B2s+ugly%2C;Like+look+at+you;It%27s+a+damn+shame;Just+remember;ALL+CAPS;when+you+spell+the+man+name...;++++++++++++++++++++.;Just+remember;ALL+CAPS;when+you+spell+the+man+name...;++++++++++++++++++++.;Just+remember;ALL+CAPS;when+you+spell+the+man+name...;++++++++++++++++++++.;ALL+CAPS;ALL+CAPS;ALL+CAPS;ALL+CAPS;ALL+CAPS;MF+DOOM;ALL+CAPS;MF+DOOM;ALL+CAPS;MF+DOOM;MF+DOOM;MF+DOOM;MF+DOOM;MF+DOOM;MF+DOOM;MF+DOOM;MF+DOOM;MF+DOOM;MF+DOOM;MF+DOOM;MF+DOOM;MF+DOOM;MF+DOOM;MF+DOOM;MF+DOOM;MF+DOOM;MF+DOOM;MF+DOOM;MF+DOOM;MF+DOOM;MF+DOOM;MF+DOOM;MF+DOOM)](https://en.wikipedia.org/wiki/MF_Doom)
+[![Awesome](https://awesome.re/badge-flat2.svg?sanitize=true)](https://awesome.re) [![FREEDOM FUNDER](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master//assets/freedom-funder-badge.svg?sanitize=true)](https://bailproject.org)
 
 
 ## Awesome Claude Code
@@ -40,9 +38,28 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 <summary>View Announcements</summary>
 
 - <details open>
-  <summary>2025-09-29 - MF DOOM TAKEOVER</summary>
+  <summary>2025-10-06 - Awesome Claude Code 2.0</summary>
 
-  This week we're paying respect to Daniel Dumile aka MF DOOM aka Madvillain aka Viktor Vaughan aka King Geedorah aka DOOM. If you're not sure why, just "Google" it. Normal service will resume shortly.
+  - <details open>
+    <summary>Change afoot</summary>
+
+    - Thank you, again, to Anthropic PBC for paying tribute to hip-hop royalty in their recent advertising campaign. Although they neglected to include his voice in the commercial, I'm sure DOOM would have echoed their joyful sentiment with full enthusiasm.
+
+    </details>
+
+  - <details open>
+    <summary>Fundraising update</summary>
+
+    - I've managed at last to secure a dedicated, direct-link, one-click fundraising widget for my campaign to support [The Bail Project](https://bailproject.org/). See <a href="#support">Support</a> below for more details, and click [here](https://donor.bailproject.org/-/NPHKDQGP?member=SELFZPZN) to contribute.
+
+    </details>
+
+  - <details open>
+    <summary>Content update</summary>
+
+    - Thanks to the hard work that so many people have devoted to writing code for other users of Claude Code, the current list has reached a very respectable size, with about 150 resource listings. As Claude Code has now reached 2nd grade, I am thinking more about how best to manage the list going forward. First, I'd like to ensure that existing resources are still relevant and compatible with the current version of Claude Code. I think some categories (I'm thinking in particular of usage monitors and bespoke orchestration frameworks) are more or less at capacity. For those wishing to submit to the Awesome List, I would like to strongly encourage exploration of any new or recent features that have been, or will be, rolled out - and to think about how to creatively leverage the existing features of _Claude Code_, as opposed to finding new ways to hook up Claude Code to something _else_. (For a bit more detail, see <a href="./DONTREADME.md">`DONTREADME.md`</a>.) In addition to this, due to personal factors and social ailments such as "rent", I must be mindful of the time I devote to this project, which is non-trivial - and, sadly, because GitHub is not as cool as reddit, I operate at a loss in maintaining this repo. For now, I am temporarily suspending any commitment to maintaining the Issue submissions as a FIFO _queue_ of items that must be evaluated in a timely fashion. You are absolutely encouraged to submit your projects, and I respect everybody's hard work and will make my best effort to review submissions as they come in. Futher maintenance support may be coming soon, but until then, I will be adding items as I see fit, whether they are from the Issues list or those that I discover on my own. If you want to support more activate maintenance and attention towards reviewing submissions, you may see the <a href="#support">Support</a> section below. Frankly, everyone on the list probably deserves some compensation for helping make Claude Code such a popular and awesome product, but I don't control the purse strings.
+
+    </details>
 
   </details>
 
@@ -51,7 +68,7 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
-[`/create-hook`](https://github.com/omril321/automated-notebooklm/blob/main/.claude/commands/create-hook.md) &nbsp; by &nbsp; [Omri Lavi](https://github.com/omril321)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`/create-hook`](https://github.com/omril321/automated-notebooklm/blob/main/.claude/commands/create-hook.md) &nbsp; by &nbsp; [Omri Lavi](https://github.com/omril321)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 Slash command for hook creation - intelligently prompts you through the creation process with smart suggestions based on your project setup (TS, Prettier, ESLint...).
 
 <details>
@@ -62,7 +79,7 @@ Slash command for hook creation - intelligently prompts you through the creation
 </details>
 <br>
 
-[`Claudio`](https://github.com/ctoth/claudio) &nbsp; by &nbsp; [Christopher Toth](https://github.com/ctoth)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;&copy;  
+[`Claudio`](https://github.com/ctoth/claudio) &nbsp; by &nbsp; [Christopher Toth](https://github.com/ctoth)    
 A no-frills little library that adds delightful OS-native sounds to Claude Code via simple hooks. It really sparks joy.
 
 <details>
@@ -73,46 +90,14 @@ A no-frills little library that adds delightful OS-native sounds to Claude Code 
 </details>
 <br>
 
-[`The Agentic Startup`](https://github.com/rsmdt/the-startup) &nbsp; by &nbsp; [Rudolf Schmidt](https://github.com/rsmdt)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-Yet Another Claude Orchestrator - a collection of agents, commands, etc., for shipping production code - but I like this because it's comprehensive, well-written, and one of the few resources that actually uses Output Styles! +10 points!
 
-<details>
-<summary>📊 GitHub Stats</summary>
+## **Support**
 
-![GitHub Stats for the-startup](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=the-startup&username=rsmdt&all_stats=true&stats_only=true)
+You can easily offer support by making a charitable donation in honor of Awesome Claude Code by visiting the [fundraising page](https://donor.bailproject.org/-/NPHKDQGP/join?member=SELFZPZN) I've set up for [The Bail Project](https://bailproject.org/). One click will take you straight to the donation widget, and a few seconds later your contribution will be completed - even $1 will truly make an impact. (If you are on GitHub, and you want your donation to be recognized, you will have to take about two more minutes to complete a follow-up email which actually notifies me of the dedication. As a reward you can show one of our nice Freedom Funder badges.) Sadly, this repo cannot be actively maintained without some direct support to this fund. Luckily there are loads of other resources devoted to Claude and his amazing Code, and it's up to you whether you think this one is particularly valuable or not.
 
-</details>
-<br>
-
-[`run-claude-docker`](https://github.com/icanhasjonas/run-claude-docker) &nbsp; by &nbsp; [Jonas](https://github.com/icanhasjonas/)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-A self-contained Docker runner that forwards your current workspace into a safe(r) isolated docker container, where you still have access to your Claude Code settings, authentication, ssh agent, pgp, optionally aws keys etc.
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![GitHub Stats for run-claude-docker](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=run-claude-docker&username=icanhasjonas&all_stats=true&stats_only=true)
-
-</details>
-<br>
-
-[`ClaudoPro Directory`](https://github.com/JSONbored/claudepro-directory) &nbsp; by &nbsp; [ghost](https://github.com/JSONbored)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-Well-crafted, wide selection of Claude Code hooks, slash commands, subagent files, and more, covering a range of specialized tasks and workflows. Better resources than your average "Claude-template-for-everything" site.
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![GitHub Stats for claudepro-directory](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claudepro-directory&username=JSONbored&all_stats=true&stats_only=true)
-
-</details>
-<br>
-
-
-
-- hesreallyhim (repository maintainer)
-- Others to be named once privacy is easier to guarantee.
-
-
-**$130**
+<a href="https://donor.bailproject.org/-/NPHKDQGP/join?member=SELFZPZN" text-align="center">
+  <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/./assets/fundraising-link-img.jpg" alt="Awesome Claude Code Freedom Funders" width="200" margin="auto" />
+</a>
 
 
 <details open>
@@ -769,7 +754,7 @@ A TypeScript-based system for configuring and customizing Claude Code hooks with
 </details>
 <br>
 
-[`Claudio`](https://github.com/ctoth/claudio) &nbsp; by &nbsp; [Christopher Toth](https://github.com/ctoth)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;&copy;  
+[`Claudio`](https://github.com/ctoth/claudio) &nbsp; by &nbsp; [Christopher Toth](https://github.com/ctoth)    
 A no-frills little library that adds delightful OS-native sounds to Claude Code via simple hooks. It really sparks joy.
 
 <details>
@@ -831,7 +816,7 @@ CLI tool and template gallery for customizing Claude Code output styles with pre
 <details open>
 <summary><h3>General <a href="#awesome-claude-code">🔝</a></h3></summary>
 
-[`/create-hook`](https://github.com/omril321/automated-notebooklm/blob/main/.claude/commands/create-hook.md) &nbsp; by &nbsp; [Omri Lavi](https://github.com/omril321)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+[`/create-hook`](https://github.com/omril321/automated-notebooklm/blob/main/.claude/commands/create-hook.md) &nbsp; by &nbsp; [Omri Lavi](https://github.com/omril321)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
 Slash command for hook creation - intelligently prompts you through the creation process with smart suggestions based on your project setup (TS, Prettier, ESLint...).
 
 <details>
@@ -854,17 +839,6 @@ Fetches GitHub issue details to create comprehensive implementation specificatio
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for Narraitor](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=Narraitor&username=jerseycheese&all_stats=true&stats_only=true)
-
-</details>
-<br>
-
-[`/bug-fix`](https://github.com/danielscholl/mvn-mcp-server/blob/main/.claude/commands/bug-fix.md) &nbsp; by &nbsp; [danielscholl](https://github.com/danielscholl)    
-Streamlines bug fixing by creating a GitHub issue first, then a feature branch for implementing and thoroughly testing the solution before merging.
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![GitHub Stats for mvn-mcp-server](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=mvn-mcp-server&username=danielscholl&all_stats=true&stats_only=true)
 
 </details>
 <br>
@@ -1727,26 +1701,17 @@ Official GitHub Actions integration for Claude Code with examples and documentat
 
 It's easy! Just click the link above and fill out the form. No Git knowledge required - our automated system handles everything for you.
 
-**We especially welcome:**
+**How we evaluate submissions**
 
-- Proven, effective resources that follow best practices and may even be in use in production
-- Innovative, creative, or experimental workflows that push the boundaries of Claude Code's capabilities
-- Additional libraries and tooling that are built on top of Claude Code
-- Applications of Claude Code outside of the traditional "coding assistant" context (CI/CD, testing, documentation, dev-ops, etc.)
+- First and foremost, best efforts are made to ensure that any resource on this list is free of malware, bloatware, or other unwanted risks.
+- Second, being a _curated_ list, every entry is manually evaluated and "tested out" to see if it actually delivers value to Claude Code users. If you want an _un-curated_ list, you can find many great resources [here](https://github.com/search?q=%22claude+code%22&type=repositories&s=stars&o=desc).
+
+**What we're looking for**
+
+- The Claude Code CLI/TUI has led the way in terms of its capabilities, range of features, and possibilites for configuration and optimization. As of late, many submissions have focused less on "what can you do with Claude Code?" and more on "how can I plug Claude Code in to 100 other cool things?" My goal is to focus on the former question, not because it's inherently more interesting, but because the internet is full of awesome things, and this particular repo is supposed to highlight awesome things you can do _with Claude Code_. That is to say, this is not a list for _general-purpose agent-configuration systems_ (however amazing those things are) - there are still plenty of people who sign up every day and go online and ask "What am I supposed to write in my `CLAUDE.md`"? Indie developers, such as those featured on this list, have often done much of the legwork to help those users get comfortable with the Claude Code ecosystem. So I encourage you to **keep exploring the possibilities that exist within Claude Code** - a small utility that is easy to install, easy to uninstall, and adds a dash of pleasure to the Claude Code experience, is more likely to be featured (or, more quickly, at least), than a full-fledged agent development framework that is more complex that Claude Code itself.
 
 See [CONTRIBUTING.md](https://github.com/hesreallyhim/awesome-claude-code/blob/master//CONTRIBUTING.md) for the complete submission guide and review process.
 
 For suggestions about the repository itself, please [open a general issue](https://github.com/hesreallyhim/awesome-claude-code/issues/new).
 
-This project is released with a [Contributor Code of Conduct](https://github.com/hesreallyhim/awesome-claude-code/blob/master//code-of-conduct.md). By participating, you agree to abide by its terms.
-
-
-I like drinking coffee, but I _really_ like bail relief.
-
-If you want to support this repository, you can do so by making a donation in my name to [The Bail Project](https://bailproject.org/), which helps pay for people's cash bail, so that people who are presumed innocent don't have to sit in a cage waiting for a court appearance. Although that doesn't directly compensate any of my work here, it would motivate me to continue to devote my time, energy, and resources, and any reader or project that donates will receive recognition (including one of these badass badges). Please check out the [DONATING](https://github.com/hesreallyhim/awesome-claude-code/blob/master//DONATING.md) page for detailed information.
-
-**FREEDOM FUNDER BADGE**
-![FREEDOM FUNDER](https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master//assets/freedom-funder-badge.svg?sanitize=true)
-
-
-Because simply listing a hyperlink does not qualify as redistribution, the license of the original source is not relevant to its inclusion. However, for posterity and convenience, we do host copies of all resources whose license permits it. Therefore, please include information about the resource's license. Additionally, take note: _if you do not include a LICENSE in your GitHub repo, then by default it is fully copyrighted and redistribution is not allowed_. So, if you are intending to make an open source project, it's critical to pick from one of the many available open source licenses. This is just a reminder that without a LICENSE, your project is not open source (it's merely source-code-available) - it may of course still be included on this list, but this notice is to inform readers about the default rules regarding GitHub and LICENSE files. See [here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) for more details.
+This project is released with a [Contributor Code of Conduct](https://github.com/hesreallyhim/awesome-claude-code/blob/master//code-of-conduct.md). By participating, you agree to abide by its terms. And although I take strong measures to uphold the quality and safety of this list, like Anthropic, I take no responsibility or liability for anything bad that might happen as a result of these third-party resources. 

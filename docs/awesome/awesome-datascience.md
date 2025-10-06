@@ -822,6 +822,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Regression Models: Applying simple Poisson regression](https://www.youtube.com/watch?v=9Hk8K8jhiOo)
 - [Deep Learning Architectures](https://www.youtube.com/playlist?list=PLv8Cp2NvcY8DpVcsmOT71kymgMmcr59Mf)
 - [Time Series Modelling and Analysis](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK)
+- [Serrano.Academy](https://www.youtube.com/@SerranoAcademy)
 
 ## Socialize
 **[`^        back to top        ^`](#awesome-data-science)**
