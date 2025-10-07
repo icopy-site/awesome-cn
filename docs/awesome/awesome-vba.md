@@ -255,6 +255,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 - [![a_ac]](#-) [No Longer Set](https://nolongerset.com) - Access + VBA site of Microsoft MVP Mike Wolfe. Provides weekly updates on development of TwinBasic.
 - [![a_ac]](#-) [Isladogs on Access](https://isladogs.co.uk/) - Access + VBA site of Microsoft MVP Colin Riddington. Excellent resource with VBA projects in Access VBA.
 - [![a_ac]](#-) [DevHut](https://www.devhut.net/) - Access + VBA site of Daniel Pineault. Publishes series of deep-dive articles into various uses of VBA. Companion site to Youtube account.
+- [![o_paid]](#- 'Various paid content available through the site') [AnalystCave](https://analystcave.com/) - A site dedicated to VBA for analytics.
 
 ### Books
 
