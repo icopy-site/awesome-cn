@@ -156,6 +156,8 @@ This project lists books and other resources grouped by genres:
 + [Polish / polski / język polski / polszczyzna](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-pl.md)
 + [Portuguese (Brazil)](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-pt_BR.md)
 + [Portuguese (Portugal)](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-pt_PT.md)
++ [Punjabi / ਪੰਜਾਬੀ / پنجابی](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-pa.md)
++ [Romanian (Romania) / limba română / român](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-ro.md)
 + [Russian / Русский язык](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-ru.md)
 + [Sinhala / සිංහල](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-si.md)
 + [Spanish / español / castellano](https://github.com/EbookFoundation/free-programming-books/blob/master/courses/free-courses-es.md)

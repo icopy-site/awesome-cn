@@ -4,6 +4,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 
 ## Clocks & Studio Screens
+* [OATIS](https://github.com/jamiehull/OATIS) - Server Based Studio Clock and Tally system, supporting messaging, physical GPI's and OSC triggering.
 * [OnAirScreen](https://github.com/saschaludwig/OnAirScreen) - Cross-platform "OnAir Lamp" solution targeted for use in professional broadcast environments.
 * [PiClock](https://github.com/simonhyde/PiClock) - Customisable network based displays of clocks, on-air, mic live and other studio indicators.
 * [PiClock Advanced](https://github.com/ael/piclock_advanced) - Improved version of PiRSClock-Full with changed layout, added timers and network capabilities.
@@ -71,6 +72,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [ossia](https://ossia.io/) - A free and open-source intermedia sequencer.
 * [Sofie - TV Automation](https://github.com/nrkno/Sofie-TV-automation) - MOS-driven automation system for news casts, with many libraries for e.g. device control.
 * [SPX - Graphics Controller](https://github.com/TuomoKu/SPX-GC) - Graphics control client for live video productions and live streams.
+* [StreamShapers - Ferryman](https://github.com/Streamshapers/StreamShapers-Ferryman) - Web App to generate HTML-Graphics from Lottie.JSON files / from Adobe AfterEffects.
 * [Studio TV Player](https://github.com/jaskie/StudioTVPlayer) - Simple TV studio player with SDI, NDI and MPEG TS outputs.
 
 ## Hybrid Radio
@@ -96,6 +98,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [OpenOB](https://jamesharrison.github.io/openob/) - Open Outside Broadcast project for radio contribution links and studio-transmitter links based on Opus.
 * [PJSIP](https://www.pjsip.org/) - Open Source multimedia library implementing SIP, SDP, RTP, STUN, TURN, and ICE.
 * [trx](http://www.pogo.org.uk/~mark/trx/) - A simple toolset for broadcasting live audio from Linux.
+* [VideoIPath-Automation-Tool](https://github.com/SWR-MoIP/VideoIPath-Automation-Tool) - A Python package for automating VideoIPath configuration workflows.
 
 ## Media Players
 
@@ -113,7 +116,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Metadata
 
-* [BMXlib](https://sourceforge.net/projects/bmxlib/) - Library and utilities to read and write broadcasting media files. Primarily supports the MXF file format.
+* [BMXlib](https://github.com/ebu/bmx) - Library and utilities to read and write broadcasting media files. Primarily supports the MXF file format.
 * [EBUCore](https://github.com/ebu/ebucore) - The Github for maintenance of the [EBUCore schema](https://tech.ebu.ch/docs/tech/tech3293.pdf).
 * [jebu-core](https://github.com/mikrosimage/jebu-core) - Java port of [EBU Tech 3293](https://tech.ebu.ch/publications/tech3293) EBU Core metadata, including the [Audio Definition Model](https://tech.ebu.ch/publications/tech3364).
 * [libadm](https://github.com/irt-open-source/libadm) - Audio Definition Model (ITU-R BS.2076) handling C++11 library.
@@ -124,6 +127,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## Monitoring & Quality Control
 
+* [a_Multiview](https://github.com/Bencosterton/a_MultiView) - A web based multiview for HLS and Youtube links.
 * [BeaqleJS](https://github.com/HSU-ANT/beaqlejs) - A framework to create browser based listening tests for subjective audio quality assessment.
 * [Jack Meter](https://github.com/njh/jackmeter) - Text console based DPM (Digital Peak Meter) for JACK.
 * [JACK Meterbridge](http://plugin.org.uk/meterbridge/) - A collection of graphical Audio meters for JACK (ballistics may be incorrect).
@@ -193,6 +197,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos) are themse
 * [DELTACAST IP Virtual Card NMOS samples](https://github.com/deltacasttv/nmos-ipvc-samples) - A demonstration of the integration of several NMOS standards with the DELTACAST IP Virtual Card through [nmos-cpp](https://github.com/sony/nmos-cpp).
 * [Easy-NMOS](https://github.com/rhastie/easy-nmos) - A starter kit that allows the user to launch a simple NMOS setup with minimal installation steps, composed of three Docker containers: an NMOS Registry, a virtual NMOS Node, and the AMWA NMOS Testing Tool.
 * [nmos-cpp](https://github.com/sony/nmos-cpp) - An implementation of the AMWA Networked Media Open Specifications in C++, including an NMOS Registry and a toolkit and example of building an NMOS Node.
+* [nmos-device-control-mock](https://github.com/AMWA-TV/nmos-device-control-mock) - A mock device implementation of the NMOS Control & Monitoring suite (IS-12, BCP-008-01, BCP-008-02), written in Typescript and running on the NodeJS stack.
 * [nmos-js](https://github.com/sony/nmos-js) - A simple browser-based NMOS Client/Controller with an IS-04 Registry browser and IS-05 Connection Management.
 * [NVIDIA NMOS Docker](https://hub.docker.com/r/rhastie/nmos-cpp) - Docker container with Registry and Controller, IS-04/05/08/07/09, BCP-003-01
 * [NVIDIA NMOS Library](https://github.com/NVIDIA/nvnmos) (NvNmos) - A simple-to-use C/C++ library for adding an NMOS Node to your application, with support for IS-04, IS-05, BCP-002-01, BCP-002-02, BCP-004-01, etc.

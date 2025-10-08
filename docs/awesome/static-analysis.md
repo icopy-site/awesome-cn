@@ -1011,6 +1011,8 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 
 - [ERB Lint](https://github.com/Shopify/erb-lint) — Lint your ERB or HTML files
 
+- [ERB::Formatter](https://github.com/nebulab/erb-formatter) — Format ERB files with speed and precision.
+
 - [Fasterer](https://github.com/DamirSvrtan/fasterer) — Common Ruby idioms checker.
 
 - **flay** :warning: — Flay analyzes code for structural similarities.
@@ -1060,6 +1062,8 @@ YAPF follows a distinctive methodology, originating from the 'clang-format' tool
 - [Standard Ruby](https://github.com/testdouble/standard) — Ruby Style Guide, with linter & automatic code fixer
 
 - [Steep](https://github.com/soutaro/steep) — Gradual Typing for Ruby.
+
+- [Traceroute](https://github.com/amatsuda/traceroute) — A Rake task gem that helps you find the unused routes and controller actions for your Rails 3+ app.
 
 
 <a name="rust" />
@@ -1857,6 +1861,8 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 
 - [ERB Lint](https://github.com/Shopify/erb-lint) — Lint your ERB or HTML files
 
+- [ERB::Formatter](https://github.com/nebulab/erb-formatter) — Format ERB files with speed and precision.
+
 - [htmlbeautifier](https://github.com/threedaymonk/htmlbeautifier) — A normaliser/beautifier for HTML that also understands embedded Ruby. Ideal for tidying up Rails templates.
 
 
@@ -1876,6 +1882,8 @@ Its technology helps developers automate testing, find bugs, and reduce manual l
 - **Bootlint** :warning: — An HTML linter for Bootstrap projects.
 
 - [ERB Lint](https://github.com/Shopify/erb-lint) — Lint your ERB or HTML files
+
+- [ERB::Formatter](https://github.com/nebulab/erb-formatter) — Format ERB files with speed and precision.
 
 - **grunt-bootlint** :warning: — A Grunt wrapper for [Bootlint](https://github.com/twbs/bootlint), the HTML linter for Bootstrap projects.
 
@@ -2114,7 +2122,11 @@ but with the following improvements:
 
 - [dawnscanner](https://github.com/thesp0nge/dawnscanner) — A static analysis security scanner for ruby written web applications. It supports Sinatra, Padrino and Ruby on Rails frameworks.
 
+- [ERB::Formatter](https://github.com/nebulab/erb-formatter) — Format ERB files with speed and precision.
+
 - [Skunk](https://github.com/fastruby/skunk) — A SkunkScore Calculator for Ruby Code -- Find the most complicated code without test coverage!
+
+- [Traceroute](https://github.com/amatsuda/traceroute) — A Rake task gem that helps you find the unused routes and controller actions for your Rails 3+ app.
 
 
 <a name="security" />

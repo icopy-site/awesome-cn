@@ -53,6 +53,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 > _If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!_
 
 
+<details>
+<summary>Expand contents</summary>
+
 
 
 ## Actor Model
@@ -76,6 +79,8 @@ _Libraries for building programs that leverage AI._
 - [OllamaFarm](https://github.com/presbrey/ollamafarm) - Manage, load-balance, and failover packs of Ollamas.
 
 
+</details>
+
 ## Audio and Music
 
 _Libraries for manipulating audio._
@@ -83,6 +88,7 @@ _Libraries for manipulating audio._
 - [beep](https://github.com/faiface/beep) - A simple library for playback and audio manipulation.
 - [flac](https://github.com/mewkiz/flac) - Native Go FLAC encoder/decoder with support for FLAC streams.
 - [gaad](https://github.com/Comcast/gaad) - Native Go AAC bitstream parser.
+- [go-mpris](https://github.com/leberKleber/go-mpris) - Client for mpris dbus interfaces.
 - [GoAudio](https://github.com/DylanMeeus/GoAudio) - Native Go Audio Processing Library.
 - [gosamplerate](https://github.com/dh1tw/gosamplerate) - libsamplerate bindings for go.
 - [id3v2](https://github.com/bogem/id3v2) - ID3 decoding and encoding library for Go.
@@ -279,6 +285,7 @@ _Libraries for building standard or basic Command Line applications._
 - [readline](https://github.com/reeflective/readline) - Shell library with modern and easy to use UI features.
 - [sand](https://github.com/Zaba505/sand) - Simple API for creating interpreters and so much more.
 - [sflags](https://github.com/octago/sflags) - Struct based flags generator for flag, urfave/cli, pflag, cobra, kingpin, and other libraries.
+- [structcli](https://github.com/leodido/structcli) - Eliminate Cobra boilerplate: build powerful, feature-rich CLIs declaratively from Go structs.
 - [strumt](https://github.com/antham/strumt) - Library to create prompt chain.
 - [subcmd](https://github.com/bobg/subcmd) - Another approach to parsing and running subcommands. Works alongside the standard `flag` package.
 - [teris-io/cli](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.
@@ -369,7 +376,7 @@ _Tools for help with continuous integration._
 - [go-beautiful-html-coverage](https://github.com/gha-common/go-beautiful-html-coverage) - A GitHub Action to track code coverage in your pull requests, with a beautiful HTML preview, for free.
 - [go-fuzz-action](https://github.com/jidicula/go-fuzz-action) - Use Go 1.18's built-in fuzz testing in GitHub Actions.
 - [go-semver-release](https://github.com/s0ders/go-semver-release) - Automate the semantic versioning of Git repositories.
-- [go-test-coverage](https://github.com/vladopajic/go-test-coverage) - Tool and GitHub action which reports issues when test coverage is below set threshold.
+- [go-test-coverage](https://github.com/marketplace/actions/go-test-coverage) - A GitHub Action which reports issues when test coverage is below set threshold.
 - [gomason](https://github.com/nikogura/gomason) - Test, Build, Sign, and Publish your go binaries from a clean workspace.
 - [gotestfmt](https://github.com/GoTestTools/gotestfmt) - go test output for humans.
 - [goveralls](https://github.com/mattn/goveralls) - Go integration for Coveralls.io continuous code coverage tracking system.
@@ -502,6 +509,7 @@ additional ordered map implementations.
 
 ### Trees
 
+- [graphlib](https://github.com/aio-arch/graphlib) - Topological sort lib,Sorting and pruning of DAG graphs.
 - [hashsplit](http://github.com/bobg/hashsplit) - Split byte streams into chunks, and arrange chunks into trees, with boundaries determined by content, not position.
 - [merkle](https://github.com/bobg/merkle) - Space-efficient computation of Merkle root hashes and inclusion proofs.
 - [skiplist](https://github.com/MauriceGit/skiplist) - Very fast Go Skiplist implementation.
@@ -1035,6 +1043,7 @@ _Libraries for working with forms._
 - [nosurf](https://github.com/justinas/nosurf) - CSRF protection middleware for Go.
 - [qs](https://github.com/sonh/qs) - Go module for encoding structs into URL query parameters.
 - [queryparam](https://github.com/tomwright/queryparam) - Decode `url.Values` into usable struct values of standard or custom types.
+- [roamer](https://github.com/slipros/roamer) - Eliminates boilerplate code for parsing HTTP requests by binding cookies, headers, query params, path params, body to structs and more by using simple tags.
 
 
 ## Functional
@@ -1965,6 +1974,7 @@ _Unofficial libraries for package and dependency management._
 
 ## Performance
 
+- [ebpf-go](https://github.com/cilium/ebpf) - Provides utilities for loading, compiling, and debugging eBPF programs.
 - [go-instrument](https://github.com/nikolaydubina/go-instrument) - Automatically add spans to all methods and functions.
 - [jaeger](https://github.com/jaegertracing/jaeger) - A distributed tracing system.
 - [mm-go](https://github.com/joetifa2003/mm-go) - Generic manual memory management for golang.
@@ -2201,12 +2211,12 @@ _Libraries and tools for templating and lexing._
 - [maroto](https://github.com/johnfercher/maroto) - A maroto way to create PDFs. Maroto is inspired in Bootstrap and uses gofpdf. Fast and simple.
 - [pongo2](https://github.com/flosch/pongo2) - Django-like template-engine for Go.
 - [quicktemplate](https://github.com/valyala/quicktemplate) - Fast, powerful, yet easy to use template engine. Converts templates into Go code and then compiles it.
-- [raymond](https://github.com/aymerick/raymond) - Complete handlebars implementation in Go.
 - [Razor](https://github.com/sipin/gorazor) - Razor view engine for Golang.
 - [Soy](https://github.com/robfig/soy) - Closure templates (aka Soy templates) for Go, following the [official spec](https://developers.google.com/closure/templates/).
 - [sprout](https://github.com/go-sprout/sprout) - Useful template functions for Go templates.
 - [tbd](https://github.com/lucasepe/tbd) - A really simple way to create text templates with placeholders - exposes extra builtin Git repo metadata.
 - [templ](https://github.com/a-h/templ) - A HTML templating language that has great developer tooling.
+- [templator](https://github.com/alesr/templator) - A type-safe HTML template rendering engine for Go.
 
 
 ## Testing
@@ -2242,6 +2252,7 @@ _Libraries for testing codebases and generating test data._
 - [go-mutesting](https://github.com/zimmski/go-mutesting) - Mutation testing for Go source code.
 - [go-mysql-test-container](https://github.com/arikama/go-mysql-test-container) - Golang MySQL testcontainer to help with MySQL integration testing.
 - [go-snaps](http://github.com/gkampitakis/go-snaps) - Jest-like snapshot testing in Golang.
+- [go-test-coverage](https://github.com/vladopajic/go-test-coverage) - Tool that reports coverage of files below set threshold.
 - [go-testdeep](https://github.com/maxatome/go-testdeep) - Extremely flexible golang deep comparison, extends the go testing package.
 - [go-testpredicate](https://github.com/maargenton/go-testpredicate) - Test predicate style assertions library with extensive diagnostics output.
 - [go-vcr](https://github.com/dnaeon/go-vcr) - Record and replay your HTTP interactions for fast, deterministic and accurate tests.
@@ -2672,6 +2683,7 @@ _General utilities and tools to make your life easier._
 - [pm](https://github.com/VividCortex/pm) - Process (i.e. goroutine) manager with an HTTP API.
 - [pointer](https://github.com/xorcare/pointer) - Package pointer contains helper routines for simplifying the creation of optional fields of basic type.
 - [ptr](https://github.com/gotidy/ptr) - Package that provide functions for simplified creation of pointers from constants of basic types.
+- [rate](https://github.com/webriots/rate) - High-performance rate limiting library with token bucket and AIMD strategies.
 - [rclient](https://github.com/zpatrick/rclient) - Readable, flexible, simple-to-use client for REST APIs.
 - [remote-touchpad](https://github.com/Unrud/remote-touchpad) - Control mouse and keyboard from a smartphone.
 - [repeat](https://github.com/ssgreg/repeat) - Go implementation of different backoff strategies useful for retrying operations and heartbeating.

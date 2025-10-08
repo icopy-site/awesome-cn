@@ -49,6 +49,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-devkit-builders](https://github.com/Celtian/ngx-devkit-builders) - This package contains Architect builders used to build and test Angular applications and libraries.
 * [angular-static-assets-hash](https://github.com/sitelint/angular-static-assets-hash) - Create a list of Angular static assets and a hash for each file.
 * [ngx-schematic-builder](https://github.com/kstepien3/ngx-schematic-builder) - A tool for building Angular schematic projects. Compiles and packages your custom schematics, preparing them for publishing and use.
+* [ng-builder-typescript](https://github.com/da-mkay/ng-builder-typescript) - A builder for the Angular CLI to build Node.js apps using the TypeScript compiler `tsc` (no Webpack or any other bundler used).
 
 ### CLI Tools
 
@@ -846,6 +847,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [signaltree](https://github.com/JBorgia/signaltree) - A powerful, type-safe, modular signal-based state management solution for Angular applications.
 * [ngx-simple-signal-store](https://github.com/adamcsk1/ngx-simple-signal-store) - A simple way to create signal stores with a read-only interface.
 * [angulator](https://github.com/angulator-dev/angulator) - A lightweight Angular [mediator](https://refactoring.guru/design-patterns/mediator) library, designed to simplify communication between different parts of your application using a request/response and notification/handler pattern.
+* [ngx-query](https://github.com/CoreSyncHub/ngx-query) - A lightweight, observable-based query library that helps you manage server state, caching, and synchronization between your backend and UI.
 
 ## Testing
 
@@ -973,6 +975,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [serene](https://github.com/ClaudioAlcantaraR/serene) - A modern starter-kit for full-stack web development using Spring Boot and Angular. Inspired by Laravel Breeze, it provides a clean, secure, and minimalist foundation.
 * [free-angular-tailwind-dashboard](https://github.com/TailAdmin/free-angular-tailwind-dashboard) - Free, open-source Angular + Tailwind CSS admin dashboard with essential UI components and pre-built pages for a sleek, modern interface.
 * [hanko-angular-express-starter](https://github.com/teamhanko/hanko-angular-express-starter) - Starter integrating Hanko authentication with Angular and Express.
+* [ng-ultimate-base](https://github.com/Beszt/ng-ultimate-base) - Angular 20 template with Angular Material UI, Tailwind CSS, i18n, ESLint, Prettier, Husky, and CI/CD.
 
 ### Paid Templates
 
@@ -1310,6 +1313,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [piying-view](https://github.com/piying-org/piying-view) - A strongly typed frontend form solution; an alternative to `ngx-formly` and Angular's official form framework.
 * [ngx-form-m3](https://github.com/webilix/ngx-form-m3) - Persian form library for Angular and Material 3.
 * [lite-form](https://github.com/liangk/lite-form) - A comprehensive Angular library that provides lightweight, customizable form components with built-in validation, styling, and animations.
+* [cc-form-engine](https://github.com/ChristianCruzArango/cc-form-engine) - Advanced Angular library for reactive form generation and management with dynamic validation, change tracking, and customizable error messages.
 
 ### Form Controls
 
@@ -1911,6 +1915,7 @@ for the creation of web applications developed with Angular.
 * [ngx-lamp](https://github.com/omnedia/ngx-lamp) - A simple component library to create a lamp.
 * [ngx-neon-underline](https://github.com/omnedia/ngx-neon-underline) - An Angular library that provides a glowing neon underline effect for your components.
 * [ngx-parallax-stars](https://github.com/DerStimmler/ngx-parallax-stars) - Angular library to create beautiful stars with parallax effect.
+* [ngx-waterbox](https://github.com/vwochnik/ngx-waterbox) - An isometric water box component.
 
 ## Underlying Technologies
 
