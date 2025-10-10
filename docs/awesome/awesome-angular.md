@@ -76,6 +76,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-stats](https://github.com/tomer953/ngx-stats) - A CLI tool for Angular project analysis that quantifies modules, components, directives, pipes, and services, offering a clear structural overview to help developers better understand architectural choices and app organization.
 * [ngx-stylesweep](https://github.com/BernardoGiordano/ngx-stylesweep) - A CLI tool that removes empty style files from your Angular components.
 * [ngx-ws](https://github.com/art-ws/ngx-ws) - Easily split a large `angular.json` into modular, project-local files using the power of [JSON References](https://www.npmjs.com/package/@apidevtools/json-schema-ref-parser), with the convenience of [YAML](https://yaml.org/) and [JSON5](https://json5.org/) formats.
+* [prepare-angular-json](https://github.com/ackheron/prepare-angular-json) - A lightweight CLI tool that generates a clean `angular.json` file from a commented `angular.jsonc`.
 * [rafacli](https://github.com/rafa00716/rafacli) - A command-line tool designed to generate authentication and CRUD modules (and more soon) for NestJS and Angular applications. It streamlines the development process by automating boilerplate code creation, reducing repetitive tasks, and ensuring consistency across projects.
 * [ngx-crafter](https://github.com/ErwanHeschung/ngx-crafter) - A powerful CLI tool that helps you craft Angular projects with pre-configured folder structures and essential packages.
 * [ng new command generator](https://ng.gridatek.com/) - Generate optimized `ng new` commands.
@@ -850,6 +851,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-query](https://github.com/CoreSyncHub/ngx-query) - A lightweight, observable-based query library that helps you manage server state, caching, and synchronization between your backend and UI.
 * [@tanstack/angular-db](https://github.com/TanStack/db/tree/main/packages/angular-db) - Angular hooks for TanStack DB, a reactive client store that lets you build fast, sync‑driven apps with a backend‑agnostic real‑time data layer.
 * [usm](https://github.com/unadlib/usm) - A modular state management library compatible with Angular.
+* [ngx-mxstore](https://github.com/MaxxtonGroup/ngx-mxstore) - Simplifies state management by moving logic into pure, testable methods and connecting components to the store via decorators.
 
 ## Testing
 
@@ -1239,6 +1241,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [cdk-drag-snap-to-point](https://github.com/shhdharmen/cdk-drag-snap-to-point) - A demo to showcase cdkDrag features to achieve drop only on certain points.
 * [@MasterATM/ngx-dropzone](https://github.com/MasterATM/ngx-dropzone) - A lightweight and highly customizable Angular dropzone component for file uploads. Based on [@peterfreeman/ngx-dropzone](https://github.com/peterfreeman/ngx-dropzone) repository.
 * [ngx-puzzle](https://github.com/zhongmiao-org/ngx-puzzle) - Drag-and-drop dashboard builder for Angular applications.
+* [ngx-drag-drop-kit](https://github.com/mr-samani/ngx-drag-drop-kit) - High-performance Angular drag & drop toolkit featuring grid layouts, sorting, resizing, nesting, and more.
 
 ### Editor Components
 
@@ -1364,6 +1367,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngxsmk-datepicker](https://github.com/toozuuu/ngxsmk-datepicker) - A modern, highly customizable Angular date range picker component.
 * [ngx-country-selector](https://github.com/evicio1/ngx-country-selector) - A sleek, customizable Angular Material country selector offering accessible dropdowns with flags, codes, local names, and more.
 * [angular-datepicker2](https://github.com/nsnayp13/angular-datepicker2) - Lightweight Angular 16+ datepicker with standalone support, range and multi-date selection, and customizable templates—no external dependencies.
+* [ngx-phone](https://github.com/manishpatidar028/ngx-phone) - Angular international phone number input component with automatic country detection, real-time formatting, validation, and seamless support for both reactive & template-driven forms.
+* [ngx-phone-country-input](https://github.com/mostafaM212/ngx-phone-country-input) - A comprehensive Angular library providing phone input and country selection components with full reactive forms support.
 
 ### JSON Forms
 
@@ -1605,6 +1610,8 @@ to simplify usage and allow quick customization.
 * [fireng](https://github.com/BhanukaDev/fireng) - A collection of Angular libraries to simplify responsive development using signals.
 * [xprng](https://github.com/ziv/xprng) - Micro packages of simple and smart components for Angular.
 * [ngx-primeng-toolkit](https://github.com/saiful-70/ngx-primeng-toolkit) - A comprehensive TypeScript utility library for Angular component state management, including PrimeNG table helpers, `ng-select` integration, data storage, and HTTP caching utilities with NgRx signals.
+* [@ibenvandeveire opensource](https://github.com/IbenTesara/opensource) - A monorepo hosting multiple packages—both Angular and non-Angular—developed and maintained by [Iben Van de Veire](https://github.com/IbenTesara).
+* [@farfadev/ngx-lib](https://github.com/farfadev/ngx-lib) - A repository of Angular libraries—including components, services, and more—commonly used across [Farfadev](https://github.com/farfadev) applications, but available for use in any other app.
 
 ### Modals
 
@@ -1673,6 +1680,7 @@ to simplify usage and allow quick customization.
 * [ngx-kjua](https://github.com/werthdavid/ngx-kjua) - Angular QR-Code generator component using [kjua](https://github.com/lrsjng/kjua).
 * [ngx-qrcode](https://github.com/GNURub/ngx-qrcode) - A simple Angular 18+ component to generate QR codes. Based on [react-native-qrcode-skia](https://github.com/enzomanuelmangano/react-native-qrcode-skia) library.
 * [ngx-scan-detect](https://github.com/sezmars/ngx-scan-detect) - Detects barcode or QR code scanning on document and emits the scanned code.
+* [qrcode-angular](https://github.com/selfxyz/self/tree/main/sdk/qrcode-angular) - A streamlined Angular library that creates verification QR codes for [Self.xyz](https://self.xyz/).
 
 ### Router
 
@@ -1908,6 +1916,7 @@ for the creation of web applications developed with Angular.
 * [ngx-profile-comparison](https://github.com/singharsh0/ngx-profile-comparison) - A high-quality, production-ready Angular component library that visually compares two user profiles by highlighting their similarities and differences.
 * [ngx-serial-console](https://github.com/binuud/ngx-serial-console) - Angular component and service to monitor output from a serial device.
 * [ngx-treeview2](https://github.com/TapBeep/ngx-treeview2) - An Angular treeview component with checkbox.
+* [ngx-universal-viewer](https://github.com/Imishu29/ngx-universal-viewer) - A powerful and versatile Angular component for viewing multiple file formats including PDF, Word (DOC/DOCX), Excel (XLS/XLSX), and PowerPoint (PPT/PPTX) files with both continuous scroll and page-by-page view modes.
 * [ngx-voyage](https://github.com/mschn/ngx-voyage) - File Explorer for Angular and PrimeNG.
 
 ### Visual Effects
