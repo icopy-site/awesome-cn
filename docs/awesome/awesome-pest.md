@@ -27,7 +27,6 @@ Here are some example projects using pest:
 - [pest_meta](https://github.com/pest-parser/pest/blob/master/meta/src/grammar.pest) - The pest itself is bootstrapped using pest.
 - [AshPaper](https://github.com/shnewto/ashpaper) - Rust Inpterpreter for Esopo language AshPaper conceived by William Hicks.
 - [cicada](https://github.com/mitnk/cicada) - An old-school bash-like Unix shell written in Rust.
-- [comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer.
 - [elastic-rs](https://github.com/cch123/elastic-rs) - Convert bool expressions to Elasticsearch DSL in Rust.
 - [handlebars-rust](https://github.com/sunng87/handlebars-rust) - Rust templating with Handlebars.
 - [hexdino](https://github.com/Luz/hexdino) - A hex editor with vim like keybindings written in Rust.

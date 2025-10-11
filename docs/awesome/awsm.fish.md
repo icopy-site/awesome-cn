@@ -11,7 +11,6 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 
 - [Official Site](https://fishshell.com)
 - [GitHub Repository](https://github.com/fish-shell/fish-shell)
-- [Try in browser!](https://rootnroll.com/d/fish-shell/) 🍤
 
 ## Community Resources
 
