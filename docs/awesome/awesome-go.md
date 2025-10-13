@@ -2430,6 +2430,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 - [go-runewidth](https://github.com/mattn/go-runewidth) - Functions to get fixed width of the character or string.
 - [go-zero-width](https://github.com/trubitsyn/go-zero-width) - Zero-width character detection and removal for Go.
 - [kace](https://github.com/codemodus/kace) - Common case conversions covering common initialisms.
+- [lancet](https://github.com/duke-git/lancet) - A comprehensive, Lodash-like utility library for Go
 - [petrovich](https://github.com/striker2000/petrovich) - Petrovich is the library which inflects Russian names to given grammatical case.
 - [radix](https://github.com/yourbasic/radix) - Fast string sorting algorithm.
 - [TySug](https://github.com/Dynom/TySug) - Alternative suggestions with respect to keyboard layouts.
@@ -2649,7 +2650,6 @@ _General utilities and tools to make your life easier._
 - [jump](https://github.com/gsamokovarov/jump) - Jump helps you navigate faster by learning your habits.
 - [just](https://github.com/kazhuravlev/just) - Just a collection of useful functions for working with generic data structures.
 - [koazee](https://github.com/wesovilabs/koazee) - Library inspired in Lazy evaluation and functional programming that takes the hassle out of working with arrays.
-- [lancet](https://github.com/duke-git/lancet) - A comprehensive, efficient, and reusable util function library of go.
 - [lang](https://github.com/maxbolgarin/lang) - Generic one-liners to work with variables, slices and maps without boilerplate code.
 - [lets-go](https://github.com/aplescia-chwy/lets-go) - Go module that provides common utilities for Cloud Native REST API development. Also contains AWS Specific utilities.
 - [limiters](https://github.com/mennanov/limiters) - Rate limiters for distributed applications in Golang with configurable back-ends and distributed locks.
@@ -3117,6 +3117,7 @@ _Software written in Go._
 - [Hey](https://github.com/rakyll/hey) - Hey is a tiny program that sends some load to a web application.
 - [httpref](https://github.com/dnnrly/httpref) - httpref is a handy CLI reference for HTTP methods, status codes, headers, and TCP and UDP ports.
 - [jcli](https://github.com/jenkins-zh/jenkins-cli) - Jenkins CLI allows you manage your Jenkins as an easy way.
+- [k0s](https://github.com/k0sproject/k0s) - Zero Friction Kubernetes distribution.
 - [k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker.
 - [k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes.
 - [k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript.

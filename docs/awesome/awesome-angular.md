@@ -1458,6 +1458,7 @@ to simplify usage and allow quick customization.
 * [ngx-img-cropper](https://github.com/web-dave/ngx-img-cropper) - Image cropping tool for Angular.
 * [ngx-lightbox](https://github.com/jjmhalew/ngx-lightbox) - A [lightbox2](https://github.com/lokesh/lightbox2) implementation port to use with Angular >= 18 (zoneless).
 * [ngx-pinch-zoom](https://github.com/medDV-GmbH/ngx-pinch-zoom) - This module enables image zooming and positioning through touch screen gestures.
+* [ngx-ratio-image](https://github.com/gerd-siebert/ngx-ratio-image) - An Angular library to show an image with variable ratio in container with a fixed ratio.
 * [ngx-smart-cropper](https://github.com/kurti-vdb/ngx-smart-cropper) - Angular standalone component that allows users to upload, crop, and resize images with ease. It provides intuitive drag-and-resize functionality, grid overlays, and supports various aspect ratios and output formats.
 * [unpic](https://unpic.pics/img/angular/) - Angular directive for responsive, high-performance images. Generates a responsive `<img>` tag that follows best practices, with the correct srcset, sizes and styles. Detects image URLs from most image CDNs and CMSs and can resize images with no build step.
 
@@ -1824,6 +1825,7 @@ to simplify usage and allow quick customization.
 * [ngx-vant-revive](https://github.com/IfFaith/ngx-vant-revive) - Angular UI component library implemented according to the [Zan Design System](https://design.youzan.com/) visual specifications.
 * [MaxterDev NGX Components](https://github.com/MatoMakuch/maxterdev/tree/main/projects/ngx-components) - A highly flexible and SCSS-customizable components library for Angular.
 * [gcds-components](https://github.com/cds-snc/gcds-components/tree/main/packages/angular) - The `gcds-components-angular` package simplifies integration of [GC Design System](https://design-system.alpha.canada.ca/) web components into Angular by providing wrappers that optimize change detection and support ngModel and reactive forms.
+* [particle-ng](https://github.com/entake-org/particle-ng) - A lightweight, themeable component library offering flexible, high-control alternatives to Angular Material and PrimeNG.
 
 ### UI Libraries built on Bootstrap
 

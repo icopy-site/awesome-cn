@@ -449,8 +449,17 @@ You can find hundreds of high quality packages at:
 * [Elchemy](https://github.com/wende/elchemy) - Write Elixir code using statically-typed Elm-like syntax
 * [Elmish](https://github.com/elmish/elmish) - Elm-like abstractions for F# apps
 * [Fabulous](https://github.com/fsprojects/Fabulous) - F# Functional App Development, using declarative dynamic UI
+* [Flame](https://github.com/easafe/purescript-flame) - A library that provides The Elm Architecture in PureScript.
+* [Hyperapp](https://github.com/jorgebucaran/hyperapp) - A library that provide The Elm Architecture in JavaScript.
 * [Iced](https://github.com/hecrj/iced) - A cross-platform GUI library for Rust, inspired by Elm
+* [Indigo](https://indigoengine.io/) - Indigo is an Elm-inspired game engine for Scala.js.
+* [Lustre](https://github.com/lustre-labs/lustre) - A library that provides The Elm Architecture in Gleam.
+* [Miso](https://github.com/dmjio/miso) - A library that provides The Elm Architecture in Haskell.
+* [Mobius](https://github.com/spotify/mobius) - Elm-like abstractions for android apps, created by Spotify.
+* [React-tea-cup](https://github.com/vankeisb/react-tea-cup) - A thin library that provides The Elm Architecture in react, used by IBM.
 * [Redux](https://redux.js.org/introduction/prior-art) - A predictable state container for JavaScript apps.
+* [Roc](https://github.com/roc-lang/roc) - A language that targets WebAssembly and machine code inspired by Elm.
+* [Sauron](https://github.com/ivanceras/sauron) - A library that provides The Elm Architecture in Rust targeting the web.
 * [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 * [Tyrian](https://tyrian.indigoengine.io/) - Tyrian is an Elm-inspired frontend framework for Scala.js.
 * [MAUI](https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/) - .NET Multi-platform App UI

@@ -8,7 +8,7 @@ Every repository on [GitHub.com](https://github.com/) comes equipped with a sect
 ## Examples
 Wiki should be detail, up to date and well structured. It should be easy to find required information and navigate through the pages. Use rich possibilities of Markdown in Wiki formatting. Wiki doesn't fully repeat information which is already presented at README. The following list of examples represents mentioned good practices:    
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix/wiki)
-- [aws/aws-parallelcluster](https://github.com/aws/aws-parallelcluster/wiki)
+- [AWS/aws-parallelcluster](https://github.com/aws/aws-parallelcluster/wiki)
 - [facebook/hhvm](https://github.com/facebook/hhvm/wiki)
 - [thinkaurelius/titan](https://github.com/thinkaurelius/titan/wiki)
 - [guard/guard](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
@@ -36,7 +36,6 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 - [Upload images to Wiki pages](https://github.blog/changelog/2022-02-14-upload-images-to-wiki-pages/)
 - [Git And GitHub Course - Master Git And GitHub - GitHub Wiki](https://www.learnvern.com/git-and-github-tutorial/wiki)
 - [How to Use GitHub as a Wiki: Examples & Templates](https://almanac.io/blog/github-wiki-examples-templates)
-- [How To Use GitHub Wikis For Collaborative Documentation](https://labs.inn.org/2014/05/19/applying-git-to-github-wikis/)
 - [GitHub Wiki Action. Keep your dev docs in sync with your code](https://github.com/marketplace/actions/github-wiki-action)
 
 ## Useful Stack Overflow questions & answers

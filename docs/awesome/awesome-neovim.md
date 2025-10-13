@@ -168,7 +168,7 @@
 - [milanglacier/yarepl.nvim#aider-extensions](https://github.com/milanglacier/yarepl.nvim/blob/main/extensions/README.md) - Integration with [aider-chat](https://aider.chat), a TUI AI coding assistant.
 - [Davidyz/VectorCode](https://github.com/davidyz/vectorcode) - Supercharge your LLM experience with repository-level RAG.
 - [dlants/magenta.nvim](https://github.com/dlants/magenta.nvim) - Leverage coding assistants for chat and code generation. Provides tools for the AI/LLM agent to explore and edit your code, like Aider, Cursor and Windsurf.
-- [claudius.nvim](https://github.com/StanAngeloff/claudius.nvim) - Text-based interface for chatting with Claude AI directly in your buffer.
+- [flemma.nvim](https://github.com/Flemma-Dev/flemma.nvim) - Flemma turns Neovim into a first-class AI workspace.
 - [heilgar/nochat.nvim](https://github.com/heilgar/nochat.nvim) - Cursor-like effortless natural language generation with multiple AI providers including Ollama, Anthropic (Claude), and ChatGPT.
 - [julwrites/llm-nvim](https://github.com/julwrites/llm-nvim) - Comprehensive integration with the [llm](https://github.com/simonw/llm) tool.
 - [azorng/goose.nvim](https://github.com/azorng/goose.nvim) - Seamless Neovim integration with [goose](https://block.github.io/goose) - work with a powerful AI agent without leaving your editor.
@@ -246,6 +246,7 @@
 - [farias-hecdin/CSSVarHighlight](https://github.com/farias-hecdin/CSSVarHighlight) - Quickly highlight the color you defined in your CSS variables with the help of `mini.hipatterns`.
 - [BibekBhusal0/nvim-shadcn](https://github.com/BibekBhusal0/nvim-shadcn) - Easily add Shadcn UI components with telescope.
 - [azratul/expose-localhost.nvim](https://github.com/azratul/expose-localhost.nvim) - Expose your local server to the internet with cloudflared or ngrok.
+- [yelog/i18n.nvim](https://github.com/yelog/i18n.nvim) - Internationalization (i18n) management with LSP support for `Vue`, `React`, `Java` and more.
 
 ### Markdown and LaTeX
 
@@ -1150,6 +1151,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [niuiic/task.nvim](https://github.com/niuiic/task.nvim) - Another highly configurable task manager that enables seamless interaction with tasks.
 - [chrisgrieser/nvim-justice](https://github.com/chrisgrieser/nvim-justice) - Lightweight integration of the `just` task runner.
 - [pewpewnor/pilot.nvim](https://github.com/pewpewnor/pilot.nvim) - Run your projects and files quickly with keybindings, and configure how to run them on the fly.
+- [ok97465/ipybridge.nvim](https://github.com/ok97465/ipybridge.nvim) - Run Python code, execute Jupyter cells, debug, and explore variables.
 
 <!--lint disable double-link -->
 
