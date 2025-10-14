@@ -25,10 +25,6 @@
       <td><a href="https://raw.githubusercontent.com/0pandadev/qopy"><img src="https://raw.githubusercontent.com/user-attachments/assets/1a3c210d-ee6e-4e4e-8d5d-b0a05211a254" width="14px"/> Qopy</a></td>
       <td>The fixed clipboard manager for Windows, macOS & Linux.</td>
     </tr>
-    <tr>
-      <td><a href="https://raw.githubusercontent.com/vleerapp/vleer"><img src="https://raw.githubusercontent.com/user-attachments/assets/966fdd74-9ee4-44c8-ac11-496d814e8838" width="14px"/> Vleer</a></td>
-      <td>Free & open source alternative to Spotify, Apple Music etc.</td>
-    </tr>
   </tbody>
 </table>
 
@@ -271,6 +267,7 @@
 * [KatMouse](https://www.ehiti.de/katmouse/) - Universal scrolling utility for Windows.
 * [Keywiz](https://mularahul.github.io/keyviz/) - Real-time keystroke visualization tool. [![Open-Source Software][oss]](https://github.com/mulaRahul/keyviz)
 * [MultiCommander](https://multicommander.com/) - Professional file manager.
+* [Nani Translate](https://nani.now) - Fast AI translator that explains and refines your phrasing.
 * [Ninite](https://ninite.com/) - Streamlined software installation utility.
 * [Simplenote](https://simplenote.com/) - Cross-platform note taking app with cloud sync.
 * [Taskade](https://taskade.com/) - Collaborative task management with real-time sync.

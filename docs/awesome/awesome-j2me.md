@@ -27,8 +27,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hac
 
 ## Development
 
-- [Cibyl](https://github.com/SimonKagstrom/cibyl) - Cibyl is an environment to compile and run programs written in C, Objective-C, C++ and possibly Fortran on J2ME phones.
-- [J2ME Docs](https://nikita36078.github.io/J2ME_Docs) - Documentation for J2ME and some vendor-specific APIs.
+- [Cibyl](https://github.com/SimonKagstrom/cibyl) - Environment to compile and run programs written in C, Objective-C, C++ and possibly Fortran on J2ME phones.
 - [NN JSON](https://github.com/shinovon/NNJSON) - JSON parser for CLDC 1.1.
 - [NN JSON CLDC 1.0](https://github.com/gtrxAC/discord-j2me/tree/main/src/cc/nnproject/json) - Modified version of NN JSON for CLDC 1.0.
 - [J2ME Game Script Engine](https://j2megamescript.sourceforge.net/) - A lightweight script interpreter for building flexible J2ME games, with a BASIC-like scripting language. Runs on J2SE/J2ME/Win C++ platforms; ideal for game rapid prototyping and customization.
@@ -119,6 +118,9 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hac
 
 - [J2ME In Nutshell](https://www.oreilly.com/library/view/j2me-in-a/059600253X) - "Solid, no-nonsense reference to the 'alphabet soup' of micro edition programming, covering the CLDC, CDC, KVM and more."
 - [Revive Nokia N95](https://github.com/domib97/revive.nokia.n95) - A quick guide to revive the legacy Nokia N95 and develop for it.
+- [J2ME Docs](https://nikita36078.github.io/J2ME_Docs) - Documentation for J2ME and some vendor-specific APIs.
+- [Java ME 3.4 Developer's Guide for NetBeans on Windows](https://docs.oracle.com/javame/dev-tools/jme-sdk-3.4/nb/html/toc.htm) - Official tutorial on SDK 3.4, NetBeans on Windows variant.
+
 
 ### Academic Articles
 

@@ -121,6 +121,7 @@ This project lists books and other resources grouped by genres:
 + [Thai / ไทย](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-th.md)
 + [Turkish / Türkçe](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-tr.md)
 + [Ukrainian / Українська](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-uk.md)
++ [Urdu / اردو](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ur.md)
 + [Vietnamese / Tiếng Việt](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-vi.md)
 
 ### Cheat Sheets
