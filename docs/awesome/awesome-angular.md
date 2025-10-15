@@ -62,6 +62,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-serve-and-run](https://github.com/dot-build/angular-serve-and-run) - Serve your Angular CLI project then run a command on top of it.
 * [dotairc](https://github.com/elecash/dotairc) - This tool helps create consistent instructions for AI assistants working with your codebase.
 * [firebase-framework-tools](https://github.com/FirebaseExtended/firebase-framework-tools) - Experimental addon to the [Firebase CLI](https://github.com/firebase/firebase-tools/) to add web framework support.
+* [js-stack](https://github.com/vipinyadav01/js-stack) - Modern CLI for scaffolding production-ready JavaScript full-stack projects, with customization and best-practice presets.
 * [kqgen](https://github.com/KilloconQ/kqgen) - A fast and flexible CLI for generating Angular components and services. Includes presets for tables, filters, and for REST/GraphQL services.
 * [lin](https://github.com/yuo-app/lin) - Lazy I18N is a CLI tool that translates locale JSONs using LLMs.
 * [mantis-cli](https://github.com/mantis-apps/mantis-cli) - M.A.N.T.I.S (MongoDB, Angular with Analog, Nx, Tailwind CSS, Ionic, Storybook) is not just a CLI tool; it's your passport to a seamless full-stack project launch.
@@ -926,6 +927,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-automocks](https://github.com/MillerSvt/ng-automocks) - It simplifies Angular testing by automatically generating mock components, directives, pipes, modules, and services using Jest's module mocking, eliminating the need for manual stubbing or complex workarounds.
 * [jest-angular-test-verifier](https://github.com/Neizan93/jest-angular-test-verifier) - Jest reporter that verifies Angular components, services, directives, and other file types have matching test files.
 * [ngx-api-mocks-interceptor](https://github.com/MaloPolese/ngx-api-mocks-interceptor) - A powerful Angular HTTP interceptor for mocking API responses with support for dynamic data generation, path matching, response delays, and simulated file operations.
+* [testing-library-queries](https://github.com/thomasmikava/testing-library-queries) - Streamlines DOM querying with a composable, chainable API, TypeScript support, CSS selector helpers, concise syntax, reusable query logic, and framework-agnostic compatibility.
 
 ## Site Templates
 

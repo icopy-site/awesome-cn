@@ -823,6 +823,8 @@ This section includes some additional reading material, channels to watch, and t
 - [Deep Learning Architectures](https://www.youtube.com/playlist?list=PLv8Cp2NvcY8DpVcsmOT71kymgMmcr59Mf)
 - [Time Series Modelling and Analysis](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK)
 - [Serrano.Academy](https://www.youtube.com/@SerranoAcademy)
+- [End to End Data Science Playlist](https://www.youtube.com/watch?v=S_F_c9e2bz4&list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG)
+- [Introduction to Data Science - Linkedin](https://www.linkedin.com/learning/introduction-to-data-science-22668235/beginning-your-data-science-exploration?u=42458916)
 
 ## Socialize
 **[`^        back to top        ^`](#awesome-data-science)**
