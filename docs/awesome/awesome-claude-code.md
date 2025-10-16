@@ -33,31 +33,31 @@ This is a curated list of slash-commands, `CLAUDE.md` files, CLI tools, and othe
 
 Claude Code is a cutting-edge CLI-based coding assistant and agent released by [Anthropic](https://www.anthropic.com/) that you can access in your terminal or IDE. It is a rapidly evolving tool that offers a number of powerful capabilities, and allows for a lot of configuration, in a lot of different ways. Users are actively working out best practices and workflows. It is the hope that this repo will help the community share knowledge and understand how to get the most out of Claude Code.
 
+<div align="center"><h2>SHOW OFF YOUR (AGENT) SKILLS!</h2></div>
+
 
 <details open>
 <summary>View Announcements</summary>
 
 - <details open>
-  <summary>2025-10-06 - Awesome Claude Code 2.0</summary>
+  <summary>2025-10-16 - **AGENT SKILLS**</summary>
 
   - <details open>
-    <summary>Change afoot</summary>
+    <summary>Claude Got Skills</summary>
 
-    - Thank you, again, to Anthropic PBC for paying tribute to hip-hop royalty in their recent advertising campaign. Although they neglected to include his voice in the commercial, I'm sure DOOM would have echoed their joyful sentiment with full enthusiasm.
+    - In my previous announcement, I encouraged people to submit resources that explored features specific to _Claude Code_. So Claude read the post (he checks the list a lot), and was like "hold my martini" - and as of version 2.0.20 it looks like we've got a **new** set of toys for users to play with: [**Agent Skills**](https://docs.claude.com/en/docs/claude-code/skills). So for now I'm going to be focusing a lot on figuring out what you can do with this new feature set, and Skills submissions will be prioritized. Watch this space for updates.
 
     </details>
+
+  </details>
+
+- <details open>
+  <summary>2025-10-06 - Awesome Claude Code 2.0</summary>
 
   - <details open>
     <summary>Fundraising update</summary>
 
     - I've managed at last to secure a dedicated, direct-link, one-click fundraising widget for my campaign to support [The Bail Project](https://bailproject.org/). See <a href="#support">Support</a> below for more details, and click [here](https://donor.bailproject.org/-/NPHKDQGP?member=SELFZPZN) to contribute.
-
-    </details>
-
-  - <details open>
-    <summary>Content update</summary>
-
-    - Thanks to the hard work that so many people have devoted to writing code for other users of Claude Code, the current list has reached a very respectable size, with about 150 resource listings. As Claude Code has now reached 2nd grade, I am thinking more about how best to manage the list going forward. First, I'd like to ensure that existing resources are still relevant and compatible with the current version of Claude Code. I think some categories (I'm thinking in particular of usage monitors and bespoke orchestration frameworks) are more or less at capacity. For those wishing to submit to the Awesome List, I would like to strongly encourage exploration of any new or recent features that have been, or will be, rolled out - and to think about how to creatively leverage the existing features of _Claude Code_, as opposed to finding new ways to hook up Claude Code to something _else_. (For a bit more detail, see <a href="./DONTREADME.md">`DONTREADME.md`</a>.) In addition to this, due to personal factors and social ailments such as "rent", I must be mindful of the time I devote to this project, which is non-trivial - and, sadly, because GitHub is not as cool as reddit, I operate at a loss in maintaining this repo. For now, I am temporarily suspending any commitment to maintaining the Issue submissions as a FIFO _queue_ of items that must be evaluated in a timely fashion. You are absolutely encouraged to submit your projects, and I respect everybody's hard work and will make my best effort to review submissions as they come in. Futher maintenance support may be coming soon, but until then, I will be adding items as I see fit, whether they are from the Issues list or those that I discover on my own. If you want to support more activate maintenance and attention towards reviewing submissions, you may see the <a href="#support">Support</a> section below. Frankly, everyone on the list probably deserves some compensation for helping make Claude Code such a popular and awesome product, but I don't control the purse strings.
 
     </details>
 
@@ -67,6 +67,28 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 
 > Resources added in the past 7 days
+
+[`Rulesync`](https://github.com/dyoshikawa/rulesync) &nbsp; by &nbsp; [dyoshikawa](https://github.com/dyoshikawa)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A Node.js CLI tool that automatically generates configs (rules, ignore files, MCP servers, commands, and subagents) for various AI coding agents. Rulesync can convert configs between Claude Code and other AI agents in both directions.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for rulesync](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=rulesync&username=dyoshikawa&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`VoiceMode MCP`](https://github.com/mbailey/voicemode) &nbsp; by &nbsp; [Mike Bailey](https://github.com/mbailey)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+VoiceMode MCP brings natural conversations to Claude Code. It supports any OpenAI API compatible voice services and installs free and open source voice services (Whisper.cpp and Kokoro-FastAPI).
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for voicemode](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=voicemode&username=mbailey&all_stats=true&stats_only=true)
+
+</details>
+<br>
 
 [`Vibe-Log`](https://github.com/vibe-log/vibe-log-cli) &nbsp; by &nbsp; [Vibe-Log](https://github.com/vibe-log)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Analyzes your Claude Code prompts locally (using CC), provides intelligent session analysis and actionable strategic guidance - works in the statusline and produces very pretty HTML reports as well. Easy to install and remove.
@@ -115,9 +137,9 @@ High-performance Rust-based statusline for Claude Code with persistent stats tra
 
 ## **Support**
 
-You can easily offer support by making a charitable donation in honor of Awesome Claude Code by visiting the [fundraising page](https://donor.bailproject.org/-/NPHKDQGP/join?member=SELFZPZN) I've set up for [The Bail Project](https://bailproject.org/). One click will take you straight to the donation widget, and a few seconds later your contribution will be completed - even $1 will truly make an impact. (If you are on GitHub, and you want your donation to be recognized, you will have to take about two more minutes to complete a follow-up email which actually notifies me of the dedication. As a reward you can show one of our nice Freedom Funder badges.) Sadly, this repo cannot be actively maintained without some direct support to this fund. Luckily there are loads of other resources devoted to Claude and his amazing Code, and it's up to you whether you think this one is particularly valuable or not.
+You can easily offer support by making a charitable donation in honor of Awesome Claude Code by visiting the [fundraising page](https://donor.bailproject.org/-/NPHKDQGP?member=SELFZPZN) I've set up for [The Bail Project](https://bailproject.org/). One click will take you straight to the donation widget, and a few seconds later your contribution will be completed - even $1 will truly make an impact. (If you are on GitHub, and you want your donation to be recognized, you will have to take about two more minutes to complete a follow-up email which actually notifies me of the dedication. As a reward you can show one of our nice Freedom Funder badges.) Sadly, this repo cannot be actively maintained without some direct support to this fund. Luckily there are loads of other resources devoted to Claude and his amazing Code, and it's up to you whether you think this one is particularly valuable or not.
 
-<a href="https://donor.bailproject.org/-/NPHKDQGP/join?member=SELFZPZN" text-align="center">
+<a href="https://donor.bailproject.org/-/NPHKDQGP?member=SELFZPZN" text-align="center">
   <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/./assets/fundraising-link-img.jpg" alt="Awesome Claude Code Freedom Funders" width="200" margin="auto" />
 </a>
 
@@ -463,6 +485,17 @@ A systematic development framework that transforms Claude Code into a proactive 
 </details>
 <br>
 
+[`Rulesync`](https://github.com/dyoshikawa/rulesync) &nbsp; by &nbsp; [dyoshikawa](https://github.com/dyoshikawa)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A Node.js CLI tool that automatically generates configs (rules, ignore files, MCP servers, commands, and subagents) for various AI coding agents. Rulesync can convert configs between Claude Code and other AI agents in both directions.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for rulesync](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=rulesync&username=dyoshikawa&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`run-claude-docker`](https://github.com/icanhasjonas/run-claude-docker) &nbsp; by &nbsp; [Jonas](https://github.com/icanhasjonas/)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A self-contained Docker runner that forwards your current workspace into a safe(r) isolated docker container, where you still have access to your Claude Code settings, authentication, ssh agent, pgp, optionally aws keys etc.
 
@@ -514,6 +547,17 @@ Analyzes your Claude Code prompts locally (using CC), provides intelligent sessi
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for vibe-log-cli](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=vibe-log-cli&username=vibe-log&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`VoiceMode MCP`](https://github.com/mbailey/voicemode) &nbsp; by &nbsp; [Mike Bailey](https://github.com/mbailey)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+VoiceMode MCP brings natural conversations to Claude Code. It supports any OpenAI API compatible voice services and installs free and open source voice services (Whisper.cpp and Kokoro-FastAPI).
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for voicemode](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=voicemode&username=mbailey&all_stats=true&stats_only=true)
 
 </details>
 <br>

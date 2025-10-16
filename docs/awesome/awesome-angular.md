@@ -413,6 +413,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@configcat-labs/feature-flags-in-angular-sample-app](https://github.com/configcat-labs/feature-flags-in-angular-sample-app) - Example app that uses ConfigCat.
 * [featurit-sdk-angular](https://github.com/featurit/featurit-sdk-angular) - Angular wrapper of the JavaScript client for the [FeaturIT](https://featurit.com/) Feature Flag management platform.
 * [flagpole](https://www.npmjs.com/package/@flagpole/angular) - Angular SDK for the [Flagpole](https://useflagpole.dev/) feature flag management system. Provides real-time feature flag updates, A/B testing capabilities, and seamless integration with Angular applications.
+* [ngx-feature-proxy](https://github.com/zenkiet/ngx-feature-proxy) - Angular feature flag library with Unleash integration, provides reactive programming, type-safe feature flag management with zero-configuration setup.
 
 ### GraphQL
 
@@ -639,6 +640,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-openapi](https://github.com/ng-openapi/ng-openapi) - Angular OpenAPI Client Generator.
 * [tmf](https://github.com/tripsnek/tmf) - A lightweight TypeScript port of Eclipse Modeling Framework (EMF), this tool enables model-driven development with type-safe, reflective data models that integrate effortlessly across Node.js, Java, and Angular/React frontends.
 * [polyfront-scaffold](https://github.com/NirmalSamaranayaka/polyfront-scaffold) - A generator that offers a wide range of configuration options to build a flexible, scalable Angular app tailored to your development needs.
+* [orval](https://github.com/orval-labs/orval) - Generate, validate, cache and mock in your frontend applications, based on your OpenAPI specification.
 
 ### Internationalization
 
@@ -689,6 +691,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [hawkeye](https://github.com/angular-experts-io/hawkeye) - A powerful tool designed to help developers visualize and optimize their JavaScript bundles. With our intuitive interface, you can gain deep insights into your project's bundle structure, identifying large modules, dependencies, and assets that may be impacting performance.
 * [microwave](https://github.com/jscutlery/devkit/tree/main/packages/microwave) - Optimize Angular change detection effortlessly.
 * [ngememoize](https://github.com/akbarsaputrait/ngememoize) - Easily boost the performance of your Angular applications by memoizing functions and getters with this lightweight and simple-to-use library.
+* [ng-event-plugins](https://github.com/taiga-family/ng-event-plugins) - A tiny library for optimizing change detection cycles for performance sensitive events.
 * [ng-queuex](https://github.com/dagnygus/ng-queuex) - An experimental ecosystem for Angular that introduces a React-inspired concurrent scheduler and a set of signal-driven structural directives for fine-grained, isolated change detection.
 * [ng-reactive-lint](https://github.com/Shrinivassab/ng-reactive-lint) - An Angular-specific linter enforcing optimal reactivity patterns with Signals and RxJS.
 * [ngx-network-monitor](https://github.com/MadeByRaymond/ngx-network-monitor) - A lightweight Angular service to monitor network status: online/offline, connection quality (2G/3G/4G/5G), and ping latency.
@@ -928,6 +931,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [jest-angular-test-verifier](https://github.com/Neizan93/jest-angular-test-verifier) - Jest reporter that verifies Angular components, services, directives, and other file types have matching test files.
 * [ngx-api-mocks-interceptor](https://github.com/MaloPolese/ngx-api-mocks-interceptor) - A powerful Angular HTTP interceptor for mocking API responses with support for dynamic data generation, path matching, response delays, and simulated file operations.
 * [testing-library-queries](https://github.com/thomasmikava/testing-library-queries) - Streamlines DOM querying with a composable, chainable API, TypeScript support, CSS selector helpers, concise syntax, reusable query logic, and framework-agnostic compatibility.
+* [ArchUnitTS](https://github.com/LukasNiessen/ArchUnitTS) - Enforce architecture rules, detect circular dependencies, and validate code standards in JS/TS projects with easy setup and seamless test framework integration.
 
 ## Site Templates
 
@@ -1417,6 +1421,7 @@ to simplify usage and allow quick customization.
 * [translation-validation](https://github.com/RiskChallenger/translation-validation) - Automatic validation messages for Angular forms in any language.
 * [polish-validators](https://github.com/joker876/polish-validators) - A validation library designed for Polish-specific formats, also available as an Angular wrapper via [ngx-polish-validators](https://www.npmjs.com/package/ngx-polish-validators).
 * [ngx-mat-errors](https://github.com/Totati/ngx-mat-errors) - Offers a simple and adaptable approach to presenting error messages within a `MatFormField`.
+* [oop-validator](https://github.com/visaruruqi/oop-validator) - A powerful, flexible validation library that works effortlessly with any UI framework—Vue.js, React, Angular, and more—offering a complete solution for front-end validation.
 
 ### Icons
 
@@ -1879,6 +1884,7 @@ for the creation of web applications developed with Angular.
 * [PrimeBlocks](https://primeblocks.org/) - Professionally designed UI blocks tailored for rapid application development.
 * [Rectangle UI](https://github.com/jarretthuang/rectangle-ui) - A code-first UI component library for Angular.
 * [seacotools](https://github.com/Seacotec/seacotools) - A library designed for modern Angular applications, offering a suite of reusable UI components and services compatible with Tailwind CSS.
+* [semantic-components](https://github.com/gridatek/semantic-components) - Modular, reusable UI elements built with Angular CDK and Tailwind CSS that prioritize semantic HTML and accessibility, delivering lightweight, flexible, and maintainable interfaces with full A11y support.
 * [simui](https://github.com/dofu-lab/simui) - Beautiful Angular UI components built with Tailwind CSS and Spartan.
 * [synerity-ui](https://github.com/synerity-ai/synerity-ui) - A comprehensive, enterprise-grade Angular 20+ component library offering 90+ accessible, performant components styled with Tailwind CSS for modern web applications.
 * [Tailkit UI](https://tailkit.com/) - Carefully crafted, easy to customize, fully responsive Tailwind CSS Components, Templates and Tools for your Tailwind CSS based projects.
@@ -2024,6 +2030,7 @@ for the creation of web applications developed with Angular.
 
 ### Cross-Framework Integration
 
+* [detector](https://github.com/kitium-ai/detector) - A zero-dependency, TypeScript-first library for fast, universal detection of platforms, frameworks, browsers, and capabilities.
 * [ngx-react](https://github.com/ngeenx/ngx-react) - Embed React components or apps into Angular projects.
 * [ngx-reactify](https://github.com/knackstedt/ngx-reactify) - Library to make running Angular and React applications together easy.
 * [ng-react-bridge](https://github.com/john310897/ng-react-bridge) - A lightweight Angular package that enables developers to seamlessly render React components inside Angular components using a directive.

@@ -1168,9 +1168,13 @@ _Frameworks that handle the communication between the layers of a web applicatio
 
 ### Workflow Orchestration Engines
 
+_Platforms and frameworks for orchestrating workflows and business processes._
+
 - [Cadence](https://cadenceworkflow.io) - Stateful code platform from Uber.
 - [flowable](https://github.com/flowable/flowable-engine) - Compact and efficient workflow and business process management platform.
 - [Temporal](https://temporal.io) - Microservice orchestration platform, forked from Cadence but gRPC based.
+
+<!-- END_PROJECTS_SECTION -->
 
 ## Resources
 
