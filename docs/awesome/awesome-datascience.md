@@ -546,6 +546,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [skrub](https://github.com/skrub-data/skrub/) | A Python library to ease preprocessing and feature engineering for tabular machine learning |
 | [Codeflash](https://www.codeflash.ai/) | Ship Blazing-Fast Python Code — Every Time |
 | [Hugging Face](https://huggingface.co/) | Popular open platform for sharing ML models, datasets, and collaborating on NLP and generative AI projects. |
+| [Chinese-Elite](https://github.com/anonym-g/Chinese-Elite) | An open-source project that automatically maps relationship networks by parsing public data using LLMs and visualizes it as an interactive graph. |
 
 
 

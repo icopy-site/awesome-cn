@@ -1334,6 +1334,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [lite-form](https://github.com/liangk/lite-form) - A comprehensive Angular library that provides lightweight, customizable form components with built-in validation, styling, and animations.
 * [cc-form-engine](https://github.com/ChristianCruzArango/cc-form-engine) - Advanced Angular library for reactive form generation and management with dynamic validation, change tracking, and customizable error messages.
 * [ngx-vest-forms](https://github.com/ngx-vest-forms/ngx-vest-forms) - A lightweight, type-safe adapter between Angular template-driven forms and [Vest.js](https://vestjs.dev/) validation. Build complex forms with unidirectional data flow, sophisticated async validations, and zero boilerplate.
+* [ngx-autosave-forms](https://github.com/zinetnorf/ngx-autosave-forms) - Autosave form values in localStorage using template forms or reactive forms in Angular.
 
 ### Form Controls
 
@@ -1384,6 +1385,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-phone](https://github.com/manishpatidar028/ngx-phone) - Angular international phone number input component with automatic country detection, real-time formatting, validation, and seamless support for both reactive & template-driven forms.
 * [ngx-phone-country-input](https://github.com/mostafaM212/ngx-phone-country-input) - A comprehensive Angular library providing phone input and country selection components with full reactive forms support.
 * [ngx-mat-period-picker](https://github.com/felixdulfer/ngx-mat-period-picker) - A modern Angular Material period picker component built with standalone components.
+* [touchspin-angular](https://github.com/istvan-ujjmeszaros/touchspin-angular) - Angular adapter for the [TouchSpin](https://github.com/istvan-ujjmeszaros/touchspin) number input component with per-renderer support.
 
 ### JSON Forms
 

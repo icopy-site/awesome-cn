@@ -65,6 +65,7 @@ This list is a collection of the best Mastodon resources.
 - [Whalebird](https://whalebird.social/en/desktop/contents/) - Electron-based Mastodon client.
 - [toot](https://github.com/ihabunek/toot/) - Mastodon CLI & TUI in Python.
 - [Tokodon](https://apps.kde.org/tokodon/) - Mastodon client made by KDE.
+- [hellclient](https://hell.limitedideas.org) - Mastodon CLI readline client written in Go.
 
 ## Mobile Clients
 

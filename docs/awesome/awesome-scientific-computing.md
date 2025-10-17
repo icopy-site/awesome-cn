@@ -31,7 +31,7 @@ them.
 
 ## Multi-purpose toolkits
 
-- [PETSc](https://www.mcs.anl.gov/petsc/) - Parallel solution of scientific applications modeled by PDEs.
+- [PETSc](https://petsc.org/release/) - Parallel solution of scientific applications modeled by PDEs.
   (C, 2-clause BSD, [GitLab](https://gitlab.com/petsc/petsc))
 - [DUNE Numerics](https://www.dune-project.org) - Toolbox for solving PDEs with grid-based methods.
   (C++, GPL 2, [GitLab](https://gitlab.dune-project.org/core/))
@@ -84,7 +84,7 @@ them.
   (C++, AGPLv3)
 - [Triangle](https://www.cs.cmu.edu/~quake/triangle.html) - Two-dimensional quality mesh generator and Delaunay triangulator.
   (C, _nonfree software_)
-- [distmesh](http://persson.berkeley.edu/distmesh/) - Simple generator for unstructured triangular and tetrahedral meshes.
+- [distmesh](https://persson.berkeley.edu/distmesh/) - Simple generator for unstructured triangular and tetrahedral meshes.
   (MATLAB, GPL 3)
 - [trimesh](https://trimesh.org) - Loading and using triangular meshes with an emphasis on watertight surfaces.
   (Python, MIT, [GitHub](https://github.com/mikedh/trimesh))
@@ -121,13 +121,13 @@ them.
 
 ## Data formats
 
-- [NetCDF](https://www.unidata.ucar.edu/software/netcdf/) - Software libraries and data formats for array-oriented scientific data.
+- [NetCDF](https://www.unidata.ucar.edu/software/netcdf) - Software libraries and data formats for array-oriented scientific data.
   (C/C++/Fortran/Java/Python, [custom open-source
-  license](https://www.unidata.ucar.edu/software/netcdf/copyright.html),
+  license](https://www.unidata.ucar.edu/software/netcdf/licensing),
   [GitHub](https://github.com/Unidata/netcdf-c/))
 - [HDF5](https://www.hdfgroup.org/solutions/hdf5/) - Data model, library, and file format for storing and managing data.
   (C/Fortran, BSD, [GitHub](https://github.com/HDFGroup/hdf5))
-- [XDMF](https://xdmf.org/index.php/Main_Page) - eXtensible Data Model and Format for data from High Performance Computing codes.
+- [XDMF](https://xdmf.org/) - eXtensible Data Model and Format for data from High Performance Computing codes.
   (C++, [GitLab](https://gitlab.kitware.com/xdmf/xdmf))
 - [Zarr](https://zarr.readthedocs.io/en/stable/) - Format for the storage of chunked, compressed, N-dimensional arrays.
   (Python, MIT, [GitHub](https://github.com/zarr-developers/zarr-python))
