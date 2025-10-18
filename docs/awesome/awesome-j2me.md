@@ -31,6 +31,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hac
 - [NN JSON](https://github.com/shinovon/NNJSON) - JSON parser for CLDC 1.1.
 - [NN JSON CLDC 1.0](https://github.com/gtrxAC/discord-j2me/tree/main/src/cc/nnproject/json) - Modified version of NN JSON for CLDC 1.0.
 - [J2ME Game Script Engine](https://j2megamescript.sourceforge.net/) - A lightweight script interpreter for building flexible J2ME games, with a BASIC-like scripting language. Runs on J2SE/J2ME/Win C++ platforms; ideal for game rapid prototyping and customization.
+- [J2ME Gradle template](https://gitea.bedohswe.eu.org/pixtaded/j2me-hello-gradle) - Gradle template for J2ME development using Microemulator.
 
 ### IDEs
 

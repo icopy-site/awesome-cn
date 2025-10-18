@@ -9,7 +9,8 @@
 <!--lint ignore double-link-->
 [Plone](https://plone.org) is a open source CMS written in Python with a focus on functionality, customizability and security out of the box.
 
-There are over [3000 add-ons for Plone on pypi](https://pypi.org/search/?q=&o=&c=Framework+%3A%3A+Plone) and over 1500 repositories in the [collective](https://github.com/collective/). If you want to know if there is already a add-on for Plone that fits your needs, searching for it on GitHub or pypi can be hard. It's hard to understand which one could be a good solution or not.
+<!--lint ignore double-link-->
+There are over 3000 add-ons for [Plone on PyPi](https://pypi.org/search/?q=&o=&c=Framework+%3A%3A+Plone) and over 1500 repositories in the [Collective](https://github.com/collective) organization on GitHub. If you want to know if there is already a add-on for Plone that fits your needs, searching for it on GitHub or PyPi can be hard. It's hard to understand which one could be a good solution or not.
 
 This list is intended to fill that gap, and create a shared knowledge about common products and techniques.
 
@@ -42,7 +43,7 @@ _Add-ons that provide content-types or additional functionality for content_
 ## Searching and Categorizing
 
 * [collective.bookmarks](https://github.com/collective/collective.bookmarks) - Bookmarks/ favorites/ wish-list for Plone.
-* [collective.elasticsearch](https://github.com/collective/collective.elasticsearch) - Use ElasticSearch as the search backend for Plone.
+* [collective.elasticsearch](https://github.com/collective/collective.elasticsearch) - Use Elasticsearch as the search backend for Plone.
 * [collective.solr](https://github.com/collective/collective.solr) - Solr search engine integration for Plone.
 * [Products.PloneKeywordManager](https://github.com/collective/Products.PloneKeywordManager) - Change, merge and delete keywords/tags/subjects).
 * [zopyx.typesense](https://github.com/zopyx/zopyx.typesense) - Plone integration with the external Typesense search server (open-source). This is an alternative to collective.solr or Elasticsearch.
@@ -90,6 +91,7 @@ _Add-ons that allow generating and using forms._
 _Add-ons to help manage multilingual sites._
 
 * [collective.linguatags](https://github.com/collective/collective.linguatags) - Multilingual Tags for Plone.
+* [cs.adminlanguage](https://github.com/codesyntax/cs.adminlanguage) - Configure a language to be used when editing your Plone site, independent to the site language.
 
 
 ## Media
@@ -103,6 +105,7 @@ _Add-ons that handle image, video and audio content._
 * [plone.app.imagecropping](https://github.com/collective/plone.app.imagecropping) - Crops Images in Plone manually using cropper JS library.
 * [plone.gallery](https://github.com/plone/plone.gallery) - Photo gallery view for Plone.
 * [redturtle.gallery](https://github.com/RedTurtle/redturtle.gallery) - Adds a gallery view with a carousel made with slick.
+* [cs_flickrgallery](https://github.com/codesyntax/cs_flickrgallery) - Flickr photo gallery support for Plone.
 
 
 ## Security
@@ -124,11 +127,13 @@ _A list of authentication plugins, to integrate Plone with external user , Impor
 
 * [pas.plugins.ldap](https://github.com/collective/pas.plugins.ldap) - Provides users and groups from a LDAP directory.
 * [pas.plugins.authomatic](https://github.com/collective/pas.plugins.authomatic) - Authomatic OAuth1/OAuth2/OpenID Login Integration with Plone.
+* [pas.plugins.eea](https://github.com/collective/pas.plugins.eea) - Provides user and group enumeration on top of pas.plugins.authomatic, with support for Microsoft Entra ID. Includes user and group synchronization.
 * [iw.rejectanonymous](https://github.com/collective/iw.rejectanonymous) - Reject unconditionnally anonymous users from a Plone site, without any change in your security policy matrix or workflows. The basic use case is an extranet, where all visitors must be authenticated.
 * [pas.plugins.headers](https://github.com/collective/pas.plugins.headers) - Reads request headers and uses them for authentication. Think SAML headers that are set by a front web server like Apache or nginx.
 * [dm.zope.saml2](https://pypi.org/project/dm.zope.saml2/) - Supports SAML2 based Single Sign-On.
 * [collective.pwexpiry](https://github.com/collective/collective.pwexpiry) - Provideds methods for stronger user passwords in Plone and password attack protection.
-
+* [pas.plugins.oidc](https://github.com/collective/pas.plugins.oidc) - Login using OIDC providers.
+* [wcs.samlauth](https://github.com/collective/wcs.samlauth) - Login using SAML providers.
 
 ## Shop
 
@@ -178,15 +183,16 @@ _Add-ons that help admins deploying and maintaining Plone_
 
 ## Finding more add-ons
 
-It can be hard to find the right add-on for your requirements.
-Here are some tips:
+Finding the right add-on for your needs can sometimes be challenging.
+Here are a few tips to help you:
 
-* Make a list of required features.
-* Look in this list first.
-* Search pypi: https://pypi.org/search/?c=Framework+%3A%3A+Plone
-* Search the collective organization on github: https://github.com/collective
-* Search the plone organization on github: https://github.com/plone
-* Google for your requirements
+<!--lint ignore double-link-->
+* Start by making a list of the features you require.
+* Check this list first to see if any existing add-ons meet your needs.
+* Search for Plone add-ons on [PyPi](https://pypi.org/search/?c=Framework+%3A%3A+Plone).
+* Browse the [Collective](https://github.com/collective) organization on GitHub.
+* Browse the [Plone](https://github.com/plone) organization on GitHub.
+* Or simply Google for your requirements.
 
 Once you have a shortlist, test these add-ons. Here are the main issues you need to test before you install an add-on on a production site:
 
@@ -199,7 +205,8 @@ Once you have a shortlist, test these add-ons. Here are the main issues you need
 
 Once you found an add-on you like, you can ask the community if you made a good choice or if you missed something:
 
-* Message Board: https://community.plone.org
+<!--lint ignore double-link-->
+* Message Board: [community.plone.org](https://community.plone.org)
 
 If you can't find something that fits your requirements 100% you can:
 
@@ -212,13 +219,13 @@ If you can't find something that fits your requirements 100% you can:
 _Because Plone also has a lot of good official info resources_
 
 <!--lint ignore double-link-->
-* [plone.org](https://plone.org/) - Official website for developers and community.
-* [community.plone.org](https://community.plone.org/) - Official community forum, the best place to get help.
+* [plone.org](https://plone.org) - Official website for developers and community.
+* [community.plone.org](https://community.plone.org) - Official community forum, the best place to get help.
 * [Discord chat](https://discord.gg/zFY3EBbjaj) - Discord is the best way to chat with members of the Plone community.
 * [Plone support](https://plone.org/support) - Where to find help.
-* [docs.plone.org](https://docs.plone.org/) - Official documentation for developers/integrators.
-* [Plone 6 Documentation](https://6.dev-docs.plone.org/) - Official documentation for the upcoming Plone 6 (work on progress).
-* [training.plone.org](https://training.plone.org/) - Training classes for developers/integrators/users/designers.
+* [docs.plone.org](https://docs.plone.org) - Official documentation for developers/integrators.
+* [Plone 6 Documentation](https://6.dev-docs.plone.org) - Official documentation for the upcoming Plone 6 (work on progress).
+* [training.plone.org](https://training.plone.org) - Training classes for developers/integrators/users/designers.
 * [plone.api](https://6.dev-docs.plone.org/plone.api/index.html) - Documentation for plone.api.
 
 
