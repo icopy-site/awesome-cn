@@ -172,9 +172,10 @@ Additional lists you might find useful:
 ## NoSQL
 *Plugins for working with "NoSQL" backends.*
 
-## Notifications
+## Notifications and Real-time Communication
 *Plugins for working with notification software.*
 
+- [Mercure plugin](https://github.com/josbeir/cakephp-mercure) - Push real-time updates to clients using the Mercure protocol.
 
 ## ORM / Database / Datamapping
 *Plugins that implement object-relational mapping or data-mapping techniques.*

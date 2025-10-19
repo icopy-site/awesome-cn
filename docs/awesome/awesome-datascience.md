@@ -1094,6 +1094,7 @@ Some data mining competition platforms
 - [40+ Data Analytics Projects Ideas](https://www.appliedaicourse.com/blog/data-analytics-projects-ideas/)
 - [Best Data Science Courses with Certificates](https://www.appliedaicourse.com/blog/best-data-science-courses/)
 - [Generative AI Models](https://www.appliedaicourse.com/blog/generative-ai-models/)
+- [Awesome Data Analysis](https://github.com/PavelGrigoryevDS/awesome-data-analysis) -  A curated list of data analysis tools, libraries and resources.
 
 
 ### Hobby
