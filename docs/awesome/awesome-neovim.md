@@ -174,6 +174,7 @@
 - [azorng/goose.nvim](https://github.com/azorng/goose.nvim) - Seamless Neovim integration with [goose](https://block.github.io/goose) - work with a powerful AI agent without leaving your editor.
 - [mozanunal/sllm.nvim](https://github.com/mozanunal/sllm.nvim) - In-editor chat powered by Simon Willison's llm CLI: stream replies in a markdown buffer, manage rich context (files, URLs, selections, diagnostics, shell outputs), switch models interactively, and even see token-usage stats.
 - [chatvim/chatvim.nvim](https://github.com/chatvim/chatvim.nvim) - Chat with Markdown files using AI models from xAI, OpenAI and Anthropic.
+- [3ZsForInsomnia/code-companion-picker](https://github.com/3ZsForInsomnia/code-companion-picker) - Telescope and Snacks picker integrations for previewing CodeCompanion prompts.
 - [3ZsForInsomnia/vs-code-companion](https://github.com/3ZsForInsomnia/vs-code-companion) - Tool for importing VS Code's markdown prompts into CodeCompanion.
 - [3ZsForInsomnia/token-count.nvim](https://github.com/3ZsForInsomnia/token-count.nvim) - Shows the token count for the current buffer, with integrations for Lualine and NeoTree.
 
@@ -281,6 +282,7 @@
 - [timantipov/md-table-tidy.nvim](https://github.com/timantipov/md-table-tidy.nvim) - Simple markdown tables formatting.
 - [nvim-telescope/telescope-bibtex.nvim](https://github.com/nvim-telescope/telescope-bibtex.nvim) - Telescope extension to search and paste BibTeX entries into your TeX files.
 - [Thiago4532/mdmath.nvim](https://github.com/Thiago4532/mdmath.nvim) - A markdown equation previewer, using Kitty Graphics Protocol.
+- [OXY2DEV/markdoc.nvim](https://github.com/OXY2DEV/markdoc.nvim) - Tree-sitter based `markdown -> vimdoc` converter.
 
 ### PHP
 
@@ -538,6 +540,7 @@
 - [TaDaa/vimade](https://github.com/TaDaa/vimade) - Dim, fade, tint, animate, and customize colors in your windows and buffers.
 - [xzbdmw/colorful-menu.nvim](https://github.com/xzbdmw/colorful-menu.nvim) - Colorize your auto completion menu using Tree-sitter.
 - [nvzone/minty](https://github.com/nvzone/minty) - Beautifully crafted color tools.
+- [3ZsForInsomnia/pacer.nvim](https://github.com/3ZsForInsomnia/pacer.nvim) - Creates a reading pacer by highlighting one word at a time and dimming all text outside the current paragraph-and-some to help you read faster.
 
 <!--lint disable double-link -->
 
@@ -550,6 +553,7 @@
 
 Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses your code into a tree that works, even with errors in your syntax. These colorschemes have specifically set colors for Tree-sitter highlight groups. Vim colorschemes will work with the new groups out of the box.
 
+- [kuri-sun/yoda.nvim](https://github.com/kuri-sun/yoda.nvim) - Muted green palette for focused, balanced editing.
 - [wurli/cobalt.nvim](https://github.com/wurli/cobalt.nvim) - A (mostly) faithful port of the classic blue theme from TextMate.
 - [datsfilipe/min-theme.nvim](https://github.com/datsfilipe/min-theme.nvim) - It's a port of Min, a minimal theme for VSCode, written in Lua.
 - [github-main-user/lytmode.nvim](https://github.com/github-main-user/lytmode.nvim) - A unique in-between theme inspired by LYT-Mode for Obsidian. Not quite dark, not quite light — just right.
@@ -735,18 +739,18 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) - A simple statusline/winbar component that uses LSP to show your current code context.
 - [luukvbaal/statuscol.nvim](https://github.com/luukvbaal/statuscol.nvim) - Configurable 'statuscolumn' with builtin segments and click handlers.
 - [mawkler/hml.nvim](https://github.com/mawkler/hml.nvim) - Adds `H`/`M`/`L` indicators to your line numbers.
-- [neur1n/noline.nvim](https://github.com/neur1n/noline.nvim) - Fully customizable bars and lines components with no presets or constraints. See [construction](https://github.com/neur1n/dotfiles/tree/master/neovim/lua/plugconf/noline) and [setup](https://github.com/neur1n/dotfiles/blob/master/neovim/lua/plugconf/noline.lua) examples.
+- [neur1n/noline.nvim](https://github.com/neur1n/noline.nvim) - Fully customizable bars and lines components with no presets nor constraints.
 - [OXY2DEV/bars.nvim](https://github.com/OXY2DEV/bars.nvim) - A starting point/guide for creating custom statusline, statuscolumn, tabline & winbar.
 
 ### Statusline
 
-- [NTBBloodbath/galaxyline.nvim](https://github.com/NTBBloodbath/galaxyline.nvim) - Galaxyline componentizes Vim's statusline by having a provider for each text area. This means you can use the API provided by galaxyline to create the statusline that you want, easily.
+- [NTBBloodbath/galaxyline.nvim](https://github.com/NTBBloodbath/galaxyline.nvim) - A light-weight and super fast statusline plugin written in Lua.
 - [tjdevries/express_line.nvim](https://github.com/tjdevries/express_line.nvim) - Supports co-routines, functions and jobs.
 - [sontungexpt/sttusline](https://github.com/sontungexpt/sttusline) - Very lightweight, super fast and lazyloading statusline.
 - [sontungexpt/witch-line](https://github.com/sontungexpt/witch-line) - A blazing fast, lazy loading and easy to configure Neovim statusline.
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure Neovim statusline.
 - [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim) - A light statusline/tabline plugin using Lua.
-- [ojroques/nvim-hardline](https://github.com/ojroques/nvim-hardline) - A statusline / bufferline. It is inspired by [vim-airline](https://github.com/vim-airline/vim-airline) but aims to be as light and simple as possible.
+- [ojroques/nvim-hardline](https://github.com/ojroques/nvim-hardline) - A statusline / bufferline inspired by [vim-airline](https://github.com/vim-airline/vim-airline) that aims to be as light and simple as possible.
 - [beauwilliams/statusline.lua](https://github.com/beauwilliams/statusline.lua) - A zero-config minimal statusline written in Lua featuring awesome integrations and blazing speed!
 - [tamton-aquib/staline.nvim](https://github.com/tamton-aquib/staline.nvim) - A modern lightweight statusline in Lua. Mainly uses unicode symbols for showing info.
 - [windwp/windline.nvim](https://github.com/windwp/windline.nvim) - The next generation statusline. Animation statusline.
@@ -1264,6 +1268,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [2KAbhishek/octohub.nvim](https://github.com/2KAbhishek/octohub.nvim) - Access all your gihub repos, stats and more in simple keystrokes.
 - [claydugo/browsher.nvim](https://github.com/claydugo/browsher.nvim) - Create commit pinned links to GitHub hosted files/lines. Avoid stale links.
 - [comatory/gh-co.nvim](https://github.com/comatory/gh-co.nvim) - Show the code owner(s) for files according to GitHub's `CODEOWNERS` specification.
+- [3ZsForInsomnia/revman.nvim](https://github.com/3ZsForInsomnia/revman.nvim) - Track PRs that need review automatically and open them in Octo.nvim.
 
 ### GitLab
 

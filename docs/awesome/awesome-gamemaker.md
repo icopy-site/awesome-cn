@@ -199,6 +199,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [gms2-mofile](https://github.com/pmarincak/gms2-mofile) - Mofile reader used for localization.
 - [cmnLoc](https://yellowafterlife.itch.io/gamemaker-cmn-loc) - Localization library with a text extractor, short syntax, and ICU/pluralization support. 💸
 - [MythLoco](https://mythloco.co.uk) - A localization system with a web-based strings editor.
+- [Krug's Localize System](https://krug-dev.itch.io/localize-system-for-gamemaker) - A localization system with real-time Google Sheets API synchronization.
 
 ## Physics
 
@@ -408,6 +409,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Compatibility scripts](https://github.com/gmclan-org/compatibility-scripts) - Scripts that are used by GM when importing GM:S 1.4 projects, taken directly from runtime files.
 - [Pause example](https://github.com/gmclan-org/pause_no_surface) - Simple example of a pause screen without using surfaces.
 - [Build Automation, CI/CD](https://gist.github.com/shichen85/887d237cdc4338fa3f4e4749a14990db) - Tutorial on using GitHub Actions as a CI/CD pipeline to automate building games.
+- [BROKVN](https://cowcat.itch.io/brokvn-engine) - A visual novel engine.
 
 ## Blogs
 
@@ -416,6 +418,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Katsaii](https://www.katsaii.com/content/blog/posts.html) - Some articles on more advanced GML topics.
 - [Meseta on Game Dev](https://meseta.dev/) - Seasoned GameMaker dev's thoughts on GameMaker concepts and libraries.
 - [Thoughts On GameMaker](https://github.com/JujuAdams/ThoughtsOnGameMaker) - Not a traditional blog but has great info on different GML techniques.
+- [YellowAfterlife](https://yal.cc/category/gm/) - Tutorials on intermediate/advanced topics.
 
 ## YouTube
 
