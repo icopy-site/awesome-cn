@@ -22,30 +22,42 @@ ArcGIS products give you access to APIs, location services, and tools to develop
 
 ## APIs and SDKs
 
-- [ArcGIS API for Python](https://developers.arcgis.com/python/) - Guides, sample notebooks, and API reference to do mapping, spatial analysis, data science, geospatial AI, and automation using Python.
-- [ArcGIS CityEngine SDKs (C++)](https://github.com/esri/cityengine-sdk) - C++ APIs, documentation, and examples for the Procedural Runtime (PRT).
-- [ArcGIS CityEngine SDKs (Python)](https://github.com/Esri/pyprt) - Python bindings for the *Procedural Runtime* (PRT) of CityEngine.
-- [ArcGIS Earth Automation API](https://doc.arcgis.com/en/arcgis-earth/automation-api/get-started.htm) - Guide, API reference, and samples to communicate with ArcGIS Earth.
-- [ArcGIS Enterprise SDK](https://developers.arcgis.com/enterprise-sdk/) - Guides, API reference, and sample code to extend ArcGIS Enterprise.
-- [ArcGIS Maps SDK for .NET](https://developers.arcgis.com/net/) - Guides, sample codes, and API reference to build desktop and mobile apps using .NET.
-- [ArcGIS Maps SDK for Java](https://developers.arcgis.com/java/) - Guides, sample codes, and API reference to build desktop apps.
-- [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/latest/) - Guides, sample code, API references, and showcase to build 2D and 3D interactive web apps unlocking geospatial data.
-- [ArcGIS Maps SDK for Kotlin](https://developers.arcgis.com/kotlin/) - Guides, sample codes, and API reference to build mobile apps using Kotlin.
-- [ArcGIS Maps SDK for Qt](https://developers.arcgis.com/qt/) - Guides, sample codes, and API reference to build mobile and desktop apps.
-- [ArcGIS Maps SDK for Swift](https://developers.arcgis.com/swift/) - Guides, sample codes, and API reference to build mobile apps using Swift.
-- [ArcGIS Maps SDK for Unity](https://developers.arcgis.com/unity/) - Guides, API reference, and sample code to use ArcGIS data and services to develop for Unity.
-- [ArcGIS Maps SDK for Unreal Engine](https://developers.arcgis.com/unreal-engine/) - Guides, API reference, and sample code to use ArcGIS data and services to develop for Unreal Engine.
-- [ArcGIS Pro SDK for Microsoft .NET](https://pro.arcgis.com/en/pro-app/latest/sdk/) - Documentation, tutorials, API reference, FAQ, etc. to extend ArcGIS Pro Desktop.
-- [ArcGIS REST APIs](https://developers.arcgis.com/rest/) - General documentation about ArcGIS REST APIs: location services, content management, portal administration, and more.
-- [ArcGIS REST APIs collections](https://github.com/esri-es/ArcGIS-REST-API) - Postman collections to work with some of the REST APIs: location services, hosted feature layers, ArcGIS Online, ArcGIS Hub, etc.
-- [ArcGIS REST JS](https://developers.arcgis.com/arcgis-rest-js/) - Key concepts, tutorials, and API reference of a collection of JavaScript modules for accessing location services, ArcGIS Online, and ArcGIS Enterprise REST APIs.
-- [ArcGIS Urban API](https://developers.arcgis.com/arcgis-urban-api/) - Public GraphQL web service that can be used to interact with ArcGIS Urban data directly.
-- [ArcObjects SDK for .NET](https://desktop.arcgis.com/en/arcobjects/latest/net/webframe.htm#RoadmapToExtendingArcObjects.htm) - Documentation about the .NET SDK for the library of Component Object Model (COM) components that make up the foundation of ArcGIS.
-- [ArcObjects SDK for Java](https://desktop.arcgis.com/en/arcobjects/latest/java/#80146cac-6b50-4c82-a9f5-7a5be3406c5b.htm) - Documentation about the Java SDK for the library of Component Object Model (COM) components that make up the foundation of ArcGIS.
-- [ArcPy](https://pro.arcgis.com/en/pro-app/arcpy/main/arcgis-pro-arcpy-reference.htm) - Documentation about the Python package to perform geographic data analysis, data conversion, data management, and map automation in ArcGIS Desktop or ArcGIS Enterprise environments.
-- [Esri Leaflet](https://developers.arcgis.com/esri-leaflet/) - Key concepts, tutorials, API reference, plugins, and sample code to help you build web apps using Leaflet with ArcGIS Location Services.
-- [MapLibre GL JS](https://developers.arcgis.com/mapbox-gl-js/) - Guide and tutorials to help you start building web apps with MapLibre and ArcGIS location services.
-- [OpenLayers](https://developers.arcgis.com/openlayers/) - Guide and tutorials to help you start building web apps with OpenLayers and ArcGIS location services.
+- ArcGIS Core APIs & Libraries:
+	- [ArcGIS API for Python](https://developers.arcgis.com/python/) - Guides, sample notebooks, and API reference to do mapping, spatial analysis, data science, geospatial AI, and automation using Python.
+	- [ArcGIS REST APIs](https://developers.arcgis.com/rest/) - General documentation about ArcGIS REST APIs: location services, content management, portal administration, and more.
+	- [ArcGIS REST APIs collections](https://github.com/esri-es/ArcGIS-REST-API) - Postman collections to work with some of the REST APIs: location services, hosted feature layers, ArcGIS Online, ArcGIS Hub, etc.
+	- [ArcGIS REST JS](https://developers.arcgis.com/arcgis-rest-js/) - Key concepts, tutorials, and API reference of a collection of JavaScript modules for accessing location services, ArcGIS Online, and ArcGIS Enterprise REST APIs.
+	- [ArcGIS Urban API](https://developers.arcgis.com/arcgis-urban-api/) - Public GraphQL web service that can be used to interact with ArcGIS Urban data directly.
+	- [ArcPy](https://pro.arcgis.com/en/pro-app/arcpy/main/arcgis-pro-arcpy-reference.htm) - Documentation about the Python package to perform geographic data analysis, data conversion, data management, and map automation in ArcGIS Desktop or ArcGIS Enterprise environments.
+
+- Esri Client-side SDKs:
+	- [ArcGIS Maps SDK for .NET](https://developers.arcgis.com/net/) - Guides, sample codes, and API reference to build desktop and mobile apps using .NET.
+	- [ArcGIS Maps SDK for Flutter](https://developers.arcgis.com/flutter/) - Guides, sample codes, and API reference to build desktop and mobile apps using Flutter.
+	- [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/latest/) - Guides, sample code, API references, and showcase to build 2D and 3D interactive web apps unlocking geospatial data.
+	- [ArcGIS Maps SDK for Kotlin](https://developers.arcgis.com/kotlin/) - Guides, sample codes, and API reference to build mobile apps using Kotlin.
+	- [ArcGIS Maps SDK for Qt](https://developers.arcgis.com/qt/) - Guides, sample codes, and API reference to build mobile and desktop apps.
+	- [ArcGIS Maps SDK for Swift](https://developers.arcgis.com/swift/) - Guides, sample codes, and API reference to build mobile apps using Swift.
+	- [ArcGIS Maps SDK for Unity](https://developers.arcgis.com/unity/) - Guides, API reference, and sample code to use ArcGIS data and services to develop for Unity.
+	- [ArcGIS Maps SDK for Unreal Engine](https://developers.arcgis.com/unreal-engine/) - Guides, API reference, and sample code to use ArcGIS data and services to develop for Unreal Engine.
+
+- Integrations & Plugins (third-party libraries):
+	- [ArcGIS integrations with CesiumJS](https://developers.arcgis.com/cesiumjs/) - Guide and tutorials to help you start build mapping applications with CesiumJS and ArcGIS.
+	- [ArcGIS integrations with MapLibre GL JS](https://developers.arcgis.com/maplibre-gl-js/maplibre-arcgis-plugin/) - Learn how to connect MapLibre GL JS apps with ArcGIS services using the Esri-maintained ArcGIS MapLibre plugin and ArcGIS REST JS, including tutorials, API references, and sample code.
+	- [ArcGIS integrations with OpenLayers](https://developers.arcgis.com/openlayers/) - Guide and tutorials to help you start building web apps with OpenLayers and ArcGIS location services.
+	- [ArcGIS integrations with Leaflet](https://developers.arcgis.com/esri-leaflet/) - Learn how to connect Leaflet apps with ArcGIS services using the Esri-maintained Esri Leaflet plugin and ArcGIS REST JS, including tutorials, API references, and sample code.
+	- [Esri-gl](https://github.com/muimsd/esri-gl) - A community-maintained plugin that enables the use of ArcGIS services in Mapbox GL JS and MapLibre GL JS applications.
+
+- SDKs for Extending ArcGIS Products:
+	- [ArcGIS CityEngine SDKs (C++)](https://github.com/esri/cityengine-sdk) - C++ APIs, documentation, and examples for the Procedural Runtime (PRT).
+	- [ArcGIS CityEngine SDKs (Python)](https://github.com/Esri/pyprt) - Python bindings for the *Procedural Runtime* (PRT) of CityEngine.
+	- [ArcGIS Earth Automation API](https://doc.arcgis.com/en/arcgis-earth/automation-api/get-started.htm) - Guide, API reference, and samples to communicate with ArcGIS Earth.
+	- [ArcGIS Enterprise SDK](https://developers.arcgis.com/enterprise-sdk/) - Guides, API reference, and sample code to extend ArcGIS Enterprise.
+	- [ArcGIS Pro SDK for Microsoft .NET](https://pro.arcgis.com/en/pro-app/latest/sdk/) - Documentation, tutorials, API reference, FAQ, etc. to extend ArcGIS Pro Desktop.
+
+- Legacy SDKs:
+	- [ArcGIS Maps SDK for Java](https://developers.arcgis.com/java/) - Guides, sample codes, and API reference to build desktop apps.
+	- [ArcObjects SDK for .NET](https://desktop.arcgis.com/en/arcobjects/latest/net/webframe.htm#RoadmapToExtendingArcObjects.htm) - Documentation about the .NET SDK for the library of Component Object Model (COM) components that make up the foundation of ArcGIS.
+	- [ArcObjects SDK for Java](https://desktop.arcgis.com/en/arcobjects/latest/java/#80146cac-6b50-4c82-a9f5-7a5be3406c5b.htm) - Documentation about the Java SDK for the library of Component Object Model (COM) components that make up the foundation of ArcGIS.
 
 ## Application generators and CLIs
 
