@@ -79,6 +79,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
 - [#tidytuesday](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
 - [Data science your way](https://github.com/jadianes/data-science-your-way)
+- [DataCamp Cheatsheets](https://www.datacamp.com/cheat-sheet) Cheatsheets for data science.
 - [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
 - [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
 - [Your Guide to Latent Dirichlet Allocation](https://medium.com/@lettier/how-does-lda-work-ill-explain-using-emoji-108abf40fa7d)
@@ -997,6 +998,7 @@ Some data mining competition platforms
 - [NASDAQ:DATA](https://data.nasdaq.com/) - Nasdaq Data Link A premier source for financial, economic and alternative datasets.
 - [figshare.com](https://figshare.com/)
 - [GeoLite Legacy Downloadable Databases](https://dev.maxmind.com/geoip)
+- [Hugging Face Datasets](https://huggingface.co/datasets)
 - [Quora's Big Datasets Answer](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 - [Public Big Data Sets](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
 - [Kaggle Datasets](https://www.kaggle.com/datasets)

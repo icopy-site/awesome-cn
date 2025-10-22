@@ -9,6 +9,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 
 ## Carbon Reduction
 
+- [1 Click Impact](https://1clickimpact.com/) - 1ClickImpact is a leading platform that helps businesses and individuals automatically capture carbon and plant trees using API or no-code integrations. Every carbon reduction is trackable in real time with verified data, project maps, and live planting sessions for full transparency. It makes measurable carbon removal and reduction a seamless part of your product or sustainability strategy.
 - [1% for the Planet](https://www.onepercentfortheplanet.org/) - A membership program for businesses and individuals, allowing them to donate 1% of their gross yearly profits or salary back to environmental nonprofits to create a healthier planet.
 - [Beam](https://www.beamproject.co/) - Make small automatic donations while you shop online, to support the cleantech startups trying to change the world. Clean Tech investment money has dried up over the years, so crowdsourcing is becoming the only option for many, and with a Chrome extension you can chuck in a dollar when you're buying other stuff.
 - [Carbon Pricing Dashboard](https://carbonpricingdashboard.worldbank.org/) - Maps and statistics on regional, national, and subnational carbon pricing initiatives.
@@ -85,6 +86,8 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Sun Oven](https://www.sunoven.com) - Insulated solar oven that can cook food just like a regular oven.
 
 ## Development
+
+- [1 Click Impact](https://docs.1clickimpact.com/) - Comprehensive sustainability API platform for developers featuring Tree Planting API, Carbon Capture API, Ocean Cleanup API, and more. Plant trees with every purchase, offset carbon emissions automatically, clean oceans, and integrate sustainability features seamlessly into your existing products. Easy integration for e-commerce platforms, mobile apps, and web applications to make any business climate-positive with minimal code.
 - [Step CI](https://docs.stepci.com/guides/co2-testing.html) - Open-source framework for API Quality Assurance, which tests REST, GraphQL and gRPC automated and from Open API spec. It lets you calculate carbon emissions of your API calls.
 
 ## Documentaries
@@ -283,6 +286,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 
 ## Reforestation
 
+- [1 Click Impact](https://1clickimpact.com/) - 1ClickImpact is an easy-to-use and transparent platform to automatically plant trees through API or no-code integrations. Every tree is trackable in real time with maps, verified updates, and exclusive access to live planting sessions. It makes reforestation simple, measurable, and a visible part of your brand’s sustainability journey.
 - [Arbor Day Foundation](https://www.arborday.org/) - The Arbor Day Foundation is a 501(c)(3) nonprofit conservation and education organization. A million members, donors, and partners support our programs to make our world greener and healthier.
 - [Bunq Greencard](https://www.bunq.com/easygreen) - Dutch online-only bank with a credit card which plants trees for the money you spend.
 - [Coforest](https://coforest.co.uk/) - To create our first co-forest in the Bath & Bristol area, we’re inviting organisations and individuals to adopt up to an acre of land. You’ll be able to name your forest plot and even help to plant it. Together, we’ll create a whole new forest.
@@ -354,7 +358,7 @@ The world is simultaneously underwater and on fire, and people want to know what
 - [Citizens Climate Lobby](https://citizensclimatelobby.org/) - If you’re an English, economics or poly sci major, you probably should consider volunteering for Citizens’ Climate Lobby, an organization focused on confronting climate change through policy.
 - [Clean Trails](https://www.cleantrails.org/join) - Step by step, and little by little, our aim is to eliminate waste on all the trails that grace our public lands. We believe we can do that in a positive and proactive manner by educating, encouraging, and reconnecting outdoor users to our pristine places.
 - [ClimateAction.Tech](https://climateaction.tech/) - A global community of tech professionals using our skills, expertise and platforms to support solutions to the climate crisis. The mission is to empower technology professionals to play our part — to meet, discuss, learn and take climate action.
-- [ClimatePrediction.net](https://www.climateprediction.net/) - The world’s largest climate modelling experiment. Evidence of how our climate is changing is vital to reducing greenhouse gas emissions.  Help discover how the climate could look by running software on your computer.
+- [ClimatePrediction.net](https://www.climateprediction.net/) - The world’s largest climate modelling experiment. Evidence of how our climate is changing is vital to reducing greenhouse gas emissions. Help discover how the climate could look by running software on your computer.
 - [Earth Hero Climate Action App](https://www.earthhero.org/get-involved/) - Join the volunteer team behind the free climate action app that makes it easy for people to act on climate change. Made up of developers, designers, researchers, writers, marketers, translators, and project managers from around the world.
 - [Economists for Future](https://econ4future.org/) - Economists for Future growing movement of people committed to galvanising the economics community behind addressing the greatest challenge of our day. If the discipline which dedicates itself to studying the economy cannot sufficiently engage in the economic transformation that the climate science requires, then who else can be expected to do this?
 - [Extinction Rebellion](https://rebellion.global/) - Extinction Rebellion is a decentralised, international and politically non-partisan movement using non-violent direct action and civil disobedience to persuade governments to act justly on the Climate and Ecological Emergency.
