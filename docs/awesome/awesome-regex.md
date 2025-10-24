@@ -330,8 +330,9 @@ Many regexes found online are low quality. It's risky to use regexes you don't f
 - ES2020 added string method [`matchAll`](https://github.com/tc39/proposal-string-matchall) (which returns an iterator), plus `RegExp.prototype[Symbol.matchAll]`.
 - ES2022 added [flag `d`](https://github.com/tc39/proposal-regexp-match-indices) (`hasIndices`), which provides start/end indices for matched substrings.
 - ES2024 added [flag `v`](https://github.com/tc39/proposal-regexp-v-flag) (`unicodeSets`) \[[*explainer*](https://v8.dev/features/regexp-v-flag)] as an upgrade to flag `u`, which adds a set of multicharacter "properties of strings" to `\p{…}`, multicharacter elements within character classes via `\p{…}` and `\q{…|…}`, nested character classes, set operators `[…--…]` and `[…&&…]`, and different escaping rules within character classes. It also fixes case-insensitive matching for `\p` and `\P` within negated `[^…]`.
+- ES2025 added [modifiers](https://github.com/tc39/proposal-regexp-modifiers) like `(?ims:…)` and [`RegExp.escape`](https://github.com/tc39/proposal-regex-escaping).
 
-> Each edition from ES2019 to ES2023 added additional Unicode properties that can be used via `\p{…}` and `\P{…}` (see [lists](https://github.com/eslint-community/regexpp/blob/main/src/unicode/properties.ts)). ES2021 added string method [`replaceAll`](https://github.com/tc39/proposal-string-replaceall), although, when given a regex, the only difference from ES3's `replace` is that it throws if not using flag `g`.
+> Editions from ES2019 onward have added additional Unicode properties that can be used via `\p{…}` and `\P{…}`. ES2021 added string method [`replaceAll`](https://github.com/tc39/proposal-string-replaceall), although the only difference from ES3's `replace` when given a regex is that it throws if not using flag `g`.
 <details>
   <summary>➕ <b>See also</b></summary>
   <br>
@@ -348,12 +349,10 @@ Many regexes found online are low quality. It's risky to use regexes you don't f
 
 - [Duplicate named capturing groups](https://github.com/tc39/proposal-duplicate-named-capturing-groups) (2022) - Ex: `(?<a>…)|(?<a>…)`.
 - [Extended mode and comments](https://github.com/tc39/proposal-regexp-x-mode) (2021) - Flag `x` (`extended`) with insignificant whitespace and line comments (`#…`), plus inline comments via `(?#…)`.
-- [Pattern modifiers](https://github.com/tc39/proposal-regexp-modifiers) (2021) - Ex: `(?ims:…)`, `(?-ims:…)`, `(?i-ms:…)`.
 - [Atomic operators](https://github.com/tc39/proposal-regexp-atomic-operators) (2021) - Atomic groups via `(?>…)` and possessive quantifiers (ex: `*+`, `++`).
 - [Buffer boundaries](https://github.com/tc39/proposal-regexp-buffer-boundaries) (2021) - Anchors `\A` and `\z`, not affected by flag `m`.
 - [\R escape](https://github.com/tc39/proposal-regexp-r-escape) (2021) - Outside character classes, `\R` matches any line terminator.
 - [Restrict subclassing support in built-ins](https://github.com/tc39/proposal-rm-builtin-subclassing) (2020) - Scaled back `RegExp` subclassing.
-- [RegExp escaping](https://github.com/tc39/proposal-regex-escaping) (2015) - `RegExp.escape`.
 - [Legacy RegExp features](https://github.com/tc39/proposal-regexp-legacy-features) (2015) - Standardization of legacy features.
 </details>
 

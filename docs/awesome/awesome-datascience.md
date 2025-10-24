@@ -159,7 +159,8 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Data Science Skill Tree](https://labex.io/skilltrees/data-science)
 - [Data Science for Beginners - Learn with AI tutor](https://codekidz.ai/lesson-intro/data-science-368dbf)
 - [Machine Learning for Beginners - Learn with AI tutor](https://codekidz.ai/lesson-intro/machine-lear-36abfb)
-
+- [Introduction to Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-data-science)
+x
 
 ### Intensive Programs
 **[`^        back to top        ^`](#awesome-data-science)**

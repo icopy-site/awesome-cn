@@ -114,6 +114,7 @@ This project lists books and other resources grouped by genres:
 + [Russian / Русский язык](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ru.md)
 + [Serbian / српски језик / srpski jezik](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-sr.md)
 + [Slovak / slovenčina](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-sk.md)
++ [Slovenian / Slovenščina](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-sl.md)
 + [Spanish / español / castellano](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-es.md)
 + [Swedish / Svenska](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-sv.md)
 + [Tamil / தமிழ்](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-ta.md)
