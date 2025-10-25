@@ -20,6 +20,10 @@ This is a curated list for when naming things is done right.
 
 ---
 
+## Computer Graphics
+
+- [Gift wrapping algorithm](https://en.wikipedia.org/wiki/Gift_wrapping_algorithm) - An algorithm for constructing the smallest shape that wraps a collection of points. 
+
 ## Data Structures and Algorithms
 
 - [Backtracking](https://de.wikipedia.org/wiki/Backtracking) - When you explore a search space and you reach a dead end, you follow your *tracks* back to the last crossroad and try the other way. 
