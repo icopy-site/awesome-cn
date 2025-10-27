@@ -303,7 +303,6 @@ Things that work with project files or GameMaker itself rather than being someth
 - [dotobj](https://github.com/JujuAdams/dotobj) - Lightweight .obj/.mtl 3D model loader written in native GML.
 - [Bronze Box](https://github.com/cicadian/Bronze-Box) - Example of how to build 3D world models from a 2D grid.
 - [DopeFish Respawned](https://lemontoast-games.itch.io/dopefish-respawned) - Extensive WAD manager to load DOOM maps in GameMaker.
-- [Camera3D](https://gizmo199.itch.io/camera3d) - Simple 3D camera setup.
 - [Blender to GameMaker](https://github.com/blender-to-gmstudio) - A collection of scripts to export and import Blender models to and from GameMaker.
 - [DmrVBM](https://github.com/Dreamer13sq/DmrVBM-blender-to-gms2) - Import/Export tools to load vertex buffer data out of Blender and into GMS.
 - [Penguin](https://dragonite.itch.io/penguin) - 3D model conversion tool.
