@@ -27,6 +27,15 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
 <br>
 
 
+## Sponsors
+
+| Sponsor | Pitch |
+| --- | --- |
+| --- | Be the first to sponsor! `github@academic.io` |
+
+
+
+
 
 ## What is Data Science?
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -206,7 +215,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 ### Comparison
 - [datacompy](https://github.com/capitalone/datacompy) - DataComPy is a package to compare two Pandas DataFrames.
-  
+
 #### Supervised Learning
 
 - [Regression](https://en.wikipedia.org/wiki/Regression)
@@ -330,6 +339,8 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [CatBoost](https://github.com/catboost/catboost)
 * [PerpetualBooster](https://github.com/perpetual-ml/perpetual)
 * [JAX](https://github.com/google/jax)
+
+
 
 ### Deep Learning Packages
 
@@ -802,6 +813,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Interview with Google's AI and Deep Learning 'Godfather' Geoffrey Hinton](https://www.youtube.com/watch?v=1Wp3IIpssEc)
 - [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
 - [What is machine learning, and how does it work?](https://www.youtube.com/watch?v=elojMnjn4kk)
+- [CampusX](https://www.youtube.com/@campusx-official)
 - [Data School](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg) - Data Science Education
 - [Neural Nets for Newbies by Melanie Warrick (May 2015)](https://www.youtube.com/watch?v=Cu6A96TUy_o)
 - [Neural Networks video series by Hugo Larochelle](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)

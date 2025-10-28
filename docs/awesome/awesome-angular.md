@@ -512,6 +512,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [a11y-accessibility-first](https://github.com/gagdmac/a11y-accessibility-first) - An Angular template compliant with WCAG 2.2, incorporating an accessibility component to enhance overall accessibility in your project.
 * [ngx-accessible-ui](https://github.com/ShakeelKadri/ngx-accessible-ui) - Accessible Navigation & Menu Directives for Angular 9+. Directives comply with WCAG 2.1 Level AA and the European Accessibility Act 2025, ensuring a highly inclusive web experience.
 * [easy](https://github.com/richpauly13/easy) - Uncomplicated Angular styles with a11y.
+* [a11y-libraries](https://github.com/LDV2k3/a11y-libraries) - A range of accessibility solutions for Angular.
 
 ### AI
 
@@ -665,9 +666,10 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-i18n-extract-regex-cli](https://github.com/Celtian/ngx-i18n-extract-regex-cli) - Tool for extracting translations from Angular app using regex.
 * [ngx-i18n-tools](https://github.com/Ascor8522/ngx-i18n-tools) - A collection of tools to help with the translation of Angular applications, including an Excel and XLIFF converter, [ngx-xlf-xlsx](https://github.com/Ascor8522/ngx-i18n-tools/tree/master/ngx-xlf-xlsx).
 * [ngx-merge-json-translations](https://github.com/jonnomk/ngx-merge-json-translations) - This builder helps merge the `messages.json` file, after running extract-i18n, into target files using specified locales taking care to delete removed keys and add new ones.
+* [ngx-runtime-i18n](https://github.com/AshwinSathian/ngx-runtime-i18n) - Runtime internationalization for Angular — signals-first, SSR-safe, and framework-agnostic core.
 * [ngx-signal-i18n](https://github.com/yagcioe/ngx-signal-i18n) - This package provides a typesafe and lazy-loaded internationalization (i18n) solution for Angular applications, built on top of signals for improved reactivity. Compatible with zoneless.
 * [ngx-signal-translate](https://github.com/adamcsk1/ngx-signal-translate) - A signal-driven translation service.
-* [ngx-tolgee](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app thezy develop.
+* [ngx-tolgee](https://github.com/tolgee/tolgee-js/tree/main/packages/ngx/projects/ngx-tolgee) - Web-based localization tool enabling users to translate directly in the Angular app they develop.
 * [ngx-translate](https://github.com/ngx-translate/core) - The internationalization (i18n) library for Angular.
 * [@OGS-GmbH/ngx-translate](https://github.com/OGS-GmbH/ngx-translate) - A lightweight, REST-based Angular i18n library designed for seamless internationalization with minimal setup. It supports dynamic language switching & flexible translation management via RESTful APIs.
 * [ngx-translate-cut](https://github.com/bartholomej/ngx-translate-cut) - Angular pipe for cutting translations ✂️ 🌍 (plugin for `@ngx-translate`).
@@ -1588,6 +1590,7 @@ to simplify usage and allow quick customization.
 * [cometchat-uikit-angular](https://github.com/cometchat/cometchat-uikit-angular) - [CometChat](https://www.cometchat.com/) Angular UI Kit provides pre-built user interface kit that developers can use to quickly integrate a reliable & fully featured chat experience into an existing or a new app.
 * [@poseclop/ngx-video-player](https://www.npmjs.com/package/@poseclop/ngx-video-player) - A lightweight video player component that emulates YouTube.
 * [ngx-lite-video-v2](https://github.com/KSmp/ngx-lite-video) - An updated fork of [ngx-lite-video](https://github.com/karim-mamdouh/ngx-lite-video), an Angular package that provides lazy loading capabilities for embedded iframes from popular video-sharing platforms like YouTube and Vimeo.
+* [ngx-user-camera](https://codeberg.org/tomaszatoo/ngx-user-camera) - A modern Angular 20+ component for accessing user cameras, supporting front/back (user/environment) switching, optional canvas rendering, and reactive signals — fully zoneless.
 
 ### Mixed Utilities
 

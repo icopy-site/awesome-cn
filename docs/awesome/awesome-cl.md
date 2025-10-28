@@ -514,6 +514,7 @@ See also:
 
 ## Objective-C ##
 
+* [cl-nextstep](https://github.com/byulparan/cl-nextstep) -  Cocoa binding for Common Lisp on macOS.
 * [objc-lisp-bridge](https://github.com/fiddlerwoaroof/objc-lisp-bridge) -  A portable reader and bridge for interacting with Objective-C and Cocoa. [MIT][200].
 * [cocoas](https://github.com/shinmera/cocoas) -  A toolkit library to help deal with CoreFoundation, Cocoa, and objc. zlib.
 
@@ -630,6 +631,7 @@ For an overview and a tutorial on GUI toolkits, see [the Cookbook/GUI](https://l
   - IUP is cross-platform (Windows, macOS, GNU/Linux, with new Android, iOs, Cocoa and Web Assembly drivers), has many widgets, has a small api and is actively developed.
   - has a web view.
 * 🆕 [Barium](https://tomscii.sig7.se/barium/) - an X widget toolkit, directly accessing the X client library and other platform libraries (OpenGL, Cairo). [MIT][200].
+  * with menus, panes, tabs, dialogs, a file chooser, a flexible event loop…
   * not a wrapper of another toolkit. Allows incremental GUI development.
   * new as of April, 2025.
 
@@ -1655,7 +1657,7 @@ Readline, ncurses and other graphical TUI helpers
 Shells, shells interfaces
 -------------------------
 
-* [Lish](https://github.com/nibbula/lish) - `lish` may someday be a lisp shell. [GPL3][2].
+* [Lish](https://codeberg.org/nibbula/yew/src/branch/master/lish) - `lish` may someday be a lisp shell. [GPL3][2].
   * supports tab-completion of executables in the path and Lisp symbols, allows to write and to mix shell commands and Lisp code, has a tiny REPL and an interactive debugger, and more.
 * [shcl](https://github.com/bradleyjensen/shcl) - a POSIX-like shell in Common Lisp. [Apache2.0][89].
 * [Shelly](https://github.com/fukamachi/shelly) - execute Common Lisp
