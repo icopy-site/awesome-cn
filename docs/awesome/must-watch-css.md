@@ -12,6 +12,10 @@ This is a collection of well-received talks about CSS covering topics such as CS
 
 - [Contribution Guidelines](https://github.com/AllThingsSmitty/must-watch-css/blob/master/CONTRIBUTING.md)
 
+### 2025
+
+1. [**25 New & Rad Feature of CSS**](https://www.youtube.com/watch?v=QW6GECIzvsw): Adam Argyle, CascadiaJS `30:03`
+
 ### 2024
 
 1. [**The "Other" C in CSS**](https://www.youtube.com/watch?v=ob_M_qXeDVE): Sara Soueidan, CSS Day 2024 `55:55`

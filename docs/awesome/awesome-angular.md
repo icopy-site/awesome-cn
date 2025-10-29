@@ -1045,6 +1045,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-dotlottie-web](https://github.com/victor-enogwe/ngx-dotlottie-web) - Angular JavaScript library for rendering Lottie and dotLottie animations in Node.js and web environments.
 * [afnaan-ngx-custom-cursor](https://github.com/afnaanulla/AfnaanNgx-cusotm-cursor) - A customizable animated cursor for Angular applications. Enhance user experience with a stylish and interactive cursor effect.
 * [@ramiz4/typing-text](https://www.npmjs.com/package/@ramiz4/typing-text) - Angular directive for animated typing effects — smooth, customizable, and standalone.
+* [ngx-gsap](https://github.com/marcos-velasquez/ngx-gsap) - A lightweight, customizable Angular animation library powered by GSAP that's declarative and easy to use.
 
 ### Calendars
 
@@ -1054,6 +1055,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [daypilot-lite-angular](https://www.npmjs.com/package/@daypilot/daypilot-lite-angular) - Angular version of JavaScript/HTML5 event calendar/scheduler components that can display day/week/month calendar views.
 * [fullcalendar-angular](https://github.com/fullcalendar/fullcalendar-angular) - The official Angular component for FullCalendar.
 * [ngx-calendario](https://github.com/roquemacia/ngx-calendario) - An Angular library for displaying customizable calendars with event support.
+* [ngx-calendar-view](https://github.com/charlesschaefer/ngx-calendar-view/tree/main/projects/ngx-calendar-view) - A responsive Angular calendar component library with day/week/month views, drag-and-drop events, mobile swipe support, and built-in dark mode.
 * [ngx-calendar-widget](https://github.com/giacomo/ngx-calendar-widget) - A lightweight, customizable, and feature-rich calendar widget designed to simplify event management and scheduling in your Angular applications.
 * [ngx-resource-calendar](https://github.com/by-pinja/ngx-resource-calendar) - Angular resource calendar library.
 * [ngx-strip-calendar](https://github.com/codingchefss/ngx-strip-calendar) - Strip calendar component for Angular 17+.

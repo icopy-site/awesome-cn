@@ -170,6 +170,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Machine Learning for Beginners - Learn with AI tutor](https://codekidz.ai/lesson-intro/machine-lear-36abfb)
 - [Introduction to Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-data-science)
 -[Getting Started with Python for Data Science](https://www.codecademy.com/learn/getting-started-with-python-for-data-science) 
+- [Google Advanced Data Analytics Certificate](https://grow.google/data-analytics/) – Professional courses in data analysis, statistics, and machine learning fundamentals.
 
 ### Intensive Programs
 **[`^        back to top        ^`](#awesome-data-science)**
