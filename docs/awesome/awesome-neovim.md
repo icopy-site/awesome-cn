@@ -129,6 +129,12 @@
 
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK Neovim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin written in Lua. New version of nvim-compe.
+  - [hrsh7th/cmp-cmdline](https://github.com/hrsh7th/cmp-cmdline) - `nvim-cmp` source for cmdline completion.
+  - [saadparwaiz1/cmp_luasnip](https://github.com/saadparwaiz1/cmp_luasnip) - `nvim-cmp` completion source for `LuaSnip`.
+  - [hrsh7th/cmp-buffer](https://github.com/hrsh7th/cmp-buffer) - `nvim-cmp` source for buffer words.
+  - [hrsh7th/cmp-path](https://github.com/hrsh7th/cmp-path) - `nvim-cmp` source for filesystem paths.
+  - [hrsh7th/cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp) - `nvim-cmp` source for the Neovim builtin LSP client.
+  - [petertriho/cmp-git](https://github.com/petertriho/cmp-git) - `nvim-cmp` source for `git`.
   - [lukas-reineke/cmp-under-comparator](https://github.com/lukas-reineke/cmp-under-comparator) - A nvim-cmp function for better sorting.
   - [SergioRibera/cmp-dotenv](https://github.com/SergioRibera/cmp-dotenv) - Load environment variables from the shell or from your `.env` files.
 - [nvim-mini/mini.nvim#mini.completion](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-completion.md) - Module of `mini.nvim` for asynchronous two-stage completion. Supports showing completion item info and independent function signature.
@@ -139,6 +145,7 @@
   - [bydlw98/blink-cmp-env](https://github.com/bydlw98/blink-cmp-env) - Environment variables source for `blink.cmp`.
   - [bydlw98/blink-cmp-sshconfig](https://github.com/bydlw98/blink-cmp-sshconfig) - `blink.cmp` source for `sshconfig` files.
   - [mgalliou/blink-cmp-tmux](https://github.com/mgalliou/blink-cmp-tmux) - `blink.cmp` completion source for [tmux](https://github.com/tmux/tmux).
+  - [moyiz/blink-emoji.nvim](https://github.com/moyiz/blink-emoji.nvim) - `blink.cmp` completion source for GitHub Markdown emojis.
 - [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Fully featured Lua replacement for [GitHub/copilot.vim](https://github.com/github/copilot.vim).
 - [brianaung/compl.nvim](https://github.com/brianaung/compl.nvim) - A minimal and dependency-free auto-completion built on top of Vim's ins-completion mechanism.
 
@@ -756,7 +763,6 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 - [NTBBloodbath/galaxyline.nvim](https://github.com/NTBBloodbath/galaxyline.nvim) - A light-weight and super fast statusline plugin written in Lua.
 - [tjdevries/express_line.nvim](https://github.com/tjdevries/express_line.nvim) - Supports co-routines, functions and jobs.
-- [sontungexpt/sttusline](https://github.com/sontungexpt/sttusline) - Very lightweight, super fast and lazyloading statusline.
 - [sontungexpt/witch-line](https://github.com/sontungexpt/witch-line) - A blazing fast, lazy loading and easy to configure Neovim statusline.
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure Neovim statusline.
 - [adelarsq/neoline.vim](https://github.com/adelarsq/neoline.vim) - A light statusline/tabline plugin using Lua.
@@ -822,7 +828,6 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 - [nvim-tree/nvim-web-devicons](https://github.com/nvim-tree/nvim-web-devicons) - A Lua fork of [vim-devicons](https://github.com/ryanoasis/vim-devicons).
 - [nvim-mini/mini.nvim#mini.icons](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-icons.md) - Module of `mini.nvim` meant as a general icon provider. Uses fixed set of highlight groups. Supports various categories, icon and style customizations, caching for performance. Integrates with built-in filetype matching.
-- [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - Help you pick 𝑨𝕃𝚻 Font Characters, Symbols Σ, Nerd Font Icons  & Emojis.
 - [2KAbhishek/nerdy.nvim](https://github.com/2KAbhishek/nerdy.nvim/) - Find and insert the latest nerd font glyphs.
 - [stephansama/fzf-nerdfont.nvim](https://github.com/stephansama/fzf-nerdfont.nvim) - A picker for selecting Nerd Font icons using `fzf-lua`.
 
@@ -875,17 +880,13 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [IlyasYOY/obs.nvim](https://github.com/IlyasYOY/obs.nvim) - Your Obsidian notes at the speed of thought.
 - [jghauser/papis.nvim](https://github.com/jghauser/papis.nvim) - Manage your bibliography from within your favourite editor.
 - [Ostralyan/scribe.nvim](https://github.com/Ostralyan/scribe.nvim) - Take notes, easily.
-- [RutaTang/quicknote.nvim](https://github.com/RutaTang/quicknote.nvim) - Quickly take notes, in-place.
 - [serenevoid/kiwi.nvim](https://github.com/serenevoid/kiwi.nvim) - A stripped down VimWiki with necessary features.
-- [ada0l/obsidian/](https://github.com/ada0l/obsidian) - Base Obsidian functionality.
-- [gsuuon/note.nvim](https://github.com/gsuuon/note.nvim) - Daily tasks with deep-linking and project spaces.
 - [backdround/global-note.nvim](https://github.com/backdround/global-note.nvim) - One global note in a floating window.
 - [2KAbhishek/tdo.nvim](https://github.com/2KAbhishek/tdo.nvim) - Fast and simple note taking.
 - [slugbyte/whip.nvim](http://github.com/slugbyte/whip.nvim) - A super fast minimal scratchpad management plugin, biew biew biew.
 - [y3owk1n/dotmd.nvim](https://github.com/y3owk1n/dotmd.nvim) - Managing notes, TODO's, journal entries, and your inbox, all with Markdown.
 - [athar-qadri/scratchpad.nvim](https://github.com/athar-qadri/scratchpad.nvim) - Effortlessly manage scratchpads within your favorite editor.
 - [echaya/neowiki.nvim](https://github.com/echaya/neowiki.nvim) - The modern vimwiki successor offering a minimal, intuitive workflow out of the box for note-taking and Getting Things Done (GTD).
-- [phrmendes/todotxt.nvim](https://github.com/phrmendes/todotxt.nvim) - A minimal `todo.txt` implementation in Lua.
 - [happyeric77/joplin.nvim](https://github.com/happyeric77/joplin.nvim) - Joplin notes utilities: tree browser, search, open, and Telescope integration.
 <!--lint disable double-link -->
 
@@ -894,14 +895,11 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 
 ## Utility
 
-- [Cih2001/pikchr.nvim](https://github.com/Cih2001/pikchr.nvim) - Render [Pikchr](https://pikchr.org/) diagrams live in Neovim.
 - [gaborvecsei/usage-tracker.nvim](https://github.com/gaborvecsei/usage-tracker.nvim) - Track your Neovim usage and visualize statistics easily.
 - [mateuszwieloch/automkdir.nvim](https://github.com/mateuszwieloch/automkdir.nvim) - Automatically create non-existent parent directories when writing a file.
 - [jghauser/mkdir.nvim](https://github.com/jghauser/mkdir.nvim) - Automatically create missing directories when saving files.
 - [matbme/JABS.nvim](https://github.com/matbme/JABS.nvim) - Pretty and minimal buffer switcher window.
 - [j-morano/buffer_manager.nvim](https://github.com/j-morano/buffer_manager.nvim) - Add one or more buffers, reorder them, save them inside a file or just delete them very easily from a small floating window.
-- [clojure-vim/jazz.nvim](https://github.com/clojure-vim/jazz.nvim) - Acid + Impromptu = Jazz.
-- [doctorfree/cheatsheet.nvim](https://github.com/doctorfree/cheatsheet.nvim) - Searchable cheatsheet.
 - [hat0uma/prelive.nvim](https://github.com/hat0uma/prelive.nvim) - A simple luv-based development server with live reloading.
 - [hat0uma/doxygen-previewer.nvim](https://github.com/hat0uma/doxygen-previewer.nvim) - Live previewing of Doxygen documentation.
 - [code-biscuits/nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits) - A Neovim port of Assorted Biscuits. Ends up with more supported languages too.
@@ -913,7 +911,6 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [sQVe/bufignore.nvim](https://github.com/sQVe/bufignore.nvim) - Unlist hidden buffers matching specified ignore sources.
 - [saifulapm/commasemi.nvim](https://github.com/saifulapm/commasemi.nvim) - Toggle comma and semicolon.
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - Improve the built-in `vim.ui` interfaces with telescope, fzf, etc.
-- [gaborvecsei/cryptoprice.nvim](https://github.com/gaborvecsei/cryptoprice.nvim) - Check the price of the defined cryptocurrencies.
 - [jghauser/fold-cycle.nvim](https://github.com/jghauser/fold-cycle.nvim) - Cycle folds open or closed.
 - [rgroli/other.nvim](https://github.com/rgroli/other.nvim) - Open alternative files for the current buffer.
 - [toppair/reach.nvim](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage switcher.
@@ -923,10 +920,8 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [ghillb/cybu.nvim](https://github.com/ghillb/cybu.nvim) - Displays a notification window with context when cycling buffers.
 - [sontungexpt/url-open](https://github.com/sontungexpt/url-open) - Open URLs under the cursor and create highlight effects for them.
 - [crusj/bookmarks.nvim](https://github.com/crusj/bookmarks.nvim) - Remember file locations and sort by time and frequency.
-- [xiyaowong/virtcolumn.nvim](https://github.com/xiyaowong/virtcolumn.nvim) - Display a line as colorcolumn.
 - [m-demare/attempt.nvim](https://github.com/m-demare/attempt.nvim) - Manage and run temporary buffers.
 - [kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo) - Ultra fold with modern looking and performance boosting.
-- [xiyaowong/link-visitor.nvim](https://github.com/xiyaowong/link-visitor.nvim) - Let me help you open the links.
 - [sitiom/nvim-numbertoggle](https://github.com/sitiom/nvim-numbertoggle) - Neovim plugin to automatically toggle between relative and absolute line numbers.
 - [anuvyklack/fold-preview](https://github.com/anuvyklack/fold-preview.nvim) - Preview closed fold without opening it.
 - [nguyenvukhang/nvim-toggler](https://github.com/nguyenvukhang/nvim-toggler) - Invert text, such as toggling between `true` and `false`.

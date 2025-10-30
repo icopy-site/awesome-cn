@@ -758,7 +758,7 @@ A [news aggregator](https://en.wikipedia.org/wiki/News_aggregator), also termed 
 - [RSSHub](https://docs.rsshub.app) - Easy to use, and extensible RSS feed aggregator capable of generating RSS feeds from pretty much everything ranging from social media to university departments. ([Demo](https://rsshub.app), [Source Code](https://github.com/DIYgod/RSSHub)) `MIT` `Nodejs/Docker`
 - [Selfoss](https://selfoss.aditu.de/) - New multipurpose rss reader, live stream, mashup, aggregation web application. ([Source Code](https://github.com/fossar/selfoss)) `GPL-3.0` `PHP`
 - [Stringer](https://github.com/stringer-rss/stringer) - Work-in-progress self-hosted, anti-social RSS reader. `MIT` `Ruby`
-- [Tiny Tiny RSS](https://tt-rss.org) - Open source web-based news feed (RSS/Atom) reader and aggregator. ([Demo](https://demo.tt-rss.org/), [Source Code](https://git.tt-rss.org/fox/tt-rss)) `GPL-3.0` `Docker/PHP`
+- [Tiny Tiny RSS](https://tt-rss.org) - Web-based news feed (RSS/Atom) reader and aggregator. ([Source Code](https://github.com/tt-rss/tt-rss)) `GPL-3.0` `Docker/PHP`
 - [TinyFeed](https://feed.lovergne.dev/) - Generate a static HTML page from a collection of feeds wtih a simple CLI. ([Demo](https://feed.lovergne.dev/demo), [Source Code](https://github.com/TheBigRoomXXL/tinyfeed)) `MIT` `Go/Docker`
 - [Yarr](https://github.com/nkanaev/yarr) - Yarr (yet another rss reader) is a web-based feed aggregator which can be used both as a desktop application and a personal self-hosted server. `MIT` `Go`
 
@@ -1321,7 +1321,7 @@ Software that does not fit in another section.
 - [Habitica](https://habitica.com/) - Habit tracker app which treats your goals like a Role Playing Game. ([Source Code](https://github.com/HabitRPG/habitica)) `GPL-3.0/CC-BY-SA-3.0` `Nodejs/Docker`
 - [HortusFox](https://hortusfox.github.io) - Collaborative plant management and tracking system for plant enthusiasts. ([Source Code](https://github.com/danielbrendel/hortusfox-web)) `MIT` `PHP/Docker`
 - [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) `⚠` - Block and skip sponsors, while also muting and skipping ads on YouTube. `GPL-3.0` `Docker/Python`
-- [IT-Tools by sharevb](https://github.com/sharevb/it-tools) - Collection of handy online tools for developers (fork of [it-tools](https://github.com/CorentinTh/it-tools). ([Demo](https://sharevb-it-tools.vercel.app/)) `GPL-3.0` `Docker`
+- [IT-Tools by sharevb](https://github.com/sharevb/it-tools) - Collection of handy online tools for developers (fork of [it-tools](https://github.com/CorentinTh/it-tools)). ([Demo](https://sharevb-it-tools.vercel.app/)) `GPL-3.0` `Docker`
 - [Jelu](https://bayang.github.io/jelu-web) - Read and to-read list book tracker. ([Source Code](https://github.com/bayang/jelu)) `MIT` `Java/Docker`
 - [Kasm Workspaces](https://kasmweb.com/) - Streaming containerized apps and desktops to end-users. Examples include Ubuntu in your browser, or simply single apps such as Chrome, OpenOffice, Gimp, Filezilla etc. ([Demo](https://www.kasmweb.com/#demo), [Source Code](https://github.com/kasmtech)) `GPL-3.0` `Docker`
 - [Koillection](https://koillection.github.io/) - Koillection is a service allowing users to manage any kind of collections. ([Source Code](https://github.com/benjaminjonard/koillection)) `MIT` `Docker/PHP`

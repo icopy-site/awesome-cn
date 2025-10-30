@@ -29,6 +29,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [The Comet](https://wpuniverse.online/the-comet/). Short. Concise. Blazing fast 🌠 A monthly free newsletter about WordPress and web development.
 - [Web Weekly](https://webweekly.email/). Weekly news about web dev fundamentals, new browser features and coding tools.
 - [Syntax Snack Pack](https://syntax.fm/snackpack). Bi-weekly web dev newsletter with curated links + news from the [Syntax.fm](https://syntax.fm) podcast.
+- [Marko Denic Tech](https://markodenic.tech). Weekly web dev newsletter with snippets and tutorials.
 
 ### JavaScript
 
@@ -55,6 +56,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [React Status](https://react.statuscode.com/). A weekly roundup of the latest React and React Native links and tutorials.
 - [Awesome React Newsletter](https://react.libhunt.com/newsletter). A weekly overview of the most popular React news, articles and libraries.
 - [Nextjs Weekly](https://nextjsweekly.com/). A newsletter of the best Next.js articles, tools and projects.
+- [React Native Rewind](https://thereactnativerewind.com/). A Dev Newsletter That Doesn't Suck.
 
 #### EmberJS
 
