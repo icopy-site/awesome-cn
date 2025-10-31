@@ -176,6 +176,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 **[`^        back to top        ^`](#awesome-data-science)**
 
 - [S2DS](https://www.s2ds.org/)
+- [WorldQuant University Applied Data Science Lab](https://www.wqu.edu/adsl)
 
 
 ### Colleges

@@ -966,6 +966,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [SLRE](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. [GPLv2/Proprietary]
 * [sregex](https://github.com/openresty/sregex) - A non-backtracking NFA/DFA-based Perl-compatible regex engine library for matching on large data streams. [BSD]
 * [SRELL](https://www.akenotsuki.com/misc/srell/en/) - Unicode-aware regular expression template library for C++. [BSD]
+* [TRE](https://github.com/laurikari/tre) - The approximate regex matching library and agrep command line tool. [BSD-2-Clause]
 * [Vectorscan](https://github.com/VectorCamp/vectorscan) - A portable fork of the high-performance regular expression matching library. [BSD-3-Clause] [website](https://www.vectorcamp.gr/project/vectorscan/)
 
 ## Robotics
@@ -1230,6 +1231,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [8cc](https://github.com/rui314/8cc) - A Small C Compiler.
 * [c](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go! [MIT]
 * [Clang](http://clang.llvm.org/) - A C compiler for LLVM. Supports C++11/14/1z C11. Developed by LLVM Team. [NCSA]
+* [Fil-C](https://fil-c.org/) - a fanatically compatible memory-safe implementation of C and C++.
 * [GCC](https://gcc.gnu.org/) - GNU Compiler Collection. Supports C++11/14/1z C11 and OpenMP. [GNU GPL3]
 * [PCC](https://github.com/IanHarvey/pcc) - A very old C compiler. Supports C99.
 * [AMD C++ Compiler](https://www.amd.com/en/developer/aocc.html) - Developed by AMD.
