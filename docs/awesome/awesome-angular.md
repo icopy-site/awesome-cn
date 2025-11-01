@@ -644,6 +644,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [polyfront-scaffold](https://github.com/NirmalSamaranayaka/polyfront-scaffold) - A generator that offers a wide range of configuration options to build a flexible, scalable Angular app tailored to your development needs.
 * [orval](https://github.com/orval-labs/orval) - Generate, validate, cache and mock in your frontend applications, based on your OpenAPI specification.
 * [angular-sitemap-generator](https://github.com/borisonekenobi/angular-sitemap-generator) - Generates a `sitemap.xml` file for an Angular project.
+* [cem-angular-generator](https://github.com/lit-migrators/cem-angular-generator) - Generate Angular wrapper libraries from Custom Elements Manifest output.
 
 ### Internationalization
 
@@ -1222,6 +1223,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-overflow-reveal](https://github.com/hosembafer/ngx-overflow-reveal) - An Angular directive that elegantly reveals truncated text on hover.
 * [ngx-repeat](https://github.com/Celtian/ngx-repeat) - Angular directive for repeating HTML element by count.
 * [ngx-responsive-if](https://github.com/bodnya29179/ngx-responsive-if) - An Angular structural directive for conditional rendering based on media queries.
+* [ngxsmk-button-spinner](https://github.com/toozuuu/ngxsmk-button-spinner) - Angular 17+ directive to show a loading spinner inline or centered on any button.
 * [ngxture](https://github.com/gianpierreVelasquez/ngxture) - A lightweight and modular Angular library that provides ready-to-use animations and gesture directives.
 * [@maxime1jacquet/npm-directives](https://github.com/maxime1jacquet/npm-directives) - Angular Directives including [ngx-cursor](https://www.npmjs.com/package/ngx-cursor) and [ngx-simple-countdown](https://www.npmjs.com/package/ngx-simple-countdown).
 
@@ -1396,6 +1398,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-phone-country-input](https://github.com/mostafaM212/ngx-phone-country-input) - A comprehensive Angular library providing phone input and country selection components with full reactive forms support.
 * [ngx-mat-period-picker](https://github.com/felixdulfer/ngx-mat-period-picker) - A modern Angular Material period picker component built with standalone components.
 * [touchspin-angular](https://github.com/istvan-ujjmeszaros/touchspin-angular) - Angular adapter for the [TouchSpin](https://github.com/istvan-ujjmeszaros/touchspin) number input component with per-renderer support.
+* [ngxsmk-otp-input](https://github.com/toozuuu/ngxsmk-otp-input) - A lightweight, standalone Angular 17+ OTP/PIN input component with SCSS theming, mobile-friendly autofill, masking, and full reactive forms support.
 
 ### JSON Forms
 
@@ -1673,7 +1676,7 @@ to simplify usage and allow quick customization.
 * [mk-magic-messages-library](https://github.com/mkeller1992/mk-magic-messages-library) - Easily display animated success, info, warning, and error alerts in your Angular 20+ application.
 * [ng-fast-toast](https://github.com/rperezll/ng-fast-toast) - A fast and lightweight library for Angular 18+, also compatible with Ionic projects (based on Angular), that makes handling alerts and notifications effortless. Styled with Tailwind, but built for production with a fully agnostic approach using Shadow DOM.
 * [ng-toast-service](https://github.com/nhusby/ng-toast-service) - A simple, customizable notification service for Angular applications. This service shows notifications that slide onto the screen with configurable behavior.
-* [notifyx](https://github.com/awalhadi/notifyx) - A simple, customizable toast library for JavaScript/TypeScript with zero dependencies.
+* [ngx-alertifying](https://github.com/Salromag/ngx-alertifying) - A customizable, responsive, and accessible Angular alert component that enables developers to quickly display stylish feedback messages across devices and contexts.
 * [ngx-french-toast](https://github.com/thiagopg84/ngx-french-toast) - A lightweight and customizable toast library for your Angular 14+ applications. Show informative toast messages to enhance user experience and provide important feedback or collect data with dynamically imported components.
 * [ngx-modern-alerts](https://github.com/jonaaix/ngx-modern-alerts) - This library provides a flexible system for displaying banner and floating alerts (notifications), complete with a notification hub, timeouts, custom actions, and more.
 * [ngx-notifications](https://github.com/pascaliske/ngx-notifications) - Simple notifications module for Angular.
@@ -1683,6 +1686,7 @@ to simplify usage and allow quick customization.
 * [ngx-sweetalert2](https://github.com/sweetalert2/ngx-sweetalert2) - Declarative, reactive, and template-driven SweetAlert2 integration for Angular.
 * [ngx-toastr](https://github.com/scttcper/ngx-toastr) - Notifications/Toastr.
 * [ngx-toastr-notifier](https://github.com/Mazen-Embaby/ngx-toastr-notifier) - Lightweight, customizable toast notifications for Angular 20+. A modern replacement for toastr with Angular Material design and flexible APIs.
+* [notifyx](https://github.com/awalhadi/notifyx) - A simple, customizable toast library for JavaScript/TypeScript with zero dependencies.
 * [OneSignal](https://documentation.onesignal.com/docs/angular-setup) - With [onesignal-ngx](https://github.com/OneSignal/onesignal-ngx), you can integrate OneSignal, world's leader for Mobile Push Notifications, Web Push, and In-App Messaging, into your Angular app.
 * [toastify](https://github.com/andreasnicolaou/toastify) - Lightweight and customizable toast notifications for web applications.
 * [web-notifier](https://github.com/andreasnicolaou/web-notifier) - A lightweight and flexible web notification library that provides a simple API for handling browser notifications using RxJS observables.
@@ -1943,6 +1947,7 @@ for the creation of web applications developed with Angular.
 * [ngx-tour-wizard](https://github.com/tonysamperi/ngx-tour-wizard) - Product Tour Wizard.
 * [bdc-walkthrough](https://github.com/Broadcom/bdc-walkthrough) - An Angular Material library for displaying walk-through pop-ups and dialogs using a declarative way.
 * [ngx-onboarding](https://github.com/rosen-group/ngx-onboarding) - This onboarding library enables you to integrate a tutorial seamlessly into your Angular application. This helps users to quickly and easily learn how to navigate and use your app, reducing the learning curve.
+* [ngxsmk-help-tour](https://github.com/toozuuu/ngxsmk-help-tour) - Angular 17+ standalone library for spotlight focus and guided product tours with keyboard navigation, auto-advance, theming, and a11y.
 
 ### Viewers
 

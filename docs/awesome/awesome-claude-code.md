@@ -36,7 +36,7 @@ This is a curated list of slash-commands, `CLAUDE.md` files, CLI tools, and othe
 
 Claude Code is a cutting-edge CLI-based coding assistant and agent released by [Anthropic](https://www.anthropic.com/) that you can access in your terminal or IDE. It is a rapidly evolving tool that offers a number of powerful capabilities, and allows for a lot of configuration, in a lot of different ways. Users are actively working out best practices and workflows. It is the hope that this repo will help the community share knowledge and understand how to get the most out of Claude Code.
 
-<div align="center"><a href="https://github.com/hesreallyhim/awesome-claude-code/discussions/287" align="center"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/awesome-claude-code-feature-bounty.png" alt="Feature Bounty Banner" width="750px" margin="auto" /></a></div>
+<div align="center"><a href="https://github.com/hesreallyhim/awesome-claude-code/discussions/287" align="center"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/awesome-claude-code-feature-bounty.png" alt="Feature Bounty Banner" width="750px" align="center" /></a></div>
 
 <div align="center"><h2 align="center">I'm throwing the challenge down for a <strong>"FEATURE BOUNTY"</strong> with a <strong>cash prize</strong> to solve a problem that Claude Code users have been <a href="https://github.com/anthropics/claude-code/issues/2112">posting about on GitHub</a> for a while - want to join the fun? Check out the <a href="https://github.com/hesreallyhim/awesome-claude-code/discussions/287">announcement</a> and let me know you're in! Coding, Clauding, Collaborating, Cash... Let's get together and build something!</h2></div>
 
@@ -70,6 +70,39 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
+[`Claudex`](https://github.com/kunwar-shah/claudex) &nbsp; by &nbsp; [Kunwar Shah](https://github.com/kunwar-shah)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Claudex - A web-based browser for exploring your Claude Code conversation history across projects. Indexes your codebase for full-text search. Nice, easy-to-navigate UI. Simple dashboard interface for high-level analytics, and multiple export options as well. (And completely local w/ no telemetry!)
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for claudex](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claudex&username=kunwar-shah&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`Omnara`](https://github.com/omnara-ai/omnara) &nbsp; by &nbsp; [Ishaan Sehgal](https://github.com/ishaansehgal99)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
+A command center for AI agents that syncs Claude Code sessions across terminal, web, and mobile. Allows for remote monitoring, human-in-the-loop interaction, and team collaboration.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for omnara](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=omnara&username=omnara-ai&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`Claudable`](https://github.com/opactorai/Claudable) &nbsp; by &nbsp; [Ethan Park](https://www.linkedin.com/in/seongil-park/)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code and Cursor Agent, to build and deploy products effortlessly.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for Claudable](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=Claudable&username=opactorai&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`Web Assets Generator Skill`](https://github.com/alonw0/web-asset-generator) &nbsp; by &nbsp; [Alon Wolenitz](https://github.com/alonw0)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Easily generate web assets from Claude Code including favicons, app icons (PWA), and social media meta images (Open Graph) for Facebook, Twitter, WhatsApp, and LinkedIn. Handles image resizing, text-to-image generation, emojis, and provides proper HTML meta tags.
 
@@ -88,28 +121,6 @@ Enables users to prompt codex from claude code. Unlike the raw codex mcp server,
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for skill-codex](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=skill-codex&username=skills-directory&all_stats=true&stats_only=true)
-
-</details>
-<br>
-
-[`cc-sessions`](https://github.com/GWUDCAP/cc-sessions) &nbsp; by &nbsp; [toastdev](https://github.com/satoastshi)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-An opinionated approach to produce development with Claude Code
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![GitHub Stats for cc-sessions](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=cc-sessions&username=GWUDCAP&all_stats=true&stats_only=true)
-
-</details>
-<br>
-
-[`fcakyon Collection (Code Quality and Tool Usage)`](https://github.com/fcakyon/claude-codex-settings/tree/main/.claude/hooks) &nbsp; by &nbsp; [Fatih Akyon](https://github.com/fcakyon)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
-Very well-written set of hooks for code quality and tool usage regulation (e.g. force Tavily over WebFetch tool).
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![GitHub Stats for claude-codex-settings](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-codex-settings&username=fcakyon&all_stats=true&stats_only=true)
 
 </details>
 <br>
@@ -680,6 +691,17 @@ A real-time terminal-based tool for monitoring Claude Code token usage. It shows
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for Claude-Code-Usage-Monitor](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=Claude-Code-Usage-Monitor&username=Maciek-roboblog&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`Claudex`](https://github.com/kunwar-shah/claudex) &nbsp; by &nbsp; [Kunwar Shah](https://github.com/kunwar-shah)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Claudex - A web-based browser for exploring your Claude Code conversation history across projects. Indexes your codebase for full-text search. Nice, easy-to-navigate UI. Simple dashboard interface for high-level analytics, and multiple export options as well. (And completely local w/ no telemetry!)
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for claudex](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claudex&username=kunwar-shah&all_stats=true&stats_only=true)
 
 </details>
 <br>
@@ -1815,6 +1837,33 @@ Offers clear step-by-step installation instructions with multiple configuration 
 
 
 > **Alternative Clients** are alternative UIs and front-ends for interacting with Claude Code, either on mobile or on the desktop.
+
+<details open>
+<summary><h3>General <a href="#awesome-claude-code">🔝</a></h3></summary>
+
+[`Claudable`](https://github.com/opactorai/Claudable) &nbsp; by &nbsp; [Ethan Park](https://www.linkedin.com/in/seongil-park/)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code and Cursor Agent, to build and deploy products effortlessly.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for Claudable](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=Claudable&username=opactorai&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`Omnara`](https://github.com/omnara-ai/omnara) &nbsp; by &nbsp; [Ishaan Sehgal](https://github.com/ishaansehgal99)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;Apache-2.0  
+A command center for AI agents that syncs Claude Code sessions across terminal, web, and mobile. Allows for remote monitoring, human-in-the-loop interaction, and team collaboration.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for omnara](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=omnara&username=omnara-ai&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+</details>
 
 <br>
 

@@ -19,7 +19,7 @@
 
 - [suricata-kafka-output](https://github.com/Center-Sun/suricata-kafka-output) - Suricata Eve Kafka Output Plugin for Suricata 6.
 - [suricata-redis-output](https://github.com/jasonish/suricata-redis-output) - Suricata Eve Redis Output Plugin for Suricata 7.
-- [Meer](https://github.com/quadrantsec/meer) - Meer is a "spooler" for Suricata / Sagan.
+- [Meer](https://github.com/quadrantsec/meer) - A "spooler" for Suricata / Sagan.
 - [FEVER](https://github.com/DCSO/fever) - Fast, extensible, versatile event router for Suricata's EVE-JSON format.
 - [Suricata-Logstash-Templates](https://github.com/pevma/Suricata-Logstash-Templates) - Templates for Kibana/Logstash to use with Suricata IDPS.
 - [Lilith](https://github.com/VVelox/Lilith) - Reads EVE files into SQL as well as search stored data.
@@ -59,11 +59,11 @@
 
 ## Development Tools
 
-- [Suricata Language Server](https://github.com/StamusNetworks/suricata-language-server) - Suricata Language Server is an implementation of the Language Server Protocol for Suricata signatures. It adds syntax check, hints and auto-completion to your preferred editor once it is configured.
+- [Suricata Language Server](https://github.com/StamusNetworks/suricata-language-server) - An implementation of the Language Server Protocol for Suricata signatures. It adds syntax check, hints and auto-completion to your preferred editor once it is configured.
 - [suricata-ls-vscode](https://github.com/StamusNetworks/suricata-ls-vscode) - Suricata IntelliSense Extension using the Suricata Language Server.
 - [suricata-highlight-vscode](https://github.com/dgenzer/suricata-highlight-vscode) - Suricata Rules Support for Visual Studio Code (syntax highlighting, etc).
 - [SublimeSuricata](https://github.com/ozuriexv/SublimeSuricata) - Basic Suricata syntax highlighter for Sublime Text.
-- [Suricata-Check](https://suricata-check.teuwen.net/readme.html) - ``suricata-check`` is a command-line utility to provide feedback on Suricata rules. It can detect issues such as covering syntax validity, interpretability, rule specificity, rule coverage, and efficiency.
+- [Suricata-Check](https://suricata-check.teuwen.net/readme.html) - A command-line utility to provide feedback on Suricata rules. It can detect issues such as covering syntax validity, interpretability, rule specificity, rule coverage, and efficiency.
 
 ## Documentation and Guides
 
@@ -84,7 +84,7 @@
 
 - [nids-rule-library](https://github.com/klingerko/nids-rule-library#readme) - Collection of various open-source and commercial rulesets.
 - [Stamus Lateral Movement Detection Rules](https://www.stamus-networks.com/blog/new-open-ruleset-for-detecting-lateral-movement-with-suricata) - Suricata ruleset to detect lateral movement.
-- [QuadrantSec Suricata Rules](https://github.com/quadrantsec/suricata-rules) - QuadrantSec Suricata rules.
+- [QuadrantSec Suricata Rules](https://github.com/quadrantsec/suricata-rules) - Set of Suricata rules published by QuadrantSec.
 - [Cluster25/detection](https://github.com/Cluster25/detection) - Cluster25's detection rules.
 - Networkforensic.dk (NF) rules sets: 
   - [NF IDS rules](https://networkforensic.dk/SNORT/NF-local.zip)
@@ -122,11 +122,12 @@
 - [Amsterdam](https://github.com/StamusNetworks/Amsterdam) - Docker based Suricata, Elasticsearch, Logstash, Kibana, Scirius aka SELKS.
 - [pfSense](https://www.pfsense.org) - A free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality.
 - [OPNsense](https://opnsense.org) - An open source, easy-to-use and easy-to-build FreeBSD based firewall and routing platform.
+- [Artica](https://github.com/dtouzeau/artica-suricata) - Suricata IDS integration for the [Artica](https://artica.systems) gateway appliance.
 
 
 ## Training
 
-- [Experimental Suricata Training Environment](https://github.com/jasonish/experimental-suricata-training) - Experimental Suricata Training Environment.
+- [Experimental Suricata Training Environment](https://github.com/jasonish/experimental-suricata-training) - Suricata Training Environment based on Docker(-Compose).
 - [CDMCS](https://github.com/ccdcoe/CDMCS/tree/master) - Cyber Defence Monitoring Course: Rule-based Threat Detection.
 
 
