@@ -315,6 +315,7 @@ Many regexes found online are low quality. It's risky to use regexes you don't f
 - Generate strings that match a given regex: [randexp.js](https://github.com/fent/randexp.js), [regex-to-strings](https://github.com/wimpyprogrammer/regex-to-strings).
 - Generate a regex from given strings: [regexgen](https://github.com/devongovett/regexgen).
 - [regex-utils](https://github.com/gruhn/regex-utils) - Check regex equivalence, build regex intersections, and other meta utilities.
+- [regex-to-mermaid](https://github.com/tayles/regex-to-mermaid) - Generate Mermaid diagrams to visualize regexes within Markdown docs, etc.
 
 ## JavaScript regex evolution
 
@@ -330,7 +331,7 @@ Many regexes found online are low quality. It's risky to use regexes you don't f
 - ES2020 added string method [`matchAll`](https://github.com/tc39/proposal-string-matchall) (which returns an iterator), plus `RegExp.prototype[Symbol.matchAll]`.
 - ES2022 added [flag `d`](https://github.com/tc39/proposal-regexp-match-indices) (`hasIndices`), which provides start/end indices for matched substrings.
 - ES2024 added [flag `v`](https://github.com/tc39/proposal-regexp-v-flag) (`unicodeSets`) \[[*explainer*](https://v8.dev/features/regexp-v-flag)] as an upgrade to flag `u`, which adds a set of multicharacter "properties of strings" to `\p{…}`, multicharacter elements within character classes via `\p{…}` and `\q{…|…}`, nested character classes, set operators `[…--…]` and `[…&&…]`, and different escaping rules within character classes. It also fixes case-insensitive matching for `\p` and `\P` within negated `[^…]`.
-- ES2025 added [modifiers](https://github.com/tc39/proposal-regexp-modifiers) like `(?ims:…)` and [`RegExp.escape`](https://github.com/tc39/proposal-regex-escaping).
+- ES2025 added [modifiers](https://github.com/tc39/proposal-regexp-modifiers) like `(?ims:…)`, [duplicate named capturing groups](https://github.com/tc39/proposal-duplicate-named-capturing-groups) in separate alternation paths, and [`RegExp.escape`](https://github.com/tc39/proposal-regex-escaping).
 
 > Editions from ES2019 onward have added additional Unicode properties that can be used via `\p{…}` and `\P{…}`. ES2021 added string method [`replaceAll`](https://github.com/tc39/proposal-string-replaceall), although the only difference from ES3's `replace` when given a regex is that it throws if not using flag `g`.
 <details>
@@ -347,7 +348,6 @@ Many regexes found online are low quality. It's risky to use regexes you don't f
   <summary>🔮 <b>Future: Active proposals</b></summary>
   <br>
 
-- [Duplicate named capturing groups](https://github.com/tc39/proposal-duplicate-named-capturing-groups) (2022) - Ex: `(?<a>…)|(?<a>…)`.
 - [Extended mode and comments](https://github.com/tc39/proposal-regexp-x-mode) (2021) - Flag `x` (`extended`) with insignificant whitespace and line comments (`#…`), plus inline comments via `(?#…)`.
 - [Atomic operators](https://github.com/tc39/proposal-regexp-atomic-operators) (2021) - Atomic groups via `(?>…)` and possessive quantifiers (ex: `*+`, `++`).
 - [Buffer boundaries](https://github.com/tc39/proposal-regexp-buffer-boundaries) (2021) - Anchors `\A` and `\z`, not affected by flag `m`.
