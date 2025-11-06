@@ -562,6 +562,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Kedro](https://github.com/kedro-org/kedro) | Open-source Python framework for creating reproducible, maintainable data science code |
 | [Hamilton](https://github.com/dagworks-inc/hamilton) | Lightweight library to author and manage reliable data transformations |
 | [SHAP](https://github.com/slundberg/shap) | Game theoretic approach to explain the output of any machine learning model |
+| [InterpretML](https://github.com/interpretml/interpret) | InterpretML implements the Explainable Boosting Machine (EBM), a modern, fully interpretable machine learning model based on Generalized Additive Models (GAMs). This open-source package also provides visualization tools for EBMs, other glass-box models, and black-box explanations |
 | [LIME](https://github.com/marcotcr/lime) | Explaining the predictions of any machine learning classifier |
 | [flyte](https://github.com/flyteorg/flyte) | Workflow automation platform for machine learning |
 | [dbt](https://github.com/dbt-labs/dbt-core) | Data build tool |

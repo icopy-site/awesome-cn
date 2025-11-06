@@ -444,6 +444,7 @@
 - [fdschmidt93/telescope-egrepify.nvim](https://github.com/fdschmidt93/telescope-egrepify.nvim) - Telescope plugin for better `rg` flags in `live_grep`.
 - [nvim-telescope/telescope-media-files.nvim](https://github.com/nvim-telescope/telescope-media-files.nvim) - Preview images, pdf, epub, video, and fonts using Telescope.
 - [crispgm/telescope-heading.nvim](https://github.com/crispgm/telescope-heading.nvim) - Telescope extension to switch between headings of AsciiDoc, Markdown, Vimdoc, etc.
+- [bassamsdata/namu.nvim](https://github.com/bassamsdata/namu.nvim) - Flexible and sleek fuzzy picker, LSP symbol navigator, and more.
 - [folke/snacks.nvim#picker](https://github.com/folke/snacks.nvim/blob/main/docs/picker.md) - Modern fuzzy-finder to navigate the Neovim universe.
 - [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Fuzzy file picker with a standalone native implementation of file indexing and typo resistant fuzzy matcher. Includes all the QOL features, file previews (and images), frecency sorting, last query matching, proximity, git status bonuses and much more.
 - [wsdjeg/picker.nvim](https://github.com/wsdjeg/picker.nvim) - Simple fuzzy finder, including files, ctags outline, and more.
@@ -462,10 +463,8 @@
 - [kevinhwang91/rnvimr](https://github.com/kevinhwang91/rnvimr) - A simple yet amazing file explorer.
 - [Xuyuanp/yanil](https://github.com/Xuyuanp/yanil) - Yet Another Nerdtree In Lua.
 - [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree) - File manager. Better than NERDTree.
-- [is0n/fm-nvim](https://github.com/is0n/fm-nvim) - Neovim plugin that lets you use your favorite terminal file managers (and fuzzy finders).
 - [rolv-apneseth/tfm.nvim](https://github.com/Rolv-Apneseth/tfm.nvim) - Similar to `fm-nvim`, this provides Neovim integration for several popular terminal file managers (including [yazi](https://github.com/sxyazi/yazi)).
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neo-tree is a Neovim plugin to browse the file system and other tree like structures in whatever style suits you, including sidebars, floating windows, netrw split style, or all of them at once.
-- [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim) - A file manager which lets you edit your filesystem like you edit text.
 - [theblob42/drex.nvim](https://github.com/TheBlob42/drex.nvim) - A simple and configurable file explorer written in Lua.
 - [SidOfc/carbon.nvim](https://github.com/SidOfc/carbon.nvim) - The simple directory tree viewer written in Lua.
 - [kiran94/s3edit.nvim](https://github.com/kiran94/s3edit.nvim) - Edit files from Amazon S3 directly from Neovim.
@@ -513,13 +512,9 @@
 
 - [catgoose/nvim-colorizer.lua](https://github.com/catgoose/nvim-colorizer.lua) - A high-performance color highlighter which has no external dependencies.
 - [winston0410/range-highlight.nvim](https://github.com/winston0410/range-highlight.nvim) - An extremely lightweight plugin (~ 120loc) that highlights ranges you have entered in commandline.
-- [xiyaowong/transparent.nvim](https://github.com/xiyaowong/transparent.nvim) - Make your Neovim transparent.
 - [folke/twilight.nvim](https://github.com/folke/twilight.nvim) - Dim inactive portions of the code you're editing using Tree-sitter.
-- [koenverburg/peepsight.nvim](https://github.com/koenverburg/peepsight.nvim) - Focus only the function your cursor is in.
 - [uga-rosa/ccc.nvim](https://github.com/uga-rosa/ccc.nvim) - Super powerful color picker / colorizer plugin.
-- [ziontee113/color-picker.nvim](https://github.com/ziontee113/color-picker.nvim) - Plugin that lets users choose & modify RGB/HSL/HEX colors inside Neovim.
 - [lcheylus/overlength.nvim](https://github.com/lcheylus/overlength.nvim) - A small plugin to highlight too long lines.
-- [brenoprata10/nvim-highlight-colors](https://github.com/brenoprata10/nvim-highlight-colors) - A plugin to highlight colors with Neovim.
 - [max397574/colortils.nvim](https://github.com/max397574/colortils.nvim) - A plugin providing utils to work with colors (picker, conversion) inside Neovim.
 - [Mr-LLLLL/interestingwords.nvim](https://github.com/Mr-LLLLL/interestingwords.nvim) - Highlight multiple word same time and navigate word under cursor with scrolling smoothly, display search count in virualtext.
 - [nvim-mini/mini.nvim#mini.hipatterns](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-hipatterns.md) - Module of `mini.nvim` to highlight patterns in text with configurable highlighters. Works asynchronously with configurable debounce delay.
@@ -862,6 +857,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [athar-qadri/scratchpad.nvim](https://github.com/athar-qadri/scratchpad.nvim) - Effortlessly manage scratchpads within your favorite editor.
 - [echaya/neowiki.nvim](https://github.com/echaya/neowiki.nvim) - The modern vimwiki successor offering a minimal, intuitive workflow out of the box for note-taking and Getting Things Done (GTD).
 - [happyeric77/joplin.nvim](https://github.com/happyeric77/joplin.nvim) - Joplin notes utilities: tree browser, search, open, and Telescope integration.
+- [ymich9963/mdnotes.nvim](https://github.com/ymich9963/mdnotes.nvim) - Simple and improved Markdown note taking.
 <!--lint disable double-link -->
 
 

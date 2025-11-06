@@ -187,6 +187,7 @@ Note: Customizations quickly become outdated, it is recommended to look in the [
 
 #### Scripts
 
+- [Fluid tile](https://codeberg.org/Serroda/fluid-tile) - Simple auto tiling with UI for KWin that works natively.
 - [Grid-Tiling-Kwin](https://github.com/lingtjien/Grid-Tiling-Kwin) - A kwin script that automatically tiles windows.
 - [Kröhnkite](https://github.com/anametologin/krohnkite) - A dynamic tiling extension for KWin.
 - [kwin-tiling](https://github.com/faho/kwin-tiling) - Tiling script for kwin.
