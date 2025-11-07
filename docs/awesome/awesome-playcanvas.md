@@ -85,6 +85,7 @@
 - [DOOH Invaders](https://vimeo.com/136313614) - World's largest Space Invaders clone unveiled at Cannes Lions.
 - [Fatal System Error](https://playcanv.as/p/A5qC9ftM/?overlay=false) - Interactive opera experience created by Dumbworld from the Royal Opera House.
 - [How Not To Suck At Money](https://hntsam.com/) - Educational game from Invesco about personal finance.
+- [Instant Worlds](https://instantworlds.io/) - Instant, browser-based 3D worlds for brands and audiences to connect in real time.
 - [Life During COVID-19](https://gallery.familyforeverychild.org/) - Virtual art exhibition from charity Family for Every Child.
 - [MMX Racing](https://playcanv.as/p/ika9sdKu/?truck=johncena) - Interactive 3D ad for a popular mobile game.
 - [Party Space](https://www.party.space/) - Virtual events platform.
@@ -106,6 +107,7 @@
 - [Cannon Balls 3D](https://play.famobi.com/cannon-balls-3d) - Use the cannon to destroy the various structures in this physics-based game.
 - [Car Detailing Master](https://poki.com/en/g/car-detailing-master) - Clean, paint, and polish cars in this satisfying makeover game from Gamebole.
 - [Color Burst 3D](https://gamesnacks.com/games/colorburst3d) - Hit the colored wall matching the ball color.
+- [Color Up](https://elanrastudios.com/games/colorup) - Climb up carefully and stay on the right colored boxes.
 - [Continental Marble Adventure](https://portfolio.redox-interactive.com/en/projects/continental-marble-adventure) - Marble game for Continental's 150 year anniversary.
 - [Conundrum](https://conundrum.fun) - A word game where you solve anagrams. Fast!
 - [Curve Ball 3D](https://play.famobi.com/curve-ball-3d) - 3D pong game.
@@ -144,6 +146,7 @@
 
 ### IO Games
 
+- [99 Nights Online](https://www.crazygames.com/game/99-nights-online) - Multiplayer survival horror coop game.
 - [Animal Obby](https://poki.com/en/g/animal-obby) - Switch between animals with unique abilities to reach the goal.
 - [Bullet Bonanza](https://www.bulletbonanza.io/) - Fast paced, high fidelity, 3D Multiplayer FPS game from Kiloo.
 - [Fields of Fury](https://www.fieldsoffury.io/) - Capture the flag set during WW2.
@@ -152,6 +155,8 @@
 - [Mini Royale: Nations](https://miniroyale.io/) - Battle Royale first person shooter.
 - [Robostorm](https://robostorm.io/) - Frenetic online multiplayer mech battle game.
 - [Rollem](https://rollem.io/) - Guide your hamster to the end of the obstacle course in the fastest time.
+- [Simply Prop Hunt](https://simplyprophunt.io) - Fast-paced multiplayer hide-and-seek game with a clever twist.
+- [Simply City](https://simplycity.live) - An open world multiplayer GTA like driving game. 
 - [Simply Up](https://simplyup.io) - Climb to the top of the tower in the shortest time. 
 - [Tank Royale](https://tankroyale.io/) - Cartoony fast-paced top-down multiplayer shooter.
 - [TANX](https://tanx.io) - Online multiplayer tank battle game.
