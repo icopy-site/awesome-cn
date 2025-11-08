@@ -91,6 +91,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hac
 - [The "New" J2ME software archive](https://archive.org/details/96x65pixels_j2me) - 74GB+, sorted collection of J2ME games.
 - [Nowhere Dialogues](https://gist.github.com/hstsethi/d4ef0c9f0710e5b713d1beb2ff93a1ce) - Dialogues from a Nowhere, a 2007 J2ME game, with character names reverse engineered.
 - [J2ME Games at MyAbandonware](https://www.myabandonware.com/browse/platform/j2me) - Curated catalog of abandoned J2ME games with direct downloads.
+- [J2ME Games Speedruns](https://www.speedrun.com/games?platform=nzel5r6q) - List of all speedruns related to J2ME games along with guides, discussions and screen recordings.
 
 ## Related Projects
 
