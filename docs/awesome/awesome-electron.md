@@ -17,9 +17,9 @@ Electron is an open-source framework for creating desktop apps using web technol
 	<sub>Check out my macOS app</sub>
 	<br>
 	<h2>
-		<a href="https://sindresorhus.com/menu-bar-spacing">Menu Bar Spacing</a>
+		<a href="https://sindresorhus.com/text-lens">Text Lens</a>
 		<br>
-		<sup>Customize the gap between menu bar items on macOS</sup>
+		<sup>Copy unselectable text on screen</sup>
 	</h2>
 </div>
 <br>

@@ -101,7 +101,6 @@
 - [omarchy-arc-blueberry](https://github.com/vale-c/omarchy-arc-blueberry) - Arc Blueberry inspired colors tailored for Omarchy.
 - [omarchy-ayu-dark-theme](https://github.com/fdidron/omarchy-ayu-dark-theme) - Omarchy Ayu Dark Theme.
 - [omarchy-ayu-light-theme](https://github.com/fdidron/omarchy-ayu-light-theme) - Omarchy Ayu Light Theme.
-- [omarchy-fairyfloss-theme](https://github.com/jackdbai/omarchy-fairyfloss-theme) - Fairyfloss theme for Omarchy.
 - [omarchy-github-light-theme](https://github.com/ryanyogan/omarchy-github-light-theme) - GitHub Light theme adaptation.
 - [omarchy-night-owl-theme](https://github.com/maxberggren/omarchy-night-owl-theme) - Dark blue night owl theme for Omarchy.
 - [omarchy-catppuccin-mocha-theme](https://github.com/KidDogDad/omarchy-catppuccin-mocha-theme) - Catppuccin Mocha theme for Omarchy.
