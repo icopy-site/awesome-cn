@@ -42,6 +42,7 @@
 - [omarchy-ayu-mirage-theme](https://github.com/fdidron/omarchy-ayumirage) - Ayu Mirage color scheme adaptation with balanced contrast.
 - [omarchy-azure-glow-theme](https://github.com/Hydradevx/omarchy-azure-glow-theme) - Azure blue theme with glowing accents.
 - [omarchy-bauhaus-theme](https://github.com/somerocketeer/omarchy-bauhaus-theme) - Minimalist theme inspired by Bauhaus design principles.
+- [omarchy-batou-theme](https://github.com/HANCORE-linux/omarchy-batou-theme) - Moody theme inspired by Batou's car and iconic opening scene aesthetics.
 - [omarchy-blackgold-theme](https://github.com/HANCORE-linux/omarchy-blackgold-theme) - Sleek black-and-gold theme with luxurious aesthetics.
 - [omarchy-blackturq-theme](https://github.com/HANCORE-linux/omarchy-blackturq-theme) - Black turquoise theme based on Evo80 keyboard color pattern.
 - [omarchy-blueridge-dark-theme](https://github.com/hipsterusername/omarchy-blueridge-dark-theme) - Dark theme inspired by mountain ridge aesthetics.
@@ -65,8 +66,10 @@
 - [omarchy-hakker-green-theme](https://github.com/joaquinmeza/omarchy-hakker-green-theme) - Hacker-style green terminal theme.
 - [omarchy-hollow-knight-theme](https://github.com/bjarneo/omarchy-hollow-knight-theme) - Hollow Knight inspired theme with gaming aesthetics.
 - [omarchy-hook-theme-set-ex](https://github.com/imbypass/omarchy-hook-theme-set-ex) - Modular interpretation of the Omarchy theme-set hook.
+- [omarchy-inkypinky-theme](https://github.com/HANCORE-linux/omarchy-inkypinky-theme) - Bold meets blush in a swirl of creative elegance.
 - [omarchy-kimiko-theme](https://github.com/krymzonn/omarchy-kimiko-theme) - Elegant theme with Japanese-inspired aesthetics.
 - [omarchy-mars-theme](https://github.com/steve-lohmeyer/omarchy-mars-theme) - Mars-inspired red theme.
+- [omarchy-mechanoonna-theme](https://github.com/HANCORE-linux/omarchy-mechanoonna-theme) - Mecha no Onna (メカの女) the "Metal Woman" theme.
 - [omarchy-matte-black](https://github.com/tahayvr/omarchy-matte-black) - Sleek matte black theme for minimalists.
 - [omarchy-midnight-theme](https://github.com/JaxonWright/omarchy-midnight-theme) - Dark midnight theme optimized for OLED displays.
 - [omarchy-milkmatcha-light-theme](https://github.com/hipsterusername/omarchy-milkmatcha-light-theme) - Light theme with soft matcha green and creamy colors.
@@ -90,11 +93,13 @@
 - [omarchy-spectra-theme](https://github.com/abhijeet-swami/omarchy-spectra-theme) - Blur and transparency theme that adapts to any wallpaper.
 - [omarchy-sunset-drive-theme](https://github.com/tahayvr/omarchy-sunset-drive-theme) - Sunset-inspired theme with warm gradients.
 - [omarchy-synthwave84-theme](https://github.com/omacom-io/omarchy-synthwave84-theme) - Synthwave 84 inspired theme with retro aesthetics.
+- [omarchy-thegreek-theme](https://github.com/HANCORE-linux/omarchy-thegreek-theme) - Sleek, strategic spy theme blending classic espionage with modern intrigue.
 - [omarchy-velocity-theme](https://github.com/perfektnacht/omarchy-velocity-theme) - Dynamic theme with speed-inspired design elements.
 - [omarchy-vesper-theme](https://github.com/thmoee/omarchy-vesper-theme) - Dark theme with warm vesper-orange highlights.
 - [omarchy-vhs80-theme](https://github.com/tahayvr/omarchy-vhs80-theme) - Retro VHS-inspired theme with 80s aesthetics and neon colors.
 - [omarchy-void-theme](https://github.com/vyrx-dev/omarchy-void-theme.git) - Low-contrast purple theme with soft accents for a calm UI.
 - [omarchy-wasteland-theme](https://github.com/perfektnacht/omarchy-wasteland-theme) - Post-apocalyptic wasteland-inspired color scheme.
+- [omarchy-whitegold-theme](https://github.com/HANCORE-linux/omarchy-whitegold-theme) - Light and elegance intertwined with gold accents.
 - [omarchy-waveform-dark-theme](https://github.com/hipsterusername/omarchy-waveform-dark-theme) - Dark theme with waveform-inspired design patterns.
 - [omarchy-motivator-theme](https://github.com/rondilley/omarchy-motivator-theme) - Omarchy Theme for maximum motivation.
 - [omarchy-archriot-theme](https://github.com/CyphrRiot/omarchy-archriot-theme) - ArchRiot theme for Omarchy by CyphrRiot.
@@ -147,6 +152,7 @@
 - [omarchy-monitor-settings](https://github.com/ryanyogan/omarchy-monitor-settings) - Omarchy Monitor Settings TUI.
 - [Pacsea](https://github.com/Firstp1ck/Pacsea) - Rust TUI for browsing and queueing pacman/AUR packages, inspired by Omarchy's installer.
 - [omarchy-waybar](https://github.com/timmo001/omarchy-waybar) - Omarchy Waybar configuration and customizations.
+- [waybar-themes](https://github.com/HANCORE-linux/waybar-themes) - Collection of Waybar themes with various styles and combinations for Omarchy.
 - [omarchy-hypr](https://github.com/timmo001/omarchy-hypr) - Omarchy Hyprland configuration files and settings.
 - [OMARCHY-VM-UTM](https://github.com/hjanuschka/OMARCHY-VM-UTM) - OMARCHY VM for UTM - Pre-configured Arch Linux virtual machine.
 - [omarchy-workspace-mover](https://github.com/jonashan/omarchy-workspace-mover) - A Omarchy plugin for moving workspaces between monitors.
@@ -175,6 +181,7 @@
 - [manual-nas-backup-tool](https://github.com/daurydicaprio/manual-nas-backup-tool) - A simple script to make incremental copies, encrypted or not.
 - [omarchy-monitor-toggle](https://github.com/daurydicaprio/omarchy-monitor-toggle) - Tools for automating monitor power management within Omarchy.
 - [hyprBluetooth](https://github.com/magudb/hyprBluetooth) - Bluetoothctl-powered TUI for quickly pairing devices on Omarchy.
+- [omarchpods](https://github.com/tomycostantino/omarchpods) - TUI for monitoring AirPods and other Bluetooth headphones with battery status and device info.
 - [wayscriber](https://github.com/devmobasa/wayscriber) - Instant on-screen annotations and markup for Wayland, ZoomIt-inspired.
 
 ## Related Projects
