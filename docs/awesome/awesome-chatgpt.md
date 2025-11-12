@@ -169,11 +169,8 @@
 
 - [ChatGPT Exporter](https://github.com/pionxzh/chatgpt-exporter) - Export and share ChatGPT conversation history.
 - [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/README_EN.md) - Fixes common networks errors and problems with ChatGPT.
-- [ChatGPT Widescreen Mode](https://github.com/adamlui/chatgpt-widescreen) - Adds widescreen and fullscreen mode to ChatGPT.
 - [Autoclear ChatGPT History](https://github.com/adamlui/autoclear-chatgpt-history) - Auto-clear ChatGPT conversation history for increased privacy.
 - [ChatGPT Auto Refresh](https://github.com/adamlui/chatgpt-auto-refresh) - Keeps ChatGPT sessions fresh to avoid network errors and Cloudflare checks.
-- [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) - Brings the magic of ChatGPT to search results.
-- [ChatGPT Infinity](https://github.com/adamlui/chatgpt-infinity) - Makes ChatGPT automatically answer random questions to increase your knowledge.
 - [ChatGPT Auto-Continue](https://github.com/adamlui/chatgpt-auto-continue) - Automatically clicks "Continue generating" when responses are cut off.
 
 **Bookmarklets**
@@ -226,6 +223,7 @@
 - [chatgpt-telegram-bot](https://github.com/karfly/chatgpt_telegram_bot) - Telegram bot that supports voice messages.
 - [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) - DuckDuckGo bot.
 - [BraveGPT](https://github.com/kudoai/bravegpt) - Brave Search bot.
+- [GoogleGPT](https://www.googlegpt.io) - Google Search bot.
 
 ## Integrations
 

@@ -204,6 +204,10 @@
 * [haxix](https://github.com/MadMcCrow/haxix) - Nix flake to build haxe/Heaps.io projects.
 * [kebab](https://github.com/bwkam/kebab) - Haxe packages for Nix.
 
+### Julia
+
+* [Manifest2Nix.jl](https://codeberg.org/aniva/Manifest2Nix.jl) - A Nix library for creating reproducible Julia builds and experiments via precompilation.
+
 ### Lean
 
 * [lean4-nix](https://github.com/lenianiva/lean4-nix) -  Nix flake build for Lean 4, and `lake2nix`.
@@ -234,6 +238,7 @@
 ### Python
 
 * [poetry2nix](https://github.com/nix-community/poetry2nix) - Build Python packages directly from [Poetry's](https://python-poetry.org/) `poetry.lock`. No conversion step needed.
+* [uv2nix](https://github.com/pyproject-nix/uv2nix) - Convert [`uv` workspaces](https://docs.astral.sh/uv/concepts/projects/workspaces/) into pure Nix derivations.
 
 ### Ruby
 

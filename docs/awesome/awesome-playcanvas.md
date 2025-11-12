@@ -202,6 +202,7 @@
 
 - [3D Plans](https://3dplans.com) - Virtual tours and interactive maps for the property market.
 - [Amisco Furniture](https://www.amisco.com/en_us/uprightstool) - Interactive 3D furniture configurator.
+- [Bugatti Tourbillon](https://jacobandco.com/configurator/bugatti-tourbillon) - Watch configurator from Jacob & Co Timepieces.
 - [Cibes Lifts](https://www.cibeslift.com/lift-configurator/) - Elevator configurator.
 - [Elfa Closets](http://elfa.com/sv-se/planner) - Closet configurator.
 - [Fjällräven Kånken](https://www.fjallraven.com/uk/en-gb/bags-gear/kanken/kanken-bags/kanken-me) - Backpack configurator.
