@@ -581,7 +581,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Codeflash](https://www.codeflash.ai/) | Ship Blazing-Fast Python Code — Every Time |
 | [Hugging Face](https://huggingface.co/) | Popular open platform for sharing ML models, datasets, and collaborating on NLP and generative AI projects. |
 | [Chinese-Elite](https://github.com/anonym-g/Chinese-Elite) | An open-source project that automatically maps relationship networks by parsing public data using LLMs and visualizes it as an interactive graph. |
-
+| [Desbordante](https://github.com/desbordante/desbordante-core/) | An open-source data profiler specifically focused on discovery and validation of complex patterns,  such as [numerical association rules](https://colab.research.google.com/github/Desbordante/desbordante-core/blob/main/examples/notebooks/Numerical_Association_Rules.ipynb), [differential dependencies](https://colab.research.google.com/github/Desbordante/desbordante-core/blob/main/examples/notebooks/Differential_Dependencies.ipynb), [denial constraints](https://colab.research.google.com/github/Desbordante/desbordante-core/blob/main/examples/notebooks/Denial_Constraints.ipynb), and more. |
 
 
 ## Literature and Media

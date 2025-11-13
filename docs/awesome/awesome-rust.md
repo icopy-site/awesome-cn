@@ -46,6 +46,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
 * [Rauthy](https://github.com/sebadob/rauthy) - OpenID Connect Single Sign-On Identity & Access Management
 * [Rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers.
 * [rkik](https://github.com/aguacero7/rkik) - CLI tool designed for stateless and passive NTP inspection, just as dig or ping are for DNS and ICMP. It supports async requests and continuous monitoring. [![crates.io](https://img.shields.io/crates/v/rkik?logo=rust)](https://crates.io/crates/rkik)
+* [run](https://github.com/Esubaalew/run) [[run-kit](https://crates.io/crates/run-kit)] - Universal multi-language runner and smart REPL (25+ languages: Python, JS, Go, C, etc.).
 * [Rust Iot Platform](https://github.com/iot-ecology/rust-iot-platform) - A high-performance IoT development platform built with Rust, designed for multi-protocol support and real-time data processing. This platform supports MQTT, WebSockets (WS), TCP, and CoAP protocols, making it highly flexible for diverse IoT applications.
 * [rx](https://github.com/cloudhead/rx) - Vi inspired Modern Pixel Art Editor
 * [Ryot](https://github.com/ignisda/ryot) - A self hosted application to track media consumption, fitness, etc.
@@ -226,6 +227,7 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 ### File manager
 
 * [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then `cd` to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading [dystroy.org/broot](https://dystroy.org/broot/) [![Latest Version](https://img.shields.io/crates/v/broot.svg)](https://crates.io/crates/broot)
+* [FileSSH](https://github.com/JayanAXHF/FileSSH) - A fast and easy to use TUI to manage files on a remote server, including quick SSH session creation, in-place file editing and more! ![crates.io](https://img.shields.io/crates/v/filessh)
 * [joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager
 * [xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 * [yazi](https://github.com/sxyazi/yazi) - Blazing fast terminal file manager, based on async I/O.
