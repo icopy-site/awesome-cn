@@ -258,6 +258,8 @@
 
 - [location-location-location](https://github.com/doersino/scriptable-widgets/tree/main/location-location-location) - Show Google Maps image from current location.
 
+- [Toronto Bike Share](https://github.com/alexboden/toronto-bike-share-status/blob/main/compact-widget.js) - Show availabilites of the Toronto Bike Share.
+
 ## Related
 
 ### Download helper

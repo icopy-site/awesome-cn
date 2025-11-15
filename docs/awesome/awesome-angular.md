@@ -81,6 +81,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [rafacli](https://github.com/rafa00716/rafacli) - A command-line tool designed to generate authentication and CRUD modules (and more soon) for NestJS and Angular applications. It streamlines the development process by automating boilerplate code creation, reducing repetitive tasks, and ensuring consistency across projects.
 * [ngx-crafter](https://github.com/ErwanHeschung/ngx-crafter) - A powerful CLI tool that helps you craft Angular projects with pre-configured folder structures and essential packages.
 * [ng new command generator](https://ng.gridatek.com/) - Generate optimized `ng new` commands.
+* [svger-cli](https://github.com/faezemohades/svger-cli) - A lightweight CLI that transforms SVGs into optimized Angular components with zero dependencies.
 * [tailwind-init-cli](https://github.com/ImLeoNova/tailwind-init-cli) - A one-command setup tool for Tailwind CSS in Angular, React, or Next.js projects!
 
 ### Deployment
