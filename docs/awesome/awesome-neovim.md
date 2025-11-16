@@ -670,6 +670,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 - [pmouraguedes/neodarcula.nvim](https://github.com/pmouraguedes/neodarcula.nvim) - A dark theme with support for transparency, dimming, LSP semantic tokens and more.
 - [jpwol/thorn.nvim](https://github.com/jpwol/thorn.nvim) - A rich green theme with dark and light options. Supports LSP, transparency, many plugins, and more.
 - [calind/selenized.nvim](https://github.com/calind/selenized.nvim) - Lua port of [selenized](https://github.com/jan-warchol/selenized) with support for Tree-sitter, `nvim-cmp`, GitSigns, and more.
+- [motaz-shokry/gruvbox.nvim](https://gitlab.com/motaz-shokry/gruvbox.nvim) - A new gruvbox theme with a different background color for the hard variant, and comes with 4 variants.
 
 ### Lua Colorscheme
 
@@ -958,6 +959,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [nxhung2304/lastplace.nvim](https://github.com/nxhung2304/lastplace.nvim) - Intelligently restore your cursor position when reopening files.
 - [wsdjeg/mru.nvim](https://github.com/wsdjeg/mru.nvim) - Manage and display your Most Recently Used (MRU) files.
 - [gruvw/strudel.nvim](https://github.com/gruvw/strudel.nvim) - Live coding controller for [strudel](https://strudel.cc).
+- [wsdjeg/ctags.nvim](https://github.com/wsdjeg/ctags.nvim) - Generate tags files and update tags option automatically.
 
 ### CSV Files
 

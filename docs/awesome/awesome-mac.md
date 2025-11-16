@@ -107,6 +107,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Brackets](http://brackets.io) - A modern, open source text editor that understands web design. [![Open-Source Software][OSS Icon]](https://github.com/brackets-cont/brackets/) ![Freeware][Freeware Icon]
 * [CodeEdit](https://www.codeedit.app/) - A lightweight, natively-built editor. Open source. Free forever. [![Open-Source Software][OSS Icon]](https://github.com/CodeEditApp/CodeEdit) ![Freeware][Freeware Icon]
 * [CotEditor](https://coteditor.com) - Lightweight plain-text editor for macOS. [![Open-Source Software][OSS Icon]](https://github.com/coteditor/CotEditor/) ![Freeware][Freeware Icon]
+* [Cursor](https://cursor.com/) - AI-powered code editor built to make you extraordinarily productive. Features include AI autocomplete, chat, and an autonomous coding agent. ![Freeware][Freeware Icon]
 * [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - Popular Unix-based text editor for programmers and system administrators. [![Open-Source Software][OSS Icon]](https://git.savannah.gnu.org/cgit/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/emacs-tw/awesome-emacs#readme)
 * [Haystack Editor](https://github.com/haystackeditor/haystack-editor) - Code editor with a canvas UI for better code understanding. [![Open-Source Software][OSS Icon]](https://github.com/haystackeditor/haystack-editor) ![Freeware][Freeware Icon]
 * [Helix](https://helix-editor.com/) - A post-modern modal text editor. [![Open-Source Software][OSS Icon]](https://github.com/helix-editor/helix/) ![Freeware][Freeware Icon]
@@ -123,6 +124,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Tot](https://tot.rocks/) - Tot is an elegant, simple way to collect & edit text. It’s your tiny text companion! ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/tot/id1491071483)
 * [Vim](http://www.vim.org/) - An old terminal-based editor. For common plugins, check [Vim Common Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/editor-plugin-zh.md#vim-plugin). [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/mhinz/vim-galore#readme)
 * [Vimr](http://vimr.org/) - Refined Vim Experience for OS X. [![Open-Source Software][OSS Icon]](https://github.com/qvacua/vimr/) ![Freeware][Freeware Icon]
+* [Windsurf](https://windsurf.com/) - AI code editor featuring Cascade, an agentic AI experience that writes and edits code autonomously. Includes AI autocomplete, memories, and MCP support. ![Freeware][Freeware Icon]
 * [Zed](https://zed.dev/) - A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. [![Open-Source Software][OSS Icon]](https://github.com/zed-industries/zed) ![Freeware][Freeware Icon]
 
 ### Office
