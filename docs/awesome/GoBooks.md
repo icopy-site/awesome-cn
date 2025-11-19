@@ -473,11 +473,11 @@ progressively building a blockchain from scratch in Go with gRPC. An interesting
 adventure that takes you from the foundational concepts and purpose through the technical design and
 implementation to the practical testing and usage of the proposed blockchain. Simple, yet non-trivial. Concise, yet detailed. Practical, yet well-grounded.
 
-### 2025 - [Pro Go Patterns: Advanced Function Design, Concurrency Models, and Clean Code](https://www.amazon.com/dp/B0DW9JNCVV?ref_=ast_author_mpb)
+### 2025 - [Go at Scale: Patterns for Professional Development](https://rezmoss.com/go-at-scale/)
 
-<a href="https://www.amazon.com/dp/B0DW9JNCVV?ref_=ast_author_mpb"><img src="https://m.media-amazon.com/images/I/61JkL-4aXsL._SL1500_.jpg" width="120x"></a>
+<a href="https://rezmoss.com/go-at-scale/"><img src="https://rezmoss.com/images/go-at-scale-cover-1.jpg" width="120x"></a>
 
-Pro Go Patterns is your comprehensive guide to writing scalable, maintainable, and efficient Go code. Moving beyond the basics, this book dives deep into advanced patterns and practices used in real-world applications.
+Go at Scale is your comprehensive guide to writing scalable, maintainable, and efficient Go code. Moving beyond the basics, this book dives deep into advanced patterns and practices used in real-world applications.
 
 
 ### [Go with the Domain: Building Modern Business Software in Go](https://threedots.tech/go-with-the-domain/) *Free*

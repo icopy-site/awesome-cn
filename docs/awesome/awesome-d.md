@@ -44,14 +44,14 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [Official D Forum Learn Group](https://forum.dlang.org/group/learn) - Highest-traffic site for getting D questions answered.
 * [D on Stack Overflow](https://stackoverflow.com/questions/tagged/d) - Less traffic than the forums but possibly easier to search.
 * [D on Rosetta Code](https://rosettacode.org/wiki/Category:D) - Examples of how to do many basic things in D.
-* [D on Discord](https://discord.gg/invite/bMZk9Q4) - Another very active community for D discussions and questions.
+* [D on Discord](https://discord.com/invite/bMZk9Q4) - Another very active community for D discussions and questions.
 
 ## People
 
 *The people that made D the language it is.*
 
 * [Walter Bright](https://www.walterbright.com/) - Father of D. Walter Bright is the creator and first implementer of the D programming language and has implemented compilers for several other languages.
-* [Andrei Alexandrescu, PhD](http://erdani.com/) - C++ guru. Author of *The D Programming Language* and *Modern C++ Design*. With Walter Bright, Andrei co-designed many important features of D and authored a large part of D's standard library. Andrei works as a trainer in advanced C++ programming and algorithms and is now actively evangelizing D in the organization.
+* [Andrei Alexandrescu, PhD](http://erdani.org/) - C++ guru. Author of *The D Programming Language* and *Modern C++ Design*. With Walter Bright, Andrei co-designed many important features of D and authored a large part of D's standard library. Andrei works as a trainer in advanced C++ programming and algorithms and is now actively evangelizing D in the organization.
 * [Átila Neves](https://atilaoncode.blog/) - [Deputy Leader of D](https://dlang.org/blog/2019/10/15/my-vision-of-ds-future/).
 * **YOU** - Please add your information if you've done something interesting in D. It is you, the awesome people that make D awesome.
 
@@ -70,11 +70,11 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [DlangScience](https://github.com/DlangScience) - A focal point and first port of call for scientific libraries and tooling for D.
 * [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
 * [EMSI](https://github.com/economicmodeling) - A Career building company that uses D as their main language. Hosts their opensource projects.
-* [infognition](http://www.infognition.com/company.html) - Infognition is a self-funded and self-sustained company specializing in video processing and compression technologies for end-users and developers. They provide several opensource video related applications & tools written in D, hosted on [bitbucket](https://bitbucket.org/infognition/). They are also porting their main product--[Video Enchanser](http://www.infognition.com/VideoEnhancer/) from C/C++ to D.
+* [infognition](http://www.infognition.com/company.html) - Infognition is a self-funded and self-sustained company specializing in video processing and compression technologies for end-users and developers. They provide several opensource video related applications & tools written in D, hosted on [bitbucket](https://bitbucket.org/infognition/workspace/repositories/). They are also porting their main product--[Video Enchanser](http://www.infognition.com/VideoEnhancer/) from C/C++ to D.
 * [libmir](https://github.com/libmir) - D's numeric library development team
-* [sociomantic labs](https://www.sociomantic.com) - Berlin based company specializing in real-time bidding for online advertising. Main sponsor of the [annual D language conference](http://dconf.org). Has open-sourced large parts of their codebase as part of the [tsunami](https://github.com/sociomantic-tsunami) organization.
+* [sociomantic labs](https://github.com/sociomantic-tsunami) - Berlin based company specializing in real-time bidding for online advertising. Main sponsor of the [annual D language conference](https://dconf.org/). Has open-sourced large parts of their codebase as part of the [tsunami](https://github.com/sociomantic-tsunami) organization.
 * [Symmetry Investments](https://symmetryinvestments.com/) - Symmetry Investments LP is an investment management company with approximately US$4.7 billion in assets under management as of 31 December 2018. Main sponsor of the [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/). Have sponsored the development of [excel-d](https://dlang.org/blog/2017/05/31/project-highlight-excel-d/), [dpp](https://github.com/atilaneves/dpp), [autowrap](https://github.com/symmetryinvestments/autowrap), [mir-algorithm](https://github.com/libmir/mir-algorithm), and various other projects.
-* [HuntLabs](https://www.huntlabs.net) - A technology group using DLang. Have pure D language implementation of quickly develop server-side applications and build distributed system services.
+* [HuntLabs](https://github.com/huntlabs) - A technology group using DLang. Have pure D language implementation of quickly develop server-side applications and build distributed system services.
 
 ## Books
 
@@ -82,9 +82,9 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [TDPL](https://www.amazon.com/The-Programming-Language-Andrei-Alexandrescu/dp/0321635361/) - *The D Programming Language* by Andrei Alexandrescu.
 * [Programming in D](https://ddili.org/ders/d.en/index.html) - A very detailed book about programming in D by Ali Çehreli covering many areas of the language. Has a free online version and is suitable for beginners.
-* [D Cookbook](https://www.packtpub.com/product/d-cookbook/9781783287215) - A recipe-packed reference guide filled with practical tasks that are concisely explained to develop and broaden the user's abilities with the D programming language. by Adam D. Ruppe. Here is an interesting [review of the book](https://www.cppstories.com/2014/08/review-of-d-cookbook/).
-* [Learning D](https://www.packtpub.com/product/learning-d/9781783552481) - This book is intended for those with some background in a C-family language who want to learn how to apply their knowledge and experience to D. (...) This book will help you get up to speed with the language and avoid common pitfalls that arise when translating C-family experience to D.
-* [D Web Development](https://www.packtpub.com/product/d-web-development/9781785288890) - Whether you are new to the world of D, or already have developed applications in D, or if you want to leverage the power of D for web development, then this book is ideal for you.
+* [D Cookbook](https://www.packtpub.com/en-us/product/d-cookbook-9781783287215) - A recipe-packed reference guide filled with practical tasks that are concisely explained to develop and broaden the user's abilities with the D programming language. by Adam D. Ruppe. Here is an interesting [review of the book](https://www.cppstories.com/2014/08/review-of-d-cookbook/).
+* [Learning D](https://www.packtpub.com/en-us/product/learning-d-9781783552481) - This book is intended for those with some background in a C-family language who want to learn how to apply their knowledge and experience to D. (...) This book will help you get up to speed with the language and avoid common pitfalls that arise when translating C-family experience to D.
+* [D Web Development](https://www.packtpub.com/en-us/product/d-web-development-9781785288890) - Whether you are new to the world of D, or already have developed applications in D, or if you want to leverage the power of D for web development, then this book is ideal for you.
 
 ## Tutorials
 
@@ -94,10 +94,9 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [Programming in Dlang](https://www.youtube.com/watch?v=HS7X9ERdjM4&list=PLvv0ScY6vfd9Fso-3cB4CGnSlW0E4btJV&ab_channel=MikeShah) - An introductory video series about programming in D.
 * [Pragmatic D tutorial](https://qznc.github.io/d-tut/index.html) - This is a pragmatic introduction to the D Programming Language. by Andreas Zwinkau.
 * [D Template Tutorial](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.
-* [Component programming in D](https://www.drdobbs.com/architecture-and-design/component-programming-in-d/240008321) - An article written by Walter Bright that details how D's functional support leads to a flexible and beautiful component programming style.
 * [Component programming with ranges](https://wiki.dlang.org/Component_programming_with_ranges) - A detailed blog post about how to do component programming in a idiomatic D way with ranges, with a full working example.
 * [Functional image processing in D](https://blog.cy.md/2014/03/21/functional-image-processing-in-d/) - A very interesting tutorial about writing an image processing lib in D. Shows the power of D's templates/CTFE/Ranges/UFCS for functional style programming.
-* [OpenGL tutorials](https://github.com/d-gamedev-team/opengl-tutorials) - OpenGL tutorials in D.
+* [OpenGL tutorials](https://github.com/drewet/opengl-tutorials) - OpenGL tutorials in D.
 * [Creating a simple JSON serialiser in D](https://bradley.chatha.dev/BlogPost/JsonSerialiser/0) - D metaprogramming tutorial series
 * [Let's learn D programming Game Dev!](https://www.youtube.com/watch?v=j-Zm1zgSxMQ&list=PLgM-lc_kSqFQPF0UXgmFZpZalqcrSofe-&ab_channel=KiRill) - A video series on learning game development with D from Ki Rill. [His channel](https://www.youtube.com/@rillki-dev/) also posts other videos related to D programming.
 * [DLang YouTube Tutorials from Mike Shah](https://www.youtube.com/playlist?list=PLvv0ScY6vfd9Fso-3cB4CGnSlW0E4btJV) - Series of tutorials covering basic to advanced features of the D programming language and standard library.
@@ -121,7 +120,6 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [Origins of the D programming language](https://dl.acm.org/doi/pdf/10.1145/3386323) - By Walter Bright, Andrei Alexandrescu, Michael Parker. The history and development of D language.
 * [Purity in D](https://klickverbot.at/blog/2012/05/purity-in-d/) - An article that explains the design principles behind D's purity feature.
 * [Hidden treasures in the D standard library](https://web.archive.org/web/20171119072212/http://nomad.so/2014/08/hidden-treasure-in-the-d-standard-library/) - An article talking about several useful functions and templates in Phobos.
-* [Porting D Runtime to ARM](https://github.com/JinShil/D_Runtime_ARM_Cortex-M_study) - A study about porting a minimal D runtime to ARM Cortex-M preprocessors.
 * [D is for Data Science](https://tech.nextroll.com/blog/data/2014/11/17/d-is-for-data-science.html) - A great post about how D is suitable for data science, particularly, replacing the role of python scripts for fast prototyping.
 * [D Functional Garden](https://garden.dlang.io/)
 
@@ -178,8 +176,8 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [IntelliJ D Language](https://intellij-dlanguage.github.io/) - Support for the D programming language within IntelliJ IDEA.
 * [Dexed](https://gitlab.com/basile.b/dexed) - IDE for the D programming language, its compilers, tools and libraries.
 * [Dutyl](https://github.com/idanarye/vim-dutyl) - Vim plugin that integrates various D development tools
-* [code-d](https://marketplace.visualstudio.com/items?itemName=webfreak.code-d) <sup>\[[open-vsx](https://open-vsx.org/extension/webfreak/code-d)\]</sup> - Visual Studio Code extension using serve-d
-* [ide-d](https://atom.io/packages/ide-d) - Atom extension for D using serve-d
+* [code-d](https://marketplace.visualstudio.com/items?itemName=webfreak.code-d) - Visual Studio Code extension using serve-d
+* [ide-d](https://packages.pulsar-edit.dev/packages/ide-d) - Pulsar (fork of Atom) extension for D using serve-d
 * [DCD](https://github.com/dlang-community/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/dlang-community/DCD/wiki/IDEs-and-Editors-with-DCD-support).
 * [serve-d](https://github.com/Pure-D/serve-d) - Language Server Protocol (LSP) implementation for D. Adds modern IDE features to any editor with LSP support (VSCode, Atom, Vim/Neovim and others)
 
@@ -188,7 +186,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [libdparse](https://github.com/dlang-community/libdparse) - A D language lexer and parser, (possibly) future standard D parser/lexer.
 * [Martin Nowak's Lexer](https://github.com/MartinNowak/lexer) - A lexer generator.
 * [Mono-D's DParser](https://github.com/aBothe/D_Parser) - A D parser written in C# and used in Mono-D.
-* [Pegged](https://github.com/PhilippeSigaud/Pegged) - A Parsing Expression Grammar (PEG) module written in D.
+* [Pegged](https://github.com/dlang-community/Pegged) - A Parsing Expression Grammar (PEG) module written in D.
 * [Goldie](https://bitbucket.org/Abscissa/goldie/wiki/Home) - Goldie Parsing System.
 * [ctpg](https://github.com/youxkei/ctpg) - Compile-Time Parser (with converter) Generator written in D.
 * [dunnart](https://github.com/pwil3058/dunnart) - LALR(1) Parser Generator written in D.
@@ -222,7 +220,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *Operating Systems written in D.*
 
 * [PowerNex](https://github.com/PowerNex/PowerNex) - A kernel written in D
-* [SerpentOS](https://serpentos.com/) - Snek factory ([source code](https://gitlab.com/serpent-os))
+* [SerpentOS](https://gitlab.com/serpent-os) - Snek factory
 * [Trinix](https://github.com/Rikarin/Trinix) - Hybrid operating system for x64 PC written in D
 * [XOmB](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
 
@@ -360,9 +358,9 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *Bindings to game development related libraries in C, C++, and other languages.*
 
 * [raylib-d](https://github.com/schveiguy/raylib-d) - D bindings for raylib.
-* [sokol-d](https://github.com/kassane/sokol-d) - D bindings for the sokol headers.
+* [sokol-d](https://github.com/floooh/sokol-d) - D bindings for the sokol headers.
 * [DAllegro5](https://github.com/SiegeLord/DAllegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
-* [DSFML](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. See <http://dsfml.com/>.
+* [DSFML](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D.
 * [Godot-D](https://github.com/godot-d/godot-d) - D language bindings for the Godot Engine's GDNative API.
 * [BindBC](https://github.com/BindBC) - Bindings compatible with `-betterC` and `@nogc`, using [bindbc-loader](https://github.com/BindBC/bindbc-loader).
 	* [OpenGL](https://github.com/BindBC/bindbc-opengl) - Graphics API
@@ -370,21 +368,21 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 	* [SDL 2](https://github.com/BindBC/bindbc-sdl) - Multimedia library
 	* [SDL2_gfx](https://github.com/aferust/bindbc-sdlgfx) - Drawing primitives for SDL2
 	* [SFML 2](https://github.com/BindBC/bindbc-sfml) - Multimedia library
-	* [Imgui](https://github.com/Inochi2D/bindbc-imgui) - Immediate mode GUI
+	* [Imgui](https://github.com/Inochi2D/i2d-imgui) - Immediate mode GUI
 	* [Nuklear](https://github.com/Timu5/bindbc-nuklear) - Immediate mode GUI
 	* [raylib3](https://github.com/o3o/bindbc-raylib3) - Game library
 	* [bgfx](https://github.com/GoaLitiuM/bindbc-bgfx) - Cross-Platform renderer
-	* [WebGPU](https://github.com/gecko0307/bindbc-wgpu) - Modern GPU API
+	* [WebGPU](https://github.com/DLangGamedev/bindbc-wgpu) - Modern GPU API
 	* [Zstandard](https://github.com/ZILtoid1991/bindbc-zstandard) - Fast compression
 	* [nanomsg-next-gen](https://github.com/darkridder/bindbc-nng) - Messaging library
 	* [OpenAL](https://github.com/BindBC/bindbc-openal) - Audio library
-	* [SoLoud](https://github.com/gecko0307/bindbc-soloud) - Audio library
+	* [SoLoud](https://github.com/DLangGamedev/bindbc-soloud) - Audio library
 	* [KiWi](https://github.com/aferust/bindbc-kiwi) - UI widget toolkit
 	* [NanoVG](https://github.com/aferust/bindbc-nanovg) - Vector graphics
 	* [Blend2D](https://github.com/kdmult/bindbc-blend2d) - Vector graphics
 	* [Lua](https://github.com/BindBC/bindbc-lua) - Scripting language
 	* [JoyShockLibrary](https://github.com/ZILtoid1991/bindbc-JSL) - Gamepad/Gyro input
-	* [Newton Dynamics](https://github.com/gecko0307/bindbc-newton) - Physics library
+	* [Newton Dynamics](https://github.com/DLangGamedev/bindbc-newton) - Physics library
 	* [FreeImage](https://github.com/BindBC/bindbc-freeimage) - Image loading
 	* [FreeType](https://github.com/BindBC/bindbc-freetype) - Font rendering
 	* [HarfBuzz](https://github.com/DlangGraphicsWG/bindbc-harfbuzz) - Text shaping
@@ -441,8 +439,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 ## Image Processing
 
-* [ArmageddonEngine](https://github.com/CyberShadow/ae/tree/master/utils/graphics) - Vladimir Panteleev's ae library has a package for image processing in functional style, which is described in the article [Functional Image Processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/).
-* [Blogsort](https://bitbucket.org/infognition/bsort/) - A simple Windows app for viewing photos and preparing them for a blog.
+* [ArmageddonEngine](https://github.com/CyberShadow/ae/tree/master/utils/graphics) - Vladimir Panteleev's ae library has a package for image processing in functional style, which is described in the article [Functional Image Processing in D](https://blog.cy.md/2014/03/21/functional-image-processing-in-d/).
 * [dlib.image](https://github.com/gecko0307/dlib) - image processing (8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)
 * [color.d](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d](https://github.com/adamdruppe/arsd/blob/master/png.d) - basic color struct, HSL functions and reading and writing image files
 * [opencvd](https://github.com/aferust/opencvd) - Unofficial OpenCV binding for D
@@ -485,13 +482,13 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [dlog](https://github.com/deavmi/dlog) - extensible logging framework with message transformation support and custom loggers and contexts
 * [std.experimenatal.logger](https://dlang.org/phobos/std_experimental_logger.html) - Phobos's upcoming standard logging facility.
-* [dlogg](https://github.com/NCrashed/dlogg) - Logging for concurrent applications and daemons with lazy and delayed logging, [logrotate](https://linux.die.net/man/8/logrotate) support.
+* [dlogg](https://github.com/NCrashed/dlogg) - Logging for concurrent applications and daemons with lazy and delayed logging, logrotate support.
 
 ## Configuration
 
 *Parsing configuration files.*
 
-* [sdlang](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D.
+* [sdlang](https://github.com/dlang-community/SDLang-D) - An SDL (Simple Declarative Language) library for D.
 * [D:YAML](https://github.com/dlang-community/D-YAML) - YAML parser and emitter for the D programming language.
 * [inifile-D](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D
 

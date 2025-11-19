@@ -16,6 +16,7 @@
 
 - [armarchy](https://github.com/nilszeilon/armarchy) - ARM architecture-optimized fork of Omarchy.
 - [deckarchy](https://github.com/aorumbayev/deckarchy) - Steam Deck hardware fixes and optimizations for Omarchy installation.
+- [Fedpunk](https://github.com/hinriksnaer/Fedpunk) - Omarchy-based desktop configuration and modular theming engine for Fedora.
 - [hyprwhspr](https://github.com/goodroot/hyprwhspr) - Native speech-to-text for Arch / Omarchy - Fast, accurate and easy system-wide Whisper dictation.
 - [Okimarchy](https://github.com/cristian-fleischer/okimarchy) - An Omarchy fork that adds support for niri window manager alongside Hyprland, with runtime switching and unified theming.
 - [omadora](https://github.com/elpritchos/omadora) - Minimal Fedora install based on Omarchy.
