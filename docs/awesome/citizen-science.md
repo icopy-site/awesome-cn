@@ -27,6 +27,8 @@ Below is a curated list of awesome software and other resources to enable those 
  * [ALOHA](https://www.epa.gov/cameo/aloha-software) - A piece of software disributed by the EPA that models the threat zone for various types of chemical spill and explosion hazards.
  * [vegan](http://vegan.r-forge.r-project.org/) - R package for statistical work in community ecology.
  * [BOINC](https://boinc.berkeley.edu/) - Open-source cross-platform volunteer computing network connecting computers of volunteers/citizen scientists to scientific research projects. Used by CERN and universities around the world.
+ * [YData Profiling](https://docs.profiling.ydata.ai/latest/) - A general-purpose open-source data profiler for high-level analysis of a dataset.
+ * [Desbordante](https://github.com/desbordante/desbordante-core) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data. 
 
 ### Publishing , Collaboration and Organization
 

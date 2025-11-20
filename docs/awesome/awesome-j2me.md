@@ -32,6 +32,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hac
 - [NN JSON CLDC 1.0](https://github.com/gtrxAC/discord-j2me/tree/main/src/cc/nnproject/json) - Modified version of NN JSON for CLDC 1.0.
 - [J2ME Game Script Engine](https://j2megamescript.sourceforge.net/) - A lightweight script interpreter for building flexible J2ME games, with a BASIC-like scripting language. Runs on J2SE/J2ME/Win C++ platforms; ideal for game rapid prototyping and customization.
 - [J2ME Gradle template](https://gitea.bedohswe.eu.org/pixtaded/j2me-hello-gradle) - Gradle template for J2ME development using Microemulator.
+- [Linspwdight User Interface Toolkit(LWUIT)](https://en.wikipedia.org/wiki/Lightweight_User_Interface_Toolkit) - Swing inspired widget toolkit for J2ME.
 
 ### IDEs
 
@@ -82,6 +83,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hac
 - [Telegram Micro](https://github.com/faissaloo/telegram-micro) - Telegram client.
 - [VK4ME](https://github.com/VK4ME/client)  - Unofficial client for Russian social network VK for devices supporting CLDC 1.1 and MIDP 2.0.
 - [UPI 123PAY](https://www.npci.org.in/what-we-do/upi-123pay/product-overview) - Official Unified Payment Interface(UPI)payments solution for feature phones by NPCI. Internet not required. Supported only in India.
+[Opera FTP Archive](https://ftp.opera.com/pub/opera) - Official FTP archive of various versions of Opera browser for all supported platforms.
 
 ### Video Games
 
@@ -131,3 +133,4 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hac
 - [Developing Jini applications using J2ME technology](https://dl.acm.org/doi/abs/10.5555/507165) - Book on Developing networking applications using Jini and J2ME.
 - [Distributed Gaming using J2ME and XML](https://www.cs.sjsu.edu/faculty/pollett/masters/Semesters/Fall03/Rekha/CS297Report.pdf) - Writeup on creating a cross-platform using Oracle XML database for gaming.
 - [Experiences of Implementing BitTorrent on Java ME Platform](https://ieeexplore.ieee.org/abstract/document/4446557) - Detailed writeup on implementing BitTorrent client on Nokia S40. Includes methodology and results.
+- [Networked J2ME Applications](https://www.mooreds.com/midp/midp.htm) - Paper exploring various facets of building networked MIDP 1.0 applications.
