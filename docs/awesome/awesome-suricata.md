@@ -123,6 +123,7 @@
 - [pfSense](https://www.pfsense.org) - A free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality.
 - [OPNsense](https://opnsense.org) - An open source, easy-to-use and easy-to-build FreeBSD based firewall and routing platform.
 - [Artica](https://github.com/dtouzeau/artica-suricata) - Suricata IDS integration for the [Artica](https://artica.systems) gateway appliance.
+- [Shovel](https://github.com/FCSC-FR/shovel) - Web interface to explore Suricata EVE outputs, with a primary focus on network analysis in CTF competitions.
 
 
 ## Training

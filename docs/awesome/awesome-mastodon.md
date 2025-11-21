@@ -90,8 +90,8 @@ This list is a collection of the best Mastodon resources.
 
 ## Guides
 
-- [What is Mastodon? (Official Video)](https://www.youtube.com/watch?v=IPSbNdBmWKE) - What is Mastodon? (Official Video).
-- [A Beginner's Guide to Mastodon](https://buffer.com/resources/mastodon-social) - A Beginner's Guide to Mastodon.
+- [What is Mastodon?](https://www.youtube.com/watch?v=IPSbNdBmWKE) - Official video explaining Mastodon.
+- [A Beginner's Guide to Mastodon](https://buffer.com/resources/mastodon-social) - An unofficial guide to Mastodon.
 - [Fedi.Tips](https://fedi.tips) - An unofficial guide to Mastodon and the Fediverse.
 
 ## Hosting

@@ -107,6 +107,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 - [DigitalOcean](https://github.com/pocketbase/pocketbase/discussions/512) - Guide to deploy in a Droplet.
 - [Fly.io](https://github.com/pocketbase/pocketbase/discussions/537) - Guide to deploy for free in Fly.io.
+- [Railway](https://github.com/metruzanca/pocketbase_railway) - Guide to deploy on Railway.
 - [AWS Lightsail](https://github.com/boustanihani/pocketbase-lightsail-hosting) - Guide to deploy to AWS Lightsail.
 - [LocalXpose](https://localxpose.io/docs/tutorials/expose-pocketbase-backend) - Allow public access to a localhost instance.
 - [PocketBase Docker](https://github.com/kdpuvvadi/pocketbase) - Docker images supporting multiple architectures and updated with latest PocketBase releases. ![GitHub Repo stars](https://img.shields.io/github/stars/kdpuvvadi/pocketbase)

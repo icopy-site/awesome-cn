@@ -7,7 +7,7 @@
 > An awesome list about Java platform Micro edition[(J2ME)](https://en.wikipedia.org/wiki/Java_Platform,_Micro_Edition). Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games. J2ME is a Java specification designed for old keypad phones and PDAs. MIDP, which is built upon CLDC, is used to create Midlets, which have `.jad` or `.jar` extension, and run on platforms like old keypad phones, Symbian and PDAs. MIDP is supported till Java ME SDK 3.4.
 
 <!--lint disable double-link-->
-Please give it a star(⭐) to raise awareness about J2ME community, and support the development of this project. Read about history of Awesome J2ME in <a href="https://hstsethi.vercel.app/posts/programming/awesome-j2me">this blog post</a>. Also check out [Awesome Symbian](https://github.com/hstsethi/awesome-symbian).
+Please give it a star(⭐) to raise awareness about J2ME community, and support the development of this project. Read about introduction, setup-process, and history of Awesome J2ME in <a href="https://hstsethi.vercel.app/posts/programming/awesome-j2me">this blog post</a>. Also check out [Awesome Symbian](https://github.com/hstsethi/awesome-symbian).
 
 <!--lint disable double-link-->
 Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hackclub](https://retrospect.hackclub.com/j2me), [Awesome Java](https://github.com/akullpp/awesome-java) and more.
@@ -83,8 +83,8 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hac
 - [Telegram Micro](https://github.com/faissaloo/telegram-micro) - Telegram client.
 - [VK4ME](https://github.com/VK4ME/client)  - Unofficial client for Russian social network VK for devices supporting CLDC 1.1 and MIDP 2.0.
 - [UPI 123PAY](https://www.npci.org.in/what-we-do/upi-123pay/product-overview) - Official Unified Payment Interface(UPI)payments solution for feature phones by NPCI. Internet not required. Supported only in India.
-[Opera FTP Archive](https://ftp.opera.com/pub/opera) - Official FTP archive of various versions of Opera browser for all supported platforms.
-
+- [Opera FTP Archive](https://ftp.opera.com/pub/opera) - Official FTP archive of various versions of Opera browser for all supported platforms.
+- [Pocket Gopher](https://github.com/felixp7/pocket-gopher) - Open source Gopher and Gopher+ client for J2ME.
 ### Video Games
 
 - [Gravity Defied CPP](https://github.com/rgimad/gravity_defied_cpp) - C++, SDL2 port of J2ME game of the same name.

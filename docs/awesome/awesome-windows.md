@@ -90,7 +90,9 @@
 
 ## Command Line Tools
 
+
 * [Chocolatey](https://chocolatey.org/) - Package manager for Windows.
+* [gsudo](https://gerardog.github.io/gsudo/) - Sudo equivalent for Windows, allows you to run a command with elevated permissions. [![Open-Source Software][oss]](https://github.com/gerardog/gsudo)
 * [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) - Official Windows package manager from Microsoft. [![Open-Source Software][oss]](https://github.com/microsoft/winget-cli)
 
 ## Communication
