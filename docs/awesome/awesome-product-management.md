@@ -115,6 +115,19 @@ Taiga is a project management tool for multi-functional agile teams. It has a ri
 | Platform  | macOS, Windows, iOS, Android, Web                        |
 | URL       | https://taiga.io                                    |
 
+#### Tenzu
+
+Lightweight project management tool for agile teams. Features workspaces creation and kanban boards.
+
+![Tenzu overview](https://raw.githubusercontent.com/dend/awesome-product-management/master/media/tool-tenzu.gif)
+
+| Property  | Value                                                                 |
+|-----------|-----------------------------------------------------------------------|
+| Developer | [BIRU](https://biru.sh/)                                              |
+| Cost      | Free (self-hosted) or [Free contribution](https://tenzu.net/pricing/) |
+| Platform  | Web                                                                   |
+| URL       | https://tenzu.net                                                     |
+
 #### To-Do
 
 A tool to quickly manage "to-dos".

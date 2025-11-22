@@ -730,6 +730,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-mq](https://github.com/martsinlabs/ngx-mq) - A declarative library that uses signals and the native [matchMedia API](https://developer.mozilla.org/en-US/docs/Web/API/Window/matchMedia) to manage media queries, with built-in breakpoint presets for Tailwind, Bootstrap, and Angular Material.
 * [panda](https://github.com/chakra-ui/panda) - Easily use Panda, CSS-in-JS Framework, with Angular with its dedicated [integration](https://panda-css.com/docs/docs/installation/angular).
 * [Super JSS](https://github.com/rsantoyo-dev/super-jss-workspace) - Super JavaScript Stylesheets is a tiny, runtime styling library for Angular. It generates atomic CSS as you use it, supports responsive breakpoints and theming, and gives you a minimal, ergonomic API.
+* [tokiforge](https://github.com/TokiForge/tokiforge) - Framework-agnostic design token engine for React, Vue, Angular, Svelte & vanilla JS.
 
 ## Security and Authentication
 
@@ -1007,7 +1008,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-ultimate-base](https://github.com/Beszt/ng-ultimate-base) - Angular 20 template with Angular Material UI, Tailwind CSS, i18n, ESLint, Prettier, Husky, and CI/CD.
 * [angular-dev-enhanced](https://github.com/nelsongraa8/angular-dev-enhanced) - A ready-to-use Angular starter with Vite, Vitest, ESLint, and Prettier—perfect for clean, modern development.
 * [angular-realworld-example-app](https://github.com/gothinkster/angular-realworld-example-app) - Angular codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.
-
+* [angular.ng](https://github.com/desoga10/angular.ng) - An open-source productivity dashboard built with Angular and Supabase.
+* [angluar-crm](https://github.com/minhpham-mew/angluar-crm) - Angular CRM template with contact management, deal tracking, and analytics.
 ### Paid Templates
 
 * [Admin Mart](https://adminmart.com/templates/angular-dashboard/)
@@ -1510,6 +1512,7 @@ to simplify usage and allow quick customization.
 * [hotkeys](https://github.com/ngneat/hotkeys) - A declarative library for handling hotkeys in Angular applications.
 * [ngx-contextmenu](https://github.com/PerfectMemory/ngx-contextmenu) - A context menu component for Angular.
 * [ngx-keys](https://github.com/mrivasperez/ngx-keys) - A reactive Angular library for managing keyboard shortcuts with signals based UI integration.
+* [focusly](https://github.com/mad-vx/focusly) - A lightweight Angular library that brings intuitive, keyboard-driven navigation to web applications.
 
 ### Layout Components
 

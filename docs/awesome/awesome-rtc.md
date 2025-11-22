@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="rtckit/awesome-rtc"></div>
 ## Awesome Real Time Communications [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-&gt; 几乎同时交换媒体和数据的协议和方法.
+> Protocols and methodology for near simultaneous exchange of media and data.
 
 
 
@@ -11,175 +11,176 @@
 
 ### General Purpose
 
-- [FreeSWITCH](http://freeswitch.org) - 开源多协议、跨平台和软件交换机.
-- [Asterisk](http://asterisk.org) - 支持多种协议和平台的 PBX 框架.
+- [FreeSWITCH](http://freeswitch.org) - Open source multi-protocol, cross-platform and software switch.
+- [Asterisk](http://asterisk.org) - PBX framework supporting multiple protocols and platforms.
 
 ### SIP Servers
 
-- [Kamailio](http://www.kamailio.org)  - 运营商和提供商广泛部署的开源 SIP 服务器. 以前称为 OpenSER.
-- [OpenSIPS](http://www.opensips.org) - 开源 SIP 服务器，追根溯源于 OpenSER（目前为 Kamailio）.
-- [Routr](https://routr.io) - 用 Node.js 编写的轻量级 SIP 代理、位置服务器和注册器.
-- [Sippy B2BUA](https://github.com/sippy/b2bua) - 用 Python 编写的背靠背用户代理服务器.
-- [Flexisip](https://github.com/BelledonneCommunications/flexisip) - SIP 服务器套件，包括代理、状态和群聊功能.
+- [Kamailio](http://www.kamailio.org) - Open source SIP server widely deployed by carriers and providers. Formerly known as OpenSER.
+- [OpenSIPS](http://www.opensips.org) - Open source SIP server, tracing its roots in OpenSER (presently Kamailio).
+- [Routr](https://routr.io) - Lightweight SIP proxy, location server, and registrar written in Node.js.
+- [Sippy B2BUA](https://github.com/sippy/b2bua) - Back-to-back user agent server written in Python.
+- [Flexisip](https://github.com/BelledonneCommunications/flexisip) - SIP server suite comprising proxy, presence and group chat functions.
 
 ### Media Servers
 
-- [Janus](https://janus.conf.meetecho.com) - 轻量级开源、通用、WebRTC 网关.
-- [RTPProxy](https://www.rtpproxy.org) - 通用高性能 RTP 代理.
-- [RTP:Engine](https://github.com/sipwise/rtpengine) - 基于 RTP 和 UDP 的媒体流量代理，可用作内核模块.
-- [mediasoup](https://mediasoup.org) - 专门的 WebRTC 会议系统.
-- [SEMS](https://github.com/sems-server/sems) - 用于基于 SIP 的 VoIP 服务的开源媒体和应用程序服务器.
-- [Jitsi](https://jitsi.org/projects) - RTC 开源项目的集合，重点是会议软件.
+- [Janus](https://janus.conf.meetecho.com) - Lightweight open source, general purpose, WebRTC gateway.
+- [RTPProxy](https://www.rtpproxy.org) - General purpose high performance RTP proxy.
+- [RTP:Engine](https://github.com/sipwise/rtpengine) - RTP and UDP based media traffic proxy, usable as a kernel module.
+- [mediasoup](https://mediasoup.org) - Specialized WebRTC conferencing system.
+- [SEMS](https://github.com/sems-server/sems) - Open source media and application server for SIP based VoIP services.
+- [Jitsi](https://jitsi.org/projects) - A collection of RTC open source projects, with a focus on conferencing software.
 
 ### STUN/TURN
 
-- [coturn](https://github.com/coturn/coturn) - 支持多平台的全功能 TURN/STUN 服务器.
-- [STUNTMAN](https://github.com/jselbie/stunserver) - 符合 RFC 的开源 STUN 实现.
+- [coturn](https://github.com/coturn/coturn) - Fully featured TURN/STUN server supporting multiple platforms.
+- [STUNTMAN](https://github.com/jselbie/stunserver) - RFC compliant open source STUN implementation.
 
 
 ## Operations
 
 ### Monitoring
 
-- [sngrep](https://github.com/irontec/sngrep) - 基于终端的 SIP 流查看器.
-- [sipgrep](https://github.com/sipcapture/sipgrep) - 用于嗅探、捕获和探索 SIP 流量的控制台工具.
-- [rtpbreak](https://github.com/Naishy/rtpsplit) - 检测、重建和分析 RTP 会话.
-- [HOMER](https://github.com/sipcapture/homer) - RTC 的多协议捕获和监控框架.
-- [WebRTC Troubleshooter](https://github.com/webrtc/testrtc) - 自托管一站式客户端 WebRTC 故障排除程序.
-- [Trickle ICE](https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice) - 公开客户端 NAT 遍历调试数据.
-- [SIP3](https://sip3.io) - VoIP &amp; RTC 流量监控和分析平台.
+- [sngrep](https://github.com/irontec/sngrep) - Terminal based SIP flow viewer.
+- [sipgrep](https://github.com/sipcapture/sipgrep) - Console tool for sniffing, capturing and exploring SIP traffic.
+- [rtpbreak](https://github.com/Naishy/rtpsplit) - Detect, reconstruct and analyze RTP sessions.
+- [HOMER](https://github.com/sipcapture/homer) - Multi-protocol capturing and monitoring framework for RTC.
+- [WebRTC Troubleshooter](https://github.com/webrtc/testrtc) - Self-hosted one stop client-side WebRTC troubleshooter.
+- [Trickle ICE](https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice) - Exposes client-side NAT traversal debug data.
+- [SIP3](https://sip3.io) - VoIP & RTC traffic monitoring and analysis platform.
 
 ### Testing
 
-- [SIPp](http://sipp.sourceforge.net) - SIP 协议的流量生成器.
-- [SIPVicious](https://github.com/EnableSecurity/sipvicious) - 可用于审计基于 SIP 的 VoIP 系统的安全工具套件.
-- [sipsak](https://github.com/nils-ohlmeier/sipsak) - SIP 压力和诊断实用程序.
-- [sipexer](https://github.com/miconda/sipexer) - 现代且灵活的 SIP 命令行工具.
+- [SIPp](http://sipp.sourceforge.net) - Traffic generator for the SIP protocol.
+- [SIPVicious](https://github.com/EnableSecurity/sipvicious) - Suite of security tools that can be used to audit SIP based VoIP systems.
+- [sipsak](https://github.com/nils-ohlmeier/sipsak) - SIP stress and diagnostics utility.
+- [sipexer](https://github.com/miconda/sipexer) - Modern and flexible SIP command line tool.
 
 ### Deployment
 
-- [slimswitch](https://github.com/rtckit/slimswitch) - 用于创建精益安全的 FreeSWITCH Docker 图像的工具.
+- [slimswitch](https://github.com/rtckit/slimswitch) - Tooling for creating lean secure FreeSWITCH Docker images.
 
 ### Web/API Interfaces
 
-- [Eqivo](https://eqivo.org) - 开源可编程语音/电话 API 平台.
-- [Kazoo](https://www.2600hz.org) - 使用 FreeSWITCH 和 Kamailio 的运营商级 VoIP API 平台.
-- [FusionPBX](https://www.fusionpbx.com) - 建立在 FreeSWITCH 之上的多租户系统.
-- [FreePBX](https://www.freepbx.org) - Asterisk 的 Web 管理器.
+- [Eqivo](https://eqivo.org) - Open source programmable-voice/telephony API platform.
+- [Kazoo](https://www.2600hz.org) - Carrier-grade VoIP API platform using FreeSWITCH and Kamailio.
+- [FusionPBX](https://www.fusionpbx.com) - Multitenant system built on top of FreeSWITCH.
+- [FreePBX](https://www.freepbx.org) - Web Manager for Asterisk.
 - [Fonoster](https://github.com/fonoster/fonoster) - Telecommunication stack built with Node.js.
-- [Wazo](https://wazo-platform.org) - 建立在 Asterisk、Kamailio 和 RTPEngine 之上的 VoIP API 平台.
-- [jambonz](https://www.jambonz.org) - 为通信服务提供商构建的开源 CPaaS.
-- [IVOZ Provider](https://github.com/irontec/ivozprovider) - VoIP 电话提供商的多租户解决方案.
+- [Wazo](https://wazo-platform.org) - VoIP API platform built on top of Asterisk, Kamailio and RTPEngine.
+- [jambonz](https://www.jambonz.org) - Open source CPaaS built for communications service providers.
+- [IVOZ Provider](https://github.com/irontec/ivozprovider) - Multitenant solution for VoIP telephony providers.
 
 ### Billing
 
-- [CGRateS](http://cgrates.org) - 运营商级开源计费/评级服务器.
-- [A2Billing](http://www.asterisk2billing.org) - 用于多个应用程序的 Asterisk 计费系统.
-- [PyFreeBilling](https://github.com/mwolff44/pyfreebilling) - Kamailio 和 FreeSWITCH 的批发计费平台.
+- [CGRateS](http://cgrates.org) - Carrier grade open source billing/rating server.
+- [A2Billing](http://www.asterisk2billing.org) - Billing system for Asterisk for multiple applications.
+- [PyFreeBilling](https://github.com/mwolff44/pyfreebilling) - Wholesale billing platform for Kamailio and FreeSWITCH.
 
 
 ## Developer Resources
 
 ### Tutorials
 
-- [Official Website](https://webrtc.org) - 入门级 WebRTC 资源.
-- [Getting Started With WebRTC](https://www.html5rocks.com/en/tutorials/webrtc/basics) - HTML5 Rocks 的 WebRTC 教程.
-- [WebRTC Samples](https://webrtc.github.io/samples) - 展示 WebRTC API 各个部分的示例集合.
-- [WebRTC Experiments](https://www.webrtc-experiment.com) - Muaz Khan 的样本综合清单.
-- [Interactive Codelab](https://codelabs.developers.google.com/codelabs/webrtc-web) - Google 提供的 30 分钟分步实时教程.
+- [Official Website](https://webrtc.org) - Entry level WebRTC resources.
+- [Getting Started With WebRTC](https://www.html5rocks.com/en/tutorials/webrtc/basics) - WebRTC tutorial by HTML5 Rocks.
+- [WebRTC Samples](https://webrtc.github.io/samples) - Collection of samples demonstrating various parts of the WebRTC APIs.
+- [WebRTC Experiments](https://www.webrtc-experiment.com) - Comprehensive list of samples by Muaz Khan.
+- [Interactive Codelab](https://codelabs.developers.google.com/codelabs/webrtc-web) - 30 minutes step by step live tutorial by Google.
 
 ### JavaScript Libraries
 
-- [drachtio](https://drachtio.org) - Node.js SIP 服务器框架.
-- [adapter.js](https://github.com/webrtcHacks/adapter) - 用于抽象 WebRTC 规范更改和不一致的 JavaScript 垫片.
-- [JsSIP](http://jssip.net) - 轻量级开源 JavaScript SIP 库.
-- [sipML5](https://www.doubango.org/sipml5) - 带有 WebRTC 媒体堆栈的开源 JavaScript SIP 客户端.
-- [simple-peer](https://github.com/feross/simple-peer) - Node.js 和浏览器的 WebRTC 视频、语音和数据通道抽象.
-- [Netflux](https://github.com/coast-team/netflux) - 用于客户端和服务器的同构 JavaScript 对等传输 API.
-- [PeerJS](https://peerjs.com) - 通过 WebRTC 实现的数据和媒体点对点连接 API.
+- [drachtio](https://drachtio.org) - Node.js SIP server framework.
+- [adapter.js](https://github.com/webrtcHacks/adapter) - JavaScript shim for abstracting WebRTC spec changes and inconsistencies.
+- [JsSIP](http://jssip.net) - Lightweight open source JavaScript SIP library.
+- [sipML5](https://www.doubango.org/sipml5) - Open source JavaScript SIP client with WebRTC media stack.
+- [simple-peer](https://github.com/feross/simple-peer) - WebRTC video, voice, and data channels abstraction for Node.js and the browser.
+- [Netflux](https://github.com/coast-team/netflux) - Isomorphic JavaScript peer to peer transport API for client and server.
+- [PeerJS](https://peerjs.com) - Data and media peer-to-peer connection API implemented over WebRTC.
+- [Socio](https://github.com/Rolands-Laucis/Socio) - A WebSocket Real-Time Communication (RTC) API framework. Realtime Front-end, Back-end reactivity.
 
 ### C/C++ Libraries
 
-- [libre](https://github.com/creytiv/re) - 便携式 SIP 堆栈以及用于媒体处理、STUN/TURN 和模块化用户代理的配套库.
-- [PJSIP](https://www.pjsip.org) - 用 C 编写的多协议 RTC 库.
-- [eXosip](http://savannah.nongnu.org/projects/exosip) - eXtended osip 是一个成熟的C 库，用于抽象SIP 协议.
-- [libdatachannel](https://github.com/paullouisageneau/libdatachannel) - 独立的 WebRTC DataChannels C++ 实现.
-- [libSRTP](https://github.com/cisco/libsrtp) - C 的安全实时传输协议 (SRTP) 库.
-- [usrsctp](https://github.com/sctplab/usrsctp) - 便携式流控制传输协议 (SCTP) 用户态堆栈.
-- [rawrtc](https://github.com/rawrtc/rawrtc) - 占用空间小的 WebRTC 和 ORTC 库.
-- [OSS Core](https://github.com/joegen/oss_core) - 用于实时通信的通用 C++ 库.
-- [Open WebRTC Toolkit](https://01.org/open-webrtc-toolkit) - 具有多个平台绑定的 WebRTC 开发工具包.
-- [Sofia-SIP](https://github.com/freeswitch/sofia-sip) - FreeSWITCH 使用的开源 SIP 库.
+- [libre](https://github.com/creytiv/re) - Portable SIP Stack along with companion libraries for media handling, STUN/TURN and a modular user agent.
+- [PJSIP](https://www.pjsip.org) - Multi-protocol RTC library written in C.
+- [eXosip](http://savannah.nongnu.org/projects/exosip) - eXtended osip is a mature C library for abstracting the SIP protocol.
+- [libdatachannel](https://github.com/paullouisageneau/libdatachannel) - Standalone WebRTC DataChannels C++ implementation.
+- [libSRTP](https://github.com/cisco/libsrtp) - Secure Real-time Transport Protocol (SRTP) library for C.
+- [usrsctp](https://github.com/sctplab/usrsctp) - Portable Stream Control Transmission Protocol (SCTP) user-land stack.
+- [rawrtc](https://github.com/rawrtc/rawrtc) - WebRTC and ORTC library with a small footprint.
+- [OSS Core](https://github.com/joegen/oss_core) - General purpose C++ library for Real Time Communications.
+- [Open WebRTC Toolkit](https://01.org/open-webrtc-toolkit) - WebRTC development toolkit with bindings for multiple platforms.
+- [Sofia-SIP](https://github.com/freeswitch/sofia-sip) - Open source SIP library used by FreeSWITCH.
 
 ### Go Libraries
 
-- [Pion](https://pion.ly) - 用 Go 编写的用于 WebRTC 的广泛软件堆栈.
-- [gossip](https://github.com/StefanKopieczek/gossip) - 用 Go 编写的有状态用户代理的 SIP 堆栈.
-- [siprocket](https://github.com/marv2097/siprocket) - 快速 SIP 和 SDP 数据包解析器.
-- [go-diameter](https://github.com/fiorix/go-diameter) - 符合 RFC 的 Diameter 协议库.
+- [Pion](https://pion.ly) - Extensive software stack for WebRTC written in Go.
+- [gossip](https://github.com/StefanKopieczek/gossip) - SIP stack for stateful user agents written in Go.
+- [siprocket](https://github.com/marv2097/siprocket) - Fast SIP and SDP packet parser.
+- [go-diameter](https://github.com/fiorix/go-diameter) - RFC compliant Diameter protocol library.
 
 ### PHP Libraries
 
-- [RTCKit/SIP](https://github.com/rtckit/php-sip) - 适用于 PHP 7.4+ 的 RFC 3261 兼容 SIP 解析和呈现库.
+- [RTCKit/SIP](https://github.com/rtckit/php-sip) - RFC 3261 compliant SIP parsing and rendering library for PHP 7.4+.
 
 ### Python Libraries
 
-- [aiortc](https://github.com/aiortc/aiortc) - 使用 asyncio 的 Python 的 WebRTC 和 ORTC 实现.
-- [Katari](https://github.com/hyperioxx/Katari) - SIP 栈应用框架.
-- [peerjs-python](https://github.com/ambianic/peerjs-python) - PeerJS 点对点连接库的 Python 端口.
+- [aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio.
+- [Katari](https://github.com/hyperioxx/Katari) - SIP stack application framework.
+- [peerjs-python](https://github.com/ambianic/peerjs-python) - Python port of the PeerJS peer-to-peer connection library.
 
 ### Erlang Libraries
 
-- [NkSIP](https://github.com/NetComposer/nksip) - 可扩展的 SIP 服务器框架.
-- [ersip](https://github.com/poroh/ersip) - 包含 SIP 应用程序构建块的库.
+- [NkSIP](https://github.com/NetComposer/nksip) - Extendable SIP server framework.
+- [ersip](https://github.com/poroh/ersip) - Library comprising building blocks for SIP applications.
 
 ### Rust Libraries
 
-- [libsip](https://docs.rs/libsip/0.2.4/libsip) - SIP 实施，侧重于软电话客户端.
-- [sipcore](https://github.com/armatusmiles/sipcore) - 用于创建 SIP 应用程序的 Rust 框架.
-- [rtcrs/webrtc](https://github.com/rtcrs/webrtc) - WebRTC 堆栈，支持 SDP、RTP、RTCP 和 SRTP.
+- [libsip](https://docs.rs/libsip/0.2.4/libsip) - SIP implementation, with a focus towards softphone clients.
+- [sipcore](https://github.com/armatusmiles/sipcore) - Rust framework for creating SIP applications.
+- [rtcrs/webrtc](https://github.com/rtcrs/webrtc) - WebRTC stack, supporting SDP, RTP, RTCP and SRTP.
 
 ### Dart Libraries
 
-- [dart-sip-ua](https://github.com/cloudwebrtc/dart-sip-ua) - JsSIP 的 Dart-lang 端口，能够通过 WebSocket 进行 SIP.
+- [dart-sip-ua](https://github.com/cloudwebrtc/dart-sip-ua) - Dart-lang port of JsSIP, capable of SIP over WebSocket.
 
 
 ## Blogs
 
-- [BlogGeekMe](https://bloggeek.me/blog) - Tsahi Levent-Levi 的博客，重点关注 WebRTC.
-- [SIP Adventures](https://andrewjprokop.wordpress.com) - Andrew Prokop 的统一通信博客.
-- [WebRTCHacks](https://webrtchacks.com) - 独立技术人员的 WebRTC 博客.
+- [BlogGeekMe](https://bloggeek.me/blog) - Blog by Tsahi Levent-Levi with a strong focus on WebRTC.
+- [SIP Adventures](https://andrewjprokop.wordpress.com) - Unified communications blog by Andrew Prokop.
+- [WebRTCHacks](https://webrtchacks.com) - WebRTC blog by independent technologists.
 
 
 ## Discussion
 
 - [FreeSWITCH Slack](https://signalwire.community) - Join #freeswitch and #freeswitch-dev for user and developer support.
-- [discuss-webrtc](https://groups.google.com/forum/?fromgroups#!forum/discuss-webrtc) - 面向开发人员的 Google Group，用于 WebRTC 讨论.
+- [discuss-webrtc](https://groups.google.com/forum/?fromgroups#!forum/discuss-webrtc) - Developer oriented Google Group for WebRTC discussions.
 
 
 ## Events
 
-- [ClueCon](http://cluecon.com)  - 在芝加哥举行的电信开发商年会.  FreeSWITCH 的诞生地.
-- [Kamailio World](https://www.kamailioworld.com) - 柏林举办了以 Kamailio 以及 VoIP、WebRTC、IMS、VoLTE 等为重点的年度活动.
-- [AstriCon](https://www.asterisk.org/community/astricon-user-conference) - Asterisk 焦点活动每年在美国举行.
-- [CommCon](https://commcon.xyz) - 在英国举行的年度会议主要关注一般电信，尤其是 WebRTC.
-- [OpenSIPS Summit](https://www.opensips.org/events) - OpenSIPS 社区的聚会场所.
-- [Kranky Geek](https://krankygeek.com) - 旧金山的 AI 和 RTC 活动.
-- [FOSDEM](https://fosdem.org) - 每年在欧洲举办的带有 RTC 组件的软件开发人员免费活动.
-- [JanusCon](https://www.januscon.it) - JanusCon 是 Janus 和 RTC 实施者的现场活动.
-- [TADHack](https://tadhack.com) - 专注于可编程通信的全球黑客马拉松.
+- [ClueCon](http://cluecon.com) - Annual conference held in Chicago for telecommunications developers. Birthplace of FreeSWITCH.
+- [Kamailio World](https://www.kamailioworld.com) - Berlin hosted annual event focused on Kamailio as well as VoIP, WebRTC, IMS, VoLTE and more.
+- [AstriCon](https://www.asterisk.org/community/astricon-user-conference) - Asterisk focus event held every year across the US.
+- [CommCon](https://commcon.xyz) - Annual conference held in the UK focused on telecommunications in general and WebRTC in particular.
+- [OpenSIPS Summit](https://www.opensips.org/events) - Meeting place for the OpenSIPS community.
+- [Kranky Geek](https://krankygeek.com) - AI and RTC event in San Francisco.
+- [FOSDEM](https://fosdem.org) - Free event for software developers, with a RTC component, held every year in Europe.
+- [JanusCon](https://www.januscon.it) - JanusCon is a live event for Janus and RTC implementers.
+- [TADHack](https://tadhack.com) - Global hackathon focused on programmable communications.
 
 
 ## Related Lists
 
-- [Awesome RIPT](https://github.com/rtckit/awesome-ript) - 电话的实时互联网对等.
-- [Awesome RTC Hacking](https://github.com/EnableSecurity/awesome-rtc-hacking) - 实时通信黑客和渗透测试资源.
-- [Awesome 5G](https://github.com/calee0219/awesome-5g) - 5G 框架、库、软件和资源.
-- [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) - 3G/4G/5G 蜂窝安全领域的研究资源.
-- [Awesome Telco](https://github.com/ravens/awesome-telco) - 电信资源和项目.
-- [SIP Resources](https://github.com/miconda/sip-resources) - 由 Kamailio 的首席开发人员策划的有用 SIP 资源.
+- [Awesome RIPT](https://github.com/rtckit/awesome-ript) - Real Time Internet Peering for Telephony.
+- [Awesome RTC Hacking](https://github.com/EnableSecurity/awesome-rtc-hacking) - Real Time Communications hacking and penetration testing resources.
+- [Awesome 5G](https://github.com/calee0219/awesome-5g) - 5G frameworks, libraries, software and resources.
+- [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) - Research resources in the 3G/4G/5G Cellular security space.
+- [Awesome Telco](https://github.com/ravens/awesome-telco) - Telco resources and projects.
+- [SIP Resources](https://github.com/miconda/sip-resources) - Useful SIP resources curated by Kamailio's head developer.
 
 
 ## Contribute
 
-欢迎投稿！ 阅读 [contribution guidelines](https://github.com/rtckit/awesome-rtc/blob/master/CONTRIBUTING.md) 第一的.
+Contributions welcome! Read the [contribution guidelines](https://github.com/rtckit/awesome-rtc/blob/master/CONTRIBUTING.md) first.

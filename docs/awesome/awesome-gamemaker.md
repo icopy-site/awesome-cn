@@ -124,6 +124,7 @@ Custom timers, timelines, and task scheduling.
 - [Catspeak](https://github.com/katsaii/catspeak-lang) - Cross-platform programming language for modding support.
 - [GMBenchmark](https://github.com/DragoniteSpam/GMBenchmark) - A tool to benchmark GML code.
 - [GML-Multiprocessing](https://github.com/tinkerer-red/GML-Multiprocessing) - A proof of concept for multiprocessing.
+- [Figgy](https://github.com/glebtsereteli/Figgy) - Centralized and persistent live configs for seamless game tuning and balancing.
 
 ## Tools
 
@@ -153,6 +154,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Gobo](https://github.com/Pizzaandy/Gobo/) - An opinionated code formatter for GML.
 - [Inspectron](https://github.com/shdwcat/Inspectron) - A fluent API for easily creating GameMaker debug views.
 - [GMPulse](https://topherlicious.itch.io/gmpulse) - A runtime inspector and control panel. 💸
+- [Lookout](https://github.com/glebtsereteli/Lookout) - Helpful debug overlay views.
 
 ## Input Handling
 

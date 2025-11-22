@@ -55,6 +55,20 @@
 		</a>
 		<br>
 		<br>
+		<br>
+		<a href="https://depot.dev?utm_source=github&utm_medium=sindresorhus">
+			<div>
+				<picture>
+					<source width="180" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/depot-logo-dark.svg?sanitize=true">
+					<source width="180" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/depot-logo-light.svg?sanitize=true">
+					<img width="180" src="https://sindresorhus.com/assets/thanks/depot-logo-light.svg" alt="Depot logo">
+				</picture>
+			</div>
+			<b>Fast remote container builds and GitHub Actions runners.</b>
+		</a>
+		<br>
+		<br>
+		<br>
 	</p>
 	<hr>
 	<br>
