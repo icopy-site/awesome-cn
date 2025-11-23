@@ -156,8 +156,8 @@
 - [Robostorm](https://robostorm.io/) - Frenetic online multiplayer mech battle game.
 - [Rollem](https://rollem.io/) - Guide your hamster to the end of the obstacle course in the fastest time.
 - [Simply Prop Hunt](https://simplyprophunt.io) - Fast-paced multiplayer hide-and-seek game with a clever twist.
-- [Simply City](https://simplycity.live) - An open world multiplayer GTA like driving game. 
-- [Simply Up](https://simplyup.io) - Climb to the top of the tower in the shortest time. 
+- [Simply City](https://simplycity.live) - An open world multiplayer GTA like driving game.
+- [Simply Up](https://simplyup.io) - Climb to the top of the tower in the shortest time.
 - [Tank Royale](https://tankroyale.io/) - Cartoony fast-paced top-down multiplayer shooter.
 - [TANX](https://tanx.io) - Online multiplayer tank battle game.
 - [Tribals](https://tribals.io/) - First-person multiplayer survival game.
@@ -238,6 +238,7 @@
 - [Reflct](https://www.reflct.app/) - Curate, manage and deploy 3DGS scenes online.
 - [ScanMeNow](https://www.scanmenow.es/en/galeria.html) - Digital twin platform.
 - [Skyfall-GS](https://skyfall-gs.jayinnn.dev/) - Converts satellite images to explorable 3D urban scenes using the SuperSplat Viewer.
+- [Splattr](https://splattr.app) - Create gaussian splats on the cloud.
 - [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
 - [The Season](https://adnfamily.com/studio/mj/the_season/immersive/index.html) - Real estate visualization of a modern apartment block.
 - [Tum Collegiate Church](https://ovrcast.eu/projects/TumCollegiate/) - Explore a key historical Polish landmark.

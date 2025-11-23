@@ -63,7 +63,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [ada-craft](https://www.adaic.org/resources/add_content/docs/craft/html/contents.htm) - Ada 95: The Craft of Object-Oriented Programming.
 - [ada-cpp-java](https://learn.adacore.com/courses/Ada_For_The_CPP_Java_Developer/index.html) - Ada for the C++ or Java Developer.
 - [spark-guidance](https://www.adacore.com/books/implementation-guidance-spark) - Implementation Guidance for the Adoption of SPARK.
-- [ada-safe-secure](https://www.adacore.com/uploads/technical-papers/SafeSecureAdav2015.pdf) - Safe and Secure Software. An invitation to Ada 2012.
+- [ada-safe-secure](https://www.adacore.com/uploads/books/SafeSecureAdav2015-covered.pdf) - Safe and Secure Software. An invitation to Ada 2012.
 - [ada-95-tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm) - A book going from beginner to advanced concepts in Ada 95, complete with source files.
 
 ### Books
@@ -119,11 +119,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 
 ### Competition
 
-<div align="center">
-	<a href="https://blog.adacore.com/ada-spark-crate-of-the-year-2022-winners-announced">
-		<img width="600px" src="https://raw.githubusercontent.com/AdaCore/Ada-SPARK-Crate-Of-The-Year/master/banner.jpg"/>
-	</a>
-</div>
+- [crate-of-the-year](https://github.com/AdaCore/Ada-SPARK-Crate-Of-The-Year) - Yearly prize for the best Alire crate in three categories: general, SPARK and embedded.
 
 ## Compilers
 
@@ -392,7 +388,6 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [sl3p](https://github.com/jklmnn/sl3p) - Simple Layer 3 Protocol.
 - [smart-pointers](https://github.com/alire-project/smart_pointers) - A package providing a reference-counted access type Smart_Pointer.
 - [hungarian-algorithm](https://github.com/fastrgv/HungarianAlgorithm) - Hungarian Algorithm implementation in Ada.
-- [sal](https://www.stephe-leake.org/ada/sal.html) - Stephe's Ada Library, a collection of containers and generics for access, discrete, integer, fixed point types, arrays, etc.
 - [nb-ada](https://github.com/andgi/NBAda) - NBAda : An Ada library of lock-free data structures and algorithms.
 - [paraffin](https://sourceforge.net/projects/paraffin/) - A suite of Ada 2012 generics to facilitate iterative and recursive parallelism for multicore systems.
 - [deepend](https://sourceforge.net/projects/deepend/) - Storage pool with subpool capabilities for Ada 2012, Ada 2005, and Ada 95.
@@ -444,7 +439,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 ### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters
 - [libadalang](https://github.com/AdaCore/libadalang/) - Library for parsing and semantic analysis of Ada code. It is meant as a building block for integration into other tools (IDE, static analyzers, etc).
 - [aflex-ayacc](https://blog.vacs.fr/vacs/blogs/post.html?post=2021/12/18/Aflex-1.5-and-Ayacc-1.3.0) - Ada scanner and parser generators.
-- [wisitoken](https://stephe-leake.org/ada/wisitoken.html) - An LALR, LR1, and Packrat parser generator and run-time.
+- [wisitoken](https://elpa.gnu.org/packages/wisi.html) - An LALR, LR1, and Packrat parser generator and run-time.
 - [gela](https://github.com/reznikmm/gela) - Ada code analyzer.
 - [anagram](https://github.com/reznikmm/anagram) - Grammar handling and parser generation Ada library.
 - [ada-pretty](https://github.com/reznikmm/ada-pretty) - Pretty printing library for Ada.
