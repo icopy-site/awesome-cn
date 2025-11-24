@@ -121,6 +121,7 @@ Made with Electron.
 - [Ostara](https://github.com/krud-dev/ostara) - Monitor and interact with Spring Boot apps via Actuator.
 - [PikaTorrent](https://github.com/G-Ray/pikatorrent) - BitTorrent client.
 - [Wave Terminal](https://github.com/wavetermdev/waveterm) - Open-source terminal with AI integration.
+- [Signal Desktop](https://github.com/signalapp/Signal-Desktop) - Companion desktop app for Signal mobile app.
 
 ### Closed Source
 
@@ -171,6 +172,7 @@ Made with Electron.
 - [Lotus](https://getlotus.app) - Keep up with GitHub notifications without stress.
 - [RunJS](https://runjs.app) - Playground for JavaScript and TypeScript.
 - [OpenSFTP](https://opensftp.com) - Integrated SSH and SFTP workspace client.
+- [Obsidian](https://obsidian.md) - Extensible Markdown note taking and knowledge management.
 
 ### Samples
 
