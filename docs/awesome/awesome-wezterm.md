@@ -39,6 +39,7 @@ To enhance your WezTerm configuration experience:
 ## Panes
 
 - [ChrisGVE/pivot_panes.wezterm](https://github.com/ChrisGVE/pivot_panes.wezterm) - Toggle pane orientation between horizontal and vertical splits.
+- [bad-noodles/stack.wez](https://github.com/bad-noodles/stack.wez) - Stacked pane mode, work with multiple panes but see only one at a time.
 
 ## Session
 

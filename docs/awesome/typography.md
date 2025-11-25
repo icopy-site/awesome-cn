@@ -1,8 +1,8 @@
 <div class="github-widget" data-repo="deanhume/typography"></div>
-## Awesome Web Typography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  [![Build Status](https://api.travis-ci.org/deanhume/typography.svg?branch=master)](https://travis-ci.org/deanhume/typography)
+## Awesome Web Typography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-精彩的网络排版文章精选集.
+A curated collection of awesome web typography articles.
 
 ## Articles
 
@@ -38,7 +38,8 @@
 - [Typography for User Interfaces](https://viljamis.com/2016/typography-for-user-interfaces/)
 - [Loading Web Fonts Asynchronously](https://calendar.perfplanet.com/2016/loading-web-fonts-asynchronously/)
 - [Font-size: An Unexpectedly Complex CSS Property](https://manishearth.github.io/blog/2017/08/10/font-size-an-unexpectedly-complex-css-property/)
- -[93 most popular premium fonts alternative google fonts](https://designtheway.com/most-used-fonts-alternative-google-fonts/)
+- [93 most popular premium fonts alternative google fonts](https://designtheway.com/most-used-fonts-alternative-google-fonts/)
+- [Font Aliasing, or How to Rename a Font in CSS](https://www.zachleat.com/web/rename-font/)
 
 ## Web Fonts & Web Performance
 - [Controlling Font Performance with font-display](https://developers.google.com/web/updates/2016/02/font-display)
@@ -52,6 +53,11 @@
 - [Web Font Loading Patterns](http://bramstein.com/writing/web-font-loading-patterns.html)
 - [Performance and Web Typography - Video](https://www.youtube.com/watch?v=emLfXChvVPQ)
 - [Tips for balancing web fonts & page load](https://frontendnews.io/editions/2018-07-25-tips-for-loading-web-fonts)
+- [Loading Web Fonts Asynchronously](http://calendar.perfplanet.com/2016/loading-web-fonts-asynchronously/)
+- [Font Aliasing, or How to Rename a Font in CSS](https://www.zachleat.com/web/rename-font/)
+- [A Collection of Web Font Loading Recipes](https://www.zachleat.com/web/recipes/)
+- [No @font-face Syntax will ever be Bulletproof, Nor Should It Be](http://calendar.perfplanet.com/2016/no-font-face-bulletproof-syntax/)
+- [Performance and Web Typography](https://www.youtube.com/watch?v=emLfXChvVPQ)
 
 ## Tools
 - [The State of Web Type - Up-to-date data on support for type and typographic features on the web](http://stateofwebtype.com/)
@@ -67,6 +73,10 @@
 - [Typebase.css](http://devinhunt.github.io/typebase.css/)
 - [Google WebFonts Helper](https://google-webfonts-helper.herokuapp.com/fonts/aguafina-script?subsets=latin)
 - [Using Custom Fonts in Emails](https://github.com/ladjs/custom-fonts-in-emails)
+- [Typographist — Modular scale calculator API with config validation](https://github.com/typographist)
+- [Font Face Observer is a fast and simple web font loader](https://fontfaceobserver.com/)
+- [MixFont A Modern Font Generator](https://www.mixfont.com/)
+- [How to use custom fonts in emails](https://github.com/forwardemail/custom-fonts-in-emails)
 
 ## Books
 - [On Web Typography](https://abookapart.com/products/on-web-typography)
@@ -93,7 +103,7 @@
 - [Video Screencast - Font Loading with Zach Leatherman](https://css-tricks.com/video-screencasts/152-font-loading-zach-leatherman/)
 
 ## Featured
-- 这 [site](https://deanhume.github.io/typography/) 被刊登在 [Device Wall](https://twitter.com/gauntface/status/604029887414829057/photo/1) 在 2015 年谷歌 I/O 大会上.
+- This [site](https://deanhume.github.io/typography/) was featured on the [Device Wall](https://twitter.com/gauntface/status/604029887414829057/photo/1) at Google I/O 2015.
 
 ![Google I/O Device Wall](https://raw.githubusercontent.com/deanhume/typography/master/images/device-wall-small.jpg)
 
