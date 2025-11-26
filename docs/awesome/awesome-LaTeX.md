@@ -156,6 +156,7 @@ Compiling LaTeX documents can be tedious, build tools help you to manage the com
 - [Laeqed](https://www.thrysoee.dk/laeqed/) - Crossplatform LaTeX formula to PNG convertor. ![windows] ![linux] ![mac] ![foss]
 - [LaTeXEqEdit](http://latexeqedit.sourceforge.net/) - LaTeX formula editor for Windows. ![windows] ![foss]
 - [LaTeXiT](https://www.chachatelier.fr/latexit/) - LaTeXit is an equation editor that makes it easy to drag-and-drop rendered equations (as PDF, PNG, etc.) into your non-LaTeX documents on the Mac. ![mac]
+- [LaTeX to Image](https://thomasahle.com/latex2png/) - Convert LaTeX to PNG, JPEG, or SVG images. Big symbols menu and easy drag-and-drop equations.
 - [pix2tex](https://lukas-blecher.github.io/LaTeX-OCR/) - LaTeX OCR ![windows] ![linux] ![mac] ![foss]
 
 ## LaTeX-compatible GUI tools

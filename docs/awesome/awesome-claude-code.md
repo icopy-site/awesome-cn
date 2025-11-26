@@ -52,6 +52,17 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
+[`Agentic Workflow Patterns`](https://github.com/ThibautMelen/agentic-workflow-patterns) &nbsp; by &nbsp; [ThibautMelen](https://github.com/ThibautMelen)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A comprehensive and well-documented collection of agentic patterns from Anthropic docs, with colorful Mermaid diagrams and code examples for each pattern. Covers Subagent Orchestration, Progressive Skills, Parallel Tool Calling, Master-Clone Architecture, Wizard Workflows, and more. Also compatible with other providers.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for agentic-workflow-patterns](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=agentic-workflow-patterns&username=ThibautMelen&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`Gen-Alpha Slang`](https://github.com/sjnims/gen-alpha-output-style) &nbsp; by &nbsp; [Steve Nims](https://github.com/sjnims)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 This is really... different. I don't know what to say about this one. It does what it says on the tin. You might find it funny, you might want throw up. I'll just say candidly this is included strictly for its potentially comedic awesomeness.
 
@@ -189,6 +200,17 @@ A principled, spec-driven workflow that transforms large problems into focused, 
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for ab-method](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ab-method&username=ayoubben18&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`Agentic Workflow Patterns`](https://github.com/ThibautMelen/agentic-workflow-patterns) &nbsp; by &nbsp; [ThibautMelen](https://github.com/ThibautMelen)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A comprehensive and well-documented collection of agentic patterns from Anthropic docs, with colorful Mermaid diagrams and code examples for each pattern. Covers Subagent Orchestration, Progressive Skills, Parallel Tool Calling, Master-Clone Architecture, Wizard Workflows, and more. Also compatible with other providers.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for agentic-workflow-patterns](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=agentic-workflow-patterns&username=ThibautMelen&all_stats=true&stats_only=true)
 
 </details>
 <br>
@@ -372,7 +394,7 @@ A broader project management workflow for Claude Code that encompasses not just 
 <summary><h3>General <a href="#awesome-claude-code">🔝</a></h3></summary>
 
 [`cc-sessions`](https://github.com/GWUDCAP/cc-sessions) &nbsp; by &nbsp; [toastdev](https://github.com/satoastshi)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-An opinionated approach to produce development with Claude Code
+An opinionated approach to productive development with Claude Code
 
 <details>
 <summary>📊 GitHub Stats</summary>

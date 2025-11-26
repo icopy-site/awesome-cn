@@ -25,6 +25,7 @@ and find new insights about cyber threats.
 data in one single place.
 - [`Source++`](https://github.com/sourceplusplus/Assistant) - Open-source automated programming assistant with runtime-aware and context-aware functionality.
 - [`Rasa`](https://github.com/RasaHQ/rasa) - Open-source machine learning framework to automate text-and voice-based conversations.
+- [`TypeBridge`](https://github.com/ds1sqe/type-bridge) - A modern, Pythonic ORM for TypeDB with an Attribute-based API that aligns with TypeDB's type system.
 
 ## Conferences
 

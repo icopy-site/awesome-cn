@@ -450,6 +450,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [trpc-angular](https://github.com/heddendorp/trpc-angular) - This repository offers two tRPC-based Angular packages: `@heddendorp/trpc-link-angular` for HttpClient, and `@heddendorp/tanstack-angular-query` for reactive data fetching.
 * [my-http-resource](https://github.com/consoleLogMyAss/my-http-resource/tree/main/projects/my-http-resource) - A reactive Angular HttpClient wrapper that streamlines requests by managing state, URL parameters, and configuration.
 * [luminara](https://github.com/miller-28/luminara) - A modern, universal HTTP client built on native fetch, designed for reliable, scalable, and clear architecture.
+* [ngx-cachr](https://github.com/nulzo/ngx-cachr) - A slim, signal-based caching library for Angular.
 
 ### Micro-Frontends
 
@@ -1447,6 +1448,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-mat-errors](https://github.com/Totati/ngx-mat-errors) - Offers a simple and adaptable approach to presenting error messages within a `MatFormField`.
 * [oop-validator](https://github.com/visaruruqi/oop-validator) - Powerful, flexible validation library for any UI framework—Vue, React, Angular, and more—for complete front-end validation.
 * [ngx-cross-field-validation](https://github.com/soc221b/ngx-cross-field-validation) - Angular library providing conditional, equality, inequality, and sequence-based validations on form controls.
+* [validauth](https://github.com/adiksuu/validauth) - Lightweight, powerful authentication validators for JavaScript applications.
 
 ### Icons
 
@@ -1919,6 +1921,7 @@ for the creation of web applications developed with Angular.
 * [Galaxy UI](https://github.com/buikevin/galaxy-design) - Universal Component Library that brings beautiful, accessible components to Angular.
 * [koala-ui](https://github.com/igordrangel/koala-ui) - A modern and accessible component library designed to speed up interface development.
 * [Metronic](https://keenthemes.com/metronic/tailwind/docs/getting-started/integration/angular) - Comprehensive Tailwind CSS UI toolkit for building modern, scalable web applications efficiently.
+* [ngx-lite-suite](https://github.com/michaelsch72/ngx-lite-suite) - Angular UI library with a "Lite Suite" design system of glassmorphism, gradients, and fluid animations.
 * [ngx-tw](https://github.com/bugMaker-237/ngx-tw) - A comprehensive component library built with Tailwind CSS, providing a modern and customizable set of UI components for Angular applications.
 * [nicacoder-ng](https://ng.nicacoder.com/) - Centralized Angular library of customizable components to accelerate development and ensure project consistency.
 * [Preline UI](https://preline.co/docs/frameworks-angular.html#docs-on-this-page-sidebar) - [Preline](https://github.com/htmlstreamofficial/preline) is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.

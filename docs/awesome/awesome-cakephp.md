@@ -21,6 +21,11 @@ Additional lists you might find useful:
 
 ## Plugins
 
+## AI Tools
+*Plugins and libraries for integrating artificial intelligence and machine learning tools.*
+
+- [Synapse plugin](https://github.com/josbeir/cakephp-synapse) - Expose your application functionality via MCP, with built-in tools and documentation search to help you discover and interact with your app's capabilities.
+
 ## Architecture
 
 - [Burzum/CakeServiceLayer plugin](https://github.com/burzum/cakephp-service-layer) - Service layer and domain/business model implementation.
