@@ -9,6 +9,12 @@ A curated list of awesome tools, extensions, and resources for [Gemini CLI](http
 > :tada: We'll create a new release highlighting **new entries** each week. :star2: Star this repository to receive **release notifications :bell:** for the new entries in your GitHub dashboard!
 -->
 
+
+
+## :tada: New
+
+- [IssueDB](https://issue-queue.readthedocs.io/en/latest/llm_agents.html) - LLM frendly command-line issue tracking system for software development projects, with built-in interface, context support and prompt providers for Gemini CLI and others.
+
 > [!tip]
 > **Track your local Gemini CLI usage with [Splitrail](https://github.com/Piebald-AI/splitrail).**
 
@@ -49,6 +55,7 @@ Playful and creative tools inspired by or that add personality to Gemini CLI.
 
 Tools that enhance your development workflow when using Gemini CLI.
 
+- [IssueDB](https://issue-queue.readthedocs.io/en/latest/llm_agents.html) - LLM frendly command-line issue tracking system for software development projects, with built-in interface, context support and prompt providers for Gemini CLI and others.
 - [Docker Gemini CLI](https://github.com/tgagor/docker-gemini-cli) - Gemini CLI wrapped as a Docker image, so you don't need to trash your OS with Node and its dependencies.
 - [Rulesync](https://github.com/dyoshikawa/rulesync) - The Node.js CLI tool that automatically generates configs (rules, ignore files, MCP servers, commands, and subagents) for various AI coding agents. Rulesync can convert configs between Gemini CLI and other AI agents in both directions.
 - [Nix AI Tools](https://github.com/numtide/nix-ai-tools) - Seamless Nix integration for reproducible Gemini CLI installations. Ensures consistent environments across teams and simplifies deployment with declarative configuration.

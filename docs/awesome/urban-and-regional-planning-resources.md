@@ -505,7 +505,7 @@ Websites and news resources for urban planning, the built environment, or commun
 
 ### Podcasts
 Podcasts touching on the built environment or communities.
-- [Talking Headways](https://streetsblog.libsyn.com/) - The Talking Headways podcast is a weekly podcast about transportation and urban design.
+- [Talking Headways](https://streetsblog.libsyn.com/) - This podcast is a weekly podcast about sustainable transportation and urban design.
 - [99% Invisible](https://99percentinvisible.org/) - A sound-rich, narrative podcast about all the thought that goes into the things we don't think about — the unnoticed architecture and design that shape our world.
 - [APA Podcast](https://www.planning.org/podcast/) - American Planning Association's podcast with interviews and discussions on planning topics going back to 2010.
 - [Strong Towns Podcast](https://www.strongtowns.org/podcast) - The podcast explores how we can financially strengthen our cities, towns, and neighborhoods and, in the process, make them better places to live.

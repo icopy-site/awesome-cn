@@ -22,6 +22,8 @@ A curated list of code and resources for computer-controlled drawing machines an
 - [PlotterXY](https://github.com/jamescarruthers/PlotterXY) - A coreXY plotter made from extrusion, 3d-printed parts, and an inexpensive 3d-printer control board.
 - [NextDraw](https://store.bantamtools.com/collections/bantam-tools-nextdraw) - The [Bantam Tools](https://www.bantamtools.com) successor to the popular AxiDraw pen plotter.
 - [Lego-Pen-Plotter](https://github.com/Jormono1/Lego-Pen-Plotter) - Pen plotter built entirely of LEGO and programmed with PyBricks and Python.
+- [Reviving the Apple 410 Color Plotter](https://www.nycresistor.com/2017/12/13/reviving-the-apple-410-color-plotter/)
+- [Apple-410](https://github.com/phooky/Apple-410) - Apple 410 Color Plotter documentation, drivers, and ROM dumps.
 
 ### Motor Controllers
 
@@ -36,6 +38,8 @@ A curated list of code and resources for computer-controlled drawing machines an
 - [WiFi232](http://biosrhythm.com/?page_id=1453) - Wifi to RS-232 serial via a DB25 plug. Control your serial plotter wirelessly.
 - [Plotter Cable Pinout](http://sites.music.columbia.edu/cmc/chiplotle/plotter_cable.pdf) - Schematic for a plotter cable that will work for most HP and Roland plotters. Search eBay or Amazon for `DB9 to DB25 Serial Null Modem Cable` or similar to find them for sale.
 - [PlotAdapter](https://github.com/rhalkyard/plotadapter) - "Serial-GPIB converter for HP Plotters", uses an Arduino microcontroller to convert serial HPGL to the GPIB/HP-IB expected by some older HP plotters.
+- [Replacement Pen Carousel Turret Carriage Holder for HP 7475A Plotter](https://obsoletetech.us/products/replacement-pen-carousel-turret-carriage-holder-for-hp-7475a-plotter) - 3d printed replacement part.
+- [Replacement Geneva Drive Wheel Gear for HP 7475A Plotter Pen Carousel](https://obsoletetech.us/products/replacement-geneva-drive-wheel-gear-for-hp-7475a-plotter-pen-carousel) - 3d printed replacement for a commonly-busted part.
 
 ### Pens
 
@@ -167,6 +171,7 @@ Single-line vector fonts or "engraving fonts".
 - [CNC Text Tool](https://msurguy.github.io/cnc-text-tool/) - Browser-based Hershey Text tool with export to SVG.
 - [hf2gcode](https://github.com/Andy1978/hf2gcode) - Generates G-code from text with a Hershey font.
 - [FifteenTwenty: Commodore 1520 plotter font](https://github.com/scruss/FifteenTwenty) - [Blog post](https://scruss.com/blog/2016/04/23/fifteentwenty-commodore-1520-plotter-font/) about the creation of this font from the original ROM.
+- [Pulling Teeth From a Corpse: Extracting the Vector Font From the Apple 410 Color Plotter](https://www.nycresistor.com/2017/12/29/pulling-teeth-from-a-corpse-extracting-the-vector-font-from-the-apple-410-color-plotter/)
 
 ## Inspiration, Instruction, and Research
 

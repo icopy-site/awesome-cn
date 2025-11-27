@@ -39,6 +39,7 @@ A collection of awesome things regarding the React ecosystem.
 - [ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [material-ui](https://github.com/mui/material-ui) - Ready-to-use foundational React components
 - [chakra-ui](https://github.com/chakra-ui/chakra-ui) - Component system for building SaaS products with speed
+- [react-bits](https://github.com/DavidHDev/react-bits) - A collection of animated, interactive & fully customizable React components
 - [mantine](https://github.com/mantinedev/mantine) - Fully featured React components library
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 - [fluentui](https://github.com/microsoft/fluentui) - Microsoft's Fluent UI
@@ -108,6 +109,7 @@ A collection of awesome things regarding the React ecosystem.
 - [react-archer](https://github.com/pierpo/react-archer) - Draw arrows between React elements
 - [react-complex-tree](https://github.com/lukasbach/react-complex-tree) - Unopinionated Accessible Tree
 - [react-insta-stories](https://github.com/mohitk05/react-insta-stories) - A React component for Instagram like stories
+- [react-hot-toast](https://github.com/timolins/react-hot-toast) - Lightweight and customizable toast notifications for React
 - [swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider
 - [keen-slider](https://github.com/rcbyr/keen-slider) - The Touch slider carousel
 - [heart-switch](https://github.com/anatoliygatt/heart-switch) - A heart-shaped toggle switch component for React
