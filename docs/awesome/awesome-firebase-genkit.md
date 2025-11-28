@@ -98,7 +98,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    - [`firestore`](https://genkit.dev/python/docs/reference/plugins/firestore/) - The Firestore plugin provides interfaces to the Firestore vector store.
    - [`dev_local_vectorstore`](https://genkit.dev/python/docs/reference/plugins/dev-local-vectorstore/) - Plugin for Local Vector Store for development purposes.
 3. Other Plugins:
-   - [`flask`](https://genkit.dev/python/docs/flask/) - Flask plugin for building web applications with Genkit.
+   - [`server flask`](https://genkit.dev/python/docs/flask/) - Flask plugin for building web applications with Genkit.
 
 ### Golang - Official
 
@@ -135,9 +135,13 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 2. [Python](https://python.api.genkit.dev/) - Specs for the Python API.
 3. [Golang](https://pkg.go.dev/github.com/firebase/genkit/go) - Specs for the Golang API.
 
+## Books
+1. [Mastering Genkit: Go Edition](https://mastering-genkit.github.io/mastering-genkit-go/) - Build Production-Ready AI Applications with Go and Genkit.
+
 ## Solutions
 
 - [`internal AI`](https://github.com/tanabee/internal-ai) - An open-source Genkit-based internal AI chat application.
+- [`Perplexity CLI`](https://github.com/xavidop/perplexity-cli) - A command-line interface (CLI) tool that leverages Genkit to provide AI-powered answers to user queries by utilizing web search results from Tavily AI simulating how Perplexity works.
 
 ## Talks
 
