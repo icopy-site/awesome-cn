@@ -80,7 +80,6 @@
 - [omarchy-nagai-twilight-theme](https://github.com/somerocketeer/omarchy-nagai-twilight-theme) - Twilight-inspired theme with elegant color transitions.
 - [omarchy-one-dark-pro-theme](https://github.com/sc0ttman/omarchy-one-dark-pro) - One Dark Pro color scheme adaptation.
 - [omarchy-osaka-jade-theme](https://github.com/Justikun/omarchy-osaka-jade-theme) - Elegant jade-colored theme inspired by Osaka aesthetics.
-- [omarchy-pretty-cvnt-theme](https://github.com/WalkerMillgress/omarchy-pretty-cvnt-theme) - Vibrant theme with bold color contrasts.
 - [omarchy-purplewave-theme](https://github.com/dotsilva/omarchy-purplewave-theme) - Purple wave-inspired theme with elegant purple tones.
 - [omarchy-retropc-theme](https://github.com/rondilley/omarchy-retropc-theme) - Nostalgic retro PC theme with vintage computing aesthetics.
 - [omarchy-retro-fallout-theme](https://github.com/zdravkodanailov7/omarchy-retro-fallout-theme) - Post-apocalyptic theme with Vault-inspired colors and Fallout-themed styling.
