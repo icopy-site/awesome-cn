@@ -55,7 +55,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [aiopg](https://github.com/aio-libs/aiopg/) - Library for accessing a PostgreSQL database.
 * [aiomysql](https://github.com/aio-libs/aiomysql) - Library for accessing a MySQL database
 * [aioodbc](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
-* [motor](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
+* [pymongo](https://github.com/mongodb/mongo-python-driver) - The Official MongoDB Python driver, offering both synchronous and asynchronous APIs.
 * [redis-py](https://github.com/redis/redis-py) - Redis Python Client (which includes [aioreadis](https://github.com/aio-libs/aioredis) now).
 * [aiocouchdb](https://github.com/aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (asyncio).
 * [aioinflux](https://github.com/plugaai/aioinflux) - InfluxDB client built on top of aiohttp.
@@ -66,7 +66,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [Databases](https://github.com/encode/databases) - Async database access for SQLAlchemy core, with support for PostgreSQL, MySQL, and SQLite.
 * [Prisma Client Python](https://github.com/RobertCraigie/prisma-client-py) - An auto-generated, fully type safe ORM powered by Pydantic and tailored specifically for your schema - supports SQLite, PostgreSQL, MySQL, MongoDB, MariaDB and more.
 * [Piccolo](https://github.com/piccolo-orm/piccolo) - An ORM / query builder which can work in async and sync modes, with a nice admin GUI, and ASGI middleware.
-* [Beanie](https://beanie-odm.dev) - An async MongoDB ODM built on [motor](https://github.com/mongodb/motor) and [Pydantic](https://pydantic-docs.helpmanual.io).
+* [Beanie](https://beanie-odm.dev) - An async MongoDB ODM built on [pymongo](https://github.com/mongodb/mongo-python-driver) and [Pydantic](https://pydantic-docs.helpmanual.io).
 
 ## Networking
 
@@ -126,7 +126,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 *Documentation, blog posts, and other awesome writing about asyncio.*
 
 * [Official asyncio documentation](https://docs.python.org/3/library/asyncio.html) - Asynchronous I/O, event loop, coroutines and tasks.
-* [Short well-written intro to asyncio](http://masnun.com/2015/11/13/python-generators-coroutines-native-coroutines-and-async-await.html) - Generators, Coroutines, Native Coroutines and async/await.
+* [Short well-written intro to asyncio](https://masnun.com/python-generators-coroutines-native-coroutines-and-async-await/) - Generators, Coroutines, Native Coroutines and async/await.
 * [AsyncIO for the Working Python Developer](https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e) - A gentle introduction to asynchronous programming from basic examples working up to URL fetching.
 * [Test limits of Python aiohttp](https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html) - Making 1 million requests with python-aiohttp.
 * [ASGI (Asynchronous Server Gateway Interface)](https://asgi.readthedocs.io/en/latest/) - A spiritual successor to WSGI, intended to provide a standard interface between async-capable Python web servers, frameworks, and applications.

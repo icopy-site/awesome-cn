@@ -5,7 +5,6 @@ SPDX-FileCopyrightText: 2024 awesome-computercraft contributors
 
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
-<!--lint enable double-link-->
 <!--lint ignore-->
 
 ## Awesome ComputerCraft [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -33,7 +32,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 
 ## Mods
 ### ComputerCraft mods
-
+<!--lint disable double-link-->
 - [ComputerCraft: Tweaked](https://computercraft.cc) -  A fork of the original ComputerCraft for modern versions of Minecraft.
 - [ComputerCraft: Restitched](https://www.curseforge.com/minecraft/mc-mods/cc-restitched) -  A set of patches for CC:T that allow running it on Fabric. 
 - [ComputerCraft](https://computercraft.info) -  A mod which adds computers to allow execution of Lua programs. 

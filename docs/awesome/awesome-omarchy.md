@@ -24,7 +24,6 @@
 - [omarchy-nix](https://github.com/henrysipp/omarchy-nix) - NixOS version of Omarchy with declarative configuration.
 - [omarchy-on-cachyos](https://github.com/mroboff/omarchy-on-cachyos) - Installation script for Omarchy on top of CachyOS.
 - [omarchy-titus](https://github.com/ChrisTitusTech/omarchy-titus) - Chris Titus Tech's customized version of Omarchy.
-- [pomarchy](https://github.com/pgagnidze/pomarchy) - Opinionated Omarchy setup with additional customizations.
 - [typecraft-dev/omarchy-supplement](https://github.com/typecraft-dev/omarchy-supplement) - Additional packages, dotfiles, and overrides to be used after installing Omarchy.
 - [harilvfs/omarchy](https://github.com/harilvfs/omarchy) - Opinionated Arch/Hyprland Setup.
 - [omarchy-hub](https://github.com/deepakness/omarchy-hub) - A comprehensive resource library for Omarchy Linux.
