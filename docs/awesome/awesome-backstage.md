@@ -69,7 +69,7 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 - [Kubernetes](https://github.com/backstage/backstage/blob/master/contrib/kubernetes/) - Deploy Backstage on Kubernetes.
 - [Backstage Helm Chart](https://github.com/backstage/charts) - Helm chart for deploying Backstage on Kubernetes.
 - [Backstage ArgoCD Integration](https://roadie.io/backstage/plugins/argo-cd/) - Present ArgoCD's GitOps workflows in Backstage.
-- [Kratix with Backstage](https://docs.kratix.io/main/how-kratix-complements/backstage) - Integrate Kratix Platform Engineering Framework with Backstage to easily deploy promises.
+- [Kratix with Backstage](https://docs.kratix.io/main/learn-more/how-kratix-complements/backstage) - Integrate Kratix Platform Engineering Framework with Backstage to easily deploy promises.
 - [Crossplane with Backstage](https://www.youtube.com/watch?v=d2L6PWGfhXI) - Guide on integrating Crossplane with Backstage.
 
 ## Community and Contributions
@@ -77,15 +77,15 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 - [Backstage Community](https://github.com/backstage/community) - Join the Backstage community to ask questions and share your knowledge.
 - [Good First Issues](https://github.com/backstage/backstage/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) - Contribute to the project by tackling "Good First Issues" on GitHub.
 - [Discord](https://discord.com/invite/MUpMjP2) - Join the Backstage Discord server to connect with other developers and get live support.
-- [Roadie Marketplace Digest](https://roadie.io/changelog/) - Track newly released community plugins and Backstage enhancements each week.
 
 ## Articles and Presentations
 
 - [Introduction to Backstage](https://www.youtube.com/watch?v=1XtJ5FAOjPk) - A video introduction to Backstage by Spotify.
 - [Creating a Plugin for Backstage](https://www.youtube.com/watch?v=lLLw3tcBwWw) - Learn how to create a plugin for Backstage.
 - [How Spotify Builds Infrastructure with Backstage](https://engineering.atspotify.com/2020/03/17/what-the-heck-is-backstage-anyway/) - A blog post by Spotify on their experience with Backstage.
-- [Backstage v1.24.0 Release Notes](https://github.com/backstage/backstage/releases/tag/v1.24.0) - Overview of the Granular Permissions v2 rollout and policy-as-code updates.
-- [Software Catalog Next RFC](https://github.com/backstage/backstage/discussions?discussions_q=label%3A%22RFC%22+software+catalog) - Follow the catalog relationship remapping proposal and community feedback.
+- [Backstage v1.45.2 Release Notes](https://github.com/backstage/backstage/releases/tag/v1.45.2) - Latest release with iterative backend system refinements and security patches.
+- [BackstageCon + KubeCon NA 2025 Highlights](https://backstage.io/blog/2025/11/25/backstagecon-kubecon-25-atlanta) - Recap of recent platform updates and community demos from Atlanta.
+- [RFCs on GitHub](https://github.com/backstage/backstage/labels/RFC) - Track active proposals and community feedback.
 
 ## Related Projects
 
