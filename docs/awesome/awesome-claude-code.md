@@ -52,6 +52,39 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
+[`Britfix`](https://github.com/Talieisin/britfix) &nbsp; by &nbsp; [Talieisin](https://github.com/Talieisin)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Claude outputs American spellings by default, which can have an impact on: professional credibility, compliance, documentation, and more. Britfix converts to British English, with a Claude Code hook for automatic conversion as files are written. Context-aware: handles code files intelligently by only converting comments and docstrings, never identifiers or string literals.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for britfix](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=britfix&username=Talieisin&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`recall`](https://github.com/zippoxer/recall) &nbsp; by &nbsp; [zippoxer](https://github.com/zippoxer)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Full-text search your Claude Code sessions. Run `recall` in terminal, type to search, Enter to resume. Alternative to `claude --resume`.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for recall](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=recall&username=zippoxer&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`learn-faster-kit`](https://github.com/cheukyin175/learn-faster-kit) &nbsp; by &nbsp; [Hugo Lau](https://github.com/cheukyin175)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A creative educational framework for Claude Code, inspired by the "FASTER" approach to self-teaching. Ships with a variety of agents, slash commands, and tools that enable Claude Code to help you progress at your own pace, employing well-established pedagogical techniques like active learning and spaced repetition.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for learn-faster-kit](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=learn-faster-kit&username=cheukyin175&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`Agentic Workflow Patterns`](https://github.com/ThibautMelen/agentic-workflow-patterns) &nbsp; by &nbsp; [ThibautMelen](https://github.com/ThibautMelen)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A comprehensive and well-documented collection of agentic patterns from Anthropic docs, with colorful Mermaid diagrams and code examples for each pattern. Covers Subagent Orchestration, Progressive Skills, Parallel Tool Calling, Master-Clone Architecture, Wizard Workflows, and more. Also compatible with other providers.
 
@@ -59,28 +92,6 @@ A comprehensive and well-documented collection of agentic patterns from Anthropi
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for agentic-workflow-patterns](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=agentic-workflow-patterns&username=ThibautMelen&all_stats=true&stats_only=true)
-
-</details>
-<br>
-
-[`Gen-Alpha Slang`](https://github.com/sjnims/gen-alpha-output-style) &nbsp; by &nbsp; [Steve Nims](https://github.com/sjnims)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-This is really... different. I don't know what to say about this one. It does what it says on the tin. You might find it funny, you might want throw up. I'll just say candidly this is included strictly for its potentially comedic awesomeness.
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![GitHub Stats for gen-alpha-output-style](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=gen-alpha-output-style&username=sjnims&all_stats=true&stats_only=true)
-
-</details>
-<br>
-
-[`Awesome Claude Code Output Styles (That I Really Like)`](https://github.com/hesreallyhim/awesome-claude-code-output-styles-that-i-really-like) &nbsp; by &nbsp; [Really Him](https://github.com/hesreallyhim/)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
-A fun and moderately amusing collection of experimental output styles.
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-![GitHub Stats for awesome-claude-code-output-styles-that-i-really-like](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=awesome-claude-code-output-styles-that-i-really-like&username=hesreallyhim&all_stats=true&stats_only=true)
 
 </details>
 <br>
@@ -314,6 +325,17 @@ Transform your Laravel TALL (Tailwind, AlpineJS, Laravel, Livewire) stack develo
 </details>
 <br>
 
+[`learn-faster-kit`](https://github.com/cheukyin175/learn-faster-kit) &nbsp; by &nbsp; [Hugo Lau](https://github.com/cheukyin175)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A creative educational framework for Claude Code, inspired by the "FASTER" approach to self-teaching. Ships with a variety of agents, slash commands, and tools that enable Claude Code to help you progress at your own pace, employing well-established pedagogical techniques like active learning and spaced repetition.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for learn-faster-kit](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=learn-faster-kit&username=cheukyin175&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`n8n_agent`](https://github.com/kingler/n8n_agent/tree/main/.claude/commands) &nbsp; by &nbsp; [kingler](https://github.com/kingler)    
 Amazing comprehensive set of comments for code analysis, QA, design, documentation, project structure, project management, optimization, and many more.
 
@@ -521,6 +543,17 @@ A systematic development framework that transforms Claude Code into a proactive 
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for ContextKit](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ContextKit&username=FlineDev&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`recall`](https://github.com/zippoxer/recall) &nbsp; by &nbsp; [zippoxer](https://github.com/zippoxer)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Full-text search your Claude Code sessions. Run `recall` in terminal, type to search, Enter to resume. Alternative to `claude --resume`.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for recall](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=recall&username=zippoxer&all_stats=true&stats_only=true)
 
 </details>
 <br>
@@ -870,6 +903,17 @@ High-performance Rust-based statusline for Claude Code with persistent stats tra
 
 <details open>
 <summary><h3>General <a href="#awesome-claude-code">🔝</a></h3></summary>
+
+[`Britfix`](https://github.com/Talieisin/britfix) &nbsp; by &nbsp; [Talieisin](https://github.com/Talieisin)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Claude outputs American spellings by default, which can have an impact on: professional credibility, compliance, documentation, and more. Britfix converts to British English, with a Claude Code hook for automatic conversion as files are written. Context-aware: handles code files intelligently by only converting comments and docstrings, never identifiers or string literals.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for britfix](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=britfix&username=Talieisin&all_stats=true&stats_only=true)
+
+</details>
+<br>
 
 [`CC Notify`](https://github.com/dazuiba/CCNotify) &nbsp; by &nbsp; [dazuiba](https://github.com/dazuiba)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 CCNotify provides desktop notifications for Claude Code, alerting you to input needs or task completion, with one-click jumps back to VS Code and task duration display.

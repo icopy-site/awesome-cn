@@ -121,6 +121,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 
 1. Model / Embedding Plugins
    - [`bedrock`](https://pkg.go.dev/github.com/xavidop/genkit-aws-bedrock-go) - Plugin for AWS Bedrock APIs.
+   - [`azureaifoundry`](https://pkg.go.dev/github.com/xavidop/genkit-azure-foundry-go) - Plugin for Azure AI Foundry.
 2. Monitoring Plugin:
    - [`opentelemetry`](https://github.com/xavidop/genkit-opentelemetry-go) - Plugin for OpenTelemetry to monitor Genkit applications.
 
@@ -142,6 +143,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 
 - [`internal AI`](https://github.com/tanabee/internal-ai) - An open-source Genkit-based internal AI chat application.
 - [`Perplexity CLI`](https://github.com/xavidop/perplexity-cli) - A command-line interface (CLI) tool that leverages Genkit to provide AI-powered answers to user queries by utilizing web search results from Tavily AI simulating how Perplexity works.
+- [`GCP Cost MCP Server`](https://github.com/nozomi-koborinai/gcp-cost-mcp-server) - An MCP server built with Genkit for Go that enables AI assistants to estimate Google Cloud costs directly, replacing manual use of the GCP Pricing Calculator.
 
 ## Talks
 

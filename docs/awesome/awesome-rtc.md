@@ -71,6 +71,7 @@
 - [Wazo](https://wazo-platform.org) - VoIP API platform built on top of Asterisk, Kamailio and RTPEngine.
 - [jambonz](https://www.jambonz.org) - Open source CPaaS built for communications service providers.
 - [IVOZ Provider](https://github.com/irontec/ivozprovider) - Multitenant solution for VoIP telephony providers.
+- [Sayna](https://github.com/SaynaAI/sayna) - Real-time speech infrastructure for voice AI with WebSocket streaming, SIP telephony and pluggable STT/TTS providers.
 
 ### Billing
 

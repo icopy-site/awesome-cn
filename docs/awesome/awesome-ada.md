@@ -67,6 +67,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [ada-95-tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm) - A book going from beginner to advanced concepts in Ada 95, complete with source files.
 
 ### Books
+<img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97810095/64779/cover/9781009564779.jpg">[Programming in Ada 2022](https://www.cambridge.org/core/books/programming-in-ada-2022/144FA52E3F0C1F260CBF9DECD10A68C9) - Comprehensive.  
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97810091/81341/cover/9781009181341.jpg">[Programming in Ada 2012 with a Preview of Ada 2022 (2nd ed.)](https://www.cambridge.org/core/books/programming-in-ada-2012-with-a-preview-of-ada-2022/AD30275F35CCECB97EAB80ABC32B019C#) - Comprehensive.  
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811074/24814/cover/9781107424814.jpg">[Programming in Ada 2012](https://www.cambridge.org/core/books/programming-in-ada-2012/55B998B4E908A017E4D74A87364FF224#) - Comprehensive.  
 <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41v2Gsi5zWL._SX348_BO1,204,203,200_.jpg">[Beginning Ada Programming: From Novice to Professional](https://www.amazon.com/Beginning-Ada-Programming-Novice-Professional/dp/1484254279) - Introduction.  
