@@ -1,5 +1,5 @@
 <div class="github-widget" data-repo="neutraltone/awesome-stock-resources"></div>
-## Awesome Stock Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Github Workflow](https://img.shields.io/github/actions/workflow/status/neutraltone/awesome-stock-resources/main.yml)](https://github.com/neutraltone/awesome-stock-resources/actions) [![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
+## Awesome Stock Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Github Workflow](https://img.shields.io/github/actions/workflow/status/neutraltone/awesome-stock-resources/main.yml)](https://github.com/neutraltone/awesome-stock-resources/actions) [![Support Me via Paypal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/tonyphipps) [![Buy Me a Coffee](https://img.shields.io/badge/Donate-Buy_Me_a_Coffee-orange.svg)](https://buymeacoffee.com/neutraltone)
 
 ![Introductory images](https://raw.githubusercontent.com/neutraltone/awesome-stock-resources/master//img/splash.jpg)
 
@@ -306,7 +306,8 @@ Please read [CONTRIBUTING](https://github.com/neutraltone/awesome-stock-resource
 
 And finally, if you appreciate this list and find it useful, please consider helping to support the ongoing maintenance by donating:
 
-[![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
+[!["Support Me via PayPal"](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/tonyphipps)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/neutraltone)
 
 ## License
 
