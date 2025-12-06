@@ -52,6 +52,75 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 > Resources added in the past 7 days
 
+[`Claude Code Output Styles - Debugging`](https://github.com/JamieM0/claude-output-styles) &nbsp; by &nbsp; [Jamie Matthews](https://github.com/JamieM0)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A small set of well-written output styles, specifically focused on debugging - root cause analysis, systematic, methodical debugging, encouraging a more careful approach to bug-squashing from Claude Code.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for claude-output-styles](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-output-styles&username=JamieM0&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`CCometixLine - Claude Code Statusline`](https://github.com/Haleclipse/CCometixLine) &nbsp; by &nbsp; [Haleclipse](https://github.com/Haleclipse)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A high-performance Claude Code statusline tool written in Rust with Git integration, usage tracking, interactive TUI configuration, and Claude Code enhancement utilities.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for CCometixLine](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=CCometixLine&username=Haleclipse&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`Claude Code Handbook`](https://nikiforovall.blog/claude-code-rules/) &nbsp; by &nbsp; [nikiforovall](https://github.com/nikiforovall)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Collection of best practices, tips, and techniques for Claude Code development workflows, enhanced with distributable plugins
+
+[`Context Engineering Kit`](https://github.com/NeoLabHQ/context-engineering-kit) &nbsp; by &nbsp; [Vlad Goncharov](https://github.com/LeoVS09)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;GPL-3.0  
+Hand-crafted collection of advanced context engineering techniques and patterns with minimal token footprint focused on improving agent result quality.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for context-engineering-kit](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=context-engineering-kit&username=NeoLabHQ&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`Claudix - Claude Code for VSCode`](https://github.com/Haleclipse/Claudix) &nbsp; by &nbsp; [Haleclipse](https://github.com/Haleclipse)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;AGPL-3.0  
+A VSCode extension that brings Claude Code directly into your editor with interactive chat interface, session management, intelligent file operations, terminal execution, and real-time streaming responses. Built with Vue 3, TypeScript.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for Claudix](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=Claudix&username=Haleclipse&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`claude-starter-kit`](https://github.com/serpro69/claude-starter-kit) &nbsp; by &nbsp; [serpro69](https://github.com/serpro69)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+This is a starter template repository designed to provide a complete development environment for Claude-Code with pre-configured MCP servers and tools for AI-powered development workflows. The repository is intentionally minimal, containing only configuration templates for three primary systems: Claude Code, Serena, and Task Master.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for claude-starter-kit](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-starter-kit&username=serpro69&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`viwo-cli`](https://github.com/OverseedAI/viwo) &nbsp; by &nbsp; [Hal Shin](https://github.com/hal-shin)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Run Claude Code in a Docker container with git worktrees as volume mounts to enable safer usage of `--dangerously-skip-permissions` for frictionless one-shotting prompts. Allows users to spin up multiple instances of Claude Code in the background easily with reduced permission fatigue.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for viwo](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=viwo&username=OverseedAI&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`ccflare -> **better-ccflare**`](https://github.com/tombii/better-ccflare/) &nbsp; by &nbsp; [tombii](https://github.com/tombii)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A well-maintained and feature-enhanced fork of the glorious `ccflare` usage dashboard by @snipeship (which at the time of writing has not had an update in a few months). `better-ccflare` builds on this foundation with some performance enhancements, extended provider support, bug fixes, Docker deployment, and more.
 
@@ -183,6 +252,17 @@ Enables users to prompt codex from claude code. Unlike the raw codex mcp server,
 </details>
 <br>
 
+[`Context Engineering Kit`](https://github.com/NeoLabHQ/context-engineering-kit) &nbsp; by &nbsp; [Vlad Goncharov](https://github.com/LeoVS09)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;GPL-3.0  
+Hand-crafted collection of advanced context engineering techniques and patterns with minimal token footprint focused on improving agent result quality.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for context-engineering-kit](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=context-engineering-kit&username=NeoLabHQ&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`Web Assets Generator Skill`](https://github.com/alonw0/web-asset-generator) &nbsp; by &nbsp; [Alon Wolenitz](https://github.com/alonw0)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Easily generate web assets from Claude Code including favicons, app icons (PWA), and social media meta images (Open Graph) for Facebook, Twitter, WhatsApp, and LinkedIn. Handles image resizing, text-to-image generation, emojis, and provides proper HTML meta tags.
 
@@ -247,6 +327,9 @@ A mirror of the Anthropic &copy; PBC documentation pages for Claude Code, update
 
 </details>
 <br>
+
+[`Claude Code Handbook`](https://nikiforovall.blog/claude-code-rules/) &nbsp; by &nbsp; [nikiforovall](https://github.com/nikiforovall)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Collection of best practices, tips, and techniques for Claude Code development workflows, enhanced with distributable plugins
 
 [`Claude Code Infrastructure Showcase`](https://github.com/diet103/claude-code-infrastructure-showcase) &nbsp; by &nbsp; [diet103](https://github.com/diet103)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A remarkably innovative approach to working with Skills, the centerpiece of which being a technique that leverages hooks to ensure that Claude intelligently selects and activates the appropriate Skill given the current context. Well-documented and adaptable to different projects and workflows.
@@ -514,6 +597,17 @@ A collection of awesome tools, including tmux integrations, better session manag
 </details>
 <br>
 
+[`claude-starter-kit`](https://github.com/serpro69/claude-starter-kit) &nbsp; by &nbsp; [serpro69](https://github.com/serpro69)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+This is a starter template repository designed to provide a complete development environment for Claude-Code with pre-configured MCP servers and tools for AI-powered development workflows. The repository is intentionally minimal, containing only configuration templates for three primary systems: Claude Code, Serena, and Task Master.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for claude-starter-kit](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-starter-kit&username=serpro69&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`claudekit`](https://github.com/carlrannaberg/claudekit) &nbsp; by &nbsp; [Carl Rannaberg](https://github.com/carlrannaberg)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 Impressive CLI toolkit providing auto-save checkpointing, code quality hooks, specification generation and execution, and 20+ specialized subagents including oracle (gpt-5), code-reviewer (6-aspect deep analysis), ai-sdk-expert (Vercel AI SDK), typescript-expert and many more for Claude Code workflows.
 
@@ -624,6 +718,17 @@ Analyzes your Claude Code prompts locally (using CC), provides intelligent sessi
 </details>
 <br>
 
+[`viwo-cli`](https://github.com/OverseedAI/viwo) &nbsp; by &nbsp; [Hal Shin](https://github.com/hal-shin)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+Run Claude Code in a Docker container with git worktrees as volume mounts to enable safer usage of `--dangerously-skip-permissions` for frictionless one-shotting prompts. Allows users to spin up multiple instances of Claude Code in the background easily with reduced permission fatigue.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for viwo](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=viwo&username=OverseedAI&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`VoiceMode MCP`](https://github.com/mbailey/voicemode) &nbsp; by &nbsp; [Mike Bailey](https://github.com/mbailey)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 VoiceMode MCP brings natural conversations to Claude Code. It supports any OpenAI API compatible voice services and installs free and open source voice services (Whisper.cpp and Kokoro-FastAPI).
 
@@ -672,6 +777,17 @@ A seamless integration between Claude Code AI assistant and Neovim.
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for claude-code.nvim](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code.nvim&username=greggh&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`Claudix - Claude Code for VSCode`](https://github.com/Haleclipse/Claudix) &nbsp; by &nbsp; [Haleclipse](https://github.com/Haleclipse)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;AGPL-3.0  
+A VSCode extension that brings Claude Code directly into your editor with interactive chat interface, session management, intelligent file operations, terminal execution, and real-time streaming responses. Built with Vue 3, TypeScript.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for Claudix](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=Claudix&username=Haleclipse&all_stats=true&stats_only=true)
 
 </details>
 <br>
@@ -861,6 +977,17 @@ A Rust CLI tool that lets you delegate development tasks to AI agents running in
 <details open>
 <summary><h3>General <a href="#awesome-claude-code">🔝</a></h3></summary>
 
+[`CCometixLine - Claude Code Statusline`](https://github.com/Haleclipse/CCometixLine) &nbsp; by &nbsp; [Haleclipse](https://github.com/Haleclipse)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A high-performance Claude Code statusline tool written in Rust with Git integration, usage tracking, interactive TUI configuration, and Claude Code enhancement utilities.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for CCometixLine](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=CCometixLine&username=Haleclipse&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
 [`ccstatusline`](https://github.com/sirmalloc/ccstatusline) &nbsp; by &nbsp; [sirmalloc](https://github.com/sirmalloc)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A highly customizable status line formatter for Claude Code CLI that displays model info, git branch, token usage, and other metrics in your terminal.
 
@@ -1042,6 +1169,17 @@ CLI tool and template gallery for customizing Claude Code output styles with pre
 <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats for ccoutputstyles](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ccoutputstyles&username=viveknair&all_stats=true&stats_only=true)
+
+</details>
+<br>
+
+[`Claude Code Output Styles - Debugging`](https://github.com/JamieM0/claude-output-styles) &nbsp; by &nbsp; [Jamie Matthews](https://github.com/JamieM0)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
+A small set of well-written output styles, specifically focused on debugging - root cause analysis, systematic, methodical debugging, encouraging a more careful approach to bug-squashing from Claude Code.
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+![GitHub Stats for claude-output-styles](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-output-styles&username=JamieM0&all_stats=true&stats_only=true)
 
 </details>
 <br>

@@ -10,7 +10,7 @@
   
 <div>
     <a href='https://github.com/eurostat/gridviz' target='_blank'>
-        <img src='https://user-images.githubusercontent.com/25485293/191950255-cbd83c6a-4880-4c0a-a665-b59a21467702.PNG'>
+        <img src='https://raw.githubusercontent.com/joewdavies/awesome-frontend-gis/master/./images/awesome-fronted-gis-banner.png'>
     </a>
 </div>
 
@@ -19,7 +19,6 @@
 </div>
 
 
-  - [Mapping](#mapping) 
 
 ## 👨‍💻 JavaScript Libraries 
 
