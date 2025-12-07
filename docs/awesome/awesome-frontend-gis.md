@@ -37,7 +37,7 @@ Libraries for creating web maps:
 - [Deck.GL](https://github.com/visgl/deck.gl) - WebGL2 powered geospatial visualization layers. ![GitHub stars](https://img.shields.io/github/stars/visgl/deck.gl?style=social)
 - [Eurostat-map](https://github.com/eurostat/eurostat-map.js) - Create and customise web maps showing Eurostat data using D3.js. ![GitHub stars](https://img.shields.io/github/stars/eurostat/eurostat-map.js?style=social)
 - [globe.gl](https://github.com/vasturiano/globe.gl) - This library is a convenience wrapper around the three-globe plugin, using ThreeJS/WebGL for 3D rendering. ![GitHub stars](https://img.shields.io/github/stars/vasturiano/globe.gl?style=social)
-- [Google Maps](https://developers.google.com/maps/documentation/javascript) - Google Maps API for JavaScript.
+- [Google Maps](https://developers.google.com/maps/documentation/javascript) - JavaScript API for Google Maps.
 - [gridviz](https://github.com/eurostat/gridviz) - A package for visualizing gridded data. ![GitHub stars](https://img.shields.io/github/stars/eurostat/gridviz?style=social)
 - [HERE maps API](https://developer.here.com/develop/javascript-api) - Build web applications with feature-rich and customizable HERE maps.
 - [iTowns](https://github.com/iTowns/itowns) - A Three.js-based framework written in JavaScript/WebGL for visualizing 3D geospatial data. ![GitHub stars](https://img.shields.io/github/stars/iTowns/itowns?style=social)
@@ -49,7 +49,7 @@ Libraries for creating web maps:
 - [OpenLayers](https://github.com/openlayers/openlayers) - A high-performance, feature-packed library for creating interactive maps on the web. ![GitHub stars](https://img.shields.io/github/stars/openlayers/openlayers?style=social)
 - [react-simple-maps](https://github.com/zcreativelabs/react-simple-maps) - An SVG mapping component library for React, built on top of d3-geo. ![GitHub stars](https://img.shields.io/github/stars/zcreativelabs/react-simple-maps?style=social)
 - [Tangram](https://github.com/tangrams/tangram) - WebGL map rendering engine for creative cartography. ![GitHub stars](https://img.shields.io/github/stars/tangrams/tangram?style=social)
-- [TerriaJS](https://github.com/TerriaJS/terriajs) - TerriaJS is a library for building rich, web-based geospatial data explorers. ![GitHub stars](https://img.shields.io/github/stars/TerriaJS/terriajs?style=social)
+- [TerriaJS](https://github.com/TerriaJS/terriajs) - A library for building rich, web-based geospatial data explorers. ![GitHub stars](https://img.shields.io/github/stars/TerriaJS/terriajs?style=social)
 - [Wrld.js](https://github.com/wrld3d/wrld.js/) - Animated 3D city maps based on Leaflet. ![GitHub stars](https://img.shields.io/github/stars/wrld3d/wrld.js?style=social)
 
 
@@ -64,7 +64,7 @@ Libraries that help you analyse and process geospatial data:
 - [Galton](https://github.com/urbica/galton) - Lightweight Node.js isochrone server. ![GitHub stars](https://img.shields.io/github/stars/urbica/galton?style=social)
 - [gdal3.js](https://github.com/bugra9/gdal3.js) - Convert raster and vector geospatial data to various formats. ![GitHub stars](https://img.shields.io/github/stars/bugra9/gdal3.js?style=social)
 - [geoblaze](https://github.com/GeoTIFF/geoblaze) - A blazing fast JavaScript raster processing engine. ![GitHub stars](https://img.shields.io/github/stars/GeoTIFF/geoblaze?style=social)
-- [geobuf](https://github.com/mapbox/geobuf) - Geobuf is a compact binary encoding for geographic data. ![GitHub stars](https://img.shields.io/github/stars/mapbox/geobuf?style=social)
+- [geobuf](https://github.com/mapbox/geobuf) - A compact binary encoding for geographic data. ![GitHub stars](https://img.shields.io/github/stars/mapbox/geobuf?style=social)
 - [GeoTiff.js](https://github.com/geotiffjs/geotiff.js) - Parse TIFF files for visualization or analysis. ![GitHub stars](https://img.shields.io/github/stars/geotiffjs/geotiff.js?style=social)
 - [geolib](https://github.com/manuelbieh/geolib) - Library to provide basic geospatial operations. ![GitHub stars](https://img.shields.io/github/stars/manuelbieh/geolib?style=social)
 - [geopackage-js](https://github.com/ngageoint/geopackage-js) - The GeoPackage JavaScript library provides the ability to read GeoPackage files. ![GitHub stars](https://img.shields.io/github/stars/ngageoint/geopackage-js?style=social)
@@ -77,7 +77,7 @@ Libraries that help you analyse and process geospatial data:
 - [koop](https://github.com/koopjs/koop) - A JavaScript toolkit for connecting incompatible spatial APIs. ![GitHub stars](https://img.shields.io/github/stars/koopjs/koop?style=social)
 - [math.gl](https://github.com/uber-web/math.gl) - JavaScript math library focused on Geospatial and 3D use cases. ![GitHub stars](https://img.shields.io/github/stars/uber-web/math.gl?style=social)
 - [Proj4js](https://github.com/proj4js/proj4js) - Transform coordinates from one coordinate system to another. ![GitHub stars](https://img.shields.io/github/stars/proj4js/proj4js?style=social)
-- [rbush](https://github.com/mourner/rbush) - RBush is a high-performance JavaScript library for 2D spatial indexing. ![GitHub stars](https://img.shields.io/github/stars/mourner/rbush?style=social)
+- [rbush](https://github.com/mourner/rbush) - A high-performance JavaScript library for 2D spatial indexing. ![GitHub stars](https://img.shields.io/github/stars/mourner/rbush?style=social)
 - [spl.js](https://github.com/jvail/spl.js) - Makes it possible to use SpatiaLite functionality in JavaScript. ![GitHub stars](https://img.shields.io/github/stars/jvail/spl.js?style=social)
 - [statsbreaks](https://github.com/riatelab/statsbreaks) - Split a quantitative dataset into classes for thematic mapping. ![GitHub stars](https://img.shields.io/github/stars/riatelab/statsbreaks?style=social)
 - [Turf.js](https://github.com/Turfjs/turf) - A JavaScript library for spatial analysis. ![GitHub stars](https://img.shields.io/github/stars/Turfjs/turf?style=social)
