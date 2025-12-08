@@ -67,6 +67,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 
 - [Vue.js Newsletter](https://news.vuejs.org). Weekly dose of handpicked Vue.js news.
 - [VueDose](https://vuedose.tips). Tips & tricks about the Vue ecosystem, for busy devs. Published weekly.
+- [Weekly Vue News](https://weekly-vue.news). A weekly newsletter for Vue & Nuxt developers.
 
 #### Svelte
 
@@ -321,8 +322,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [Monitoring Weekly](https://monitoring.love/). Monitoring Weekly delivers the latest monitoring news, articles, and tools right to your inbox.
 - [SRE Weekly](http://sreweekly.com/). SRE Weekly is a newsletter devoted to everything related to keeping a site or service available as consistently as possible.
 - [StatusCode Weekly](https://weekly.statuscode.com/). A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
-- [Upcoming Kubernetes Events Newsletter](https://kube.events/newsletter). A weekly newsletter on curated meetups, conferences, training and webinars on Kubernetes.
-- [Learn Kubernetes weekly](https://learnk8s.io/learn-kubernetes-weekly). Curated articles, tutorials, projects and events with a focus on Kubernetes.
+- [Learn Kubernetes weekly](https://learnkube.com/learn-kubernetes-weekly). Curated articles, tutorials, projects and events with a focus on Kubernetes.
 - [DevOps Bulletin](https://devopsbulletin.com). The latest DevOps trends in your inbox every week. From AWS, Terraform, and Kubernetes to CI/CD pipelines and cloud-native architecture, we've got you covered!
 
 ### Cloud Development
@@ -382,6 +382,7 @@ Thanks to all [contributors](https://github.com/zudochkin/awesome-newsletters/gr
 - [TechTok Today](https://techtok.today). Daily summarised and curated news in technology (as newsletter and in-website stories) picked from the most popular sources and fresh engineering blogs articles from leading tech companies.
 - [Weekly Engineering Newsletter](https://weeklyengineeringnewsletter.substack.com). Every Sunday, delivering a digest of the week's most fascinating finds in the tech world.
 - [Hacking Scale](https://newsletter.betterstack.com/). A bi-weekly newsletter about building and scaling software from engineers at Better Stack.
+- [mainbranch](https://mainbranch.beehiiv.com/). A short, no-hype newsletter on software engineering fundamentals, practical features for better code, and platform updates that help ship faster.
 
 ## Leadership
 

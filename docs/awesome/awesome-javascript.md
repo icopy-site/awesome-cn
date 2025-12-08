@@ -102,6 +102,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [expect.js](https://github.com/Automattic/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
 * [proxyquire](https://github.com/thlorenz/proxyquire) - Stub nodejs's require.
 * [Supertest](https://github.com/visionmedia/supertest) - A popular HTTP assertion library for testing REST APIs, often used with other testing frameworks like Mocha or Jest
+* [Pocket Mocker](https://github.com/tianchangNorth/pocket-mocker) - In-browser visual network mocking tool, supports fetch/XHR interception.
 
 ### Coverage
 
@@ -284,6 +285,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [cola.js](https://ialab.it.monash.edu/webcola/) - library for arranging your HTML5 documents and diagrams using constraint-based optimization techniques
 * [jointjs](https://github.com/clientIO/joint) - Diagramming library to create static diagrams or fully interactive diagramming tools.
 * [vizzu](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
+* [G6](https://github.com/antvis/g6) - A graph visualization engine.
 
 There're also some great commercial libraries, like [amchart](https://www.amcharts.com/), [anychart](https://www.anychart.com/), [plotly](https://plotly.com/), and [lightning chart](https://www.arction.com/lightningchart-js/).
 
