@@ -208,7 +208,7 @@ Contributions are welcome. Add links through pull requests ([guidelines](https:/
 
 *Read or contribute to the code behind major regex implementations.*
 
-- [Boost.Regex](https://github.com/boostorg/regex) - Popular C++ regex library.
+- [Boost.Regex](https://github.com/boostorg/regex) - C++ regex library.
 - [Hyperscan](https://github.com/intel/hyperscan) - Intel's high-performance library, used for [DPI](https://en.wikipedia.org/wiki/Deep_packet_inspection).
 - [ICU](https://github.com/unicode-org/icu/blob/main/icu4c/source/i18n/regexcmp.cpp) - Unicode org's package with full Unicode support.
 - [Java: java.util.regex](https://github.com/openjdk/jdk/tree/master/src/java.base/share/classes/java/util/regex) - JDK standard regexes.
@@ -217,7 +217,7 @@ Contributions are welcome. Add links through pull requests ([guidelines](https:/
   - [V8: Irregexp](https://github.com/v8/v8/tree/main/src/regexp) - Regex engine used by Chrome, Edge, [Firefox](https://hacks.mozilla.org/2020/06/a-new-regexp-engine-in-spidermonkey/), etc.
 - [.NET: System.Text.RegularExpressions](https://github.com/dotnet/runtime/tree/main/src/libraries/System.Text.RegularExpressions) - Shared by all .NET languages (C#, VB, etc.).
 - [Onigmo](https://github.com/k-takata/Onigmo) - Forked from Oniguruma. Used by Ruby 2.0+.
-- [Oniguruma](https://github.com/kkos/oniguruma) - Popular C regex library used by Ruby 1.9, TextMate grammars, etc.
+- [Oniguruma](https://github.com/kkos/oniguruma) - C regex library used by Ruby 1.9, TextMate grammars, etc.
 - [PCRE2](https://github.com/PCRE2Project/pcre2) - Popular C regex library used by PHP, R, etc.
 - [Perl](https://github.com/Perl/perl5/blob/blead/regexp.h) - See [perlreguts](https://perldoc.perl.org/perlreguts).
 - [Python: re](https://github.com/python/cpython/tree/main/Lib/re) and [regex](https://github.com/mrabarnett/mrab-regex) - Standard and extended regex libraries.
@@ -295,9 +295,8 @@ Many regexes found online are low quality. It's risky to use regexes you don't f
 
 - [Regex+](https://github.com/slevithan/regex) - A template tag for extended, readable, high-performance JavaScript regexes.
 - [Oniguruma-To-ES](https://github.com/slevithan/oniguruma-to-es) - Convert Oniguruma patterns to native JavaScript regexes.
-- [XRegExp](https://github.com/slevithan/xregexp) \[[*home*](https://xregexp.com/)] - Extended regex syntax, flags, and utils; useful for backcompat.
 - [incr-regex-package](https://github.com/nurulc/incr-regex-package) - Partial/incremental matching, used by [react-rxinput](https://github.com/nurulc/react-rxinput) for input validation with a regex mask.
-- Use other engines via WASM bindings: [node-re2](https://github.com/uhop/node-re2) (RE2), [rregex](https://github.com/2fd/rregex) (Rust's `regex`), [vscode-oniguruma](https://github.com/microsoft/vscode-oniguruma) (Oniguruma).
+- Use other engines via WebAssembly: [node-re2](https://github.com/uhop/node-re2) (RE2), [rregex](https://github.com/2fd/rregex) (Rust's `regex`), [vscode-oniguruma](https://github.com/microsoft/vscode-oniguruma) (Oniguruma).
 
 ### Abstracted regex syntax
 
@@ -310,12 +309,12 @@ Many regexes found online are low quality. It's risky to use regexes you don't f
 - AST builders: [regexpp](https://github.com/eslint-community/regexpp) (used by ESLint), [regexp-tree](https://github.com/DmitrySoshnikov/regexp-tree) (includes optimizer, etc.), [regjsparser](https://github.com/jviereck/regjsparser)/[regjsgen](https://github.com/bnjmnt4n/regjsgen).
   - AST explorers: [AST Explorer: RegExp](https://astexplorer.net/#/gist/56d33dc28d07c7f57bdf5ca0f4061320/c6b67a829334151af01ba55960c653e4462df437), [JS RegExp AST Viewer](https://leaysgur.github.io/js-regexp-ast-viewer/).
   - [regexp-ast-analysis](https://github.com/RunDevelopment/regexp-ast-analysis) \[[*docs*](https://rundevelopment.github.io/regexp-ast-analysis/docs/latest/)] - Analyze AST nodes produced by regexpp.
-- Highlight regex syntax: [Regex Colorizer](https://github.com/slevithan/regex-colorizer) \[[*home*](https://slevithan.github.io/regex-colorizer/demo/)], [CodeMirror PCRE mode](https://github.com/xavierog/codemirror-mode-pcre).
-- Find regex mistakes and improvements: [eslint-plugin-regexp](https://github.com/ota-meshi/eslint-plugin-regexp) \[[*home*](https://ota-meshi.github.io/eslint-plugin-regexp/)], [eslint-plugin-optimize-regex](https://github.com/BrainMaestro/eslint-plugin-optimize-regex).
-- Generate strings that match a given regex: [randexp.js](https://github.com/fent/randexp.js), [regex-to-strings](https://github.com/wimpyprogrammer/regex-to-strings).
-- Generate a regex from given strings: [regexgen](https://github.com/devongovett/regexgen).
+- [eslint-plugin-regexp](https://github.com/ota-meshi/eslint-plugin-regexp) \[[*home*](https://ota-meshi.github.io/eslint-plugin-regexp/)] - ESLint plugin for finding regex mistakes, etc.
+- [Regex Colorizer](https://github.com/slevithan/regex-colorizer) \[[*home*](https://slevithan.github.io/regex-colorizer/demo/)] - Highlight regex syntax.
 - [regex-utils](https://github.com/gruhn/regex-utils) - Check regex equivalence, build regex intersections, and other meta utilities.
-- [regex-to-mermaid](https://github.com/tayles/regex-to-mermaid) - Generate Mermaid diagrams to visualize regexes within Markdown docs, etc.
+- Generate strings that match a given regex: [randexp.js](https://github.com/fent/randexp.js), [regex-to-strings](https://github.com/wimpyprogrammer/regex-to-strings).
+- [regexgen](https://github.com/devongovett/regexgen) - Generate a regex that matches a set of strings.
+- [regex-to-mermaid](https://github.com/tayles/regex-to-mermaid) - Generate Mermaid diagrams to visualize regexes.
 
 ## JavaScript regex evolution
 
@@ -372,7 +371,6 @@ Many regexes found online are low quality. It's risky to use regexes you don't f
 
 - [*The World's Shortest Regex Compiler?*](https://jasonhpriestley.com/regex) and a [follow up](https://jasonhpriestley.com/regex-dfa) on optimization - Introduction to writing a non-backtracking regex engine (in JavaScript).
 - [*Regex Legends: The People Behind the Magic*](https://blog.stevenlevithan.com/archives/regex-legends) - Influential people behind the technology.
-- [*Fun With .NET Regex Balancing Groups*](https://blog.stevenlevithan.com/archives/balancing-groups) - Advanced usage of a .NET-only regex feature.
 
 ## Communities
 

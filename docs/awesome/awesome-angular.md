@@ -441,7 +441,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-signal-pagination](https://github.com/JPtenBerge/ngx-signal-pagination) - Pagination for Angular, powered by signals.
 * [ngx-http](https://github.com/OGS-GmbH/ngx-http) - A lightweight Angular library that enhances HTTP functionalities by providing types, static values, and utility functions.
 * [@angular-experts-io/resource](https://github.com/angular-experts-io/resource) - The missing create, update, delete (CUD) support for Angular resource.
-* [ng-speed-test](https://github.com/jrquick17/ng-speed-test) - A light weight Angular 2+ library for checking internet speed.
+* [ng-speed-test](https://github.com/jrquick17/ng-speed-test) - A lightweight Angular library for checking internet speed.
 * [ngx-http-resilience](https://github.com/ebh/ngx-http-resilience) - Angular HttpInterceptors that provide resiliency capabilities.
 * [ngx-interceptors](https://github.com/SebaRenner/ngx-interceptors) - Library with common HTTP interceptors for Angular applications.
 * [ngx-hal](https://github.com/infinum/ngx-hal) - A datastore library with support for handling [HAL-formatted](http://stateless.co/hal_specification.html) HTTP requests.
@@ -449,6 +449,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [my-http-resource](https://github.com/consoleLogMyAss/my-http-resource/tree/main/projects/my-http-resource) - A reactive Angular HttpClient wrapper that streamlines requests by managing state, URL parameters, and configuration.
 * [luminara](https://github.com/miller-28/luminara) - A modern, universal HTTP client built on native fetch, designed for reliable, scalable, and clear architecture.
 * [ngx-cachr](https://github.com/nulzo/ngx-cachr) - A slim, signal-based caching library for Angular.
+* [ngx-data-polling](https://github.com/antonio-spinelli/ngx-data-polling) - Angular library with utilities to handle data polling in a declarative and type-safe way.
 
 ### Micro-Frontends
 
@@ -512,7 +513,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Official llms-full.txt file](https://angular.dev/context/llm-files/llms-full.txt)
 * [Official Angular Examples Repo](https://github.com/angular/examples) - Angular Examples using [GenKit](https://firebase.google.com/docs/genkit) and [Vertex AI](https://cloud.google.com/vertex-ai).
 * [abbi-ng-ai-image-descriptor](https://github.com/slsfi/abbi-ng-ai-image-descriptor) - Angular web app for AI-generated image descriptions. You need an OpenAI API key to use the tool.
-* [AGENT.md](https://ampcode.com/AGENT.md#tool-integration) - The Universal Agent Configuration File.
+* [AGENT.md](https://ampcode.com/AGENT.md#tool-integration) - The universal agent configuration file.
+* [agentbridge](https://github.com/ayoubachak/agentbridge) - A framework that standardizes how AI agents discover, interact with, and control application components.
 * [agent-rules-kit](https://github.com/tecnomanu/agent-rules-kit) - A CLI tool for AI that installs and configures rules to guide agents in technology stack best practices.
 * [ai-friendly-docs](https://github.com/gergelyszerovay/ai-friendly-docs) - Angular AI-optimized documentation, enhancing accessibility and response quality for Large Language Models.
 * [aitools.fyi](https://aitools.fyi/technology/angular) - AI Tools Built With Angular.
@@ -1307,6 +1309,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-wysicat](https://github.com/michalgrzegorczyk-dev/ngx-wysicat) - Block‑editing and advanced formatting on top of Quill; plugins for structured documents.
 * [ng-diagram](https://github.com/synergycodes/ng-diagram) - A robust Angular library for building interactive diagrams, Node-based editors, and visual programming interfaces.
 * [armor-editor](https://github.com/technicults/armor-editor) - A secure, lightweight rich text editor with premium features—built to integrate seamlessly into Angular applications.
+* [ngx-workflow](https://github.com/abdulkyume/ngx-workflow) - A powerful, highly customizable Angular library for building interactive node-based editors, flow charts, and diagrams.
 
 ### File Upload
 
@@ -1537,6 +1540,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-zoomable](https://github.com/json-k/ngx-zoomable) - A zoomable, pannable container component for Angular applications.
 * [ngx-material-drawer](https://github.com/ansarisufiyan777/ngx-material-drawer) - Configurable Angular Material Drawer and Toolbar.
 * [@marxlnfcs/ngx-grid](https://github.com/marxlnfcs/ngx-grid) - Simple Angular Grid Module for modern grid layouts.
+* [lightweight-grid-layout](https://github.com/liketiger/lightweight-grid-layout) - A headless, dependency-free grid layout library for JavaScript/TypeScript that works with any framework or none, leaving rendering and styling to users.
 
 ### Loaders
 
@@ -1574,7 +1578,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [pretty-html-log](https://github.com/angular-extensions/pretty-html-log) - Module for pretty-printing ComponentFixtures, DebugElements, NativeElements, or HTML strings in Jest Angular tests.
 * [log4ngx](https://github.com/secondbounce/log4ngx) - A TypeScript logging framework for Angular projects, based on concepts used in Log4j, Log4net, etc.
 * [ngx-wlog](https://github.com/w5g-wywiwyg/ngx-wlog) - A logger for Angular applications, drawing inspiration from the `.NET` [NLog](https://nlog-project.org/).
-* [ng-route-logger](https://github.com/souravion/ng-route-logger) -   A simple and powerful library that helps you track page navigation times inside your Angular application.
+* [ng-route-logger](https://github.com/souravion/ng-route-logger) - A simple and powerful library that helps you track page navigation times inside your Angular application.
+* [candy-logger](https://github.com/shehari007/candy-logger) - A lightweight logging library for JavaScript/TypeScript with a popup UI in browsers and enhanced terminal output in Node.
 
 ### Maps
 
@@ -1762,6 +1767,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-navigate-back](https://github.com/developwithmi/ngx-navigate-back) - A lightweight Angular library that adds simple browser-like back navigation.
 * [ngx-quicklink](https://github.com/mgechev/ngx-quicklink) - Quicklink prefetching strategy for the Angular router.
 * [ngx-route-manager](https://github.com/perez247/ngx-route-manager) - A simple library to store all route urls used in the application.
+* [ngx-speculation-rules](https://github.com/SkyZeroZx/ngx-speculation-rules) - Angular library for the [Speculation Rules API](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API) enabling prefetching and prerendering for faster, SSR- and Zoneless-compatible navigation.
 * [ngx-speculative-link](https://github.com/push-based/ngx-speculative-link) - An Angular implementation of [Speculative Rules API](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API) inspired by [quicklink](https://github.com/GoogleChromeLabs/quicklink) and `ngx-quicklink`.
 * [storybook-addon-angular-router](https://github.com/Jakob-em/storybook-addon-angular-router) - A simple plugin to make working with the Angular router in [Storybook](https://storybook.js.org/) easier.
 * [ui-router](https://github.com/ui-router/angular) - State-based routing in Angular is enabled through [UI-Router for Angular](https://ui-router.github.io).
@@ -2005,7 +2011,8 @@ for the creation of web applications developed with Angular.
 * [angular-game-of-life](https://github.com/Astgenne4922/angular-game-of-life) - Background component playing Conway's Game of Life for Angular 19+.
 * [angular-tag-cloud-module](https://github.com/d-koppenhagen/angular-tag-cloud-module) - With this module, you can generate word clouds / tag clouds.
 * [ng-whiteboard](https://github.com/mostafazke/ng-whiteboard) - Lightweight Angular whiteboard component.
-* [ngx-analog-clock](https://github.com/DerStimmler/ngx-analog-clock) - Customizable analog clock for your Angular app.
+* [@craftedcode-dev/ngx-analog-clock](https://github.com/craftedcode-dev/ngx-analog-clock) - Analog clock component for Angular applications with timezone support, custom themes, and extensive styling options.
+* [@DerStimmler/ngx-analog-clock](https://github.com/DerStimmler/ngx-analog-clock) - Customizable analog clock for your Angular app.
 * [ngx-color-scheme](https://github.com/rbalet/ngx-color-scheme) - Add dark mode to your Angular applications with ease.
 * [ngx-countdown](https://github.com/cipchk/ngx-countdown) - Simple, easy and performant countdown.
 * [ngx-font-picker](https://github.com/zefoy/ngx-font-picker) - Google fonts font picker widget for Angular.

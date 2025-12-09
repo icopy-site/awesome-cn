@@ -125,6 +125,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [lume](https://github.com/rxi/lume/) - Collection of functions for Lua, geared towards game development.
 * [Manami](https://github.com/MikuAuahDark/NPad93/blob/master/manami.lua) - An improved "reflowprint" with UTF-8, multicolor, and justify support.
 * [narrator](https://github.com/astrochili/narrator) - An Ink narrative scripting language parser and runtime implementation.
+* [prism](https://github.com/PrismRL/prism) - A comprehensive traditional roguelike engine.
 * [reflowprint](https://github.com/josefnpat/reflowprint) - A library designed for alignment of text that is shown one character at a time.
 * [roomy](https://github.com/tesselode/roomy) - Screen management library for LÖVE.
 * [rotLove](https://github.com/paulofmandown/rotLove) - Roguelike Toolkit in LÖVE. A LÖVE/lua port of rot.js.
@@ -306,6 +307,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Luis](https://github.com/SiENcE/luis) - LUIS (Love UI System) - A retained Mode UI Framework for LÖVE with Input processing (mouse, keyboard, touch, gamepad),  Layer-, Grid-, State-, Theming-system, UI Editor, 16+ Widgets (for Desktop & Mobile).
 * [Lynx](https://gitlab.com/TSnake41/lynx) - Very-lightweight list-based UI library.
 * [NLay](https://github.com/MikuAuahDark/NPad93#nlay) - Flexible layouting library.
+* [lovepatch](https://github.com/notcl4y14/lovepatch) - A simple 9-patch library for LÖVE.
 * [Patchy](https://github.com/excessive/patchy) - 9patch library.
 * [Slicy](https://github.com/wqferr/slicy) - A newer 9patch/9slice library fixing some issues with Patchy.
 * [Plan](https://github.com/zombrodo/plan) - A super simple Rule-based layout library.
@@ -319,6 +321,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Inky](https://github.com/Keyslam/Inky) - Any-purpose GUI framework.
 * [Badar 🌕](https://github.com/Nabeel20/Badar) - Simple **custom UI syntax** for easy components compositions.
 * [MeowUI](https://github.com/MoonGameLab/MeowUI) - Extensible library written in MoonScript that enables you to create your own GUI controls based on provided core modules for Löve2D.
+* [LOVELi](https://github.com/mtanksl/LOVELi) - Retained mode layout and GUI library inspired by .NET's MAUI controls with StackLayout, AbsoluteLayout, Grid, Label, Button, Image, CheckBox, RadioButton, Switch, ProgressBar, Slider, TextBox and Border.
 
 ## Utilities
 *Non-Game specific libraries and tools*
@@ -361,7 +364,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Blogs and tutorials*
 
 * [learn2love](https://rvagamejams.com/learn2love/) - Book for learning programming with Lua and LÖVE (Version 11.0+).
-* [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game.
+* [Using Tiled Maps in LÖVE (archived)](https://web.archive.org/web/20230314215611/http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game.
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay.
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc.).
 * [CS50 Introduction to Game Development](https://cs50.harvard.edu/games/) - Harvard Colleges CS50 OpenCourseWare.
