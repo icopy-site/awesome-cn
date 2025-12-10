@@ -1,11 +1,38 @@
 <div class="github-widget" data-repo="Piebald-AI/awesome-gemini-cli"></div>
-<a href="https://github.com/google-gemini/gemini-cli" rel="noopener"><img width="4339" height="1373" alt="banner" src="https://raw.githubusercontent.com/Piebald-AI/awesome-gemini-cli/master/./assets/banner.png" /></a>
+<div>
+<div align="right">
+<a href="https://piebald.ai"><img width="200" top="20" align="right" src="https://raw.githubusercontent.com/Piebald-AI/.github/raw/main/Wordmark.svg"></a>
+</div>
+
+<div align="left">
+
+### Announcement: Piebald is released!
+We've released **Piebald**, the ultimate agentic AI developer experience. \
+Download it and try it out for free!  **https://piebald.ai/**
+
+<sub>[Scroll down for Awesome Gemini CLI.](https://github.com/Piebald-AI/awesome-gemini-cli#awesome-gemini-cli-) :point_down:</sub>
+
+</div>
+</div>
+
+<div align="left">
+<a href="https://piebald.ai">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/79c18689-e2f0-4008-a13f-61c80756286a">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/25cb5df8-cf15-4cae-9c1e-e88645f06ee1">
+  <img alt="hero" width="600" src="https://raw.githubusercontent.com/user-attachments/assets/25cb5df8-cf15-4cae-9c1e-e88645f06ee1">
+</picture>
+</a>
+</div>
 
 ## Awesome Gemini CLI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome tools, extensions, and resources for [Gemini CLI](https://github.com/google-gemini/gemini-cli)&mdash;an open-source AI agent that brings the power of Gemini directly into your terminal.
-<!--
+<a href="https://github.com/google-gemini/gemini-cli" rel="noopener"><img width="4339" height="1373" alt="banner" src="https://raw.githubusercontent.com/Piebald-AI/awesome-gemini-cli/master/./assets/banner.png" /></a>
 
+A curated list of awesome tools, extensions, and resources for [Gemini CLI](https://github.com/google-gemini/gemini-cli)&mdash;an open-source AI agent that brings the power of Gemini directly into your terminal.  See also: [Awesome Gemini CLI Extensions](https://github.com/Piebald-AI/awesome-gemini-cli-extensions).
+
+
+<!--
 > :tada: We'll create a new release highlighting **new entries** each week. :star2: Star this repository to receive **release notifications :bell:** for the new entries in your GitHub dashboard!
 -->
 
@@ -13,12 +40,10 @@ A curated list of awesome tools, extensions, and resources for [Gemini CLI](http
 
 - [**Gemini Dockerized CLI**](https://github.com/nordluf/gemini-dockerized-cli) - Gemini Dockerized CLI with small improvements.
 - [**Gemini CLI Tips by Addy Osmani**](https://github.com/addyosmani/gemini-cli-tips) - ~30 pro-tips for effectively using Gemini CLI for agentic coding.
-- [**IssueDB**](https://issue-queue.readthedocs.io/en/latest/llm_agents.html) - LLM frendly command-line issue tracking system for software development projects, with built-in interface, context support and prompt providers for Gemini CLI and others.
+- [**IssueDB**](https://github.com/rodmena-limited/issue-queue) - LLM frendly command-line issue tracking system for software development projects, with built-in interface, context support and prompt providers for Gemini CLI and others.  (See [docs](https://issue-queue.readthedocs.io/en/latest/llm_agents.html).)
 
 > [!tip]
 > **Track your local Gemini CLI usage with [Splitrail](https://github.com/Piebald-AI/splitrail).**
-
-**👉 See also: [Awesome Gemini CLI Extensions](https://github.com/Piebald-AI/awesome-gemini-cli-extensions)**
 
 
 
