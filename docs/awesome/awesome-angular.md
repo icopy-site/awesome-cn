@@ -698,6 +698,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-queuex](https://github.com/dagnygus/ng-queuex) - Experimental Angular ecosystem with React-like scheduler and signal-driven directives for fine-grained change detection.
 * [ng-reactive-lint](https://github.com/Shrinivassab/ng-reactive-lint) - An Angular-specific linter enforcing optimal reactivity patterns with Signals and RxJS.
 * [ngx-network-monitor](https://github.com/MadeByRaymond/ngx-network-monitor) - A lightweight Angular service to monitor network status: online/offline, connection quality (2G/3G/4G/5G), and ping latency.
+* [ngx-performance-diagnostics](https://github.com/maciekv/ngx-performance-diagnostics) - Spot performance bottlenecks, excessive change‑detection cycles, and memory leaks in Angular apps with zero setup.
 * [ngx-script-optimizer](https://github.com/Mohid123/ngx-script-optimizer) - A lightweight Angular library designed to supercharge your third-party script handling.
 * [ngx-unused](https://github.com/wgrabowski/ngx-unused) - Find declared but unused Angular classes in your codebase.
 * [sonda](https://github.com/filipsobol/sonda) - Universal visualizer and analyzer for JavaScript and CSS.
@@ -737,6 +738,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [appwrite](https://github.com/appwrite/appwrite) - Integrate your [Angular app](https://appwrite.io/docs/quick-starts/angular) with [Appwrite](https://appwrite.io/) for auth, database, storage, functions, and more.
 * [auth0-angular](https://github.com/auth0/auth0-angular) - Auth0 SDK for Angular Single Page Applications.
 * [@badisi/ngx-auth](https://github.com/Badisi/auth-js/tree/main/libs/ngx-auth) - Authentication and authorization support for Angular based desktop and mobile applications.
+* [capacitor-biometric-authentication](https://github.com/aoneahsan/capacitor-biometric-authentication) - Framework‑agnostic biometric auth library with zero dependencies, provider‑less APIs, multi‑platform support, and optional Capacitor integration.
 * [corbado](https://www.corbado.com/#signup-init) - [Integrate](https://docs.corbado.com/corbado-complete/frontend-integration/angular) Corbado with Angular to use passkeys for authentication.
 * [fingerprint](https://dev.fingerprint.com/docs/angular) - The Fingerprint Angular SDK is an easy way to integrate Fingerprint into your Angular application.
 * [frontegg-angular](https://github.com/frontegg/frontegg-angular) - Hosted login SDK for Angular; see the [quickstart](https://developers.frontegg.com/ciam/sdks/frontend/angular/hosted-login).

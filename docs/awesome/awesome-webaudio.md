@@ -87,7 +87,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Binary Synth](https://github.com/MaxAlyokhin/binary-synth) - A web-synthesizer that generates sound from the binary code of any files.
 - [dsssp-demo](https://github.com/NumberOneBot/dsssp-demo) - WebAudio music player with 7-bands EQ and filter presets.
 - [SingMeter](https://www.singmeter.com/) – A collection of browser-based singing tools including a pitch detector and vocal range test.
-
+- [Drumhaus](https://drumha.us/) – a browser-based drum machine with step sequencing, pattern variations, and groove editing.
 
 ## Resources
 

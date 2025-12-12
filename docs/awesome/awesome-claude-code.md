@@ -21,9 +21,9 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/placeholder-dark.svg?sanitize=true">
-  <source media="(prefers-color-scheme: light)" srcset="assets/placeholder-light.svg?sanitize=true">
-  <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/placeholder-light.svg?sanitize=true" alt="Awesome Claude Code Surprise Feature" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/repo-ticker.svg?sanitize=true">
+  <source media="(prefers-color-scheme: light)" srcset="assets/repo-ticker-light.svg?sanitize=true">
+  <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/repo-ticker-light.svg?sanitize=true" alt="Awesome Claude Code Repo Ticker" width="100%">
 </picture>
 
 </div>
@@ -83,7 +83,7 @@
 </details> -->
 
 <div align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/thinking-asterisk.svg" alt="*" width="18" /> <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&duration=3000&pause=100&color=F7080D&width=320&lines=Lollygagging...;Skedaddling...;Bumbershooting...;Widdershinning...;Higgledy-piggledying...;Doodlebugging...;Fiddle-faddling...;Whimwhamming...;Dilly-dallying...;Flapdoodling...;Ballyhooing...;Galumphing...;Razzle-dazzling...;Tiddle-taddling...;Zigzagging...;Twinkletoeing...;Puddle-jumping...;Snicker-snacking...;Jibber-jabbering...;Frabjoussing...;Piffle-puffling...;Whirligigging...;Bibbity-bobbitying...;" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/thinking-asterisk.svg" alt="*" width="18" /> <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&duration=3000&pause=100&color=F7080D&width=300&lines=Lollygagging...;Skedaddling...;Bumbershooting...;Widdershinning...;Higgledy-piggledying...;Doodlebugging...;Fiddle-faddling...;Whimwhamming...;Dilly-dallying...;Flapdoodling...;Ballyhooing...;Galumphing...;Razzle-dazzling...;Tiddle-taddling...;Zigzagging...;Twinkletoeing...;Puddle-jumping...;Snicker-snacking...;Jibber-jabbering...;Frabjoussing...;Piffle-puffling...;Whirligigging...;Bibbity-bobbitying...;" /></a>
 </div>
 
 <div align="center">
@@ -1218,7 +1218,7 @@ _A hooks-driven system that monitors file operations in real-time and blocks cha
 
 
 <a href="https://github.com/bartolli/claude-code-typescript-hooks"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-typescript-quality-hooks.svg?sanitize=true" alt="TypeScript Quality Hooks"></a>  
-_Quality check hook for Node.js TypeScript projects with TypeScript compilation. ESLint auto-fixing, and Prettier formatting. Uses SHA256 config caching for <5ms validation performance during real-time editing._  
+_Quality check hook for Node.js TypeScript projects with TypeScript compilation. ESLint auto-fixing, and Prettier formatting. Uses SHA256 config caching for < 5ms validation performance during real-time editing._  
 ![GitHub Stats for claude-code-typescript-hooks](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-typescript-hooks&username=bartolli&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
 
 <div align="center"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/entry-separator-light-animated.svg?sanitize=true" alt=""></div>
@@ -1933,9 +1933,7 @@ _A command center for AI agents that syncs Claude Code sessions across terminal,
     <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/desc-box-top-light.svg?sanitize=true" alt="" width="100%" style="max-width: 900px;">
   </picture>
 </div>
-<h3 id='official-documentation-' align='center'>Links to some of Anthropic's terrific documentation and resources regarding Claude Code
-
-<!--lint disable double-link--></h3>
+<h3 id='official-documentation-' align='center'>Links to some of Anthropic's terrific documentation and resources regarding Claude Code</h3>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/desc-box-bottom.svg?sanitize=true">
@@ -1983,7 +1981,7 @@ _Official GitHub Actions integration for Claude Code with examples and documenta
 `prpm` is like a plugin marketplace, but with additional support for other providers and coding agents. After I notified khaliqgant that I was unable to find any license information for third-party resources that he was hosting on his website, he immediately took action and added a great enhancement to the website's UI, with direct links to original authors' LICENSE files. In my opinion, this is a pretty awesome thing to do to show support for the open source community, and for the developers featured on this list. I see some marketplaces on the internet where basic attribution rights are not being respected, so I commend khaliqgant for setting a great example with [`prpm`](https://prpm.dev/), and I encourage others to promote and enforce these rights in the service of open source software. -->
 
 
-### 🚀 **[Submit a new resource here!](https://github.com/hesreallyhim/awesome-claude-code/issues/new?template=submit-resource.yml)**
+### 🚀 **[Submit a new resource here!](https://github.com/hesreallyhim/awesome-claude-code/issues/new?template=recommend-resource.yml)**
 
 It's easy! Just click the link above and fill out the form. No Git knowledge required - our automated system handles everything for you.
 

@@ -82,6 +82,8 @@ All resources are freely available except those with a 💲 icon.
 * [Quartiles Calculator](https://quartilecalculator.net)
 * [Corca Editor](https://corca.io/)
 * [RunMat](https://github.com/runmat-org/runmat) - Runtime for MATLAB-syntax array math with automatic CPU/GPU execution.
+* [Structural Engineering Tools (SEPCO Engineering)](https://github.com/sepcostructural/structural-engineering-tools) - Free online calculators for beam diagrams, Canadian steel section properties, and pressure conversions.
+
 
 ## Questions and Answers
 
