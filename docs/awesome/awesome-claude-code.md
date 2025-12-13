@@ -484,7 +484,7 @@
   </picture>
 </div>
 
-<details id="general-">
+<details open id="general-">
 <summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_general.svg?sanitize=true" alt="General" align="absmiddle"></picture></span></summary>
 
 <a href="https://github.com/skills-directory/skill-codex"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-codex-skill.svg?sanitize=true" alt="Codex Skill"></a>  
@@ -548,7 +548,7 @@ _Easily generate web assets from Claude Code including favicons, app icons (PWA)
   </picture>
 </div>
 
-<details id="general--1-">
+<details open id="general--1-">
 <summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_general_1.svg?sanitize=true" alt="General" align="absmiddle"></picture></span></summary>
 
 <a href="https://github.com/ayoubben18/ab-method"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-ab-method.svg?sanitize=true" alt="AB Method"></a>  
@@ -729,7 +729,7 @@ _A broader project management workflow for Claude Code that encompasses not just
   </picture>
 </div>
 
-<details id="general--2-">
+<details open id="general--2-">
 <summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_general_2.svg?sanitize=true" alt="General" align="absmiddle"></picture></span></summary>
 
 <a href="https://github.com/GWUDCAP/cc-sessions"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-cc-sessions.svg?sanitize=true" alt="cc-sessions"></a>  
@@ -888,7 +888,7 @@ _VoiceMode MCP brings natural conversations to Claude Code. It supports any Open
 
 </details>
 
-<details id="ide-integrations-">
+<details open id="ide-integrations-">
 <summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_ide_integrations.svg?sanitize=true" alt="IDE Integrations" align="absmiddle"></picture></span></summary>
 
 <a href="https://marketplace.visualstudio.com/items?itemName=AndrePimenta.claude-code-chat"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-claude-code-chat.svg?sanitize=true" alt="Claude Code Chat"></a>  
@@ -934,7 +934,7 @@ _A full-fledged desktop application for orchestrating, monitoring, and interacti
 
 </details>
 
-<details id="usage-monitors-">
+<details open id="usage-monitors-">
 <summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_usage_monitors.svg?sanitize=true" alt="Usage Monitors" align="absmiddle"></picture></span></summary>
 
 <a href="https://github.com/ryoppippi/ccusage"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-cc-usage.svg?sanitize=true" alt="CC Usage"></a>  
@@ -981,7 +981,7 @@ _A community-driven leaderboard tool that enables developers to visualize, track
 
 </details>
 
-<details id="orchestrators-">
+<details open id="orchestrators-">
 <summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_orchestrators.svg?sanitize=true" alt="Orchestrators" align="absmiddle"></picture></span></summary>
 
 <a href="https://github.com/ruvnet/claude-code-flow"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-claude-code-flow.svg?sanitize=true" alt="Claude Code Flow"></a>  
@@ -1080,7 +1080,7 @@ _A Rust CLI tool that lets you delegate development tasks to AI agents running i
   </picture>
 </div>
 
-<details id="general--3-">
+<details open id="general--3-">
 <summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_general_3.svg?sanitize=true" alt="General" align="absmiddle"></picture></span></summary>
 
 <a href="https://github.com/Haleclipse/CCometixLine"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-ccometixline-claude-code-statusline.svg?sanitize=true" alt="CCometixLine - Claude Code Statusline"></a>  
@@ -1158,7 +1158,7 @@ _High-performance Rust-based statusline for Claude Code with persistent stats tr
   </picture>
 </div>
 
-<details id="general--4-">
+<details open id="general--4-">
 <summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_general_4.svg?sanitize=true" alt="General" align="absmiddle"></picture></span></summary>
 
 <a href="https://github.com/Talieisin/britfix"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-britfix.svg?sanitize=true" alt="Britfix"></a>  
@@ -1264,7 +1264,7 @@ _Quality check hook for Node.js TypeScript projects with TypeScript compilation.
   </picture>
 </div>
 
-<details id="general--5-">
+<details open id="general--5-">
 <summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_general_5.svg?sanitize=true" alt="General" align="absmiddle"></picture></span></summary>
 
 <a href="https://github.com/omril321/automated-notebooklm/blob/main/.claude/commands/create-hook.md"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-create-hook.svg?sanitize=true" alt="/create-hook"></a>  
@@ -1283,7 +1283,7 @@ _A library of slash commands intended specifically to facilitate common and adva
 
 </details>
 
-<details id="version-control--git-">
+<details open id="version-control--git-">
 <summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_version_control_git.svg?sanitize=true" alt="Version Control & Git" align="absmiddle"></picture></span></summary>
 
 <a href="https://github.com/jerseycheese/Narraitor/blob/feature/issue-227-ai-suggestions/.claude/commands/analyze-issue.md"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-analyze-issue.svg?sanitize=true" alt="/analyze-issue"></a>  
@@ -1365,7 +1365,7 @@ _Updates branch names with proper prefixes and formats, enforcing naming convent
 
 </details>
 
-<details id="code-analysis--testing-">
+<details open id="code-analysis--testing-">
 <summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_code_analysis_testing.svg?sanitize=true" alt="Code Analysis & Testing" align="absmiddle"></picture></span></summary>
 
 <a href="https://github.com/rygwdn/slack-tools/blob/main/.claude/commands/check.md"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-check.svg?sanitize=true" alt="/check"></a>  
@@ -1412,7 +1412,7 @@ _Implements Test-Driven Development by analyzing feature requirements, creating 
 
 </details>
 
-<details id="context-loading--priming-">
+<details open id="context-loading--priming-">
 <summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_context_loading_priming.svg?sanitize=true" alt="Context Loading & Priming" align="absmiddle"></picture></span></summary>
 
 <a href="https://github.com/elizaOS/elizaos.github.io/blob/main/.claude/commands/context-prime.md"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-context-prime.svg?sanitize=true" alt="/context-prime"></a>  
@@ -1466,7 +1466,7 @@ _Reads all commands and key project files to optimize AI-assisted development by
 
 </details>
 
-<details id="documentation--changelogs-">
+<details open id="documentation--changelogs-">
 <summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_documentation_changelogs.svg?sanitize=true" alt="Documentation & Changelogs" align="absmiddle"></picture></span></summary>
 
 <a href="https://github.com/berrydev-ai/blockdoc-python/blob/main/.claude/commands/add-to-changelog.md"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-add-to-changelog.svg?sanitize=true" alt="/add-to-changelog"></a>  
@@ -1506,7 +1506,7 @@ _Reviews current documentation status, updates implementation progress, reviews 
 
 </details>
 
-<details id="ci--deployment-">
+<details open id="ci--deployment-">
 <summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_ci_deployment.svg?sanitize=true" alt="CI / Deployment" align="absmiddle"></picture></span></summary>
 
 <a href="https://github.com/kelp/webdown/blob/main/.claude/commands/release.md"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-release.svg?sanitize=true" alt="/release"></a>  
@@ -1525,7 +1525,7 @@ _Activates virtual environments, runs CI-compatible check scripts, iteratively f
 
 </details>
 
-<details id="project--task-management-">
+<details open id="project--task-management-">
 <summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_project_task_management.svg?sanitize=true" alt="Project & Task Management" align="absmiddle"></picture></span></summary>
 
 <a href="https://github.com/scopecraft/command/blob/main/.claude/commands/create-command.md"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-create-command.svg?sanitize=true" alt="/create-command"></a>  
@@ -1579,7 +1579,7 @@ _A convenient command to quickly manage project todo items without leaving the C
 
 </details>
 
-<details id="miscellaneous-">
+<details open id="miscellaneous-">
 <summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_miscellaneous.svg?sanitize=true" alt="Miscellaneous" align="absmiddle"></picture></span></summary>
 
 <a href="https://github.com/Mjvolk3/torchcell/blob/main/.claude/commands/fixing_go_in_graph.md"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-fixing-go-in-graph.svg?sanitize=true" alt="/fixing_go_in_graph"></a>  
@@ -1650,7 +1650,7 @@ _Reformats documentation to use React Stepper component, transforming heading fo
   </picture>
 </div>
 
-<details id="language-specific-">
+<details open id="language-specific-">
 <summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_language_specific.svg?sanitize=true" alt="Language-Specific" align="absmiddle"></picture></span></summary>
 
 <a href="https://github.com/didalgolab/ai-intellij-plugin/blob/main/CLAUDE.md"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-ai-intellij-plugin.svg?sanitize=true" alt="AI IntelliJ Plugin"></a>  
@@ -1753,7 +1753,7 @@ _Details Go project conventions with comprehensive error handling recommendation
 
 </details>
 
-<details id="domain-specific-">
+<details open id="domain-specific-">
 <summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_domain_specific.svg?sanitize=true" alt="Domain-Specific" align="absmiddle"></picture></span></summary>
 
 <a href="https://github.com/Layr-Labs/avs-vibe-developer-guide/blob/master/CLAUDE.md"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-avs-vibe-developer-guide.svg?sanitize=true" alt="AVS Vibe Developer Guide"></a>  
@@ -1821,7 +1821,7 @@ _Clear and direct instructives about style, permissions, Claude's "role", commun
 
 </details>
 
-<details id="project-scaffolding--mcp-">
+<details open id="project-scaffolding--mcp-">
 <summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_project_scaffolding_mcp.svg?sanitize=true" alt="Project Scaffolding & MCP" align="absmiddle"></picture></span></summary>
 
 <a href="https://github.com/basicmachines-co/basic-memory/blob/main/CLAUDE.md"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-basic-memory.svg?sanitize=true" alt="Basic Memory"></a>  
@@ -1885,7 +1885,7 @@ _Offers clear step-by-step installation instructions with multiple configuration
   </picture>
 </div>
 
-<details id="general--6-">
+<details open id="general--6-">
 <summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_general_6.svg?sanitize=true" alt="General" align="absmiddle"></picture></span></summary>
 
 <a href="https://github.com/opactorai/Claudable"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-claudable.svg?sanitize=true" alt="Claudable"></a>  
@@ -1942,7 +1942,7 @@ _A command center for AI agents that syncs Claude Code sessions across terminal,
   </picture>
 </div>
 
-<details id="general--7-">
+<details open id="general--7-">
 <summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_general_7.svg?sanitize=true" alt="General" align="absmiddle"></picture></span></summary>
 
 <a href="https://docs.claude.com/en/home"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-anthropic-documentation.svg?sanitize=true" alt="Anthropic Documentation"></a>  
