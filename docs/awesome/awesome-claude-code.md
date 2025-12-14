@@ -102,7 +102,7 @@
 </a>
 </td>
 <td align="center">
-<a href="#workflows--knowledge-guides-">
+<a href="#workflows-knowledge-guides-">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-workflows.svg?sanitize=true">
   <source media="(prefers-color-scheme: light)" srcset="assets/card-workflows-light-anim-lineprint.svg?sanitize=true">
@@ -111,7 +111,7 @@
 </a>
 </td>
 <td align="center">
-<a href="#tooling--">
+<a href="#tooling-">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-tooling.svg?sanitize=true">
   <source media="(prefers-color-scheme: light)" srcset="assets/card-tooling-light-anim-lineprint.svg?sanitize=true">
@@ -169,7 +169,7 @@
 </a>
 </td>
 <td align="center">
-<a href="#official-documentation--">
+<a href="#official-documentation-">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/card-docs.svg?sanitize=true">
   <source media="(prefers-color-scheme: light)" srcset="assets/card-docs-light-anim-lineprint.svg?sanitize=true">
@@ -195,254 +195,286 @@
 
 <br>
 
-<div align="center">
+<div align="left">
 
-<!-- Directory Tree Terminal - Theme Adaptive -->
+<div style="overflow-x:auto;white-space:nowrap;text-align:left;">
+<div style="height:48px;width:400px;overflow:hidden;display:block;"><!-- Directory Tree Terminal - Theme Adaptive -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/toc-header.svg?sanitize=true">
   <source media="(prefers-color-scheme: light)" srcset="assets/toc-header-light-anim-scanline.svg?sanitize=true">
-  <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-header-light-anim-scanline.svg?sanitize=true" alt="Directory Listing">
-</picture>
+  <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-header-light-anim-scanline.svg?sanitize=true" alt="Directory Listing" height="48" style="height:48px;max-width:none;">
+</picture></div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
 <a href="#agent-skills-">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-row-skills.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-row-skills-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-row-skills-light-anim-scanline.svg?sanitize=true" alt="Agent Skills">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-row-skills-light-anim-scanline.svg?sanitize=true" alt="Agent Skills" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
-<a href="#general-">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
+<a href="#skills-general">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-general.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-general-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-general-light-anim-scanline.svg?sanitize=true" alt="General">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-general-light-anim-scanline.svg?sanitize=true" alt="General" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
 <a href="#workflows--knowledge-guides-">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-row-workflows.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-row-workflows-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-row-workflows-light-anim-scanline.svg?sanitize=true" alt="Workflows & Knowledge Guides">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-row-workflows-light-anim-scanline.svg?sanitize=true" alt="Workflows & Knowledge Guides" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
-<a href="#general--1">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
+<a href="#workflows-general">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-general.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-general-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-general-light-anim-scanline.svg?sanitize=true" alt="General">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-general-light-anim-scanline.svg?sanitize=true" alt="General" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
 <a href="#tooling-">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-row-tooling.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-row-tooling-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-row-tooling-light-anim-scanline.svg?sanitize=true" alt="Tooling">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-row-tooling-light-anim-scanline.svg?sanitize=true" alt="Tooling" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
-<a href="#general--2">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
+<a href="#tooling-general">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-general.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-general-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-general-light-anim-scanline.svg?sanitize=true" alt="General">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-general-light-anim-scanline.svg?sanitize=true" alt="General" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
 <a href="#ide-integrations-">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-ide.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-ide-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-ide-light-anim-scanline.svg?sanitize=true" alt="IDE Integrations">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-ide-light-anim-scanline.svg?sanitize=true" alt="IDE Integrations" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
 <a href="#usage-monitors-">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-monitors.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-monitors-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-monitors-light-anim-scanline.svg?sanitize=true" alt="Usage Monitors">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-monitors-light-anim-scanline.svg?sanitize=true" alt="Usage Monitors" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
 <a href="#orchestrators-">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-orchestrators.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-orchestrators-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-orchestrators-light-anim-scanline.svg?sanitize=true" alt="Orchestrators">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-orchestrators-light-anim-scanline.svg?sanitize=true" alt="Orchestrators" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
 <a href="#status-lines-">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-row-statusline.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-row-statusline-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-row-statusline-light-anim-scanline.svg?sanitize=true" alt="Status Lines">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-row-statusline-light-anim-scanline.svg?sanitize=true" alt="Status Lines" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
-<a href="#general--3">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
+<a href="#statusline-general">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-general.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-general-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-general-light-anim-scanline.svg?sanitize=true" alt="General">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-general-light-anim-scanline.svg?sanitize=true" alt="General" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
 <a href="#hooks-">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-row-custom.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-row-custom-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-row-custom-light-anim-scanline.svg?sanitize=true" alt="Hooks">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-row-custom-light-anim-scanline.svg?sanitize=true" alt="Hooks" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
-<a href="#general--4">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
+<a href="#hooks-general">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-general.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-general-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-general-light-anim-scanline.svg?sanitize=true" alt="General">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-general-light-anim-scanline.svg?sanitize=true" alt="General" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
 <a href="#slash-commands-">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-row-commands.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-row-commands-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-row-commands-light-anim-scanline.svg?sanitize=true" alt="Slash-Commands">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-row-commands-light-anim-scanline.svg?sanitize=true" alt="Slash-Commands" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
-<a href="#general--5">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
+<a href="#slash-commands-general">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-general.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-general-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-general-light-anim-scanline.svg?sanitize=true" alt="General">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-general-light-anim-scanline.svg?sanitize=true" alt="General" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
 <a href="#version-control--git-">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-git.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-git-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-git-light-anim-scanline.svg?sanitize=true" alt="Version Control & Git">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-git-light-anim-scanline.svg?sanitize=true" alt="Version Control & Git" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
 <a href="#code-analysis--testing-">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-code-analysis.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-code-analysis-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-code-analysis-light-anim-scanline.svg?sanitize=true" alt="Code Analysis & Testing">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-code-analysis-light-anim-scanline.svg?sanitize=true" alt="Code Analysis & Testing" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
 <a href="#context-loading--priming-">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-context.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-context-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-context-light-anim-scanline.svg?sanitize=true" alt="Context Loading & Priming">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-context-light-anim-scanline.svg?sanitize=true" alt="Context Loading & Priming" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
 <a href="#documentation--changelogs-">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-documentation.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-documentation-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-documentation-light-anim-scanline.svg?sanitize=true" alt="Documentation & Changelogs">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-documentation-light-anim-scanline.svg?sanitize=true" alt="Documentation & Changelogs" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
 <a href="#ci--deployment-">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-ci.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-ci-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-ci-light-anim-scanline.svg?sanitize=true" alt="CI / Deployment">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-ci-light-anim-scanline.svg?sanitize=true" alt="CI / Deployment" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
 <a href="#project--task-management-">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-project-mgmt.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-project-mgmt-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-project-mgmt-light-anim-scanline.svg?sanitize=true" alt="Project & Task Management">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-project-mgmt-light-anim-scanline.svg?sanitize=true" alt="Project & Task Management" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
 <a href="#miscellaneous-">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-misc.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-misc-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-misc-light-anim-scanline.svg?sanitize=true" alt="Miscellaneous">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-misc-light-anim-scanline.svg?sanitize=true" alt="Miscellaneous" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
 <a href="#claudemd-files-">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-row-config.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-row-config-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-row-config-light-anim-scanline.svg?sanitize=true" alt="CLAUDE.md Files">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-row-config-light-anim-scanline.svg?sanitize=true" alt="CLAUDE.md Files" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
 <a href="#language-specific-">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-language.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-language-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-language-light-anim-scanline.svg?sanitize=true" alt="Language-Specific">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-language-light-anim-scanline.svg?sanitize=true" alt="Language-Specific" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
 <a href="#domain-specific-">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-domain.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-domain-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-domain-light-anim-scanline.svg?sanitize=true" alt="Domain-Specific">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-domain-light-anim-scanline.svg?sanitize=true" alt="Domain-Specific" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
 <a href="#project-scaffolding--mcp-">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-scaffolding.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-scaffolding-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-scaffolding-light-anim-scanline.svg?sanitize=true" alt="Project Scaffolding & MCP">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-scaffolding-light-anim-scanline.svg?sanitize=true" alt="Project Scaffolding & MCP" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
 <a href="#alternative-clients-">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-row-clients.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-row-clients-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-row-clients-light-anim-scanline.svg?sanitize=true" alt="Alternative Clients">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-row-clients-light-anim-scanline.svg?sanitize=true" alt="Alternative Clients" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
-<a href="#general--6">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
+<a href="#alternative-clients-general">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-general.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-general-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-general-light-anim-scanline.svg?sanitize=true" alt="General">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-general-light-anim-scanline.svg?sanitize=true" alt="General" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
 <a href="#official-documentation-">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-row-docs.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-row-docs-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-row-docs-light-anim-scanline.svg?sanitize=true" alt="Official Documentation">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-row-docs-light-anim-scanline.svg?sanitize=true" alt="Official Documentation" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
-<a href="#general--7">
+</div>
+<div style="height:40px;width:400px;overflow:hidden;display:block;">
+<a href="#official-documentation-general">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/toc-sub-general.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/toc-sub-general-light-anim-scanline.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-general-light-anim-scanline.svg?sanitize=true" alt="General">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/toc-sub-general-light-anim-scanline.svg?sanitize=true" alt="General" height="40" style="height:40px;max-width:none;">
   </picture>
 </a>
-<br clear="all">
+</div>
+</div>
 
 </div>
 
@@ -452,16 +484,16 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/section-divider-alt2.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/section-divider-light-manual-v1.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/section-divider-light-manual-v1.svg?sanitize=true" alt="" width="100%" style="max-width: 900px;">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/section-divider-light-manual-v1.svg?sanitize=true" alt="" width="100%" style="max-width: 800px;">
   </picture>
 </div>
 
 <h2 id="agent-skills-">
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header_agent_skills.svg?sanitize=true">
-    <source media="(prefers-color-scheme: light)" srcset="assets/header_agent_skills-light-v3.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/header_agent_skills-light-v3.svg?sanitize=true" alt="Agent Skills" style="max-width: 600px;">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header_skills.svg?sanitize=true">
+    <source media="(prefers-color-scheme: light)" srcset="assets/header_skills-light-v3.svg?sanitize=true">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/header_skills-light-v3.svg?sanitize=true" alt="Agent Skills" style="max-width: 600px;">
   </picture>
 </div>
 </h2>
@@ -484,8 +516,8 @@
   </picture>
 </div>
 
-<details open id="general-">
-<summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_general.svg?sanitize=true" alt="General" align="absmiddle"></picture></span></summary>
+<details open id="skills-general">
+<summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_skills_general.svg?sanitize=true" alt="General" align="absmiddle"></picture></span></summary>
 
 <a href="https://github.com/skills-directory/skill-codex"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-codex-skill.svg?sanitize=true" alt="Codex Skill"></a>  
 _Enables users to prompt codex from claude code. Unlike the raw codex mcp server, this skill infers parameters such as model, reasoning effort, sandboxing from your prompt or asks you to specify them. It also simplifies continuing prior codex sessions so that codex can continue with the prior context._  
@@ -516,16 +548,16 @@ _Easily generate web assets from Claude Code including favicons, app icons (PWA)
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/section-divider-alt2.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/section-divider-light-manual-v2.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/section-divider-light-manual-v2.svg?sanitize=true" alt="" width="100%" style="max-width: 900px;">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/section-divider-light-manual-v2.svg?sanitize=true" alt="" width="100%" style="max-width: 800px;">
   </picture>
 </div>
 
 <h2 id="workflows--knowledge-guides-">
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header_workflows_knowledge_guides.svg?sanitize=true">
-    <source media="(prefers-color-scheme: light)" srcset="assets/header_workflows_knowledge_guides-light-v3.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/header_workflows_knowledge_guides-light-v3.svg?sanitize=true" alt="Workflows & Knowledge Guides" style="max-width: 600px;">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header_workflows.svg?sanitize=true">
+    <source media="(prefers-color-scheme: light)" srcset="assets/header_workflows-light-v3.svg?sanitize=true">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/header_workflows-light-v3.svg?sanitize=true" alt="Workflows & Knowledge Guides" style="max-width: 600px;">
   </picture>
 </div>
 </h2>
@@ -548,8 +580,8 @@ _Easily generate web assets from Claude Code including favicons, app icons (PWA)
   </picture>
 </div>
 
-<details open id="general--1-">
-<summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_general_1.svg?sanitize=true" alt="General" align="absmiddle"></picture></span></summary>
+<details open id="workflows-general">
+<summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_workflows_general.svg?sanitize=true" alt="General" align="absmiddle"></picture></span></summary>
 
 <a href="https://github.com/ayoubben18/ab-method"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-ab-method.svg?sanitize=true" alt="AB Method"></a>  
 _A principled, spec-driven workflow that transforms large problems into focused, incremental missions using Claude Code's specialized sub agents. Includes slash-commands, sub agents, and specialized workflows designed for specific parts of the SDLC._  
@@ -697,7 +729,7 @@ _A broader project management workflow for Claude Code that encompasses not just
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/section-divider-alt2.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/section-divider-light-manual-v3.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/section-divider-light-manual-v3.svg?sanitize=true" alt="" width="100%" style="max-width: 900px;">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/section-divider-light-manual-v3.svg?sanitize=true" alt="" width="100%" style="max-width: 800px;">
   </picture>
 </div>
 
@@ -729,8 +761,8 @@ _A broader project management workflow for Claude Code that encompasses not just
   </picture>
 </div>
 
-<details open id="general--2-">
-<summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_general_2.svg?sanitize=true" alt="General" align="absmiddle"></picture></span></summary>
+<details open id="tooling-general">
+<summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_tooling_general.svg?sanitize=true" alt="General" align="absmiddle"></picture></span></summary>
 
 <a href="https://github.com/GWUDCAP/cc-sessions"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-cc-sessions.svg?sanitize=true" alt="cc-sessions"></a>  
 _An opinionated approach to productive development with Claude Code_  
@@ -1048,16 +1080,16 @@ _A Rust CLI tool that lets you delegate development tasks to AI agents running i
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/section-divider-alt2.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/section-divider-light-manual-v1.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/section-divider-light-manual-v1.svg?sanitize=true" alt="" width="100%" style="max-width: 900px;">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/section-divider-light-manual-v1.svg?sanitize=true" alt="" width="100%" style="max-width: 800px;">
   </picture>
 </div>
 
 <h2 id="status-lines-">
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header_status_lines.svg?sanitize=true">
-    <source media="(prefers-color-scheme: light)" srcset="assets/header_status_lines-light-v3.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/header_status_lines-light-v3.svg?sanitize=true" alt="Status Lines" style="max-width: 600px;">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header_statusline.svg?sanitize=true">
+    <source media="(prefers-color-scheme: light)" srcset="assets/header_statusline-light-v3.svg?sanitize=true">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/header_statusline-light-v3.svg?sanitize=true" alt="Status Lines" style="max-width: 600px;">
   </picture>
 </div>
 </h2>
@@ -1080,8 +1112,8 @@ _A Rust CLI tool that lets you delegate development tasks to AI agents running i
   </picture>
 </div>
 
-<details open id="general--3-">
-<summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_general_3.svg?sanitize=true" alt="General" align="absmiddle"></picture></span></summary>
+<details open id="statusline-general">
+<summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_statusline_general.svg?sanitize=true" alt="General" align="absmiddle"></picture></span></summary>
 
 <a href="https://github.com/Haleclipse/CCometixLine"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-ccometixline-claude-code-statusline.svg?sanitize=true" alt="CCometixLine - Claude Code Statusline"></a>  
 _A high-performance Claude Code statusline tool written in Rust with Git integration, usage tracking, interactive TUI configuration, and Claude Code enhancement utilities._  
@@ -1126,7 +1158,7 @@ _High-performance Rust-based statusline for Claude Code with persistent stats tr
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/section-divider-alt2.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/section-divider-light-manual-v2.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/section-divider-light-manual-v2.svg?sanitize=true" alt="" width="100%" style="max-width: 900px;">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/section-divider-light-manual-v2.svg?sanitize=true" alt="" width="100%" style="max-width: 800px;">
   </picture>
 </div>
 
@@ -1158,8 +1190,8 @@ _High-performance Rust-based statusline for Claude Code with persistent stats tr
   </picture>
 </div>
 
-<details open id="general--4-">
-<summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_general_4.svg?sanitize=true" alt="General" align="absmiddle"></picture></span></summary>
+<details open id="hooks-general">
+<summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_hooks_general.svg?sanitize=true" alt="General" align="absmiddle"></picture></span></summary>
 
 <a href="https://github.com/Talieisin/britfix"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-britfix.svg?sanitize=true" alt="Britfix"></a>  
 _Claude outputs American spellings by default, which can have an impact on: professional credibility, compliance, documentation, and more. Britfix converts to British English, with a Claude Code hook for automatic conversion as files are written. Context-aware: handles code files intelligently by only converting comments and docstrings, never identifiers or string literals._  
@@ -1232,7 +1264,7 @@ _Quality check hook for Node.js TypeScript projects with TypeScript compilation.
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/section-divider-alt2.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/section-divider-light-manual-v3.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/section-divider-light-manual-v3.svg?sanitize=true" alt="" width="100%" style="max-width: 900px;">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/section-divider-light-manual-v3.svg?sanitize=true" alt="" width="100%" style="max-width: 800px;">
   </picture>
 </div>
 
@@ -1264,8 +1296,8 @@ _Quality check hook for Node.js TypeScript projects with TypeScript compilation.
   </picture>
 </div>
 
-<details open id="general--5-">
-<summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_general_5.svg?sanitize=true" alt="General" align="absmiddle"></picture></span></summary>
+<details open id="slash-commands-general">
+<summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_slash_commands_general.svg?sanitize=true" alt="General" align="absmiddle"></picture></span></summary>
 
 <a href="https://github.com/omril321/automated-notebooklm/blob/main/.claude/commands/create-hook.md"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-create-hook.svg?sanitize=true" alt="/create-hook"></a>  
 _Slash command for hook creation - intelligently prompts you through the creation process with smart suggestions based on your project setup (TS, Prettier, ESLint...)._  
@@ -1618,16 +1650,16 @@ _Reformats documentation to use React Stepper component, transforming heading fo
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/section-divider-alt2.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/section-divider-light-manual-v1.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/section-divider-light-manual-v1.svg?sanitize=true" alt="" width="100%" style="max-width: 900px;">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/section-divider-light-manual-v1.svg?sanitize=true" alt="" width="100%" style="max-width: 800px;">
   </picture>
 </div>
 
 <h2 id="claudemd-files-">
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header_claudemd_files.svg?sanitize=true">
-    <source media="(prefers-color-scheme: light)" srcset="assets/header_claudemd_files-light-v3.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/header_claudemd_files-light-v3.svg?sanitize=true" alt="CLAUDE.md Files" style="max-width: 600px;">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header_claude_md_files.svg?sanitize=true">
+    <source media="(prefers-color-scheme: light)" srcset="assets/header_claude_md_files-light-v3.svg?sanitize=true">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/header_claude_md_files-light-v3.svg?sanitize=true" alt="CLAUDE.md Files" style="max-width: 600px;">
   </picture>
 </div>
 </h2>
@@ -1853,7 +1885,7 @@ _Offers clear step-by-step installation instructions with multiple configuration
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/section-divider-alt2.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/section-divider-light-manual-v2.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/section-divider-light-manual-v2.svg?sanitize=true" alt="" width="100%" style="max-width: 900px;">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/section-divider-light-manual-v2.svg?sanitize=true" alt="" width="100%" style="max-width: 800px;">
   </picture>
 </div>
 
@@ -1885,8 +1917,8 @@ _Offers clear step-by-step installation instructions with multiple configuration
   </picture>
 </div>
 
-<details open id="general--6-">
-<summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_general_6.svg?sanitize=true" alt="General" align="absmiddle"></picture></span></summary>
+<details open id="alternative-clients-general">
+<summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_alternative_clients_general.svg?sanitize=true" alt="General" align="absmiddle"></picture></span></summary>
 
 <a href="https://github.com/opactorai/Claudable"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-claudable.svg?sanitize=true" alt="Claudable"></a>  
 _Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code and Cursor Agent, to build and deploy products effortlessly._  
@@ -1910,7 +1942,7 @@ _A command center for AI agents that syncs Claude Code sessions across terminal,
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/section-divider-alt2.svg?sanitize=true">
     <source media="(prefers-color-scheme: light)" srcset="assets/section-divider-light-manual-v3.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/section-divider-light-manual-v3.svg?sanitize=true" alt="" width="100%" style="max-width: 900px;">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/section-divider-light-manual-v3.svg?sanitize=true" alt="" width="100%" style="max-width: 800px;">
   </picture>
 </div>
 
@@ -1942,8 +1974,8 @@ _A command center for AI agents that syncs Claude Code sessions across terminal,
   </picture>
 </div>
 
-<details open id="general--7-">
-<summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_general_7.svg?sanitize=true" alt="General" align="absmiddle"></picture></span></summary>
+<details open id="official-documentation-general">
+<summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_official_documentation_general.svg?sanitize=true" alt="General" align="absmiddle"></picture></span></summary>
 
 <a href="https://docs.claude.com/en/home"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-anthropic-documentation.svg?sanitize=true" alt="Anthropic Documentation"></a>  
 _The official documentation for Claude Code, including installation instructions, usage guidelines, API references, tutorials, examples, loads of information that I won't list individually. Like Claude Code, the documentation is frequently updated._
