@@ -300,6 +300,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [Coder](https://coder.com/) - Coder provisions software development environments on your infrastructure via Terraform.
 - [coretech/terrafile](https://github.com/coretech/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Go). :skull:
 - [driftctl](https://github.com/snyk/driftctl) - Detect, track, and alert on infrastructure drift :skull:
+- [drifthound](https://github.com/treezio/drifthound) - Continuous infrastructure drift detection with historical tracking and notifications.
 - [dxw/terrafile](https://github.com/dxw/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Ruby).
 - [flora](https://github.com/ketchoop/flora) - Terraform version manager.
 - [fogg](https://github.com/chanzuckerberg/fogg) - A tool for eliminating toil in managing terraform repositories.
