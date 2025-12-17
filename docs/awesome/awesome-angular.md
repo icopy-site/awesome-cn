@@ -530,6 +530,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [cursor.directory](https://cursor.directory/?q=angular) - The home for Cursor enthusiasts.
 * [deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website.
 * [Design Shift](https://designshift.dev/) - Generate Angular components you want from [Uizard](https://uizard.io/)  layouts.
+* [Feature Search Agent - Angular PR Scout](https://github.com/dnlrbz/feature_search_agent) - An AI-powered agent built with Google's Agent Development Kit (ADK) that automatically searches and analyzes Angular's GitHub pull requests for new features.
 * [Figma to Angular](https://www.builder.io/blog/figma-to-angular) - Convert designs to clean Angular code in a click.
 * [Frontend AI](https://app.webcrumbs.ai/frontend-ai) - Ask for a component or upload an image, and instantly receive ready-to-use code without lifting a finger.
 * [gitingest](https://gitingest.com/) - Turn any Git repository into a simple text digest of its codebase. This is useful for feeding a codebase into any LLM.
@@ -1008,6 +1009,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-realworld-example-app](https://github.com/gothinkster/angular-realworld-example-app) - Angular codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.
 * [angular.ng](https://github.com/desoga10/angular.ng) - An open-source productivity dashboard built with Angular and Supabase.
 * [angluar-crm](https://github.com/minhpham-mew/angluar-crm) - Angular CRM template with contact management, deal tracking, and analytics.
+* [ngx-admin-v20](https://github.com/sebbegamer2222/ngx-admin-v20) - With this admin dashboard, you’ll enjoy a modern Bootstrap 5 UI with SASS customization, reusable components, and a sleek material theme.
 
 ### Paid Templates
 
@@ -1373,6 +1375,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-better-forms](https://github.com/Bioroxx/ngx-better-forms) - Streamlined, maintainable reactive form utilities.
 * [ngx-query-builder](https://github.com/solidexpert-ltd/ngx-query-builder) - Angular query builder with standalone components, sensible defaults, templating hooks, and full form support for domain-specific editors.
 * [ngx-mat-form](https://github.com/Salromag/ngx-mat-form) - Angular library that uses Reactive Forms and Angular Material to dynamically generate configurable forms from a schema.
+* [ng-forge](https://github.com/ng-forge/ng-forge) - A type‑safe, dynamic forms library built for Angular’s signal‑based forms.
+* [zignal](https://github.com/biyonik/zignal) - A type-safe Angular form library using signals and Zod validation, with Turkey-specific validators and multi-language support.
 
 ### Form Controls
 
@@ -1427,6 +1431,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngxsmk-otp-input](https://github.com/toozuuu/ngxsmk-otp-input) - Lightweight standalone Angular 17+ OTP/PIN input with SCSS theming, autofill, masking, and reactive forms support.
 * [ngx-cron-editor](https://github.com/haavardj/ngx-cron-editor) - Graphical Angular 15+ cron builder with reactive forms integration and Material Design styling.
 * [ngx-otp-code-input](https://github.com/Swaraj55/otp-input) - An Angular OTP input component with extensive customization options, including masking, numeric-only input, and autofocus.
+* [smart-date-input](https://github.com/ngxpert/smart-date-input) - A smart date input directive that uses the Writer API to parse natural language dates.
 
 ### JSON Forms
 
@@ -1545,12 +1550,13 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [berg-layout](https://github.com/blidblid/berg-layout) - This monorepo contains versions of the [Berg Layout for Angular](https://www.npmjs.com/package/@berg-layout/angular), React, and Web Components.
 * [static-columns](https://github.com/darekf77/static-columns) - Define columns with static width with Angular and FlexBox.
 * [ngx-flex-layout](https://github.com/jtc10005/ngx-flex-layout) - Port of [Angular Flex Layout](https://github.com/angular/flex-layout) to provide support after EOL.
-* [ng-polymorpheus](https://github.com/taiga-family/ng-polymorpheus) - Polymorpheus is a tiny library for polymorphic templates in Angular.
+* [ng-polymorpheus](https://github.com/taiga-family/ng-polymorpheus) - A tiny library for polymorphic templates in Angular.
 * [gui](https://github.com/acrodata/gui) - JSON powered GUI for configurable panels.
 * [ngx-zoomable](https://github.com/json-k/ngx-zoomable) - A zoomable, pannable container component for Angular applications.
 * [ngx-material-drawer](https://github.com/ansarisufiyan777/ngx-material-drawer) - Configurable Angular Material Drawer and Toolbar.
 * [@marxlnfcs/ngx-grid](https://github.com/marxlnfcs/ngx-grid) - Simple Angular Grid Module for modern grid layouts.
 * [lightweight-grid-layout](https://github.com/liketiger/lightweight-grid-layout) - A headless, dependency-free grid layout library for JavaScript/TypeScript that works with any framework or none, leaving rendering and styling to users.
+* [ng-flex-layout](https://github.com/alessiobianchini/ng-flex-layout) - Angular library that provides a responsive, flexible layout API built on Flexbox and mediaQuery observables.
 
 ### Loaders
 
@@ -1899,6 +1905,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [gcds-components](https://github.com/cds-snc/gcds-components/tree/main/packages/angular) - The `gcds-components-angular` package enables easy integration of [GC Design System](https://design-system.alpha.canada.ca/) web components into Angular.
 * [particle-ng](https://github.com/entake-org/particle-ng) - A lightweight, themeable component library offering flexible, high-control alternatives to Angular Material and PrimeNG.
 * [ngx-kit-ui](https://github.com/OpenKit-Labs/ngx-kit-ui) - Modern Angular UI library for mobile and web.
+* [TecnualNG](https://github.com/tecnual/tecnualng) - A modern Angular UI library offering reusable, customizable, and accessible components for building professional web applications.
 
 ### UI Libraries built on Bootstrap
 
@@ -2053,6 +2060,7 @@ for the creation of web applications developed with Angular.
 * [ngx-safe-subscribe](https://github.com/Badisi/ngx-safe-subscribe) - Easy way to automatically unsubscribe from RxJS observables in Angular components.
 * [observable-webworker](https://github.com/cloudnc/observable-webworker) - Simplified API for working with Web Workers with RxJS.
 * [operators](https://github.com/jscutlery/devkit/tree/main/packages/operators) - This package regroups a couple of RxJS operators meant to simplify some common patterns.
+* [reactive-event-source](https://github.com/andreasnicolaou/reactive-event-source) - Lightweight RxJS-based EventSource wrapper with auto-reconnect, leak prevention, and reactive state management.
 * [redux-observable](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using "Epics".
 * [rx-computed](https://github.com/jscutlery/devkit/tree/main/packages/rx-computed) - The async RxJS-based version of signals' `computed()`.
 * [@mrOranger/RxJs](https://github.com/mrOranger/RxJs) - Theory with examples about the Reactive Programming paradigm, using the library RxJS.
@@ -2150,6 +2158,7 @@ for the creation of web applications developed with Angular.
 * [lyne-angular](https://github.com/sbb-design-systems/lyne-angular) - Angular wrapper for the [Lyne Web Components](https://github.com/sbb-design-systems/lyne-components).
 * [@interopio/ng](https://www.npmjs.com/package/@interopio/ng) - [IO Connect](https://interop.io/) Angular wrapper to simplify initializing and using IO Connect libraries in projects.
 * [ng-elementum](https://github.com/MillerSvt/ng-elementum) - A modern fork of `@angular/elements` that enhances the integration of Angular components with the Web Components standard.
+* [ngx-apexgantt](https://github.com/apexcharts/ngx-apexgantt) - Angular wrapper for [ApexGantt](https://github.com/apexcharts/apexgantt), a JavaScript library to create Gantt diagrams built on SVG.
 * [ngx-barcode6](https://github.com/efgiese/ngx-barcode6) - An Angular component for Angular 9+ for creating 1-D barcodes based on [JsBarcode](https://github.com/lindell/JsBarcode).
 * [ngx-chessground](https://github.com/topce/ngx-chessground) - Angular wrapper for [chessground](https://github.com/ornicar/chessground).
 * [ngx-d3](https://github.com/simonegosetto/ngx-d3) - A [D3](https://d3js.org/) wrapper service for Angular applications inspired by [d3-ng2-service](https://github.com/tomwanzek/d3-ng2-service).

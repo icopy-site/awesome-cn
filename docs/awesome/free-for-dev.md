@@ -423,6 +423,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [SiteDots](https://sitedots.com/) - Share feedback for website projects directly on your website, no emulation, canvas or workarounds. Completely functional free tier.
 
   * [Cushion](https://cushion.so/) - Async-friendly alternative to Slack. built for small, distributed teams who are productive. Free tier with 30 posts, 5 members and unlimited guests.
+  * [Fizzy](https://www.fizzy.do/) - Kanban-based platform for project management and issue tracking. Create public boards, set up webhooks, use card stamping, and track unlimited users — free for up to 1000 items.
 
 
 ## CMS
@@ -1446,6 +1447,7 @@ Update Time, five active automations, webhooks.
   * [clevebrush.com](https://www.cleverbrush.com/) — Free Graphics Design / Photo Collage App. Also, they offer paid integration of it as a component.
   * [cloudconvert.com](https://cloudconvert.com/) — Convert anything to anything. Two hundred eight supported formats including videos and gifs.
   * [CodeMyUI](https://codemyui.com) - Handpicked collection of Web Design & UI Inspiration with Code Snippets.
+  * [CodedThemes](https://codedthemes.com/) - Offers a well-crafted admin dashboard & and UI kits designed to simplify and speed up modern web development.
   * [ColorKit](https://colorkit.co/) - Create color palettes online or get inspiration from top palettes.
   * [colorr.me](https://colorr.me/) - Color & Gradient Generator
   * [coolors](https://coolors.co/) - Color palette generator. Free.

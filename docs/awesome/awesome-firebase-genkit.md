@@ -80,6 +80,8 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    - [`genkitx-chromadb`](https://genkit.dev/docs/plugins/chroma/) - Plugin for Chroma Vector Stores.
    - [`genkitx-neo4j`](https://genkit.dev/docs/plugins/neo4j/) - Plugin for Neo4j Vector Stores.
    - [`genkitx-cloud-sql-pg`](https://genkit.dev/docs/plugins/cloud-sql-pg/) - Plugin for Cloud SQL for PostgreSQL Vector Stores.
+   - [`genkitx-weaviate`](https://github.com/xavidop/genkitx-weaviate) - Plugin for Weaviate Vector Stores.
+   - [`genkitx-mongodb`](https://github.com/mongodb-partners/genkitx-mongodb/tree/main/plugin) - Plugin for MongoDB Vector Stores.
 3. Evaluator Plugins
    - [`genkitx-promptfoo`](https://github.com/yukinagae/genkitx-promptfoo) - Plugin for Promptfoo Evaluations.
 4. Other Plugins
@@ -112,6 +114,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
    - [`localvec`](https://firebase.google.com/docs/genkit-go/rag) - Plugin for Local Vector Store for development purposes.
    - [`pgvector`](https://genkit.dev/go/docs/plugins/pgvector/) - Plugin for PostgreSQL (PGVector) Vector Stores.
    - [`postgresql`](https://genkit.dev/go/docs/plugins/cloud-sql-pg/) - Plugin for Cloud SQL for PostgreSQL Vector Stores.
+   - [`weaviate`](https://github.com/firebase/genkit/tree/main/go/plugins/weaviate) - Plugin for Weaviate Vector Stores.
 3. Monitoring Plugins
    - [`googlecloud`](https://genkit.dev/go/docs/plugins/google-cloud/) - The Google Cloud plugin exports Genkit's telemetry and logging data to Google Cloud's operation suite.
 4. Other Plugins:
@@ -122,7 +125,9 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 1. Model / Embedding Plugins
    - [`bedrock`](https://pkg.go.dev/github.com/xavidop/genkit-aws-bedrock-go) - Plugin for AWS Bedrock APIs.
    - [`azureaifoundry`](https://pkg.go.dev/github.com/xavidop/genkit-azure-foundry-go) - Plugin for Azure AI Foundry.
-2. Monitoring Plugin:
+2. Vector Store Plugins
+   - [`qdrant`](https://github.com/qdrant/qdrant-genkit/tree/main/go) - Plugin for Qdrant Vector Stores.
+3. Monitoring Plugin:
    - [`opentelemetry`](https://github.com/xavidop/genkit-opentelemetry-go) - Plugin for OpenTelemetry to monitor Genkit applications.
 
 ## Client Libraries

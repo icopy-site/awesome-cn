@@ -396,7 +396,7 @@ lists and sequences:
 
 * 👍 [FSet](https://common-lisp.net/project/fset) - A functional, set-theoretic collections data structure library. [LLGPL][8].
   * defines four major types: seqs (sequences), maps (hash-tables), sets and bags (like sets, but they remember the number of times each member has been added to it).
-  * an extension: [jfon](https://git.sr.ht/~skin/jfon) - an attempt at porting JZON (JSON parsing library) to FSet.
+  * an extension: [jfon](https://github.com/djha-skin/jfon) - an attempt at porting JZON (JSON parsing library) to FSet.
 * [sycamore](https://github.com/ndantam/sycamore) -  a fast, purely functional data structure library. [BSD_3Clause][15].
   - comparison: [FSet vs. Sycamore](https://scottlburson2.blogspot.com/2024/10/comparison-fset-vs-sycamore.html)
 * [modf](https://github.com/smithzvk/modf) - a setf-like macro for functional programming.
@@ -1815,6 +1815,8 @@ Tools:
 
 * [icl](https://github.com/atgreen/icl) - an enhanced REPL for the terminal. MIT.
   * based on Slynk: shares many features with Slime.
+  * interactive inspector
+  * experimental `,explain` command that fires up Gemini or Claude CLI.
 * [cl-repl](https://github.com/lisp-maintainers/cl-repl) - an ipython-like REPL. With completion, shell commands, magic commands, debugger, etc. [GPL3][2].
   * binary releases: simply download a binary (Ubuntu, OSX, Windows) and run it.
   * [colorthemes](https://github.com/koji-kojiro/lem-pygments-colorthemes).
