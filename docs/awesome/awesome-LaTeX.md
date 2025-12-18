@@ -106,6 +106,7 @@ Online editors that allow you to edit documents collaboratively.
 - [Authorea](https://www.authorea.com) - Online editor with built-in git support and bibliography tools.
 - [Crixet](https://app.crixet.com) - Online editor with realtime collaboration features.
 - [ShareLaTeX](https://www.sharelatex.com) - Has pretty great LaTeX documentation and simple version control.
+- [Octree](https://useoctree.com) - Online editor with AI writing assistance.
 - [Overleaf](https://www.overleaf.com) - Online editor, also with a WYSIWYM editor and git support.
 - [WebLaTeX](https://github.com/sanjib-sen/weblatex) - Web-based vscode with Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support based on GitHub Codespace and Dev container.
 - [Papeeria](https://papeeria.com) - Online editor with built-in git support.
@@ -158,6 +159,7 @@ Compiling LaTeX documents can be tedious, build tools help you to manage the com
 - [LaTeXiT](https://www.chachatelier.fr/latexit/) - LaTeXit is an equation editor that makes it easy to drag-and-drop rendered equations (as PDF, PNG, etc.) into your non-LaTeX documents on the Mac. ![mac]
 - [LaTeX to Image](https://thomasahle.com/latex2png/) - Convert LaTeX to PNG, JPEG, or SVG images. Big symbols menu and easy drag-and-drop equations.
 - [pix2tex](https://lukas-blecher.github.io/LaTeX-OCR/) - LaTeX OCR ![windows] ![linux] ![mac] ![foss]
+- [Image to LaTeX](https://www.underleaf.ai/tools/image-to-latex) - AI-powered converter that transforms images of handwritten notes, equations, or tables into clean LaTeX code.
 
 ## LaTeX-compatible GUI tools
 

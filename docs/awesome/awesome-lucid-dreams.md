@@ -59,6 +59,7 @@ In the psychology subfield of oneirology, a [lucid dream](https://en.wikipedia.o
 ## Games
 
 - [DARQ](https://store.steampowered.com/app/433550/DARQ_Complete_Edition/) - An adventure game that tells the story of Lloyd, a boy who becomes aware of the fact that he is dreaming.
+- [Dreams](https://store.steampowered.com/app/4214640/Dreams/) - A meditative incremental / idle game where you weave dreams, collect memories, and dive ever deeper into the dreamscape.
 
 ## Apps
 

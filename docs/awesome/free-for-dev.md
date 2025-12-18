@@ -235,6 +235,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Kreya](https://kreya.app) — Free gRPC GUI client to call and test gRPC APIs. Can import gRPC APIs via server reflection.
   * [Lightly](https://www.lightly.ai/) — Improve your machine-learning models by using the correct data. Use datasets of up to 1000 samples for free.
   * [LoginLlama](https://loginllama.app) - A login security API to detect fraudulent and suspicious logins and notify your customers. Free for 1,000 logins per month.
+  * [KillBait API](https://killbait.com/api/doc) - KillBait API allows users to submit URLs for content evaluation, detecting potential clickbait and categorizing articles. The API is designed for moderate publishing frequency, with limits of 1 submission per hour and 10 per day. Media partners can request higher limits.
   * [MailboxValidator](https://www.mailboxvalidator.com) — Email verification service using real mail server connection to confirm valid email. The free API plan has 100 verifications per month.
   * [Market Data API](https://www.marketdata.app) - Provides real-time and historical financial data for stocks, options, mutual funds, and more. The Free Forever API tier allows for 100 daily API requests at no charge.
   * [Meteosource Weather API](https://www.meteosource.com/) — global weather API for current and forecasted weather data. Forecasts are based on a machine learning combination of more weather models to achieve better accuracy. The free plan comes with 400 calls per day.
@@ -1935,4 +1936,5 @@ HTML Themes and UI Kits to create your applications faster!
   * [Axonomy App](https://axonomy-app.com/) - A free tool to create, manage and share your invoices with your clients. 10 free invoices per month.
   * [Table Format Converter](https://www.tableformatconverter.com) - A free tool to convert table data to different formats, such as CSV, HTML, JSON, Markdown and more.
   * [JSON Viewer Tool](https://jsonviewertool.com/) – View, format, validate, minify, and convert JSON data directly in the browser (no API key required).
+  * [ToolsHref](https://toolshref.com) - A suite of free developer utilities including Java code generation (JSON-to-POJO, cURL-to-Java), static analysis, and DevOps config builders (Docker, K8s, Nginx).
 

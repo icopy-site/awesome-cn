@@ -369,6 +369,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Insomnia](https://insomnia.rest/) - The most intuitive cross-platform REST API Client. [![Open-Source Software][OSS Icon]](https://github.com/getinsomnia/insomnia) ![Freeware][Freeware Icon]
 * [Katalon Studio](https://www.katalon.com) - Simplify API, Web, and Mobile Automation Tests. ![Freeware][Freeware Icon]
 * [Maestro](https://maestro.dev/) - End-to-end testing for Mobile and Web apps. Supports iOS, Android, React Native, Flutter and more. [![Open-Source Software][OSS Icon]](https://github.com/mobile-dev-inc/maestro) ![Freeware][Freeware Icon]
+* [Mockoon](https://mockoon.com/) - Create mock APIs in seconds. [![Open-Source Software][OSS Icon]](https://github.com/mockoon/mockoon)
 * [Paw](https://paw.cloud/) - Advanced HTTP client.
 * [Postman](https://www.getpostman.com) - GUI platform for API development. ![Freeware][Freeware Icon]
 * [Reqable](https://reqable.com) - Next-Gen API Development Tool, Advanced API Debugging Proxy and REST Client. ![Freeware][Freeware Icon]
@@ -947,7 +948,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 ### Clipboard Tools
 
-* [Boop](https://boop.okat.best/) - Snippet tool that provides various functionalities like JSON formatting, MD5 Checksum, reverse string, encode, and much more. [![Open-Source Software][OSS Icon]](https://github.com/IvanMathy/Boop)
 * [CleanClip](https://cleanclip.cc) - The cleanest Clipboard Manager on macOS, ever! ![Freeware][Freeware Icon]
 * [Clipboard](https://getclipboard.app/) - Easy-to-use terminal clipboard manager for all platforms. [![Open-Source Software][OSS Icon]](https://github.com/Slackadays/Clipboard) ![Freeware][Freeware Icon]
 * [ClipMenu](http://www.clipmenu.com) - Clipboard manager for Mac OS X. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
@@ -956,12 +956,14 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [CopyQ](https://hluk.github.io/CopyQ) - Clipboard Manager with Advanced Features. [![Open-Source Software][OSS Icon]](https://github.com/hluk/CopyQ) ![Freeware][Freeware Icon]
 * [iCopy](https://apps.apple.com/cn/app/icopy-%E5%89%AA%E5%88%87%E6%9D%BF-%E5%BF%AB%E6%8D%B7%E5%9B%9E%E5%A4%8D%E5%B7%A5%E5%85%B7/id1638023723?mt=12) - Clipboard management, quick reply, efficiency multiplier artifact ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/cn/app/icopy-%E5%89%AA%E5%88%87%E6%9D%BF-%E5%BF%AB%E6%8D%B7%E5%9B%9E%E5%A4%8D%E5%B7%A5%E5%85%B7/id1638023723?mt=12)
 * [iPaste](https://en.toolinbox.net/iPaste) - Lightweight and efficient clipboard tool. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/id1056935452?ls=1&mt=12&at=1000lv4R&ct=iPaste_me)
+* [Paste Quick](https://wangchujiang.com/paste-quick/) - A simple, privacy-first clipboard manager. [![App Store][app-store Icon]](https://apps.apple.com/app/paste-quick/6723903021)
 * [Paste](http://pasteapp.me) - Smart clipboard history & snippets manager. [![App Store][app-store Icon]](https://apps.apple.com/us/app/paste-clipboard-history-manager/id967805235)
 * [PasteBar](https://github.com/PasteBar/PasteBarApp) - Limitless, Free Clipboard Manager for Mac and Windows. [![Open-Source Software][OSS Icon]](https://github.com/PasteBar/PasteBarApp) ![Freeware][Freeware Icon]
 * [PasteBot](https://tapbots.com/pastebot/) - Powerful clipboard manager. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/pastebot/id1179623856)
 * [Pure Paste](https://sindresorhus.com/pure-paste) - Paste as plain text by default. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1611378436)
 * [Flycut](https://github.com/TermiT/Flycut) - Clean and simple clipboard manager for developers. [![Open-Source Software][OSS Icon]](https://github.com/TermiT/Flycut) ![Freeware][Freeware Icon]
 * [Maccy](https://maccy.app/) - Lightweight clipboard manager for macOS. [![Open-Source Software][OSS Icon]](https://github.com/p0deje/Maccy) ![Freeware][Freeware Icon]
+* [OneClip](https://github.com/Wcowin/OneClip) - A simple and professional macOS clipboard manager. [![Open-Source Software][OSS Icon]](https://github.com/Wcowin/OneClip) ![Freeware][Freeware Icon]
 * [Yippy](https://github.com/mattDavo/Yippy) - Clipboard manager with user-friendly UI. [![Open-Source Software][OSS Icon]](https://github.com/mattDavo/Yippy) ![Freeware][Freeware Icon]
 * [ClipFlow](https://github.com/praneeth552/clipflow) - Free clipboard history manager with terminal-style navigation. [![Open-Source Software][OSS Icon]](https://github.com/praneeth552/clipflow) ![Freeware][Freeware Icon]
 

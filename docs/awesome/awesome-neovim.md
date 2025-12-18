@@ -516,6 +516,7 @@
 - [LucasTavaresA/headers.nvim](https://github.com/LucasTavaresA/headers.nvim) - Zero-config header/footer warnings.
 - [zongben/proot.nvim](https://github.com/zongben/proot.nvim) - Lightweight project navigator with telescope.
 - [wsdjeg/rooter.nvim](https://github.com/wsdjeg/rooter.nvim) - Change working directory to project root.
+- [mrjones2014/codesettings.nvim](https://github.com/mrjones2014/codesettings.nvim) - Load project-local settings (like `.vscode/settings.json`) into Neovim 0.11+ native LSP settings easily.
 
 <!--lint disable double-link -->
 
@@ -588,7 +589,6 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 - [tanvirtin/monokai.nvim](https://github.com/tanvirtin/monokai.nvim) - Monokai theme written in Lua.
 - [ofirgall/ofirkai.nvim](https://github.com/ofirgall/ofirkai.nvim) - Monokai theme that aims to feel like Sublime Text.
 - [savq/melange-nvim](https://github.com/savq/melange-nvim) - Warm colorscheme written in Lua with support for various terminal emulators.
-- [RRethy/base16-nvim](https://github.com/RRethy/base16-nvim) - Neovim plugin for building base16 colorschemes. Includes support for Tree-sitter and LSP highlight groups.
 - [fenetikm/falcon](https://github.com/fenetikm/falcon) - A colour scheme for terminals, Vim and friends.
 - [andersevenrud/nordic.nvim](https://github.com/andersevenrud/nordic.nvim) - A nord-esque colorscheme.
 - [AlexvZyl/nordic.nvim](https://github.com/AlexvZyl/nordic.nvim) - Nord for Neovim, but warmer and darker. Supports a variety of plugins and other platforms.
@@ -619,7 +619,7 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 - [adisen99/apprentice.nvim](https://github.com/adisen99/apprentice.nvim) - Colorscheme written in Lua based on the [Apprentice](https://github.com/romainl/Apprentice) color palette with Tree-sitter and built-in LSP support.
 - [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) - Atom's iconic One Dark theme. Cacheable, fully customisable, Tree-sitter and LSP semantic token support. Comes with light and dark variants.
 - [rmehri01/onenord.nvim](https://github.com/rmehri01/onenord.nvim) - A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
-- [nvim-mini/mini.nvim#colorschemes](https://github.com/nvim-mini/mini.nvim#plugin-colorschemes) - Color schemes included in `mini.nvim` plugin. All of them prioritize high contrast ratio for reading text and computing palettes in perceptually uniform color spaces.
+- [nvim-mini/mini.nvim#colorschemes](https://github.com/nvim-mini/mini.nvim#plugin-color-schemes) - Color schemes included in `mini.nvim`. All of them prioritize high contrast ratio for reading text and computing palettes in perceptually uniform color spaces.
 - [luisiacc/gruvbox-baby](https://github.com/luisiacc/gruvbox-baby) - A modern gruvbox theme with full Tree-sitter support.
 - [titanzero/zephyrium](https://github.com/titanzero/zephyrium) - A zephyr-esque theme, written in Lua, with Tree-sitter support.
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - Neovim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.
@@ -650,7 +650,6 @@ Tree-sitter is a new system introduced in Neovim 0.5 that incrementally parses y
 - [cryptomilk/nightcity.nvim](https://github.com/cryptomilk/nightcity.nvim) - A dark colorscheme inspired by Inkpot, Jellybeans, Gruvbox and Tokyonight with LSP support.
 - [polirritmico/monokai-nightasty.nvim](https://github.com/polirritmico/monokai-nightasty.nvim) - A dark/light theme based on the Monokai color palette written in Lua, support for LSP, Tree-sitter and lots of plugins.
 - [oxfist/night-owl.nvim](https://github.com/oxfist/night-owl.nvim) - A [Night Owl colorscheme port from VSCode](https://github.com/sdras/night-owl-vscode-theme) with support for Tree-sitter and semantic tokens.
-- [svermeulen/text-to-colorscheme](https://github.com/svermeulen/text-to-colorscheme) - Dynamically generated colorschemes generated on the fly with a text prompt using ChatGPT.
 - [miikanissi/modus-themes.nvim](https://github.com/miikanissi/modus-themes.nvim) - Accessible theme, conforming with the highest standard for color contrast (WCAG AAA).
 - [alexmozaidze/palenight.nvim](https://github.com/alexmozaidze/palenight.nvim) - Palenight colorscheme supporting Tree-sitter, LSP _(including semantic tokens)_ and lots of plugins.
 - [scottmckendry/cyberdream.nvim](https://github.com/scottmckendry/cyberdream.nvim) - A high-contrast, futuristic & vibrant coloursheme.
@@ -699,6 +698,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [nvim-mini/mini.nvim#mini.colors](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-colors.md) - Module of `mini.nvim` to tweak and save any color scheme. Also can animate transition and convert between some color spaces.
 - [nvim-mini/mini.nvim#mini.hues](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-hues.md) - Module of `mini.nvim` to generate configurable color scheme. Takes only background and foreground colors as required arguments. Can adjust number of hues for non-base colors, saturation, accent color, plugin integration.
 - [loganswartz/polychrome.nvim](https://github.com/loganswartz/polychrome.nvim) - A colorscheme micro-framework, with support for specifying colors directly in many different formats (sRGB, HSL, Oklab, XYZ and more, with intelligent chroma clipping), live editing preview, and a simple DSL.
+- [svermeulen/text-to-colorscheme](https://github.com/svermeulen/text-to-colorscheme) - Allows the user to generate colorschemes with a text prompt using OpenAI's GPT API.
 
 ### Colorscheme Switchers
 
@@ -713,6 +713,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [LmanTW/themify.nvim](https://github.com/LmanTW/themify.nvim/tree/main) - A lightweight colorscheme manager and switcher inspired by Themery.nvim and Lazy.nvim.
 - [nishu-murmu/ThemeSwitch.nvim](https://github.com/nishu-murmu/ThemeSwitch.nvim) - Light weight color scheme switcher.
 - [Erl-koenig/theme-hub.nvim](https://github.com/Erl-koenig/theme-hub.nvim) - Manage and install colorschemes via telescope-pickers.
+- [RRethy/base16-nvim](https://github.com/RRethy/base16-nvim) - A base16 colorscheme builder. Includes support for Tree-sitter and LSP highlight groups.
 
 <!--lint disable double-link -->
 
@@ -1128,6 +1129,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [chrisgrieser/nvim-justice](https://github.com/chrisgrieser/nvim-justice) - Lightweight integration of the `just` task runner.
 - [pewpewnor/pilot.nvim](https://github.com/pewpewnor/pilot.nvim) - Run your projects and files quickly with keybindings, and configure how to run them on the fly.
 - [ok97465/ipybridge.nvim](https://github.com/ok97465/ipybridge.nvim) - Run Python code, execute Jupyter cells, debug, and explore variables.
+- [wsdjeg/code-runner.nvim](https://github.com/wsdjeg/code-runner.nvim) - Async code runner with range support.
 
 <!--lint disable double-link -->
 

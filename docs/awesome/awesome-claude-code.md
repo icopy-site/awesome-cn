@@ -13,7 +13,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-header.svg?sanitize=true">
   <source media="(prefers-color-scheme: light)" srcset="assets/terminal-header-light-anim-lineprint.svg?sanitize=true">
-  <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/terminal-header-light-anim-lineprint.svg?sanitize=true" alt="Awesome Claude Code Terminal" width="100%">
+  <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/terminal-header-light-anim-lineprint.svg?sanitize=true" alt="Awesome Claude Code Terminal">
 </picture>
 
 <!-- Generated with https://github.com/denvercoder1/readme-typing-svg -->
@@ -175,11 +175,31 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/makeover-banner.svg?sanitize=true">
-    <source media="(prefers-color-scheme: light)" srcset="assets/makeover-banner-light.svg?sanitize=true">
-    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/makeover-banner-light.svg?sanitize=true" alt="EXTREME REPO MAKEOVER BY CLAUDE CODE WEB!" width="100%" style="max-width: 900px;">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/latest-additions-header.svg?sanitize=true">
+    <source media="(prefers-color-scheme: light)" srcset="assets/latest-additions-header-light.svg?sanitize=true">
+    <img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/latest-additions-header-light.svg?sanitize=true" alt="LATEST ADDITIONS">
   </picture>
 </div>
+
+<a href="https://github.com/maxritter/claude-codepro"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-claude-codepro.svg?sanitize=true" alt="Claude CodePro"></a>  
+_Professional development environment for Claude Code with spec-driven workflow, TDD enforcement, cross-session memory, semantic search, quality hooks, and modular rules integration. A bit "heavyweight" but feature-packed and has wide coverage._  
+![GitHub Stats for claude-codepro](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-codepro&username=maxritter&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+<a href="https://github.com/aannoo/claude-hook-comms"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-claude-code-hook-comms-hcom.svg?sanitize=true" alt="Claude Code Hook Comms (HCOM)"></a>  
+
+_Lightweight CLI tool for real-time communication between Claude Code sub agents using hooks. Enables multi-agent collaboration with @-mention targeting, live dashboard monitoring, and zero-dependency implementation. [NOTE: At the time of posting, this resource is a little unstable - I'm sharing it anyway, because I think it's incredibly promising and creative. I hope by the time you read this, it is production-ready.]_  
+![GitHub Stats for claude-hook-comms](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-hook-comms&username=aannoo&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+
+<a href="https://github.com/dreamiurg/claude-mountaineering-skills"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-claude-mountaineering-skills.svg?sanitize=true" alt="Claude Mountaineering Skills"></a>  
+_Claude Code skill that automates mountain route research for North American peaks. Aggregates data from 10+ mountaineering sources like Mountaineers.org, PeakBagger.com and SummitPost.com to generate detailed route beta reports with weather, avalanche conditions, and trip reports._  
+![GitHub Stats for claude-mountaineering-skills](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-mountaineering-skills&username=dreamiurg&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+
+<a href="https://github.com/Piebald-AI/claude-code-system-prompts"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-claude-code-system-prompts.svg?sanitize=true" alt="Claude Code System Prompts"></a>  
+_All parts of Claude Code's system prompt, including builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, Bash cmd, security review, agent creation, etc.). Updated for each Claude Code version._  
+![GitHub Stats for claude-code-system-prompts](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-system-prompts&username=Piebald-AI&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+
+<a href="https://github.com/fcakyon/claude-codex-settings"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-claude-codex-settings.svg?sanitize=true" alt="Claude Codex Settings"></a>  
+_A well-organized, well-written set of plugins covering core developer activities, such as working with common cloud platforms like GitHub, Azure, MongoDB, and popular services such as Tavily, Playwright, and more. Clear, not overly-opinionated, and compatible with a few other providers._  
+![GitHub Stats for claude-codex-settings](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-codex-settings&username=fcakyon&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
 
 
 <br>
@@ -508,6 +528,20 @@
 <details open id="skills-general">
 <summary><span><picture><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/subheader_skills_general.svg?sanitize=true" alt="General" align="absmiddle"></picture></span></summary>
 
+<a href="https://github.com/fcakyon/claude-codex-settings"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-claude-codex-settings.svg?sanitize=true" alt="Claude Codex Settings"></a>  
+_A well-organized, well-written set of plugins covering core developer activities, such as working with common cloud platforms like GitHub, Azure, MongoDB, and popular services such as Tavily, Playwright, and more. Clear, not overly-opinionated, and compatible with a few other providers._  
+![GitHub Stats for claude-codex-settings](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-codex-settings&username=fcakyon&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+
+<div align="center"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/entry-separator-light-animated.svg?sanitize=true" alt=""></div>
+
+
+<a href="https://github.com/dreamiurg/claude-mountaineering-skills"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-claude-mountaineering-skills.svg?sanitize=true" alt="Claude Mountaineering Skills"></a>  
+_Claude Code skill that automates mountain route research for North American peaks. Aggregates data from 10+ mountaineering sources like Mountaineers.org, PeakBagger.com and SummitPost.com to generate detailed route beta reports with weather, avalanche conditions, and trip reports._  
+![GitHub Stats for claude-mountaineering-skills](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-mountaineering-skills&username=dreamiurg&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+
+<div align="center"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/entry-separator-light-animated.svg?sanitize=true" alt=""></div>
+
+
 <a href="https://github.com/skills-directory/skill-codex"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-codex-skill.svg?sanitize=true" alt="Codex Skill"></a>  
 _Enables users to prompt codex from claude code. Unlike the raw codex mcp server, this skill infers parameters such as model, reasoning effort, sandboxing from your prompt or asks you to specify them. It also simplifies continuing prior codex sessions so that codex can continue with the prior context._  
 ![GitHub Stats for skill-codex](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=skill-codex&username=skills-directory&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
@@ -616,6 +650,20 @@ _A remarkably innovative approach to working with Skills, the centerpiece of whi
 <a href="https://github.com/automazeio/ccpm"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-claude-code-pm.svg?sanitize=true" alt="Claude Code PM"></a>  
 _Really comprehensive and feature-packed project-management workflow for Claude Code. Numerous specialized agents, slash-commands, and strong documentation._  
 ![GitHub Stats for ccpm](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=ccpm&username=automazeio&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+
+<div align="center"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/entry-separator-light-animated.svg?sanitize=true" alt=""></div>
+
+
+<a href="https://github.com/Piebald-AI/claude-code-system-prompts"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-claude-code-system-prompts.svg?sanitize=true" alt="Claude Code System Prompts"></a>  
+_All parts of Claude Code's system prompt, including builtin tool descriptions, sub agent prompts (Plan/Explore/Task), utility prompts (CLAUDE.md, compact, Bash cmd, security review, agent creation, etc.). Updated for each Claude Code version._  
+![GitHub Stats for claude-code-system-prompts](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-code-system-prompts&username=Piebald-AI&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+
+<div align="center"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/entry-separator-light-animated.svg?sanitize=true" alt=""></div>
+
+
+<a href="https://github.com/maxritter/claude-codepro"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-claude-codepro.svg?sanitize=true" alt="Claude CodePro"></a>  
+_Professional development environment for Claude Code with spec-driven workflow, TDD enforcement, cross-session memory, semantic search, quality hooks, and modular rules integration. A bit "heavyweight" but feature-packed and has wide coverage._  
+![GitHub Stats for claude-codepro](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-codepro&username=maxritter&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
 
 <div align="center"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/entry-separator-light-animated.svg?sanitize=true" alt=""></div>
 
@@ -1199,6 +1247,13 @@ _CCNotify provides desktop notifications for Claude Code, alerting you to input 
 <a href="https://github.com/GowayLee/cchooks"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-cchooks.svg?sanitize=true" alt="cchooks"></a>  
 _A lightweight Python SDK with a clean API and good documentation; simplifies the process of writing hooks and integrating them into your codebase, providing a nice abstraction over the JSON configuration files._  
 ![GitHub Stats for cchooks](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=cchooks&username=GowayLee&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+
+<div align="center"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/entry-separator-light-animated.svg?sanitize=true" alt=""></div>
+
+
+<a href="https://github.com/aannoo/claude-hook-comms"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-claude-code-hook-comms-hcom.svg?sanitize=true" alt="Claude Code Hook Comms (HCOM)"></a>  
+_Lightweight CLI tool for real-time communication between Claude Code sub agents using hooks. Enables multi-agent collaboration with @-mention targeting, live dashboard monitoring, and zero-dependency implementation. [NOTE: At the time of posting, this resource is a little unstable - I'm sharing it anyway, because I think it's incredibly promising and creative. I hope by the time you read this, it is production-ready.]_  
+![GitHub Stats for claude-hook-comms](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-hook-comms&username=aannoo&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
 
 <div align="center"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/entry-separator-light-animated.svg?sanitize=true" alt=""></div>
 
