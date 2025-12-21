@@ -127,6 +127,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-boomer](https://github.com/angular-sanctuary/ngx-boomer) - A straightforward utility to enforce legacy naming‑convention rules for Angular 20 projects.
 * [angular-updater](https://github.com/stardyn/angular-updater) - A lightweight solution for managing version control and updates in Angular apps with seamless Service Worker integration.
 * [Depfixer](https://depfixer.com/sample-report/angular) - Smart dependency analysis for JS/TS projects; detects compatibility conflicts and provides step‑by‑step fixes.
+* [migration-planificator](https://github.com/silvestv/migration-planificator-documentation) - Plan Angular migrations with precision AST analysis, calculate workload estimates, and generate interactive HTML dashboards.
 
 ## Angular Pulse
 
@@ -1916,6 +1917,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-kit-ui](https://github.com/OpenKit-Labs/ngx-kit-ui) - Modern Angular UI library for mobile and web.
 * [TecnualNG](https://github.com/tecnual/tecnualng) - A modern Angular UI library offering reusable, customizable, and accessible components for building professional web applications.
 * [takeoff-ui](https://github.com/turkishtechnology/takeoff-ui) - A comprehensive design system providing framework-agnostic web components developed with Stencil.js.
+* [mozek](https://github.com/thecodemeor/mozek-package) - A lightweight SCSS toolkit and UI library designed for clean, simple, non‑over‑engineered styling with consistent spacing, colors, and typography.
 
 ### UI Libraries built on Bootstrap
 

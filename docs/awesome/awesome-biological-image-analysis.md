@@ -16,7 +16,6 @@ Biological image analysis aims to increase our understanding of biology through 
 ## General image analysis software
 - [3D Slicer](https://github.com/Slicer/Slicer) - Free, open source and multi-platform software package widely used for medical, biomedical, and related imaging research.
 - [BiaPy](https://biapyx.github.io/) - Open source ready-to-use all-in-one library that provides deep-learning workflows for a large variety of bioimage analysis tasks.
-- [BioImageXD](https://bioimagexd.net) - Free, open source software package for analyzing, processing and visualizing multi-dimensional microscopy images.
 - [Cell-ACDC](https://github.com/SchmollerLab/Cell_ACDC) - A GUI-based Python framework for segmentation, tracking, cell cycle annotations and quantification of microscopy data.
 - [CellProfiler](https://github.com/CellProfiler/CellProfiler) - Open-source software helping biologists turn images into cell measurements.
 - [CellProfiler Analyst](https://github.com/CellProfiler/CellProfiler-Analyst) - Open-source software for exploring and analyzing large, high-dimensional image-derived data.
@@ -66,18 +65,15 @@ Biological image analysis aims to increase our understanding of biology through 
 - [AxonDeepSeg](https://github.com/axondeepseg/axondeepseg) - Segment axon and myelin from microscopy data using deep learning.
 - [BG-atlasAPI](https://github.com/brainglobe/bg-atlasapi) - A lightweight Python module to interact with atlases for systems neuroscience.
 - [Brainreg](https://github.com/brainglobe/brainreg) - Automated 3D brain registration with support for multiple species and atlases.
-- [Brainreg-napari](https://github.com/brainglobe/brainreg-napari) - Automated 3D brain registration in napari with support for multiple species and atlases.
 - [Brainrender](https://github.com/brainglobe/brainrender) - Python package for the visualization of three dimensional neuro-anatomical data.
 - [CaImAn](https://github.com/flatironinstitute/CaImAn) - Computational toolbox for large scale Calcium Imaging Analysis.
 - [Cellfinder](https://github.com/brainglobe/cellfinder) - Automated 3D cell detection and registration of whole-brain images.
-- [Cellfinder-napari](https://github.com/brainglobe/cellfinder-napari) - Efficient cell detection in large images using [cellfinder](https://brainglobe.info/cellfinder) in napari.
 - [CloudVolume](https://github.com/seung-lab/cloud-volume) - Read and write Neuroglancer datasets programmatically.
 - [NeuroAnatomy Toolbox](https://github.com/natverse/nat) - R package for the (3D) visualisation and analysis of biological image data, especially tracings of single neurons.
 - [Neuroglancer](https://github.com/google/neuroglancer/) - WebGL-based viewer for volumetric data.
 - [NeuronJ](https://imagescience.org/meijering/software/neuronj/) - An ImageJ plugin for neurite tracing and analysis.
 - [Panda](https://www.nitrc.org/projects/panda/) - Pipeline for Analyzing braiN Diffusion imAges: A MATLAB toolbox for pipeline processing of diffusion MRI images.
 - [PyTorch Connectomics](https://github.com/zudi-lin/pytorch_connectomics) - Deep learning framework for automatic and semi-automatic annotation of connectomics datasets, powered by PyTorch.
-- [RivuletPy](https://github.com/RivuletStudio/rivuletpy) - Robust 3D Neuron Tracing / General 3D tree structure extraction in Python for 3D images powered by the Rivulet2 algorithm.
 - [SNT](https://github.com/morphonets/SNT/) - ImageJ framework for semi-automated tracing and analysis of neurons.
 - [TrailMap](https://github.com/AlbertPun/TRAILMAP/) - Software package to extract axonal data from cleared brains.
 - [Wholebrain](https://github.com/tractatus/wholebrain) - Automated cell detection and registration of whole-brain images with plot of cell counts per region and Hemishpere.
@@ -88,7 +84,6 @@ Biological image analysis aims to increase our understanding of biology through 
 ## Plant science
 
 - [Aradeepopsis](https://github.com/Gregor-Mendel-Institute/aradeepopsis) - A versatile, fully open-source pipeline to extract phenotypic measurements from plant images.
-- [DIRT](https://github.com/Computational-Plant-Science/DIRT) - Digital Imaging of Root Traits: Extract trait measurements from images of monocot and dicot roots.
 - [LeafByte](https://zoegp.science/leafbyte) - Free and open source mobile app for measuring herbivory quickly and accurately.
 - [PaCeQuant](https://mitobo.informatik.uni-halle.de/index.php/Applications/PaCeQuant) - An ImageJ-based tool which provides a fully automatic image analysis workflow for PC shape quantification.
 - [PhenotyperCV](https://github.com/jberry47/ddpsc_phenotypercv) - Header-only C++11 library using OpenCV for high-throughput image-based plant phenotyping.
@@ -110,7 +105,6 @@ Biological image analysis aims to increase our understanding of biology through 
 
 ## Electron and super resolution microscopy
 - [ASI_MTF](https://github.com/emx77/ASI_MTF) - ImageJ macro to calculate the modulation transfer function (MTF) based on a knife edge (or slanted edge) measurement.
-- [DECODE](https://github.com/TuragaLab/DECODE) - Python and PyTorch based deep learning tool for single molecule localization microscopy.
 - [Empanada](https://github.com/volume-em/empanada) - Panoptic segmentation algorithms for 2D and 3D electron microscopy images.
 - [Em-scalebartools](https://github.com/lukmuk/em-scalebartools) - Fiji/ImageJ macros to quickly add a scale bar to an (electron microscopy) image.
 - [Picasso](https://github.com/jungmannlab/picasso) - A collection of tools for painting super-resolution images.
@@ -124,7 +118,6 @@ Biological image analysis aims to increase our understanding of biology through 
 - [Image Quality](https://github.com/ocampor/image-quality) - Open source software library for Image Quality Assessment (IQA).
 - [LLSpy](https://github.com/tlambert03/LLSpy) - Python library to facilitate lattice light sheet data processing.
 - [NCS](https://github.com/HuanglabPurdue/NCS) - Noise correction algorithm for sCMOS cameras.
-- [Noise2Void](https://github.com/juglab/n2v) - Learning denoising from single noisy images.
 
 
 ## Cell migration and particle tracking
@@ -185,7 +178,7 @@ budding cells from bright-field stacks.
 - [Pyotf](https://github.com/david-hoffman/pyotf) - A simulation software package for modelling optical transfer functions (OTF)/point spread functions (PSF) of optical microscopes written in Python.
 - [PyScratch](https://bitbucket.org/vladgaal/pyscratch_public.git/src) - Open source tool that autonomously performs quantitative analysis of in vitro scratch assays.
 - [Quanfima](https://github.com/rshkarin/quanfima) - Quantitative Analysis of Fibrous Materials: A collection of useful functions for morphological analysis and visualization of 2D/3D data from various areas of material science.
-- [SimpleElastix](https://github.com/SuperElastix/SimpleElastix) - Multi-lingual medical image registration library.
+- [SimpleITK](https://github.com/SimpleITK/SimpleITK) - Open-source multi-dimensional image analysis in Python, R, Java, C#, Lua, Ruby, TCL and C++.
 - [Vaa3D](https://alleninstitute.org/what-we-do/brain-science/research/products-tools/vaa3d/) - Open-source software for 3D/4D/5D image visualization and analysis.
 - [XitoSBML](https://github.com/spatialsimulator/XitoSBML) - ImageJ plugin which creates a Spatial SBML model from segmented images.
 - [Z-stack Depth Color Code](https://github.com/ekatrukha/ZstackDepthColorCode) - ImageJ/Fiji plugin to colorcode Z-stacks/hyperstacks.
