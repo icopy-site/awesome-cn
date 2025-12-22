@@ -181,6 +181,14 @@
   </picture>
 </div>
 
+<a href="https://github.com/obra/superpowers"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-superpowers.svg?sanitize=true" alt="Superpowers"></a>  
+_A strong bundle of core competencies for software engineering, with good coverage of a large portion of the SDLC - from planning, reviewing, testing, debugging... Well written, well organized, and adaptable. The author refers to them as "superpowers", but many of them are just consolidating engineering best practices - which sometimes does feel like a superpower when working with Claude Code._  
+![GitHub Stats for superpowers](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=superpowers&username=obra&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+
+<a href="https://github.com/glittercowboy/taches-cc-resources"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-t-ches-claude-code-resources.svg?sanitize=true" alt="TÂCHES Claude Code Resources"></a>  
+_A well-balanced, "down-to-Earth" set of sub agents, skills, and commands,  that are well-organized, easy to read, and a healthy focus on "meta"-skills/agents, like "skill-auditor", hook creation, etc. - the kind of things you can adapt to your workflow, and not the other way around._  
+![GitHub Stats for taches-cc-resources](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=taches-cc-resources&username=glittercowboy&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+
 <a href="https://github.com/maxritter/claude-codepro"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-claude-codepro.svg?sanitize=true" alt="Claude CodePro"></a>  
 _Professional development environment for Claude Code with spec-driven workflow, TDD enforcement, cross-session memory, semantic search, quality hooks, and modular rules integration. A bit "heavyweight" but feature-packed and has wide coverage._  
 ![GitHub Stats for claude-codepro](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=claude-codepro&username=maxritter&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
@@ -552,6 +560,20 @@ _Enables users to prompt codex from claude code. Unlike the raw codex mcp server
 <a href="https://github.com/NeoLabHQ/context-engineering-kit"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-context-engineering-kit.svg?sanitize=true" alt="Context Engineering Kit"></a>  
 _Hand-crafted collection of advanced context engineering techniques and patterns with minimal token footprint focused on improving agent result quality._  
 ![GitHub Stats for context-engineering-kit](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=context-engineering-kit&username=NeoLabHQ&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+
+<div align="center"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/entry-separator-light-animated.svg?sanitize=true" alt=""></div>
+
+
+<a href="https://github.com/obra/superpowers"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-superpowers.svg?sanitize=true" alt="Superpowers"></a>  
+_A strong bundle of core competencies for software engineering, with good coverage of a large portion of the SDLC - from planning, reviewing, testing, debugging... Well written, well organized, and adaptable. The author refers to them as "superpowers", but many of them are just consolidating engineering best practices - which sometimes does feel like a superpower when working with Claude Code._  
+![GitHub Stats for superpowers](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=superpowers&username=obra&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
+
+<div align="center"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/entry-separator-light-animated.svg?sanitize=true" alt=""></div>
+
+
+<a href="https://github.com/glittercowboy/taches-cc-resources"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/badge-t-ches-claude-code-resources.svg?sanitize=true" alt="TÂCHES Claude Code Resources"></a>  
+_A well-balanced, "down-to-Earth" set of sub agents, skills, and commands,  that are well-organized, easy to read, and a healthy focus on "meta"-skills/agents, like "skill-auditor", hook creation, etc. - the kind of things you can adapt to your workflow, and not the other way around._  
+![GitHub Stats for taches-cc-resources](https://github-readme-stats-plus-theta.vercel.app/api/pin/?repo=taches-cc-resources&username=glittercowboy&all_stats=true&stats_only=true&hide_border=true&bg_color=00000000&icon_color=FF0000&text_color=FF0000)
 
 <div align="center"><img src="https://raw.githubusercontent.com/hesreallyhim/awesome-claude-code/master/assets/entry-separator-light-animated.svg?sanitize=true" alt=""></div>
 

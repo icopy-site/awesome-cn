@@ -88,6 +88,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [dsssp-demo](https://github.com/NumberOneBot/dsssp-demo) - WebAudio music player with 7-bands EQ and filter presets.
 - [SingMeter](https://www.singmeter.com/) – A collection of browser-based singing tools including a pitch detector and vocal range test.
 - [Drumhaus](https://drumha.us/) – a browser-based drum machine with step sequencing, pattern variations, and groove editing.
+- [All-in-One Advanced BPM Tool](https://tapbpmhub.com/) – Instantly measure song speed by tapping or using the spacebar. Features MIDI input, optional sound clicks, and real-time BPM visualization. Essential for producers, DJs, rhythm gamers.
 
 ## Resources
 
