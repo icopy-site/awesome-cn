@@ -919,6 +919,7 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 - [@kyvg/vue3-notification](https://github.com/kyvg/vue3-notification) - Vue 3 notification library
 - [vue-global-alert-utility](https://github.com/RashadSaleh/vue-global-alert-utility) - A Vue.js global alert utility to replace vanilla JavaScript `alert` function with better user and developer experience, while keeping it as simple as possible.
 - [notivue](https://github.com/smastrom/notivue) - Fully-featured notification system for Vue 3 and Nuxt 3.
+- [Toastflow](https://github.com/adrianjanocko/toastflow) - 💡 Headless toast (notification) engine + Vue 3 renderer (TS-first, CSS-first theming, highly customizable).
 
 #### Loader
 
@@ -1355,6 +1356,7 @@ _Detect when components enter viewport_
 - [blottie](https://github.com/Applelo/blottie) Lottie component for Vue 3
 - [vue-countup-v3](https://github.com/jizai1125/vue-countup-v3) A Vue 3 Component for animation counting.
 - [timered-counter](https://github.com/siaikin/timered-counter) A counter web component with smooth animations
+- [ssgoi](https://github.com/meursyphus/ssgoi) - Native app-like page transitions with spring physics, 60fps on mobile, SSR-ready, and all modern browser support
 
 #### Meta Tags
 
@@ -1552,6 +1554,7 @@ _Integrate with services or other frameworks_
 - [Bit](https://github.com/teambit/bit) - Manage and reuse `vue` components between projects. Easily isolate and share components from any project without changing its source code, organize curated collections and install in different projects.
 - [Vue Mess Detector](https://github.com/rrd108/vue-mess-detector) - A static code analysis tool for 👉 detecting code smells and best practice violations in Vue.js and Nuxt.js projects
 - [Vue Log Arsenal](https://github.com/MvdZon/Vue3-log-arsenal) - Lightweight Vue 3 plugin providing logging directives for easier debugging
+- [PocketMocker](https://github.com/tianchangNorth/pocket-mocker) - Visual, browser-based HTTP mocking tool for front-end apps. Intercepts fetch/XHR, supports SmartMock rules, delay/error simulation and works great when developing Vue apps.
 
 #### Inspect
 

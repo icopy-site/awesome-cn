@@ -139,7 +139,6 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 - [e-newspaperarchives.ch](https://www.e-newspaperarchives.ch/) - Swiss newspapers.
 - [E-Periodica](https://www.e-periodica.ch/) - Swiss journals.
 - [e-rara](https://www.e-rara.ch/) - The platform for digitised rare books from Swiss libraries.
-- [histHub](https://histhub.ch/) - The platform manages authority files on Swiss history.
 - [Historical Encyclopedia of Switzerland](https://hls-dhs-dss.ch/) - Encyclopedia on Swiss history.
 - [HSSO](https://hsso.ch/) - Historical statistics of Switzerland online.
 - [impresso](https://impresso-project.ch/) - Historical newspaper collections of the Swiss National Library, the National Library of Luxembourg, the Neue Zürcher Zeitung, Le Temps, the Valais State Archives and the Swiss Economic Archives.

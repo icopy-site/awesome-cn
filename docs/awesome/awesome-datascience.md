@@ -586,6 +586,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Chinese-Elite](https://github.com/anonym-g/Chinese-Elite) | An open-source project that automatically maps relationship networks by parsing public data using LLMs and visualizes it as an interactive graph. |
 | [Desbordante](https://github.com/desbordante/desbordante-core/) | An open-source data profiler specifically focused on discovery and validation of complex patterns,  such as [numerical association rules](https://colab.research.google.com/github/Desbordante/desbordante-core/blob/main/examples/notebooks/Numerical_Association_Rules.ipynb), [differential dependencies](https://colab.research.google.com/github/Desbordante/desbordante-core/blob/main/examples/notebooks/Differential_Dependencies.ipynb), [denial constraints](https://colab.research.google.com/github/Desbordante/desbordante-core/blob/main/examples/notebooks/Denial_Constraints.ipynb), and more. |
 | [RunMat](https://github.com/runmat-org/runmat) | Fast MATLAB-syntax runtime with automatic CPU/GPU execution and fused array kernels. |
+| [Turbostream](https://github.com/turboline-ai/turbostream) | A terminal UI for experimenting with custom rule engines and selective LLM analysis on real-time data streams, without worrying about streaming infra or backpressure. |
 
 
 ## Literature and Media
