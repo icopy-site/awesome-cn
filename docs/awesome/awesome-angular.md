@@ -1081,6 +1081,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-calendar-widget](https://github.com/giacomo/ngx-calendar-widget) - A lightweight, customizable, and feature-rich calendar widget designed to simplify event management and scheduling in your Angular applications.
 * [ngx-datepicker-calendar](https://github.com/mumair4462/ngx-datepicker-calendar) - A fast, accessible Angular date‑picker library built with signals and standalone components.
 * [ngx-resource-calendar](https://github.com/by-pinja/ngx-resource-calendar) - Angular resource calendar library.
+* [ngx-resource-scheduler](https://github.com/rmpt/ngx-resource-scheduler) - A lightweight, flexible resource scheduler for Angular.
 * [ngx-strip-calendar](https://github.com/codingchefss/ngx-strip-calendar) - Strip calendar component for Angular 17+.
 * [schedule-x](https://github.com/schedule-x/schedule-x) - Material design event calendar.
 * [timegrid-angular](https://www.npmjs.com/package/@hexaflexa/timegrid-angular) - Angular wrapper for the [HexaFlexa](https://hexaflexa.com/) Timegrid web component.
@@ -1232,6 +1233,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-mat-multi-date-picker](https://github.com/ali79heidari/ngx-mat-multi-date-picker) - A comprehensive, standalone Angular library providing high-quality Gregorian, Jalali (Persian), and Hijri (Islamic) date pickers.
 * [date-time-picker](https://github.com/danielmoncada/date-time-picker) - Angular date time picker.
 * [date-time-picker-moment-adapter](https://github.com/danielmoncada/date-time-picker-moment-adapter) - Moment.js Adapter for `@danielmoncada/date-time-picker`.
+* [hijri-date-time-picker](https://github.com/hanygamal72/hijri-date-time-picker) - Angular standalone dual Gregorian/Hijri datetime picker using Umm Al-Qura calendar.
 
 ### Directives
 
@@ -1743,6 +1745,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-sonner](https://github.com/tutkli/ngx-sonner) - An opinionated toast component for Angular. A port of @emilkowalski's sonner.
 * [ngx-sweetalert2](https://github.com/sweetalert2/ngx-sweetalert2) - Declarative, reactive, and template-driven SweetAlert2 integration for Angular.
 * [ngx-toastr](https://github.com/scttcper/ngx-toastr) - Notifications/Toastr.
+* [@IQXLimited/ngx-toastr](https://github.com/IQXLimited/ngx-toastr) - A fork of `ngx-toastr` that adds extra features, improvements, and customizations.
 * [ngx-toastr-notifier](https://github.com/Mazen-Embaby/ngx-toastr-notifier) - Lightweight, customizable Angular 20+ toast notifications with Material design and flexible APIs, replacing `toastr`.
 * [notifyx](https://github.com/awalhadi/notifyx) - A simple, customizable toast library for JavaScript/TypeScript with zero dependencies.
 * [OneSignal](https://documentation.onesignal.com/docs/angular-setup) - Integrate OneSignal into Angular apps with [onesignal-ngx](https://github.com/OneSignal/onesignal-ngx) for push and in‑app messaging.
@@ -1924,6 +1927,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [TecnualNG](https://github.com/tecnual/tecnualng) - A modern Angular UI library offering reusable, customizable, and accessible components for building professional web applications.
 * [takeoff-ui](https://github.com/turkishtechnology/takeoff-ui) - A comprehensive design system providing framework-agnostic web components developed with Stencil.js.
 * [mozek](https://github.com/thecodemeor/mozek-package) - A lightweight SCSS toolkit and UI library designed for clean, simple, non‑over‑engineered styling with consistent spacing, colors, and typography.
+* [Magma](https://github.com/ikilote/Magma) - A broad set of components, services, pipes, directives, and utilities that support its ecosystem and are available for anyone to use or extend.
 
 ### UI Libraries built on Bootstrap
 

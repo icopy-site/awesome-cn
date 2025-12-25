@@ -78,12 +78,6 @@ List of interesting community plugins.
 - [shefing / payload-tools](https://github.com/shefing/payload-tools) - Contains a set of powerful plugins designed to enhance your Payload projects (Authorization, Authors Info, Rich-text Comments, Right Panel, Custom Version View, Cross-Collection Config, Field-type Component Override, Color Picker Field, Icon Select, Quick Filter, Reset List View, etc).
 - [Crayonan / payload-plugin-ai-localization](https://github.com/Crayonan/payload-plugin-ai-localization) - Adds an AI-powered "Translate" button to non-primary localized fields in Payload. Automatically translates content from the primary language using OpenAI or other models.
 
-## Miscellaneous
-
-Other resources.
-
-- [withPayload](https://withpayload.com/) - Discover starter kits, plugins, and other useful resources.
-
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](https://github.com/DanailMinchev/awesome-payload/blob/master/contributing.md) first.

@@ -18,6 +18,10 @@
 <table>
   <tbody>
     <tr>
+      <td><a href="https://raw.githubusercontent.com/vleerapp/vleer"><img src="https://vleer.app/logo.png" width="14px"/> Vleer</a></td>
+      <td>Music, but without the subscription.</td>
+    </tr>
+    <tr>
       <td><a href="https://raw.githubusercontent.com/0pandadev/ziit"><img src="https://raw.githubusercontent.com/user-attachments/assets/c0e9b5f4-a79c-49ae-96e1-d70b4ad90bab" width="14px"/> Ziit</a></td>
       <td>The Swiss army knife of code time tracking.</td>
     </tr>
@@ -53,6 +57,7 @@
 * [AudioNodes](https://audionodes.com/) - Produces music with mixing, effects, MIDI and synthesis.
 * [Cider](https://cider.sh/) - Streams Apple Music. ![paid]
 * [Dopamine](https://digimezzo.github.io/site/) - Plays and organizes music. [![Open-Source Software][oss]](https://github.com/digimezzo/dopamine)
+* [FlexASIO](https://flexasio.com/) - A universal ASIO driver that delivers low-latency, high-quality sound. [![Open-Source Software][oss]](https://github.com/dechamps/FlexASIO)
 * [Foobar2000](https://www.foobar2000.org/) - Plays audio with customization options.
 * [Mixxx](https://mixxx.org/) - Mixes music for DJs. [![Open-Source Software][oss]](https://github.com/mixxxdj/mixxx)
 * [Mp3tag](https://www.mp3tag.de/en/) - Edits music metadata and tags.

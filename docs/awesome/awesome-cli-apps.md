@@ -207,7 +207,8 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests.
 - [Step CI](https://github.com/stepci/stepci) - API testing and QA framework.
-
+- [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
+  
 ## Productivity
 
 - [doing](https://github.com/ttscoff/doing/) - Keep track of what you’re doing and track what you’ve done.
@@ -400,6 +401,10 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [speed-test](https://github.com/sindresorhus/speed-test) - `speedtest-net` wrapper with different UI.
 - [speedtest-cli](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
 - [bandwhich](https://github.com/imsnif/bandwhich) - Track bandwidth utilization by process.
+
+### Science
+
+- [periodic-table-cli](https://github.com/spirometaxas/periodic-table-cli) - View and explore the Periodic Table of Elements.
 
 ## Command Line Learning
 
