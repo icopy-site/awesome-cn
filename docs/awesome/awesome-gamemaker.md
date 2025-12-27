@@ -56,6 +56,7 @@ This includes data structures and file formats that do not fit into a more speci
 - [ArrayList](https://github.com/KeeVeeGames/ArrayList.gml) - The most complete list class. Garbage collected, fast sort function, [] accessor and referencing as an array.
 - [Bit Buffers](https://yellowafterlife.itch.io/gamemaker-bit-buffers) - Read and write buffers with per-bit granularity.
 - [sprite_add_gif](https://yellowafterlife.itch.io/gamemaker-sprite-add-gif) - Dynamically load animated GIFs as sprites.
+- [Ngrams](https://github.com/tinkerer-red/Ngrams) - Lightweight n-gram library for fuzzy search, predictive text or token sequence modeling.
 
 ## Native Extensions
 
@@ -81,6 +82,7 @@ These work on specific platform(s) and enable the games to do something that wou
 - [wasm-bridge](https://github.com/Sidorakh/wasm-bridge) - A way to use JS extensions in GX/WASM games.
 - [Web Dynamic Textures](https://yellowafterlife.itch.io/gamemaker-web-dyn-textures) - A dynamic texture page loading system for HTML5.
 - [GMWinBackdrop](https://topherlicious.itch.io/gmwinbackdrop) - Windows 11 backdrop materials.
+- [GMSDLL.rs](https://github.com/YAL-GameMaker/GMSDLL.rs?) - Example on how to make native DLL extensions in Rust.
 
 ## Timing
 
@@ -122,9 +124,13 @@ Custom timers, timelines, and task scheduling.
 - [gml-highscorer](https://github.com/Grisgram/gml-highscorer) - Highscore and trophy system.
 - [SSave](https://github.com/stoozey/SSave) - Simple file saving system.
 - [Catspeak](https://github.com/katsaii/catspeak-lang) - Cross-platform programming language for modding support.
+- [JITSpeak](https://github.com/BenjaminUrquhart/JITSpeak) - Improves Catspeak performance.
 - [GMBenchmark](https://github.com/DragoniteSpam/GMBenchmark) - A tool to benchmark GML code.
 - [GML-Multiprocessing](https://github.com/tinkerer-red/GML-Multiprocessing) - A proof of concept for multiprocessing.
 - [Figgy](https://github.com/glebtsereteli/Figgy) - Centralized and persistent live configs for seamless game tuning and balancing.
+- [RenderStack](https://github.com/FoxyOfJungle/RenderStack) - Organize your game's rendering into a customizable order.
+- [Rezol](https://foxyofjungle.itch.io/rezol) - Powerful, feature-rich screen manager 💸
+- [Managix](https://foxyofjungle.itch.io/managix) - Memory and resource manager. 💸
 
 ## Tools
 
@@ -139,6 +145,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [sfGML](https://yellowafterlife.itch.io/gamemaker-haxe) - Generate GML code from strongly-typed Haxe.
 - [Win7 patcher for GM2024.11+](https://yellowafterlife.itch.io/gm2024-win7-patcher) - Makes games made in new GM versions run on Windows 7.
 - [RerouteAudio](https://yellowafterlife.itch.io/gamemaker-reroute-audio) - Organizes audio files compiled games into subdirectories. 💸
+- [GMLC](https://github.com/tinkerer-red/GMLC) - Runtime compiler and interpreter to load, compile, and execute GML code at runtime.
 
 ## Debugging
 
@@ -178,6 +185,8 @@ Things that work with project files or GameMaker itself rather than being someth
 - [YUI](https://github.com/shdwcat/YUI) - A UI system with live reloading, template system, data binding, and a drag and drop feature.
 - [Guido](https://github.com/JujuAdams/Guido) - Simple immediate mode GUI framework.
 - [GMUI-Framework](https://github.com/AlertStudios/GMUI-Framework) - A pure GML solution to structure and control your menus, drawing parallels to .NET UI.
+- [GMUI](https://github.com/erkan612/GMUI) - Immediate mode GameMaker UI library, tons of UI components.
+- [MajorGUI](https://github.com/erkan612/MajorGUI_GML) - Surface-based GUI that allows 100% control over UI styling and functionality.
 - [GMS2-UI-Library](https://github.com/nabilatsoulcade/GMS2-UI-Library) - A Library Full of useful scripts for implementing your UI designs in GameMaker.
 - [Emu UI](https://github.com/DragoniteSpam/Emu) - Common UI elements (text input, checkboxes, radio buttons, dialog boxes, etc).
 - [Easy And Fast Menu](https://pkgames.itch.io/easy-and-fast-menus-for-gms-23) - Simple implementation to have a menu up and running in seconds. Seems like a great fit if you're not looking for a bigger solution like GMUI.
@@ -190,6 +199,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [zitk](https://github.com/TandyRum1024/zitk) - Another interesting, Dear ImGui-inspired GUI toolkit. In development, but worth keeping an eye on.
 - [gooey](https://manta-ray.itch.io/gooey) - Sprite-based UI Library for GameMaker LTS.
 - [SimpleUI](https://github.com/evolutionleo/SimpleUI) - Minimalistic UI framework.
+- [LimeUI](https://github.com/Limekys/LimeUI) - Flexpanel system for modern, touch-friendly interfaces.
 
 ## Localization
 
@@ -212,6 +222,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Verlet Integration Library](https://jamjamteam.itch.io/verlet-integration-gamemake-studio-2) - Verlet integration by Sarek Lambert.
 - [GMVerlet-Integration](https://github.com/tabularelf/GMVerlet-Integration) - Verlet integration example used for visuals.
 - [Top-Down Movement & Collision](https://pixelatedpope.itch.io/tdmc/devlog/156556/converting-tdmc-to-use-tiles) - Robust object-based collision system from Pixelated Pope.
+- [GMPhysX](https://bytecauldron.itch.io/gmphysx) - Adds NVIDIA PhysX to GameMaker for physics-based 2D/3D games. 💸
 
 ## Sprites
 
@@ -223,6 +234,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [ASESync](https://sahaun.itch.io/asesync) - Automatically syncs aesprite files in GameMaker.
 - [conveyorbelt](https://github.com/imissmyfriends/conveyorbelt) - Similar to ASESync. Export Aesprite files to GameMaker sprites.
 - [Collage](https://github.com/tabularelf/Collage) - Texture page builder and image manager. Mimics GameMaker's texture page packing while offering higher flexibility.
+- [GM Animate](https://github.com/KormexGit/GM-Animate) - Sprite animation manager.
 
 ## Audio
 
@@ -277,6 +289,11 @@ Things that work with project files or GameMaker itself rather than being someth
 
 - [TransFX](https://short-bread.itch.io/transfx) - Transition Library.
 - [Post-Processing FX](https://foxyofjungle.itch.io/post-processing-fx) - 50+ high-quality, customizable effects. 💸
+- [Lens Distortion FOV](https://foxyofjungle.itch.io/lens-distortion-fov-shader) - Useful FOV depth effect. 💸
+- [Fast Blur Area](https://foxyofjungle.itch.io/foxey-blur-area) - Fast alpha blur shader effect in two lines of code. 💸
+- [Transitions Pro](https://foxyofjungle.itch.io/foxey-transitions-pro) - 42 customizable transitions. 💸
+- [Sketch Cartoon Shader](https://foxyofjungle.itch.io/sketch-cartoon-shader) - Turn your game visuals into a drawing/sketch style. 💸
+- [2D Water Reflections](https://foxyofjungle.itch.io/water-reflective) - Customizable water object to easily display reflections. 💸
 - [BJRTFX](https://zikbakguru.itch.io/bjrtfx) - Zik's CRT Utility Shader.
 - [bktGlitch](https://odditica.itch.io/bktglitch) - Glitch shader.
 - [H O R R I - F I](https://gizmo199.itch.io/horri-fi) - VHS Shader.
@@ -312,6 +329,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [sPart](https://marketplace.yoyogames.com/assets/7299/spart-3d-particle-system) - 3D Particle System from TheSnidr.
 - [Terrain Editor](https://dragonite.itch.io/terrain) - Terrain editor. Exports to gm models, obj, or vertex buffers.
 - [Snowy Snow](https://dragonite.itch.io/snowy-snow) - 3D Snow Shader.
+- [Collisions](https://dragonite.itch.io/collisions) - 3D collision system that works with native GML.
 - [3D Fragment Point Lights](https://danieldavis.itch.io/ddg-point-light-shader-system) - 3D point lights using shaders. 💸
 - [3D GameMaker Playlist](https://www.youtube.com/watch?v=ojfN--tdSNM&list=PL_hT--4HOvrcML9uqHe4fwBVTm650Vy3V) - DragoniteSpam. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [3D Collisions Playlist](https://www.youtube.com/watch?v=o7kjtTEMpeU&list=PL_hT--4HOvrf_VYo26LNl3zN5uwfuC3CC) - DragoniteSpam. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
@@ -349,6 +367,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Parworks](https://github.com/nkrapivin/Parworks) - Additional functionality for the YYG Steamworks extension.
 - [GOG.gml](https://github.com/GameMakerDiscord/GOG.gml) - A native extension for GOG.com SDK support.
 - [GMTwitch](https://github.com/GameMakerDiscord/GMTwitch) - Twitch integration.
+- [Github.gml](https://github.com/AlubJ/GitHub.gml) - GitHub REST API
 
 ## Camera
 
@@ -381,6 +400,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [A-Star-Pathing](https://github.com/helloalbertdang/A-Star-Pathing) - Another A* pathfinding implementation.
 - [Grid-based Pathfinding Scripts](https://proton-squid.itch.io/pathfinding) - Flexible pathfinding system with 3 different algorithms.
 - [Pathfinding in graph](https://github.com/gmclan-org/dijkstra-graph) - Shortest pathfinding system in (weighted) graph, using Dijkstra algorithm.
+- [PathPlus](https://delfos1.itch.io/pathplus-for-gamemaker/devlog/1115089/pathplus-220-follower-and-spriter) - Enhance GameMaker Paths with CatmullRom and Bezier Interpolations.
 
 ## Useful Extras
 
@@ -411,6 +431,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Pause example](https://github.com/gmclan-org/pause_no_surface) - Simple example of a pause screen without using surfaces.
 - [Build Automation, CI/CD](https://gist.github.com/shichen85/887d237cdc4338fa3f4e4749a14990db) - Tutorial on using GitHub Actions as a CI/CD pipeline to automate building games.
 - [BROKVN](https://cowcat.itch.io/brokvn-engine) - A visual novel engine.
+- [AssParser](https://github.com/DecadeDecaf/AssParser) - Subtitle support for video playback.
 
 ## Blogs
 

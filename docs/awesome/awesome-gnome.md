@@ -86,7 +86,8 @@
 - [Monophony](https://flathub.org/fr/apps/io.gitlab.zehkira.Monophony) - Stream music from YouTube.
 - [Collector](https://mijorus.it/projects/collector) - Dropover utility that allows to drag files/images/text into a collection window and drop them anywhere.
 - [Fotema](https://flathub.org/apps/app.fotema.Fotema) - Photo gallery with support for iOS Live Photos and Samsung Motion Photos and with map view.
-- [Drum Machine](https://apps.gnome.org/DrumMachine/) - Create and play drum beats. ![GNOME Circle][GNOME Circle]
+- [Drum Machine](https://apps.gnome.org/DrumMachine/) - Create and play drum beats. ![GNOME Circle][GNOME Circle]*<<<<<<< patch-1
+- [Showtime](https://gitlab.gnome.org/GNOME/showtime) - Distraction-free video player.
 
 ### Graphics
 
