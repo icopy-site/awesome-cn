@@ -56,6 +56,7 @@ This includes data structures and file formats that do not fit into a more speci
 - [ArrayList](https://github.com/KeeVeeGames/ArrayList.gml) - The most complete list class. Garbage collected, fast sort function, [] accessor and referencing as an array.
 - [Bit Buffers](https://yellowafterlife.itch.io/gamemaker-bit-buffers) - Read and write buffers with per-bit granularity.
 - [sprite_add_gif](https://yellowafterlife.itch.io/gamemaker-sprite-add-gif) - Dynamically load animated GIFs as sprites.
+- [Managix](https://foxyofjungle.itch.io/managix) - Async memory & resources manager (texture groups, audio groups, etc). 💸
 - [Ngrams](https://github.com/tinkerer-red/Ngrams) - Lightweight n-gram library for fuzzy search, predictive text or token sequence modeling.
 
 ## Native Extensions
@@ -129,8 +130,6 @@ Custom timers, timelines, and task scheduling.
 - [GML-Multiprocessing](https://github.com/tinkerer-red/GML-Multiprocessing) - A proof of concept for multiprocessing.
 - [Figgy](https://github.com/glebtsereteli/Figgy) - Centralized and persistent live configs for seamless game tuning and balancing.
 - [RenderStack](https://github.com/FoxyOfJungle/RenderStack) - Organize your game's rendering into a customizable order.
-- [Rezol](https://foxyofjungle.itch.io/rezol) - Powerful, feature-rich screen manager 💸
-- [Managix](https://foxyofjungle.itch.io/managix) - Memory and resource manager. 💸
 
 ## Tools
 
@@ -283,7 +282,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Lighting System 2D](https://github.com/borup3/Lighting-System-2D) - Requires GameMaker 2.2+ according to the repo.
 - [GameMaker Lighting Engine](https://github.com/bilouw/Gamemaker-Lighting-Engine) - Tile-based Lighting Engine that projects shadows.
 - [Lighting Systems](https://www.youtube.com/playlist?list=PLYVea5brHS8YHECGPoEp4_gWU-k6nWzUy) - Very fast dynamic 2D lighting implementation from GrizzliusMaximus using shadow casting. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
-- [Crystal](https://foxyofjungle.itch.io/crystal-2d-lighting-engine) - Complete and efficient 2D lighting solution. 💸
+- [Crystal](https://foxyofjungle.itch.io/crystal-2d-lighting-engine) - Complete and efficient 2D lighting & shadows solution. 💸
 
 ## Shaders
 
@@ -377,6 +376,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Dynamic Splitscreen](https://maddestudios.itch.io/gms2-project-dynamic-splitscreen) - Local multiplayer split screen implementation that merges the camera when players are close.
 - [STANNcam](https://github.com/jack27121/STANNcam) - Camera and resolution manager.
 - [Camera All-In-One](https://jasontomlee.itch.io/allinone-camera) - Editor, screenshake, view-resizing, follow modes, screen effects, etc. 💸
+- [REZOL](https://foxyofjungle.itch.io/rezol) - Complete resolution & screen manager (with split-screen support). 💸
 
 ## Sequences
 

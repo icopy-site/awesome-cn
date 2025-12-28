@@ -56,6 +56,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Official website](https://angular.dev/tools/cli)
 * [Official GitHub repository](https://github.com/angular/angular-cli)
 * [alterforge](https://github.com/themodulardev/alterforge) - A CLI tool that scaffolds and manages modular microservice architectures with optional React or Angular frontends.
+* [@MohamedBouattour/angular-clean-architecture](https://github.com/MohamedBouattour/angular-clean-architecture) - A CLI tool that generates Clean Architecture–based, production‑ready Angular features with clear, maintainable layers.
 * [angular-cli-diff](https://github.com/cexbrayat/angular-cli-diff) - Easily upgrade your Angular CLI applications from one version to another 🚀.
 * [angular-cli-ssr-diff](https://github.com/cexbrayat/angular-cli-ssr-diff) - Easily upgrade your Angular CLI SSR applications from one version to another 🚀.
 * [angular-codx-recipe](https://www.npmjs.com/package/angular-codx-recipe) -  A [Codx](https://github.com/marmotz-dev/codx) recipe for setting up Angular projects quickly and efficiently.
@@ -579,6 +580,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-lens](https://github.com/MerrittMelker/ng-lens) - A Node.js tool that uses `ts-morph` to analyze Angular components and detect service usage patterns from any API library.
 * [ng-parsel](https://github.com/angular-experts-io/ng-parsel) - Parse your Angular code base to JSON abstraction - Great for displaying APIs and running custom analysis.
 * [ngx-genie](https://github.com/SparrowVic/ngx-genie) - A tool to visualize the dependency injection tree, analyze service states, track component relationships, and identify memory or architectural issues.
+* [ngx-html-bridge](https://github.com/nagashimam/ngx-html-bridge) - Converts Angular templates into static HTML variants, enabling reliable validation and linting with any standard HTML tool.
 
 ### Debugging
 
@@ -699,6 +701,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [eslint-config-angular-strict](https://github.com/Jbz797/eslint-config-angular-strict) - Modern ESLint configuration with strict rules for Angular development.
 * [eslint-config-spartan](https://github.com/glitch452/eslint-config-spartan) - An opinionated ESLint configuration with separate configs (called mixins) for various eslint plugins.
 * [eslint-plugin-ng-module-sort](https://github.com/ducktordanny/eslint-plugin-ng-module-sort) - Auto-sorts Angular and NestJS module arrays to keep your modules clean and organized.
+* [ngx-html-bridge-markuplint](https://github.com/nagashimam/ngx-html-bridge-markuplint) - This library links Markuplint to Angular templates by reverse‑compiling them into HTML, enabling accurate linting with proper source‑mapped reporting.
 
 ### Networking
 
@@ -1020,7 +1023,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [BoilerPlate-FirebaseAngular](https://github.com/Yewo-Devs/BoilerPlate-FirebaseAngular) - Starting point for apps built using `.NET`, Angular, and Firebase.
 * [extreme-angular](https://github.com/joematthews/extreme-angular) - A starter template with pre-configured dev tools that enforce best practices for creating clean, maintainable, and accessible web apps.
 * [@wlucha/angular-starter](https://github.com/wlucha/angular-starter) - Angular 19 Starter with Storybook, Transloco, Jest, Cypress, Docker, ESLint, Material, & Prettier.
-* [angular-clean-architecture](https://github.com/carlossalasamper/angular-clean-architecture) - An Angular scaffold with a clean architecture that is easy to understand.
+* [@carlossalasamper/angular-clean-architecture](https://github.com/carlossalasamper/angular-clean-architecture) - An Angular scaffold with a clean architecture that is easy to understand.
 * [dataclouder-template-angular](https://github.com/dataclouder-dev/dataclouder-template-angular) - A ready-to-use Angular/Ionic template with Firebase Authentication integration.
 * [angular-tailwind-e-commerce-template](https://github.com/Kei-K23/angular-tailwind-e-commerce-template) - A responsive Angular + Tailwind CSS e-commerce template with sleek, customizable design for minimalist online shops.
 * [ngx-lib-starter-kit](https://github.com/r3zafa/ngx-lib-starter-kit) - An Angular library boilerplate with pre-configured structure for scalable, maintainable development.
@@ -1040,6 +1043,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angluar-crm](https://github.com/minhpham-mew/angluar-crm) - Angular CRM template with contact management, deal tracking, and analytics.
 * [ngx-admin-v20](https://github.com/sebbegamer2222/ngx-admin-v20) - With this admin dashboard, you’ll enjoy a modern Bootstrap 5 UI with SASS customization, reusable components, and a sleek material theme.
 * [nestjs-angular-starter](https://github.com/tivanov/nestjs-angular-starter) - A full‑stack starter template featuring a NestJS backend and Angular frontend, complete with authentication, user management, and common infrastructure patterns.
+* [AngularTemplate](https://github.com/EmmanuelLefevre/AngularTemplate) - This Angular template delivers a production‑ready project setup with structured architecture, tooling, testing, CI/CD, styling, schematics, and clear rule documentation.
 
 ### Paid Templates
 
@@ -1358,6 +1362,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-diagram](https://github.com/synergycodes/ng-diagram) - A robust Angular library for building interactive diagrams, Node-based editors, and visual programming interfaces.
 * [armor-editor](https://github.com/technicults/armor-editor) - A secure, lightweight rich text editor with premium features—built to integrate seamlessly into Angular applications.
 * [ngx-workflow](https://github.com/abdulkyume/ngx-workflow) - A powerful, highly customizable Angular library for building interactive node-based editors, flow charts, and diagrams.
+* [Monaco Pattern Editor](https://github.com/KhlifiIsmail/Editor) - A premium Angular library that wraps Monaco Editor with beautiful themes and coding interview preparation features.
 
 ### File Upload
 
@@ -1831,6 +1836,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-speculative-link](https://github.com/push-based/ngx-speculative-link) - An Angular implementation of [Speculative Rules API](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API) inspired by [quicklink](https://github.com/GoogleChromeLabs/quicklink) and `ngx-quicklink`.
 * [storybook-addon-angular-router](https://github.com/Jakob-em/storybook-addon-angular-router) - A simple plugin to make working with the Angular router in [Storybook](https://storybook.js.org/) easier.
 * [ui-router](https://github.com/ui-router/angular) - State-based routing in Angular is enabled through [UI-Router for Angular](https://ui-router.github.io).
+* [ngx-url-params](https://github.com/shlomog12/ngx-url-params) - Lightweight Angular service for managing and synchronizing URL query parameters with a concise, reactive API.
 
 ### Scroll
 
@@ -1991,6 +1997,7 @@ for the creation of web applications developed with Angular.
 * [Angular Material Dev UI](https://ui.angular-material.dev/home) - One place stop for developers to explore components and blocks for their Angular Material and Tailwind CSS based applications.
 * [nmce](https://github.com/zijianhuang/nmce) - Suite of Angular Material extensions with reusable code and UI enhancements for complex, data‑rich business apps.
 * [NgxMatFacetToolkit](https://github.com/drsutphin/NgxMatFacetToolkit) - Angular standalone facet filtering toolkit with Material UI.
+* [ngx-dynamic-stepper](https://github.com/yingyu-projects/ngx-dynamic-stepper) - A powerful, flexible Angular library for creating dynamic wizard-style steppers built on top of Angular Material Stepper.
 
 ### UI Libraries built on Tailwind CSS
 
@@ -2220,6 +2227,7 @@ for the creation of web applications developed with Angular.
 * [ngx-highlight-js](https://github.com/cipchk/ngx-highlight-js) - Angular wrapper around [highlight.js](https://highlightjs.org/) for syntax highlighting.
 * [ngx-katex](https://github.com/pusherman/ngx-katex) - A simple Angular wrapper for [KaTeX](https://github.com/KaTeX/KaTeX).
 * [ngx-kel-agent](https://github.com/k0swe/ngx-kel-agent) - Client library for Angular applications to integrate with [kel-agent](https://github.com/k0swe/kel-agent).
+* [ngx-linkifyjs](https://github.com/code-name-jack/ngx-linkifyjs) - Angular [Linkify](https://github.com/nfrasser/linkifyjs) wrapper to auto-detect URLs, emails, hashtags, and mentions and convert them into HTML links.
 * [ngx-neoline](https://github.com/smartargs/ngx-neoline) - Angular wrapper for [NeoLine](https://tutorial.neoline.io/) N3 dAPI, detecting provider, awaiting READY, and exposing typed methods.
 * [ngx-open-web-ui-chat](https://github.com/JealousyM/ngx-open-web-ui-chat) - Angular component library for embedding [Open WebUI](https://openwebui.com/) chat with Socket.IO streaming, conversation history and markdown support.
 * [ngx-pendo](https://github.com/yociduo/ngx-pendo) - A simple wrapper to load Pendo in Angular.
