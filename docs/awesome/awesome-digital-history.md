@@ -153,6 +153,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 - [SKKG Digital Collection](https://digital.skkg.ch/) - The Foundation for Art, Culture, and History (SKKG) provides online access to its collection of approximately 100,000 objects, ranging from artworks to historical artifacts spanning from the Stone Age to the present.
 - [Sources Online](https://sources-online.org/index.html) - A platform for digital scholarly text editions, integrating TEI Publisher and IIIF in Switzerland.
 - [swisscollections](https://swisscollections.ch/) - Meta search engine for historical and modern collections in Swiss libraries and archives.
+- [swissnatcoll](https://swissnatcoll.ch/) - Swiss Natural History Collections portal providing open access to specimen data from natural history collections preserved in Switzerland.
 - [timeSTAT Cubes](http://www.sfa-laboratory.ch/sr/cubestest/index.php) - The Federal Council reports to parliament on income and expenditure for the past years.
 - [transcriptiones](http://transcriptiones.ch) - Create, share and access transcriptions of historical manuscripts.
 

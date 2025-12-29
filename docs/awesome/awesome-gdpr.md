@@ -25,6 +25,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Norwegian DPA - Software development with Data Protection by Design and by Default](https://www.datatilsynet.no/en/about-privacy/virksomhetenes-plikter/data-protection-by-design-and-by-default/)
 * [Data Pseudonymisation: Advanced Techniques and Use Cases](https://www.enisa.europa.eu/publications/data-pseudonymisation-advanced-techniques-and-use-cases/) - Report on pseudonymisation techniques from ENISA.
 * [Anonymisation, pseudonymisation and privacy enhancing technologies guidance - ICO](https://ico.org.uk/about-the-ico/ico-and-stakeholder-consultations/ico-call-for-views-anonymisation-pseudonymisation-and-privacy-enhancing-technologies-guidance/)
+* [dstack](https://github.com/Dstack-TEE/dstack) - Open-source confidential computing framework enabling privacy by design through hardware-enforced isolation for GDPR-compliant data processing.
 
 ## Records of Processing (art. 30)
 * [Iubenda - Register of data processing activities](https://www.iubenda.com/en/internal-privacy-management)
@@ -91,4 +92,4 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, Harald O. Bakke has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, Oppoverbakke has waived all copyright and related or neighboring rights to this work.

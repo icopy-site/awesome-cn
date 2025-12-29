@@ -73,6 +73,7 @@ _Projects released with an open source license._
 - [Webpack](https://opencollective.com/webpack) - JavaScript module bundler.
 - [Wiki.js](https://github.com/users/NGPixel/sponsorship), [#2](https://opencollective.com/wikijs), [#3](https://patreon.com/requarks) - Wiki platform built with Node.js.
 - [WireGuard](https://www.patreon.com/zx2c4), [#2](https://github.com/sponsors/zx2c4) - Next generation secure network tunnel.
+- [Wireshark](https://wiresharkfoundation.org/donate/) - Helping as many people as possible understand their networks as much as possible.
 - [Xfce](https://opencollective.com/xfce) [#2](https://opencollective.com/xfce-eu) - Desktop environment for UNIX-like operating systems.
 - [Zig](https://www.patreon.com/andrewrk) [#2](https://github.com/sponsors/ziglang) - System programming language which prioritizes robustness, optimality, and clarity.
 - [Zrythm](https://liberapay.com/Zrythm) - A highly automated and intuitive digital audio workstation.
