@@ -37,7 +37,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [moc](http://moc.daper.net/) - Console audio player for Linux/UNIX.
 - [musikcube](https://github.com/clangen/musikcube) - Cross-platform, terminal-based music player, audio engine, metadata indexer, and server.
 - [beets](https://github.com/beetbox/beets) - Music library manager and tagger.
-- [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify client.
+- [spotatui](https://github.com/LargeModGames/spotatui) - Spotify client.
 - [swaglyrics-for-spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - Spotify lyrics.
 - [dzr](https://github.com/yne/dzr) - deezer.com player.
 - [radio-active](https://github.com/deep5050/radio-active) - Internet radio player with 40k+ stations.
@@ -296,6 +296,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [stronghold](https://github.com/alichtman/stronghold) - Configure security settings from the terminal.
 - [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle dark mode.
 - [clippy](https://github.com/neilberkman/clippy) - Clipboard tool for interacting with GUI applications.
+- [anvil](https://github.com/0xjuanma/anvil) - Config management and app installations.
 
 ### Terminal Sharing Utilities
 
