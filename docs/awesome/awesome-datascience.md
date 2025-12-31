@@ -27,9 +27,9 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
-**An open-source Data Science repository to learn and apply towards solving real world problems.**
+**An open-source Data Science repository to learn and apply concepts toward solving real- world problems.**
 
-This is a shortcut path to start studying **Data Science**. Just follow the steps to answer the questions, "What is Data Science and what should I study to learn Data Science?"
+This is a shortcut path to start studying **Data Science**. Just follow the steps to answer the questions, "What is Data Science, and what should I study to learn Data Science?"
 
 
 <br>
@@ -352,6 +352,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 * [hyperlearn](https://github.com/danielhanchen/hyperlearn)
 * [dlib](https://github.com/davisking/dlib)
 * [imodels](https://github.com/csinva/imodels)
+* [jSciPy](https://github.com/hissain/jscipy) - A Java port of SciPy's signal processing module, offering filters, transformations, and other scientific computing utilities.
 * [RuleFit](https://github.com/christophM/rulefit)
 * [pyGAM](https://github.com/dswah/pyGAM)
 * [Deepchecks](https://github.com/deepchecks/deepchecks)
@@ -668,6 +669,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Unifying Business, Data, and Code: Designing Data Products with JSON Schema](https://learning.oreilly.com/library/view/unifying-business-data/9781098144999/)
 - [Grokking Bayes](https://www.manning.com/books/grokking-bayes)
 - [Machine Learning Q and AI](https://sebastianraschka.com/books/ml-q-and-ai)
+- [JavaScript for Data Science](https://third-bit.com/js4ds/) - Free html page
 
 #### Book Deals (Affiliated)
 
