@@ -23,7 +23,6 @@ This list is a collection of the best Mastodon resources.
 - [mastodon.social](https://mastodon.social/about/) - The largest Mastodon server with over 333k active users and 1.5m registered users.
 - [EU Server](https://social.network.europa.eu/about/) - The official server for EU institutions.
 - [Vivaldi Social](https://social.vivaldi.net/about/) - Mastodon social hosted by Vivaldi.
-- [Mozilla Social](https://mozilla.social/about/) - Mastodon social hosted by Mozilla.
 - [Journa.host](https://journa.host/about/) - Mastodon server for journalists.
 - [Newsie](https://newsie.social/about/) - Another Mastodon server for journalists.
 - [Bots in Space](https://botsin.space/about/) - Mastodon server for bot accounts.

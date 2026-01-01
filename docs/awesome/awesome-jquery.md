@@ -273,6 +273,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [tabulous.js](https://github.com/aarondo/tabulous.js) - Tabs for todays web
 * [X-editable](https://github.com/vitalets/x-editable) - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.
 * [macon](https://github.com/LoganTann/macon) - Tiny utility (430B) to create reactive jquery components using a JSX-like syntax.
+* [EstreUI.js](https://github.com/SoliEstre/EstreUI.js) - Mobile-first SPA+PWA framework designed for native-like experience with ES11 and jQuery.
 
 
 ## Testing

@@ -190,6 +190,7 @@
 - [3ZsForInsomnia/code-companion-picker](https://github.com/3ZsForInsomnia/code-companion-picker) - Telescope and Snacks picker integrations for previewing CodeCompanion prompts.
 - [3ZsForInsomnia/vs-code-companion](https://github.com/3ZsForInsomnia/vs-code-companion) - Tool for importing VSCode's Markdown prompts into CodeCompanion.
 - [3ZsForInsomnia/token-count.nvim](https://github.com/3ZsForInsomnia/token-count.nvim) - Shows the token count for the current buffer, with integrations for Lualine and NeoTree.
+- [nishu-murmu/cursor-inline](https://github.com/nishu-murmu/cursor-inline) - Cursor-style inline AI editing. Select code, describe the change, and get an inline, highlighted edit you can accept or reject—similar to Cursor inline workflow.
 
 <!--lint disable double-link -->
 
@@ -873,6 +874,7 @@ then it is not supported:
 - [ymich9963/mdnotes.nvim](https://github.com/ymich9963/mdnotes.nvim) - Simple and improved Markdown note taking.
 - [nbeversl/urtext_neovim](https://github.com/nbeversl/urtext_neovim) - An implementation of Urtext.
 - [losch/ztl](https://codeberg.org/losch/ztl) - A fast static note generator in a single binary with everything built-in.
+- [stikypiston/studytools.nvim](https://github.com/stikypiston/studytools.nvim) - Various utilities to enhance the studying and note-taking experience.
 <!--lint disable double-link -->
 
 

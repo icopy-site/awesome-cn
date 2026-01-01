@@ -182,6 +182,8 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Introduction to Data Science](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-data-science)
 -[Getting Started with Python for Data Science](https://www.codecademy.com/learn/getting-started-with-python-for-data-science) 
 - [Google Advanced Data Analytics Certificate](https://grow.google/data-analytics/) – Professional courses in data analysis, statistics, and machine learning fundamentals.
+- [Maschinelle Sprachgebrauchsanalyse - Grundlagen der Korpuslinguistik](https://www.twillo.de/edu-sharing/components/collections?id=e6ce03ae-4660-49b0-be10-dcc92e71e796) - course material on text-mining / corpus-linguistics *in German* funded by the federal state of North Rhine-Westphalia
+- [Programmieren für Germanist*innen](https://www.twillo.de/edu-sharing/components/collections?id=16bac749-f10e-483f-9020-5d6365b4e092) - course material: programming in python *in German* for digital humanities - funded by the federal state of North Rhine-Westphalia
 
 ### Intensive Programs
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -470,6 +472,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Data Science Lifecycle Template Repo](https://github.com/dslp/dslp-repo-template) | Template repository for data science lifecycle project  |
 | [RexMex](https://github.com/AstraZeneca/rexmex) | A general purpose recommender metrics library for fair evaluation.  |
 | [ChemicalX](https://github.com/AstraZeneca/chemicalx) | A PyTorch based deep learning library for drug pair scoring.  |
+| [CorpusExplorer](http://corpusexplorer.de/) | Software for corpus linguists and text/data mining enthusiasts. Build your own corpora in over 60 languages. Use over 50 tools/visualizations.  |
 | [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) | Representation learning on dynamic graphs.  |
 | [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) | A graph sampling library for NetworkX with a Scikit-Learn like API.  |
 | [Karate Club](https://github.com/benedekrozemberczki/karateclub) | An unsupervised machine learning extension library for NetworkX with a Scikit-Learn like API. |
@@ -670,6 +673,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Grokking Bayes](https://www.manning.com/books/grokking-bayes)
 - [Machine Learning Q and AI](https://sebastianraschka.com/books/ml-q-and-ai)
 - [JavaScript for Data Science](https://third-bit.com/js4ds/) - Free html page
+- [Angewandte Data Science](https://angewandtedatascience.de/) - German book about applied data science
 
 #### Book Deals (Affiliated)
 
@@ -704,6 +708,9 @@ This section includes some additional reading material, channels to watch, and t
 - [DataTalks.Club](https://datatalks.club). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
 - [The Analytics Engineering Roundup](https://roundup.getdbt.com/about). A newsletter about data science. [Archive](https://roundup.getdbt.com/archive).
 
+### Mailing lists
+**[`^        back to top        ^`](#awesome-data-science)**
+- [Working Group - Research Software Engineering in the Digital Humanities](https://www.listserv.dfn.de/sympa/info/ag-dhrse). This is the mailing list for the Research Software Engineering in the Digital Humanities (DH-RSE) working group.
 
 ### Bloggers
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -788,6 +795,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Applied AI Blogs](https://www.appliedaicourse.com/blog/) - In-depth articles on AI, machine learning, and data science concepts with practical applications.
 - [Scaler Blogs](https://www.scaler.com/blog/) - Educational content on software development, AI, and career growth in tech.
 - [Mlu github](https://mlu-explain.github.io/) - Mlu is developed amazon to help people in ml space you can learn everything from basics here with live diagrams
+- [Jan Oliver Rüdiger](https://notesjor.de/) - ML, DL and Data Science - with a focus on text-/data-mining
 
 ### Presentations
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -974,6 +982,7 @@ Below are some Social Media links. Connect with other data scientists!
 | [Alexey Grigorev](https://twitter.com/Al_Grigor) | Data science author |
 | [İlker Arslan](https://twitter.com/ilkerarslan_35) | Data science author. Shares mostly about Julia programming |
 | [INEVITABLE](https://twitter.com/WeAreInevitable) | AI & Data Science Start-up Company based in England, UK |
+| [Jan Oliver Rüdiger](https://x.com/notesJOR) | ML, DL and Data Science - with a focus on text-/data-mining |
 
 ### Telegram Channels
 **[`^        back to top        ^`](#awesome-data-science)**
@@ -1084,6 +1093,8 @@ Some data mining competition platforms
 - [250k+ Job Postings](https://aws.amazon.com/marketplace/pp/prodview-p2554p3tczbes) - An expanding dataset of historical job postings from Luxembourg from 2020 to today. Free with 250k+ job postings hosted on AWS Data Exchange.
 - [FinancialData.Net](https://financialdata.net/documentation) - Financial datasets (stock market data, financial statements, sustainability data, and more).
 - [Google Dataset Search](https://datasetsearch.research.google.com/) – Find datasets across the web.
+- [notesjor corpus-collection](https://notes.jan-oliver-ruediger.de/korpora/) - Free corpora (over 6 billion tokens) mostly German (both historically and in contemporary German).
+- [CLARIN-Repository](https://lindat.mff.cuni.cz/repository/home) - CLARIN is a European repository for scientific datasets.
 
 
 ### Comics

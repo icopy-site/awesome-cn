@@ -49,6 +49,7 @@
 - [omarchy-blueridge-dark-theme](https://github.com/hipsterusername/omarchy-blueridge-dark-theme) - Dark theme inspired by mountain ridge aesthetics.
 - [omarchy-cobalt2-theme](https://github.com/hoblin/omarchy-cobalt2-theme) - Cobalt2 theme inspired by the iconic VSCode theme.
 - [omarchy-crimson-gold-theme](https://github.com/knappkevin/omarchy-crimson-gold-theme) - Luxurious crimson and gold color combination.
+- [omarchy-doom-theme](https://github.com/AX200M/omarchy-doom-theme) - Material theme inspired by MF DOOM wallpaper.
 - [omarchy-dracula-theme](https://github.com/catlee/omarchy-dracula-theme) - Popular Dracula theme adaptation.
 - [omarchy-delorean-theme](https://github.com/jbnunn/omarchy-delorean-theme) - Retro-inspired time traveler's theme.
 - [omarchy-ember-n-ash-theme](https://github.com/Hydradevx/omarchy-ember-n-ash-theme) - Warm ember orange and ash gray color combination.

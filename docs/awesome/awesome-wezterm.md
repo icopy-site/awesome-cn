@@ -50,6 +50,7 @@ To enhance your WezTerm configuration experience:
 - [MLFlexer/smart_workspace_switcher.wezterm](https://github.com/MLFlexer/smart_workspace_switcher.wezterm) - Switch between workspaces with fuzzy finding and `zoxide`.
 - [vieitesss/workspacesionizer.wezterm](https://github.com/vieitesss/workspacesionizer.wezterm) - Blazingly fast workspace chooser inspired by `tmux-sessionizer`.
 - [abidibo/wezterm-sessions](https://github.com/abidibo/wezterm-sessions) - Save and restore sessions.
+- [srackham/tabsets.wezterm](https://github.com/srackham/tabsets.wezterm) - Load, save, rename and delete named sets of tabs.
 
 ## Tab bar
 

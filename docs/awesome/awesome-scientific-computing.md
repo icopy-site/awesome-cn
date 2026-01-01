@@ -90,7 +90,7 @@ them.
   (Python, MIT, [GitHub](https://github.com/mikedh/trimesh))
 - [dmsh](https://github.com/meshpro/dmsh) - Simple generator for unstructured triangular meshes, inspired by distmesh.
   (Python, proprietary, GitHub)
-- [TetWild](https://yixin-hu.github.io/tetwild.pdf) - Generate tetrahedral meshes for triangular surface meshes.
+- [TetWild](https://arxiv.org/abs/1908.03581) - Generate tetrahedral meshes for triangular surface meshes.
   (C++, GPL 3, [GitHub](https://github.com/Yixin-Hu/TetWild))
 - [TriWild](https://cims.nyu.edu/gcl/papers/2019-TriWild.pdf) - Robust triangulation with curve constraints.
   (C++, MPL 2, [GitHub](https://github.com/wildmeshing/TriWild))
