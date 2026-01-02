@@ -681,7 +681,7 @@ then it is not supported:
 - [diegoulloao/neofusion.nvim](https://github.com/diegoulloao/neofusion.nvim) - **_`[TS][LSP][Lua]`_** A theme compatible with Tree-sitter inspired by `gruvbox.nvim`.
 - [bartekjaszczak/luma-nvim](https://gitlab.com/bartekjaszczak/luma-nvim) - **_`[TS][LSP][L/D][Lua]`_** A colorful theme with dark/light modes and adjustable contrast. Supports Tree-sitter and semantic highlighting.
 - [bartekjaszczak/finale-nvim](https://gitlab.com/bartekjaszczak/finale-nvim) - **_`[TS][LSP][Lua]`_** A balanced dark theme, blending vivid and pastel colors for a comfortable, high-contrast experience. Supports Tree-sitter and semantic highlighting.
-- [m15a/nvim-srcerite](https://github.com/m15a/nvim-srcerite) - **_`[TS][Lua]`_** A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`.
+- [m15a/nvim-srcerite](https://codeberg.org/m15a/nvim-srcerite) - **_`[TS][Lua]`_** A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`.
 - [neko-night/nvim](https://github.com/neko-night/nvim) - **_`[TS][LSP][L/D][Lua]`_** A buffet of colorschemes for every taste and mood.
 - [ptdewey/monalisa-nvim](https://github.com/ptdewey/monalisa-nvim) - **_`[TS][LSP][Lua]`_** A dark and colorful Mona Lisa inspired colorscheme.
 - [ntk148v/slack.nvim](https://github.com/ntk148v/slack.nvim) - **_`[TS][L/D][Lua]`_** A ported Slack colorscheme.
@@ -1614,9 +1614,6 @@ then it is not supported:
 
 ## Workflow
 
-<!-- lint disable double-link -->
-- [kuri-sun/comment-graph.nvim](https://github.com/kuri-sun/comment-graph.nvim) - Integration with [comment-graph](https://github.com/kuri-sun/comment-graph) that makes your codebase traceable at a glance.
-<!-- lint enable double-link -->
 - [letieu/jira.nvim](https://github.com/letieu/jira.nvim) - Manage Jira tasks with a beautiful UI.
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Helping you establish good command workflow and habit.
 - [saxon1964/neovim-tips](https://github.com/saxon1964/neovim-tips) - Provides hundreds of built-in tips, tricks and shortcuts, with a custom picker interface and the ability to add your own tips.

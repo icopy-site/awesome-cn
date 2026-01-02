@@ -65,7 +65,6 @@
 - [omarchy-gold-rush-theme](https://github.com/tahayvr/omarchy-gold-rush-theme) - Luxurious gold-themed color scheme.
 - [omarchy-gtk-theme](https://github.com/bjarneo/omarchy-gtk-theme) - Universal GTK styling to match Omarchy across applications.
 - [omarchy-green-garden-theme](https://github.com/kalk-ak/omarchy-green-garden-theme) - Fresh and calming theme inspired by nature with vibrant yet soothing green tones.
-- [omarchy-hakker-green-theme](https://github.com/joaquinmeza/omarchy-hakker-green-theme) - Hacker-style green terminal theme.
 - [omarchy-hollow-knight-theme](https://github.com/bjarneo/omarchy-hollow-knight-theme) - Hollow Knight inspired theme with gaming aesthetics.
 - [omarchy-hook-theme-set-ex](https://github.com/imbypass/omarchy-hook-theme-set-ex) - Modular interpretation of the Omarchy theme-set hook.
 - [omarchy-inkypinky-theme](https://github.com/HANCORE-linux/omarchy-inkypinky-theme) - Bold meets blush in a swirl of creative elegance.
