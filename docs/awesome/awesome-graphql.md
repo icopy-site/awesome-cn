@@ -709,6 +709,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Nhost](https://nhost.io/) - Open source Firebase alternative with GraphQL
 - [Saleor](https://github.com/mirumee/saleor/) - GraphQL-first headless e-commerce platform.
 - [Stargate](https://stargate.io/docs/latest/quickstart/qs-graphql-cql-first.html) - Open source data gateway currently supporting Apache Cassandra&reg; and DataStax Enterprise.
+- [Vedika](https://vedika.io) - Vedic astrology AI API with GraphQL support for horoscopes, birth charts, kundali matching, and 108+ endpoints.
 - [Grafbase](https://grafbase.com) - Instant GraphQL APIs for any data source.
 
 ### CDN
