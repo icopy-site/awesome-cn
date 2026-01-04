@@ -521,6 +521,7 @@
 - [Ward](https://github.com/ex0dus-0x/ward) - Simple implementation of an ELF packer that creates stealthy droppers for loading malicious ELFs in-memory.
 - [Woody Wood Packer](https://github.com/Jibus22/woody_woodpacker) - ELF packer - encrypt and inject self-decryption code into executable ELF binary target.
 - [xorPacker](https://github.com/nqntmqmqmb/xorPacker) - Simple packer working with all PE files which cipher your exe with a XOR implementation.
+* [zELF](https://github.com/seb3773/zelf) - A modular ELF64 packer for Linux x86_64 featuring 22 compression codecs, ML-based codec selection, and support for both static and PIE binaries.
 - [ZProtect](http://www.jiami.net) - Renames metadata entities and supports advanced obfuscation methods that harden protection scheme and foil reverse engineering altogether.
 
 <p align="center"><a href="#top"><img src="https://img.shields.io/badge/Back%20to%20top--lightgrey?style=social" alt="Back to top" height="20"/></a></p>
