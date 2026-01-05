@@ -45,6 +45,7 @@
 - [omarchy-bauhaus-theme](https://github.com/somerocketeer/omarchy-bauhaus-theme) - Minimalist theme inspired by Bauhaus design principles.
 - [omarchy-batou-theme](https://github.com/HANCORE-linux/omarchy-batou-theme) - Moody theme inspired by Batou's car and iconic opening scene aesthetics.
 - [omarchy-blackgold-theme](https://github.com/HANCORE-linux/omarchy-blackgold-theme) - Sleek black-and-gold theme with luxurious aesthetics.
+- [omarchy-blackmoney-theme](https://github.com/HANCORE-linux/omarchy-blackmoney-theme) - Bold midnight theme with rich green-gold accents.
 - [omarchy-blackturq-theme](https://github.com/HANCORE-linux/omarchy-blackturq-theme) - Black turquoise theme based on Evo80 keyboard color pattern.
 - [omarchy-blueridge-dark-theme](https://github.com/hipsterusername/omarchy-blueridge-dark-theme) - Dark theme inspired by mountain ridge aesthetics.
 - [omarchy-cobalt2-theme](https://github.com/hoblin/omarchy-cobalt2-theme) - Cobalt2 theme inspired by the iconic VSCode theme.
@@ -65,6 +66,8 @@
 - [omarchy-gold-rush-theme](https://github.com/tahayvr/omarchy-gold-rush-theme) - Luxurious gold-themed color scheme.
 - [omarchy-gtk-theme](https://github.com/bjarneo/omarchy-gtk-theme) - Universal GTK styling to match Omarchy across applications.
 - [omarchy-green-garden-theme](https://github.com/kalk-ak/omarchy-green-garden-theme) - Fresh and calming theme inspired by nature with vibrant yet soothing green tones.
+- [omarchy-harbor-theme](https://github.com/HANCORE-linux/omarchy-harbor-theme) - Calm, paper-light color scheme with cool ink accents inspired by Nordic tones.
+- [omarchy-harbordark-theme](https://github.com/HANCORE-linux/omarchy-harbordark-theme) - Dark version of Harbor theme with deep tones and cool accents.
 - [omarchy-hollow-knight-theme](https://github.com/bjarneo/omarchy-hollow-knight-theme) - Hollow Knight inspired theme with gaming aesthetics.
 - [omarchy-hook-theme-set-ex](https://github.com/imbypass/omarchy-hook-theme-set-ex) - Modular interpretation of the Omarchy theme-set hook.
 - [omarchy-inkypinky-theme](https://github.com/HANCORE-linux/omarchy-inkypinky-theme) - Bold meets blush in a swirl of creative elegance.
@@ -75,6 +78,7 @@
 - [omarchy-midnight-theme](https://github.com/JaxonWright/omarchy-midnight-theme) - Dark midnight theme optimized for OLED displays.
 - [omarchy-milkmatcha-light-theme](https://github.com/hipsterusername/omarchy-milkmatcha-light-theme) - Light theme with soft matcha green and creamy colors.
 - [omarchy-monochrome-theme](https://github.com/Swarnim114/omarchy-monochrome-theme) - Clean monochrome design.
+- [omarchy-moodpeak-theme](https://github.com/HANCORE-linux/omarchy-moodpeak-theme) - Mood-lifting theme designed to pull you back to peak focus.
 - [omarchy-nes-theme](https://github.com/bjarneo/omarchy-nes-theme) - Retro NES theme with nostalgic gaming aesthetics.
 - [omarchy-nagai-twilight-theme](https://github.com/somerocketeer/omarchy-nagai-twilight-theme) - Twilight-inspired theme with elegant color transitions.
 - [omarchy-one-dark-pro-theme](https://github.com/sc0ttman/omarchy-one-dark-pro) - One Dark Pro color scheme adaptation.
@@ -95,6 +99,7 @@
 - [omarchy-synthwave84-theme](https://github.com/omacom-io/omarchy-synthwave84-theme) - Synthwave 84 inspired theme with retro aesthetics.
 - [omarchy-thegreek-theme](https://github.com/HANCORE-linux/omarchy-thegreek-theme) - Sleek, strategic spy theme blending classic espionage with modern intrigue.
 - [omarchy-velocity-theme](https://github.com/perfektnacht/omarchy-velocity-theme) - Dynamic theme with speed-inspired design elements.
+- [omarchy-velvetnight-theme](https://github.com/HANCORE-linux/omarchy-velvetnight-theme) - Dark, night-inspired theme with soft contrasts and subtle glimmers.
 - [omarchy-vesper-theme](https://github.com/thmoee/omarchy-vesper-theme) - Dark theme with warm vesper-orange highlights.
 - [omarchy-vhs80-theme](https://github.com/tahayvr/omarchy-vhs80-theme) - Retro VHS-inspired theme with 80s aesthetics and neon colors.
 - [omarchy-void-theme](https://github.com/vyrx-dev/omarchy-void-theme.git) - Low-contrast purple theme with soft accents for a calm UI.
