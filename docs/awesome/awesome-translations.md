@@ -28,6 +28,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Localit](https://localit.io/) - A fast and intuitive localization platform with seamless GitHub/GitLab integration, AI-powered and human translation support, and a generous free plan.
 - [Lokalise](https://lokalise.com/) - Translation platform for developers.
 - [Locize](https://locize.com/) - Proprietary translation platform.
+- [LRM](https://github.com/nickprotop/LocalizationManager) - Self-hosted CLI/TUI localization manager supporting .resx and JSON (i18next) with multiple translation providers including free options.
 
 ### Project management
 

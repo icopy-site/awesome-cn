@@ -669,6 +669,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-glagolize](https://github.com/alkorschun/ngx-glagolize) - An Angular library for handling translations and localization.
 * [ngx-i18n-extract-regex-cli](https://github.com/Celtian/ngx-i18n-extract-regex-cli) - Tool for extracting translations from Angular app using regex.
 * [ngx-i18n-tools](https://github.com/Ascor8522/ngx-i18n-tools) - Tools for translating Angular apps, including an Excel/XLIFF converter—[ngx-xlf-xlsx](https://github.com/Ascor8522/ngx-i18n-tools/tree/master/ngx-xlf-xlsx).
+* [ngx-localized-router](https://github.com/odomanskyi/ngx-localized-router) -  A lightweight Angular library that helps you localize your application routes by adding language segments to the URL.
 * [ngx-merge-json-translations](https://github.com/jonnomk/ngx-merge-json-translations) - This builder helps merge the `messages.json` file, after running extract-i18n, into target files using specified locales taking care to delete removed keys and add new ones.
 * [ngx-runtime-i18n](https://github.com/AshwinSathian/ngx-runtime-i18n) - Runtime internationalization for Angular — signals-first, SSR-safe, and framework-agnostic core.
 * [ngx-signal-i18n](https://github.com/yagcioe/ngx-signal-i18n) - A type-safe, lazy-loaded i18n solution for Angular, built on signals for reactivity and compatible with zoneless.
@@ -1980,6 +1981,7 @@ for the creation of web applications developed with Angular.
 * [ngx-gccb](https://www.npmjs.com/package/ngx-gccb) - Angular 19+ library with easy‑to‑use shared components, directives, pipes, and services. See [showcase](https://ngx-gccb.netlify.app/) for code snippets.
 * [Elementar UI](https://elementarui.com/) - Fully open-source Angular UI Components & Admin Panel based on Material 3 and Tailwind.
 * [ez-nav](https://github.com/pSkywalker/ez-nav) - A config-driven, responsive Angular navigation bar that integrates seamlessly with Bootstrap layouts.
+* [cute-widgets](https://github.com/cute-widgets/base) - An open‑source Angular UI library that provides native directive‑based components styled with Bootstrap 5+ utilities and design classes.
 
 ### UI Libraries built on Material
 
