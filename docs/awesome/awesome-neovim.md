@@ -18,6 +18,7 @@
 - [NTBBloodbath/cheovim](https://github.com/NTBBloodbath/cheovim) - A configuration switcher written in Lua. Inspired by [chemacs](https://github.com/plexus/chemacs).
 <!--lint enable double-link -->
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - A modern plugin manager, featuring a graphical interface, async execution, a lockfile and more.
+  - [cosmicbuffalo/super_lazy.nvim](https://github.com/cosmicbuffalo/super_lazy.nvim) - An extension to `folke`'s `lazy.nvim`, enables use of multiple lockfiles for large teams that want to combine shared/personal Neovim configurations.
 - [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) - Plugins discovery tool with hourly updated database, and one-key installation for `lazy.nvim` and `vim.pack`.
 - [lumen-oss/rocks.nvim](https://github.com/lumen-oss/rocks.nvim) - A modern approach to plugin management using Luarocks, inspired by Cargo.
 - [nvim-mini/mini.nvim#mini.deps](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-deps.md) - Module of `mini.nvim` for managing other plugins. Uses Git and built-in packages to install, update, clean, and snapshot plugins.
@@ -1161,6 +1162,7 @@ then it is not supported:
 - [chrisgrieser/nvim-spider](https://github.com/chrisgrieser/nvim-spider) - Use the w, e, b motions like a spider. Considers camelCase and skips insignificant punctuation.
 - [backdround/neowords.nvim](https://github.com/backdround/neowords.nvim) - Hops by any type of words. It gives fine control over `w`, `e`, `b`, `ge` movements.
 - [backdround/improved-ft.nvim](https://github.com/backdround/improved-ft.nvim) - Improve default `f`/`t` abilities.
+- [cosmicbuffalo/eyeliner.nvim](https://github.com/cosmicbuffalo/eyeliner.nvim) - Highlight jump destinations for `f`/`t` motions.
 - [Mr-LLLLL/treesitter-outer](https://github.com/Mr-LLLLL/treesitter-outer) - Jump to outer node with smart.
 - [Aaronik/Treewalker.nvim](https://github.com/aaronik/Treewalker.nvim) - Move seamlessly around the abstract syntax tree.
 - [timseriakov/spamguard.nvim](https://github.com/timseriakov/spamguard.nvim) - Detects excessive key spamming (jjjj/kkkk) and suggests more efficient alternatives.

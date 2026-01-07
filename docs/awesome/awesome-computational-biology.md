@@ -95,6 +95,7 @@ A knowledge collection of databases, software and papers related to computationa
 - [Chemistry Development Kit](https://github.com/cdk/cdk) - A software of cheminformatics and Machine Learning.
 - [FlashDeconv](https://github.com/cafferychen777/flashdeconv) - High-performance spatial transcriptomics deconvolution. Processes 1M spots in ~3 minutes.
 - [RDKit](https://github.com/rdkit/rdkit) - A software of cheminformatics and Machine Learning.
+- [ChatSpatial](https://github.com/cafferychen777/ChatSpatial) - MCP server enabling spatial transcriptomics analysis via natural language.
 - [Scanpy](https://scanpy.readthedocs.io/en/stable/) - scRNA analysis library in Python.
 - [Seurat](https://satijalab.org/seurat/) - scRNA analysis library in R.
 - [Squidpy](https://squidpy.readthedocs.io/) - Spatial single cell analysis library in Python.
@@ -133,3 +134,8 @@ A knowledge collection of databases, software and papers related to computationa
 - [GeneGPT](https://github.com/ncbi/GeneGPT) - LLM for biomedical information with several API.
 - [GenePT](https://github.com/yiqunchen/GenePT) - foundation LLM for single cell data
 - [scPRINT](https://github.com/cantinilab/scPRINT) - scPRINT is pretrained on 50M cells to denoise and perform zero imputation of any single cell RNAseq profile.
+
+### Foundation models
+- [scFoundation](https://github.com/biomap-research/scFoundation) - A large-scale pretrained foundation model for single-cell gene expression data, enabling multiple downstream analysis tasks.
+- [scGPT](https://github.com/bowang-lab/scGPT) - A transformer-based foundation model pretrained on millions of single-cell profiles to support various single-cell analysis tasks.
+- [BulkFormer](https://github.com/KangBoming/BulkFormer) - A foundation model pretrained on large-scale bulk RNA-seq data to learn general transcriptomic representations for downstream analysis tasks.
