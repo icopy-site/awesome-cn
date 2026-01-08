@@ -430,6 +430,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [Build Automation, CI/CD](https://gist.github.com/shichen85/887d237cdc4338fa3f4e4749a14990db) - Tutorial on using GitHub Actions as a CI/CD pipeline to automate building games.
 - [BROKVN](https://cowcat.itch.io/brokvn-engine) - A visual novel engine.
 - [AssParser](https://github.com/DecadeDecaf/AssParser) - Subtitle support for video playback.
+- [Ultimate Optimization Tier List](https://forum.gamemaker.io/index.php?threads/the-ultimate-gamemaker-optimization-tier-list.122141/) - Excellent forum thread on GameMaker optimization.
 
 ## Blogs
 

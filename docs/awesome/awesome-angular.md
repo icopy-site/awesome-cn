@@ -869,6 +869,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [Official website](https://www.ngxs.io/)
 * [Official GitHub repository](https://github.com/ngxs/store) - NGXS aims to simplify state management with minimal boilerplate and maintenance.
+* [action-lifecycle-hooks](https://github.com/ngxs-labs/action-lifecycle-hooks) - Makes it simple to trigger code on action outcomes—such as success or error—without manual action wiring.
 * [actions-executing](https://github.com/ngxs-labs/actions-executing) - This plugin allows you to easily know if an action is being executed and control UI elements or control flow of your code to execute.
 * [emitter](https://github.com/ngxs-labs/emitter) - New pattern that provides the opportunity to feel free from actions.
 * [firestore-plugin](https://github.com/ngxs-labs/firestore-plugin) - Firestore plugin for NGXS.
@@ -1281,6 +1282,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-cut](https://github.com/Celtian/ngx-cut) - Angular directive for cutting texts with responsive options.
 * [ngx-fixed-footer](https://github.com/Celtian/ngx-fixed-footer) - Angular directive that adds a fixed footer without overlap.
 * [ngx-if-platform](https://github.com/Celtian/ngx-if-platform) - Directive for conditional display based on platform.
+* [ngx-memoize](https://github.com/ali79heidari/ngx-memoize) - A lightweight, zero‑dependency decorator that memoizes Angular class methods to eliminate repeated template-call overhead and boost performance.
 * [ngx-nullable](https://github.com/Celtian/ngx-nullable) - This library provides a way to make properties nullable in Angular templates.
 * [ngx-nullish](https://github.com/piecioshka/ngx-nullish) - Angular Structural Directive, which replaces `*ngIf` with Nullish Coalescing operator.
 * [ngx-overflow-reveal](https://github.com/hosembafer/ngx-overflow-reveal) - An Angular directive that elegantly reveals truncated text on hover.
@@ -1779,6 +1781,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-notifications](https://github.com/pascaliske/ngx-notifications) - Simple notifications module for Angular.
 * [ngx-notifier](https://github.com/sibiraj-s/ngx-notifier) - A Simple Notification Service for Angular applications.
 * [ngx-popify](https://github.com/fgilmet/ngx-popify) - Toast notifications for Angular 16+ built using reactive signals and easily integrated via a view component.
+* [ngx-snotifire](https://github.com/ccpatrut/ngx-snotifire) - A flexible toast library offering multiple notification types, simultaneous positions, rich configuration, full custom styling, built‑in themes, callbacks, and custom HTML support.
 * [ngx-sonner](https://github.com/tutkli/ngx-sonner) - An opinionated toast component for Angular. A port of @emilkowalski's sonner.
 * [ngx-sweetalert2](https://github.com/sweetalert2/ngx-sweetalert2) - Declarative, reactive, and template-driven SweetAlert2 integration for Angular.
 * [ngx-toastr](https://github.com/scttcper/ngx-toastr) - Notifications/Toastr.
@@ -2210,6 +2213,7 @@ for the creation of web applications developed with Angular.
 * [Bit](https://bit.dev/docs/angular-introduction/) -  Leverage Bit to build composable software.
 * [angular-twitter-timeline](https://github.com/mustafaer/angular-twitter-timeline) - Angular Public Twitter Timeline Widget.
 * [ngx-signalr-websocket](https://github.com/yurivoronin/ngx-signalr-websocket) - A lightweight ASP.NET SignalR client for Angular.
+* [Keploy](https://keploy.io/docs/quickstart/openhospital/) - Record test cases and mocks by interacting with the Angular UI, and then test them using Keploy.
 
 ### Wrappers
 
