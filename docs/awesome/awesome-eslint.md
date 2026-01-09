@@ -63,8 +63,6 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [De Morgan](https://github.com/azat-io/eslint-plugin-de-morgan) - Transforms logical expressions in code to make them easier to understand.
 - [eslint-plugin-code-complete](https://github.com/aryelu/eslint-plugin-code-complete) - A custom ESLint plugin that enforces principles of clean, maintainable software design — inspired by Code Complete.
 
-
-
 ### Compatibility
 
 - [Compat](https://github.com/amilajack/eslint-plugin-compat) - Lint browser compatibility of APIs used ([caniuse](http://caniuse.com/#search=fetch) as an ESLint plugin).
@@ -127,11 +125,14 @@ If you want to contribute, please read the [contribution guidelines](https://git
   - [JSON, package.json](https://github.com/Bkucera/eslint-plugin-json-format) - Lint, format, and auto-fix your JSON files. Sort your `package.json`.
   - [JSON with Comments](https://github.com/ota-meshi/eslint-plugin-jsonc) - ESLint plugin for JSON, JSONC and JSON5.
   - [JSON Schema](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) - Validates data defined in JavaScript, JSON, YAML and TOML using JSON Schema Validator.
+  - [eslint-plugin-package-json](https://github.com/JoshuaKGoldberg/eslint-plugin-package-json) - Rules for consistent, readable, and valid package.json files.
 - [MDX](https://github.com/mdx-js/eslint-mdx/tree/master/packages/eslint-plugin-mdx) - ESLint Parser/Plugin for MDX.
 - [N](https://github.com/eslint-community/eslint-plugin-n) - Additional ESLint's rules for Node.js. Properly maintained fork of no longer maintained `eslint-plugin-node`.
 - [SQL](https://github.com/gajus/eslint-plugin-sql) - SQL linting rules for ESLint.
 - [TOML](https://github.com/ota-meshi/eslint-plugin-toml) - ESLint plugin for TOML.
-- [TypeScript](https://github.com/typescript-eslint/typescript-eslint/tree/master/packages/eslint-plugin) - Linting rules for TypeScript.
+- [TypeScript](https://typescript-eslint.io) - Linting rules for TypeScript.
+  - [eslint-plugin-erasable-syntax-only](https://github.com/JoshuaKGoldberg/eslint-plugin-erasable-syntax-only) - Granularly enforces TypeScript's erasableSyntaxOnly flag.
+  - [eslint-plugin-expect-type](https://github.com/JoshuaKGoldberg/eslint-plugin-expect-type) - Provides Twoslash, $ExpectError, and $ExpectType type assertions.
 - [YAML](https://github.com/ota-meshi/eslint-plugin-yml) - ESLint plugin for YAML.
 
 ### Libraries
@@ -151,6 +152,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Ramda](https://github.com/ramda/eslint-plugin-ramda) - Ramda specific linting rules.
 - [RequireJS](https://github.com/cvisco/eslint-plugin-requirejs) - Linting rules for RequireJS.
 - [Tailwind CSS](https://github.com/francoismassart/eslint-plugin-tailwindcss) - Linting rules for Tailwind CSS classnames.
+- [Tailwind CSS v4](https://github.com/schoero/eslint-plugin-better-tailwindcss) - ESLint plugin to help you write better tailwindcss by improving readability with formatting rules and enforcing best practices with linting rules.
 
 ### Misc
 
@@ -171,10 +173,12 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [@eslint-community/eslint-plugin-eslint-comments](https://github.com/eslint-community/eslint-plugin-eslint-comments) - Best practices about ESLint directive comments (`/*eslint-disable*/`, etc.). Properly maintained fork of no longer maintained `eslint-plugin-eslint-comments`.
 - [eslint-plugin-error-cause](https://github.com/Amnish04/eslint-plugin-error-cause) - A plugin to preserve original error context when re-throwing exceptions.
 - [eslint-plugin-hexagonal-architecture](https://github.com/CodelyTV/eslint-plugin-hexagonal-architecture) - A plugin that helps you to enforce hexagonal architecture best practices.
+- [eslint-plugin-signature-design](https://github.com/Vladyslav-Soldatenko/eslint-plugin-signature-design) - Forbids functions with too many parameters of the same type, encouraging object-based signatures and preventing primitive obsession. 
 - [eslint-plugin-write-good-comments](https://github.com/kantord/eslint-plugin-write-good-comments) - Enforce good writing style in comments.
 - [eslint-plugin-exception-handling](https://github.com/Akronae/eslint-plugin-exception-handling) - Lints unhandled functions that might throw errors.
 - [fp](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming.
 - [functional](https://github.com/jonaskello/eslint-plugin-functional) - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
+- [mutate](https://github.com/gchumillas/eslint-plugin-mutate) - Prevent accidental parameter mutations by enforcing explicit `mut` prefix (JavaScript) or `Mut<T>` type annotation (TypeScript).
 - [Immutable](https://github.com/jhusain/eslint-plugin-immutable) - Disable all mutation in JavaScript.
 - [import](https://github.com/benmosher/eslint-plugin-import) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names.
 - [import-x](https://github.com/un-ts/eslint-plugin-import-x) - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names. Lightweight fork of `eslint-plugin-import`, but which breaks backwards compatibility.
@@ -208,6 +212,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) - An eslint plugin that detects potential secrets/credentials.
 - [no-unsanitized](https://github.com/mozilla/eslint-plugin-no-unsanitized) - Checks for `innerHTML`, `outerHTML`, etc.
 - [pii](https://github.com/shiva-hack/eslint-plugin-pii) - Checks and enforces PII Compliance of the code. i.e. no email address, birth date, IP address or phone number in comments or string literals.
+- [pg](https://github.com/interlace-collie/eslint/tree/main/packages/eslint-plugin-pg) - PostgreSQL/node-postgres security: SQL injection prevention (CWE-89), connection pool leak detection (CWE-772), transaction safety. 13 rules with CWE mapping.
 - [Security](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security.
 - [xss](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production.
 
@@ -254,7 +259,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 ## Parsers
 
 - [babel-eslint-parser](https://github.com/babel/babel/tree/main/eslint/babel-eslint-parser) - Allows you to lint ALL valid Babel code with the fantastic ESLint.
-- [TypeScript](https://github.com/typescript-eslint/typescript-eslint) - A TypeScript parser that produces output compatible with ESLint.
+- [TypeScript](https://typescript-eslint.io/packages/parser) - A TypeScript parser that produces output compatible with ESLint.
 - [BrightScript](https://github.com/RokuRoad/eslint-plugin-roku) - BrightScript plugin for Roku development. Includes Parser and Rules.
 - [GraphQL](https://github.com/dotansimha/graphql-eslint) - Parser for the GraphQL AST. Includes parser, plugin, processor (for non-graphql files) and rules.
 
@@ -297,6 +302,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [editor-info](https://github.com/fisker/editor-info) - Detect whether one is within an editor/IDE and which type, allowing one to tweak ESLint configuration accordingly.
 - [eslint-dashboard](https://github.com/fengzilong/eslint-dashboard) - Interactive ESLint workflow that lives in your terminal.
 - [eslint-remote-tester](https://github.com/AriPerkkio/eslint-remote-tester) - CLI tool for testing given ESlint rules against multiple repositories at once.
+- [eslint-disable-autofix](https://github.com/MorevM/eslint-disable-autofix/) - Utility to disable autofix for specific ESLint rules.
 
 ## Developing for ESLint
 

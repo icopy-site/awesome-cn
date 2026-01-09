@@ -386,6 +386,7 @@ _Frameworks and libraries for Distributed Computing._
 
 _Libraries to create packaged executables for release distribution._
 
+- [cx_freeze](https://github.com/marcelotduarte/cx_Freeze) - It is a Python tool that converts Python scripts into standalone executables and installers for Windows, macOS, and Linux.
 - [Nuitka](https://github.com/Nuitka/Nuitka) - Compiles Python programs into high-performance standalone executables (cross-platform, supports all Python versions).
 - [py2app](https://github.com/ronaldoussoren/py2app) - Freezes Python scripts (Mac OS X).
 - [py2exe](https://github.com/py2exe/py2exe) - Freezes Python scripts (Windows).
@@ -473,6 +474,7 @@ _Functional Programming with Python._
 _Libraries for working with graphical user interface applications._
 
 - [curses](https://docs.python.org/3/library/curses.html) - Built-in wrapper for [ncurses](http://www.gnu.org/software/ncurses/) used to create terminal GUI applications.
+- [CustomTkinter](https://github.com/tomschimansky/customtkinter) - A modern and customizable python UI-library based on Tkinter.
 - [DearPyGui](https://github.com/RaylockLLC/DearPyGui/) - A Simple GPU accelerated Python GUI framework
 - [enaml](https://github.com/nucleic/enaml) - Creating beautiful user-interfaces with Declarative Syntax like QML.
 - [Flet](https://flet.dev) - Cross-platform GUI framework for building modern apps in pure Python. Run on Windows, macOS, Linux, Android, iOS, and the Web.
@@ -482,7 +484,8 @@ _Libraries for working with graphical user interface applications._
 - [NiceGui](https://github.com/zauberzeug/nicegui) - It is great for micro web apps, dashboards, robotics projects, smart home solutions and similar use cases. You can also use it in development, for example when tweaking/configuring a machine learning algorithm or tuning motor controllers.
 - [pyglet](https://github.com/pyglet/pyglet) - A cross-platform windowing and multimedia library for Python.
 - [PyGObject](https://pygobject.readthedocs.io/) - Python Bindings for GLib/GObject/GIO/GTK+ (GTK+3).
-- [PyQt](https://doc.qt.io/qtforpython/) - Python bindings for the [Qt](https://www.qt.io/) cross-platform application and UI framework.
+- [PySide](https://doc.qt.io/qtforpython/) - Qt for Python offers the official Python bindings for [Qt](https://www.qt.io/), this is same as PyQt but it's the official binding with different licensing.
+- [PyQt](https://www.riverbankcomputing.com/static/Docs/PyQt6/) - Python bindings for the [Qt](https://www.qt.io/) cross-platform application and UI framework.
 - [pywebview](https://github.com/r0x0r/pywebview/) - A lightweight cross-platform native wrapper around a webview component.
 - [Tkinter](https://wiki.python.org/moin/TkInter) - Tkinter is Python's de-facto standard GUI package.
 - [Toga](https://github.com/pybee/toga) - A Python native, OS native GUI toolkit.
@@ -710,6 +713,7 @@ _Libraries for package and dependency management._
   - [pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
   - [PyPI](https://pypi.org/)
 - [conda](https://github.com/conda/conda/) - Cross-platform, Python-agnostic binary package manager.
+- [Hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management.
 - [poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 - [uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 
@@ -1053,6 +1057,7 @@ _Traditional full stack web frameworks. Also see [RESTful API](https://github.co
     - [awesome-fasthtml](https://github.com/amosgyamfi/awesome-fasthtml)
 - Asynchronous
   - [microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
+  - [reflex](https://github.com/reflex-dev/reflex) – A framework for building reactive, full-stack web applications entirely with python .
   - [tornado](https://github.com/tornadoweb/tornado) - A web framework and asynchronous networking library.
 
 ## WebSocket

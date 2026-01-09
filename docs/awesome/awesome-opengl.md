@@ -121,6 +121,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 * [ThinMatrix](https://www.youtube.com/user/ThinMatrix/playlists) - Video tutorials about OpenGL and game development using Java.
 * [sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdfGpqjkEJSeWKGCP31__wD) - Videos tutorials about OpenGL (immediate mode) using Python.
 * [Sonar Systems](https://www.youtube.com/playlist?list=PLRtjMdoYXLf6zUMDJVRZYV-6g6n62vet8) - Learn about the new and modern OpenGL 3.0+.
+* [Introduction to OpenGL](https://www.youtube.com/playlist?list=PLvv0ScY6vfd9zlZkIIqGDeG5TUWswkMox) - Video tutorials about OpenGL in C++ by Mike Shah.
 
 ## Websites
 
