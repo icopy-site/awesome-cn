@@ -224,6 +224,7 @@ _Libraries for storing and parsing configuration options._
 
 - [configobj](https://github.com/DiffSK/configobj) - INI file parser with validation.
 - [configparser](https://docs.python.org/3/library/configparser.html) - (Python standard library) INI file parser.
+- [dynaconf](https://github.com/dynaconf/dynaconf) - Dynaconf is a configuration manager with plugins for Django, Flask and FastAPI.
 - [hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications.
 - [python-decouple](https://github.com/HBNetwork/python-decouple) - Strict separation of settings from code.
 
@@ -367,6 +368,8 @@ _Software and libraries for DevOps._
   - [psutil](https://github.com/giampaolo/psutil) - A cross-platform process and system utilities module.
 - Backup
   - [borg](https://github.com/borgbackup/borg) - A deduplicating archiver with compression and encryption.
+- Chaos Engineering
+  - [chaostoolkit](https://github.com/chaostoolkit/chaostoolkit) - A Chaos Engineering toolkit & Orchestration for Developers.
 
 ## Distributed Computing
 

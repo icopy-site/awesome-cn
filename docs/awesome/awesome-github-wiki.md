@@ -19,6 +19,7 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 - [uber/NullAway](https://github.com/uber/NullAway/wiki)
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary/wiki)
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm/wiki)
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet/wiki)
 
 ## Useful links with tips & tricks
 - [Learning GitHub - Making Wikis](https://www.youtube.com/watch?v=bnMl0d-RcPQ)
