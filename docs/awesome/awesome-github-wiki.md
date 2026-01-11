@@ -22,6 +22,7 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet/wiki)
 
 ## Useful links with tips & tricks
+- [What is a GitHub Wiki and How Do You Use it?](https://www.freecodecamp.org/news/what-is-github-wiki-and-how-do-you-use-it/)
 - [Learning GitHub - Making Wikis](https://www.youtube.com/watch?v=bnMl0d-RcPQ)
 - [Creating a GitHub Wiki documentation for your repository](https://carldesouza.com/creating-a-github-wiki-documentation-for-your-repository/)
 - [Git Tutorial - 24 - GitHub Wiki](https://www.youtube.com/watch?v=4B0XNThjO0E)
