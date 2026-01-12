@@ -807,7 +807,7 @@ __Note:__ searching for ‘@’ will return all Twitter accounts listed on this 
 -   [Computer Technologies for the Historical Research of Intellectual Networks](https://www.youtube.com/playlist?list=PLz79Il7EOvUJxdQ9r2IefFtr--BNkfOa7) - Series of videos by historians, featuring Marten Düring and Scott Weingart.
 -   [Convert Between Graph Formats](http://awesome.cs.jhu.edu/graph-services/convert/) - Online service to convert from/to many different common graph formats.
 -   [David Knoke on Network Analysis](https://thesocietypages.org/methods/2015/01/30/david-knoke-on-network-analysis/) - 20-minute interview that discusses the uses and benefits of network analysis, drawing upon Knoke’s research on terrorist networks.
--   [Glossary of Terms for Statistical Network Models](https://statnet.org/trac/raw-attachment/wiki/Resources/glossary.pdf).
+-   [Glossary of Terms for Statistical Network Models](https://web.archive.org/web/20171215013948/https://statnet.org/trac/raw-attachment/wiki/Resources/glossary.pdf).
 -   [Linton C. Freeman’s Social Network Research Publications](http://moreno.ss.uci.edu/pubs.html), spanning from 1955 to today.
 -   [Mapping the Republic of Letters](http://republicofletters.stanford.edu/) - Research project on early-modern scholarship ([underlying software](http://www.densitydesign.org/research/knot/)).
 -   [Mixed-Method Approaches to Social Network Analysis](https://www.youtube.com/playlist?list=PL3zdEY084WkQD79mR00RSt8j5RuyPwMJE) - Videos of a conference at the Middlesex University School of Law (2014).

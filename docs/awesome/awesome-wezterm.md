@@ -19,6 +19,7 @@ To enhance your WezTerm configuration experience:
 
 - [Michal1993r/ai-helper.wezterm](https://github.com/Michal1993r/ai-helper.wezterm/tree/master) - Ask AI for CLI help with LM Studio or Google Gemini.
 - [dimao/ai-commander.wezterm](https://github.com/dimao/ai-commander.wezterm) - Generate and select bash commands based on natural language prompts.
+- [Eric162/wezterm-agent-deck](https://github.com/Eric162/wezterm-agent-deck) - Monitors AI coding agents, shows status dots in tabs and notifications when agents need attention.
 
 ## Keybinding
 
@@ -44,6 +45,7 @@ To enhance your WezTerm configuration experience:
 ## Session
 
 - [DavidRR-F/quick_domains.wezterm](https://github.com/DavidRR-F/quick_domains.wezterm) - Faster way to search and attach to (SSH) domains.
+- [isseii10/workspace-picker.wezterm](https://github.com/isseii10/workspace-picker.wezterm) - Workspace switcher with `zoxide` integration.
 - [JuanraCM/wsinit.wezterm](https://github.com/JuanraCM/wsinit.wezterm) - A simple and flexible way to manage and initialize workspace configurations.
 - [mikkasendke/sessionizer.wezterm](https://github.com/mikkasendke/sessionizer.wezterm) - Opening Git repositories as their own WezTerm workspaces using `fd`.
 - [MLFlexer/resurrect.wezterm](https://github.com/MLFlexer/resurrect.wezterm) - Save and restore the state of windows, tabs and panes.
