@@ -189,6 +189,10 @@ Where to discover learning resources about OpenID Connect.
 - [OAuth 2.0 Security Best Current Practice](https://datatracker.ietf.org/doc/html/rfc9700) - Best security practice when using OAuth 2.0 and OpenID Connect.
 - [OpenID Connect Extended Authentication Profile (EAP) ACR Values 1.0](https://openid.net/specs/openid-connect-eap-acr-values-1_0.html) - Specifications for OpenID Connect Extended Authentication Profile (EAP) ACR Values which allows to request specific authentication methods and assurance levels.
 - [Resource Indicators for OAuth 2.0](https://datatracker.ietf.org/doc/html/rfc8707) - A mechanism that allows an OAuth 2.0 client to indicate the resource server that it intends to access.
+- [OAuth 2.0 Authorization Server Issuer Identification](https://datatracker.ietf.org/doc/html/rfc9207) - Defines a new iss parameter in the authorization response in order to identify the authorization server that issued the authorization response and mitigates mix-up attacks.
+- [FAPI 2.0 Security Profile](https://openid.net/specs/fapi-security-profile-2_0.html) - New version of the FAPI security profile that is suitable for protecting APIs with a high inherent risk in the context of Financial-grade APIs.
+- [FAPI 2.0 Attacker Model](https://openid.net/specs/fapi-attacker-model-2_0.html) - Security goals, attacker models and security mechanisms for Financial-grade APIs.
+- [FAPI 2.0 Message Signing](https://openid.net/specs/fapi-message-signing-2_0.html) - API security profile for signing and verifying certain FAPI 2.0 Security Profile based requests and responses.
 
 #### Draft
 
@@ -201,6 +205,7 @@ Where to discover learning resources about OpenID Connect.
 - [Selective Disclosure for JWTs (SD-JWT)](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-selective-disclosure-jwt) - Specification for selective disclosure of JWT elements.
 - [OAuth 2.1](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1-13) - Consolidation of OAuth 2.0 specifications into a single document, removing deprecated features and clarifying best practices.
 - [OAuth 2.0 App2App Browserless Flow](https://github.com/yaron-zehavi/oauth-app2app-browserless) - Describing a protocol enabling native navigation across apps performing authentication using the App2App pattern, without requiring a web browser.
+- [OAuth 2.0 Attestation-Based Client Authentication](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-attestation-based-client-auth-07) - Extension to OAuth 2.0 enabling public clients to authenticate using key-bound attestations.
 
 ### Websites
 
