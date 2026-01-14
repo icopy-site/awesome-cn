@@ -222,12 +222,12 @@
 - [4DV](https://www.4dv.ai/) - Impressive implementation of animated Gaussian splats (4DGS).
 - [Arrival Space](https://arrival.space/) - Social metaverse built on splat-based spaces.
 - [Braintrance](https://www.braintrance.net/) - A platform to share and experience 3D memories.
-- [Clos Belharra](https://adnfamily.com/studio/mj/clos_belharra/experience/index.html) - Real estate visualization blending synthetic and photo-based splats.
 - [DiffStudio](https://diffstudio.co) - Create digital twins of e-commerce products.
 - [Doly](https://www.animl.ai/) - Capture high-quality 3D photos of your products and embed them on Shopify in minutes.
 - [GSplat Share](https://gsplat.org/) – Share your splats with optional time-limited and password-protected links.
 - [homes.com](https://www.homes.com/property/5471-country-club-pkwy-san-jose-ca/jtpxcck89t92v/?dk=htcrxezf5771f&tab=-1) - Exterior views for residential property listings.
 - [LichtFeld Studio Landing Page](https://lichtfeld.io/) - Explore a splat trained by LichtFeld Studio.
+- [Mind Studio](https://studio.adnfamily.com/maquette-immersive) - Showcase page showing many examples of 3DGS being used for real estate projects.
 - [Montreal Museum of Fine Arts](https://labs.dpt.co/article-3dgs.html) - Explore 6 rooms at the museum.
 - [NeuralStorm](https://www.neuralstorm.io/) - Neural rendering for high-fidelity product visualisation.
 - [Nikon Creates](https://www.creates.nikon.com/access/#3dgs) - Scans of Nikon's studio space in Tokyo.
@@ -240,7 +240,6 @@
 - [Skyfall-GS](https://skyfall-gs.jayinnn.dev/) - Converts satellite images to explorable 3D urban scenes using the SuperSplat Viewer.
 - [Splattr](https://splattr.app) - Create gaussian splats on the cloud.
 - [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
-- [The Season](https://adnfamily.com/studio/mj/the_season/immersive/index.html) - Real estate visualization of a modern apartment block.
 - [Tum Collegiate Church](https://ovrcast.eu/projects/TumCollegiate/) - Explore a key historical Polish landmark.
 - [vid2scene](https://vid2scene.com/) - Transform 2D video into immersive 3D scenes.
 

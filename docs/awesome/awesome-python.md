@@ -302,6 +302,7 @@ _Libraries for connecting and operating databases._
   - [pymssql](https://github.com/pymssql/pymssql) - A simple database interface to Microsoft SQL Server.
 - NoSQL Databases
   - [cassandra-driver](https://github.com/datastax/python-driver) - The Python Driver for Apache Cassandra.
+  - [Django MongoDB Backend](https://github.com/mongodb/django-mongodb-backend) - Official MongoDB database backend for Django.
   - [happybase](https://github.com/python-happybase/happybase) - A developer-friendly library for Apache HBase.
   - [kafka-python](https://github.com/dpkp/kafka-python) - The Python client for Apache Kafka.
   - [motor](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
@@ -410,6 +411,7 @@ _Libraries for generating project documentation._
 _Libraries for downloading._
 
 - [akshare](https://github.com/jindaxiang/akshare) - A financial data interface library, built for human beings!
+- [OpenBB](https://github.com/OpenBB-finance/OpenBB) - A financial data platform for analysts, quants and AI agents.
 - [s3cmd](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront.
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl/) - A command-line program to download videos from YouTube and other video sites.
 
@@ -523,6 +525,7 @@ _Libraries for geocoding addresses and working with latitudes and longitudes._
 - [django-countries](https://github.com/SmileyChris/django-countries) - A Django app that provides a country field for models and forms.
 - [geodjango](https://docs.djangoproject.com/en/dev/ref/contrib/gis/) - A world-class geographic web framework.
 - [geojson](https://github.com/jazzband/geojson) - Python bindings and utilities for GeoJSON.
+- [geopandas](https://github.com/geopandas/geopandas) - Python tools for geographic data (GeoSeries/GeoDataFrame) built on pandas.
 - [geopy](https://github.com/geopy/geopy) - Python Geocoding Toolbox.
 
 ## HTML Manipulation
@@ -642,6 +645,7 @@ _Libraries for Machine Learning. Also see [awesome-machine-learning](https://git
 - [Metrics](https://github.com/benhamner/Metrics) - Machine learning evaluation metrics.
 - [MindsDB](https://github.com/mindsdb/mindsdb) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI) - Production-ready Multi-AI Agents framework with self-reflection, 100+ LLM support, MCP integration, and agentic workflows.
+- [RAGFlow](https://github.com/infiniflow/ragflow) - An open-source RAG engine for document understanding and question answering with LLMs.
 - [scikit-learn](http://scikit-learn.org/) - The most popular Python library for Machine Learning.
 - [Spark ML](http://spark.apache.org/docs/latest/ml-guide.html) - [Apache Spark](http://spark.apache.org/)'s scalable Machine Learning library.
 - [Transformers](https://github.com/huggingface/transformers) - A framework that lets you easily use pretrained transformer models for NLP, vision, and audio tasks.
@@ -710,6 +714,7 @@ _Libraries that implement Object-Relational Mapping or data mapping techniques._
   - [SQLModel](https://sqlmodel.tiangolo.com/) - SQLModel is based on Python type annotations, and powered by Pydantic and SQLAlchemy.
 - NoSQL Databases
   - [mongoengine](https://github.com/MongoEngine/mongoengine) - A Python Object-Document-Mapper for working with MongoDB.
+  - [ODMantic](https://github.com/art049/odmantic) - Sync and Async ODM for MongoDB built on top of Pydantic for model definition and validation.
   - [PynamoDB](https://github.com/pynamodb/PynamoDB) - A Pythonic interface for [Amazon DynamoDB](https://aws.amazon.com/dynamodb/).
 
 ## Package Management
@@ -820,6 +825,7 @@ _Libraries for scientific computing. Also see [Python-for-Scientists](https://gi
 - [cclib](http://cclib.github.io/) - A library for parsing and interpreting the results of computational chemistry packages.
 - [Colour](http://colour-science.org/) - Implementing a comprehensive number of colour theory transformations and algorithms.
 - [Karate Club](https://github.com/benedekrozemberczki/karateclub) - Unsupervised machine learning toolbox for graph structured data.
+- [manim](https://github.com/ManimCommunity/manim) - An animation engine for explanatory math videos.
 - [NetworkX](https://networkx.github.io/) - A high-productivity software for complex networks.
 - [NIPY](http://nipy.org) - A collection of neuroimaging toolkits.
 - [NumPy](http://www.numpy.org/) - A fundamental package for scientific computing with Python.
@@ -830,6 +836,7 @@ _Libraries for scientific computing. Also see [Python-for-Scientists](https://gi
 - [QuTiP](http://qutip.org/) - Quantum Toolbox in Python.
 - [RDKit](http://www.rdkit.org/) - Cheminformatics and Machine Learning Software.
 - [SciPy](https://www.scipy.org/) - A Python-based ecosystem of open-source software for mathematics, science, and engineering.
+- [shapely](https://github.com/shapely/shapely) - Manipulation and analysis of geometric objects in the Cartesian plane.
 - [SimPy](https://gitlab.com/team-simpy/simpy) - A process-based discrete-event simulation framework.
 - [statsmodels](https://github.com/statsmodels/statsmodels) - Statistical modeling and econometrics in Python.
 - [SymPy](https://github.com/sympy/sympy) - A Python library for symbolic mathematics.
