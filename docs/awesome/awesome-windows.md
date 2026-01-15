@@ -152,6 +152,7 @@
 * [Beekeeper Studio](https://www.beekeeperstudio.io/) - A modern, easy to use, and good looking SQL client for MySQL, Postgres, SQLite, SQL Server, and more. [![Open-Source Software][oss]](https://github.com/beekeeper-studio/beekeeper-studio)
 * [DataFlare](https://dataflare.app/) - Modern, lightweight database GUI for SQLite, MySQL and PostgreSQL. ![star]
 * [pgAdmin](https://www.pgadmin.org/) - Feature-rich, open-source administration and development platform for PostgreSQL. [![Open-Source Software][oss]](https://github.com/pgadmin-org/pgadmin4)
+* [DBeaver](https://dbeaver.io/) - Free and open-source database management tool. [![Open-Source Software][oss]](https://github.com/dbeaver/dbeaver)
 
 ## Developer Utilities
 
@@ -257,6 +258,7 @@
 * [Notion](https://www.notion.so/) - All-in-one workspace for notes, project management, documents, and collaboration.
 * [Obsidian](https://obsidian.md/) - A powerful knowledge base on top of a local folder of plain text Markdown files.
 * [Simplenote](https://simplenote.com/) - Cross-platform note taking app with cloud sync.
+* [Standard Notes](https://standardnotes.com/) - A free, secure note-taking app with powerful end-to-end encryption, unparalleled privacy features, and seamless cross-platform syncing on unlimited devices from the creators of ProtonVPN.
 
 ## Office Suites
 

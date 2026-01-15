@@ -1630,6 +1630,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-cool](https://github.com/Hacklone/angular-cool) - A monorepo packed with developer‑friendly Angular utilities that supercharge apps with effortless UI, storage, networking, and performance features.
 * [dasch-ng](https://github.com/DaSchTour/dasch-ng) - A collection of reusable Angular libraries and TypeScript utilities for modern web development.
 * [ngx-schema-tools](https://github.com/Expeed-Software/ngx-schema-tools) - A monorepo containing Angular libraries for JSON schema editing, visual data mapping, and dynamic form rendering.
+* [angular-3d](https://github.com/Hive-Academy/angular-3d) - Modern Angular libraries for building stunning 3D graphics and scroll animations.
 
 ### Modals
 
@@ -1940,6 +1941,7 @@ for the creation of web applications developed with Angular.
 * [ngx-universal-viewer](https://github.com/Imishu29/ngx-universal-viewer) - An Angular component for viewing PDFs, Word, Excel, and PowerPoint files in continuous scroll or page-by-page modes.
 * [ngx-voyage](https://github.com/mschn/ngx-voyage) - File Explorer for Angular and PrimeNG.
 * [pdf-viewer-kit](https://github.com/AmanKrr/pdf-viewer-kit) - A modern, high-performance, framework-agnostic, lightweight PDF viewer and annotation library built on top of [pdf.js](https://github.com/mozilla/pdf.js).
+* [Angular Image & PDF Viewer](https://github.com/NiranjanKushwaha/imgPdfViewer_library_Angular) - A customizable Angular library for viewing PDFs and images using Mozilla’s `pdf.js` engine for smooth previews.
 
 ### Visual Effects
 

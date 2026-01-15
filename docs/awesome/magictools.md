@@ -188,6 +188,7 @@ _Set of game frameworks, engines and platforms_
 - :tada: [Box2D](http://box2d.org/) - A 2D Physics Engine for Games.
 - :tada: [Box2D.NET](https://github.com/ikpil/Box2D.NET) - A port of Box2D, is a 2D physics engine for games, .NET C#, Unity3D, servers.
 - :tada: [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
+- :tada: [Carimbo](https://github.com/willtobyte/carimbo) - A 2D game engine developed in modern C++ using SDL, an Entity-Component-System (ECS) architecture, and Box2D. It features Lua scripting and is designed for web portability via WebAssembly.
 - :tada: [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib.
 - :tada: [Chipmunk2D](https://chipmunk-physics.net/) - A fast and lightweight 2D game physics library.
 - :tada: [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++.

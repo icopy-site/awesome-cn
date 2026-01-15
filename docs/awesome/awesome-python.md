@@ -163,6 +163,7 @@ _Tools of static analysis, linters and code quality checkers. Also see [awesome-
 - Static Type Checkers, also see [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing)
   - [mypy](https://github.com/python/mypy) - Check variable types during compile time.
   - [pyre-check](https://github.com/facebook/pyre-check) - Performant type checking.
+  - [ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server.
   - [typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types.
 - Static Type Annotations Generators
   - [monkeytype](https://github.com/Instagram/MonkeyType) - A system for Python that generates static type annotations by collecting runtime types.
@@ -308,6 +309,7 @@ _Libraries for connecting and operating databases._
   - [motor](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
   - [pymongo](https://github.com/mongodb/mongo-python-driver) - The official Python client for MongoDB.
   - [redis-py](https://github.com/redis/redis-py) - The Python client for Redis.
+  - [Beanie](https://github.com/BeanieODM/beanie) - An asynchronous Python object-document mapper (ODM) for MongoDB.
 
 ## Date and Time
 
@@ -413,6 +415,7 @@ _Libraries for downloading._
 - [akshare](https://github.com/jindaxiang/akshare) - A financial data interface library, built for human beings!
 - [OpenBB](https://github.com/OpenBB-finance/OpenBB) - A financial data platform for analysts, quants and AI agents.
 - [s3cmd](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront.
+- [yfinance](https://github.com/ranaroussi/yfinance) - Easy Pythonic way to download market and financial data from Yahoo Finance.
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl/) - A command-line program to download videos from YouTube and other video sites.
 
 ## Editor Plugins and IDEs
@@ -723,9 +726,8 @@ _Libraries for package and dependency management._
 
 - [pip](https://pip.pypa.io/en/stable/) - The package installer for Python.
   - [pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
-  - [PyPI](https://pypi.org/)
 - [conda](https://github.com/conda/conda/) - Cross-platform, Python-agnostic binary package manager.
-- [Hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management.
+- [hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management.
 - [poetry](https://github.com/sdispater/poetry) - Python dependency management and packaging made easy.
 - [uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 
@@ -1068,8 +1070,8 @@ _Traditional full stack web frameworks. Also see [RESTful API](https://github.co
   - [pyramid](https://pylonsproject.org/) - A small, fast, down-to-earth, open source Python web framework.
     - [awesome-pyramid](https://github.com/uralbash/awesome-pyramid)
   - [fastHTML](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app.
-  - [masonite](https://github.com/MasoniteFramework/masonite) - The modern and developer centric Python web framework.
     - [awesome-fasthtml](https://github.com/amosgyamfi/awesome-fasthtml)
+  - [masonite](https://github.com/MasoniteFramework/masonite) - The modern and developer centric Python web framework.
 - Asynchronous
   - [microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
   - [reflex](https://github.com/reflex-dev/reflex) – A framework for building reactive, full-stack web applications entirely with python .

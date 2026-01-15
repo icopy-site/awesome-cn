@@ -27,6 +27,7 @@ All resources are freely available except those with a 💲 icon.
 * [Almost Fun](https://www.almostfun.org/lessons/)
 * [Oxford Mathematics](https://www.youtube.com/c/OxfordMathematics)
 * [Math Academy](https://mathacademy.com/)
+* [Derivative Calculus Solver](https://www.derivativecalculus.com) — A step-by-step differentiation tool focusing on the chain rule and substitution logic.
 
 ## Learn to Learn
 
