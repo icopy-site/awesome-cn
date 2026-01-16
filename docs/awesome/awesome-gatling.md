@@ -68,7 +68,8 @@ A curated collection of resources covering all aspects of load testing using [Ga
 - [Kraken](https://github.com/OctoPerf/kraken) - Load testing IDE based on Gatling by OctoPerf.
 - [Karate Gatling](https://karatelabs.github.io/karate/karate-gatling/) - Re-use Karate API-tests as performance tests executed by Gatling.
 - [Taurus](https://gettaurus.org/docs/Gatling/) - Gatling Executor in Taurus framework.
-- [Carrier](https://getcarrier.io/) - Continuous test execution platform with ability to perform load testing using customized JMeter and Gatling containers.
+- [Carrier](https://github.com/carrier-io) - Continuous test execution platform with ability to perform load testing using customized JMeter and Gatling containers.
+- [Gatlytron](https://github.com/Performetriks/Gatlytron) - Gatling Base Framework for easy onboarding.
 
 ### Reporting
 
@@ -115,7 +116,7 @@ A curated collection of resources covering all aspects of load testing using [Ga
 
 - [Gatling Community](https://community.gatling.io/)
 - [`gatling` on Stack Overflow](https://stackoverflow.com/questions/tagged/gatling+or+scala-gatling+or+gatling-java+or+gatling-plugin)
-- [`@GatlingTool` on Twitter](https://twitter.com/gatlingtool)
+- [`@GatlingTool` on Twitter](https://x.com/gatlingtool)
 
 ## Related
 
