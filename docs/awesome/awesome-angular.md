@@ -307,6 +307,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Framework Field Guide](https://playfulprogramming.com/collections/framework-field-guide) - A free and practical way to learn Angular, React, & Vue all at once.
 * [Marmicode Cookbook](https://cookbook.marmicode.io/) - Ingredients & Recipes for Cooking Delicious Apps.
 * [angular-interview-questions](https://github.com/Devinterview-io/angular-interview-questions) - Angular interview questions and answers to help you prepare for your next technical interview.
+* [dotnet_angular_cli_cheatsheet](https://github.com/shashinvision/dotnet_angular_cli_cheatsheet) - A comprehensive guide for full-stack developers working with .NET and Angular.
 
 ### Exercises
 
@@ -569,6 +570,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-component-hierarchy-visualizer](https://github.com/timonkrebs/ng-component-hierarchy-visualizer) - An unobtrusive tool that generates Mermaid diagrams of your Angular component hierarchy from route configs.
 * [easy-template-x-angular-expressions](https://github.com/alonrbar/easy-template-x-angular-expressions) - Angular expressions support for [easy-template-x](https://github.com/alonrbar/easy-template-x).
 * [story-ui](https://github.com/southleft/story-ui) - Automate component documentation by generating Storybook stories through AI-powered conversations, compatible with many LLM providers.
+* [envguards](https://github.com/princeofv/envguards) - Framework-agnostic environment variable validation, documentation generator, and `.env.example` creator.
 
 ### Editor and IDE Extensions
 
@@ -772,6 +774,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [google-pay-button](https://github.com/google-pay/google-pay-button) - Google Pay button - React, Angular, and custom element.
 * [izipay](https://github.com/antonyayansi/izipay) - Integrate Izipay into your project with minimal configuration and an integrated proxy.
 * [ngxsmk-stripe](https://github.com/toozuuu/ngxsmk-stripe) - Angular plugin for integrating Stripe payments (one-time & subscriptions) with theme customization, event emitters, and standalone components.
+* [ngx-hyperpay](https://github.com/MagdyAbouelnasr/ngx-hyperpay) - An Angular library for easy integration of the [HyperPay](https://www.hyperpay.com/) payment gateway.
 * [ngx-stripe](https://github.com/richnologies/ngx-stripe) - Angular bindings for [StripeJS](https://stripe.com/docs/js) and [Stripe Elements](https://stripe.com/docs/stripe-js).
 * [ngx-supabase-stripe](https://github.com/dotted-labs/ngx-supabase-stripe) - Ready‑made Angular components for Supabase + Stripe payments/subscriptions.
 * [solidgate](https://github.com/solidgate-tech/angular-sdk) - With its Angular SDK, you can add Solidgate Payment Form.
@@ -1469,6 +1472,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-keys](https://github.com/mrivasperez/ngx-keys) - A reactive Angular library for managing keyboard shortcuts with signals based UI integration.
 * [focusly](https://github.com/mad-vx/focusly) - A lightweight Angular library that brings intuitive, keyboard-driven navigation to web applications.
 * [ngx-arrow-state](https://github.com/jaychase/ngx-arrow-state) - An Angular library that provides terminal/shell-like input history navigation using arrow keys, plus Ctrl+Enter form submission for textareas.
+* [angular-onscreen-material-keyboard](https://github.com/eFaps/angular-onscreen-material-keyboard) - Onscreen virtual keyboard for Angular using Angular Material.
 
 ### Layout Components
 
@@ -1512,6 +1516,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-loading-overlay](https://github.com/shaman-apprentice/ngx-loading-overlay) - An Angular directive adding a loading overlay to your HTML.
 * [ngx-loading-page](https://github.com/dilipkumarsahoo/ngx-loading-page) - Sleek, adaptable loading component with multiple loader styles, dynamic themes, customizable backgrounds, and Bootstrap card design.
 * [ngx-progressbar](https://github.com/MurhafSousli/ngx-progressbar) - Nanoscopic progress bar, featuring realistic trickle animations.
+* [ngx-promise-buttons](https://github.com/meysamsahragard/ngx-promise-buttons) - Chilled loading buttons for Angular.
 * [ngx-signal-loading-bar](https://github.com/KennySchl/ngx-signal-loading-bar) - A lightweight, signal-based, zoneless loading bar for Angular.
 * [ngx-skeleton-loader](https://github.com/willmendesneto/ngx-skeleton-loader) - Make beautiful, animated loading skeletons that automatically adapt to your Angular apps.
 * [ngx-source](https://github.com/mehrabisajad/ngx-source) - Dynamically load JavaScript and CSS during application execution.
@@ -1631,6 +1636,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [dasch-ng](https://github.com/DaSchTour/dasch-ng) - A collection of reusable Angular libraries and TypeScript utilities for modern web development.
 * [ngx-schema-tools](https://github.com/Expeed-Software/ngx-schema-tools) - A monorepo containing Angular libraries for JSON schema editing, visual data mapping, and dynamic form rendering.
 * [angular-3d](https://github.com/Hive-Academy/angular-3d) - Modern Angular libraries for building stunning 3D graphics and scroll animations.
+* [npm-ntk-cms-angular](https://github.com/akaravi/npm-ntk-cms-angular) - This monorepo contains a collection of 9 reusable Angular libraries designed for building modern CMS applications.
 
 ### Modals
 
@@ -1681,6 +1687,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-number-to-words](https://www.npmjs.com/package/ngx-number-to-words) - Angular pipe to convert numbers into words, ideal for invoices, reports, and financial apps.
 * [ngx-highlight-text](https://github.com/ultrasonicsoft/ngx-highlight-text) - Angular pipe that highlights a selected word in the HTML markup.
 * [ngx-smart-pipes](https://github.com/Kavshree/-bjkavyashree-ngx-smart-pipes) - A lightweight, tree-shakeable collection of standalone Angular pipes designed for real-world use cases.
+* [ngx-dynamic-search](https://github.com/mustafaer/ngx-dynamic-search) - Angular pipe designed for dynamic, deep search filtering across complex nested objects and arrays.
 
 ### Printing
 
@@ -1830,6 +1837,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [takeoff-ui](https://github.com/turkishtechnology/takeoff-ui) - A comprehensive design system providing framework-agnostic web components developed with Stencil.js.
 * [mozek](https://github.com/thecodemeor/mozek-package) - A lightweight SCSS toolkit and UI library designed for clean, simple, non‑over‑engineered styling with consistent spacing, colors, and typography.
 * [Magma](https://github.com/ikilote/Magma) - A broad set of components, services, pipes, directives, and utilities that support its ecosystem and are available for anyone to use or extend.
+* [ngx-aespartal-ui](https://github.com/Aespartal/ngx-aespartal-ui) - A professional, lightweight, and customizable Angular component library built with Atomic Design principles.
 
 ### UI Libraries built on Bootstrap
 
@@ -2067,6 +2075,7 @@ for the creation of web applications developed with Angular.
 * [ng-elementum](https://github.com/MillerSvt/ng-elementum) - A modern fork of `@angular/elements` that enhances the integration of Angular components with the Web Components standard.
 * [ngx-apexgantt](https://github.com/apexcharts/ngx-apexgantt) - Angular wrapper for [ApexGantt](https://github.com/apexcharts/apexgantt), a JavaScript library to create Gantt diagrams built on SVG.
 * [ngx-apexsankey](https://github.com/apexcharts/ngx-apexsankey) - Angular wrapper for [ApexSankey](https://github.com/apexcharts/apexsankey) - A JavaScript library to create Sankey diagrams.
+* [ngx-apextree](https://github.com/apexcharts/ngx-apextree) - Angular wrapper for [ApexTree](https://github.com/apexcharts/apextree) - a JavaScript library for creating organizational and hierarchical charts.
 * [ngx-barcode6](https://github.com/efgiese/ngx-barcode6) - An Angular component for Angular 9+ for creating 1-D barcodes based on [JsBarcode](https://github.com/lindell/JsBarcode).
 * [ngx-chessground](https://github.com/topce/ngx-chessground) - Angular wrapper for [chessground](https://github.com/ornicar/chessground).
 * [ngx-d3](https://github.com/simonegosetto/ngx-d3) - A [D3](https://d3js.org/) wrapper service for Angular applications inspired by [d3-ng2-service](https://github.com/tomwanzek/d3-ng2-service).

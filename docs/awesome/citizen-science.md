@@ -83,6 +83,10 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Smoky Mountain Scientific](http://www.smokymtsci.com/) - Modular, Low cost, open-source instrumentation for environmental monitoring.
  * [AWEsome](https://www.lhc-ilc.physik.uni-bonn.de/research-groups/experimental-physics/prof.-k.-desch/research/airborne-wind-energy) - An affordable airborne wind turbine prototype.
 
+### GIS and Mapping
+
+ * [IMGtoKMZ](https://github.com/s5rt/IMGtoKMZ) - A simple tool to convert a batch of geotagged images into a KMZ file, with one placemark per photograph.
+
 ### 3D Printing and Fabrication
 
  * [Printables](https://www.printables.com/) - Database of 3D-printable models with contests and an active community

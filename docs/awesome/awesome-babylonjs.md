@@ -245,6 +245,7 @@ _Open source games built with Babylon.js_
 - [Simple 3D FPS](https://github.com/babylonjs-archive/simple-3d-fps) - A simple FPS game following Clean Code principles. ([demo](https://babylonjs-archive.github.io/simple-3d-fps/))
 - [Space Invaders](https://github.com/johnpitchers/Space-Invaders) - Space Invaders in your browser with 3D WebGL. ([demo](https://spaceinvaders.viperfish.com.au/))
 - [Space Pirates](https://github.com/BabylonJS/SpacePirates) - Shoot down pirates in space. ([demo](https://spacepirates.babylonjs.com/))
+- [Space Truckers](https://github.com/jelster/space-truckers) - A game of getting stuff from Point A to Point B... IN SPAAAACCE! ([demo](https://space-truckers.com/))
 - [Summer's Festival](https://github.com/BabylonJS/SummerFestival) - Source code for the game tutorial written by capucat. ([demo](https://capucat.github.io/summers-festival/))
 - [Theasis](https://github.com/ThanosRestas/Theasis) - FPS game. ([demo](https://thanosrestas.github.io/Theasis/dist/index.html))
 - [VoxelSrv](https://github.com/VoxelSrv/voxelsrv) - Voxel browser game inspired by Minecraft. ([demo](http://voxelsrv-master.pb4.eu/))
