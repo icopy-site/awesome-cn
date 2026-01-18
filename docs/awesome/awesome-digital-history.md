@@ -174,7 +174,6 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 - [The CTP Book](https://comp-think.github.io/) - A book for teaching Computational Thinking and Programming skills to people with a background in the Humanities.
 - [The Programming Historian](https://programminghistorian.org/) - Novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate research and teaching.
 - [UCI Digital History](https://guides.lib.uci.edu/history/history_dh) - Overview on the field of Digital History and Digital Humanities.
-- [We think History](https://wethink.hypotheses.org/) - News about and innovations from digital history.
 
 ## More Awesome
 
