@@ -250,3 +250,14 @@ The intention is that we only list services that allow web archives to be export
 *	[MirrorWeb](https://www.mirrorweb.com/solutions/capabilities/website-archiving)
 *	[PageFreezer](https://www.pagefreezer.com/)
 *	[Smarsh](https://www.smarsh.com/platform/compliance-management/web-archive)
+
+## Public Data
+
+This is a list of publicly available WARCs, Wayback Machines, CDX API endpoints, other indexes, and so on.
+
+* [Common Crawl files](https://data.commoncrawl.org/) - WARCs, CDX files, parquet url index, parquet host index, etc.
+* [Common Crawl CDX API](https://index.commoncrawl.org/)
+* [End of Term Archive](https://eotarchive.org/) - WARCs, CDX files, parquet url index
+* [Internet Archive Wayback](https://web.archive.org/)
+* [Webrecorder US GovArchive](https://govarchive.us/) - high-fidelity replay
+* [UK Government Web Archive](https://www.nationalarchives.gov.uk/webarchive/) - Wayback
