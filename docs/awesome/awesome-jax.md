@@ -41,7 +41,7 @@ This is a curated list of awesome JAX libraries, projects, and other resources. 
 - [NetKet](https://raw.githubusercontent.com/netket/netket) - Machine Learning toolbox for Quantum Physics. <img src="https://img.shields.io/github/stars/netket/netket?style=social" align="center">
 - [Fortuna](https://raw.githubusercontent.com/awslabs/fortuna) - AWS library for Uncertainty Quantification in Deep Learning. <img src="https://img.shields.io/github/stars/awslabs/fortuna?style=social" align="center">
 - [BlackJAX](https://raw.githubusercontent.com/blackjax-devs/blackjax) - Library of samplers for JAX. <img src="https://img.shields.io/github/stars/blackjax-devs/blackjax?style=social" align="center">
-- [Dynamax](https://github.com/probml/dynamax) - Probabilistic state space models.
+- [Dynamax](https://raw.githubusercontent.com/probml/dynamax) - Probabilistic state space models. <img src="https://img.shields.io/github/stars/probml/dynamax?style=social" align="center">
 
 <a name="new-libraries" />
 
@@ -135,6 +135,7 @@ This section contains libraries that are well-made and useful, but have not nece
 - [astronomix](https://raw.githubusercontent.com/leo1200/astronomix) - differentiable (magneto)hydrodynamics for astrophysics in JAX <img src="https://img.shields.io/github/stars/leo1200/astronomix?style=social" align="center">
 - [vivsim](https://raw.githubusercontent.com/haimingz/vivsim) - Fluid-structure interaction simulations using Immersed Boundary-Lattice Boltzmann Method. <img src="https://img.shields.io/github/stars/haimingz/vivsim?style=social" align="center">
 - [MBIRJAX](https://raw.githubusercontent.com/cabouman/mbirjax) - High-performance tomographic reconstruction. <img src="https://img.shields.io/github/stars/cabouman/mbirjax?style-social" align="center">
+- [torchax](https://raw.githubusercontent.com/google/torchax/) - torchax is a library for Jax to interoperate with model code written in PyTorch.<img src="https://img.shields.io/github/stars/google/torchax?style=social" align="center">
 
 <a name="models-and-projects" />
 

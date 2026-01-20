@@ -166,7 +166,9 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [Excalidraw](https://excalidraw.com) - Online diagram tool creates quick and easy, handdrawn diagrams and maps. keyboard shortcut '0', browse libraries and Add the "Wardley Maps Symbols" lib.
 - [Flowchart fun](https://flowchart.fun) - text based tool to generate quick flowcharts. Excellent way to quickly create a Value Chain - very useful in conversation or during a meeting.
 - [wardleyToGo](https://owulveryck.github.io/wardleyToGo/demo/) is a SDK to do map-as-code **and** a high level language (`wtg`) to express map-as-data. The set of tools allows an easy integration of the map in CI, and the online demo allows to desing maps online.
-- [Map](https://map.tranquil.systems) - Native macOS app to build wardley maps using its own `wmap` syntax (Apple Silicon only). GPLv3. It includes a QuickLook plugin to preview `wmap` files as images.
+- [Map](https://map.tranquil.systems) - Native macOS app to build wardley maps using its own `wmap` syntax (Apple Silicon only). GPLv3. It includes a QuickLook plugin to preview `wmap` files as images, and sharing to collaboratively edit maps.
+- [Map for Linux](https://map.tranquil.systems/map-for-linux) - GTK4 Linux app to build wardley maps using the `wmap` syntax. AGPLv3.
+- [wmap](https://map.tranquil.systems/cli) - A command line tool to render `wmap` formatted maps to PNG or SVG.
 
 ### Doctrine Assessement
 
@@ -192,7 +194,16 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [Join the Wardley AI Development Group on X/Twitter](https://twitter.com/i/communities/1670015410542985218)
 - [An Exploration into Wardley Mapping Language Code](https://medium.com/@mcraddock/an-exploration-into-wardley-mapping-language-mode-aa87763a8b17) - Create your own Wardley Mapping code editor in two easy steps.
 - [Convert WM format to Many](https://wm2many.streamlit.app/) - A simple streamlit app to convert the OnlineWardleyMaps OWM format to JSON, TOML, JSON Graph and Cypher text.
-- [Exploring Prompt Engineering using Wardley Maps](https://medium.com/prompt-engineering) - A series of blog posts about AI, Python and Wardley Mapping. 
+- [Exploring Prompt Engineering using Wardley Maps](https://medium.com/prompt-engineering) - A series of blog posts about AI, Python and Wardley Mapping.
+- [wiki-plugin-wmap](https://www.npmjs.com/package/wiki-plugin-wmap) - A plugin for [fedwiki](http://fed.wiki.org/view/welcome-visitors) that enables you to write maps in `wmap` syntax and create links to other wiki pages from components.
+- [tree-sitter-wmap](https://git.sr.ht/~rbdr/tree-sitter-wmap) - A `wmap` syntax parser using tree sitter with a bundled neovim plugin that provides syntax highlighting.
+- [wmap-parser-swift](https://git.sr.ht/~rbdr/wmap-parser-swift) - A Library for Swift that parses wardley maps using `wmap` syntax for macOS and iOS development.
+- [wmap-parser-js](https://www.npmjs.com/package/wmap-parser) - A pure javascript parser for wardley maps using `wmap` syntax that can run on the browser or node.
+- [wmap-parser-rust](https://crates.io/crates/wmap-parser) - A rust parser for wardley maps using `wmap` syntax.
+- [wmap-parser-c](https://git.sr.ht/~rbdr/wmap-parser-c) - A high performance ANSI C parser for wardley maps using `wmap` syntax.
+- [wmap-renderer-canvas](https://www.npmjs.com/package/wmap-renderer-canvas) - A javascript renderer that creates maps in a canvas element for wardley maps that use the `wmap` syntax, can be used exclusively on the browser or on nodeJS.
+- [wmap-renderer-svg](https://www.npmjs.com/package/wmap-renderer-svg) - A browser only renderer that creates SVGs for wardley maps that use the `wmap` syntax.
+- [wmap-renderer-rust](https://crates.io/crates/wmap-renderer) A rust renderer that generates cairo surfaces, SVGs and PNGs for wardley maps that use the `wmap` syntax.
 
 #### ChatGPT
 - [Wardley Map Analyst](https://chat.openai.com/g/g-Cic0bH5CF-wardley-map-analyst) - Analyzes and visualizes Wardley Maps from text

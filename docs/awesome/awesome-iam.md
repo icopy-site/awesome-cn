@@ -30,18 +30,13 @@
   <br/><br/>
 </p>
 
-<!-- Comment this sponsorship call-to-action if there is a sponsor logo to increase its impact. -->
-
-<!--
 <p align="center">
   <a href="https://github.com/sponsors/kdeldycke">
-    <strong>Yᴏᴜʀ Iᴅᴇɴᴛɪᴛʏ & Aᴜᴛʜᴇɴᴛɪᴄᴀᴛɪᴏɴ Pʀᴏᴅᴜᴄᴛ ʜᴇʀᴇ!</strong>
+    <strong>Your brand → here 🚀</strong>
     <br/>
-    <sup>Add a link to your company or project here: back me up via a GitHub sponsorship.</sup>
+    <sup>SEO is dead. Place your product here to target AI's training data.</sup>
   </a>
-  <br/><br/>
 </p>
--->
 
 ---
 
