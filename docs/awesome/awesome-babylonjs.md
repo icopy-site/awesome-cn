@@ -69,6 +69,7 @@ _Noteworthy examples of community-contributed content on the Babylon.js playgrou
 - [Dock the boat](https://playground.babylonjs.com/#5MJ1X9#13)
 - [Dynamic snow generation](https://playground.babylonjs.com/#5ZCGRM#2860)
 - [Dynamic text in UI](https://playground.babylonjs.com/#9U086#4)
+- [Excel simulator](https://playground.babylonjs.com/#O8QAGM#5)
 - [Exploding Lofi Sphere](https://playground.babylonjs.com/#HDHQN#55)
 - [Exploding Lofi Torus](https://playground.babylonjs.com/#HDHQN#56)
 - [Exploding Object with Solid Particles](https://playground.babylonjs.com/#CWAQ1W#12)
@@ -114,6 +115,7 @@ _Noteworthy examples of community-contributed content on the Babylon.js playgrou
 - [Portal effect using shaders](https://playground.babylonjs.com/#ACPMQL#2)
 - [Progressive loading of glTF with LOD](https://playground.babylonjs.com/#ARN6TJ#5)
 - [Pulsars / Imps](https://playground.babylonjs.com/#1ND6TH#265)
+- [Repository viewer](https://playground.babylonjs.com/#4U4QH9#35)
 - [Rollercoaster](https://playground.babylonjs.com/#1HH4OJ#29)
 - [Screen Capture and Composition](https://playground.babylonjs.com/#RBX8Y4#22)
 - [Shattered mesh with baked physics demo](https://playground.babylonjs.com/#1BGGDU#0)
@@ -234,6 +236,7 @@ _Open source games built with Babylon.js_
 - [Attack of the Killer Bunnies](https://github.com/farmersanonymous/killer-bunnies) - Where bunnies go to die. ([demo](https://ericbroberic.itch.io/attack-of-the-killer-bunnies))
 - [Barkanoid](https://github.com/pigmin/Breakout) - Arkanoid / Breakout clone with cinematic opening. ([demo](https://pigmin.github.io/Breakout/))
 - [Block](https://github.com/Temechon/block) - A block puzzle game. ([demo](http://pixelcodr.com/games/block/game.html))
+- [Cosmos Journeyer](https://github.com/BarthPaleologue/CosmosJourneyer) - Cosmos Journeyer is a space exploration game running directly in the browser! Take your spaceship and witness the beauty of this virtually infinite universe. ([demo](https://cosmosjourneyer.com/))
 - [Cube Endless Runner](https://github.com/babylonjs-archive/endless-runner-3d) - Cube Endless Runner is a 3D game built on top of WebGL and HTML5 technologies. ([demo](https://babylonjs-archive.github.io/endless-runner-3d/))
 - [Defend](https://github.com/xtreemze/defend) - Procedural Cross-Platform 3D Tower Defense Web Game with Physics and AI and Procedural Sound. ([demo](https://xtreemze.github.io/defend/))
 - [F18 Fighter Simulation](https://github.com/renjianfeng/F18FlightSimulator-ammojs) - Simulation driving of F18 Fighter. ([demo](https://renjianfeng.github.io/F18FlightSimulator-ammojs/dist/index.html))
@@ -264,6 +267,7 @@ _Open source projects using Babylon.js_
 - [BabylonJS-Doom-Clone](https://github.com/babylonjs-archive/doom-clone) - Doom-style game crafted with love. ([demo](https://babylonjs-archive.github.io/doom-clone/))
 - [BabylonJSFirstSteps](https://github.com/topheman/BabylonJSFirstSteps) - You will find here my first steps on Babylon.js ([demo](http://labs.topheman.com/babylonjs/cone-example.html))
 - [Babylon.js "magic" piano portal](https://github.com/docEdub/babylonjs-ar-piano-portal) - An augmented-reality WebXR animation of Chopin's "Winter Wind" Étude to hang on your wall! Works on flat-screen, too. ([demo](https://demos.babylonjs.com/piano-portal/))
+- [Babylon MCP Server](https://github.com/immersiveidea/babylon-mcp) - A Model Context Protocol (MCP) server that provides AI agents with access to Babylon.js documentation, API references, and source code through semantic search.
 - [BabylonJS Typescript Logic Examples](https://github.com/DisownedWheat/BabylonJS-Game-Logic-Examples) - A collection of small projects that show possible ways of handling game logic in a Babylon.js game.
 - [babylonjs-typescript-webpack-starter](https://github.com/pandadelphin/babylonjs-typescript-webpack-starter) - A starter template for those who want to use the famous JavaScript 3D game engine Babylon.js with TypeScript and Webpack.
 - [babylonjs-webpack-es6](https://github.com/RaananW/babylonjs-webpack-es6) - Babylon.js basic scene with typescript, webpack, es6 modules, editorconfig, eslint, hot loading and more. Will even make coffee if you ask nicely.
@@ -283,6 +287,7 @@ _Open source projects using Babylon.js_
 - [fps-babylon-js](https://github.com/Raigyo/fps-babylon-js) - Online Multiplayer First Person Shooter with Babylon.js & SocketIO. ([demo](https://babylon-fps-online.herokuapp.com/))
 - [glTF_Physics_Babylon](https://github.com/eoineoineoin/glTF_Physics_Babylon) - Demonstrates filters, joints, and complex assets like a water wheel. ([demo](https://eoineoineoin.github.io/glTF_Physics_Babylon/packages/demo/dist/#sceneIndex=6))
 - [HTML5 FPS](https://github.com/csarkosh/html5-fps) - Demo of an HTML5 first-person rig built on Babylon.js and React. ([demo](https://fps.csarko.sh/))
+- [Immersa](https://github.com/ertugrulcetin/immersa) - Open Source Web-based 3D Presentation Tool. ([video](https://www.youtube.com/watch?v=1yjtpf59jv0))
 - [Kicker](https://github.com/Temechon/kicker) - A soccer ball game made for Babylon.js February Challenge. ([demo](http://pixelcodr.com/games/kicker/))
 - [KZ Climbing](https://github.com/BabylonJSGames/BabylonJS-Platformer-Game-Prototype) - A 3D platformer browser game prototype similar to "KZ" maps in Counter Strike. ([demo](https://kzclimbing.netlify.app/client/public/))
 - [Molvwr](https://github.com/gleborgne/molvwr) - WebGL molecule viewer. ([demo](https://gleborgne.github.io/molvwr/))
@@ -298,6 +303,7 @@ _Open source projects using Babylon.js_
 - [Reactylon](https://github.com/simonedevit/reactylon) - The React framework for XR. ([demo](https://www.reactylon.com/docs))
 - [Roblox meets film noir](https://github.com/TomWHall/babylon-js-platformer) - A 3D platform game demo using Babylon.js and React. ([demo](https://tomwhall.github.io/babylon-js-platformer/))
 - [Space Jam: A New Legacy BabylonJS Mixed Reality Experience](https://github.com/microsoft/space-jam-a-new-legacy-babylonjs-template) - This repository pairs with the Babylon.js Mixed Reality module that is part of the Microsoft Learn learning path inspired by the _Space Jam: A New Legacy_ film.
+- [Starship Flight Simulator](https://github.com/ravendano014/starship) - Star Wars Arcade Tribute. ([demo](https://ravendano014.github.io/starship/))
 - [Swarm](https://temechon.itch.io/swarm) - A Babylon.js scene made for the screensaver jam. ([demo](https://github.com/Temechon/screensaver))
 - [t5c](https://github.com/orion3dgames/t5c) - The 5th Continent - an open-source multiplayer 3D RPG. ([demo](https://t5c.onrender.com/))
 - [TanksBattle_WebGL_Using_Babylonjs](https://github.com/khaledose/TanksBattle_WebGL_Using_Babylonjs) - 3D Tanks Battle WebGL game. ([video](https://www.youtube.com/watch?v=HJrAUqTd1oU))

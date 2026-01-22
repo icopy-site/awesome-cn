@@ -520,6 +520,10 @@ There's monetary incentives to exploit your business. Be prepared to fight horde
 
 - [Awesome Fraud Detection Research Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Papers sourced from several conferences on all sort of fraud: credit card, payment transactions, loans, customs inspections, money laundering networks, and more.
 
+- [Tazama](https://github.com/tazama-lf) - Open-source real-time transaction monitoring software for fraud and money laundering detection. This is just an engine to define rules, wight them, and apply them to transactions. There is nothing specific to payments or financial transactions.
+
+- [Mojaloop Fraud Risk Management](https://github.com/mojaloop/fraud_risk_management/tree/master/typology-214/src/rules) - Some examples of AML rules.
+
 ### Cards
 
 The majority of fraud is exploiting the most common popular payment device: credit cards.
@@ -581,6 +585,8 @@ Users gets easily angry when it comes to money. UX and UI might helps a lot to r
 - [Which has a higher conversion rate: A single long ecommerce checkout form or a multi-step one?](https://capitalandgrowth.org/questions/2055/which-has-a-higher-conversion-rate-a-single-long-e.html) - Focus first on other things in the cart, like easing anxiety and second-guessing by adding reassurance (trust marks, testimonials) near the credit card and completion steps, as well as some guarantee language that you may have used earlier in the product exploration process.
 
 - [We tried to make billing backendless](https://useautumn.com/blog/backendless) - Failed attempt to move the billing experience by from backend to frontend because of security.
+
+- [Pricing pages design](https://pricingpages.design) - A collection of pricing pages from various SaaS companies, to get inspiration on how to present your offers.
 
 ## Business Intelligence
 
@@ -683,6 +689,8 @@ A bunch of resources to keep track of the current status and progress of all com
 - “Larry Page went to U of M and used the Michigan Terminal System. (…) when Google was working on App Engine, Page took inspiration from MTS and would exhort engineers to follow its example. (…) when I look at my AWS and GCP bills now, it feels very familiar!” ([source](https://news.ycombinator.com/item?id=35123587)) - The direct filiation between old-school university mainframes and current cloud services.
 
 - [Product Development as Iterated Taste](https://commoncog.com/product-development-iterated-taste/) - AWS sacrificed the simplicity of subscription pricing for S3 and went instead with a safe cost-following strategy because they had no clue how the users will use their service.
+
+- [Israel demanded Google and Amazon use secret ‘wink’ to sidestep legal orders](https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code#how-the-secret-code-works) - Invoicing of random fees with coded amounts were used as a hidden signal to bypass legal obligations. Maybe that's why you need a flexible billing system after all.
 
 - [£sd computing](https://en.wikipedia.org/wiki/%C2%A3sd#Computing) - The IBM 1401 mainframe (1959) optionally supported pounds/shillings/pence (£sd) currency arithmetics in hardware.
 

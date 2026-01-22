@@ -130,9 +130,9 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 - [arCHeco](https://www.archeco.info/) - Index of economic collections in archives of Switzerland and Liechtenstein.
 - [Archives Online](https://www.archives-online.org/) - Archival search engine for Switzerland.
 - [chgov](https://www.chgov.bar.admin.ch/) - Minutes of the Federal Council (1848-1963).
-- [COSMOV](http://www.cosmov.uzh.ch/) - COSMOV includes a digital edition of the events of the Zurich summer of 1968.
+- [COSMOV](http://www.cosmov.uzh.ch/) - Includes a digital edition of the events of the Zurich summer of 1968.
 - [DigiBern](https://www.digibern.ch/) - Bernese culture and history on the Internet.
-- [Diplomatic Documents of Switzerland](https://www.dodis.ch/) - Diplomatic documents of Switzerland.
+- [Diplomatic Documents of Switzerland](https://www.dodis.ch/) - Access to Switzerland's diplomatic records and foreign policy documentation.
 - [e-codices](http://e-codices.ch/) - Virtual manuscript library of Switzerland.
 - [e-gs](https://www.e-gs.ethz.ch/) - Online web portal of the ETH Zurich Graphics Collection.
 - [e-manuscripta](https://www.e-manuscripta.ch/) - Manuscript material from Swiss libraries and archives.
@@ -166,7 +166,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 - [Geospatial Historian](https://geospatialhistorian.wordpress.com/) - Open HGIS Lessons and Resources.
 - [Grundlagen, Methoden und Anwendungen der Digital History](https://dh-erfurt.github.io/digital-history/home.html) - Teaching and collaborative resources for digital history (University of Erfurt).
 - [HIST 7370](https://cblevins.github.io/f19-dig-hist/) - Online course for Methods and Readings in Digital History.
-- [History Toolkit](https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/) - History Toolkit for Students.
+- [History Toolkit](https://dg.philhist.unibas.ch/en/studium/history-a-toolkit-for-students/) - Toolkit designed to support students in their historical studies and research.
 - [Introduction to Digital History](https://wissen-ist-acht.github.io/digitalhistory.intro/) - This guide, created in the fall semester of 2022, accompanies the introductory courses in history at the University of Basel and is intended to provide a first insight into the field of digital history.
 - [Introduction to Python for Humanists](https://python-textbook.pythonhumanities.com/intro.html) - A textbook offering a comprehensive introduction to Python programming, tailored for researchers and students in the humanities.
 - [Local Linkages](https://locallinkages.org/) - Professional development curriculum to introduce to historical research methods and digital history skills.
@@ -181,7 +181,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz#readme) - A curated list of awesome open-source data visualizations frameworks, libraries and software.
 - [Digital Humanities](https://dh-tech.github.io/awesome-digital-humanities#readme) - Tools, resources, and services supporting the Digital Humanities.
 - [Research Tools](https://github.com/emptymalei/awesome-research#readme) - A list of tools for research.
-- [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - Scientific writing can extend beyond LaTeX, made possible by formats, such as Markdown (and its many flavours), reStructuredText and Jupyter notebooks.
+- [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - Tools and resources for scientific writing beyond LaTeX, including Markdown, reStructuredText and Jupyter notebooks.
 - [Tempopedia](https://tempopedia.org/) - Digital History Directory.
 
 ## Contribute

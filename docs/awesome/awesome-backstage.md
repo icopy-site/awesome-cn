@@ -51,7 +51,7 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 - [New Relic](https://www.npmjs.com/package/@backstage-community/plugin-newrelic) - Jump straight from service catalog entries to New Relic dashboards.
 - [Datadog](https://www.npmjs.com/package/@backstage-community/plugin-datadog) - Surface Datadog monitors, service maps, and dashboards next to entities.
 - [Snyk Security Insights](https://www.npmjs.com/package/@backstage-community/plugin-snyk) - Annotate catalog entities with Snyk vulnerability and risk signals.
-- [Wiz Security](https://www.npmjs.com/package/@backstage-community/plugin-wiz) - Display Wiz cloud risk scores alongside scorecards to prioritize remediation.
+- [Wiz Security](https://github.com/wiz-sec-public/backstage-plugin-wiz) - Display Wiz cloud risk scores alongside scorecards to prioritize remediation.
 
 ## Tutorials and Guides
 
@@ -83,7 +83,8 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 - [Introduction to Backstage](https://www.youtube.com/watch?v=1XtJ5FAOjPk) - A video introduction to Backstage by Spotify.
 - [Creating a Plugin for Backstage](https://www.youtube.com/watch?v=lLLw3tcBwWw) - Learn how to create a plugin for Backstage.
 - [How Spotify Builds Infrastructure with Backstage](https://engineering.atspotify.com/2020/03/17/what-the-heck-is-backstage-anyway/) - A blog post by Spotify on their experience with Backstage.
-- [Backstage v1.45.2 Release Notes](https://github.com/backstage/backstage/releases/tag/v1.45.2) - Latest release with iterative backend system refinements and security patches.
+- [Backstage v1.46.3 Release Notes](https://github.com/backstage/backstage/releases/tag/v1.46.3) - Latest release with iterative backend system refinements and security patches.
+- [Backstage Wrapped 2025: Celebrating a mature framework with modern foundations](https://backstage.io/blog/2025/12/30/backstage-wrapped-2025) - Annual retrospective on Backstage growth, platform maturity, and highlights.
 - [BackstageCon + KubeCon NA 2025 Highlights](https://backstage.io/blog/2025/11/25/backstagecon-kubecon-25-atlanta) - Recap of recent platform updates and community demos from Atlanta.
 - [RFCs on GitHub](https://github.com/backstage/backstage/labels/RFC) - Track active proposals and community feedback.
 
