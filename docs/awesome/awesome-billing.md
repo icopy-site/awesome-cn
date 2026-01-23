@@ -420,11 +420,13 @@ Once issued, an invoice must be immutable.
 
 ### Electronic invoices
 
+- [Invoice Security Vulnerabilities](https://invoice.secvuln.info) - European Union introduced a "standard" in XML format, which comes with a set of security vulnerabilities.
+
+- [EU eInvoicing](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+HUB) - European standard on electronic invoice.
+
 - [Factur-X](https://github.com/akretion/factur-x) - Python library to support the e-invoicing standard for France and Germany.
 
 - [Universal Business Language](https://en.wikipedia.org/wiki/Universal_Business_Language) - Most invoicing software can read and write UBL documents (XML) for data transfer.
-
-- [EU eInvoicing](https://ec.europa.eu/digital-building-blocks/sites/display/DIGITAL/eInvoicing+HUB) - European standard on electronic invoice.
 
 - [GOBL](https://gobl.org) - JSON Schema, Open Source Go library, global tax database, with conversion tools, all in one.
 
