@@ -86,7 +86,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Hacklily](https://www.hacklily.org) - online LilyPond-based sheet music editor (with optional GitHub integration).
 * [Inknote](https://github.com/MichalPaszkiewicz/inknote) - free, open source, browser based music notation and composition software.
 * [JotChord](https://www.jotchord.com) - an online, text-based editor for making PDF-formatted Nashville Number System song charts.
-* [LibMEI](https://github.com/DDMAL/libmei) - a C++ library for reading and writing MEI files.
+* [LibMEI](https://github.com/rism-digital/verovio/tree/develop/libmei) - a C++ library for reading and writing MEI files.
 * [Lilybin](http://lilybin.com/) - an open source web-based LilyPond editor.
 * [Lilypond](http://lilypond.org/) - free, open-source music engraving program, devoted to producing the highest-quality sheet music possible.
 * [Lilypond cook book](https://github.com/noteflakes/lilypond-cookbook/wiki/) - tips & tricks for getting the most out of lilypond.
@@ -105,6 +105,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Scorelib](http://scorelib.sapp.org/) - a C++ library for parsing SCORE data files.
 * [Tbon](https://github.com/Michael-F-Ellis/tbon) - Typographic Beat-Oriented Notation for music.
 * [Unison](https://unisonofficial.com/html/user-documentation.html?title=unison-editor) - Proprietary software for creating music score with words.
+* [VectorScore](https://github.com/DrakeB1234/VectorScore) - Lightweight, SVG-based music notation library for TypeScript under MIT license.
 * [Verovio](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
 * [Vexflow](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature.
 
