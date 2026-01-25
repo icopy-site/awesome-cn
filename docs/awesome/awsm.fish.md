@@ -42,6 +42,7 @@ Welcome to the ultimate treasure trove of handpicked plugins, prompts, and other
 - [Fishtape](https://github.com/jorgebucaran/fishtape) - TAP-based test runner for Fish
 - [Pufferfish](https://github.com/nickeb96/puffer-fish) - Text Expansions for Fish
 - [Projectdo](https://github.com/paldepind/projectdo) - Context-aware single-letter abbreviations to build, run, and test any project
+- [Magic Enter](https://github.com/mattmc3/magic-enter.fish) - Run a default command when no command was given
 - [Virtualfish](https://github.com/adambrenecki/virtualfish) - Virtualenv wrapper
 - [Async Prompt](https://github.com/acomagu/fish-async-prompt) - Make your prompt asynchronous
 - [Apple Touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - Customize your [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) in iTerm2

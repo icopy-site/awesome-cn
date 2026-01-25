@@ -75,7 +75,7 @@ _See also: [awesome-web-archiving](https://github.com/iipc/awesome-web-archiving
 - [bitmagnet](https://bitmagnet.io) - BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. ([Source Code](https://github.com/bitmagnet-io/bitmagnet)) `MIT` `Go/Docker`
 - [CKAN](https://ckan.org) - Make open data websites. ([Source Code](https://github.com/ckan/ckan)) `AGPL-3.0` `Python`
 - [Collective Access - Providence](https://collectiveaccess.org/) - Highly configurable Web-based framework for management, description, and discovery of digital and physical collections supporting a variety of metadata standards, data types, and media formats. ([Source Code](https://github.com/collectiveaccess/providence)) `GPL-3.0` `PHP`
-- [Eonvelope](https:/dacid99.gitlab.io/eonvelope) - Email archiving software that allows you to preserve your emails for an indefinite long period of time. ([Source Code](https://gitlab.com/dacid99/eonvelope)) `AGPL-3.0` `K8S/Docker`
+- [Eonvelope](https://dacid99.gitlab.io/eonvelope) - Email archiving software that allows you to preserve your emails for an indefinite long period of time. ([Source Code](https://gitlab.com/dacid99/eonvelope)) `AGPL-3.0` `K8S/Docker`
 - [Ganymede](https://github.com/Zibbp/ganymede) `⚠` - Twitch VOD and live stream archiving platform. Includes a rendered chat for each archive. `GPL-3.0` `Docker`
 - [Omeka S](https://omeka.org/s/) - Next-generation web publishing platform for institutions interested in connecting digital cultural heritage collections with other resources online. ([Source Code](https://github.com/omeka/omeka-s)) `GPL-3.0` `Nodejs`
 - [Open Archiver](https://openarchiver.com/) - Email archiving solution with full-text search and eDiscovery search features. ([Demo](https://github.com/LogicLabs-OU/OpenArchiver?tab=readme-ov-file#-live-demo), [Source Code](https://github.com/LogicLabs-OU/OpenArchiver)) `AGPL-3.0` `Docker`
@@ -1506,7 +1506,7 @@ A [password manager](https://en.wikipedia.org/wiki/Password_manager) allows user
 A [pastebin](https://en.wikipedia.org/wiki/Pastebin) is a type of online content-hosting service used for sharing and storing code and text.
 
 - [bin](https://github.com/w4/bin) - A paste bin that's actually minimalist. `WTFPL/0BSD` `Rust`
-- [BinPastes](https://github.com/querwurzel/BinPastes) - Minimal pastebin supporting client-side encryption, fulltext search, one-time messages. Intended for one to few users looking for a simple pastebin deployment. ([Demo](https://paste.wylke.it)) `Apache-2.0` `Java`
+- [BinPastes](https://github.com/querwurzel/BinPastes) - Minimal pastebin supporting client-side encryption, fulltext search, one-time messages. Intended for one to few users looking for a simple pastebin deployment. `Apache-2.0` `Java`
 - [ByteStash](https://github.com/jordan-dalby/ByteStash) - Pastebin and file storage service with a simple web interface. Supports syntax highlighting, optional user authentication and public sharing. ([Demo](https://github.com/jordan-dalby/ByteStash?tab=readme-ov-file#demo)) `GPL-3.0` `Docker`
 - [Chiyogami](https://github.com/rhee876527/chiyogami) - Pastebin with API, client-side encryption, user accounts, syntax highlighting, markdown rendering, and more. ([Demo](https://chiyogami.myaddr.dev/)) `BSD-3-Clause` `Docker`
 - [dpaste](https://dpaste.org/) - Simple pastebin with multiple text and code option, with short url result easy to remember. ([Source Code](https://github.com/DarrenOfficial/dpaste)) `MIT` `Docker/Django`

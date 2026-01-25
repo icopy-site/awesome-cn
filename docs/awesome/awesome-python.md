@@ -642,6 +642,8 @@ _Libraries for Machine Learning. Also see [awesome-machine-learning](https://git
 - [gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [Feature-engine](https://github.com/feature-engine/feature_engine) - sklearn compatible API with the widest toolset for feature engineering and selection.
 - [H2O](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform.
+- [LangChain](https://github.com/langchain-ai/langchain) - Building applications with LLMs through composability.
+- [LlamaIndex](https://github.com/run-llama/llama_index) - A data framework for your LLM application.
 - [Metrics](https://github.com/benhamner/Metrics) - Machine learning evaluation metrics.
 - [MindsDB](https://github.com/mindsdb/mindsdb) - MindsDB is an open source AI layer for existing databases that allows you to effortlessly develop, train and deploy state-of-the-art machine learning models using standard queries.
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI) - Production-ready Multi-AI Agents framework with self-reflection, 100+ LLM support, MCP integration, and agentic workflows.
@@ -1062,6 +1064,7 @@ _Traditional full stack web frameworks. Also see [RESTful API](https://github.co
     - [awesome-fasthtml](https://github.com/amosgyamfi/awesome-fasthtml)
   - [masonite](https://github.com/MasoniteFramework/masonite) - The modern and developer centric Python web framework.
 - Asynchronous
+  - [Litestar](https://github.com/litestar-org/litestar) - Production-ready, capable and extensible ASGI Web framework.
   - [microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
   - [reflex](https://github.com/reflex-dev/reflex) – A framework for building reactive, full-stack web applications entirely with python .
   - [tornado](https://github.com/tornadoweb/tornado) - A web framework and asynchronous networking library.

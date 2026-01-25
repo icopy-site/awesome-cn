@@ -91,6 +91,7 @@
 - [Tailored Components](https://github.com/nesterow/tailored) - Unstyled components and hooks for Preact & Deno.
 - [Plotery](https://shelacek.bitbucket.io/plotery) - Fast and lightweight charting library.
 - [Formica](https://shelacek.bitbucket.io/formica) - Simple declarative forms for Preact.
+- [HelloCSV](https://hellocsv.github.io/HelloCSV/) - Modern, elegant, drop-in CSV importer, built in Preact. Flatfile alternative.
 - [Vski Table](https://table.vski.ai) - Datagrid component built with Preact.
 
 ### Libraries
@@ -106,7 +107,10 @@
 - [Modular Forms](https://github.com/fabian-hiller/modular-forms) - Modular, type-safe and signal based form library for Preact.
 - [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states.
 - [Fastro](https://fastro.deno.dev) - Fast & Modular SSR Web Framework for Deno, TypeScript, Preact & Tailwind.
+- [Jotai](https://github.com/pmndrs/jotai) - Primitive and flexible state management for React & Preact.
+- [Pretch](https://github.com/EGAMAGZ/pretch) - A lightweight and flexible fetch enhancement library that works with vanilla JavaScript, React, and Preact
 - [Formisch](https://formisch.dev/preact/guides/introduction/) - A form library for Preact with focus on performance, type safety and bundle size.
+- [zikofy](https://github.com/zakarialaoui10/zikofy) - Turns Preact components into Zikojs `UIElement`.
 
 ### Testing Utils
 - [Preact JSX Chai](https://github.com/developit/preact-jsx-chai) - JSX assertion testing _(no DOM, right in Node)_.
@@ -166,6 +170,7 @@
 - [React](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [Inferno](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
 - [Rax](https://github.com/alibaba/rax) - A universal React-compatible render engine.
+- [Zikojs](https://github.com/zakarialaoui10/zikojs) - A composable hyperscript-based UI library with bidirectional interoperability with Preact components.
 
 ### Tips
 Contribute some ;)

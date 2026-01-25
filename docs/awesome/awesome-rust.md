@@ -362,6 +362,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [illacloud/illa](https://github.com/illacloud/illa) - Low-code internal tool builder.
 * [kruseio/hygg](https://github.com/kruseio/hygg) [[hygg](https://crates.io/crates/hygg)] - 📚 Simplifying the way you read. Minimalistic Vim-like TUI document reader.
 * [LLDAP](https://github.com/lldap/lldap) - Simplified LDAP interface for authentication.
+* [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama.
 * [pier-cli/pier](https://github.com/pier-cli/pier) - A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs
 * [ShadoySV/work-break](https://github.com/ShadoySV/work-break) [[work-break](https://crates.io/crates/work-break)] - Work and rest time balancer taking into account your current and today strain [![Build](https://github.com/ShadoySV/work-break/actions/workflows/release.yml/badge.svg)](https://github.com/ShadoySV/work-break/actions/workflows/release.yml)
 * [yashs662/rust_kanban](https://github.com/yashs662/rust_kanban) [[rust-kanban](https://crates.io/crates/rust-kanban)] [![Build](https://github.com/yashs662/rust_kanban/actions/workflows/build.yml/badge.svg)](https://github.com/yashs662/rust_kanban/releases) - A Kanban App for the terminal
@@ -395,6 +396,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [kpcyrd/rshijack](https://github.com/kpcyrd/rshijack) - A TCP connection hijacker; rewrite of shijack
 * [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) - A semi-automatic OSINT framework and package manager
 * [kpcyrd/sniffglue](https://github.com/kpcyrd/sniffglue) - A secure multithreaded packet sniffer
+* [LeChatP/RootAsRole](https://github.com/LeChatP/RootAsRole) - A better alternative to sudo(-rs)/su • ⚡ Blazing fast • 🛡️ Memory-safe • 🔐 Security-oriented ![Build](https://img.shields.io/github/actions/workflow/status/LeChatP/RootAsRole/build.yml?logo=githubactions&label=Build&logoColor=white) ![Coverage](https://img.shields.io/codecov/c/github/lechatp/rootasrole?color=green&link=https%3A%2F%2Fapp.codecov.io%2Fgh%2FLeChatP%2FRootAsRole&label=Test%20Coverage) ![crates.io](https://img.shields.io/crates/v/rootasrole.svg?label=Version&color=e37602&logo=rust)
 * [mongodb/kingfisher](https://github.com/mongodb/kingfisher) - A blazingly fast tool for secret detection and live validation across files, Git repos, S3, Jira, and Confluence
 * [observer_ward](https://github.com/emo-crab/observer_ward) - Web application and service fingerprint identification tool
 * [Raspirus](https://github.com/Raspirus/Raspirus) - User- and resources-friendly rules-based malware scanner [![status](https://github.com/Raspirus/Raspirus/actions/workflows/testproject.yml/badge.svg)](https://github.com/Raspirus/Raspirus/actions/workflows/testproject.yml)
@@ -492,6 +494,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [amp](https://amp.rs) - Inspired by Vi/Vim.
 * [emacs-ng](https://github.com/emacs-ng/emacs-ng) - Complementing the C codebase with rust code to introduce new features.
 * [Ferrite](https://github.com/OlaProeis/Ferrite) - A cross-platform markdown editor built with egui, featuring live preview, syntax highlighting, and mermaid diagrams.
+* [Fresh](https://github.com/sinelaw/fresh) - An easy-to-use, powerful and fast terminal text editor & IDE, with TypeScript plugin support.
 * [gchp/iota](https://github.com/gchp/iota) - A simple text editor
 * [helix](https://github.com/helix-editor/helix) - A post-modern modal text editor inspired by Neovim/Kakoune. [![build badge](https://github.com/helix-editor/helix/actions/workflows/build.yml/badge.svg)](https://github.com/helix-editor/helix/actions)
 * [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A tiny (≤1024 LOC) text editor with syntax highlighting, incremental search and more. [![build badge](https://github.com/ilai-deutel/kibi/actions/workflows/ci.yml/badge.svg)](https://github.com/ilai-deutel/kibi/actions?query=branch%3Amaster)
@@ -1501,6 +1504,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
   * [amethyst/specs](https://github.com/amethyst/specs) - Specs Parallel ECS
   * [legion](https://github.com/amethyst/legion) - A feature rich high performance ECS library with minimal boilerplate [![build badge](https://github.com/amethyst/legion/workflows/CI/badge.svg?branch=master)](https://github.com/amethyst/legion/actions)
 * Game Engines
+  * [Ascending Graphics](https://github.com/AscendingCreations/AscendingLibraries) - A 2D Rendering Framework using WGPU and Winit. - [![Crates.io](https://img.shields.io/crates/v/ascending_graphics.svg)](https://crates.io/crates/ascending_graphics) [![license](https://img.shields.io/crates/l/ascending_graphics.svg)](https://github.com/AscendingCreations/AscendingLibraries/blob/main/LICENSE.MIT) [![Crates.io](https://img.shields.io/crates/d/ascending_graphics.svg)](https://crates.io/crates/ascending_graphics)
   * [Bevy](https://github.com/bevyengine/bevy) - is a refreshingly simple data-driven game engine. - [![Crates.io](https://img.shields.io/crates/v/bevy.svg)](https://crates.io/crates/bevy) [![Crates.io](https://img.shields.io/crates/d/bevy.svg)](https://crates.io/crates/bevy)
   * [Fyrox](https://fyrox.rs/) - Game engine 3D [![Crates.io](https://img.shields.io/crates/v/fyrox.svg)](https://crates.io/crates/fyrox) [![license](https://img.shields.io/crates/l/fyrox.svg)](https://github.com/FyroxEngine/Fyrox/blob/master/LICENSE.md) [![Crates.io](https://img.shields.io/crates/d/fyrox.svg)](https://crates.io/crates/fyrox)
   * [ggez](https://github.com/ggez/ggez) - A lightweight game framework for making 2D games with minimum friction - [![Crates.io](https://img.shields.io/crates/v/ggez.svg)](https://crates.io/crates/ggez) [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ggez/ggez/blob/master/LICENSE) [![Crates.io](https://img.shields.io/crates/d/ggez.svg)](https://crates.io/crates/ggez)

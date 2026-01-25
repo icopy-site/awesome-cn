@@ -396,6 +396,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [flagpole](https://www.npmjs.com/package/@flagpole/angular) - Angular SDK for the [Flagpole](https://useflagpole.dev/) feature flag management system.
 * [ngx-feature-proxy](https://github.com/zenkiet/ngx-feature-proxy) - Angular feature flag library with Unleash; reactive and type-safe flag management with minimal setup.
 * [ngx-feature-flags](https://github.com/pavan-98/ngx-feature-flags) - An Angular‑first, enterprise‑ready feature‑flag layer that standardizes how flags are resolved, guarded, and rendered across Angular apps.
+* [ngx-feature-flags-toggly](https://www.npmjs.com/package/@ops-ai/ngx-feature-flags-toggly) - Angular SDK for [Toggly](https://toggly.io/) feature flags.
 
 ### GraphQL
 
@@ -510,6 +511,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-mcp-server](https://github.com/SAIPRANAY-GANGULA/angular-mcp-server) - An MCP server offering Angular documentation access, enabling AI assistants to search and retrieve relevant Angular info.
 * [augment code](https://www.augmentcode.com/) - The first AI coding assistant built for professional software engineers and large codebases.
 * [CodeSage AI](https://github.com/kd-akshay/code-quality-analyzer) - Analyzes code quality of React, Vue, and Angular projects using linters and an LLM.
+* [CodingFleet](https://codingfleet.com/code-generator/angular/) - An innovative AI-powered tool that transforms your instructions into efficient Angular code.
 * [context7](https://github.com/upstash/context7) - MCP Server with up-to-date code documentation for LLMs and AI code editors.
 * [cursor.directory](https://cursor.directory/?q=angular) - The home for Cursor enthusiasts.
 * [deep-chat](https://github.com/OvidijusParsiunas/deep-chat) - Fully customizable AI chatbot component for your website.

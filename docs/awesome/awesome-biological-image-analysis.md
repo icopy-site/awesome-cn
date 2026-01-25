@@ -41,6 +41,7 @@ Biological image analysis aims to increase our understanding of biology through 
 - [DeepCell](https://github.com/vanvalenlab/deepcell-tf) - Deep learning library for single cell analysis.
 - [DeepSlide](https://github.com/BMIRDS/deepslide) - A sliding window framework for classification of high resolution microscopy images.
 - [EBImage](https://github.com/aoles/EBImage) - Image processing toolbox for R.
+- [FlashDeconv](https://github.com/cafferychen777/flashdeconv) - High-performance spatial transcriptomics deconvolution for cell type mapping using structure-preserving randomized sketching.
 - [GPim](https://github.com/ziatdinovmax/GPim) - Gaussian processes and Bayesian optimization for images and hyperspectral data.
 - [MAPS](https://github.com/mahmoodlab/MAPS) - MAPS (Machine learning for Analysis of Proteomics in Spatial biology) is a machine learning approach facilitating rapid and precise cell type identification with human-level accuracy from spatial proteomics data.
 - [MicroSAM](https://github.com/computational-cell-analytics/micro-sam) - Tools for segmentation and tracking in microscopy build on top of SegmentAnything. Segment and track objects in microscopy images interactively.

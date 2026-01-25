@@ -148,6 +148,7 @@ described in [RFC 8032]
  * [JSON::OnSteroids](https://github.com/anykeyh/json_on_steroids) - handle and mutate JSON document easily
  * [maxminddb.cr](https://github.com/delef/maxminddb.cr) - MaxMindDB reader
  * [toml.cr](https://github.com/crystal-community/toml.cr) - TOML parser
+ * [toon-crystal](https://github.com/mamantoha/toon-crystal) - TOON (Token-Oriented Object Notation) parser
  * [XML](https://crystal-lang.org/api/XML.html) - parsing and generating XML documents (Crystal stdlib)
  * [YAML](https://crystal-lang.org/api/YAML.html) - parsing and generating YAML documents (Crystal stdlib)
 

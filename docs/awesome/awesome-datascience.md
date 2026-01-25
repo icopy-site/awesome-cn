@@ -674,6 +674,7 @@ This section includes some additional reading material, channels to watch, and t
 - [Machine Learning Q and AI](https://sebastianraschka.com/books/ml-q-and-ai)
 - [JavaScript for Data Science](https://third-bit.com/js4ds/) - Free html page
 - [Angewandte Data Science](https://angewandtedatascience.de/) - German book about applied data science
+- [The Math Behind Artificial Intelligence](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book): A free FreeCodeCamp book teaching the math behind AI in plain English from an engineering point of view.
 
 #### Book Deals (Affiliated)
 
