@@ -916,6 +916,10 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust Tools](https://
 * [pkalivas/radiate](https://github.com/pkalivas/radiate) - A customizable parallel genetic programming engine capable of evolving solutions for supervised, unsupervised, and reinforcement learning problems. Comes with complete and customizable implementation of NEAT and Evtree.![Crates.io](https://img.shields.io/crates/v/radiate)
 * [willi-kappler/darwin-rs](https://github.com/willi-kappler/darwin-rs) - Evolutionary algorithms
 
+#### Google Gemini
+
+* [gemini-client-api](https://crates.io/crates/gemini-client-api) - Library to use Google Gemini API. Automatic context management, schema generation, function calling and more.
+
 #### Machine learning
 
 See [[Machine learning](https://crates.io/keywords/machine-learning)]

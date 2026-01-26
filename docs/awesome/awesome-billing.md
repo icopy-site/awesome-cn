@@ -218,6 +218,8 @@ This sub-section focus on bid/ask mechanism matching resource producer with cons
 
 - [Pricing of Service in Clouds: Optimal Response and Strategic Interactions](http://www.sigmetrics.org/mama/2013/abstracts2013/UrgaonkarEtAl.pdf) - “How should the consumer modulate its demand to optimize its profits? (…) How should the provider and consumer negotiate the specific pricing structure they will employ?” Covers non-linear models, tiered pricing, elastic demand, consumer et provider strategies.
 
+- [History of Spot Instances](https://spot.rackspace.com/blogs/history-of-spot-instances) - From AWS's original auction-based market (2009-2017) to provider-managed pricing across all major clouds today. Documents how transparent bidding was replaced by opaque algorithms.
+
 - [Dynamic Cloud Pricing for Revenue Maximization](https://henryhxu.github.io/share/hxu-tcc2013.pdf) - “Amazon's spot price is unlikely to be set according to market supply and demand. Rather, price oscillates within a very narrow band most of the time, which is more likely to be an artifact of some pricing algorithm with predetermined reserve price.”
 
 - [Usage Patterns and the Economics of the Public Cloud](https://mc4f.ee/Papers/PDF/EconPublicCloud.pdf) - “We examine the economics of demand and supply in cloud computing. (…) These results explain why fixed prices currently prevail despite the seeming need for time-varying dynamics. Examining the actual CPU utilization provides a lens into the future. (…) demand fluctuations would be on par with the three classic industries where dynamic pricing is important (hotels, electricity, airlines) and dynamic prices would be essential for efficiency.”
@@ -692,7 +694,7 @@ A bunch of resources to keep track of the current status and progress of all com
 
 - [Product Development as Iterated Taste](https://commoncog.com/product-development-iterated-taste/) - AWS sacrificed the simplicity of subscription pricing for S3 and went instead with a safe cost-following strategy because they had no clue how the users will use their service.
 
-- [Israel demanded Google and Amazon use secret ‘wink’ to sidestep legal orders](https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code#how-the-secret-code-works) - Invoicing of random fees with coded amounts were used as a hidden signal to bypass legal obligations. Maybe that's why you need a flexible billing system after all.
+- [Israel demanded Google and Amazon use secret 'wink' to sidestep legal orders](https://www.theguardian.com/us-news/2025/oct/29/google-amazon-israel-contract-secret-code#how-the-secret-code-works) - Invoicing of random fees with coded amounts were used as a hidden signal to bypass legal obligations. Maybe that's why you need a flexible billing system after all.
 
 - [£sd computing](https://en.wikipedia.org/wiki/%C2%A3sd#Computing) - The IBM 1401 mainframe (1959) optionally supported pounds/shillings/pence (£sd) currency arithmetics in hardware.
 
