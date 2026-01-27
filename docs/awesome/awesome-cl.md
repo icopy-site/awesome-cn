@@ -745,6 +745,18 @@ See also:
 
 * [cl-all](https://codeberg.org/shinmera/cl-all) - A script to run Lisp snippets in multiple implementations. This allows you to quickly compare implementation behaviour and differences. [zlib][33].
 
+## Language libraries
+
+## Lisp parsers
+
+* [Eclector](https://github.com/fstamour/breeze/) - A portable Common Lisp reader that is highly customizable, can recover from errors and can return concrete syntax trees.
+  * *under active development*
+* [rewrite-cl](https://github.com/atgreen/rewrite-cl) - Read, modify, and write Common Lisp source code while preserving whitespace and comments. MIT. *Built with LLMs*.
+
+See also:
+
+* [breeze](https://github.com/fstamour/breeze/) - experiments on workflows for Common Lisp. WIP.
+
 Language extensions
 ===================
 

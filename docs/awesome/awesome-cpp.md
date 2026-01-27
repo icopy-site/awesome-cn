@@ -232,6 +232,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [cuda-api-wrappers](https://github.com/eyalroz/cuda-api-wrappers) - Lightweight, Modern-C++ wrappers for the CUDA GPU programming runtime API. [BSD]
 * [cupla](https://github.com/ComputationalRadiationPhysics/cupla) - C++ API to run CUDA/C++ on OpenMP, Threads, TBB, ... through Alpaka. [LGPLv3+]
 * [C++React](https://github.com/schlangster/cpp.react) - A reactive programming library for C++11. [Boost]
+* [dispenso](https://github.com/facebookincubator/dispenso) - A high-performance C++ library for parallel programming with thread pools, parallel for loops, futures, task graphs, and concurrent containers. [MIT]
 * [FiberTaskingLib](https://github.com/RichieSams/FiberTaskingLib) - Task-based multi-threading library that supports task graphs with arbitrary dependencies. [Apache]
 * [HPX](https://github.com/STEllAR-GROUP/hpx/) - A general purpose C++ runtime system for parallel and distributed applications of any scale. [Boost]
 * [Intel Games Task Scheduler](https://github.com/GameTechDev/GTS-GamesTaskScheduler) - A task scheduling framework designed for the needs of game developers. [MIT]
@@ -400,6 +401,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [gplot++](https://github.com/ziotom78/gplotpp) - Cross-platform header-only C++ plotting library that interfaces with Gnuplot. [MIT]
 * [matplotplusplus](https://github.com/alandefreitas/matplotplusplus) - C++ Graphics Library for Data Visualization. [MIT] [website](https://alandefreitas.github.io/matplotplusplus/)
 * [mathplot](https://github.com/sebsjames/mathplot) - C++ header-only graphing and data visualization with modern OpenGL. [Apache-2.0] [website](https://sebsjames.github.io/mathplot/)
+* [Plotly++](https://github.com/jimmyorourke/plotlypp) - A C++ interface to the Plotly.js figure spec, for creating interactive data visualizations. [MIT]
 
 ## Debug
 *Debugging Libraries, Memory Leak and Resource Leak Detection, Unit Testing*

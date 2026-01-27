@@ -105,7 +105,6 @@ Online editors that allow you to edit documents collaboratively.
 - [List of popular online LaTeX editors](https://tex.stackexchange.com/questions/3/compiling-documents-online/1654#1654) - Community-maintained list of popular online LaTeX editor including equation editors.
 - [Authorea](https://www.authorea.com) - Online editor with built-in git support and bibliography tools.
 - [Crixet](https://app.crixet.com) - Online editor with realtime collaboration features.
-- [ShareLaTeX](https://www.sharelatex.com) - Has pretty great LaTeX documentation and simple version control.
 - [Modern LaTeX Editor](https://github.com/InMDev/Modern-LaTeX-Editor) - Online editor, no-signup hybrid code editor + visual editor that mixes Notion/Google docs/Microsoft Word-like editing with raw LaTeX code blocks.
 - [Octree](https://useoctree.com) - Online editor with AI writing assistance.
 - [Overleaf](https://www.overleaf.com) - Online editor, also with a WYSIWYM editor and git support.

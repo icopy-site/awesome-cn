@@ -35,14 +35,18 @@ Biological image analysis aims to increase our understanding of biology through 
 - [Ark-Analysis](https://github.com/angelolab/ark-analysis) - A pipeline toolbox for analyzing multiplexed imaging data.
 - [AtomAI](https://github.com/pycroscopy/atomai) - PyTorch-based package for deep/machine learning analysis of microscopy data.
 - [Cellpose](https://github.com/MouseLand/cellpose) - A generalist algorithm for cell and nucleus segmentation.
-- [CellSAM](https://github.com/vanvalenlab/cellSAM) -  A foundation model for cell segmentation trained on a diverse range of cells and data types.
+- [CellSAM](https://github.com/vanvalenlab/cellSAM) - A foundation model for cell segmentation trained on a diverse range of cells and data types.
 - [Cellshape](https://github.com/Sentinal4D/cellshape) - 3D single-cell shape analysis of cancer cells using geometric deep learning.
+- [CellVit++](https://github.com/TIO-IKIM/CellViT) - A framework for lightweight cell segmentation model training and inference.
+- [Classpose](https://github.com/sohmandal/classpose) - A foundation model-driven whole slide image-scale cell phenotyping method with QuPath integration.
 - [CLIJ2](https://clij.github.io/) - GPU-accelerated image processing library for ImageJ/Fiji, Icy, MATLAB and Java.
 - [DeepCell](https://github.com/vanvalenlab/deepcell-tf) - Deep learning library for single cell analysis.
 - [DeepSlide](https://github.com/BMIRDS/deepslide) - A sliding window framework for classification of high resolution microscopy images.
 - [EBImage](https://github.com/aoles/EBImage) - Image processing toolbox for R.
 - [FlashDeconv](https://github.com/cafferychen777/flashdeconv) - High-performance spatial transcriptomics deconvolution for cell type mapping using structure-preserving randomized sketching.
 - [GPim](https://github.com/ziatdinovmax/GPim) - Gaussian processes and Bayesian optimization for images and hyperspectral data.
+- [HistoPLUS](https://huggingface.co/Owkin-Bioptimus/histoplus) - Pre-trained model for cell nuclei segmentation and classification in histology images.
+- [HoVer-Net](https://github.com/vqdang/hover_net) - A multi-branch network for nuclear instance segmentation and classification with pre-trained weights.
 - [MAPS](https://github.com/mahmoodlab/MAPS) - MAPS (Machine learning for Analysis of Proteomics in Spatial biology) is a machine learning approach facilitating rapid and precise cell type identification with human-level accuracy from spatial proteomics data.
 - [MicroSAM](https://github.com/computational-cell-analytics/micro-sam) - Tools for segmentation and tracking in microscopy build on top of SegmentAnything. Segment and track objects in microscopy images interactively.
 - [MorpholibJ](https://github.com/ijpb/MorphoLibJ) - Collection of mathematical morphology methods and plugins for ImageJ.
@@ -52,6 +56,7 @@ Biological image analysis aims to increase our understanding of biology through 
 - [PyImSegm](https://github.com/Borda/pyImSegm) - Image segmentation - general superpixel segmentation and center detection and region growing.
 - [Salem²](https://github.com/JackieZhai/SALEM2) - Segment Anything in Light and Electron Microscopy via Membrane Guidance.
 - [Squidpy](https://github.com/scverse/squidpy) - Python framework that brings together tools from omics and image analysis to enable scalable description of spatial molecular data, such as transcriptome or multivariate proteins.
+- [SplineDist](https://github.com/uhlmanngroup/splinedist) - Object detection with spline curves.
 - [StarDist](https://github.com/stardist/stardist) - Object detection with Star-convex shapes.
 - [Suite2p](https://github.com/MouseLand/suite2p) - Pipeline for processing two-photon calcium imaging data.
 - [SyMBac](https://github.com/georgeoshardo/SyMBac) - Accurate segmentation of bacterial microscope images using synthetically generated image data.
@@ -99,7 +104,7 @@ Biological image analysis aims to increase our understanding of biology through 
 - [Big-fish](https://github.com/fish-quant/big-fish) - Python package for the analysis of smFISH images.
 - [DypFISH](https://github.com/cbib/dypfish) - Python library for spatial analysis of smFISH images.
 - [RS-FISH](https://github.com/PreibischLab/RS-FISH) - Fiji plugin to detect FISH spots in 2D/3D images which scales to very large images.
-- [Spotiflow](https://github.com/weigertlab/spotiflow) -  A deep learning-based, threshold-agnostic, and subpixel-accurate spot detection method developed for spatial transcriptomics workflows.
+- [Spotiflow](https://github.com/weigertlab/spotiflow) - A deep learning-based, threshold-agnostic, and subpixel-accurate spot detection method developed for spatial transcriptomics workflows.
 - [TissUUmaps](https://tissuumaps.github.io/) - Visualizer of NGS data, plot millions of points and interact, gate, export. ISS rounds and base visualization.
 
 

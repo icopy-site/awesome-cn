@@ -35,15 +35,12 @@ General purpose icons used everywhere.
 - [Super Tiny Icons](https://github.com/edent/SuperTinyIcons#readme) - Miniscule SVG versions of your favourite website and app logos, under 1KB each.
 - [Tabler Icons](https://github.com/tabler/tabler-icons) - A set of over 3200 free MIT-licensed high-quality SVG icons for you to use in your web projects. ([Website](https://tabler-icons.io))
 - [Teenyicons](https://github.com/teenyicons/teenyicons) - 1000+ MIT-licensed SVG icons that easily fit in very small spaces :pinching_hand: and maintain a crisp look :sparkles:. ([Website](https://teenyicons.com))
-- [The Noun Project](https://thenounproject.com/) - Icons for everything, Over 2 Million curated icons, created by a global community.
-- [Tilda Icons](https://tilda.cc/free-icons) - Tilda Icons, is a website full of free icons for landing pages and more.
-- [Unicons](https://github.com/iconscout/unicons) - 1000+ pixel-perfect vector icons and icon font for your next project. ([Website](https://iconscout.com/unicons))
+- The Noun Project - Icons for everything, Over 2 Million curated icons, created by a global community. ([Website](https://thenounproject.com/))
+- Tilda Icons - Tilda Icons, is a website full of free icons for landing pages and more. ([Website](https://tilda.cc/free-icons))
+- [Unicons](https://github.com/iconscout/unicons#readme) - 1000+ pixel-perfect vector icons and icon font for your next project. ([Website](https://iconscout.com/unicons))
 - [VSCode Icons](https://github.com/microsoft/vscode-icons#readme) - Dark and light versions of the icons used in Visual Studio Code.
 - [Weather icons](https://github.com/erikflowers/weather-icons#readme) - Weather Themed Icons and CSS.
 - Zondicons - A set of free premium SVG icons for you to use on your digital products. ([Website](http://www.zondicons.com))
-- Iconbuddy - A search engine to browse open source svg icons. ([Website](http://iconbuddy.com))
-- [Iconify Deign](https://github.com/iconify/iconify#readme) - Most popular icon sets in one framework containg over 200,000 open source vector icons. ([Website](https://iconify.design))
-- [React Icons](https://github.com/react-icons/react-icons#reamde) - Popular icon sets created especially for React projects. ([Website](https://react-icons.github.io/react-icons/))
 
 ## Logos
 
@@ -80,6 +77,14 @@ Icons made out of CSS only (that are not downloadable).
 Not open-source/free, but still awesome enough.
 
 - [Nucelo Icons](https://nucleoapp.com/premium-icons) - A premium library of SVG icons for iOS, Android & web projects.
+
+### Frameworks
+
+Usually a library or framework that lets you import other icon sets.
+
+- Iconbuddy - A search engine to browse open source svg icons. ([Website](http://iconbuddy.com))
+- [Iconify Deign](https://github.com/iconify/iconify#readme) - Most popular icon sets in one framework containg over 200,000 open source vector icons. ([Website](https://iconify.design))
+- [React Icons](https://github.com/react-icons/react-icons#reamde) - Popular icon sets created especially for React projects. ([Website](https://react-icons.github.io/react-icons/))
 
 ## License
 

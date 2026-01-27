@@ -240,6 +240,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/jet
 - [The wasm-pack Guide](https://rustwasm.github.io/docs/wasm-pack/) - How to build and work with rust-generated WebAssembly.
 - [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust) - Includes a chapter `Advanced JavaScript Integration with Yew` on creating an app with Yew.
 - [Creative Projects for Rust Programmers](https://www.oreilly.com/library/view/creative-projects-for/9781789346220/) - Chapter 5, `Creating a Client-Side WebAssembly App Using Yew`.
+- [Server-Side WebAssembly](https://www.manning.com/books/server-side-webassembly) - How to use WebAssembly components and the WebAssembly System Interface (WASI) to build web back ends.
 
 ## Alternatives
 

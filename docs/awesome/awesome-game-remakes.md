@@ -133,6 +133,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 ## Platformer
 - [Alive Reversing](https://github.com/AliveTeam/alive_reversing) - Reimplementation of Oddworld: Abe's Exoddus.
 - [Commander Genius](https://gitlab.com/Dringgstein/Commander-Genius) - Modern Interpreter for the Commander Keen Games. :flower_playing_cards:
+- [Ghostship](https://github.com/HarbourMasters/Ghostship) - Super Mario 64 reimplementation for PC.
 - [Jazz² Resurrection](https://github.com/deathkiller/jazz2) - Reimplementation of Jazz Jackrabbit 2.
 - [Lionheart Remake](https://github.com/b3dgs/lionheart-remake) - Java remake of Lionheart Amiga game.
 - [NXEngine-evo](https://github.com/nxengine/nxengine-evo) - Rewrite of the masterpiece jump-and-run platformer Doukutsu Monogatari (also known as Cave Story).
