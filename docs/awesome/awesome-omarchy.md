@@ -227,6 +227,7 @@
 
 - [Installing Omarchy via Arch Linux on macOS](https://deepakness.com/raw/installing-arch-omarchy-on-mac/) - Guide for installing on Mac hardware.
 - [Configuring Omarchy on Beelink](https://www.dennisokeeffe.com/blog/2025-07-17-configuring-arch-linux-omarchy-via-mac) - Configuration guide for Beelink mini PCs.
+- [Sudomarchy](https://sudomarchy.com) - PO Martel's blog offering Omarchy & Hyprland tips and tweaks.
 
 ## Contributing
 

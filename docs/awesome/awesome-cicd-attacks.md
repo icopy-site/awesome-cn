@@ -96,7 +96,7 @@ A curated list of unique and useful CI/CD attack techniques.
 - [Jenkins Attack Framework](https://github.com/Accenture/jenkins-attack-framework) - This tool can manage Jenkins tasks, like listing jobs, dumping credentials, running commands/scripts, and managing API tokens.
 - [Nord Stream](https://github.com/synacktiv/nord-stream) - A tool to extract secrets stored inside CI/CD environments.
 - [pwn_jenkins](https://github.com/gquere/pwn_jenkins) - Notes about attacking Jenkins servers.
-- [Secrets Patterns Database](https://github.com/mazen160/secrets-patterns-db) - The largest open-source database for detecting secrets, API keys, passwords, tokens, and more. 
+- [Secrets Patterns Database](https://github.com/mazen160/secrets-patterns-db) - The largest open-source database for detecting secrets, API keys, passwords, tokens, and more.
 - [Sourcegraph](https://sourcegraph.com/search) - A web-based code search and navigation tool for public repositories.
 - [Token-Spray](https://blog.projectdiscovery.io/nuclei-v2-5-3-release/) - Automate token validation using Nuclei.
 
@@ -109,3 +109,4 @@ A curated list of unique and useful CI/CD attack techniques.
 - [Common Threat Matrix for CI/CD Pipeline](https://github.com/rung/threat-matrix-cicd)
 - [Open Software Supply Chain Attack Reference (OSC&R)](https://pbom.dev/)
 - [Risk Explorer for Software Supply Chains](https://riskexplorer.endorlabs.com/#/attack-tree)
+- [SDLC Infrastructure Threat Framework (SITF)](https://github.com/wiz-sec-public/SITF) - A comprehensive framework for analyzing and defending against attacks targeting Software Development Life Cycle Infrastructure.

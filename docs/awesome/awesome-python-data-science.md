@@ -121,11 +121,19 @@
 * [cleanrl](https://github.com/vwxyzjn/cleanrl) - High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG).
 
 ## Graph Machine Learning
+* [GRAPE](https://github.com/AnacletoLAB/grape/tree/main) - GRAPE is a Rust/Python Graph Representation Learning library for Predictions and Evaluations
 * [Auto Graph Learning](https://github.com/THUMNLab/AutoGL) -An autoML framework & toolkit for machine learning on graphs.
 * [Auto Graph Learning](https://github.com/THUMNLab/AutoGL) - An autoML framework & toolkit for machine learning on graphs.
 * [Karate Club](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning library for graph-structured data.
 * [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
 * [Jraph](https://github.com/google-deepmind/jraph) - A Graph Neural Network Library in Jax.
+  
+
+## Graph Manipulation
+* [Networkx](https://github.com/networkx/networkx) - Network Analysis in Python.
+* [Rustworkx](https://github.com/Qiskit/rustworkx) - A high performance Python graph library implemented in Rust.
+* [graph-tool](https://graph-tool.skewed.de/) - an efficient Python module for manipulation and statistical analysis of graphs (a.k.a. networks).
+* [igraph](https://github.com/igraph/python-igraph) - Python interface for igraph.
 
 ## Learning-to-Rank & Recommender Systems
 * [LightFM](https://github.com/lyst/lightfm) - A Python implementation of LightFM, a hybrid recommendation algorithm.
