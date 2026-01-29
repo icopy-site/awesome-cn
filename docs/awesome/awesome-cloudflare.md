@@ -1,8 +1,8 @@
 <div class="github-widget" data-repo="irazasyed/awesome-cloudflare"></div>
 
-&gt; 精选清单 [Cloudflare](https://www.cloudflare.com) 工人食谱、开源项目、指南、博客和其他资源.
+> Curated list of awesome [Cloudflare](https://www.cloudflare.com) worker recipes, open-source projects, guides, blogs and other resources.
 
-Cloudflare 提供内容分发网络 (CDN) 服务、DDoS 缓解、互联网安全和分布式域名服务器 (DNS) 服务，位于访问者和 Cloudflare 用户的托管提供商之间，充当网站的反向代理.
+Cloudflare provides content delivery network (CDN) services, DDoS mitigation, Internet security and distributed domain name server (DNS) services, sitting between the visitor and the Cloudflare user's hosting provider, acting as a reverse proxy for websites.
 
 
 
@@ -25,39 +25,39 @@ Cloudflare 提供内容分发网络 (CDN) 服务、DDoS 缓解、互联网安全
 
 ## DNS
 
-- [DNS Zone Files](https://github.com/irazasyed/dns-zone-files) - 准备导入通用配置区域文件，以便轻松配置各种服务.
-- [Lexicon](https://github.com/AnalogJ/lexicon) - CLI 工具以标准化方式操作各种 DNS 提供商的 DNS 记录.
-- [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) - 用于信息收集的多合一 CLI 工具.
-- [Partner Panel](https://github.com/ZE3kr/Cloudflare-CNAME-Setup) - 托管合作伙伴为客户提供 DNS 管理面板的工具.
-- [CFPMP](https://github.com/Netrvin/CFPMP) - 合作伙伴管理面板.
-- [Flares](https://github.com/lfaoro/flares) - DNS 备份工具.
-- [Block Bad Bot Ruleset](https://github.com/SukkaW/cloudflare-block-bad-bot-ruleset) - 收集规则集以使用防火墙规则阻止恶意爬虫.
-- [Docker DDNS](https://github.com/oznu/docker-cloudflare-ddns) - Docker 图像使用免费的 DNS 服务作为动态 DNS 提供者.
-- [DDNS script for Synology](https://github.com/joshuaavalon/SynologyCloudflareDDNS) - Synology NAS 的 DDNS 脚本.
-- [Dynamic DNS Bash](https://github.com/yulewang/cloudflare-api-v4-ddns) - bash 脚本中的动态 DNS 更新程序.
-- [Dynamic DNS PHP](https://github.com/lyoshenka/cloudflare-ddns) - PHP 中的动态 DNS 更新程序.
-- [Dynamic DNS Python](https://github.com/adrienbrignon/cloudflare-ddns) - python 中的动态 DNS 更新程序.
-- [Multi-Provider DDNS Script](https://github.com/phuslu/ddns) - 没有依赖性的多个提供商 ddns 脚本.
-- [Argo Tunnel Client](https://github.com/cloudflare/cloudflared) - Argo 隧道的 CLI 客户端，一个隧道守护进程，通过 Cloudflare 网络代理任何本地网络服务器.
-- [Upper](https://github.com/ostark/upper) - 使用网络服务器前面的缓存代理显着加快工艺速度.
-- [Cloud Buster](https://github.com/SageHack/cloud-buster) - 一个全面的渗透测试工具，用于检查站点是否存在原始 IP 泄漏.
-- [CLI Tool](https://github.com/danielpigott/cloudflare-cli) - 用于与 Cloudflare 交互的 CLI 工具.
-- [Detector](https://github.com/k4m4/cloudflare-detect) - 检测站点是否在 Cloudflare 后面运行.
-- [Scrape](https://github.com/Anorov/cloudflare-scrape) - 绕过反机器人页面的 Python 模块.
-- [CloudFlair](https://github.com/christophetd/CloudFlair) - 用于查找受 CloudFlare 保护且公开的网站的原始服务器的工具.
+- [DNS Zone Files](https://github.com/irazasyed/dns-zone-files) - Ready to import common config zone files for easy configuration of various services.
+- [Lexicon](https://github.com/AnalogJ/lexicon) - CLI tool to manipulate DNS records on various DNS providers in a standardized way.
+- [Th3inspector](https://github.com/Moham3dRiahi/Th3inspector) - All in one CLI tool for information gathering.
+- [Partner Panel](https://github.com/ZE3kr/Cloudflare-CNAME-Setup) - Tool for hosting partners to provide a DNS management panel for customers.
+- [CFPMP](https://github.com/Netrvin/CFPMP) - Partner management panel.
+- [Flares](https://github.com/lfaoro/flares) - DNS backup tool.
+- [Block Bad Bot Ruleset](https://github.com/SukkaW/cloudflare-block-bad-bot-ruleset) - Collection of rulesets to block malicious crawlers with firewall rules.
+- [Docker DDNS](https://github.com/oznu/docker-cloudflare-ddns) - Docker image to use the free DNS Service as a dynamic DNS provider.
+- [DDNS script for Synology](https://github.com/joshuaavalon/SynologyCloudflareDDNS) - DDNS script for Synology NAS.
+- [Dynamic DNS Bash](https://github.com/yulewang/cloudflare-api-v4-ddns) - Dynamic DNS updater in bash script.
+- [Dynamic DNS PHP](https://github.com/lyoshenka/cloudflare-ddns) - Dynamic DNS updater in PHP.
+- [Dynamic DNS Python](https://github.com/adrienbrignon/cloudflare-ddns) - Dynamic DNS updater in python.
+- [Multi-Provider DDNS Script](https://github.com/phuslu/ddns) - Multiple providers ddns script without dependencies.
+- [Argo Tunnel Client](https://github.com/cloudflare/cloudflared) - CLI client for Argo tunnel, a tunneling daemon that proxies any local webserver through the Cloudflare network.
+- [Upper](https://github.com/ostark/upper) - Speeds up craft dramatically using a cache proxy in front of your webserver.
+- [Cloud Buster](https://github.com/SageHack/cloud-buster) - A comprehensive pentest tool that checks sites for origin IP leaks.
+- [CLI Tool](https://github.com/danielpigott/cloudflare-cli) - CLI tool for interacting with Cloudflare.
+- [Detector](https://github.com/k4m4/cloudflare-detect) - Detect whether a site is running behind Cloudflare.
+- [Scrape](https://github.com/Anorov/cloudflare-scrape) - Python module to bypass anti-bot page.
+- [CloudFlair](https://github.com/christophetd/CloudFlair) - Tool to find origin servers of websites protected by CloudFlare who are publicly exposed.
 
 ## Developers
 
-- [Developers Hub](https://developers.cloudflare.com) - 开发人员文档，包括所有产品的 API 参考、文章和示例代码.
-- [Open Source](https://cloudflare.github.io) - 官方开源项目.
-- [API Docs](https://api.cloudflare.com) - API 文档.
-- [Integration Resources](https://www.cloudflare.com/integrations) - 用于内容管理系统、控制面板、云提供商、电子商务平台等的插件.
-- [Technical Resources](https://www.cloudflare.com/technical-resources) - 技术工具和资源.
-- [The Serverlist Newsletter](https://blog.cloudflare.com/serverlist) - 服务器列表是 Cloudflare 策划的有关无服务器所有事物的时事通讯.
+- [Developers Hub](https://developers.cloudflare.com) - Developer docs including API reference, articles, and sample code for all products.
+- [Open Source](https://cloudflare.github.io) - Official open-source projects.
+- [API Docs](https://api.cloudflare.com) - API documentation.
+- [Integration Resources](https://www.cloudflare.com/integrations) - Plugins for content management systems, control panels, cloud providers, ecommerce platforms and more.
+- [Technical Resources](https://www.cloudflare.com/technical-resources) - Technical tools and resources.
+- [The Serverlist Newsletter](https://blog.cloudflare.com/serverlist) - The serverlist is a Cloudflare-curated newsletter about all things serverless.
 
 ## Apps
 
-> [Cloudflare Apps](https://www.cloudflare.com/apps/developers) 让您将您的工具或服务发送到数百万个站点. 任何 Cloudflare 客户都可以在几秒钟内在他们的网站上预览和安装您的代码.
+> [Cloudflare Apps](https://www.cloudflare.com/apps/developers) lets you ship your tool or service to millions of sites. Any Cloudflare customer can preview & install your code on their site in seconds.
 
 - [Apps Directory](https://www.cloudflare.com/apps)
 - [Documentation](https://www.cloudflare.com/apps/developer/docs/getting-started)
@@ -66,13 +66,13 @@ Cloudflare 提供内容分发网络 (CDN) 服务、DDoS 缓解、互联网安全
 
 ### Open Source
 
-- [Official OSS Apps](https://github.com/cloudflare-apps) - 官方应用程序的集合.
-- [Logflare](https://github.com/Logflare/cloudflare-app) - 日志管理和事件分析.
-- [OpWork.dev](https://github.com/hisorange/opwork) - 自托管 CloudFlare 工人管理平台.
+- [Official OSS Apps](https://github.com/cloudflare-apps) - Collection of official apps.
+- [Logflare](https://github.com/Logflare/cloudflare-app) - Log management & event analytics.
+- [OpWork.dev](https://github.com/hisorange/opwork) - Self hosted CloudFlare workers management platform.
 
 ## Workers
 
-> [Cloudflare Workers](https://www.cloudflare.com/products/cloudflare-workers) 提供无服务器执行环境，允许您创建全新的应用程序或扩充现有应用程序，而无需配置或维护基础设施.
+> [Cloudflare Workers](https://www.cloudflare.com/products/cloudflare-workers) provides a serverless execution environment that allows you to create entirely new applications or augment existing ones without configuring or maintaining infrastructure.
 
 ### Reference
 
@@ -83,57 +83,61 @@ Cloudflare 提供内容分发网络 (CDN) 服务、DDoS 缓解、互联网安全
 
 ### Tools
 
-- [Wrangler](https://github.com/cloudflare/wrangler) - `wrangler` 是一个 CLI 工具，专为有兴趣使用 Cloudflare workers 的人们设计.
-- [Playground](https://www.cloudflareworkers.com) - 直接在浏览器中针对任何站点预览和测试代码的简单、即时的方法.
-- [Serverless Plugin](https://workers.cloudflare.com/docs/reference/tooling/serverless) - 插件 [serverless framework](https://github.com/serverless/serverless) 使用 Workers 开发和部署无服务器应用程序.
-- [Worker App Kit](https://github.com/postlight/cloudflare-worker-app-kit) - 用于创建、开发、测试和部署工作应用程序的便捷工具集.
-- [GitHub Action](https://github.com/cpilsworth/cloudflare-worker-action) - 部署一个工人推送到主分支.
-- [Workers KV Viewer](https://github.com/jroyal/cloudflare-workers-kv-viewer) - 用于工作人员 KV 存储的基于 CLI 的交互式查看器.
-- [Redirect Management](https://forwarding.app) - 生成重定向工作者.
+- [Wrangler](https://github.com/cloudflare/wrangler) - `wrangler` is a CLI tool designed for folks who are interested in using Cloudflare workers.
+- [Playground](https://www.cloudflareworkers.com) - Simple, instant way to preview and test code directly in the browser against any site.
+- [Serverless Plugin](https://workers.cloudflare.com/docs/reference/tooling/serverless) - Plugin for [serverless framework](https://github.com/serverless/serverless) to develop and deploy serverless applications using Workers.
+- [Worker App Kit](https://github.com/postlight/cloudflare-worker-app-kit) - Handy set of tools for creating, developing, testing, and deploying worker app.
+- [GitHub Action](https://github.com/cpilsworth/cloudflare-worker-action) - Deploy a worker on push to the master branch.
+- [Workers KV Viewer](https://github.com/jroyal/cloudflare-workers-kv-viewer) - CLI based interactive viewer for workers KV storage.
+- [Redirect Management](https://forwarding.app) - Generate redirect worker.
 
 ### Recipes
 
-- [Examples Collection](https://github.com/cloudflare/worker-examples) - 收集食谱.
-- [Hello World JS Boilerplate](https://github.com/cloudflare/worker-template) - 用于在 JS 中启动工作项目的模板.
-- [Hello World Rust Boilerplate](https://github.com/cloudflare/rustwasm-worker-template) - 使用 wasm-pack 启动工作项目的模板.
-- [Router](https://github.com/cloudflare/worker-template-router) - 可与 REST API 或应用程序一起用于基本路由逻辑的路由器.
-- [Static](https://github.com/cloudflare/worker-template-static) - 从工作脚本中的原始字符串生成静态 HTML 或 JSON 页面.
-- [Fetch](https://github.com/cloudflare/worker-template-fetch) - 发出获取请求和生成 JSON 发布请求的示例.
-- [Incoming Request](https://github.com/ashleygwilliams/worker-template-requests) - 读取 JSON 类型和表单数据的 POST 请求正文的示例.
-- [Redirect](https://github.com/cloudflare/worker-template-redirect) - 从 Worker 脚本发送单个和批量重定向的示例.
-- [Img-Color](https://github.com/xtuc/img-color-worker) - 检索 png 或 jpeg 图像的主色.
-- [Binast](https://github.com/xtuc/binast-cf-worker-template) - 通过工作人员提供 binast.
-- [Pwnage Protection](https://github.com/detroitenglish/pw-pwnage-cfworker) - 安全密码评分和用户密码保护 api - [Usage](https://community.cloudflare.com/t/estimate-strength-of-users-new-password-input-with-zxcvbn-and-query-haveibeenpwned-for-matches-against-known-hacked-accounts/26378).
-- [Cache Purger Proxy](https://gist.github.com/vdbelt/20f116236d2ebffa92f131e679c0551a) - 代理清除缓存请求 - [Usage](https://community.cloudflare.com/t/worker-recipe-cache-purge-proxy/29978).
-- [URL Router](https://github.com/berstend/service-worker-router) - 快速 url 路由器 - [Usage](https://community.cloudflare.com/t/open-source-fast-url-router-for-workers-js-typescript/33406).
-- [Edge Proxy](https://github.com/DigitalOptimizationGroup/cloudflare-edge-proxy) - 启用 A/B 测试、金丝雀发布、守门和 SEO A/B/N 测试.
-- [Blue / Green Deployments](https://github.com/DigitalOptimizationGroup/blue-green-cloudflare-workers) - 使用金丝雀发布的蓝/绿部署的工作示例.
-- [Preact PWA](https://github.com/DigitalOptimizationGroup/cloudflare-worker-preact-pwa) - Preact 渐进式网络应用程序.
-- [CURL Interceptor](https://github.com/Gaafar/curl-worker) - 拦截来自“curl”命令的请求并返回不同的内容.
-- [Worker with built-in Router](https://github.com/anderly/cloudflare-worker-routing) - 允许您将您的工作人员逻辑分成不同的功能和/或控制器.
-- [Connecting to Google Storage](https://community.cloudflare.com/t/connecting-to-google-storage/32350) - 从谷歌的云存储中提取文件.
-- [CSRF Protection](https://gist.github.com/simonerni/3501b8de6320ac37398d08d9d2d08561) - 通过验证来源/引用标头来保护任何来源免受 CSRF 攻击.
-- [URL Query Strings Parser](https://community.cloudflare.com/t/parse-url-query-strings-with-cloudflare-workers/90286) - 解析 url 查询字符串.
-- [Regrex Replacement and Injection](https://community.cloudflare.com/t/perform-regex-replacements-and-inject-css-javascript-with-cloudflare-workers/90279) - 执行正则表达式替换并注入 CSS/JS.
-- [Webpack Boilerplate](https://github.com/detroitenglish/cloudflare-workers-webpack-boilerplate) - 使用 webpack 构建、捆绑和部署工作人员的样板.
-- [Basic Auth](https://github.com/dommmel/cloudflare-workers-basic-auth) - 使用基本身份验证的保护.
-- [Send Logs to Logdna](https://github.com/boynet/cf-logdna-worker) - 将日志发送到 logdna 的简单方法.
-- [IP lookup service](https://github.com/matthewgall/beta.ipinfo.in) - 使用 worker 的 IP 查找服务.
-- [Airtable Proxy](https://github.com/portable-cto/airtable-proxy-worker) - 允许您从前端向 Airtable API 发出安全请求.
-- [TypeScript Workers](https://github.com/udacity/cloudflare-typescript-workers) - 用于构建经过测试的打字稿工作者的类型和模拟.
-- [Proxies](https://github.com/GitbookIO/proxies-on-cloudflare) - 通过提供满足常见需求的高级代理原语，使构建工作人员变得容易.
-- [Static Worker](https://github.com/manatarms/static-worker) - 提供可以轻松托管静态网站的功能.
-- [Bannero](https://github.com/nondanee/bannero) - 用于简单桌面的 Bannero 图像 API.
-- [Hasura](https://github.com/nathanwaters/hasura-cloudflare-worker) - 使用基于 Facebook 的授权和带有 hasura 的 graphql 代理查询的示例.
-- [IP Redirects](https://community.cloudflare.com/t/ip-redirects/18285) - 根据用户的 IP 地址重定向用户.
-- [Switch Image to WebP](https://github.com/vidaxl-com/cloudflare_webworkers/blob/master/examples/webp.js) - 在支持时将图像重新路由到 webp.
-- [Geographic Routing and Load Balancer](https://community.cloudflare.com/t/geographic-routing-and-load-balancing-with-cloudflare-workers/21900) - 地理路由和与工人的负载平衡.
+- [Examples Collection](https://github.com/cloudflare/worker-examples) - Collection of recipes.
+- [Hello World JS Boilerplate](https://github.com/cloudflare/worker-template) - Template for kick starting a worker project in JS.
+- [Hello World Rust Boilerplate](https://github.com/cloudflare/rustwasm-worker-template) - Template for kick starting a worker project using wasm-pack.
+- [Router](https://github.com/cloudflare/worker-template-router) - Router that can be used with REST APIs or apps for basic routing logic.
+- [Static](https://github.com/cloudflare/worker-template-static) - Generate a static HTML or JSON page from raw strings in your workers script.
+- [Fetch](https://github.com/cloudflare/worker-template-fetch) - Examples of making fetch requests and generating JSON post requests.
+- [Incoming Request](https://github.com/ashleygwilliams/worker-template-requests) - Examples of reading in a POST request body of type JSON and form-data.
+- [Redirect](https://github.com/cloudflare/worker-template-redirect) - Examples of sending single and bulk redirects from a Worker script.
+- [Img-Color](https://github.com/xtuc/img-color-worker) - Retrieve the dominant color of a png or jpeg image.
+- [Binast](https://github.com/xtuc/binast-cf-worker-template) - Serve binast via a worker.
+- [Pwnage Protection](https://github.com/detroitenglish/pw-pwnage-cfworker) - Secure password scoring and user pwnage protection api - [Usage](https://community.cloudflare.com/t/estimate-strength-of-users-new-password-input-with-zxcvbn-and-query-haveibeenpwned-for-matches-against-known-hacked-accounts/26378).
+- [Cache Purger Proxy](https://gist.github.com/vdbelt/20f116236d2ebffa92f131e679c0551a) - Proxies purge cache requests - [Usage](https://community.cloudflare.com/t/worker-recipe-cache-purge-proxy/29978).
+- [URL Router](https://github.com/berstend/service-worker-router) - Fast url router - [Usage](https://community.cloudflare.com/t/open-source-fast-url-router-for-workers-js-typescript/33406).
+- [Edge Proxy](https://github.com/DigitalOptimizationGroup/cloudflare-edge-proxy) - Enable A/B testing, canary releasing, gatekeeping, and SEO A/B/N testing.
+- [Blue / Green Deployments](https://github.com/DigitalOptimizationGroup/blue-green-cloudflare-workers) - Working example of blue / green deployments with canary releasing.
+- [Preact PWA](https://github.com/DigitalOptimizationGroup/cloudflare-worker-preact-pwa) - Preact progressive web app.
+- [CURL Interceptor](https://github.com/Gaafar/curl-worker) - Intercepts requests from `curl` command and returns something different.
+- [Worker with built-in Router](https://github.com/anderly/cloudflare-worker-routing) - Allows you to separate your worker logic into different functions and/or controllers.
+- [Connecting to Google Storage](https://community.cloudflare.com/t/connecting-to-google-storage/32350) - Pull files from Google's cloud storage.
+- [CSRF Protection](https://gist.github.com/simonerni/3501b8de6320ac37398d08d9d2d08561) - Protect any origin from CSRF by verifying origin/referer headers.
+- [URL Query Strings Parser](https://community.cloudflare.com/t/parse-url-query-strings-with-cloudflare-workers/90286) - Parse url query strings.
+- [Regrex Replacement and Injection](https://community.cloudflare.com/t/perform-regex-replacements-and-inject-css-javascript-with-cloudflare-workers/90279) - Perform regex replacements and inject CSS/JS.
+- [Webpack Boilerplate](https://github.com/detroitenglish/cloudflare-workers-webpack-boilerplate) - Boilerplate to build, bundle and deploy workers with webpack.
+- [Basic Auth](https://github.com/dommmel/cloudflare-workers-basic-auth) - Protection using basic auth.
+- [Send Logs to Logdna](https://github.com/boynet/cf-logdna-worker) - Simple recipe to send logs to logdna.
+- [IP lookup service](https://github.com/matthewgall/beta.ipinfo.in) - IP lookup service using workers.
+- [Airtable Proxy](https://github.com/portable-cto/airtable-proxy-worker) - Allows you to make secure requests to the Airtable API from your frontend.
+- [TypeScript Workers](https://github.com/udacity/cloudflare-typescript-workers) - Types and mocks for building a tested typescript worker.
+- [Proxies](https://github.com/GitbookIO/proxies-on-cloudflare) - Makes it easy to build workers, by providing high-level proxying primitives addressing common needs.
+- [Static Worker](https://github.com/manatarms/static-worker) - Provides functions that make it easy to host a static website.
+- [Bannero](https://github.com/nondanee/bannero) - Bannero image API for simpledesktops.
+- [Hasura](https://github.com/nathanwaters/hasura-cloudflare-worker) - Example using Facebook-based authorization and graphql proxy queries with hasura.
+- [IP Redirects](https://community.cloudflare.com/t/ip-redirects/18285) - Redirect users based on their ip address.
+- [Switch Image to WebP](https://github.com/vidaxl-com/cloudflare_webworkers/blob/master/examples/webp.js) - Reroute image to webp when supported.
+- [Geographic Routing and Load Balancer](https://community.cloudflare.com/t/geographic-routing-and-load-balancing-with-cloudflare-workers/21900) - Geographic routing and load balancing with workers.
 - [UTM Tag Stripper](https://community.cloudflare.com/t/strip-utm-query-string/47941) - Strip UTM tags in query string.
-- [Short URL Redirector](https://community.cloudflare.com/t/short-url-using-workers/39877) - 重定向短链接.
-- [Repo Hunt](https://github.com/signalnerve/repo-hunt) - 每天寻找很酷的开源项目.
-- [Performance Optimized Workers](https://github.com/pmeenan/cf-workers) - 工人脚本的集合，通常侧重于性能优化.
-- [Google reCAPTCHA verification](https://github.com/HR/recaptcha-worker) - 处理您的 reCAPTCHA 表单的服务器端验证.
-- [Cloudflare Workers Starter Kit](https://github.com/kriasoft/cloudflare-starter-kit) - - TypeScript 模板 \w 多个 CF Worker、`*.env` 文件和本地测试.
+- [Short URL Redirector](https://community.cloudflare.com/t/short-url-using-workers/39877) - Redirect short links.
+- [Repo Hunt](https://github.com/signalnerve/repo-hunt) - Find cool open-source projects daily.
+- [Performance Optimized Workers](https://github.com/pmeenan/cf-workers) - Collection of worker scripts, generally focused on performance optimizations.
+- [Google reCAPTCHA verification](https://github.com/HR/recaptcha-worker) - Handle the server-side verification of your reCAPTCHA form.
+- [Cloudflare Workers Starter Kit](https://github.com/kriasoft/cloudflare-starter-kit) -  - TypeScript template \w multiple CF Workers, `*.env` files, and local testing.
+
+### AI
+
+- [Moltworker](https://github.com/cloudflare/moltworker) - Run Moltbot (formely Clawdbot) on Cloudflare Workers.
 
 ## Other
 
@@ -143,13 +147,13 @@ Cloudflare 提供内容分发网络 (CDN) 服务、DDoS 缓解、互联网安全
 
 ## Contribute
 
-欢迎投稿！ 阅读 [contribution guidelines](https://github.com/irazasyed/awesome-cloudflare/blob/master/contributing.md) 第一的.
+Contributions welcome! Read the [contribution guidelines](https://github.com/irazasyed/awesome-cloudflare/blob/master/contributing.md) first.
 
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
-在法律允许的范围内， [Irfaq Syed](https://github.com/irazasyed) 已放弃所有版权和
-本作品的相关或邻接权利.
+To the extent possible under law, [Irfaq Syed](https://github.com/irazasyed) has waived all copyright and
+related or neighboring rights to this work.
 
-&gt; Cloudflare 是 Cloudflare, Inc. 的注册商标.
+> Cloudflare is a registered trademark of Cloudflare, Inc.

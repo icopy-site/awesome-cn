@@ -40,6 +40,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/hob
 - [Ably](https://www.ably.io/documentation/mqtt) - MQTT broker service and protocol adapter.
 - [ActiveMQ](https://activemq.apache.org/) - A fast Java multiprotocol messaging and Integration Patterns server.
 - [Aedes](https://github.com/moscajs/aedes) - Barebone MQTT broker that can run on any stream server, the node way.
+- [BifroMQ](https://bifromq.apache.org) - Java-based high-performance MQTT broker with native multi-tenancy for large-scale IoT.
 - [comqtt](https://github.com/wind-c/comqtt) - A lightweight, high-performance go mqtt server(v3.0|v3.1.1|v5.0) supporting distributed cluster.
 - [Emitter](https://github.com/emitter-io/emitter) - A distributed, scalable and fault-tolerant publish-subscribe messaging platform based on MQTT protocol and featuring message storage.
 - [EMQ X](https://github.com/emqx/emqx) - Scalable and Reliable Real-time MQTT Messaging Engine for IoT in 5G Era.
@@ -132,7 +133,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/hob
 
 ### Python
 
-- [aiomqtt](https://github.com/mossblaser/aiomqtt) - Async Python MQTT client based on paho-mqtt.
+- [aiomqtt](https://github.com/empicano/aiomqtt) - The idiomatic asyncio MQTT client.
 - [gmqtt](https://github.com/wialon/gmqtt) - Python MQTT v5.0 client (asyncio-based).
 <!--lint disable double-link-->
 - [hbmqtt Client](https://github.com/beerfactory/hbmqtt) - Python MQTT client using asyncio.
@@ -175,7 +176,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/hob
 
 - [mqtt.dart](https://github.com/jnguillerme/mqtt.dart) - Dart MQTT client.
 
-### DotNET
+### C# / .NET
 
 - [HiveMQtt](https://github.com/hivemq/hivemq-mqtt-client-dotnet) - MQTT 5.0 compliant secure client with automatic back pressure management and TCP & WebSocket transport support.
 - [MQTTnet](https://github.com/chkr1011/MQTTnet) - MQTT client and broker .NET implementations.

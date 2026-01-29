@@ -17,12 +17,16 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 
 ### Africa
 
+- [National Library of South Africa Digital Collections](https://cdm21048.contentdm.oclc.org/) - National Library of South Africa's digital collections, including historical newspapers and special collections materials.
 - [PARC](https://parc-portal.org/) - Portal for African Research Collections: PARC is the new meta-catalogue for the Africana collections at the research location Basel.
 - [West African Arabic Manuscript Database](https://islam.zmo.de/s/westafrica/page/home) - A comprehensive collection of manuscripts that provides insight into the Islamic scholarly tradition in West Africa.
 
 ### Asia
 
 - [FOCAL](https://www.asia-directories.org/) - The Asia Directories and Chronicles is a reference work for foreign traders in the Asian region, published annually by the Hong Kong Daily Press, annually between 1863 and 1941.
+- [South Asia Commons](https://southasiacommons.net/) - Discovery platform for South Asian historical and cultural materials held worldwide, with mixed hosting plus outward links.
+- [South Asian Newspapers](https://www.eastview.com/resources/gpa/crl-san/) - Open-access collection of South Asian newspapers covering major regional and global events across multiple countries and languages.
+- [Southeast Asian Newspapers](https://www.eastview.com/resources/gpa/crl-sean/) - Open-access collection of Southeast Asian newspapers documenting colonialism, decolonization, and early statehood across the region in multiple languages.
 
 ### Austria
 
@@ -89,10 +93,13 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 - [OldMapsOnline](https://www.oldmapsonline.org/) - Maps, starting in the 17th century.
 - [OpenCat](https://opencat.io/) - Search engine for libraries around the globe.
 - [OpenHistoricalMap](https://openhistoricalmap.org/) - A time travel map created by a community of mappers and historians.
+- [ProQuest](https://www.proquest.com/index) - Central platform providing access to a wide range of research databases and content types including news, dissertations, ebooks, video, and journals.
 - [Public Books Database](http://www.publicbooks.org/public-books-database/) - Open access academic literature.
+- [Southeast Asian & Caribbean Images (KITLV)](https://digitalcollections.universiteitleiden.nl/imagecollection-kitlv) - Image collection of photographs, prints, and drawings focusing on Southeast Asia and the Caribbean, depicting life roughly 1850-1950.
 - [United Nations Archive](https://archives.un.org/) - Archives and records from the United Nations regarding Secretaries-Generals, departments and missions.
 - [WayBackMachine](https://archive.org/web/) - Explore more than 486 billion web pages saved over time.
 - [World Historical Gazeteer](https://whgazetteer.org/) - Collection of content and services that permit world historians to do spatial and temporal reasoning and visualization in a data rich environment at global and trans-regional scales.
+- [World Radio History](https://www.worldradiohistory.com/index.htm) - Archive of radio and television broadcasting journals, industry-specific guides and professional directories.
 
 ### Great Britain
 
