@@ -80,6 +80,7 @@
 
 ## Data Ingestion
 
+- [ingestr](https://github.com/bruin-data/ingestr) - CLI tool to copy data between databases with a single command. Supports 50+ sources including Postgres, MySQL, MongoDB, Salesforce, Shopify to any data warehouse.
 - [Kafka](https://kafka.apache.org/) - Publish-subscribe messaging rethought as a distributed commit log.
   - [BottledWater](https://github.com/confluentinc/bottledwater-pg) - Change data capture from PostgreSQL into Kafka. Deprecated.
   - [kafkat](https://github.com/airbnb/kafkat) - Simplified command-line administration for Kafka brokers.
@@ -212,6 +213,7 @@
 
 ## Workflow
 
+- [Bruin](https://github.com/bruin-data/bruin) - End-to-end data pipeline tool that combines ingestion, transformation (SQL + Python), and data quality in a single CLI. Connects to BigQuery, Snowflake, Postgres, Redshift, and more. Includes VS Code extension with live previews.
 - [Luigi](https://github.com/spotify/luigi) - A Python module that helps you build complex pipelines of batch jobs.
 - [CronQ](https://github.com/seatgeek/cronq) - An application cron-like system. [Used](https://chairnerd.seatgeek.com/building-out-the-seatgeek-data-pipeline/) w/Luigi. Deprecated.
 - [Cascading](https://www.cascading.org/) - Java based application development platform.

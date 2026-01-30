@@ -15,7 +15,7 @@ Reducing the potential negative effects of technology on society.
 <!--lint enable no-repeat-punctuation-->
 - [The ResponsibleTech.Work framework](https://responsibletech.work) - An open-source framework developed by tech workers for tech workers. It equips tech workers with practical tools for more responsible product development.
 - [Spotify Ethics Guild's ethics assessment](https://spotify.design/article/investigating-consequences-with-our-ethics-assessment) - A tool for identifying ethical considerations when designing a product or service.
-- [Sweet summer child score](https://github.com/summerscope/summerchildpy) - An interactive quiz to identify the possibility of harm to people and communities by a socio-technical system.
+- [Sweet summer child score](https://summerchild.dev/) - An interactive quiz to identify the possibility of harm to people and communities by a socio-technical system.
 - [Tethix Elemental Sparks](https://tethix.co/paper-sparks/) - Printouts for origami [chatterboxes](https://en.wikipedia.org/wiki/Paper_fortune_teller) to spark conversations about AI, data, fairness, and other sociotechnical challenges.
 - [The Tarot Cards of Tech](https://tarotcardsoftech.artefactgroup.com/) - A set of questions designed to help creators more fully consider the impact of technology.
 
