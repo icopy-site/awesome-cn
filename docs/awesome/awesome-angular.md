@@ -674,6 +674,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-html-bridge-markuplint](https://github.com/nagashimam/ngx-html-bridge-markuplint) - This library links Markuplint to Angular templates by reverse‑compiling them into HTML, enabling accurate linting with proper source‑mapped reporting.
 * [eslint-config-neon](https://github.com/iCrawl/eslint-config-neon) - A comprehensive shareable ESLint configuration.
 * [eslint-config-angular](https://github.com/noneforge/eslint-config-angular) - Comprehensive Angular ESLint configuration with TypeScript support, component/template rules, accessibility, and CSS linting.
+* [linters](https://github.com/developer239/linters) - Collection of super strict configurations for ESLint / StyleLint and other code quality tools.
 
 ### Networking
 
@@ -998,6 +999,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [AngularTemplate](https://github.com/EmmanuelLefevre/AngularTemplate) - This Angular template delivers a production‑ready project setup with structured architecture, tooling, testing, CI/CD, styling, schematics, and clear rule documentation.
 * [free-tailwind-admin-dashboard-template](https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template) - A free, open-source Tailwind CSS admin dashboard template built for modern web developers.
 * [ngx-blog](https://github.com/pegasusheavy/ngx-blog) - A modern Angular-based blogging CMS with theme support and SEO optimization.
+* [radixweb](https://radixweb.com/starter-kits/enterprise-microservices-boilerplate) - Full production-ready microservices boilerplate.
 
 ### Paid Templates
 
@@ -1061,6 +1063,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [schedule-x](https://github.com/schedule-x/schedule-x) - Material design event calendar.
 * [timegrid-angular](https://www.npmjs.com/package/@hexaflexa/timegrid-angular) - Angular wrapper for the [HexaFlexa](https://hexaflexa.com/) Timegrid web component.
 * [CalendarJS](https://github.com/componade/calendarjs) - Open source JavaScript calendar and scheduling component that can be integrated into Angular projects.
+* [hss-calendar](https://github.com/HawkerSoftwares/hss-calendar) - A premium, lightweight, and fully customizable calendar library for Angular 19+.
 
 ### Captcha
 
@@ -1106,6 +1109,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-charts](https://github.com/swimlane/ngx-charts) - Declarative Charting Framework for Angular2 and beyond!
 * [ag-charts](https://github.com/ag-grid/ag-charts/tree/latest/packages/ag-charts-angular) - Fully-featured and highly customizable JavaScript charting library.
 * [amcharts5](https://github.com/amcharts/amcharts5) - The newest, fastest, and most advanced amCharts charting library for JavaScript and TypeScript apps. Check out the [Angular integration guide](https://www.amcharts.com/docs/v5/getting-started/integrations/angular/) to get started. Additionally, older versions are still being updated to support newer releases of Angular.
+* [angular-chrts](https://github.com/dennisadriaans/angular-chrts) - A high-performance, developer-friendly data visualization library for modern Angular applications.
 * [angular-google-charts](https://github.com/FERNman/angular-google-charts) - A wrapper for the Google Charts library written in Angular.
 * [carbon-charts](https://github.com/carbon-design-system/carbon-charts/tree/master/packages/angular) - Carbon Charts Angular is a thin Angular wrapper around the vanilla JavaScript @carbon/charts component library.
 * [Foblex](https://flow.foblex.com/) - Angular Powered Flow-Chart Library.
@@ -1765,6 +1769,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [usal](https://github.com/italoalmeida0/usal) - Framework agnostic ultimate scroll animation library.
 * [ar-virtual-scroll](https://github.com/artomenwork/ar-virtual-scroll) - Lightweight Angular virtual scroll with automatic dynamic height, ideal for chats, feeds, and variable lists.
 * [angular-infinity-scroller](https://github.com/Jayant061/angular-infinity-scroller) - A lightweight, high‑performance infinite‑scrolling directive built to work seamlessly with modern Angular and SSR setups.
+* [cerious-scroll](https://github.com/ceriousdevtech/cerious-scroll) - High-performance virtual scrolling for web applications.
 
 ### Storage
 

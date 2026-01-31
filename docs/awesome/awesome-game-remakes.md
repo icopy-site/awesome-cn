@@ -132,6 +132,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 
 ## Platformer
 - [Alive Reversing](https://github.com/AliveTeam/alive_reversing) - Reimplementation of Oddworld: Abe's Exoddus.
+- [BanjoRecomp](https://github.com/BanjoRecomp/BanjoRecomp) - PC Port of Banjo-Kazooie made using N64: Recompiled.
 - [Commander Genius](https://gitlab.com/Dringgstein/Commander-Genius) - Modern Interpreter for the Commander Keen Games. :flower_playing_cards:
 - [Ghostship](https://github.com/HarbourMasters/Ghostship) - Super Mario 64 reimplementation for PC.
 - [Jazz² Resurrection](https://github.com/deathkiller/jazz2) - Reimplementation of Jazz Jackrabbit 2.
