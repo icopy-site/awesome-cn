@@ -662,6 +662,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Transifex](https://github.com/transifex/transifex-javascript/tree/master/packages/angular/projects/tx-native-angular-sdk) - You can easily localize Angular components using the [Transifex library extension](https://www.npmjs.com/package/@transifex/angular). This library extends the functionality of [Transifex Native JavaScript SDK](https://developers.transifex.com/docs/javascript-sdk).
 * [transloco](https://github.com/jsverse/transloco) - The internationalization (i18n) library for Angular.
 * [transloco-keys-manager](https://github.com/jsverse/transloco-keys-manager) - Tools to help reduce monotonous work.
+* [xlf-sync](https://github.com/atheodosiou/xlf-sync) - A CLI tool for synchronizing Angular XLIFF (1.2 & 2.0) locale files.
 
 ### Linting
 
@@ -2125,7 +2126,7 @@ for the creation of web applications developed with Angular.
 * [flexdi](https://github.com/AndreyShashlovDev/flexdi) - Flexible, lightweight DI library for React, React Native, and Vue3, inspired by NestJS and Angular.
 * [gapi](https://github.com/Stradivario/gapi) - Inspired by Angular and intended to provide complex Node.js GraphQL Backend applications with minimum effort.
 * [GTPL](https://github.com/garag-lib/GTPL) - TypeScript library for reactive templates using Direct DOM and Proxy, inspired by Vue, Angular AOT, and JSX, in a compact 9KB package.
-* [illuma](https://github.com/git-zodyac/illuma) - Angular-style dependency injection for TypeScript.
+* [illuma](https://github.com/git-illuma/core) - Angular-style dependency injection for TypeScript.
 * [indulgent](https://github.com/frodi-karlsson/indulgent) - A lightweight set of TypeScript utilities designed for web development, free of external dependencies and optimized for solid runtime performance.
 * [injection-js](https://github.com/mgechev/injection-js) - A fast, well‑tested JavaScript/TypeScript dependency injection library extracted from Angular’s `ReflectiveInjector`.
 * [ioc](https://github.com/Isqanderm/ioc) - A powerful and flexible Inversion of Control (IoC) container for TypeScript applications. Inspired by Angular and NestJS.

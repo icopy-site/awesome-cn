@@ -351,6 +351,7 @@ _Frameworks for Neural Networks and Deep Learning. Also see [awesome-deep-learni
 - [pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
 - [stable-baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch implementations of Stable Baselines (deep) reinforcement learning algorithms.
 - [tensorflow](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
+- [vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
 
 ## DevOps Tools
 
@@ -461,6 +462,7 @@ _Libraries for Python version and virtual environment management._
 
 _Libraries for file manipulation._
 
+- [markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [mimetypes](https://docs.python.org/3/library/mimetypes.html) - (Python standard library) Map filenames to MIME types.
 - [path.py](https://github.com/jaraco/path.py) - A module wrapper for [os.path](https://docs.python.org/3/library/os.path.html).
 - [pathlib](https://docs.python.org/3/library/pathlib.html) - (Python standard library) An cross-platform, object-oriented path library.
@@ -474,6 +476,7 @@ _Functional Programming with Python._
 
 - [coconut](https://github.com/evhub/coconut) - A variant of Python built for simple, elegant, Pythonic functional programming.
 - [cytoolz](https://github.com/pytoolz/cytoolz/) - Cython implementation of `Toolz`: High performance functional utilities.
+- [functools](https://docs.python.org/3/library/functools.html) - (Python standard library) Higher-order functions and operations on callable objects.
 - [funcy](https://github.com/Suor/funcy) - A fancy and practical functional tools.
 - [more-itertools](https://github.com/erikrose/more-itertools) - More routines for operating on iterables, beyond `itertools`.
 - [returns](https://github.com/dry-python/returns) - A set of type-safe monads, transformers, and composition utilities.
@@ -1046,6 +1049,7 @@ _Libraries for extracting web contents._
 
 _Libraries to automate web scraping._
 
+- [browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents with easy browser automation.
 - [feedparser](https://github.com/kurtmckee/feedparser) - Universal feed parser.
 - [grab](https://github.com/lorien/grab) - Site scraping framework.
 - [mechanicalsoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.

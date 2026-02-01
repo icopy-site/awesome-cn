@@ -10,7 +10,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * Documents
 * Language Related
 * Continuous Integration
-* Compiler for Other Languages
+* Languages
 * OS
 * Common
 * Networking / Web
@@ -212,13 +212,16 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 * [silly](https://gitlab.com/AntonMeep/silly) - Better test runner for the D programming language. No nonsense.
 * [fluent-asserts](https://github.com/gedaiu/fluent-asserts) - Fluent assertion framework with expressive syntax and detailed error messages.
 
-## Javascript
+## Programming Languages
+
+*Programming languages written in D.*
 
 * [higgs](https://github.com/higgsjs/Higgs) - Higgs JavaScript Virtual Machine, implemented in D.
+* [Glang](https://github.com/pouyathe/glang) - Interpreter for G programming language.
 
 ## Operating Systems
 
-*Operating Systems written in D.*
+*Operating systems written in D.*
 
 * [PowerNex](https://github.com/PowerNex/PowerNex) - A kernel written in D
 * [SerpentOS](https://gitlab.com/serpent-os) - Snek factory
@@ -338,7 +341,7 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 
 * [giD](https://github.com/Kymorphia/gid) - GObject Introspection D Package Repository.
 * [Fluid](https://git.samerion.com/Samerion/Fluid) - A declarative cross-platform user interface library for D.
-* [minigui](https://github.com/adamdruppe/arsd/blob/master/minigui.d) - A smallish GUI widget library, aiming to be on par with at least HTML4 forms and a few other expected gui components.
+* [minigui](https://arsd-official.dpldocs.info/arsd.minigui.html) - A smallish GUI widget library, aiming to be on par with at least HTML4 forms and a few other expected gui components. It's part of the [arsd libraries](https://github.com/adamdruppe/arsd/blob/master/minigui.d).
 * [DLangUI](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorite, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE](https://github.com/buggins/dlangide).
 * [microui-d](https://github.com/Kapendev/microui-d) - A tiny immediate-mode UI library.
 * [GtkD](https://github.com/gtkd-developers/GtkD) - GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is currently the most stable GUI lib for D.
@@ -404,6 +407,8 @@ Most documents and links are collected from the [D forum](https://forum.dlang.or
 *D libraries for game development.*
 
 * [InMath](https://github.com/Inochi2D/inmath) - Games math library for D.
+* [godot-math](https://github.com/AuburnSounds/godot-math) - A D port of Godot's linear algebra with unchanged semantics.
+* [text-mode](https://github.com/AuburnSounds/text-mode) - Virtual text mode with 8x8 Unicode font and markup language.
 
 *Libraries for 2D-related projects.*
 
