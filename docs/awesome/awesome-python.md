@@ -43,6 +43,7 @@ _Python implementation of data structures, algorithms and design patterns. Also 
   - [sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Fast and pure-Python implementation of sorted collections.
   - [thealgorithms](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python.
 - Design Patterns
+  - [python-cqrs](https://github.com/vadikko2/python-cqrs) - Event-Driven Architecture Framework with CQRS/CQS, Transaction Outbox, Saga orchestration.
   - [python-patterns](https://github.com/faif/python-patterns) - A collection of design patterns in Python.
   - [transitions](https://github.com/pytransitions/transitions) - A lightweight, object-oriented finite state machine implementation.
 
@@ -173,6 +174,7 @@ _Tools of static analysis, linters and code quality checkers. Also see [awesome-
 _Libraries for building command-line applications._
 
 - Command-line Application Development
+  - [argparse](https://docs.python.org/3/library/argparse.html) - (Python standard library) Command-line option and argument parsing.
   - [cement](https://github.com/datafolklabs/cement) - CLI Application Framework for Python.
   - [click](https://github.com/pallets/click/) - A package for creating beautiful command line interfaces in a composable way.
   - [cliff](https://github.com/openstack/cliff) - A framework for creating command-line programs with multi-level commands.
@@ -747,6 +749,7 @@ _Frameworks and tools for penetration testing._
 
 - [fsociety](https://github.com/Manisso/fsociety) - A Penetration testing framework.
 - [setoolkit](https://github.com/trustedsec/social-engineer-toolkit) - A toolkit for social engineering.
+- [sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks.
 - [sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool.
 
 ## Permissions
