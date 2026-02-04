@@ -6,7 +6,7 @@
 [![Not Found Check](https://github.com/shuaibiyy/awesome-tf/actions/workflows/notfound.yml/badge.svg)](https://github.com/shuaibiyy/awesome-tf/actions/workflows/notfound.yml)
 
 > A curated list of resources on [HashiCorp's Terraform](https://www.terraform.io/).
-> [<img src="https://rawgit.com/shuaibiyy/awesome-terraform/master/terraform.svg" align="right" width="100">](https://terraform.io)
+> [<img src="https://raw.githubusercontent.com/shuaibiyy/awesome-terraform/master/terraform.svg" align="right" width="100">](https://terraform.io)
 > Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/contributing.md) are welcome!
 
 Terraform enables you to safely and predictably create, change, and improve production infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -362,7 +362,6 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [TerraDepot](https://github.com/derBroBro/TerraDepot) Terraform state repository, based on the default http remote backend. Allows the central administration of tfstates on AWS S3.
 - [terradozer](https://github.com/jckuester/terradozer) - Terraform destroy without configuration files.
 - [terraeasy](https://github.com/jaceq/terraeasy) - Easy Terraform wrapper
-- [TerraForce](https://terraforce.henrybravo.nl) - A policy enforcement tool for Terraform that ensures consistency and compliance through lifecycle policy checks, flexible policy definitions, and CI/CD integration.
 - [terraform-aws-clickops-notifier](https://github.com/cloudandthings/terraform-aws-clickops-notifier) - Get notified when actions are taken in the AWS Console.
 - [terraform-bundle](https://github.com/hashicorp/terraform/tree/main/tools/terraform-bundle) - Easily builds bundles containing a Terraform binary as well as provider binaries. Useful for CI and air-gapped Terraform Enterprise.
 - [terraform-cdk](https://github.com/hashicorp/terraform-cdk) - CDK (Cloud Development Kit) for Terraform allows developers to use familiar programming languages to define cloud infrastructure and provision it through HashiCorp Terraform.
@@ -386,7 +385,6 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraformsh](https://github.com/pwillis-els/terraformsh) - A wrapper in Bash for easier CLI UX and DRY hierarchical configs
 - [terragrunt-atlantis-config](https://github.com/transcend-io/terragrunt-atlantis-config) - Generate Atlantis config for Terragrunt projects.
 - [terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for keeping your Terraform configurations DRY, working with multiple Terraform modules, and managing remote state.
-- [Terrahaxs](https://www.terrahaxs.com) - A GitOps Terraform CI/CD GitHub Application :heavy_dollar_sign:
 - [terrahelp](https://github.com/opencredo/terrahelp) - Command line utility aimed at providing supplementary functionality which can sometimes prove useful when working with Terraform.
 - [terrahub](https://github.com/tfxor/terrahub) - TerraHub is terraform automation and orchestration tool. Seamlessly integrated into console.terrahub.io, enterprise friendly GUI to show realtime terraform executions, as well as auditing and reporting capabilities for historical terraform runs. :heavy_dollar_sign:
 - [terramagic](https://github.com/miltlima/terramagic) - Wizard tool for create folders and terraform files automated, written in Python !

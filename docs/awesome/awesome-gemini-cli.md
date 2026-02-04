@@ -186,6 +186,12 @@ Educational materials and documentation to try out Gemini CLI if you're new.
 - [gemini-cli-demos](https://github.com/palladius/gemini-cli-demos) - Ready-to-run demonstration scenarios showcasing Gemini CLI's capabilities, perfect for learning, presenting, or evaluating the tool.
 - [cli-demo-cookbook](https://github.com/ptone/cli-demo-cookbook) - Collection of demo scenario and casts for Gemini CLI.
 
+## Non-Gemini CLI
+
+Cool projects that don't pertain to Gemini CLI specifically but do utilitize Gemini.
+
+- [Git-Alchemist](https://github.com/abduznik/Git-Alchemist) - A unified AI-powered CLI tool for automating GitHub repository management (issues, PRs, topics, profiles) powered by Gemini 3 and Gemma 3.
+
 ## Contributing
 
 Contributions are highly valued!  See [https://github.com/Piebald-AI/awesome-gemini-cli/blob/master/CONTRIBUTING.md](https://github.com/Piebald-AI/awesome-gemini-cli/blob/master/CONTRIBUTING.md).

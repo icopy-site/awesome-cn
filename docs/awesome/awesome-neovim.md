@@ -100,6 +100,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [yarospace/dev-tools.nvim](https://github.com/yarospace/dev-tools.nvim) - In-process LSP server for custom code actions, enhanced actions picker, community actions library and a convenient interface to create your own actions.
 - [SunnyTamang/neodoc.nvim](https://github.com/SunnyTamang/neodoc.nvim) - DocString generator that helps writing function/classes docstrings in formats like `google`, `numpy`, `sphinx` with live preview.
 - [barreiroleo/ltex_extra.nvim](https://github.com/barreiroleo/ltex_extra.nvim) - LTeX LSP extension providing external file handling (rules and dictionaries).
+- [chojs23/ts-bridge](https://github.com/chojs23/ts-bridge) - TypeScript language server shim that bridges the built-in LSP client with `tsserver`.
 
 ### LSP Installer
 
@@ -1166,6 +1167,7 @@ then it is not supported:
 ## Motion
 
 - [HawkinsT/pathfinder.nvim](https://github.com/HawkinsT/pathfinder.nvim) - Enhances gf/gF/gx with look-ahead and smarter file, line/column number, and link resolution. Also provides visual targets for files/links, new motion commands, and link description retrieval.
+- [nolleh/warp.nvim](https://github.com/nolleh/warp.nvim) - Jump based on labels to file paths, URLs, and Markdown links from any buffer.
 - [tris203/precognition.nvim](https://github.com/tris203/precognition.nvim) - Precognition uses virtual text and gutter signs to show available motions.
 - [smoka7/hop.nvim](https://github.com/smoka7/hop.nvim) - Hop is an EasyMotion-like plugin allowing you to jump anywhere in a document with as few keystrokes as possible.
 - [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) - A Sneak-like plugin offering unparalleled navigation speed via ahead-of-time displayed labels, that eliminate the pause between entering the search pattern and selecting the target.
@@ -1457,6 +1459,7 @@ then it is not supported:
 
 ## Split and Window
 
+- [wsdjeg/tabman.nvim](https://github.com/wsdjeg/tabman.nvim) - Navigate between tabs and the windows they contain.
 - [~henriquehbr/ataraxis.lua](https://sr.ht/~henriquehbr/ataraxis.lua) - A zen mode for improving code readability.
 - [yorickpeterse/nvim-window](https://github.com/yorickpeterse/nvim-window) - Easily jump between windows.
 - [sindrets/winshift.nvim](https://github.com/sindrets/winshift.nvim) - Rearrange your windows with ease.
@@ -1507,6 +1510,7 @@ then it is not supported:
 
 - [p00f/cphelper.nvim](https://github.com/p00f/cphelper.nvim) - Helper for competitive programming written in Lua.
 - [xeluxee/competitest.nvim](https://github.com/xeluxee/competitest.nvim) - A plugin to automate testcases management and checking for Competitive Programming contests.
+- [barrettruth/cp.nvim](https://github.com/barrettruth/cp.nvim) - Competitive programming workflow for popular contest platforms (CodeForces, CSES, etc.) Includes automatic test scraping, I/O view, and diff panel.
 - [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim) - Solve Leetcode problems.
 - [2KAbhishek/exercism.nvim](https://github.com/2KAbhishek/exercism.nvim) - Browse and solve Exercism problems.
 <!--lint disable double-link -->
