@@ -1179,6 +1179,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-column-filter](https://github.com/kakarotx10/ngx-column-filter) - A powerful, reusable Angular column filter component with support for multiple field types, advanced filtering rules, and customizable match modes.
 * [Jspreadsheet CE](https://github.com/jspreadsheet/ce) - Open source JavaScript spreadsheet and data grid component, can be used in Angular apps when wrapped or consumed via Angular elements.
 * [TabularJS](https://github.com/jspreadsheet/tabularjs) - Lightweight JavaScript table and data grid library for advanced table features in Angular.
+* [uni-table](https://github.com/Unify-India/uni-table) - Angular data grid built on signals for zero‑lag performance, combining advanced server‑side features with a streamlined configuration API.
 
 ### Dates
 
@@ -1397,6 +1398,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-otp-code-input](https://github.com/Swaraj55/otp-input) - An Angular OTP input component with extensive customization options, including masking, numeric-only input, and autofocus.
 * [smart-date-input](https://github.com/ngxpert/smart-date-input) - A smart date input directive that uses the Writer API to parse natural language dates.
 * [color-picker](https://github.com/acrodata/color-picker) - Another beautiful color picker.
+* [ngx-pattern-lock](https://github.com/nicotole/ngx-pattern-lock) - A lightweight, fully responsive, and customizable Android-style pattern lock component for Angular.
 
 ### JSON Forms
 
@@ -1570,6 +1572,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-markdown](https://github.com/jfcere/ngx-markdown) - Angular library that combines Marked, Prism.js, Emoji-Toolkit, KaTeX, Mermaid and Clipboard.js.
 * [ngx-mdx](https://github.com/SalathielGenese/ngx-mdx) - Take Angular lifecycle to Markdown for a seamless experience.
 * [ngx-remark](https://github.com/ericleib/ngx-remark) - Render markdown with custom Angular templates.
+* [ngx-streamdown](https://github.com/dina-kar/ngx-streamdown) - Angular port of [Streamdown](https://streamdown.ai/), a streaming Markdown renderer optimized for AI‑driven applications.
 
 ### Media
 
