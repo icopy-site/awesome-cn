@@ -64,6 +64,7 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 ## Tools and Integrations
 
 - [Portal](https://backstage.spotify.com/docs/portal/) - A no-code IDP based on Backstage and maintained by Spotify.
+- [Portal MCP Servers](https://backstage.spotify.com/docs/portal/core-features-and-plugins/aika/mcp-servers) - Configure third-party MCP servers for AiKA in Portal.
 - [Backstage CLI](https://backstage.io/docs/local-dev/cli-overview)
 - [Docker](https://github.com/backstage/backstage/blob/master/contrib/docker/) - Run Backstage in Docker containers.
 - [Kubernetes](https://github.com/backstage/backstage/blob/master/contrib/kubernetes/) - Deploy Backstage on Kubernetes.
@@ -83,9 +84,13 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 - [Introduction to Backstage](https://www.youtube.com/watch?v=1XtJ5FAOjPk) - A video introduction to Backstage by Spotify.
 - [Creating a Plugin for Backstage](https://www.youtube.com/watch?v=lLLw3tcBwWw) - Learn how to create a plugin for Backstage.
 - [How Spotify Builds Infrastructure with Backstage](https://engineering.atspotify.com/2020/03/17/what-the-heck-is-backstage-anyway/) - A blog post by Spotify on their experience with Backstage.
-- [Backstage v1.46.3 Release Notes](https://github.com/backstage/backstage/releases/tag/v1.46.3) - Latest release with iterative backend system refinements and security patches.
+- [Backstage v1.47.0 Release Notes](https://backstage.io/docs/releases/v1.47.0/) - Latest release with platform updates, backend action filtering, and security fixes.
 - [Backstage Wrapped 2025: Celebrating a mature framework with modern foundations](https://backstage.io/blog/2025/12/30/backstage-wrapped-2025) - Annual retrospective on Backstage growth, platform maturity, and highlights.
 - [BackstageCon + KubeCon NA 2025 Highlights](https://backstage.io/blog/2025/11/25/backstagecon-kubecon-25-atlanta) - Recap of recent platform updates and community demos from Atlanta.
+- [Backstage Security Audit 2024](https://backstage.io/blog/2024/12/17/backstage-security-audit-2024/) - Independent security audit results, findings, and remediation summary.
+- [CVE-2024-26150 Security Notice](https://backstage.io/blog/2024/02/28/security-notice/) - Scaffolder path traversal fix and recommended upgrades.
+- [Actions Registry + MCP Integration (v1.40.0)](https://backstage.io/docs/releases/v1.40.0) - Actions Registry services and MCP server integration notes.
+- [MCP Actions Backend Plugin Docs](https://backstage.io/api/stable/modules/_backstage_plugin-mcp-actions-backend.html) - Expose Backstage actions as MCP tools for AI clients.
 - [RFCs on GitHub](https://github.com/backstage/backstage/labels/RFC) - Track active proposals and community feedback.
 
 ## Related Projects

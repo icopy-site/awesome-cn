@@ -546,6 +546,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [opentelemetry-angular-interceptor](https://github.com/jufab/opentelemetry-angular-interceptor) - A library to deploy [OpenTelemetry](https://opentelemetry.io/) in your Angular application.
 * [plausible](https://github.com/plausible/analytics) - Lightweight, open‑source, privacy‑friendly analytics with SPA support—see [SPA support](https://plausible.io/docs/spa-support).
 * [rybbit](https://github.com/rybbit-io/rybbit) - A privacy-friendly alternative to Google Analytics; see this [guide](https://www.rybbit.io/docs/guides/angular) for Angular integration.
+* [ngx-segment-community](https://github.com/behdi/ngx-segment-community) - The community-maintained successor to [ngx-segment-analytics](https://github.com/opendecide/ngx-segment-analytics).
 
 ### Code Analysis
 
@@ -1225,6 +1226,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-overflow-reveal](https://github.com/hosembafer/ngx-overflow-reveal) - An Angular directive that elegantly reveals truncated text on hover.
 * [ngx-repeat](https://github.com/Celtian/ngx-repeat) - Angular directive for repeating HTML element by count.
 * [ngx-responsive-if](https://github.com/bodnya29179/ngx-responsive-if) - An Angular structural directive for conditional rendering based on media queries.
+* [ngx-speech-button](https://github.com/JayChase/ngx-speech-button) - An Angular directive that provides an easy-to-use wrapper for the Web Speech API, enabling voice input functionality with minimal setup.
 * [ngxsmk-button-spinner](https://github.com/toozuuu/ngxsmk-button-spinner) - Angular 17+ directive to show a loading spinner inline or centered on any button.
 * [ngxture](https://github.com/gianpierreVelasquez/ngxture) - A lightweight and modular Angular library that provides ready-to-use animations and gesture directives.
 * [@maxime1jacquet/npm-directives](https://github.com/maxime1jacquet/npm-directives) - Angular Directives including [ngx-cursor](https://www.npmjs.com/package/ngx-cursor) and [ngx-simple-countdown](https://www.npmjs.com/package/ngx-simple-countdown).
@@ -1469,6 +1471,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-image-compression](https://github.com/ShreyashThorat-17/ngx-image-compression) - A lightweight image compression and conversion library for Angular.
 * [ngx-image-cropper](https://github.com/Mawi137/ngx-image-cropper) - An image cropper for Angular.
 * [ngx-image-hero](https://github.com/hm21/ngx-image-hero) - Hero animation package for smooth, clickable image zoom into immersive view.
+* [ngx-image-magnifier](https://github.com/SeriousSez/ngx-image-magnifier) - Angular image magnifier directive with keyboard modifier support, smart positioning, mobile optimization, and smooth GPU-accelerated animations.
 * [ngx-img-cropper](https://github.com/web-dave/ngx-img-cropper) - Image cropping tool for Angular.
 * [ngx-lightbox](https://github.com/jjmhalew/ngx-lightbox) - A [lightbox2](https://github.com/lokesh/lightbox2) implementation port to use with Angular >= 18 (zoneless).
 * [ngx-pinch-zoom](https://github.com/medDV-GmbH/ngx-pinch-zoom) - This module enables image zooming and positioning through touch screen gestures.
@@ -1774,6 +1777,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ar-virtual-scroll](https://github.com/artomenwork/ar-virtual-scroll) - Lightweight Angular virtual scroll with automatic dynamic height, ideal for chats, feeds, and variable lists.
 * [angular-infinity-scroller](https://github.com/Jayant061/angular-infinity-scroller) - A lightweight, high‑performance infinite‑scrolling directive built to work seamlessly with modern Angular and SSR setups.
 * [cerious-scroll](https://github.com/ceriousdevtech/cerious-scroll) - High-performance virtual scrolling for web applications.
+* [ngx-zoneless-scrollbar](https://github.com/Legalfina/ngx-zoneless-scrollbar) - A lightweight Angular scrollbar built for zoneless mode, using native scrolling with CSS styling.
 
 ### Storage
 
@@ -1866,6 +1870,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Magma](https://github.com/ikilote/Magma) - A broad set of components, services, pipes, directives, and utilities that support its ecosystem and are available for anyone to use or extend.
 * [ngx-aespartal-ui](https://github.com/Aespartal/ngx-aespartal-ui) - A professional, lightweight, and customizable Angular component library built with Atomic Design principles.
 * [JSuites](https://github.com/jsuites/jsuites) - Collection of UI components and utilities (forms, modals, inputs) that can be integrated into Angular with custom wrappers or directives.
+* [ngx-support-chat](https://github.com/avs2001/ngx-support-chat) - A pure presentational Angular component library for customer support chat interfaces.
 
 ### UI Libraries built on Bootstrap
 
