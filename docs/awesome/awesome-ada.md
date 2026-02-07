@@ -217,7 +217,7 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [bare-bones](https://github.com/Lucretia/bare_bones) - An Ada port of the [osdev.org](https://wiki.osdev.org/Ada_Bare_Bones) minimal 32-bit x86 kernel.
 - [lovelace-os](https://sourceforge.net/projects/lovelaceos/) - Lovelace is an effort to write a Unix like operating system using the Ada 2012 language.
 - [ada-kalinda-os](https://sourceforge.net/projects/sx-ada-kalinda/) - Ada KALINDA is a sort of Mac Plus like OS written in Ada95.
-- [cxos](https://github.com/ajxs/cxos) - Ada Operating System development example.
+- [Straylight](https://github.com/ajxs/straylight) - A simple monolithic RISC-V operating system developed in Ada.
 - [havk](https://github.com/RavSS/HAVK) - x86-64 security-focused OS being created with SPARK.
 - [cubit](https://github.com/docandrew/CuBit) - CuBitOS is a multi-processor, 64-bit, (partially) formally-verified, general-purpose operating system, currently for the x86-64 architecture.
 - [ironclad](https://ironclad-os.org/) - A kernel for several architectures striving for POSIX compatibility, used on several distributions like [Gloire](https://codeberg.org/Ironclad/Gloire).

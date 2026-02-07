@@ -18,7 +18,7 @@
 - [Authentik](https://github.com/goauthentik/authentik) - Open Source Identity Provider focused on flexibility and versatility.
 - [Authlete](https://www.authlete.com/) - Set of APIs for developers to implement OAuth authorization servers and OpenID Connect identity providers.
 - [AWS Cognito](https://aws.amazon.com/cognito/) - Cognito by Amazon Web Services has OpenID Connect provider in addition to IAM capabilities.
-- [Clerk](https://clerk.com/) - Authentication with user management capabilities and OpenID Connect provider capabilities.
+- [Clerk](https://clerk.com/) - Authentication with user management and OpenID Connect provider capabilities.
 - [Cloudentity](https://cloudentity.com/) - Cloud Identity and Authorization Platform with FAPI and eKYC support.
 - [Connect2id](https://connect2id.com/products/server) - OpenID Connect SSO and IdP server for enterprise.
 - [Curity Identity Server](https://curity.io/product/) - API Security solution that brings identity and API access management together.
