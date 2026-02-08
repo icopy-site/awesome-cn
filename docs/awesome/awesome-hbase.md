@@ -3,9 +3,9 @@
 
 [<img src="https://cdn.rawgit.com/rayokota/awesome-hbase/c197f415/hbase_logo_with_orca-2.png" align="right" width="150">](http://hbase.apache.org/)
 
-很棒的 HBase 项目和资源的精选列表.
+A curated list of awesome HBase projects and resources.
 
-[HBase](http://hbase.apache.org) 是一个分布式、可扩展的大数据存储.
+[HBase](http://hbase.apache.org) is a distributed, scalable, big data store.
 
 
 
@@ -15,138 +15,139 @@
 
 ### Clients
 
-* [asynchbase](https://github.com/OpenTSDB/asynchbase) - 完全异步、非阻塞的 HBase 客户端.
-* [gohbase](https://github.com/tsuna/gohbase) - HBase 的纯 Go 客户端.
-* [happybase](https://github.com/wbolster/happybase) - HBase 的 Python 客户端.
+* [asynchbase](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client.
+* [gohbase](https://github.com/tsuna/gohbase) - Pure Go client for HBase.
+* [happybase](https://github.com/wbolster/happybase) - Python client for HBase.
 
 
 ### Cloud
 
-* [Amazon EMR](https://aws.amazon.com/emr/) - 亚马逊在 AWS 上的 Hadoop/HBase 产品.
-* [Azure HDInsight](https://azure.microsoft.com/en-us/services/hdinsight/) - Microsoft 在 Azure 上的 Hadoop/HBase 产品.
-* [Cloudera Director](https://www.cloudera.com/products/product-components/cloudera-director.html) - 在 AWS、Azure 或谷歌云上运行 Hadoop/HBase 集群.
-* [Google Cloud Bigtable](https://cloud.google.com/bigtable/) - 可通过 HBase 客户端 API 访问的高性能 NoSQL 数据库服务.
-* [Hortonworks Cloudbreak](https://hortonworks.com/open-source/cloudbreak/) - 在 AWS、Azure、谷歌云或 OpenStack 上配置 Hadoop/HBase 集群.
+* [Amazon EMR](https://aws.amazon.com/emr/) - Amazon's Hadoop/HBase offering on AWS.
+* [Azure HDInsight](https://azure.microsoft.com/en-us/services/hdinsight/) - Microsoft's Hadoop/HBase offering on Azure.
+* [Cloudera Director](https://www.cloudera.com/products/product-components/cloudera-director.html) - Run Hadoop/HBase clusters on AWS, Azure or Google Cloud.
+* [Google Cloud Bigtable](https://cloud.google.com/bigtable/) - High-performance NoSQL database service accessible via HBase client API.
+* [Hortonworks Cloudbreak](https://hortonworks.com/open-source/cloudbreak/) - Provision Hadoop/HBase clusters on AWS, Azure, Google Cloud, or OpenStack.
 
 ### Frameworks
 
 #### Datasets
 
-* [Kite](http://kitesdk.org) - Hadoop/HBase 的高级数据层.
+* [Kite](http://kitesdk.org) - High-level data layer for Hadoop/HBase.
 
 #### Document
 
-* [HDocDB](https://github.com/rayokota/hdocdb) - HBase 作为 JSON 文档数据库.
+* [HDocDB](https://github.com/rayokota/hdocdb) - HBase as a JSON document database.
 
 #### Entity/JPA
 
-* [DataNucleus](http://www.datanucleus.org) - 支持 HBase 的 JPA 持久层.
-* [Gora](http://gora.apache.org) - 支持 HBase 的大数据持久性库.
-* [HBase ORM](https://github.com/flipkart-incubator/hbase-orm) - 生产级 HBase ORM 库.
-* [HEntityDB](https://github.com/rayokota/hentitydb) - HBase 作为实体数据库.
-* [Kundera](https://github.com/impetus-opensource/Kundera) - 支持 HBase 的 JPA 客户端.
+* [DataNucleus](http://www.datanucleus.org) - JPA persistence layer with support for HBase.
+* [Gora](http://gora.apache.org) - Persistence library for big data with support for HBase.
+* [HBase ORM](https://github.com/flipkart-incubator/hbase-orm) - A production-grade HBase ORM library.
+* [HEntityDB](https://github.com/rayokota/hentitydb) - HBase as an entity database.
+* [Kundera](https://github.com/impetus-opensource/Kundera) - JPA client with support for HBase.
 
 #### Geospatial
 
-* [GeoMesa](http://www.geomesa.org/) - 支持 Accumulo、HBase、Cassandra 和 Kafka 的时空数据库.
+* [GeoMesa](http://www.geomesa.org/) - Spatial-temporal database with support for Accumulo, HBase, Cassandra, and Kafka.
 
 #### Graph
-* [Gradoop](https://github.com/dbs-leipzig/gradoop) - 基于 Flink 和 HBase 构建的可扩展图形分析研究框架.
-* [HGraphDB](https://github.com/rayokota/hgraphdb) - HBase 作为 TinkerPop 图形数据库.
-* [HugeGraph](https://github.com/apache/incubator-hugegraph) - 支持超过10+亿条数据、高性能和可扩展性的图数据库.
-* [JanusGraph](http://janusgraph.org/) - 支持 Cassandra、HBase、Google Cloud Bigtable 和 BerkeleyDB 的可扩展图形数据库.
-* [NebulaGraph](https://github.com/vesoft-inc/nebula) - 高性能分布式图形数据库.
-* [S2Graph](http://s2graph.incubator.apache.org) - 基于HBase构建的高性能分布式图数据库.
+* [Gradoop](https://github.com/dbs-leipzig/gradoop) - Research framework for scalable graph analytics built on Flink and HBase.
+* [HGraphDB](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop graph database.
+* [HugeGraph](https://github.com/apache/incubator-hugegraph) - A graph database that supports more than 10+ billion data, high performance and scalability.
+* [JanusGraph](http://janusgraph.org/) - Scalable graph database with support for Cassandra, HBase, Google Cloud Bigtable, and BerkeleyDB.
+* [NebulaGraph](https://github.com/vesoft-inc/nebula) - A high performance distributed Graph database.
+* [S2Graph](http://s2graph.incubator.apache.org) - High-performance distributed graph database built on HBase.
+* [Actionbase](https://github.com/kakao/actionbase) - A database for user interactions (likes, views, follows) represented as graphs, with precomputed reads served in real-time.
 
 #### SQL/OLAP
 
-* [AntsDB](http://antsdb.com/) - AntsDB 是用于 HBase 的低延迟、高并发、符合 MySQL 的 SQL 层.
-* [EsgynDB](https://esgyn.com/) - 基于 Trafodian，在 Hadoop 之上提供 ACID 事务和 BI 分析的商业 SQL 引擎.
-* [Kylin](http://kylin.apache.org) - 用于将数据存储在 HBase 中的大数据的 Extreme OLAP 引擎.
-* [LeanXScale](http://www.leanxcale.com) - 基于 Hadoop/HBase 构建的商业完整 ACID 完整 SQL 产品.
-* [Phoenix](https://phoenix.apache.org) - HBase 之上的 SQL 层.
-* [Splice Machine](https://www.splicemachine.com) - 建立在 HBase 之上的商业 RDBMS.
-* [Trafodian](http://trafodion.apache.org) - 事务性 SQL-on-Hadoop/HBase.
+* [AntsDB](http://antsdb.com/) - AntsDB is a low latency, high concurrency, MySQL compliant SQL layer for HBase.
+* [EsgynDB](https://esgyn.com/) - Commercial SQL engine providing ACID transactions and BI analytics on top of Hadoop, based on Trafodian.
+* [Kylin](http://kylin.apache.org) - Extreme OLAP engine for big data that stores data in HBase.
+* [LeanXScale](http://www.leanxcale.com) - Commercial full ACID full SQL product built on Hadoop/HBase.
+* [Phoenix](https://phoenix.apache.org) - SQL layer on top of HBase.
+* [Splice Machine](https://www.splicemachine.com) - Commercial RDBMS built on top of HBase.
+* [Trafodian](http://trafodion.apache.org) - Transactional SQL-on-Hadoop/HBase.
 
 #### Time Series
 
-* [Axibase](http://axibase.com/products/axibase-time-series-database/) - 基于HBase构建的分布式时序数据库.
-* [OpenTSDB](http://opentsdb.net) - 基于 HBase 构建的可扩展时间序列数据库.
-* [Warp 10](http://www.warp10.io) - 传感器数据的时间序列数据库.
+* [Axibase](http://axibase.com/products/axibase-time-series-database/) - Distributed time series database built on HBase.
+* [OpenTSDB](http://opentsdb.net) - Scalable time series database built on HBase.
+* [Warp 10](http://www.warp10.io) - Time series database for sensor data.
 
 ### Infrastructure
 
 #### Secondary Indices
 
-* [hindex](https://github.com/Huawei-Hadoop/hindex) - HBase 的二级索引.
+* [hindex](https://github.com/Huawei-Hadoop/hindex) - Secondary index for HBase.
 
 #### Transactions
 
-* [Haeinsa](https://github.com/VCNC/haeinsa) - HBase 的多行/多表事务库.
-* [HBase-QoD](https://github.com/algarecu/hbase-0.94.8-qod) - HBase 细粒度事务 DC 间复制的向量场一致性.
-* [Omid](https://github.com/apache/incubator-omid) - 对 HBase 的事务支持.
-* [Tephra](http://tephra.incubator.apache.org) - HBase 之上的全局一致事务.
-* [Themis](https://github.com/XiaoMi/themis) - 基于 Google 的 Percolator 的 HBase 跨行/跨表事务.
+* [Haeinsa](https://github.com/VCNC/haeinsa) - Multi-row/multi-table transaction library for HBase.
+* [HBase-QoD](https://github.com/algarecu/hbase-0.94.8-qod) - Vector-field consistency for HBase fine-grained transactional inter-DC replication.
+* [Omid](https://github.com/apache/incubator-omid) - Transactional support for HBase.
+* [Tephra](http://tephra.incubator.apache.org) - Globally consistent transactions on top of HBase.
+* [Themis](https://github.com/XiaoMi/themis) - Cross-row/cross-table transactions on HBase based on Google's Percolator.
 
 ### Integrations
 
-* [Apex](https://github.com/apache/apex-malhar/tree/master/contrib/src/test/java/org/apache/apex/malhar/contrib/hbase) - Apex-HBase 连接器.
-* [Beam](https://github.com/apache/beam/tree/master/sdks/java/io/hbase) - 光束 HBase 集成.
-* [Camel](http://camel.apache.org/hbase.html) - 骆驼 HBase 组件.
-* [Cascading](https://github.com/Cascading/cascading.hbase) - 用于级联的 HBase 适配器.
-* [Cascalog](https://github.com/sorenmacbeth/hbase-cascalog) - Cascading.HBase 的包装器，用于 Cascalog.
-* [Crunch](https://github.com/apache/crunch/tree/master/crunch-hbase) - 用于 Crunch 的 HBase 适配器.
-* [Drill](https://drill.apache.org/docs/querying-hbase/) - 用于 Drill 的 HBase 存储插件.
-* [Elasticsearch](https://github.com/mallocator/Elasticsearch-HBase-River) - 用于 HBase 的 Elasticsearch 导入河.
-* [Flink](https://github.com/apache/flink/tree/master/flink-connectors/flink-connector-hbase-2.2) - Flink-HBase 连接器.
-* [Gearpump](https://github.com/apache/incubator-gearpump/tree/master/external/hbase) - HBase 的齿轮泵集成.
-* [Giraph](https://github.com/apache/giraph/tree/trunk/giraph-hbase) - HBase 的 Giraph 输入和输出格式.
-* [HAWQ](https://hawq.apache.org/docs/userguide/2.3.0.0-incubating/pxf/HBasePXF.html) - HBase 上的 HAWQ PXF 外部表.
-* [Hive](https://cwiki.apache.org/confluence/display/Hive/HBaseIntegration) - 蜂巢 HBase 集成.
-* [Impala](https://www.cloudera.com/documentation/enterprise/latest/topics/impala_hbase.html) - Impala 支持查询 HBase 表.
-* [Kafka](https://github.com/apache/hbase-connectors/tree/master/kafka) - HBase 卡夫卡代理.
-* [Pig](https://github.com/apache/pig/tree/trunk/src/org/apache/pig/backend/hadoop/hbase) - 猪 HBase 集成.
-* [Presto](https://github.com/analysys/presto-hbase-connector) - Presto-HBase 连接器.
-* [Pulsar](http://pulsar.apache.org/docs/en/io-hbase/) - Pulsar 的 HBase 连接器.
-* [Ranger](https://cwiki.apache.org/confluence/display/RANGER/HBase+Plugin) - Apache Ranger 的 HBase 插件.
-* [Spark](https://github.com/hortonworks-spark/shc) - 火花 HBase 连接器.
-* [Spring for Apache Hadoop](https://projects.spring.io/spring-hadoop/) - Spring-Hadoop 集成，包括 HBase 支持.
-* [Storm](https://github.com/apache/storm/tree/master/external/storm-hbase) - HBase 的 Storm/Trident 集成.
-* [Tajo](https://tajo.apache.org/docs/current/hbase_integration.html) - Tajo 与 HBase 的集成.
-* [Zeppelin](https://zeppelin.apache.org/docs/0.6.2/interpreter/hbase.html) - Apache Zeppelin 的 HBase shell 解释器.
+* [Apex](https://github.com/apache/apex-malhar/tree/master/contrib/src/test/java/org/apache/apex/malhar/contrib/hbase) - Apex-HBase connector.
+* [Beam](https://github.com/apache/beam/tree/master/sdks/java/io/hbase) - Beam HBase integration.
+* [Camel](http://camel.apache.org/hbase.html) - Camel HBase component.
+* [Cascading](https://github.com/Cascading/cascading.hbase) - HBase adapters for Cascading.
+* [Cascalog](https://github.com/sorenmacbeth/hbase-cascalog) - Wrapper around Cascading.HBase for use in Cascalog.
+* [Crunch](https://github.com/apache/crunch/tree/master/crunch-hbase) - HBase adapters for Crunch.
+* [Drill](https://drill.apache.org/docs/querying-hbase/) - HBase storage plugin for Drill.
+* [Elasticsearch](https://github.com/mallocator/Elasticsearch-HBase-River) - Elasticsearch import river for HBase.
+* [Flink](https://github.com/apache/flink/tree/master/flink-connectors/flink-connector-hbase-2.2) - Flink-HBase connector.
+* [Gearpump](https://github.com/apache/incubator-gearpump/tree/master/external/hbase) - Gearpump integration for HBase.
+* [Giraph](https://github.com/apache/giraph/tree/trunk/giraph-hbase) - Giraph input and output formats for HBase.
+* [HAWQ](https://hawq.apache.org/docs/userguide/2.3.0.0-incubating/pxf/HBasePXF.html) - HAWQ PXF external tables on HBase.
+* [Hive](https://cwiki.apache.org/confluence/display/Hive/HBaseIntegration) - Hive HBase integration.
+* [Impala](https://www.cloudera.com/documentation/enterprise/latest/topics/impala_hbase.html) - Impala support for querying HBase tables.
+* [Kafka](https://github.com/apache/hbase-connectors/tree/master/kafka) - HBase Kafka proxy.
+* [Pig](https://github.com/apache/pig/tree/trunk/src/org/apache/pig/backend/hadoop/hbase) - Pig HBase integration.
+* [Presto](https://github.com/analysys/presto-hbase-connector) - Presto-HBase connector.
+* [Pulsar](http://pulsar.apache.org/docs/en/io-hbase/) - HBase connector for Pulsar.
+* [Ranger](https://cwiki.apache.org/confluence/display/RANGER/HBase+Plugin) - HBase plugin for Apache Ranger.
+* [Spark](https://github.com/hortonworks-spark/shc) - Spark-HBase connector.
+* [Spring for Apache Hadoop](https://projects.spring.io/spring-hadoop/) - Spring-Hadoop integration, including HBase support.
+* [Storm](https://github.com/apache/storm/tree/master/external/storm-hbase) - Storm/Trident integration for HBase.
+* [Tajo](https://tajo.apache.org/docs/current/hbase_integration.html) - Tajo integration with HBase.
+* [Zeppelin](https://zeppelin.apache.org/docs/0.6.2/interpreter/hbase.html) - HBase shell interpreter for Apache Zeppelin.
 
 ### Tools
 
-* [Ambari](https://ambari.apache.org) - 用于配置、管理和监控 Hadoop/HBase 集群的软件.
-* [Cloudera Manager](https://www.cloudera.com/products/product-components/cloudera-manager.html) - 用于在生产中管理 Hadoop/HBase 的工具.
-* [DbSchema](http://www.dbschema.com/index.html) - 面向图表的数据库设计器，支持 HBase.
-* [Hannibal](https://github.com/sentric/hannibal) - 监控和维护 HBase 集群的工具.
-* [h-rider](https://github.com/NiceSystems/hrider) - 用于在 HBase 中查看和操作数据的 GUI.
-* [Hue](http://gethue.com) - 包含 HBase 浏览器的智能分析工作台.
-* [Sematext SPM](http://sematext.com/spm) - 工具 [monitoring HBase](http://sematext.com/spm/integrations/hbase-monitoring), HDFS 等
+* [Ambari](https://ambari.apache.org) - Software for provisioning, managing, and monitor Hadoop/HBase clusters.
+* [Cloudera Manager](https://www.cloudera.com/products/product-components/cloudera-manager.html) - Tool for managing Hadoop/HBase in production.
+* [DbSchema](http://www.dbschema.com/index.html) - Diagram-oriented database designer with support for HBase.
+* [Hannibal](https://github.com/sentric/hannibal) - Tool to monitor and maintain HBase clusters.
+* [h-rider](https://github.com/NiceSystems/hrider) - GUI for viewing and manipulating data in HBase.
+* [Hue](http://gethue.com) - Smart analytics workbench that includes an HBase browser.
+* [Sematext SPM](http://sematext.com/spm) - Tool for [monitoring HBase](http://sematext.com/spm/integrations/hbase-monitoring), HDFS, etc.
 
 ### Miscellaneous
 
-* [HubSpot HBase support](https://github.com/HubSpot/hbase-support) - HubSpot 的 HBase 配置和工具，包括 Hystrix 集成和协处理器.
+* [HubSpot HBase support](https://github.com/HubSpot/hbase-support) - Configs and tools for HBase at HubSpot, including Hystrix integration and coprocessors.
 
 ## Resources
 
 ### Books
 
-* [HBase in Action](https://www.manning.com/books/hbase-in-action) - 以体验为导向的指南，向您展示如何使用 HBase.
-* [HBase: The Definitive Guide](http://shop.oreilly.com/product/0636920014348.do) - HBase 综合指南.
-* [Architecting HBase Applications](http://shop.oreilly.com/product/0636920035688.do) - 包括 HBase 原则、集群指南和深入的案例研究.
-* [HBase Administration Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/hbase-administration-cookbook) - 如何掌握 HBase 配置和管理.
-* [HBase Essentials](https://www.packtpub.com/big-data-and-business-intelligence/hbase-essentials) - 使用 HBase 的实用指南.
-* [HBase Design Patterns](https://www.packtpub.com/big-data-and-business-intelligence/hbase-design-patterns) - 使用 HBase 开发可扩展应用程序的成功模式.
-* [Learning HBase](https://www.packtpub.com/big-data-and-business-intelligence/learning-hbase) - 学习 HBase 管理和开发的基础知识.
-* [HBase High Performance Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/hbase-high-performance-cookbook) - 教您如何使用 HBase 的激动人心的项目.
-* [Apache HBase Primer](http://www.apress.com/us/book/9781484224236) - HBase 基础知识的紧凑指南.
-* [Pro Apache Phoenix](http://www.apress.com/us/book/9781484223697) - 使用 Phoenix 的基本和最佳实践.
+* [HBase in Action](https://www.manning.com/books/hbase-in-action) - Experience-driven guide that shows you how to use HBase.
+* [HBase: The Definitive Guide](http://shop.oreilly.com/product/0636920014348.do) - Comprehensive guide to HBase.
+* [Architecting HBase Applications](http://shop.oreilly.com/product/0636920035688.do) - Includes HBase principles, cluster guidelines, and in-depth case studies.
+* [HBase Administration Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/hbase-administration-cookbook) - How to master HBase configuration and administration.
+* [HBase Essentials](https://www.packtpub.com/big-data-and-business-intelligence/hbase-essentials) - A practical guide to using HBase.
+* [HBase Design Patterns](https://www.packtpub.com/big-data-and-business-intelligence/hbase-design-patterns) - Successful patterns to develop scalable applications with HBase.
+* [Learning HBase](https://www.packtpub.com/big-data-and-business-intelligence/learning-hbase) - Learn the fundamentals of HBase administration and development.
+* [HBase High Performance Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/hbase-high-performance-cookbook) - Exciting projects that teach you how to use HBase.
+* [Apache HBase Primer](http://www.apress.com/us/book/9781484224236) - A compact guide to HBase essentials.
+* [Pro Apache Phoenix](http://www.apress.com/us/book/9781484223697) - Basic and best practices for using Phoenix.
 
 ### Papers
 
-* [Apache Hadoop Goes Realtime at Facebook](https://pdfs.semanticscholar.org/865a/215390cd49af9e4941e03107120e631dcaa0.pdf) - Facebook 如何将 HBase 部署到生产环境中.
+* [Apache Hadoop Goes Realtime at Facebook](https://pdfs.semanticscholar.org/865a/215390cd49af9e4941e03107120e631dcaa0.pdf) - How Facebook deployed HBase to production.
 
 ### Community
 
@@ -161,5 +162,5 @@
 <p xmlns:dct="http://purl.org/dc/terms/">
 <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/publicdomain.svg"
-     样式 =“边框样式：无；”  alt=&quot;公共领域标记&quot; /&gt;
+     style="border-style: none;" alt="Public Domain Mark" />
 </a>

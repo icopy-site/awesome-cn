@@ -317,7 +317,6 @@ Methodologies, processes, and best practices for building and shipping products 
 
 Strategic thinking, roadmapping, prioritization, and long-term product planning approaches.
 
-- [Guide to building a product roadmap](https://hellonext.co/blog/how-to-build-great-product-roadmap) - By Hellonext, Inc.
 - [12 Things about Product-Market Fit](https://web.archive.org/web/20180629011058/https://a16z.com/2017/02/18/12-things-about-product-market-fit/) - By [Tren Griffin](https://www.linkedin.com/in/tren-griffin-50582725/).
 - [Understanding How The Innovator's Dilemma Affects You](https://bothsidesofthetable.com/understanding-how-the-innovator-s-dilemma-affects-you-75563219a58d) - By [Mark Suster](https://www.linkedin.com/in/marksuster/).
 - [OKRs and Product Roadmaps](https://www.romanpichler.com/blog/okrs-and-product-roadmaps/) - By [Roman Pichler](https://www.romanpichler.com/).
@@ -372,7 +371,6 @@ Working effectively with cross-functional teams, leadership, and communication s
 - [The Dos and Don'ts of Mentoring in Product](https://www.mindtheproduct.com/the-dos-and-donts-of-mentoring-in-product/) - By [Eira Hayward](https://www.mindtheproduct.com/profile/eira-hayward/).
 - [Rickover's Lessons](https://www.chinatalk.media/p/rickovers-lessons-how-to-build-a) - By [Lily Ottinger](https://substack.com/@voidpoliticstaiwan) and [Charles Yang](https://substack.com/@charlesyang).
 - [What is Good Product Strategy?](https://melissaperri.com/blog/2016/07/14/what-is-good-product-strategy) - By [Melissa Perri](https://melissaperri.com/).
-- [How to think strategically in your job](https://lesley.pizza/think-strategically-at-work/) - By [Lesley](https://lesley.pizza/about/).
 - [Fell in a hole, got out](https://medium.com/the-coach-life/fell-in-a-hole-got-out-381356ec8d7f) - By [Tony Stubblebine](https://medium.com/@coachtony).
 
 ### Product Metrics & Analytics
@@ -396,12 +394,9 @@ Professional growth, skill development, and career advancement in product manage
 - [The dark side of expertise](https://lwn.net/Articles/809556/) - By Jake Edge.
 - [So You Wanted to be a Product Manager](https://stackoverflow.blog/2020/01/09/humor-so-you-wanted-to-be-a-product-manager/) - By [Scott C. Reynolds](https://stackoverflow.blog/author/sreynolds/).
 - [Breaking into Product Management — Should you even consider it?](https://medium.com/@sshubhi/breaking-into-product-management-a-guide-c6fa3bc59449) - By [Shubhi Saxena](https://medium.com/@sshubhi).
-- [Getting to the Product Manager interview stage](https://glenngillen.com/getting-the-pm-interview/) - By Glenn Gillen.
 - [Is It Possible to Work Remotely as a Product Manager?](https://productschool.com/blog/job-search-advice/remote-product-manager) - By [Roy Cobby](https://www.linkedin.com/in/roycobby/).
-- [Why Product Operations is the Next Iteration in Product Management](https://productcraft.com/perspectives/why-product-operations-is-the-next-iteration-in-product-management/) - By [Christine Itwaru](https://productschool.com/product-leaders/christine-itwaru).
 - [It's Time to Fight for a Dual Product Management Career Path](https://www.bringthedonuts.com/essays/dual-product-management-career-path/) - By [Ken Norton](https://www.bringthedonuts.com/).
 - [Great PM Interview Answers Include Tradeoffs. Here's How.](https://www.tryexponent.com/blog/the-key-to-a-successful-pm-interview-answer-tradeoffs) - By [Sushanth Raman](https://www.linkedin.com/in/sushanth-raman/).
-- [Product Management Job Hunt: How to get an Interview and Nail it](https://mtp2017.wpenginepowered.com/product-management-job-hunt-how-to-get-an-interview-and-nail-it/) - By [Kostas Sirvydis](https://mtp2017.wpenginepowered.com/profile/KostasSirvydis203).
 - [A Pyramid-shaped Career](https://jackdanger.com/pyramid-shaped-career/) - By [Jack Danger](https://jackdanger.com/about/).
 - [Career advice in 2025](https://lethain.com/career-advice-2025/) - By [Will Larson](https://lethain.com/about/).
 - [How to be more agentic](https://usefulfictions.substack.com/p/how-to-be-more-agentic) - By [Cate Hall](https://substack.com/@usefulfictions).
