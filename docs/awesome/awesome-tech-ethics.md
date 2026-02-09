@@ -46,10 +46,9 @@ Reducing the potential negative effects of technology on society.
 
 ## Company-specific
 
-- [Amazonians: We Won't Build It](https://twitter.com/WeWontBuildIt) - "Amazon workers calling for accountability and transparency in the tech we build."
-- [Googlers for Human Rights](https://twitter.com/EthicalGooglers)
-- [@githubbers](https://twitter.com/githubbers/) - GitHub workers, demanding that GitHub management cancel the ICE contract.
-- [Microsoft Workers 4 Good](https://twitter.com/MsWorkers4) - "Our mission is to empower every worker to hold Microsoft accountable to their stated values".
+- [Amazon Employees for Climate Justice](https://www.amazonclimatejustice.org) - Amazon employees applying pressure on Amazon to redefine what it means to be a responsible company in the era of the climate crisis.
+- [No Tech For Apartheid](https://www.notechforapartheid.com) - a worker-led campaign of Google and Amazon workers organizing against the companies' $1B Project Nimbus cloud computing contract with the Israeli government and military (see also [No Azure for Apartheid](https://noazureforapartheid.com)).
+- [No Tech for ICE](https://notechforice.com) - fighting against the tech corporations fueling ICE disappearances, raids and the growing surveillance state.
 
 ## See also
 

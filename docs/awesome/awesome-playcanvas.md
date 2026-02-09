@@ -111,6 +111,7 @@
 - [Continental Marble Adventure](https://portfolio.redox-interactive.com/en/projects/continental-marble-adventure) - Marble game for Continental's 150 year anniversary.
 - [Conundrum](https://conundrum.fun) - A word game where you solve anagrams. Fast!
 - [Curve Ball 3D](https://play.famobi.com/curve-ball-3d) - 3D pong game.
+- [DeadRise.io](https://poki.com/en/g/deadrise-io) - Fast-paced zombie shooting chaos in your browser.
 - [Disney's Hour of Code - Moana](http://partners.disney.com/hour-of-code) - Learn programming fundamentals with Disney's Moana.
 - [Euro Penalty Cup 2021](https://play.famobi.com/euro-penalty-cup-2021) - Try to hit the goal and outsmart the goalkeeper.
 - [Fishing League](https://poki.com/en/g/fishing-league) - Climb the ranks and become the ultimate angler.

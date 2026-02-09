@@ -131,7 +131,6 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 - [STOI](https://stoi.org/) - Song ownership gone decentralized via microDAOs.
 - [AlgoTables](https://algotables.github.io/) - A suite of tools designed to aid everyday hodlers of ALGO who participate in the Algorand ecosystem.
 - [AlgoPing](https://github.com/aorumbayev/algoping) - A tiny cron job that issues a [tweet](https://twitter.com/algoping) if public Algorand Nodes (AlgoExplorer, AlgoNode and etc) are not healthy.
-- [directorydotalgo](https://directorydotalgo.xyz/) - Algorand's unofficial ecosystem directory of projects.
 - [staketaxcsv](https://github.com/hodgerpodger/staketaxcsv) - Python backend for [stake.tax](https://stake.tax) that generates taxable transactions CSVs for Algorand and other Blockchains.
 - [Automated Prediction Market Maker on Algorand](https://github.com/dspytdao/Algo_AMM) - backend repository with project hosted at [algoAMM.com](https://algoamm.com).
 - [AlgoDepo](https://github.com/dspytdao/AlgoDepo) - Single Deposit App Algorand.
@@ -315,11 +314,9 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 > List of Blockchain explorers for Algorand. Used to view transactions, accounts, assets, etc.
 
 - [Allo](https://allo.info) - Unified Algorand explorer covering all networks by Nodely.
-- [NFTExplorer](https://www.nftexplorer.app/) - Algorand Standard Asset (ASA) explorer built by [@TomassoAE](https://twitter.com/TommasoAE) and [JoshLmao](https://twitter.com/JoshLmao).
 - [Pera Explorer](https://explorer.perawallet.app/) - Algorand Accounts, Standard Asset (ASA) explorer built by [Pera Wallet](https://perawallet.app/)
 - [Algorand Ballet](https://akaalias.github.io/algorand-ballet/) - Algorand accounts' 2D graphs.
 - [Algorand Multiverse](https://algo3d.live/) - Algorand accounts' 3D graphs.
-- [Asalytic](https://www.asalytic.app/) - Analyze the Algorand NFT space.
 - [AlgoSurf](https://algo.surf/) - Algorand Network Explorer (supports LocalNet in `localhost`).
 
 
@@ -356,8 +353,6 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 > This provides a list of bridges that allow for cross-chain transfers of assets between Algorand and other Blockchains.
 
 - [Algomint](https://algomint.io/) - Centralized BTC and ETH bridge to Algorand.
-- [XP.network](https://bridge.xp.network/) - Centralized cross-chain NFT bridge.
-- [ptokens](https://dapp.ptokens.io/swap?asset=btc&from=btc&to=algorand) - pNetwork Officially Launched Cross-Chain Bridges for Algorand.
 - [Messina](https://messina.one/) - The ALGO — ETH two-way Messina.one's Bridge will open the doors for interoperability between Ethereum and ERC-20 tokens with Algorand.
 
 
@@ -406,6 +401,10 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 - [algorand-mcp](https://github.com/GoPlausible/algorand-mcp) - Algorand Model Context Protocol (Server & Client) by GoPlausible.
 - [algorand-remote-mcp](https://github.com/GoPlausible/algorand-remote-mcp) - Algorand remote SSE MCP Server Cloudflare Worker.
 - [arcontextify](https://github.com/aorumbayev/arcontextify) - Algorand ARC-56 to MCP server converter.
+- [VibeKit](https://github.com/gabrielkuettel/vibekit) - CLI + MCP server that gives AI coding assistants the skills and tools to build on Algorand.
+- [AlgoChat](https://github.com/CorvidLabs/ts-algochat) - Encrypted on-chain messaging protocol for Algorand, enabling AI agent-to-agent communication via transaction notes.
+- [CorvidAgent](https://github.com/CorvidLabs/corvid-agent) - AI agent orchestration platform with on-chain messaging, persistent memory, and autonomous scheduling via Algorand.
+- [algorand-agent-skills](https://github.com/algorand-devrel/algorand-agent-skills) - Canonical collection of Agent Skills for AI-assisted development on Algorand by Algorand DevRel.
 
 
 ## Application Platforms & Examples
@@ -433,8 +432,6 @@ Algorand is an open-source, proof of stake Blockchain and smart contract computi
 - [Rand Gallery](https://www.randgallery.com/) - Algorand Standard Asset (ASA) explorer and marketplace developed by [Chris Antaki](https://github.com/ChrisAntaki).
 - [AlgoGems](https://algogems.io/) - Algorand Standard Asset (ASA) markeplace and trading platform for NFT collectors.
 - [AlgoMart](https://github.com/deptagency/algomart) - Opensource NFT marketplace whitelabel solution.
-- [Alchemon](https://alchemon.net/) - Monster-collecting NFT card game.
-- [Musa](https://www.musanft.io/) - Music, Art & Fashion NFT gallery and marketplace.
 - [Flatter](https://www.flatternft.com/) - NFT art and collectible marketplace.
 
 ### Prediction Markets
