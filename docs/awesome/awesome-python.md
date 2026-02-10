@@ -10,7 +10,7 @@
 </div>
 <br>
 
-## Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Python
 
 An opinionated list of awesome Python frameworks, libraries, software and resources.
 
@@ -886,6 +886,7 @@ _Shells built with Python._
 _Libraries for parsing and manipulating specific text formats._
 
 - General
+  - [kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - High-performance document extraction library with a Rust core, supporting 62+ formats including PDF, Office, images with OCR, HTML, email, and archives.
   - [tablib](https://github.com/jazzband/tablib) - A module for Tabular Datasets in XLS, CSV, JSON, YAML.
 - Office
   - [docxtpl](https://github.com/elapouya/python-docx-template) - Editing a docx document by jinja2 template

@@ -45,7 +45,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/Mo-
 - [Networked Audio Products](https://rhconsulting.uk/blog/) - A census of AoIP products, conducted every year (current: [2025](https://rhconsulting.uk/blog/networked-audio-products-2025/)).
 - [Dante Certification](https://www.getdante.com/resources/training/dante-certification-program/) - Understanding Dante helps to understand AoIP. The training requires an account. I recommend lv 1 and lv 2.
 - [Ravenna Resources](https://www.ravenna-network.com/resources/) - Webinars and slides by Andreas Hildebrand about Ravenna, AES67, SMPTE 2110, PTP and IPMX.
-- [Connecting Dante with AES67](https://download.yamaha.com/files/tcm:39-868466/) - Setting up AES67 from a Dante device isn't very straight forward, here's a guide from Yamaha as an example.
+- [Connecting Dante with AES67](https://download.yamaha.com/files/tcm:39-868466/) - Setting up AES67 to and from a Dante devices. This guide by Yamaha contains intricacies missing in Audinate docs.
 
 ## Standards
 

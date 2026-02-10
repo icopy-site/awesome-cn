@@ -347,6 +347,8 @@ JSON tools:
 * [cl-jwk](https://github.com/dnaeon/cl-jwk) -  Common Lisp system for decoding public JSON Web Keys (JWK). BSD License.
 * [JOSE](https://github.com/fukamachi/jose) - A JSON Object Signing and Encryption (JOSE) implementation for Common Lisp. BSD_2Clause.
 * [cl-jsonpath](https://git.sr.ht/~hajovonta/cl-jsonpath) - A JSONPath implementation for Common Lisp with 99% test compliance and complete real-world compatibility. MIT. With AI inside.
+* [cl-json-utils](https://git.sr.ht/~q3cpma/cl-json-utils) - querying JSON, inspired by JSONPath by lisp-ier.
+  * jsonpath: `$.store.book[*].author`, json-utils: `(query $ "store" "book" :wild "author")`
 
 JSON online services:
 
@@ -375,8 +377,10 @@ XML
 
 To read Excel files:
 
-* [lisp-xl](https://github.com/defunkydrummer/lisp-xl) -  Common Lisp Microsoft XLSX (Microsoft Excel) loader for arbitrarily-sized / big-size files. MIT.
-* [xlsx](https://gitlab.common-lisp.net/cungil/xlsx) - a basic reader for Excel files.
+* [cl-excel](https://github.com/gwangjinkim/cl-excel) - a modern and powerful Common Lisp library for reading and writing Microsoft Excel .xlsx and LibreOffice .ods files. MIT.
+  * "allow developers to handle complex spreadsheets with minimal code while maintaining memory efficiency for large datasets."
+  * full writing support.
+  * robust format detection.
 
 YAML
 ----
@@ -569,6 +573,7 @@ Game Development
 * [raylib](https://github.com/fosskers/raylib/) (2025) - Hand-written bindings to Raylib for improved performance and smaller dependency footprint. [MPL-2.0][211].
 * [trivial-gamekit](https://github.com/borodust/trivial-gamekit) – With this small framework you would be able to make simple 2D games: draw basic geometric forms, images and text, play sounds and listen to mouse and keyboard input. [MIT][200].
 * [Xelf](https://gitlab.com/dto/xelf/) - Extensible game library. Not available on Quicklisp. [GNU LGPL2.1][11].
+* [eon](https://github.com/bohonghuang/eon) -  An easy-to-use but flexible game framework based on Raylib for Common Lisp. Apache2.0.
 
 Utilities:
 
@@ -613,7 +618,7 @@ These are bindings:
 * [CLinch](https://github.com/BradWBeer/CLinch) - Common Lisp 2D/3D graphics engine for OpenGL. [FreeBSD][39].
 * [donuts](https://github.com/tkych/donuts) - Graphviz interface for Common Lisp. [Expat][14].
 * [lispbuilder-sdl](https://github.com/lispbuilder/lispbuilder) - A set of bindings for SDL. [Expat][14].
-* [lisp-magick-wand](https://github.com/TBRSS/lisp-magick-wand) - ImageMagick bindings. [BSD][15]. Not in Quicklisp.
+* [lisp-magick-wand](https://github.com/ruricolist/lisp-magick-wand) - ImageMagick bindings. [BSD][15]. Not in Quicklisp.
 * [okra](https://www.common-lisp.net/project/okra/manual.html) - CFFI bindings to Ogre. Not available on Quicklisp. [3-clause BSD][15].
 * [cl-cuda](https://github.com/takagi/cl-cuda) - A library to use NVIDIA CUDA in Common Lisp programs. [LLGPL][8].
 
@@ -908,6 +913,7 @@ Typing
   * [coalton-io](https://github.com/Jason94/coalton-io) - Functional IO interfaces. Includes terminal IO, file system IO, random variables, mutable variables, multithreading, and safely sharing state between threads.
   * [Lem editor mode for Coalton](https://lem-project.github.io/modes/coalton-lang/) - syntax highlighting, code completion, autodoc, interactive compilation commands (`coalton-compile-defun`, `C-c C-c`).
   * [Coalton.app playground](https://coalton.app/) - a web-based REPL for Coalton. [blog post announce](https://abacusnoir.com/2025/08/12/coalton-playground-type-safe-lisp-in-your-browser/).
+  * [smelter](https://smelter.app/) - a zero setup Coalton (and CL) scripts runner, with some batteries (JSON, HTTP, filesystem, process utilities).
 * 👍 [trivial-types](https://github.com/m2ym/trivial-types) - provides missing but important type definitions such as `proper-list`, `association-list`, `property-list` and `tuple`. [LLGPL][8].
 * [defstar](https://bitbucket.org/eeeickythump/defstar/src/master/) - a collection of macros for easy inclusion of type declarations for arguments in lambda lists. [GNU GPL3][2]
 * [algebraic-data-types](https://github.com/stylewarning/cl-algebraic-data-type) - defining algebraic data types in a similar spirit to Haskell or Standard ML, as well as for operating on them. [BSD_3Clause][15].
@@ -1281,6 +1287,11 @@ Utilities for **React**:
 * [Parenscriptx](https://github.com/jasom/parenscriptx) -  Parenscript Macros to aid generating react code. [MIT][200].
 * [jscl-react](https://github.com/nilesr/jscl-react) -  A web framework for writing react components in common lisp using jscl. No license specified.
 
+SDK for **[Datastar](https://data-star.dev/)**:
+
+- [datastar-cl](https://github.com/fsmunoz/datastar-cl) - Datastar Common Lisp SDK.
+  - online demo: https://dataspice.interlaye.red/
+
 
 See also:
 
@@ -1626,6 +1637,7 @@ Regular expressions and string parsing
 See also:
 
 * [rexxparse](https://github.com/dtenny/rexxparse) -  A string parsing tool inspired by the REXX PARSE construct. MIT.
+* [pregexp](http://ds26gte.github.io/pregexp/index.html) -  Portable Regular Expressions for Scheme and Common Lisp.
 
 See also clj-re above.
 
@@ -1761,6 +1773,11 @@ Starter kits:
 * [cl-devel2](https://hub.docker.com/r/eshamster/cl-devel2/) - a Docker container for Common Lisp development environment. Ships SBCL, CCL, Roswell and Emacs25 with Slime.
 * [Portacle](https://shinmera.github.io/portacle/) - A portable and multiplatform Common Lisp environment: SBCL, Quicklisp, Emacs, Slime, Git.
   * *warm: Portacle is now un-maintained and ships an old Emacs.*
+* [IDEmacs](https://codeberg.org/IDEmacs/IDEmacs) is an attempt at making Emacs beginner friendly.
+    * it ships Sly for Common Lisp. With Emacs v29 or higher, you can try IDEmacs temporarily without messing with your .emacs configuration, thanks to the new `--init-directory` option.
+* [Varhammer](https://github.com/varhammer/varhammer) -  Portable Common Lisp IDE for Windows (Emacs + SBCL + SLIME). New in 2025.
+  * Emacs 30.2 + SBCL 2.6.0 + SLIME 2.32 + Quicklisp as of January, 2026.
+  * fully offline, USB ready, no installation required.
 
 Slime extensions:
 
@@ -2080,15 +2097,24 @@ code must look pretty, documentation is code. [MIT][200].
 * [adp](https://github.com/HectareaGalbis/adp) -  Common Lisp documentation generator using Scribble files. [MIT][200].
 * 🟢 [NEW in 2025] [HyperDoc](https://hyperdoc.khinsen.net/) - scientific publications that combine code, data, and computed results with explanatory text, and software documentation that is an integral part of a software system, rather than a pile of documents remaining outside of it.
 
-See also:
-
-* [docbrowser](https://github.com/lokedhs/docbrowser) - a server that generates documentation for the loaded systems on the fly.
-  - Its main page presents a list of all loaded systems in your Lisp image. Click on one system, and you get a page with three panes: functions, classes and variables. Click on a function to see its source, in context, with line numbers. Click on classes to see their slots and specializing functions.
-* [cl-livedocs](https://github.com/mmontone/cl-livedocs) - similar and newer, based on Webinfo, with full text search enabled by default.
 
 An overview blog post with even more documentation generators: https://lisp-journey.gitlab.io/blog/overview-of-documentation-generators/ and a dedicated site with reviews and demos: https://cl-doc-systems.github.io/
 
 You might also like: [literate programming systems](#literate-programming).
+
+Documentation lookup
+--------------------
+
+`apropos` and `ppcre:regex-apropos` search in function names.
+
+* [docbrowser](https://github.com/lokedhs/docbrowser) - a server that generates documentation for the loaded systems on the fly.
+  - Its main page presents a list of all loaded systems in your Lisp image. Click on one system, and you get a page with three panes: functions, classes and variables. Click on a function to see its source, in context, with line numbers. Click on classes to see their slots and specializing functions.
+* [cl-livedocs](https://github.com/mmontone/cl-livedocs) - similar and newer, based on Webinfo.
+    * full text search is enabled by default.
+* [cl-docsearch](https://github.com/digikar99/cl-docsearch) -  A tool to search documentation of lisp symbols in the current lisp image.
+  * indexes and searches the documentation string too.
+  * [docsearch-ollama](https://github.com/digikar99/cl-docsearch/blob/main/README-docsearch-ollama.md) provides Common Lisp documentation search functionality through Ollama. It computes and caches embeddings corresponding to symbol documentation, and looks up user queries by comparing the cosine similarity of the query embedding with symbol documentation embeddings.
+    * we can do something like: `(query "How do I remove whitespace from the ends of a string?")`
 
 
 Files and directories

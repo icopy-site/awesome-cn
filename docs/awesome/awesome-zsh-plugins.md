@@ -715,6 +715,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 - [apt](https://github.com/GeoLMg/apt-zsh-plugin) - For distros with `apt` package manager. Offers to install missing programs for you.
 - [arc-search](https://github.com/michaelsousajr/zsh-arc-search) - Enables quick searches using Arc browser directly from your terminal. Features URL encoding for search terms.
 - [arc](https://github.com/anton-rudeshko/zsh-arc) - Adds aliases for Yandex version control system.
+- [arc-prompt](https://github.com/dkryaklin/arc-zsh-plugin) - Arc VCS prompt integration with branch display, status caching, operation mode detection, agnoster theme support, and aliases.
 - [archlinux (fourdim)](https://github.com/fourdim/zsh-archlinux) - Defines helper functions for `pacman` on Arch Linux.
 - [archlinux (junker)](https://github.com/Junker/zsh-archlinux) - Based on the oh-my-zsh [archlinux](https://github.com/ohmyzsh/ohmyzsh/blob/master/plugins/archlinux) plugin. Defines helper functions and aliases.
 - [arduino](https://github.com/raghur/zsh-arduino) - Adds scripts to build, upload and monitor arduino sketches from a command line. Requires [`jq`](https://stedolan.github.io/jq/).
@@ -865,7 +866,6 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 - [crash](https://github.com/molovo/crash) - Adds proper error handling, exceptions and try/catch for ZSH.
 - [crayon-syntax](https://github.com/gsemet/crayon-syntax-zsh) - ZSH syntax highlighting for the Crayon Plugin for Wordpress.
 - [cros-auto-notify](https://github.com/D3STY/cros-auto-notify-zsh) - Automatically sends out a notification when a long running task has completed. Works with macOS and linux (if `hterm-notify` is installed).
-- [crypto-prices](https://github.com/vincentdnl/zsh-crypto-prices) - Add a [powerlevel9k](https://github.com/bhilburn/powerlevel9k) segment with the current bitcoin price.
 - [crystal](https://github.com/veelenga/crystal-zsh) - A plugin for [Crystal](https://github.com/crystal-lang/crystal).
 - [cvideo](https://github.com/aubreypwd/zsh-plugin-cvideo) - Quickly compress video with `ffmpeg`.
 - [cwebp](https://github.com/adi-li/zsh-cwebpb) - Converts common image formats (JPG, PNG, GIF, BMP, TIFF) to WebP format using Google's `cwebp` tool in batch mode.
@@ -1718,6 +1718,7 @@ Here are a few good sources for Nerd Fonts and Powerline-compatible fonts:
 - [znvm](https://github.com/Ajnasz/znvm) - A [Node.js](https://nodejs.org) version manager for ZSH similar to [nvm.sh](https://github.com/nvm-sh/nvm) but faster.
 - [zoc](https://github.com/TomerG2/zoc) - Speeds up OpenShift `oc` logins and token renewal.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A fast alternative to `cd` that learns your habits.
+- [zramdisk](https://github.com/TomfromBerlin/zramdisk) - User friendly configuration, creation, mounting, unmounting, and management of a compressed RAM disk.
 - [zplug-blame](https://github.com/jkcdarunday/zplug-blame) - A [zplug](https://github.com/zplug/zplug)-specific plugin that displays how long each of your plugins took to load.
 - [zpy](https://github.com/AndydeCleyre/zpy) - Manage Python environments, dependencies, and isolated app installations, with a ZSH frontend for [uv](https://github.com/astral-sh/uv) or [pip-tools](https://github.com/jazzband/pip-tools).
 - [zredis-cmd](https://github.com/z-shell/zredis-cmd) - Utilizes variable sharing done by [zredis](https://github.com/zdharma-continuum/zredis) plugin to implement remote command execution.
@@ -2357,7 +2358,6 @@ These plugins add tab completions without adding extra functions or aliases.
 - [hanpen](https://github.com/kojole/hanpen.zsh-theme) - Shows `git` branch and status, last command exit code, last command execution time if more than `ZSH_THEME_HANPEN_CMD_MAX_EXEC_TIME`.
 - [hapin](https://github.com/hanamiyuna/hapin-zsh-theme/blob/master/hapin.zsh-theme) - Based on oxide, includes `git` status decorations and current user/host information.
 - [happy-coding](https://github.com/lexhuismans/happy-coding/) - Stripped down version of [passion](https://github.com/ChesterYue/ohmyzsh-theme-passion). Includes decorators for time, `git` branch, last command execution time and last command exit status.
-- [haribo](https://github.com/haribo/omz-haribo-theme) - Simple `git` status + timestamp in prompt.
 - [hcompact](https://github.com/fusion809/zsh-theme) - Displays time, OS (including distro if on Linux), directory and whether running as root.
 - [headline](https://github.com/Moarram/headline) - A responsive ZSH theme featuring Git status information and a colored line above the prompt.
 - [heapbytes](https://github.com/heapbytes/heapbytes-zsh) - Includes decorators for current directory, tun0 ip if on a VPN, wlan ip when not on VPN and `git` information.

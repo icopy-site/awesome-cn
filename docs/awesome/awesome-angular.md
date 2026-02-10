@@ -443,6 +443,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-data-polling](https://github.com/antonio-spinelli/ngx-data-polling) - Angular library with utilities to handle data polling in a declarative and type-safe way.
 * [ngx-soap](https://github.com/seyfer/ngx-soap) - A lightweight SOAP client built on [node‑soap](https://github.com/vpulim/node-soap), fully compatible with Angular’s signals, standalone components, and modern features.
 * [ngx-http-fetch-tracking](https://github.com/pegasusheavy/ngx-http-fetch-tracking) - Angular library providing upload progress tracking for the Fetch API backend.
+* [fetchquack](https://github.com/adrian-bueno/fetchquack) - Angular‑ready HTTP client with an RxJS Observable wrapper and injection‑context support, offering lightweight Fetch‑based streaming, SSE, and upload/download progress handling.
 
 ### Micro-Frontends
 
@@ -1351,6 +1352,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-forge](https://github.com/ng-forge/ng-forge) - A type‑safe, dynamic forms library built for Angular’s signal‑based forms.
 * [zignal](https://github.com/biyonik/zignal) - A type-safe Angular form library using signals and Zod validation, with Turkey-specific validators and multi-language support.
 * [ngx-form-stepper](https://github.com/rayaneriahi/ngx-form-stepper) - A strongly typed Angular library for building robust multi‑step forms that prevent invalid states during development with minimal configuration.
+* [ngx-form-rules](https://github.com/bulbul5391/ngx-form-rules) - A lightweight Angular library that makes it easy to enable, disable, and control reactive form fields using simple, declarative rules.
 
 ### Form Controls
 
