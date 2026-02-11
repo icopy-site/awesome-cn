@@ -158,6 +158,7 @@ _Toaster / snackbar - Notify the user with a modeless temporary little popup._
 - [lucide-svelte](https://github.com/lucide-icons/lucide) - Implementation of the lucide icon library for svelte applications.
 - [svelte-icons-pack](https://github.com/leshak/svelte-icons-pack) - Based on <https://github.com/react-icons/react-icons>.
 - [svesome](https://github.com/pouchlabs/svesome) - A fontawesome v6 icons wrapper for svelte its awesome.
+- [hugeicons](https://github.com/hugeicons/svelte) - Beautiful, production-ready icon package for Svelte with complete icon coverage.
 - [moving icons](https://github.com/jis3r/icons) - A collection of beautifully crafted, animated Lucide icons.
 
 ### Calendar
@@ -203,6 +204,7 @@ _Display non-editable events in a calendar._
 - [EmbedPDF](https://www.embedpdf.com/docs/svelte/introduction) - A modular, high-performance PDF viewer and editor built for Svelte, powered by PDFium. Fully extensible with plugins for annotations, redaction, thumbnails, and more.
 - [Edra](https://edra.tsuzat.com) - Best Rich Text Editor, made for Svelte Developers with Tiptap.
 - [svelte-streamdown](https://github.com/beynar/svelte-streamdown) - Port of [streamdown](https://streamdown.ai/). An all in one markdown renderer optimized for streaming with built in styles, math, mermaid, code highlighting support and more.
+- [svelte-bash](https://github.com/YusufCeng1z/svelte-bash) - A customizable terminal-style component for Svelte 5.
 
 ## Scaffold
 

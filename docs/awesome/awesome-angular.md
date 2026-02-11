@@ -312,6 +312,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Exercises
 
+* [ai-tutor](https://github.com/angular/ai-tutor) - Step‑by‑step Angular tutor that teaches modern best practices by guiding you through building a “Smart Recipe Box” app.
 * [angular-fundamental-lessons](https://github.com/MarkTechson/angular-fundamentals-lessons)
 * [Angular Challenges](https://angular-challenges.vercel.app/) - A repository of 60+ Angular, Nx, RxJS, NgRx, and TypeScript challenges designed to sharpen real-world skills.
 * [Codelabs](https://codelabs.developers.google.com/?text=angular) - Google Developers Codelabs offer guided, hands-on tutorials to build apps or add new features.
@@ -1404,6 +1405,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [smart-date-input](https://github.com/ngxpert/smart-date-input) - A smart date input directive that uses the Writer API to parse natural language dates.
 * [color-picker](https://github.com/acrodata/color-picker) - Another beautiful color picker.
 * [ngx-pattern-lock](https://github.com/nicotole/ngx-pattern-lock) - A lightweight, fully responsive, and customizable Android-style pattern lock component for Angular.
+* [smt-select](https://github.com/sametacar/smt-select) - A high-performance, lightweight, and customizable Angular select component with built-in virtual scroll and search capabilities.
 
 ### JSON Forms
 
