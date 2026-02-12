@@ -114,5 +114,4 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [M. Weisser's list of NLP/Computational Linguistics Resources](https://martinweisser.org/corpora_site/comp_ling_resources.html)
 
 ### Communities
-* [Linguistics Stack Exchange](https://linguistics.stackexchange.com/)
 * [Untranslatable.co, Multilingual urban dictionary](https://untranslatable.co/)

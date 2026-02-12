@@ -99,6 +99,7 @@ A curated list of unique and useful CI/CD attack techniques.
 - [Secrets Patterns Database](https://github.com/mazen160/secrets-patterns-db) - The largest open-source database for detecting secrets, API keys, passwords, tokens, and more.
 - [Sourcegraph](https://sourcegraph.com/search) - A web-based code search and navigation tool for public repositories.
 - [Token-Spray](https://blog.projectdiscovery.io/nuclei-v2-5-3-release/) - Automate token validation using Nuclei.
+- [zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions.
 
 ## Case Studies
 - [10 real-world stories of how we've compromised CI/CD pipelines](https://www.nccgroup.com/research-blog/10-real-world-stories-of-how-we-ve-compromised-cicd-pipelines/) - Examples include exploiting S3 misconfigurations, Jenkins plugin flaws, GitLab runner privilege escalations, Kubernetes pod annotation vulnerabilities, and compromised developer laptops.

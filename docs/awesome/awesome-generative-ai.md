@@ -127,6 +127,7 @@ Generative Artificial Intelligence is a technology that creates original content
 - [SciSpace](https://typeset.io/) - An AI research assistant for understanding scientific literature.
 - [STORM](https://storm.genie.stanford.edu/) - An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations. [#opensource](https://github.com/stanford-oval/storm/)
 - [alphaXiv](https://www.alphaxiv.org) - Discuss, discover, and read arXiv papers.
+- [ASReview](https://asreview.nl/) - Open-source AI-powered tool for systematic reviews, helping researchers screen large volumes of academic literature efficiently. [#opensource](https://github.com/asreview/asreview)
 
 ### Leaderboards
 - [Chatbot Arena](https://lmarena.ai/) - An open platform for crowdsourced AI benchmarking, hosted by researchers at UC Berkeley SkyLab and LMArena.
@@ -166,6 +167,8 @@ Generative Artificial Intelligence is a technology that creates original content
 - [Plandex](https://github.com/plandex-ai/plandex) - Open source, terminal-based AI programming engine for complex tasks. [#opensource](https://github.com/plandex-ai/plandex)
 - [Jupyter AI](https://github.com/jupyterlab/jupyter-ai) - An open-source, configurable AI assistant in Jupyter Notebook and JupyterLab that supports 100+ LLMs, including locally-hosted models from Ollama and GPT4All. #opensource
 - [DataLine](https://dataline.app) - An AI-driven data analysis and visualization tool. [#opensource](https://github.com/RamiAwar/dataline)
+- [v0](https://v0.dev) - Prompt-driven UI generation for React and Next.js, creating production-ready components.
+- [Lovable](https://lovable.dev) - Conversational full-stack app generation, turning ideas into deployable code.
 
 ### Developer tools
 
