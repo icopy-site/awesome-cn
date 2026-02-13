@@ -127,6 +127,8 @@
 - [FlexGPT](https://flexgpt.io) - Like ChatGPT but for pros, with long-term memory, internet access, unlimited GPT-4, and no subscription.
 - [LearnGPT](https://learngpt.art) - Title-based book creation. ($)
 - [Wielded](https://wielded.com) - Web UI that works for OpenAI, Azure, Anthropic, and AWS Bedrock. Free for individuals.
+- [Price Per Token](https://pricepertoken.com) - Compare LLM API pricing across providers. Includes token counter and cost calculator.
+- [Taskade](https://taskade.com) - AI-powered workspace with custom AI agents, multi-model support (GPT, Claude, Gemini), project management, and workflow automation for teams.
 
 ### Self-hosted
 

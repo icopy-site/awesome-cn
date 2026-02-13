@@ -51,12 +51,13 @@
 - [SecureAuth](https://www.secureauth.com/) - Identity security platform that provides OpenID Connect Provider capabilities.
 - [FusionAuth](https://fusionauth.io/) - Open Source Identity and Access Management (IAM) solution with OpenID Connect Provider capabilities.
 - [IBM Verify](https://www.ibm.com/products/verify) - OpenID Connect Provider and Identity as a Service (IDaaS) solution by IBM.
+- [MojoAuth](https://mojoauth.com) - An OpenID Connect-based passwordless authentication platform using passkeys, magic links, and OTPs.
 - [CyberArk Identity](https://www.cyberark.com/) - Identity security solution that provides OpenID Connect Provider capabilities.
 - [SailPoint](https://www.sailpoint.com/) - Enterprise identity security platform that provides OpenID Connect Provider capabilities.
 - [SAP Customer Identity](https://help.sap.com/docs/SAP_CUSTOMER_DATA_CLOUD/8b8d6fffe113457094a17701f63e3d6a/4167c2d870b21014bbc5a10ce4041860.html) - SAP's OpenID Connect Provider and Identity as a Service (IDaaS) solution.
+- [WorkOS](https://workos.com/) - An identity management platform that enables organizations to provide secure access to their workforce, customers, and partners.
 
 - [OpenID Foundation conformance suite](https://gitlab.com/openid/conformance-suite) - Test conformance suite to obtains OpenID Foundation certification which covers OpenID Connect, FAPI1-Advanced, FAPI2, FAPI-CIBA and OpenID for Identity Assurance (ekyc).
-- [MojoAuth](https://mojoauth.com) - An OpenID Connect-based passwordless authentication platform using passkeys, magic links, and OTPs.
 
 
 ## Relying Parties (RP) Libraries

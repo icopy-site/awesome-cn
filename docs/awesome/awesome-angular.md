@@ -398,6 +398,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-feature-proxy](https://github.com/zenkiet/ngx-feature-proxy) - Angular feature flag library with Unleash; reactive and type-safe flag management with minimal setup.
 * [ngx-feature-flags](https://github.com/pavan-98/ngx-feature-flags) - An Angular‑first, enterprise‑ready feature‑flag layer that standardizes how flags are resolved, guarded, and rendered across Angular apps.
 * [ngx-feature-flags-toggly](https://www.npmjs.com/package/@ops-ai/ngx-feature-flags-toggly) - Angular SDK for [Toggly](https://toggly.io/) feature flags.
+* [ngx-circuit](https://github.com/pjlamb12/ngx-circuit) - Streamlines feature‑toggle management, offering flexible strategies such as simple boolean flags, scheduled activations, percentage rollouts, user‑group targeting, environment‑based rules, and more.
 
 ### GraphQL
 
@@ -559,6 +560,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-parsel](https://github.com/angular-experts-io/ng-parsel) - Parse your Angular code base to JSON abstraction - Great for displaying APIs and running custom analysis.
 * [ngx-genie](https://github.com/SparrowVic/ngx-genie) - A tool to visualize the dependency injection tree, analyze service states, track component relationships, and identify memory or architectural issues.
 * [ngx-html-bridge](https://github.com/nagashimam/ngx-html-bridge) - Converts Angular templates into static HTML variants, enabling reliable validation and linting with any standard HTML tool.
+* [ngx-locator](https://github.com/Ea-st-ring/ngx-locator) - Angular development utility to open components and templates from the browser like [LocatorJS](https://www.locatorjs.com/).
 
 ### Debugging
 
@@ -663,6 +665,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [signal-translate](https://github.com/NGneers/signal-translate) - Translation service that is using signals at its core.
 * [tldraw-web-component](https://github.com/neosh11/tldraw-web-component) - Make [tldraw](https://github.com/tldraw/tldraw) work with frameworks other than React; Made primarily to work with Angular.
 * [Transifex](https://github.com/transifex/transifex-javascript/tree/master/packages/angular/projects/tx-native-angular-sdk) - You can easily localize Angular components using the [Transifex library extension](https://www.npmjs.com/package/@transifex/angular). This library extends the functionality of [Transifex Native JavaScript SDK](https://developers.transifex.com/docs/javascript-sdk).
+* [TransLatte](https://github.com/Marbulinek/TransLatte) - A CLI tool that generates translation JSON files using the Lingva API.
 * [transloco](https://github.com/jsverse/transloco) - The internationalization (i18n) library for Angular.
 * [transloco-keys-manager](https://github.com/jsverse/transloco-keys-manager) - Tools to help reduce monotonous work.
 * [xlf-sync](https://github.com/atheodosiou/xlf-sync) - A CLI tool for synchronizing Angular XLIFF (1.2 & 2.0) locale files.
@@ -713,6 +716,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-compare-object](https://github.com/RzoDev/ngx-compare-object) - Angular utility to compare an original object with its modified version.
 * [ngx-json-reader](https://github.com/Verbalman/ngx-json-reader) - Angular 17+ JSON reader/editor with multi-URL comparison and diffing.
 * [ngx-signal-hub](https://www.npmjs.com/package/ngx-signal-hub) - Lightweight Angular hub unifying callbacks with signal‑based event observation.
+* [runtime-config-loader](https://github.com/pjlamb12/runtime-config-loader) - Angular library that provides an easy way to load a configuration JSON file for runtime configuration.
 
 ### SEO
 
@@ -1232,6 +1236,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngxsmk-button-spinner](https://github.com/toozuuu/ngxsmk-button-spinner) - Angular 17+ directive to show a loading spinner inline or centered on any button.
 * [ngxture](https://github.com/gianpierreVelasquez/ngxture) - A lightweight and modular Angular library that provides ready-to-use animations and gesture directives.
 * [@maxime1jacquet/npm-directives](https://github.com/maxime1jacquet/npm-directives) - Angular Directives including [ngx-cursor](https://www.npmjs.com/package/ngx-cursor) and [ngx-simple-countdown](https://www.npmjs.com/package/ngx-simple-countdown).
+* [ngx-mat-menu-hover](https://github.com/Gamekohl/ngx-mat-menu-hover) - This Angular directive provides functionality to handle hover menu behavior, allowing menus to open when hovered over and close when the mouse leaves.
 
 ### DOM
 
@@ -1354,6 +1359,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [zignal](https://github.com/biyonik/zignal) - A type-safe Angular form library using signals and Zod validation, with Turkey-specific validators and multi-language support.
 * [ngx-form-stepper](https://github.com/rayaneriahi/ngx-form-stepper) - A strongly typed Angular library for building robust multi‑step forms that prevent invalid states during development with minimal configuration.
 * [ngx-form-rules](https://github.com/bulbul5391/ngx-form-rules) - A lightweight Angular library that makes it easy to enable, disable, and control reactive form fields using simple, declarative rules.
+* [ngx-reactive-forms-utils](https://github.com/pjlamb12/ngx-reactive-forms-utils) - Utilities to assist in the use of reactive Angular forms.
 
 ### Form Controls
 
@@ -1376,6 +1382,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-countries-dropdown](https://github.com/kapilkumar0037/ngx-countries-dropdown) - Angular library with customizable countries dropdown component with flags, dial code, language and currency details.
 * [ngx-mat-split-button](https://github.com/feature23/ngx-mat-split-button) - Angular Material split button with a primary action and dropdown for secondary options.
 * [ng-select2](https://github.com/Harvest-Dev/ng-select2) - This Angular CLI module is a fork of [select2-component](https://github.com/plantain-00/select2-component).
+* [ngx-super-select](https://github.com/HesamKashefi/ngx-super-select) - A multi-select input component for Angular.
 * [ngx-super-select-tree](https://github.com/HesamKashefi/ngx-super-select-tree) - A single/multiple choice drop down tree for Angular!
 * [ngx-mat-table-multi-sort](https://github.com/pgerke/ngx-mat-table-multi-sort) - Add multi-sort capability to an Angular Material table.
 * [ngx-virtual-select-field](https://github.com/Vizer/ngx-virtual-select-field) - This package replicates the Angular Material Select component with virtual scroll capabilities with help of cdk-virtual-scroll.
@@ -1464,6 +1471,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngxi](https://github.com/adrian-ub/ngxi) - Comprehensive SVG icon set for Angular with seamless integration of thousands of popular icons.
 * [chill-wind-icons](https://github.com/alimjanablikim/chill-wind-icons) - Dynamic Angular icon library with native Tailwind CSS support, tree-shakeable icon data, and built from Iconoir SVGs.
 * [@TSB04/svg-icon](https://github.com/TSB04/svg-icon) - Framework-agnostic, customizable, lightweight SVG icon package for React, Vue, Angular, and more.
+* [animated-icons](https://github.com/ajitzero/animated-icons) - Animated icons for Angular based on [moving icons](https://www.movingicons.dev/).
 
 ### Images
 
@@ -2124,6 +2132,7 @@ for the creation of web applications developed with Angular.
 * [ngx-pocketbase](https://github.com/BerniHC/ngx-pocketbase) - PocketBase Angular SDK for interacting with the [PocketBase API](https://pocketbase.io/docs). Based on the [PocketBase JavaScript SDK](https://github.com/pocketbase/js-sdk).
 * [ngx-sentry](https://github.com/DSI-HUG/ngx-sentry) - Angular wrapper for [Sentry JavaScript SDK](https://github.com/getsentry/sentry-javascript).
 * [ngx-serializer](https://github.com/paddls/ngx-serializer) - Angular wrapper of `@paddls/ts-serializer` library.
+* [ngx-simple-text-diff](https://github.com/jjtortosa/ngx-simple-text-diff) - Angular library for displaying text differences using the [diff](https://www.npmjs.com/package/diff) library.
 * [ngx-socket-io](https://github.com/rodgc/ngx-socket-io) - [Socket.IO](https://socket.io/) module for Angular.
 * [ngx-surreal](https://github.com/vandaeldev/ngx-surreal) - Lightweight Angular wrapper for the [SurrealDB](https://surrealdb.com/) JavaScript SDK.
 * [ngx-tagify](https://github.com/Brakebein/ngx-tagify) - Angular library that wraps [Tagify](https://github.com/yaireo/tagify/).

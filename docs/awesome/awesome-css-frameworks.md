@@ -353,13 +353,6 @@ We are keeping them here for reference/inspiration and hope for a revival.
   [Repo](https://github.com/responsivebp/responsive)
   | #SCSS
 
-- [**turretcss**](https://turretcss.com) - Responsive front-end framework for accessible and semantic websites.  
-  ![](https://img.shields.io/github/stars/turretcss/turretcss.svg?style=social&label=Star)
-  [Demo](https://turretcss.com/demo/),
-  [Docs](https://turretcss.com/getting-started/),
-  [Repo](https://github.com/turretcss/turretcss)
-  | #CSS
-
 - [**Centurion**](https://www.centurionframework.com) - Web-based framework for rapid prototyping and building larger web projects.  
   ![](https://img.shields.io/github/stars/justinhough/Centurion.svg?style=social&label=Star)
   [Docs](https://github.com/justinhough/Centurion/blob/master/DOCUMENTATION.md),

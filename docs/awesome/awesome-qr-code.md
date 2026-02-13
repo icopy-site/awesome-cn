@@ -18,7 +18,7 @@ A curated list of awesome QR code libraries, software and resources.
 
 ### Readers
 
-- [Web App](https://github.com/code-kotis/qr-code-scanner) - A progressive web application to scan QR codes.
+- [Web App](https://github.com/gokulkrishh/qrcodescan.in) - A progressive web application to scan QR codes.
 
 ### File Transfer
 
