@@ -189,6 +189,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [3ZsForInsomnia/token-count.nvim](https://github.com/3ZsForInsomnia/token-count.nvim) - Shows the token count for the current buffer, with integrations for Lualine and NeoTree.
 - [nishu-murmu/cursor-inline](https://github.com/nishu-murmu/cursor-inline) - Cursor-style inline AI editing. Select code, describe the change, and get an inline, highlighted edit you can accept or reject—similar to Cursor inline workflow.
 - [ishiooon/codex.nvim](https://github.com/ishiooon/codex.nvim) - Codex IDE integration, no API key required.
+- [nickjvandyke/opencode.nvim](https://github.com/nickjvandyke/opencode.nvim) - OpenCode AI assistant integration.
 <!--lint disable double-link -->
 <!--lint enable double-link -->
 
@@ -882,6 +883,7 @@ then it is not supported:
 - [0xJohnnyboy/scretch.nvim](https://github.com/0xJohnnyboy/scretch.nvim) - Create and manage scratch files, scratch templates, with picker integrations.
 - [yutkat/confirm-quit.nvim](https://github.com/yutkat/confirm-quit.nvim) - Confirm before quitting.
 - [bgaillard/readonly.nvim](https://github.com/bgaillard/readonly.nvim) - Secure edition of files containing sensible / secret information, passwords, API keys, SSH keys, etc.
+- [zeybek/camouflage.nvim](https://github.com/zeybek/camouflage.nvim) - Hide sensitive values in configuration files during screen sharing by visually masking secrets in `.env`, `.json`, `.yaml`, `.toml`, and `.properties` files.
 - [linrongbin16/gentags.nvim](https://github.com/linrongbin16/gentags.nvim) - The tags generator/management for old school vimers.
 - [Zeioth/distroupdate.nvim](https://github.com/Zeioth/distroupdate.nvim) - Distro agnostic updater to get the latest changes from the Git repository of your config.
 - [terje/simctl.nvim](https://github.com/terje/simctl.nvim) - Interact with iOS Simulators.
@@ -911,6 +913,7 @@ then it is not supported:
 - [leo-alvarenga/quoth.nvim](https://github.com/leo-alvarenga/quoth.nvim) - A lightweight, configurable random quote provider with lazy loading, custom tables, and filters.
 - [stikypiston/cheaty.nvim](https://github.com/stikypiston/cheaty.nvim) - A simple, configurable cheatsheet.
 - [stikypiston/unobtrusive-relnums.nvim](https://github.com/stikypiston/unobtrusive-relnums) - Unobtrusive relative line numbers in the sign column.
+- [glyccogen/imprint.nvim](https://github.com/glyccogen/imprint.nvim) - Take WYSIWYG screenshots of your code via Playwright and headless Chromium, preserving your colorscheme and highlights.
 
 ### CSV Files
 

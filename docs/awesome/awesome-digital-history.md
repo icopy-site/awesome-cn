@@ -170,6 +170,7 @@ Finding aids for textual and multimedia [primary sources](https://en.wikipedia.o
 - [AdFontes](https://www.adfontes.uzh.ch/) - An Introduction to Working with Sources in the Archive.
 - [Clio Guide](https://guides.clio-online.de/) - A handbook on digital resources for the historical sciences.
 - [Crafting Digital History](http://workbook.craftingdigitalhistory.ca/) - A Workbook for Methods and Readings in Digital History.
+- [Critical AI Literacy for Historians](https://maehr.github.io/critical-ai-literacy-for-historians/) - A guide to understanding and critically evaluating AI tools and methods in historical research, covering practical applications, ethical considerations, and methodological approaches.
 - [Digital History Guide](http://chnm.gmu.edu/digitalhistory/) - Introduction to the web for historians, who wish to produce online historical work.
 - [Digitale Quellenkritik](https://www.zotero.org/groups/2541642/digitale_quellenkritik) - Zotero group with literature on digital source criticism and the handling of digitized historical sources.
 - [Geospatial Historian](https://geospatialhistorian.wordpress.com/) - Open HGIS Lessons and Resources.

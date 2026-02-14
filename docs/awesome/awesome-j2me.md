@@ -64,7 +64,11 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hac
 - [PSPKvm](https://sourceforge.net/projects/pspkvm/) - J2ME emulator for PSP.
 - [SquirrelJME](https://github.com/squirreljme/squirreljme) - Java ME 8 Virtual Machine for embedded and Internet of Things devices.
 
+## Finance
 
+- [Glu Mobile 10-K archive](https://www.sec.gov/edgar/search/#/dateRange=all&category=custom&entityName=0001366246&forms=10-K) - Archive of 10-K of Glu Mobile from it's IPO(2007) till acquisition(2021). Includes revenue breakdown by means of distribution and region, management commentary, portfolio of games etc.
+
+- [UPI 123PAY](https://www.npci.org.in/what-we-do/upi-123pay/product-overview) - Official Unified Payment Interface(UPI)payments solution for feature phones by NPCI. Internet not required. Supported only in India.
 
 ## Hardware
 
@@ -82,7 +86,6 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hac
 - [MeBoy](http://arktos.se/meboy) - Supports emulating GBC with sound, color, and save states.
 - [Telegram Micro](https://github.com/faissaloo/telegram-micro) - Telegram client.
 - [VK4ME](https://github.com/VK4ME/client)  - Unofficial client for Russian social network VK for devices supporting CLDC 1.1 and MIDP 2.0.
-- [UPI 123PAY](https://www.npci.org.in/what-we-do/upi-123pay/product-overview) - Official Unified Payment Interface(UPI)payments solution for feature phones by NPCI. Internet not required. Supported only in India.
 - [Opera FTP Archive](https://ftp.opera.com/pub/opera) - Official FTP archive of various versions of Opera browser for all supported platforms.
 - [Pocket Gopher](https://github.com/felixp7/pocket-gopher) - Open source Gopher and Gopher+ client for J2ME.
 

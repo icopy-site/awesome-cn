@@ -11,9 +11,9 @@
 
 ## Awesome Git Hooks
 
-> :anchor: Easy-to-use git hooks for automating tasks during git workflows.
+> :anchor: Easy-to-use Git hooks for automating tasks during Git workflows.
 
-Git hooks are custom scripts you can use to automate tasks which are triggered before or after a git command is executed. There are two groups of these hooks: client-side and server-side. Client-side hooks are triggered by operations such as committing and merging, while server-side hooks run on network operations such as receiving pushed commits. This repo contains helpful resources as well as a variety of git hook scripts that can be easily customized to serve different purposes.
+Git hooks are custom scripts you can use to automate tasks which are triggered before or after a Git command is executed. There are two groups of these hooks: client-side and server-side. Client-side hooks are triggered by operations such as committing and merging, while server-side hooks run on network operations such as receiving pushed commits. This repo contains helpful resources as well as a variety of Git hook scripts that can be easily customized to serve different purposes.
 
 :heavy_check_mark: Nothing to install/download
 
@@ -58,7 +58,7 @@ Note: The icon next to each script signifies what language it is written in.
 
 ### prepare-commit-msg
 
-- [include-git-diff-name-status](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/prepare-commit-msg-hooks/include-git-diff-name-status.hook) - Include the output of "git diff --name-status -r" into the message, just before the "git status" output. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">
+- [include-git-diff-name-status](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/prepare-commit-msg-hooks/include-git-diff-name-status.hook) - Include the output of "Git diff --name-status -r" into the message, just before the "Git status" output. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">
 - [insert-issue-number](https://github.com/CompSciLauren/awesome-git-hooks/blob/master/prepare-commit-msg-hooks/insert-issue-number.hook) - Insert issue number to beginning of the commit message. <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/python-icon.png" alt="Python Icon">
 
 ### pre-push
@@ -86,13 +86,13 @@ Note: The icon next to each script signifies what language it is written in.
 ![create new file](https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/create-new-file.gif)
 
 4. Open your new file and paste the code from the hook you chose out of this repo (eg: [verify-name-and-email.hook](https://github.com/CompSciLauren/git-hooks/blob/master/pre-commit-hooks/verify-name-and-email.hook)).
-5. Save file. Done! Now the git hook will be triggered automatically.
+5. Save file. Done! Now the Git hook will be triggered automatically.
 
 ## Tools
 
-- [Husky](https://github.com/typicode/husky) - Manage git hooks with a nice user interface.
+- [Husky](https://github.com/typicode/husky) - Manage Git hooks with a nice user interface.
 
-- [Overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable git hook manager.
+- [Overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager.
 
 - [Git Build Hook Maven Plugin](https://github.com/rudikershaw/git-build-hook) - Install Git hooks and config during a Maven build.
 
@@ -110,7 +110,7 @@ Note: The icon next to each script signifies what language it is written in.
 
 - [Atlassian Tutorial on Git Hooks](https://www.atlassian.com/ru/git/tutorials/git-hooks)
 
-- [Easy git hooks with husky](https://www.vojtechruzicka.com/githooks-husky/)
+- [Easy Git hooks with husky](https://www.vojtechruzicka.com/githooks-husky/)
 
 - [Git Hooked](https://www.javascriptjanuary.com/blog/git-hooked 'Git Hooked')
 
