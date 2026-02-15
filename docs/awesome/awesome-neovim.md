@@ -317,6 +317,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [bennorichters/taal.nvim](https://github.com/bennorichters/taal.nvim) - Improve grammar and spelling errors in multiple languages using LLMs.
 - [walkersumida/deepl.nvim](https://github.com/walkersumida/deepl.nvim) - Translates text using the DeepL API with multiple output modes (float, replace, append).
 - [acidsugarx/babel.nvim](https://github.com/acidsugarx/babel.nvim) - Translate text using Google Translate with async support, float display, and multi-picker integration.
+- [noir4y/comment-translate.nvim](https://github.com/noir4y/comment-translate.nvim) - Translate code comments and strings using online as well as local LLMs or external translators.
 <!--lint disable double-link -->
 <!--lint enable double-link -->
 
@@ -439,6 +440,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [folke/snacks.nvim#picker](https://github.com/folke/snacks.nvim/blob/main/docs/picker.md) - A modern fuzzy-finder to navigate the Neovim universe.
 - [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Fuzzy file picker with a standalone native implementation of file indexing and typo resistant fuzzy matcher. Includes all the QOL features, file previews (and images), frecency sorting, last query matching, proximity, Git status bonuses and much more.
 - [wsdjeg/picker.nvim](https://github.com/wsdjeg/picker.nvim) - Simple fuzzy finder, including files, ctags outline, and more.
+- [juniorsundar/refer.nvim](https://github.com/juniorsundar/refer.nvim) - A minimalist picker that doesn't get in your way.
 <!--lint disable double-link -->
 <!--lint enable double-link -->
 
@@ -1080,7 +1082,7 @@ then it is not supported:
 - [niuiic/omega.nvim](https://github.com/niuiic/omega.nvim) - Missing functions for Lua plugin development.
 - [2KAbhishek/utils.nvim](https://github.com/2KAbhishek/utils.nvim) - Powerful utilities to speed up plugin development.
 - [YaroSpace/lua-console.nvim](https://github.com/YaroSpace/lua-console.nvim) - A handy scratch pad / REPL / debug console for Neovim Lua development.
-- [DrKJeff16/wezterm-types](https://github.com/DrKJeff16/wezterm-types) - WezTerm config type annotations for Lua Language Server.
+- [DrKJeff16/wezterm-types](https://github.com/DrKJeff16/wezterm-types) - WezTerm config type annotations for Lua Language Server, including support for community plugins.
 - [chrisgve/databox.nvim](https://github.com/chrisgve/databox.nvim) - Encrypted storage for Lua tables using [age](https://github.com/FiloSottile/age) or compatible encryption tools for cryptographic safety.
 - [BirdeeHub/lze](https://github.com/BirdeeHub/lze) - A lazy-loading library for Neovim plugins.
 - [lumen-oss/lz.n](https://github.com/lumen-oss/lz.n) - A simple lazy loading library for Neovim plugins.
