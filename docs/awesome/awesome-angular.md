@@ -735,6 +735,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-css](https://github.com/squidit/ngx-css) - An Angular abstraction for [Squid CSS](https://github.com/squidit/css).
 * [ngx-mq](https://github.com/martsinlabs/ngx-mq) - A declarative library that uses signals and the native [matchMedia API](https://developer.mozilla.org/en-US/docs/Web/API/Window/matchMedia) to manage media queries, with built-in breakpoint presets for Tailwind, Bootstrap, and Angular Material.
 * [panda](https://github.com/chakra-ui/panda) - Easily use Panda, CSS-in-JS Framework, with Angular with its dedicated [integration](https://panda-css.com/docs/docs/installation/angular).
+* [prime-ng-theme-fe](https://github.com/mkccl/prime-ng-theme-fe) - A visual theme designer for PrimeNG.
 * [Super JSS](https://github.com/rsantoyo-dev/super-jss-workspace) - Super JavaScript Stylesheets is a tiny Angular runtime library that generates atomic CSS with breakpoints and theming.
 * [Theme-Kit](https://github.com/M1tsumi/Theme-Kit) - A unified design‑token SDK that centralizes your colors, typography, and spacing for seamless use across React, Vue, Angular, or any JavaScript project.
 * [tokiforge](https://github.com/TokiForge/tokiforge) - Framework-agnostic design token engine for React, Vue, Angular, Svelte & vanilla JS.
@@ -809,7 +810,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [Aikido](https://www.aikido.dev/) - Secure your code, cloud, and runtime in one central system. Find and fix vulnerabilities automatically.
 * [Angular Security](https://angular.dev/best-practices/security) - Best Practices.
-* [GitHub](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning) - Code scanning is available for all public repositories on GitHub.com.  You can turn on secret scanning and use Code QL to secure your repos.  
+* [GitHub Code Scanning](https://docs.github.com/en/code-security/concepts/code-scanning) - Learn core concepts for GitHub's code scanning features.
 * [GitHub Skills](https://skills.github.com/) - Guided interactive tutorials for Code Security and analysis are available.
 * [HackTricks](https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/angular) - Angular Security  Checklist.
 * [SafeDep](https://safedep.io/) - It continuously scans open source code for vulnerabilities and malware, helping security engineering teams proactively mitigate inherited OSS risks.
@@ -2115,6 +2116,7 @@ for the creation of web applications developed with Angular.
 * [lyne-angular](https://github.com/sbb-design-systems/lyne-angular) - Angular wrapper for the [Lyne Web Components](https://github.com/sbb-design-systems/lyne-components).
 * [@interopio/ng](https://www.npmjs.com/package/@interopio/ng) - [IO Connect](https://interop.io/) Angular wrapper to simplify initializing and using IO Connect libraries in projects.
 * [ng-elementum](https://github.com/MillerSvt/ng-elementum) - A modern fork of `@angular/elements` that enhances the integration of Angular components with the Web Components standard.
+* [ngfire](https://github.com/qarapace/ngfire) - A minimal Angular wrapper around the Firebase JS SDK.
 * [ngx-apexgantt](https://github.com/apexcharts/ngx-apexgantt) - Angular wrapper for [ApexGantt](https://github.com/apexcharts/apexgantt), a JavaScript library to create Gantt diagrams built on SVG.
 * [ngx-apexsankey](https://github.com/apexcharts/ngx-apexsankey) - Angular wrapper for [ApexSankey](https://github.com/apexcharts/apexsankey) - A JavaScript library to create Sankey diagrams.
 * [ngx-apextree](https://github.com/apexcharts/ngx-apextree) - Angular wrapper for [ApexTree](https://github.com/apexcharts/apextree) - a JavaScript library for creating organizational and hierarchical charts.

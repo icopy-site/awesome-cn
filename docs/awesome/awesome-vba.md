@@ -10,7 +10,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ---
 
-## Frameworks
+## Library Collections
 
 - [![p_win]](#-) [![p_nom]](#-)  [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sancarn/stdVBA?style&logo=github&label) [stdVBA](http://github.com/sancarn/stdVBA) - A framework containing numerous classes for automation and utility. Focuses on code compactness and long-term maintainability.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [![o_32]](#-) ![GHStars](https://img.shields.io/github/stars/kellyethridge/VBCorLib?style&logo=github&label) [VbCorLib](https://github.com/kellyethridge/VBCorLib) - A framework which brings many powerful .NET classes to VBA/VB6.
@@ -18,6 +18,14 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ## Libraries
 
+### Embedded programming languages
+
+- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/ECP-Solutions/ASF?style&logo=github&label) [Advanced Scripting Framework (ASF)](https://github.com/ECP-Solutions/ASF) - Complete scripting platform with JavaScript-like syntax, native Office ecosystem integration, classes with inheritance, professional debugging, zero dependencies, and VS Code extension.
+- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/jet2jet/vb2clr?style&logo=github&label) [vb2clr](https://github.com/jet2jet/vb2clr) - Use C# from VBA using the .NET CLR runtime.
+- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/ECP-Solutions/VBA-Expressions?style&logo=github&label) [VBA Expressions](https://github.com/ECP-Solutions/VBA-Expressions) - A powerful string expression evaluator focussed on mathematics and data processing.
+- From Library Collections:
+    - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) In `stdVBA` find `stdLambda` - Full programming language including object manipulation, call stack, etc.
+	
 ### Data Formats
 
 #### JSON
@@ -26,13 +34,13 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 - [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/VBA-tools/VBA-JSON?style&logo=github&label) [VBA-JSON](https://github.com/VBA-tools/VBA-JSON) - JSON conversion and parsing.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [mdJSON](https://www.vbforums.com/showthread.php?871695-VB6-VBA-JSON-parsing-to-built-in-VBA-Collections-with-JSON-Path-support) - JSON library with dot-notation for extracting paths.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [JSONBag](https://www.vbforums.com/showthread.php?738845-VB6-JsonBag-Another-JSON-Parser-Generator) - Uses shebang notation to extract keys from JSON strings. Can also build JSON with this library.
-- From Frameworks:
+- From Library Collections:
     - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) In `stdVBA` find `stdJSON` - As above.
 
 #### CSV
 
 - [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/ws-garcia/VBA-CSV-interface?style&logo=github&label) [VBA-CSV-interface](https://github.com/ws-garcia/VBA-CSV-interface) - Powerful, fast and comprehensive RFC-4180 compliant CSV/TSV/DSV data management library.
-- From Frameworks:
+- From Library Collections:
   - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) In `Hidennotare` find `csvWriter` and `csvReader`.
 
 #### XML
@@ -53,7 +61,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 #### Array-List
 
 - [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/Senipah/VBA-Better-Array?style&logo=github&label) [Better array](https://github.com/Senipah/VBA-Better-Array/tree/master/src) - An array class providing features found in more modern languages.
-- From Frameworks:
+- From Library Collections:
     - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [![o_32]](#-) In `VbCorLib` find `ArrayList` - As above.
     - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) In `stdVBA` find `stdArray` - As above. Also includes methods to search the array or perform checks from a callback.
 
@@ -66,7 +74,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 - [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [cHashList](https://www.vbforums.com/showthread.php?834515-Simple-and-fast-lightweight-HashList-Class-(no-APIs)) - Simple, Fast and lightweight HashList class with no use of Win32 API. Requires string keys however.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [CollectionEx](https://www.vbforums.com/showthread.php?834579-Wrapper-for-VB6-Collections) - Extends the default VBA(/VB6) collection with methods to retrieve and check for key existence. <!--TODO: This is listed as p_win, but honestly this might work on mac given the correct API declarations. Would be worth testing, see MemoryTools for Copy Memory declares-->
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [![o_32]](#-) [clsTrickHashTable](https://www.vbforums.com/showthread.php?788247-VB6-Hash-table) - A hash table using machine code injected at runtime. Full replacement for scripting dictionary, with bonus features.
-- From Frameworks:
+- From Library Collections:
     - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [![o_32]](#-) In `VbCorLib` find `HashTable` - As above.
     <!-- Hidennotare, though it simply wraps Scripting.Dictioanry... -->
 
@@ -114,21 +122,16 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/Greedquest/vbInvoke?style&logo=github&label) [vbInvoke](https://github.com/Greedquest/vbInvoke) - `Application.Run` but COM based and can call private module methods.
 - [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/cristianbuse/VBA-StateLossCallback?style&logo=github&label) [VBA state-loss callback](https://github.com/cristianbuse/VBA-StateLossCallback) - A crash free detector for VBA state-loss. State loss can occur when: Someone clicks `end` in an unhandled error; You click the VBA stop button; You enter design mode; Application exits.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/Ariche2/VBAStack?style&logo=github&label) [VBAStack](https://github.com/Ariche2/VBAStack) - A library for retrieving VBA callstack information at runtime from Office applications. The author also made a [pure VBA native version](https://www.reddit.com/r/vba/comments/1qrf29m/update_to_vbastack_can_now_work_in_vba6_as_well/).
-- [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/jet2jet/vb2clr?style&logo=github&label) [vb2clr](https://github.com/jet2jet/vb2clr) - Use C# from VBA using the .NET CLR runtime.
-- From Frameworks:
+- From Library Collections:
     - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) In `stdVBA` find `stdCOM` - A one stop shop for COM automation, from invoking interfaces by offsets to extracting type information.
     - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) In `stdVBA` find `stdReg` - Registry automation from searching to setting values.
 
 ### Parsers / Interpreters
 
-- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/ECP-Solutions/ASF?style&logo=github&label) [Advanced Scripting Framework (ASF)](https://github.com/ECP-Solutions/ASF) - Full featured scripting language and runtime with C-like syntax, closures, FFI for VBA calls and native regex support.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/sihlfall/vba-regex?style&logo=github&label) [vba-regex](https://github.com/sihlfall/vba-regex) - A native regex expression parser and runtime engine.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/wqweto/VbPeg?style&logo=github&label) [VbPeg](https://github.com/wqweto/VbPeg) - A parser generator for VBA. Converts PEG grammar like [this](https://github.com/wqweto/VbPeg/blob/master/test/Runner/peg/Kscope/grammar.peg) into [VBA code like this](https://github.com/wqweto/VbPeg/blob/master/test/Runner/peg/Kscope/cKscope.cls). Very useful if your implementing a new programming language in VBA. Wqweto has also included some math expression parsers as tests.
 - [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) [Volpi's Math Expression Parser](https://web.archive.org/web/20100703220609/http://digilander.libero.it/foxes/mathparser/MathExpressionsParser.htm) - A fast math expression parser. Doesn't allow calls to objects, no callstack.
-- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/ws-garcia/VBA-Expressions?style&logo=github&label) [VBA Expressions](https://github.com/ws-garcia/VBA-Expressions) - A powerful string expression evaluator focussed on mathematics and data processing.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/Excel-lent/ClooWrapperVBA?style&logo=github&label) [ClooWrapperVBA](https://github.com/Excel-lent/ClooWrapperVBA) - Execute OpenCL from VBA, using either the GPU or CPU.
-- From Frameworks:
-    - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) In `stdVBA` find `stdLambda` - Full programming language including object manipulation, call stack, etc. 
 
 ### Web tools
 
@@ -139,7 +142,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/PerditionC/VBAChromeDevProtocol?style&logo=github&label) [Chrome Automation (via devtools protocol)](https://github.com/PerditionC/VBAChromeDevProtocol) - Automate Chrome using chrome devtools protocol.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/GCuser99/SeleniumVBA?style&logo=github&label) [SeleniumVBA](https://github.com/GCuser99/SeleniumVBA) - Drive selenium webdriver directly from VBA. If you don't have the driver installed, the library will attempt to download it for you and run it. However AV may restrict the running of this process.
 - [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) ![GHStars](https://img.shields.io/github/stars/michaelneu/webxcel?style&logo=github&label) [webxcel](https://github.com/michaelneu/webxcel) - A webserver which runs a RESTful backend. The creator also made an [article](https://dev.to/michaelneu/to-vba-and-beyond---building-a-restful-backend-using-plain-microsoft-excel-macros-76n) on how it works on dev.to.
-- From Frameworks:
+- From Library Collections:
     - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) In `stdVBA` find `stdHTTP` - Connect to and query web services.
 
 
