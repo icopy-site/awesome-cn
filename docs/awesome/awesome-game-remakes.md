@@ -29,6 +29,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 ## Arcade
 - [Barbarian](http://barbarian.1987.free.fr/indexEN.htm) - Open-source clone of Barbarian: The Ultimate Warrior.
 - [C-Dogs SDL](https://github.com/cxong/cdogs-sdl) - Classic overhead run-and-gun game. :flower_playing_cards:
+- [Crimsonland](https://github.com/banteg/crimson) - Faithful from-scratch rewrite of the twin-stick shooter Crimsonland.
 - [Mr.Boom](https://github.com/Javanaise/mrboom-libretro) - 8-player Bomberman clone for RetroArch/Libretro.
 - [OpenClonk](https://github.com/openclonk/openclonk) - Multiplayer action game where you control small and nimble humanoids.
 - [OpenJazz](https://github.com/AlisterT/openjazz) - Free, open-source version of the classic Jazz Jackrabbit™ games.

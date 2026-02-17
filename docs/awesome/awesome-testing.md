@@ -22,10 +22,10 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Keploy](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks.
 - [RestQA](https://github.com/restqa/restqa) - REST API testing framework based on Gherkin.
 - [SpecTest](https://github.com/justiceo/spectest) - Truly declarative API testing framework in Js, or plain JSON.
-- [Zato API Test](https://zato.io/en/docs/3.2/api-testing/index.html) - API testing in plain English with extendable Python implementation.
 - [Tests Coverage Tool](https://github.com/Nikita-Filonov/tests-coverage-tool) - Ultimate tool to measure gRPC service coverage from tests.
 - [Swagger Coverage Tool](https://github.com/Nikita-Filonov/swagger-coverage-tool) - The Swagger Coverage Tool is designed to measure API test coverage based on Swagger documentation. It provides automated tracking and reporting of test coverage for APIs, helping ensure that your endpoints and services are well-tested.
 - [Webhook Debugger & Logger](https://apify.com/ar27111994/webhook-debugger-logger) - Enterprise-grade tool for testing, debugging, and logging incoming webhooks in real-time.
+- [Webhook Debugger](https://github.com/brancogao/webhook-debugger) - Open-source, self-hosted webhook inspector with signature verification support.
 
 ### Security Testing
 - [BeEF](http://beefproject.com/) - Manipulate the browser by exploiting any XSS vulnerabilities you find.
@@ -165,6 +165,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality) - A list of free software testing and verification resources.
 - [Awesome Cucumber](https://github.com/virajkulkarni14/awesome-cucumber) - A (relatively-newer) curated list of awesome Cucumber and Gherkin-related resources.
 - [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
+- [Awesome Performance Engineering](https://github.com/be-next/awesome-performance-engineering) - A curated collection of tools and resources for performance engineering, covering observability and performance testing.
 - [How They Test](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
 
 ## QA and Testing Road Map

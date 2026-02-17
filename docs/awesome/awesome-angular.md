@@ -713,6 +713,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [deepequalspure](https://github.com/puckowski/deepequalspure) - JavaScript object deep equals service for Angular projects.
 * [falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs.
 * [lbx-change-sets](https://github.com/Service-Soft/lbx-change-sets) - Automatically tracks entity changes using an extendable base repository.
+* [ng-noop](https://github.com/joeskeen/ng-noop) - A minimal, DOM‑less Angular platform for custom runtimes, CLIs, servers, and experimental renderers.
 * [ngx-compare-object](https://github.com/RzoDev/ngx-compare-object) - Angular utility to compare an original object with its modified version.
 * [ngx-json-reader](https://github.com/Verbalman/ngx-json-reader) - Angular 17+ JSON reader/editor with multi-URL comparison and diffing.
 * [ngx-signal-hub](https://www.npmjs.com/package/ngx-signal-hub) - Lightweight Angular hub unifying callbacks with signal‑based event observation.
@@ -1889,6 +1890,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [JSuites](https://github.com/jsuites/jsuites) - Collection of UI components and utilities (forms, modals, inputs) that can be integrated into Angular with custom wrappers or directives.
 * [ngx-support-chat](https://github.com/avs2001/ngx-support-chat) - A pure presentational Angular component library for customer support chat interfaces.
 * [luma-ui](https://github.com/lumaui/luma-ui) - Neo-Minimal design system for Angular applications.
+* [Mundane UI](https://github.com/waga97/Mundane-UI) - Framework-agnostic, zero-dependency, lightweight UI component library.
 
 ### UI Libraries built on Bootstrap
 
