@@ -19,10 +19,14 @@
   - [PICO-8](https://www.lexaloffle.com/pico-8.php)
   - [Forum/BBS](https://www.lexaloffle.com/bbs/?cat=7)
   - [Twitter](https://twitter.com/lexaloffle)
+  - [BlueSky](https://bsky.app/profile/lexaloffle.bsky.social)
+  - [Mastodon](http://mastodon.social/@zep)
   - [Facebook](https://www.facebook.com/lexaloffle/)
   - [Youtube](https://www.youtube.com/user/lexaloffletv)
 - [Subreddit](https://www.reddit.com/r/pico8/)
 - [#pico8 on Twitter](https://twitter.com/hashtag/pico8)
+- [#pico8 on BlueSky](https://bsky.app/hashtag/pico8)
+- [#pico8 on Mastodon](https://mastodon.social/tags/pico8)
 - [#pico8 on Freenode](https://webchat.freenode.net/?randomnick=1&channels=#pico8&prompt=1)
 - [Pico-8 Console News](https://twitter.com/pico8console)
 - [Pico-8 Wiki](https://pico-8.wikia.com/wiki/Pico-8_Wikia)
@@ -85,6 +89,7 @@
 - [yap8b](https://github.com/Enerccio/yap8b) - Build tool for creating pico carts from multiple source files.
 - [TS-PICO-8](https://github.com/tmountain/pico-8-typescript) - Create PICO-8 games using TypeScript.
 - [Shrinko8](https://github.com/thisismypassport/shrinko8) - A minifier that aggressively shrinks Pico-8 code size. Also includes a linter and other tools.
+- [jspicl](https://github.com/jspicl/jspicl) - Write PICO-8 games in JavaScript or TypeScript, with live reloading so you can see your changes instantly!
 
 ### Libraries
 
