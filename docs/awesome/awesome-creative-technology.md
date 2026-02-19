@@ -341,6 +341,7 @@ Undergrad programs, masters and open course teaching and researching creative te
 
 | Name | Locations | Keywords | Jobs |
 | ---- | --------- | -------- | ---- |
+| [**Design and Technology at Parsons**](https:&#x2F;&#x2F;www.newschool.edu&#x2F;parsons&#x2F;mfa-design-technology&#x2F;) | [NYC] | critical computation, physical computing, game design, data visualization, creative coding, bio design | 
 | [**Goldsmiths**](https:&#x2F;&#x2F;www.gold.ac.uk&#x2F;pg&#x2F;ma-computational-arts&#x2F;) | [London] | a degree which develops your arts practice through the expressive world of creative computation | 
 | [**ITP**](https:&#x2F;&#x2F;tisch.nyu.edu&#x2F;itp) | [NYC] | ITP&#x2F;IMA offers four programs focused on creative and meaningful application of interactive tools and media. | 
 | [**MIT Medialab**](https:&#x2F;&#x2F;media.mit.edu&#x2F;) | [Boston] | art, science, design, and technology build and play off one another in an environment designed for collaboration and inspiration | 
