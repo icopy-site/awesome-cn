@@ -85,7 +85,6 @@ The purpose of this document is to provide a quick overview over existing packag
 
 - [BackpackLogin](https://github.com/igeligel/BackpackLogin) - A .NET Standard library for logging into backpack.tf using Steam credentials.
 - [TeamFortressOutpostApi](https://github.com/igeligel/TeamFortressOutpostApi) - A .NET Standard class library which allows user to interact with TF2Outpost.
-- [SteamGaugesApi](https://github.com/igeligel/SteamGaugesApi) - A .NET Standard 2.0 library to automatically use the API of [steamgauges](https://steamgaug.es/).
 
 ### PHP
 

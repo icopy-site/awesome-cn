@@ -17,6 +17,7 @@
 - [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) - An alternative bootstrapper for Roblox with a bunch of extra features.
 - [BTRoblox](https://github.com/AntiBoomz/BTRoblox) - Browser extension that enhances the Roblox website's look and functionality.
 - [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - An open-source custom bootstrapper for Roblox Studio that allows you to override files in Roblox Studio's directory, opt into development branches of Roblox, and experiment with Fast Flags.
+- [Vinegar](https://github.com/vinegarhq/vinegar) - An open-source, configurable, fast bootstrapper for running Roblox Studio on Linux.
 
 ## Experiences
 

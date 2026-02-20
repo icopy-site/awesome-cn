@@ -481,6 +481,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [RStudio](https://www.rstudio.com) | IDE – powerful user interface for R. It’s free and open source, and works on Windows, Mac, and Linux. |
 | [Python - Pandas - Anaconda](https://www.anaconda.com) | Completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing |
 | [Pandas GUI](https://github.com/adrotog/PandasGUI) | Pandas GUI |
+| [Polars](https://github.com/pola-rs/polars) | Fast DataFrame library for Rust and Python, designed as a faster alternative to Pandas |
 | [Scikit-Learn](https://scikit-learn.org/stable/) | Machine Learning in Python |
 | [NumPy](https://numpy.org/) | NumPy is fundamental for scientific computing with Python. It supports large, multi-dimensional arrays and matrices and includes an assortment of high-level mathematical functions to operate on these arrays. |
 | [Vaex](https://vaex.io/) | Vaex is a Python library that allows you to visualize large datasets and calculate statistics at high speeds. |

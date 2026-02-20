@@ -334,6 +334,7 @@ Things that work with project files or GameMaker itself rather than being someth
 - [3D Collisions Playlist](https://www.youtube.com/watch?v=o7kjtTEMpeU&list=PL_hT--4HOvrf_VYo26LNl3zN5uwfuC3CC) - DragoniteSpam. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [3D Optimization Playlist](https://www.youtube.com/watch?v=knfAZbJJKNY&list=PL_hT--4HOvrf_CJSA7fVU1tkjGVv5Sq2t) - DragoniteSpam. ![YouTube](https://github.com/bytecauldron/awesome-gamemaker/raw/main/icons/youtube.png)
 - [glTF parser](https://bitbucket.org/tijit/gltf-parser-for-gamemaker-lts/src/main/) - A model loader with support for animations.
+- [GMFlux](https://github.com/Fanatrick/GMFlux) - Heightfield fluid simulation solver.
 
 ## Sprite Stacking
 

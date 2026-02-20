@@ -111,6 +111,7 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 
 ### Device & Sensors
 - [Accelerometer](https://github.com/Cap-go/capacitor-accelerometer) - Read device accelerometer measurements.
+- [Age Range](https://github.com/Cap-go/capacitor-age-range) - Cross-platform age range detection for Android and iOS.
 - [Barometer](https://github.com/Cap-go/capacitor-barometer) - Access device barometer readings.
 - [Brightness](https://github.com/Cap-go/capacitor-brightness) - Control screen brightness on iOS and Android.
 - [Compass](https://github.com/Cap-go/capacitor-compass) - Native compass heading plugin.
@@ -154,7 +155,10 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [Launch Navigator](https://github.com/Cap-go/capacitor-launch-navigator) - Launch native route navigation apps for Android and iOS.
 
 ### Authentication & Security
+- [App Attest](https://github.com/Cap-go/capacitor-app-attest) - Device attestation with Apple App Attest (iOS) and Play Integrity (Android).
+- [App Tracking Transparency](https://github.com/Cap-go/capacitor-app-tracking-transparency) - Request ATT authorization for tracking on iOS.
 - [Native Biometric](https://github.com/Cap-go/capacitor-native-biometric) - Access native biometric APIs for Android and iOS.
+- [Persona](https://github.com/Cap-go/capacitor-persona) - Launch Persona inquiry flows on iOS and Android.
 - [Social Login](https://github.com/Cap-go/capacitor-social-login) - All social logins in one plugin.
 - [Autofill Save Password](https://github.com/Cap-go/capacitor-autofill-save-password) - Prompt to save login into device password manager.
 - [Persistent Account](https://github.com/Cap-go/capacitor-persistent-account) - Securely store account information for a user.
@@ -162,6 +166,7 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 
 ### UI & Display
 - [In App Browser](https://github.com/Cap-go/capacitor-inappbrowser) - Native in-app browser for secure web content.
+- [Live Activities](https://github.com/Cap-go/capacitor-live-activities) - Manage iOS Live Activities from Capacitor.
 - [Navigation Bar](https://github.com/Cap-go/capacitor-navigation-bar) - Set navigation bar color for Android Lollipop and higher.
 - [Home Indicator](https://github.com/Cap-go/capacitor-home-indicator) - Hide and show home button indicator in Capacitor app.
 - [Screen Orientation](https://github.com/Cap-go/capacitor-screen-orientation) - Control device orientation with support for bypassing orientation lock.
@@ -178,6 +183,7 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 
 ### Communication & Messaging
 - [Crisp](https://github.com/Cap-go/capacitor-crisp) - Native SDK for customer messaging and chat support.
+- [Intercom](https://github.com/Cap-go/capacitor-intercom) - Intercom SDK integration for Capacitor apps.
 - [NFC](https://github.com/Cap-go/capacitor-nfc) - Native NFC tag discovery, reading and writing for iOS and Android.
 - [Bluetooth Low Energy](https://github.com/Cap-go/capacitor-bluetooth-low-energy) - BLE plugin with support for scanning, connecting, reading, writing, and notifications.
 - [WiFi](https://github.com/Cap-go/capacitor-wifi) - Manage WiFi connectivity for your Capacitor app.
@@ -233,6 +239,7 @@ Plugins owned by [Capgo organisation](https://github.com/Cap-go) and maintained 
 - [Alarm](https://github.com/Cap-go/capacitor-alarm) - Manage native alarms.
 - [Env](https://github.com/Cap-go/capacitor-env) - Set Env var in Capacitor config and read them at runtime.
 - [WebView Guardian](https://github.com/Cap-go/capacitor-webview-guardian) - Detect when the WebView was killed in the background and relaunch it on foreground.
+- [WebView Version Checker](https://github.com/Cap-go/capacitor-webview-version-checker) - Check Android WebView version and prompt users to update when needed.
 - [LLM](https://github.com/Cap-go/capacitor-llm) - Adds support for LLM locally run for Capacitor.
 
 ### Specialized Hardware
