@@ -1418,6 +1418,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [color-picker](https://github.com/acrodata/color-picker) - Another beautiful color picker.
 * [ngx-pattern-lock](https://github.com/nicotole/ngx-pattern-lock) - A lightweight, fully responsive, and customizable Android-style pattern lock component for Angular.
 * [smt-select](https://github.com/sametacar/smt-select) - A high-performance, lightweight, and customizable Angular select component with built-in virtual scroll and search capabilities.
+* [ngx-mat-searchable-select](https://github.com/khalilElmouedene/ngx-mat-searchable-select) - A reusable Angular Material select component with infinite scroll, debounced search, "no items found" feedback, and static/mock data support.
 
 ### JSON Forms
 
@@ -1770,6 +1771,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-speculation-rules](https://github.com/SkyZeroZx/ngx-speculation-rules) - Angular library for the [Speculation Rules API](https://developer.mozilla.org/en-US/docs/Web/API/Speculation_Rules_API) enabling prefetching and prerendering for faster, SSR- and Zoneless-compatible navigation.
 * [ui-router](https://github.com/ui-router/angular) - State-based routing in Angular is enabled through [UI-Router for Angular](https://ui-router.github.io).
 * [ngx-url-params](https://github.com/shlomog12/ngx-url-params) - Lightweight Angular service for managing and synchronizing URL query parameters with a concise, reactive API.
+* [ngx-history](https://github.com/lumentut/ngx-history) - Modern Angular navigation history service with reactive programming support.
 
 ### Scroll
 

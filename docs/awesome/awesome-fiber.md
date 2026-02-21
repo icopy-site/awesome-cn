@@ -99,6 +99,7 @@ List of middlewares that are created by the Fiber community.
 - [aschenmaker/fiber-health-check](https://github.com/aschenmaker/fiber-health-check) - Health-check middleware support health-check for Fiber️ framework.
 - [elastic/apmfiber](https://github.com/elastic/apm-agent-go/tree/master/module/apmfiber) - APM Agent for Go Fiber.
 - [eozer/fiber_ldapauth](https://github.com/eozer/fiber_ldapauth) - LDAP Authentication Middleware for Fiber.
+- [fugue-labs/gollem](https://github.com/fugue-labs/gollem/tree/main/contrib/fiberhandler) - Handler adapter that wraps a gollem AI agent as a Fiber handler with SSE streaming support.
 - [DavidHoenisch/fiber-coraza](https://github.com/DavidHoenisch/fiber-coraza) - Coraza WAF middleware for Fiber, providing web application firewall protection with ModSecurity-compatible rules.
 - [darkweak/souin](https://github.com/darkweak/souin) - HTTP cache, RFC compliant, alternative to Varnish available as a middleware.
 - [witer33/fiberpow](https://github.com/witer33/fiberpow) - Anti DDoS/Bot Middleware with a customizable Proof Of Work challenge.
