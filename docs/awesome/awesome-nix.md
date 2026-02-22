@@ -9,7 +9,7 @@
   </picture>
 </a>
 
-> A curated list of the best resources in the Nix community.
+A curated list of the best resources in the Nix community.
 
 <br>
 
@@ -27,6 +27,8 @@
 * [Explainix](https://zaynetro.com/explainix) - Explain Nix syntax visually.
 * [How to Learn Nix](https://ianthehenry.com/posts/how-to-learn-nix/) - It's like a Let's Play, but for obscure software documentation.
 * [Nix - A One Pager](https://code.tvl.fyi/about/nix/nix-1p) - A one page introduction to the Nix language.
+* [nix-book](https://saylesss88.github.io) - A comprehensive guide to NixOS
+  hardening and configuration.
 * [Nix from First Principles: Flake Edition](https://tonyfinn.com/blog/nix-from-first-principles-flake-edition/) - A modern crash-course to using Nix features, Flakes, and developing with Nix.
 * [Nix in 100 Seconds](https://www.youtube.com/watch?v=FJVFXsNzYZQ) - A YouTube video from Fireship presenting Nix in 100 seconds.
 * [Nix Notes](https://github.com/noteed/nix-notes) - A collection of short notes about Nix, each contributing to the same virtual machine image.
@@ -147,8 +149,10 @@
 * [namaka](https://github.com/nix-community/namaka) - Snapshot testing for Nix based on haumea.
 * [nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistent for writing in Nix.
 * [niv](https://github.com/nmattia/niv/) - Easy dependency management for Nix projects with package pinning.
+* [nix2container](https://github.com/nlewo/nix2container) - An efficient container building workflow with Nix.
 * [nix-direnv](https://github.com/nix-community/nix-direnv) - A fast loader and flake-compliant configuration for the direnv environment auto-loader.
 * [nix-health](https://github.com/juspay/nix-health) - A program to check the health of your Nix install. Furthermore, individual projects can configure their own health checks in their `flake.nix`.
+* [nix-oci](https://github.com/Dauliac/nix-oci) - A flake-parts module for building minimal, reproducible OCI containers using nix2container.
 * [nix-update](https://github.com/Mic92/nix-update) - Update versions/source hashes of nix packages.
 * [nixd](https://github.com/nix-community/nixd) - Nix language server, based on Nix libraries.
 * [nixpkgs-review](https://github.com/Mic92/nixpkgs-review) - The best tool to verify that a pull-request in Nixpkgs is building properly.

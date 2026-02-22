@@ -80,6 +80,7 @@ Contributions are welcome. Please read the [contributing guideline](https://gith
 ### Acquisition
 
 - [APT](https://www.astrophotography.app) - The Swiss army knife for your astro imaging sessions.
+- [AstroDMx Capture](https://www.astrodmx-capture.org.uk) - Cross-platform capture software for planetary, lunar, and solar imaging.
 - [Ekos](https://indilib.org) - An advanced cross-platform (Windows, macOS, Linux) observatory control and automation tool.
 - [NINA](https://nighttime-imaging.eu) - Free and very powerful astrophotography imaging suite.
 - [Nebulosity](https://github.com/celstark/OpenNebulosity) - Open source, powerful, and easy to use astrophotography software.
@@ -94,9 +95,13 @@ Contributions are welcome. Please read the [contributing guideline](https://gith
 ### Image Processing
 
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html) - Advanced and very powerful software for post-processing.
+- [AutoStakkert!](https://www.autostakkert.com) - Planetary stacking software using alignment points for local motion correction.
 - [BlurXTerminator](https://www.rc-astro.com/resources/BlurXTerminator/) - An AI based deconvolution tool. Currently only available as a process module plug-in for PixInsight.
 - [DeepSkyStacker](http://deepskystacker.free.fr/english/index.html) - Registering, stacking, and simple post-processing.
+- [Eise](https://eise.app) - Browser-based planetary stacker with no installation required.
 - [PixInsight](https://pixinsight.com) - Advanced image processing software platform. Very powerful but the user interface is intimidating.
+- [Planetary System Stacker](https://github.com/Rolf-Hempel/PlanetarySystemStacker) - Cross-platform planetary stacker with alignment point tracking and quality-weighted stacking.
+- [Registax](https://www.astronomie.be/registax/) - Planetary image processing with wavelet sharpening and frame stacking.
 - [Siril](https://siril.org) - Registering, stacking, and post-processing, specially tailored for noise reduction and improving the signal-to-noise ratio.
 - [StarNet++](https://sourceforge.net/projects/starnet/) - A simple program that allows the removal of the stars from astrophotography images.
 

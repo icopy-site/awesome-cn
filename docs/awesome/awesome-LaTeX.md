@@ -104,9 +104,9 @@ Online editors that allow you to edit documents collaboratively.
 
 - [List of popular online LaTeX editors](https://tex.stackexchange.com/questions/3/compiling-documents-online/1654#1654) - Community-maintained list of popular online LaTeX editor including equation editors.
 - [Authorea](https://www.authorea.com) - Online editor with built-in git support and bibliography tools.
-- [Crixet](https://app.crixet.com) - Online editor with realtime collaboration features.
+- [OpenAI Prism](https://prism.openai.com) - Online editor with realtime collaboration features.
 - [Modern LaTeX Editor](https://github.com/InMDev/Modern-LaTeX-Editor) - Online editor, no-signup hybrid code editor + visual editor that mixes Notion/Google docs/Microsoft Word-like editing with raw LaTeX code blocks.
-- [Octree](https://useoctree.com) - Online editor with AI writing assistance.
+- [Octree](https://www.useoctree.com) - Online editor with AI writing assistance.
 - [Overleaf](https://www.overleaf.com) - Online editor, also with a WYSIWYM editor and git support.
   - [olcli](https://github.com/aloth/olcli) - Command-line interface for Overleaf to sync, manage, and compile projects from the terminal. ![foss]
 - [WebLaTeX](https://github.com/sanjib-sen/weblatex) - Web-based vscode with Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support based on GitHub Codespace and Dev container.
@@ -199,7 +199,6 @@ TikZ is an awesome package with many plugins that allow you to create figures fr
 Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 
 - [TeXample](https://www.texample.net) - Blog about LaTeX, with a big collection of TikZ figures.
-- [LaTeX en SI](https://sciences-indus-cpge.papanicola.info/-LaTeX-en-SI-) - Useful website with some custom packages to draw special plots (Bode, Nyquist, electrical schematics, block schematics, etc.) using TikZ. Note that everything is in French.
 - [pgfplots](http://pgfplots.sourceforge.net) - Truly awesome plotting library on top of and in the style of TikZ/pgf. This library can load in CSV data files, perform some calculations and create beautiful plots.
 - [A very minimal introduction to TikZ (PDF)](https://cremeronline.com/LaTeX/minimaltikz.pdf) - Short introductory document to the world of TikZ, written by Jacques Crémer.
 - [PetarV-/TikZ](https://github.com/PetarV-/TikZ) - Collection of publication-ready PGF/TikZ figures by Petar Veličković.

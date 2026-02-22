@@ -158,13 +158,14 @@ Things that work with project files or GameMaker itself rather than being someth
 - [FPS Speedometer](https://dragonite.itch.io/fps-speedometer-for-gamemaker) - Pretty framerate display.
 - [Duck](https://github.com/imlazyeye/duck) - A fast GML analyzer to enforce code styling and detect errors.
 - [Gobo](https://github.com/Pizzaandy/Gobo/) - An opinionated code formatter for GML.
+- [Gobo (EttyKitty fork)](https://github.com/EttyKitty/Gobo/) - A bit less opinionated code formatter for GML, with more options and functionality.
 - [Inspectron](https://github.com/shdwcat/Inspectron) - A fluent API for easily creating GameMaker debug views.
 - [GMPulse](https://topherlicious.itch.io/gmpulse) - A runtime inspector and control panel. 💸
 - [Lookout](https://github.com/glebtsereteli/Lookout) - Helpful debug overlay views.
 
 ## Input Handling
 
-- [Input](https://github.com/JujuAdams/input) - No nonsense gamepad/keyboard library.
+- [Input](https://codeberg.org/offalynne/Input) - No nonsense gamepad/keyboard library.
 - [XeroInput](https://www.reddit.com/r/gamemaker/comments/icoh6m/xeroinput_gms23_input_handler/) - Another library to handle multiple inputs for a single action.
 - [InputCandy](https://github.com/LAGameStudio/InputCandy) - Similar to Input as it acts as a wrapper for SDL, with actions and signalling, but also provides testing, on-screen diagnostics, and some other UI components related to peripherals, as well as pre-built end-user configuration menus that can be easily restyled.
 - [Good Vibes](https://github.com/mrdaneeyul/good-vibes) - Device vibration.

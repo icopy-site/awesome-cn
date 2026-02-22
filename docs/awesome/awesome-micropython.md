@@ -270,7 +270,7 @@ Other places you can look for MicroPython Libraries:
 * [micropython_ntpserver](https://github.com/GrantGMiller/micropython_ntpserver) - An NTP server written for MicroPython.
 * [micropython-ntpclient](https://github.com/wieck/micropython-ntpclient) - NTP client for MicroPython using uasyncio.
 * [micropython-ntp](https://github.com/ekondayan/micropython-ntp) - Robust NTP library for MicroPython.
-* [micropython-simple-async-ntpclient](https://github.com/dsiggi/micropython-simple_async_ntpclient) - Very simple async MicroPython module to receive the current time from an NTP server.
+* [micropython-simple-async-ntpclient](https://codeberg.org/dsiggi/micropython-simple_async_ntpclient) - Very simple async MicroPython module to receive the current time from an NTP server.
 
 #### Object Storage
 
@@ -310,7 +310,7 @@ Other places you can look for MicroPython Libraries:
 * [ESP32-433Mhz-Transmitter](https://github.com/Aschhoff/ESP32-433Mhz-Transmitter) - A pure MicroPython RF transmitter. You can create and add your own encoder.
 * [pico_jjy_tx](https://github.com/elehobica/pico_jjy_tx) - JJY transmitter for Raspberry Pi Pico W.
 * [pico_dcf77_tx](https://github.com/elehobica/pico_dcf77_tx) - DCF77 transmitter for Raspberry Pi Pico W.
-* [micropython_dcf77](https://github.com/dsiggi/micropython-dcf77) - DCF77 receiver and decoder.
+* [micropython_dcf77](https://codeberg.org/dsiggi/micropython-dcf77) - DCF77 receiver and decoder.
 
 #### RC receiver
 
@@ -656,7 +656,7 @@ Other places you can look for MicroPython Libraries:
 #### IO-Expander
 
 * [micropython-mcp230xx](https://github.com/ShrimpingIt/micropython-mcp230xx) - Driver for MCP23017 and MCP23008 GPIO expanders.
-* [micropython-mcp230xx](https://github.com/dsiggi/micropython-mcp230xx) - Driver for MCP23017 and MCP23008 GPIO expanders, extended with interrupt handling.
+* [micropython-mcp230xx](https://codeberg.org/dsiggi/micropython-mcp230xx) - Driver for MCP23017 and MCP23008 GPIO expanders, extended with interrupt handling.
 * [micropython-mcp23017](https://github.com/mcauser/micropython-mcp23017) - MicroPython driver for MCP23017 16-bit I/O Expander.
 * [micropython-pcf8574](https://github.com/mcauser/micropython-pcf8574) - MicroPython driver for PCF8574 8-Bit I2C I/O Expander with Interrupt.
 * [micropython-pcf8575](https://github.com/mcauser/micropython-pcf8575) - MicroPython driver for PCF8575 16-Bit I2C I/O Expander with Interrupt.
@@ -686,7 +686,7 @@ Other places you can look for MicroPython Libraries:
 
 #### Potentiometers
 
-* [micropython-ad840x](https://github.com/dsiggi/micropython-ad840x) - MicroPython SPI-based manipulation of the AD series digital potentiometers AD8400, AD8402 and AD8403.
+* [micropython-ad840x](https://codeberg.org/dsiggi/micropython-ad840x) - MicroPython SPI-based manipulation of the AD series digital potentiometers AD8400, AD8402 and AD8403.
 * [mcp4131](https://github.com/scruss/mcp4131) - MicroPython module to control MicroChip's MCP4131 SPI digital potentiometer.
 * [MicroPython_DS1841](https://github.com/jposada202020/MicroPython_DS1841) - MicroPython Driver for the DS1841 Potentiometer.
 * [MicroPython_DS3502](https://github.com/jposada202020/MicroPython_DS3502) - MicroPython Driver for the DS3502 Potentiometer.

@@ -138,3 +138,4 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hac
 - [Distributed Gaming using J2ME and XML](https://www.cs.sjsu.edu/faculty/pollett/masters/Semesters/Fall03/Rekha/CS297Report.pdf) - Writeup on creating a cross-platform using Oracle XML database for gaming.
 - [Experiences of Implementing BitTorrent on Java ME Platform](https://ieeexplore.ieee.org/abstract/document/4446557) - Detailed writeup on implementing BitTorrent client on Nokia S40. Includes methodology and results.
 - [Networked J2ME Applications](https://www.mooreds.com/midp/midp.htm) - Paper exploring various facets of building networked MIDP 1.0 applications.
+- [JSR 184: M3G Specification](https://jcp.org/en/jsr/detail?id=184) - Specification for Mobile Graphics 3D Graphics API(M3G), which is a file format and API for 3D graphics capabilities to J2ME devices. It has two mode: immediate and retained. The former is compatible with OpenGL ES.
