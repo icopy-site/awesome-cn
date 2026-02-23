@@ -351,6 +351,7 @@
 *自托管 CTF*
 - [Damn Vulnerable Web Application](http://www.dvwa.co.uk/) - 极易受到攻击的 PHP/MySQL Web 应用程序.
 - [Juice Shop CTF](https://github.com/bkimminich/juice-shop-ctf) - 用于托管 CTF 的脚本和工具 [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project) 容易地.
+- [Pentest-Ground](https://pentest-ground.com/) - Pentest-Ground is a free playground with deliberately vulnerable web applications and network services.
 
 ## Websites
 
