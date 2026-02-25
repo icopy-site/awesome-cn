@@ -328,6 +328,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [NameQuick](https://namequick.app) - AI-powered file renaming tool for macO
 * [PaintCode](https://www.paintcodeapp.com/) - Vector drawing app that generates Objective-C or Swift code in real time.
 * [Pasteboard Viewer](https://github.com/sindresorhus/Pasteboard-Viewer) - Inspect the system pasteboards. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/Pasteboard-Viewer) ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1499215709)
+* [Poirot](https://github.com/LeonardoCardoso/Poirot) - A macOS companion app for browsing Claude Code sessions, exploring diffs, and re-running commands. [![Open-Source Software][OSS Icon]](https://github.com/LeonardoCardoso/Poirot) ![Freeware][Freeware Icon]
 * [PPRows](https://github.com/jkpang/PPRows) - Application to calculate how many lines of code you write. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/jkpang/PPRows)
 * [ProcessSpy](https://process-spy.app/) - A clean and powerful process monitor.
 * [PushMate](https://pushmate.app) - Solves common push notification problems on macOS.
@@ -612,6 +613,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [Monosnap](https://monosnap.com/) - Make screenshots. Draw on it. Shoot video and share your files. It's fast, easy and free. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/app/monosnap/id540348655)
 * [OBS Studio](https://github.com/obsproject/obs-studio) - A free and open source software for live streaming and screen recording. [![Open-Source Software][OSS Icon]](https://github.com/obsproject/obs-studio)
 * [Quick Recorder](https://lihaoyun6.github.io/quickrecorder/) - A lightweight and high-performance screen recorder for macOS [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/QuickRecorder) ![Freeware][Freeware Icon]
+* [Reframed](https://reframed.dev) - A powerful screen recorder with built-in video editor. Capture screen, areas, windows or iOS devices with webcam and microphone - then trim, zoom, style and export. [![Open-Source Software][OSS Icon]](https://github.com/jkuri/Reframed) ![Freeware][Freeware Icon]
 * [Screen Studio](https://www.screen.studio/) - Record beautiful screens in minutes, with built-in exquisite frame animations, no need for editing.
 * [Screenize](https://syi0808.github.io/screenize/) - Open-source screen recording app with auto-zoom, cursor effects, and timeline editing — Screen Studio alternative. [![Open-Source Software][OSS Icon]](https://github.com/syi0808/screenize) ![Freeware][Freeware Icon]
 * [Screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local screen & mic recording with AI-powered search. Recall anything you've seen, said, or heard with natural language queries. [![Open-Source Software][OSS Icon]](https://github.com/mediar-ai/screenpipe) ![Freeware][Freeware Icon]

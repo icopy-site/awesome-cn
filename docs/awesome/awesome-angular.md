@@ -778,6 +778,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-webauthn](https://github.com/JonnyHeavey/ngx-webauthn) - An Angular library offering a type-safe, streamlined abstraction of the native WebAuthn API, with built-in support for standard types and optional presets for common use cases.
 * [omni-auth](https://github.com/ngx-addons/omni-auth) - Angular authentication library providing core functionality for authentication flows, guards, and error handling.
 * [otp-angular](https://github.com/subha-patra/otp-angular) - A lightweight, highly customizable, and dependency-free OTP (One-Time Password) input component built for Angular 20+ applications.
+* [passlock](https://github.com/passlock-dev/passlock) - Frictionless passkey authentication for Angular and other frameworks.
 * [@serhiisol/ngx-auth](https://github.com/serhiisol/ngx-auth) - Angular 20+ Authentication Module.
 * [Supabase](https://supabase.com/docs/guides/getting-started/tutorials/with-angular) - Build a User Management App with Angular.
 * [SuperTokens](https://supertokens.com) - Configure your [Angular](https://supertokens.com/docs/quickstart/frontend-setup) application to use SuperTokens for authentication.
@@ -891,6 +892,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-event-bus-lib](https://github.com/orelnatan/ngx-event-bus-lib) - Broadcast strongly-typed events anywhere in your app and react to them declaratively — without services, DI, providers, RxJS, signals, or tight coupling.
 * [rs-x](https://github.com/robert-sanders-software-ontwikkeling/rs-x) - A reactive engine that unifies sync and async data into one transparent model, giving Angular fine‑grained automatic change detection without manual async handling.
 * [stateloom](https://github.com/sujeet-pro/stateloom) - A universal state‑management SDK featuring a signal‑driven reactive core, along with paradigm adapters (Store, Atom, Proxy) and framework adapters for React, Angular, and more.
+* [ngx-state-crafter](https://github.com/irvrodflo/ngx-state-crafter) - A lightweight, signal‑driven state library for Angular with a clean, boilerplate‑free API.
 
 ## Testing
 
@@ -1700,6 +1702,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-toaster](https://github.com/damingerdai/angular-toaster) - Updated fork of [Angular2-Toaster](https://github.com/Stabzs/Angular2-Toaster).
 * [grand-notifications](https://github.com/rishi-rj-s/grand-notifications) - Beautiful, customizable toast notifications with artistic animations.
 * [hot-toast](https://github.com/ngxpert/hot-toast) - Smoking hot toast notifications for Angular.
+* [makki-toast-package](https://github.com/DanielJimenezC/makki-toast-package) - A customizable toast component built to streamline the creation and management of tailored alerts.
 * [mk-magic-messages-library](https://github.com/mkeller1992/mk-magic-messages-library) - Easily display animated success, info, warning, and error alerts in your Angular 20+ application.
 * [ng-toast-service](https://github.com/nhusby/ng-toast-service) - Simple, customizable Angular notification service with slide‑in alerts and configurable behavior.
 * [ngx-alertifying](https://github.com/Salromag/ngx-alertifying) - Customizable, responsive Angular alert component for stylish, accessible feedback across devices and contexts.

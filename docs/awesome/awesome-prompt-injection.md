@@ -24,11 +24,16 @@ The severity of a prompt injection attack can vary, influenced by factors like t
 - [Adversarial Prompting](https://www.promptingguide.ai/risks/adversarial/) - A guide on the various types of adversarial prompting and ways to mitigate them.
 - [Don't you (forget NLP): Prompt injection with control characters in ChatGPT](https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-openai-chatgpt-llm) - A look into how to achieve prompt injection from control characters from Dropbox.
 - [Testing the Limits of Prompt Injection Defence](https://blog.fondu.ai/posts/prompt-injection-defence/) - A practical discussion about the unique complexities of securing LLMs from prompt injection attacks.
+- [Improving LLM Security Against Prompt Injection: AppSec Guidance For Pentesters and Developers](https://blog.includesecurity.com/2024/01/improving-llm-security-against-prompt-injection-appsec-guidance-for-pentesters-and-developers/) - Using Role Based APIs to Minimize the Risk of Prompt Injection and 13 Guidelines for Writing System Prompts that Minimize the Risk of Prompt Injection.
+- [Improving LLM Security Against Prompt Injection: AppSec Guidance For Pentesters and Developers – Part 2](https://blog.includesecurity.com/2024/02/improving-llm-security-against-prompt-injection-appsec-guidance-for-pentesters-and-developers-part-2/) - Understanding Transformer Models (especially attention), Causes and How Do We Stop Prompt Injection.
+- [Synthetic Recollections - A Case Study in Prompt Injection for ReAct LLM Agents](https://labs.withsecure.com/publications/llm-agent-prompt-injection) - A practical scenario showing how prompt injection can be used to hi-jack the ReAct loop used by LLM agents to inject forged thoughts and associated observations into the LLM context, thus altering the intended behavior.
 
 ## Tutorials
 
 - [Prompt Injection](https://learnprompting.org/docs/prompt_hacking/injection) - Prompt Injection tutorial from Learn Prompting.
 - [AI Read Teaming from Google](https://services.google.com/fh/files/blogs/google_ai_red_team_digital_final.pdf) - Google's red team walkthrough of hacking AI systems.
+- [Prompt Injection in LLM Agents (ReAct, Langchain)](https://www.youtube.com/watch?v=43qfHaKh0Xk) - Theory and hands-on lab on prompt injection against Langchain ReAct agents
+
 
 ## Research Papers
 
@@ -47,6 +52,7 @@ The severity of a prompt injection attack can vary, influenced by factors like t
 - [Promptalanche](https://ctf.fondu.ai/) - As well as traditional challenges, this CTF also introduce scenarios that mimic agents in real-world applications.
 - [Gandalf](https://gandalf.lakera.ai/) - Your goal is to make Gandalf reveal the secret password for each level. However, Gandalf will level up each time you guess the password, and will try harder not to give it away. Can you beat level 7? (There is a bonus level 8).
 - [ChatGPT with Browsing is drunk! There is more to it than you might expect at first glance](https://twitter.com/KGreshake/status/1664420397117317124) - This riddle requires you to have ChatGPT Plus access and enable the Browsing mode in Settings->Beta Features.
+- [Damn Vulnerable LLM Agent](https://github.com/WithSecureLabs/damn-vulnerable-llm-agent) - A sample chatbot powered by a ReAct agent, implemented with Langchain. It's designed to be an educational tool for security researchers, developers, and enthusiasts to understand and experiment with prompt injection attacks in ReAct agents.
 
 ## Community
 

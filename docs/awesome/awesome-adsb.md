@@ -14,7 +14,7 @@
 
 <!-- subtitle -->
 
-A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast) tools, projects, docker images, resources and other shiny things 📡.
+A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast) tools, projects, Docker images, resources and other shiny things 📡.
 
 <!-- image -->
 
@@ -39,7 +39,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 <!-- List ADS-B documentation and quickstarter guides -->
 
-- [ADS-B docker guide](https://sdr-enthusiasts.gitbook.io/ads-b/) - Everything you want to know about ADS-B reception, decoding and sharing.
+- [ADS-B Docker guide](https://sdr-enthusiasts.gitbook.io/ads-b/) - Everything you want to know about ADS-B reception, decoding and sharing.
 - [ADS-B equipment guide](https://sdr-enthusiasts.gitbook.io/ads-b/intro/equipment-needed) - A excellent ADS-B hardware guide written by the community.
 - [PiAware ADS-B tutorial](https://flightaware.com/adsb/piaware/build/) - FlightAware's ADS-B setup tutorial.
 - [ADSB-B transponders guide](https://www.sportys.com/blog/ads-b-out-questions-1090-978/) - A guide explaining the difference between 978 and 1090 MHz transponders.
@@ -55,7 +55,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 <!--lint ignore double-link-->
 
 > **Note**
-> The aggregators below are displayed per category based on the number of feeders on **27-02-2023**. If the number of feeders was unavailable, sites were compared based on the number of planes they tracked. Feel free to open a [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) if you think the order needs to be updated.
+> The aggregators below are displayed per category based on the number of feeders on **17-01-2026**. If the number of feeders was unavailable, sites were compared based on the number of planes they tracked. Feel free to open a [create a pull request](https://github.com/rickstaa/awesome-adsb/pulls) if you think the order needs to be updated.
 
 <!-- List ADS-B aggregators. -->
 
@@ -63,8 +63,9 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 <!-- List open source ADS-B aggregators. -->
 
-- [adsb.fi](https://adsb.fi) - A community-driven flight tracker with hundreds of feeders worldwide that provides open and unfiltered access to worldwide air traffic data.
+- [airplanes.live](https://airplanes.live) - The mission of Airplanes.Live is to aggregate and provide access to a comprehensive repository of unfiltered aviation data.  Offers map and free API.
 - [ADSB One](https://adsb.one) - A one-stop resource for all aero-related information and a community-driven aggregator for aero-feed data legally dedicated to the public interest.
+- [adsb.fi](https://adsb.fi) - A community-driven flight tracker with hundreds of feeders worldwide that provides open and unfiltered access to worldwide air traffic data.
 - [ADSB.lol](https://adsb.lol) - A completely open-source and community-driven flight tracker that displays and provides [ODbL-licensed](https://opendatacommons.org/licenses/odbl/summary/) data via a [free API](https://api.adsb.lol/) as well as [free historical data](https://github.com/adsblol/globe_history).
 
 ### Community driven
@@ -127,20 +128,26 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 - [sdr-enthusiasts/docker-adsb-ultrafeeder](https://github.com/sdr-enthusiasts/docker-adsb-ultrafeeder) - All-in-one ADSB container with readsb, tar1090, graphs1090, autogain, multi-feeder, and mlat-hub built in.
 - [adsbfi/adsb-fi-scripts](https://github.com/adsbfi/adsb-fi-scripts) - Easy to use feeder install script for feeding to adsb.fi.
 - [adsblol/feed](https://github.com/adsblol/feed) - Easy to use, container-based MLAT/ADS-B/ACARS/VDL2 multi feed client. Powered by [SDR-Enthusiasts](https://github.com/sdr-enthusiasts) images.
+- [adsb.im](https://adsb.im/home) - Simple to use ADS-B Feeder Images. Setup a single board computer (such as Raspberry Pi) to receive and share aircraft ADS-B position reports without command line/terminal skills required. Allows sharing data with both open-source and commercial flight tracking websites.
 
 ### Visualisation
 
 - [wiedehopf/tar1090](https://github.com/wiedehopf/tar1090) - A great way to view your ADS-B data.
+- [amnesica/BelugaProject](https://github.com/amnesica/BelugaProject) - A web application that displays data of one or multiple, local ADS-B feeders and AIS-data along with additional information on a map interface in the browser.
 - [Grafana](https://grafana.com/) - Open source analytics and monitoring solution for every database.
 
 ### Apps
 
-- [d4rken/adsb-meta-tracker](https://github.com/d4rken/adsb-meta-tracker) - An android ADS-B Meta Tracker that shows metadata about ADS-B aggregators.
+- [d4rken/adsb-meta-tracker](https://github.com/d4rken/adsb-meta-tracker) - An Android ADS-B Meta Tracker that shows metadata about ADS-B aggregators.
+- [AirPing](https://airping.app) - An iOS app that turns your tar1090 or readsb instance into a mobile flight tracker.
 
 ### Social
 
 - [docker-planefence](https://github.com/kx1t/docker-planefence) - A little tool that can be used to log, display and tweet the aircraft that come within range of your receiver (i.e. the fence).
 - [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify) - Notify if a selected plane has taken off or landed using OpenSky or ADS-B Exchange data.
+
+## ADS-B Derived Data
+- [aircraft-flight-schedules](https://github.com/MrAirspace/aircraft-flight-schedules) - Open-source datasets featuring global, high-level flight schedules extracted from worldwide aircraft ADS-B position transmissions (2024+ onwards). Covers all flights globally as long as within coverage of the [ADSBlol](https://adsb.lol/) initiative.
 
 ## Hardware
 
@@ -148,7 +155,7 @@ A curated list of awesome [ASD-B](https://en.wikipedia.org/wiki/Automatic_Depend
 
 ### SBC
 
-- [Rasbpberry Pi](https://www.raspberrypi.org/) - Small single-board computers developed in the United Kingdom.
+- [Raspberry Pi](https://www.raspberrypi.org/) - Small single-board computers developed in the United Kingdom.
 - [Orange Pi](http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-5.html) - Single-board computers created using OS cost-effective hardware.
 - [Banana Pi](https://banana-pi.org/) - Single-bard computers created by a Chinese open-source hardware community.
 
