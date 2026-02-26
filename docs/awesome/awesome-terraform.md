@@ -252,6 +252,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) - Provider for Linode.
 - [terraform-provider-openstack](https://github.com/terraform-provider-openstack/terraform-provider-openstack) - Plugin for OpenStack.
 - [terraform-provider-panos](https://github.com/PaloAltoNetworks/terraform-provider-panos) - Provider for [Palo Alto Networks next-generation firewalls](https://www.paloaltonetworks.com/network-security).
+- [terraform-provider-phare](https://github.com/phare/terraform-provider-phare) -  Terraform provider for [Phare](https://phare.io).
 - [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - Provider to manage Pingdom resources. :skull:
 - [terraform-provider-rancher2](https://github.com/rancher/terraform-provider-rancher2) - Provider for Rancher v2.
 - [terraform-provider-scalr](https://github.com/Scalr/terraform-provider-scalr) - Provider for [Scalr](https://www.scalr.com/)
@@ -361,7 +362,7 @@ For more Community Modules not listed here please see the [Terraform Module Regi
 - [terracost](https://github.com/cycloidio/terracost) - Cloud cost estimation for Terraform in your CLI.
 - [terracove](https://elementtech.github.io/terracove/) - Recursively test a directory tree for Terraform diffs and coverage.
 - [TerraDepot](https://github.com/derBroBro/TerraDepot) Terraform state repository, based on the default http remote backend. Allows the central administration of tfstates on AWS S3.
-- [terradozer](https://github.com/jckuester/terradozer) - Terraform destroy without configuration files.
+- [terradozer](https://github.com/chenrui333/terradozer) - Terraform destroy without configuration files.
 - [terraeasy](https://github.com/jaceq/terraeasy) - Easy Terraform wrapper
 - [terraform-aws-clickops-notifier](https://github.com/cloudandthings/terraform-aws-clickops-notifier) - Get notified when actions are taken in the AWS Console.
 - [terraform-bundle](https://github.com/hashicorp/terraform/tree/main/tools/terraform-bundle) - Easily builds bundles containing a Terraform binary as well as provider binaries. Useful for CI and air-gapped Terraform Enterprise.
