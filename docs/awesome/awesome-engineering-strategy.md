@@ -100,6 +100,7 @@ Contributions are welcome! Check out the contribution guidelines for adding item
 ## Communities
 
 - [Engineering Strategy on Discord](https://discord.gg/mebRYrNamF) - Discord community focused on Engineering Strategy.
+- [FastFlowConf](https://www.fastflowconf.com) with [recorded session on Youtube](https://www.youtube.com/@fastflowconf) - FastFlowConf focuses on the approach and methodologies described in Team Topologies 
 
 ## Podcasts
 

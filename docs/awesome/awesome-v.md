@@ -252,6 +252,7 @@ SDL2 and SDL3 based applications importing `vlang/sdl`.
 
 ### Telegram
 
+- [velegram](https://github.com/tailsmails/velegram) - A V language wrapper for TDLib (Telegram Database Library).
 - [vgram](https://github.com/dariotarantini/vgram) - Telegram bot library.
 
 ### Text processing

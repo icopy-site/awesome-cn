@@ -16,10 +16,13 @@ A curated list of bitcoin services and tools for software developers
 * [Deadhand Protocol](https://deadhandprotocol.com) - Dead man's switch for crypto using Shamir's Secret Sharing to protect seed phrases and ensure inheritance.
 * [txwatcher](https://github.com/tsileo/txwatcher) - A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.
 * [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) - A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
-* [Mining visualization](http://www.yogh.io/#mine:last)
+* [Mining visualization](https://yogh.io/landing/)
 * [HD Wallet Scanner](https://github.com/alexk111/HD-Wallet-Scanner) - Find all used addresses in your Bitcoin HD wallets bypassing gap limits.
 * [`<qr-code>`](https://github.com/bitjson/qr-code) – A no-framework, no-dependencies, customizable, animate-able, SVG-based `<qr-code>` web component.
+* [Bitcoin Serverless Donations](https://github.com/tombennet/bitcoin-serverless-donations) - Self-custodial serverless donation widget with address rotation derived from an XPUB.
 * [BTC Tooling](https://github.com/douvy/btc-tooling) - Bitcoin dashboard with real-time price data, a chart, orderbook, market summary, Twitter/X insights, and halving countdown data. [Live Demo](https://www.btctooling.com/)
+* [Chartscout](https://chartscout.io) - Real-time BTC chart pattern detection and trading alerts across multiple exchanges.
+
 
 ## Blockchain API and Web services
 * [3xpl.com](https://3xpl.com/) - Fastest ad-free universal block explorer.
@@ -37,27 +40,29 @@ A curated list of bitcoin services and tools for software developers
 * [BTC Connect](https://developers.particle.network/reference/introduction-to-btc-connect) - Unified Bitcoin Layer-1 and Layer-2 wallet connection and account abstraction.
 * [Tatum](https://tatum.io/blockchain-api) - The blockchain development platform to build Web3 application. The go-to blockchain data API for Web3 developers.
 * [mempool.space](https://mempool.space/docs/api/rest) - Open source and self hostable REST, WebSocket and Electrum RPC API
-* [kibō.money](https://kibo.money) - An open source Bitcoin Core data extractor and visualizer (aka FOSS Glassnode)
+* [Bitview](https://bitview.space/) - An open source Bitcoin Core data extractor and visualizer (aka FOSS Glassnode)
 * [Maestro](https://www.gomaestro.org/) - A high-performance Bitcoin RPC and UTXO indexer API that powers applications with real-time blockchain data, mempool monitoring, and event notifications.
 
 ## Market Data API
-* [CoinMetrics.io](https://docs.coinmetrics.io/api/v2/) JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.
+* [CoinMetrics.io](https://docs.coinmetrics.io/) JSON REST API (free as well as paid) with access to market data. Also CSV data file download available.
 * [Messari.io](https://messari.io/api) JSON REST API (free as well as paid) with access to market data, news, metrics, profile, etc.
 
 ## Wallets API
-* [BitGo](https://bitgo.github.io/bitgo-docs/)
+* [BitGo](https://developers.bitgo.com)
 * [Coinbase](https://developers.coinbase.com)
 * [Blockchain.com](https://www.blockchain.com/api)
 * [BIP32](http://bip32.org)
 * [walletOS](https://www.pinestreetlabs.com/walletos/)
 
 ## Open Source Wallets
+* [Blue Wallet](https://bluewallet.io/)
 * [CoPay by BitPay](https://copay.io/)
 * [Coinb.in](https://coinb.in)
 * [Coin Wallet](https://coin.space/)
 * [Electrum](https://electrum.org/)
 * [Green](https://blockstream.com/green/)
 * [Sparrow](https://sparrowwallet.com/)
+* [Wasabi Wallet](https://wasabiwallet.io/)
 
 ## Privacy projects
 * [Joinmarket](https://github.com/JoinMarket-Org/joinmarket-clientserver) - Decentralized CoinJoin implementation
@@ -69,18 +74,16 @@ A curated list of bitcoin services and tools for software developers
 * [Blockchain.com](https://blockchain.com)
 * [Blockchair.com](https://blockchair.com/bitcoin) - Universal blockchain explorer and search engine.
 * [Blockstream.info](https://blockstream.info) - Blockchain explorer with API (mainnet, testnet and Liquid).
-* [BlockTrail](https://www.blocktrail.com/BTC)
 * [Bitcoin Transaction Explorer](https://github.com/JornC/bitcoin-transaction-explorer)
 * [Blockexplorer.com](https://blockexplorer.com)
 * [Smartbit](https://www.smartbit.com.au)
-* [Bitkit](https://bitkit.live) - Real time transaction updates.
 * [mempool.space](https://mempool.space/) - Open source, self hostable blockchain, mempool and lightning network explorer
 
 ## C Libraries
 * [libsecp256k1](https://github.com/bitcoin-core/secp256k1)
 
 ## C++ Libraries
-* [Libbitcoin](https://libbitcoin.org/)
+* [Libbitcoin](https://libbitcoin.info/)
 * [libwally-core](https://github.com/ElementsProject/libwally-core)
 
 ## JavaScript Libraries
@@ -118,7 +121,6 @@ A curated list of bitcoin services and tools for software developers
 * [pybitcointools](https://github.com/vbuterin/pybitcointools) - Python library for Bitcoin signatures and transactions from Vitalik Buterin. Project discontinued.
 * [pycoin](https://github.com/richardkiss/pycoin) - Python library for Bitcoin keys, signatures, transactions. Includes full VM implementation and tools for manipulating keys (ku) and transactions (tx).
 * [bitcoin_tools](https://github.com/sr-gi/bitcoin_tools) - Python library for building and analyzing transactions and scripts (both standard and custom). Comes along with a UTXO set analysis tool. Includes several examples and exhaustive documentation.
-* [oogway](https://github.com/merwane/oogway) - A secure Bitcoin utility library for Python.
 * [pybtc](https://github.com/mohanson/pybtc) - Python BTC is an experimental project that aims to provide human-friendly interfaces for common BTC operations.
 
 ## Java Libraries
@@ -154,7 +156,6 @@ A curated list of bitcoin services and tools for software developers
 * [Bithoven IDE](https://bithoven-lang.github.io/bithoven/ide/) -  Web IDE for Bithoven, A High-Level, Imperative Language for Bitcoin Smart Contracts.
 
 ## Blockchain dump
-* [WebBTC](http://dumps.webbtc.com/bitcoin/) - These are postgres database dumps of the bitcoin-ruby-blockchain database generated by webbtc.com.
 * [BitcoinDatabaseGenerator](https://github.com/ladimolnar/BitcoinDatabaseGenerator) - A high performance data transfer tool that can be used to copy data from Bitcoin Core blockchain files to a SQL Server database.
 * [Blockparser+SQL](https://github.com/mcdee/blockparser) - Fast, quick and dirty bitcoin blockchain parser.
 * [BitcoinABE](https://github.com/bitcoin-abe/bitcoin-abe) - Abe: block browser for Bitcoin and similar currencies.
@@ -192,6 +193,7 @@ A curated list of bitcoin services and tools for software developers
 * [Svrgnty.com: Everything Bitcoin](https://svrgnty.com/) A curated list of the best Bitcoin resources.
 * [River Learn](https://river.com/learn) A collection of educational resources to learn about Bitcoin basics, investing, technology, and more.
 * [Learn me a Bitcoin - Greg Walker](https://learnmeabitcoin.com/) - extensive learning resource for bitcoin developers
+* [Bennet.org](https://bennet.org/) - Interactive technical guides for bitcoiners.
 ---
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.

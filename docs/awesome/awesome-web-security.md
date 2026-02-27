@@ -1,9 +1,4 @@
 <div class="github-widget" data-repo="qazbnm456/awesome-web-security"></div>
-> [!IMPORTANT]  
-> My Web Pentest Training is accepted by [Black Hat 2025](https://www.blackhat.com/us-25/training/schedule/index.html#web-hacking-from--to--44516) 🎉🎉🎉 Please come and join the course with me 🤓
->
-> To celebrate this unforgettable moment (and sorry for not updating the repo since a while), I'll do a complete revamp of all the contents of this long-lasting repository in the coming weeks to catch up with the knowledge and tricks that have happened over these years.
-
 ## Awesome Web Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" align="right" width="70">](https://www.w3.org/TR/html5/)
