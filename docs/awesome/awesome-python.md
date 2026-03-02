@@ -149,6 +149,7 @@ _Libraries for caching data._
 _Tools of static analysis, linters and code quality checkers. Also see [awesome-static-analysis](https://github.com/mre/awesome-static-analysis)._
 
 - Code Analysis
+  - [code-graph-rag](https://github.com/vitali87/code-graph-rag) - Builds knowledge graphs from multi-language codebases using Tree-sitter and Memgraph, enabling natural language querying of code structure.
   - [code2flow](https://github.com/scottrogowski/code2flow) - Turn your Python and JavaScript code into DOT flowcharts.
   - [prospector](https://github.com/PyCQA/prospector) - A tool to analyze Python code.
   - [vulture](https://github.com/jendrikseipp/vulture) - A tool for finding and analyzing dead Python code.
@@ -907,6 +908,7 @@ _Libraries for parsing and manipulating specific text formats._
   - [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) - A Python module for creating Excel .xlsx files.
   - [xlwings](https://github.com/ZoomerAnalytics/xlwings) - A BSD-licensed library that makes it easy to call Python from Excel and vice versa.
 - PDF
+  - [pdf_oxide](https://github.com/yfedoseev/pdf_oxide) - A fast PDF library for text extraction, image extraction, and markdown conversion, powered by Rust.
   - [pdfminer.six](https://github.com/pdfminer/pdfminer.six) - Pdfminer.six is a community maintained fork of the original PDFMiner.
   - [pikepdf](https://github.com/pikepdf/pikepdf) - A powerful library for reading and editing PDF files, based on qpdf.
   - [PyPDF2](https://github.com/mstamy2/PyPDF2) - A library capable of splitting, merging and transforming PDF pages.

@@ -563,6 +563,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-genie](https://github.com/SparrowVic/ngx-genie) - A tool to visualize the dependency injection tree, analyze service states, track component relationships, and identify memory or architectural issues.
 * [ngx-html-bridge](https://github.com/nagashimam/ngx-html-bridge) - Converts Angular templates into static HTML variants, enabling reliable validation and linting with any standard HTML tool.
 * [ngx-locator](https://github.com/Ea-st-ring/ngx-locator) - Angular development utility to open components and templates from the browser like [LocatorJS](https://www.locatorjs.com/).
+* [oxc-angular-compiler](https://github.com/voidzero-dev/oxc-angular-compiler) - A high-performance Angular template compiler written in Rust, leveraging the [Oxc](https://github.com/oxc-project/oxc) infrastructure for blazing-fast compilation.
 
 ### Debugging
 
@@ -628,6 +629,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-momentum](https://github.com/TheGameKnave/angular-momentum) - Spins up Angular projects in a monorepo quickly with minimal configuration.
 * [swaggular](https://github.com/AlexMA2/swaggular) - A tool to generate Angular services and models from Swagger/OpenAPI specifications.
 * [prism](https://github.com/arclight-digital/prism) - Auto-generate framework wrappers (React, Vue, Svelte, Angular, Solid, Preact) and HTML/CSS examples from Lit web components.
+* [momentum-cms](https://github.com/DonaldMurillo/momentum-cms) - An Angular-based headless CMS. Define collections in TypeScript, auto-generate an Admin UI, REST API, and database schema.
 
 ### Internationalization
 
@@ -1605,6 +1607,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [mdbook-angular](https://github.com/bgotink/mdbook-angular) - A renderer for [mdbook](https://rust-lang.github.io/mdBook/index.html) that turns Angular code samples into running Angular applications.
 * [md-juice](https://github.com/aruidev/md-juice) - A lightweight, tokenized CSS theme for Markdown HTML output.
 * [ngx-markdown](https://github.com/jfcere/ngx-markdown) - Angular library that combines Marked, Prism.js, Emoji-Toolkit, KaTeX, Mermaid and Clipboard.js.
+* [ngx-md-slides](https://github.com/teodorachiosa/ngx-md-slides) - A way to make multi-lingual presentations, using markdown and Angular components.
 * [ngx-mdx](https://github.com/SalathielGenese/ngx-mdx) - Take Angular lifecycle to Markdown for a seamless experience.
 * [ngx-remark](https://github.com/ericleib/ngx-remark) - Render markdown with custom Angular templates.
 * [ngx-streamdown](https://github.com/dina-kar/ngx-streamdown) - Angular port of [Streamdown](https://streamdown.ai/), a streaming Markdown renderer optimized for AI‑driven applications.

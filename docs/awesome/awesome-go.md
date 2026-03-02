@@ -78,7 +78,7 @@ _Libraries for building programs that leverage AI._
 
 ## Audio and Music
 
-_Libraries for manipulating audio._
+_Libraries for manipulating audio and music._
 
 - [beep](https://github.com/gopxl/beep) - A simple library for playback and audio manipulation.
 - [flac](https://github.com/mewkiz/flac) - Native Go FLAC encoder/decoder with support for FLAC streams.
@@ -89,6 +89,7 @@ _Libraries for manipulating audio._
 - [id3v2](https://github.com/bogem/id3v2) - ID3 decoding and encoding library for Go.
 - [malgo](https://github.com/gen2brain/malgo) - Mini audio library.
 - [minimp3](https://github.com/tosone/minimp3) - Lightweight MP3 decoder library.
+- [music-theory](https://github.com/go-music-theory/music-theory) - Music theory models in Go.
 - [Oto](https://github.com/hajimehoshi/oto) - A low-level library to play sound on multiple platforms.
 - [PortAudio](https://github.com/gordonklaus/portaudio) - Go bindings for the PortAudio audio I/O library.
 
@@ -781,8 +782,8 @@ _Libraries for working with dates and times._
 - [durafmt](https://github.com/hako/durafmt) - Time duration formatting library for Go.
 - [feiertage](https://github.com/wlbr/feiertage) - Set of functions to calculate public holidays in Germany, incl. specialization on the states of Germany (Bundesländer). Things like Easter, Pentecost, Thanksgiving...
 - [go-anytime](https://github.com/ijt/go-anytime) - Parse dates/times like "next dec 22nd at 3pm" and ranges like "from today until next thursday" without knowing the format in advance.
-- [go-datebin](https://github.com/deatil/go-datebin) - A simple datetime parse pkg.
 - [go-date-fns](https://github.com/chmenegatti/go-date-fns) - A comprehensive date utility library for Go, inspired by date-fns, with 140+ pure and immutable functions.
+- [go-datebin](https://github.com/deatil/go-datebin) - A simple datetime parse pkg.
 - [go-faketime](https://github.com/harkaitz/go-faketime) - A simple `time.Now()` that honors the faketime(1) utility.
 - [go-persian-calendar](https://github.com/yaa110/go-persian-calendar) - The implementation of the Persian (Solar Hijri) Calendar in Go (golang).
 - [go-str2duration](https://github.com/xhit/go-str2duration) - Convert string to duration. Support time.Duration returned string and more.
@@ -1105,6 +1106,7 @@ _Tools that generate Go code._
 - [interfaces](https://github.com/rjeczalik/interfaces) - Command line tool for generating interface definitions.
 - [jennifer](https://github.com/dave/jennifer) - Generate arbitrary Go code without templates.
 - [oapi-codegen](https://github.com/deepmap/oapi-codegen) - This package contains a set of utilities for generating Go boilerplate code for services based on OpenAPI 3.0 API definitions.
+- [protoc-gen-httpgo](https://github.com/MUlt1mate/protoc-gen-httpgo) - Generate HTTP server and client from protobuf.
 - [typeregistry](https://github.com/xiaoxin01/typeregistry) - A library to create type dynamically.
 
 
@@ -1693,6 +1695,7 @@ _These libraries were placed here because none of the other categories seemed to
 - [go-resiliency](https://github.com/eapache/go-resiliency) - Resiliency patterns for golang.
 - [go-unarr](https://github.com/gen2brain/go-unarr) - Decompression library for RAR, TAR, ZIP and 7z archives.
 - [gofakeit](https://github.com/brianvoe/gofakeit) - Random data generator written in go.
+- [goffi](https://github.com/go-webgpu/goffi) - Pure Go FFI with libffi-style typed call interface and structured error handling for calling C libraries without CGO.
 - [gommit](https://github.com/antham/gommit) - Analyze git commit messages to ensure they follow defined patterns.
 - [gopsutil](https://github.com/shirou/gopsutil) - Cross-platform library for retrieving process and system utilization(CPU, Memory, Disks, etc).
 - [gosh](https://github.com/osamingo/gosh) - Provide Go Statistics Handler, Struct, Measure Method.
@@ -2938,6 +2941,7 @@ _Full stack web frameworks._
 - [d3d9](https://github.com/gonutz/d3d9) - Go bindings for Direct3D9.
 - [go-ole](https://github.com/go-ole/go-ole) - Win32 OLE implementation for golang.
 - [gosddl](https://github.com/MonaxGT/gosddl) - Converter from SDDL-string to user-friendly JSON. SDDL consist of four part: Owner, Primary Group, DACL, SACL.
+- [windowsupdate](https://github.com/ceshihao/windowsupdate) - A Golang binding for Windows Update Agent API using go-ole.
 
 
 ## Workflow Frameworks
