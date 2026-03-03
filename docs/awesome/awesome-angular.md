@@ -524,6 +524,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [glama](https://glama.ai/mcp/servers?query=angular) - Directory of MCP servers filtered for Angular-related entries.
 * [hashbrown](https://github.com/liveloveapp/hashbrown) - The [Hashbrown](https://hashbrown.dev/) framework is for building joyful, AI-powered user experiences.
 * [mini-bard-palm2-angular](https://github.com/gsans/mini-bard-palm2-angular) - Result from this [step by step guide](https://medium.com/google-cloud/build-ai-powered-angular-apps-with-google-gemini-5bf5e905ca1d#f02a) on how to integrate Google Gemini with Angular.
+* [ngx-agents-md](https://github.com/pr4san/ngx-agents-md) - Add Angular documentation to your project for AI coding agents (Claude Code, Cursor, etc).
 * [ngx-bob](https://github.com/scottstraughan/ngx-bob) - Angular chat widget with messaging, local history, error handling, commands, and search.
 * [PureCode AI](https://purecode.ai/components/angular/application-ui) - Build Angular application UIs 50% faster with PureCode AI.
 * [repomix](https://github.com/yamadashy/repomix) - A tool that packs your entire repository into a single, AI-friendly file.
@@ -1023,6 +1024,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [free-tailwind-admin-dashboard-template](https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template) - A free, open-source Tailwind CSS admin dashboard template built for modern web developers.
 * [ngx-blog](https://github.com/pegasusheavy/ngx-blog) - A modern Angular-based blogging CMS with theme support and SEO optimization.
 * [radixweb](https://radixweb.com/starter-kits/enterprise-microservices-boilerplate) - Full production-ready microservices boilerplate.
+* [base-angular-monorepo](https://github.com/myvictorlife/base-angular-monorepo) - A production-ready base project for developing scalable Angular applications (Nx, NgRx, Tailwind CSS, Jest, ESLint, Prettier).
 
 ### Paid Templates
 
@@ -1130,6 +1132,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### Charts
 
 * [@cubejs-client/ngx](https://www.npmjs.com/package/@cubejs-client/ngx) - Along with [@cubejs-client/core](https://www.npmjs.com/package/@cubejs-client/core), you can [integrate](https://cube.dev/docs/product/apis-integrations/javascript-sdk/angular) Cube.js in Angular.
+* [@utisha/graph-editor](https://github.com/fidesit/graph-editor) - Configuration-driven visual graph editor with SVG canvas, theming, undo/redo, custom node rendering, and dagre auto-layout.
 * [ngx-charts](https://github.com/swimlane/ngx-charts) - Declarative Charting Framework for Angular2 and beyond!
 * [ag-charts](https://github.com/ag-grid/ag-charts/tree/latest/packages/ag-charts-angular) - Fully-featured and highly customizable JavaScript charting library.
 * [amcharts5](https://github.com/amcharts/amcharts5) - The newest, fastest, and most advanced amCharts charting library for JavaScript and TypeScript apps. Check out the [Angular integration guide](https://www.amcharts.com/docs/v5/getting-started/integrations/angular/) to get started. Additionally, older versions are still being updated to support newer releases of Angular.

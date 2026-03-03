@@ -43,8 +43,10 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Aleph One](https://github.com/Aleph-One-Marathon/alephone) - The open source continuation of Bungie’s Marathon 2 game engine.
 - [Allegiance](https://github.com/FreeAllegiance/Allegiance) - Allegiance is RTS and FPS Space Combat game.
 - [BetterSpades](https://github.com/xtreme8000/BetterSpades/) - Ace Of Spades open source implementation that runs on older machines.
+- [Barrett](https://github.com/lunarmeadow/barrett/) - Advanced and featureful Rise of the Triad source port for modern systems.
 - [BStone](https://github.com/bibendovsky/bstone) - A source port of Blake Stone: Aliens Of Gold and Blake Stone: Planet Strike.
 - [CatacombGL](https://github.com/ArnoAnsems/CatacombGL) - Windows source port of Catacomb 3D and the Catacomb Adventure series.
+- [Chasm-Reverse](https://github.com/Panzerschrek/Chasm-Reverse) - "PanzerChasm" is a free recreation of the game "Chash: - The Rift" by "ActionForms" using the original game data (CSM.BIN file).
 - [Chocolate Doom](https://github.com/chocolate-doom/chocolate-doom) - Source port that is minimalist, historically accurate and includes ports of Heretic and Hexen, and Strife. :flower_playing_cards:
 - [Chocolate Quake](https://github.com/Henrique194/chocolate-quake) - A purist Quake source port that restores the original look and feel of v1.09 and earlier.
 - [ClassiCube](https://github.com/ClassiCube/ClassiCube) - Minecraft Classic compatible client written in C from scratch. :flower_playing_cards:
@@ -62,16 +64,22 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [Freedoom](https://github.com/freedoom/freedoom) - Free software FPS based on the classic DOOM engine. :flower_playing_cards:
 - [FTEQW](https://fte.triptohell.info/) - FPS Engine for Quake 1, QuakeWorld, Quake 2, Hexen II & Quake III Arena.
 - [Hexen II: Hammer of Thyrion](https://sourceforge.net/p/uhexen2/code/HEAD/tree/) - Cross-platform port of the Hexen II game.
+- [idTech4A++ (Harmattan Edition)](https://github.com/glKarin/com.n0n3m4.diii4a) - DOOM III/Quake 4/Prey(2006) GLES on Android/Windows/Linux, DOOM 3 BFG/The Dark Mod/RTCW/Quake 1 2 3/GZDOOM/ETW/RealRTCW/OpenJK/SeriousSam/Skin Deep on Android.
 - [ioquake3](https://github.com/ioquake/ioq3) - The free software FPS engine that can be used to play Quake 3, or make your own game.
 - [iortcw](https://github.com/iortcw/iortcw) - Source port of Return to Castle Wolfenstein.
 - [ironwail](https://github.com/andrei-drexler/ironwail) - High-performance QuakeSpasm fork.
+- [jfsw](https://github.com/jonof/jfsw/) - Port of the 3D Realms game "Shadow Warrior".
+- [jftekwar](https://github.com/jonof/jftekwar) - No-promises port of the Capstone Software game "TekWar".
+- [jfwhaven](https://github.com/jonof/jfwhaven) - No-promises port of the Capstone Software game "Witchaven".
 - [NBlood](https://github.com/nukeykt/NBlood) - Port of the classic FPS Blood.
 - [NearChuckle](https://github.com/rohit-n/NearChuckle) - A Linux port of Far Cry 1.
+- [OpenChasm](https://github.com/alexey-lysiuk/OpenChasm) - Free software reconstruction of Chasm: The Rift game.
 - [Odamex](https://github.com/odamex/odamex) - Online multiplayer DOOM port with a strong focus on the original gameplay while providing a breadth of enhancements. :flower_playing_cards:
 - [OpenMoHAA](https://github.com/openmoh/openmohaa) - Open re-implementation of Medal of Honor: Allied Assault including Spearhead and Breakthrough expansions.
 - [OpenSpades](https://github.com/yvt/openspades) - Compatible client of Ace of Spades, a voxel FPS.
 - [Quake3e](https://github.com/ec-/Quake3e) - Improved Quake III Arena engine.
 - [QuakeSpasm](https://sourceforge.net/projects/quakespasm/) - A modern, cross-platform Quake game engine.
+- [Raze](https://github.com/ZDoom/Raze) - Build engine port backed by GZDoom tech. Currently supports Duke Nukem 3D, Blood, Shadow Warrior, Redneck Rampage and Powerslave/Exhumed.
 - [RBDOOM-3-BFG](https://github.com/RobertBeckebans/RBDOOM-3-BFG) - Doom 3 BFG Edition with soft shadows, cleaned up source, Linux and 64 bit Support.
 - [RedneckGDX](https://gitlab.com/m210/RedneckGDX) - Port of Redneck Rampage.
 - [SeriousSamClassic-VK](https://github.com/tx00100xt/SeriousSamClassic-VK) - Open source game engine for Serious Sam Classic with Vulkan support.
@@ -149,13 +157,18 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 
 ## Racing
 - [Reburn 3](https://github.com/reburndev/reburn3) - A work-in-progress open source reimplementation of Burnout 3: Takedown.
+- [dRally](https://github.com/urxp/dRally) - Open Source Engine / Death Rally [1996]
 - [DreeRally](https://github.com/enriquesomolinos/DreeRally) - Death Rally engine reimplementation.
+- [dethrace](https://github.com/dethrace-labs/dethrace) - Reverse engineering the 1997 game "Carmageddon"
+- [hi-octane202x](https://github.com/woalexan/hi-octane202x) - Hi-Octane with level editor using Irrlicht engine.
 - [OpenNFS](https://github.com/OpenNFS/OpenNFS) - Attempt to recreate the classic Need for Speed Games (1-6).
+- [tube64](https://github.com/rep-stosw/tube64) - 64-bit vesion of DOS game Tube (Bullfrog, 1994)
 - [Vangers](https://github.com/KranX/Vangers) - Racing/RPG hybrid made open-source by its creators, written in C++.
 - [Vange-rs](https://github.com/kvark/vange-rs) - The idea of this project is to replicate the old look and behavior of Vangers, but with native hardware acceleration for the graphics.
 - [wipEout Rewrite](https://github.com/phoboslab/wipeout-rewrite) - This is a re-implementation of the 1995 PSX game wipEout. :flower_playing_cards:
 
 ## Simulator
+- [Descent3](https://github.com/DescentDevelopers/Descent3) - Descent 3 by Outrage Entertainment
 - [DXX-Rebirth](https://github.com/dxx-rebirth/dxx-rebirth) - Source port of the Descent and Descent 2 Engines for Windows, macOS, Linux.
 - [Free Stars: The Ur-Quan Masters](https://sc2.sourceforge.net/) - Open source version of the classic Star Control 2.
 - [FS2Open](https://github.com/scp-fs2open/fs2open.github.com) - FreeSpace2 Source Code Project.
@@ -168,6 +181,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [CorsixTH](https://github.com/CorsixTH/CorsixTH) - Clone of Theme Hospital with support for modern operating systems, high resolutions and much more.
 - [Cortex Command Community Project Source](https://github.com/cortex-command-community/Cortex-Command-Community-Project-Source) - Community-driven effort to continue the development of Cortex Command.
 - [fheroes2](https://github.com/ihhub/fheroes2) - Free implementation of Heroes of Might and Magic II game engine.
+- [Flame](https://github.com/DiaLight/Flame) - Dungeon Keeper II partial recompilation with bug fixes.
 - [FreeCol](https://sourceforge.net/projects/freecol/) - Turn-based strategy game based on the old game Colonization.
 - [GLSMAC](https://github.com/afwbkbc/glsmac) - Unofficial open-source OpenGL/SDL2 reimplementation of Sid Meier's Alpha Centauri ( + Alien Crossfire ).
 - [Jagged Alliance Stracciatella](https://github.com/ja2-stracciatella/ja2-stracciatella) - Makes Jagged Alliance 2 available on a wide range of platforms.
@@ -178,6 +192,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [openage](https://github.com/SFTtech/openage) - Clone of the Age of Empires II engine.
 - [OpenApocalypse](https://github.com/OpenApoc/OpenApoc) - Rebuild of the X-COM: Apocalypse engine.
 - [openblack](https://github.com/openblack/openblack) - Reimplementation of Black & White.
+- [OpenDungeonsPlus](https://github.com/tomluchowski/OpenDungeonsPlus) - Open source game inspired by Dungeon Keeper - Dark, damp and dangerous...
 - [OpenE2140](https://github.com/OpenE2140/OpenE2140) - Remake of Earth 2140 based on [the OpenRA engine](https://github.com/OpenRA/OpenRA)
 - [OpenDUNE](https://github.com/OpenDUNE/OpenDUNE) - Recreation of the popular game Dune II.
 - [Open Fodder](https://github.com/OpenFodder/openfodder) - Open-source implementation of Cannon Fodder.
@@ -190,6 +205,7 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 - [OpenSA](https://github.com/Dzierzan/OpenSA) - Remake of Swarm Assault based on [the OpenRA engine](https://github.com/OpenRA/OpenRA)
 - [OpenSAGE](https://github.com/OpenSAGE/OpenSAGE) - C# reimplementation of SAGE, the game engine used by a bunch of EA Pacific games, including Command & Conquer: Generals and Battle for Middle Earth.
 - [OpenSC2K](https://github.com/nicholas-ochoa/OpenSC2K) - Remake of SimCity 2000 by Maxis.
+- [OpenTPW](https://github.com/OpenTPW/OpenTPW) - An open-source re-implementation of Bullfrog's Sim Theme Park / Theme Park World (1999).
 - [OpenTTD](https://github.com/OpenTTD/OpenTTD) - OpenTTD is a transport simulation game based upon the popular game Transport Tycoon Deluxe, written by Chris Sawyer. :flower_playing_cards:
 - [OpenXcom](https://github.com/SupSuper/OpenXcom) - Clone of UFO: Enemy Unknown and X-COM: Terror From the Deep.
 - [OutpostHD](https://github.com/OutpostUniverse/OPHD) - Remake of Sierra On-Line's Outpost.

@@ -2196,6 +2196,7 @@ _Libraries and tools for stream processing and reactive programming._
 - [machine](https://github.com/whitaker-io/machine) - Go library for writing and generating stream workers with built in metrics and traceability.
 - [nibbler](https://github.com/naughtygopher/nibbler) - A lightweight package for micro batch processing.
 - [ro](https://github.com/samber/ro) - Reactive Programming: declarative and composable API for event-driven applications.
+- [signals](https://github.com/coregx/signals) - Type-safe reactive state management inspired by Angular Signals with computed values, effects, and dependency tracking.
 - [stream](https://github.com/youthlin/stream) - Go Stream, like Java 8 Stream: Filter/Map/FlatMap/Peek/Sorted/ForEach/Reduce...
 - [StreamSQL](https://github.com/rulego/streamsql) - A lightweight streaming SQL engine for real-time data processing.
 
@@ -2438,6 +2439,7 @@ See also [Natural Language Processing](#natural-language-processing) and [Text A
 - [petrovich](https://github.com/striker2000/petrovich) - Petrovich is the library which inflects Russian names to given grammatical case.
 - [radix](https://github.com/yourbasic/radix) - Fast string sorting algorithm.
 - [TySug](https://github.com/Dynom/TySug) - Alternative suggestions with respect to keyboard layouts.
+- [uniwidth](https://github.com/unilibs/uniwidth) - High-performance Unicode character width calculation with SWAR optimization, O(1) lookup tables, and ZWJ emoji support.
 - [w2vgrep](https://github.com/arunsupe/semantic-grep) - A semantic grep tool using word embeddings to find semantically similar matches. For example, searching for "death" will find "dead", "killing", "murder".
 
 
@@ -3294,6 +3296,7 @@ _Where to discover new Go libraries._
 - [GopherCon](https://www.gophercon.com/) - Varied Locations Each Year, USA.
 - [GopherCon Australia](https://gophercon.com.au/) - Sydney, Australia.
 - [GopherCon Brazil](https://gopherconbr.org) - Florianópolis, Brazil.
+- [GopherCon China](https://gophercon.com.cn) - Shanghai, China.
 - [GopherCon Europe](https://gophercon.eu/) - Berlin, Germany.
 - [GopherCon India](https://gopherconindia.org/) - Pune, India.
 - [GopherCon Israel](https://www.gophercon.org.il/) - Tel Aviv, Israel.
