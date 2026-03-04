@@ -13,6 +13,7 @@ A curated list of awesome [Backstage](https://backstage.io/) resources, plugins,
 - [Documentation](https://backstage.io/docs/)
 - [Blog](https://backstage.io/blog/)
 - [Demo](https://demo.backstage.io/)
+- [Plugin Directory](https://backstage.io/plugins/) - Discover official and community plugins in one place.
 
 ## Plugins
 
@@ -47,10 +48,8 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 - [Microsoft Graph Catalog Module](https://www.npmjs.com/package/@backstage/plugin-catalog-backend-module-msgraph) - Synchronize Azure AD users and groups as Backstage entities.
 - [Azure DevOps Catalog Modules](https://www.npmjs.com/package/@backstage/plugin-catalog-backend-module-azure) - Bring Azure Repos, Boards, and Pipelines metadata into the catalog backend.
 - [Search Backend Modules](https://www.npmjs.com/package/@backstage/plugin-search-backend-module-elasticsearch) - Unlock faster, filtered search with Elasticsearch or Lunr-powered hybrid indexing.
-- [GitHub Projects](https://www.npmjs.com/package/@backstage-community/plugin-github-projects) - Manage and triage GitHub Projects (v2) without leaving Backstage.
 - [New Relic](https://www.npmjs.com/package/@backstage-community/plugin-newrelic) - Jump straight from service catalog entries to New Relic dashboards.
-- [Datadog](https://www.npmjs.com/package/@backstage-community/plugin-datadog) - Surface Datadog monitors, service maps, and dashboards next to entities.
-- [Snyk Security Insights](https://www.npmjs.com/package/@backstage-community/plugin-snyk) - Annotate catalog entities with Snyk vulnerability and risk signals.
+- [Apiiro](https://github.com/backstage/community-plugins/blob/main/workspaces/apiiro/plugins/apiiro/README.md) - Surface Apiiro application risk context directly in Backstage entities.
 - [Wiz Security](https://github.com/wiz-sec-public/backstage-plugin-wiz) - Display Wiz cloud risk scores alongside scorecards to prioritize remediation.
 
 ## Tutorials and Guides
@@ -60,12 +59,14 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 - [Creating a Plugin](https://backstage.io/docs/plugins/create-a-plugin)
 - [Integrating with Existing Infrastructure](https://backstage.io/docs/integrations/)
 - [Customizing the UI](https://backstage.io/docs/getting-started/app-custom-theme/)
+- [Module Federation](https://backstage.io/docs/frontend-system/building-apps/module-federation) - Compose frontend capabilities across app boundaries with dynamic module loading.
+- [Plugin Directory Audit](https://backstage.io/docs/next/plugins/plugin-directory-audit) - Validate plugin metadata and readiness for directory publishing.
 
 ## Tools and Integrations
 
 - [Portal](https://backstage.spotify.com/docs/portal/) - A no-code IDP based on Backstage and maintained by Spotify.
-- [Portal MCP Servers](https://backstage.spotify.com/docs/portal/core-features-and-plugins/aika/mcp-servers) - Configure third-party MCP servers for AiKA in Portal.
 - [Backstage CLI](https://backstage.io/docs/local-dev/cli-overview)
+- [Upgrade Helper](https://backstage.github.io/upgrade-helper/?to=1.48.0) - Compare versions and plan dependency updates for Backstage upgrades.
 - [Docker](https://github.com/backstage/backstage/blob/master/contrib/docker/) - Run Backstage in Docker containers.
 - [Kubernetes](https://github.com/backstage/backstage/blob/master/contrib/kubernetes/) - Deploy Backstage on Kubernetes.
 - [Backstage Helm Chart](https://github.com/backstage/charts) - Helm chart for deploying Backstage on Kubernetes.
@@ -78,13 +79,17 @@ A collection of awesome Backstage plugins to enhance your platform's capabilitie
 - [Backstage Community](https://github.com/backstage/community) - Join the Backstage community to ask questions and share your knowledge.
 - [Good First Issues](https://github.com/backstage/backstage/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) - Contribute to the project by tackling "Good First Issues" on GitHub.
 - [Discord](https://discord.com/invite/MUpMjP2) - Join the Backstage Discord server to connect with other developers and get live support.
+- [Get a Jump on ContribFest](https://backstage.io/blog/2026/02/25/get-a-jump-on-contribfest) - Learn how to participate in the latest contribution event cycle.
+- [ContribFest App](https://contribfest.backstage.io/) - Browse contribution opportunities and project tracks for ContribFest.
 
 ## Articles and Presentations
 
 - [Introduction to Backstage](https://www.youtube.com/watch?v=1XtJ5FAOjPk) - A video introduction to Backstage by Spotify.
 - [Creating a Plugin for Backstage](https://www.youtube.com/watch?v=lLLw3tcBwWw) - Learn how to create a plugin for Backstage.
 - [How Spotify Builds Infrastructure with Backstage](https://engineering.atspotify.com/2020/03/17/what-the-heck-is-backstage-anyway/) - A blog post by Spotify on their experience with Backstage.
-- [Backstage v1.47.0 Release Notes](https://backstage.io/docs/releases/v1.47.0/) - Latest release with platform updates, backend action filtering, and security fixes.
+- [Backstage v1.48.0 Release Notes](https://backstage.io/docs/releases/v1.48.0/) - Current stable release notes with platform updates and fixes.
+- [Backstage v1.47.0 Release Notes](https://backstage.io/docs/releases/v1.47.0/) - Stable release notes covering backend action filtering and security fixes.
+- [Backstage v1.49.0-next.1 Changelog](https://backstage.io/docs/next/releases/v1.49.0-next.1-changelog) - Preview upcoming changes in the next release line.
 - [Backstage Wrapped 2025: Celebrating a mature framework with modern foundations](https://backstage.io/blog/2025/12/30/backstage-wrapped-2025) - Annual retrospective on Backstage growth, platform maturity, and highlights.
 - [BackstageCon + KubeCon NA 2025 Highlights](https://backstage.io/blog/2025/11/25/backstagecon-kubecon-25-atlanta) - Recap of recent platform updates and community demos from Atlanta.
 - [Backstage Security Audit 2024](https://backstage.io/blog/2024/12/17/backstage-security-audit-2024/) - Independent security audit results, findings, and remediation summary.

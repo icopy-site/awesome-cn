@@ -256,6 +256,7 @@ See also [crates matching keyword 'emulator'](https://crates.io/keywords/emulato
 See also [Payments](#payments) applications.
 
 * [klirr](https://github.com/Sajjon/klirr) [[klirr](https://crates.io/crates/klirr)] - Zero-maintenance and smart FOSS generating beautiful invoices for services and expenses.
+* [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance, production-grade algorithmic trading platform written in Rust and Python.
 * [tackler](https://github.com/tackler-ng/tackler) [[tackler](https://crates.io/crates/tackler)] - Fast, reliable bookkeeping engine with native GIT SCM support for plain text accounting [![CI Badge](https://github.com/tackler-ng/tackler/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/tackler-ng/tackler/blob/main/.github/workflows/ci.yml)
 * [tarkah/tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal
 
@@ -423,6 +424,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [reaction](https://framagit.org/ppom/reaction) - Scan logs and take action: an alternative to fail2ban
 * [ripasso](https://github.com/cortex/ripasso/) - A password manager, filesystem compatible with pass
 * [rustscan](https://github.com/bee-san/RustScan) - Make Nmap faster with this port scanning tool [![build badge](https://github.com/bee-san/RustScan/actions/workflows/test.yml/badge.svg)](https://github.com/bee-san/RustScan/actions)
+* [sherlock](https://github.com/jonaylor89/sherlock-rs) [[sherlock](https://crates.io/crates/sherlock)] - Hunt down social media accounts by username across social networks [![status](https://github.com/jonaylor89/sherlock-rs/actions/workflows/rust.yml/badge.svg)](https://github.com/jonaylor89/sherlock-rs/actions/workflows/rust.yml)
 * [ssh-vault](https://github.com/ssh-vault/ssh-vault) - A simple tool to manage secrets using ssh keys for encryption and decryption.
 * [SystemVll/TAuth](https://github.com/SystemVll/TAuth) - An easy and user friendly 2FA & Credentials manager, for your PC.
 
@@ -520,6 +522,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [gchp/iota](https://github.com/gchp/iota) - A simple text editor
 * [helix](https://github.com/helix-editor/helix) - A post-modern modal text editor inspired by Neovim/Kakoune. [![build badge](https://github.com/helix-editor/helix/actions/workflows/build.yml/badge.svg)](https://github.com/helix-editor/helix/actions)
 * [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) - A tiny (≤1024 LOC) text editor with syntax highlighting, incremental search and more. [![build badge](https://github.com/ilai-deutel/kibi/actions/workflows/ci.yml/badge.svg)](https://github.com/ilai-deutel/kibi/actions?query=branch%3Amaster)
+* [Inkwell](https://github.com/4worlds4w-svg/inkwell) - A portable, offline-first Markdown editor built with Tauri v2. Single executable, zero telemetry.
 * [Lapce](https://github.com/lapce/lapce) - A modern editor with a backend. Taking inspiration from the discontinued [xi-editor](https://github.com/xi-editor/xi-editor).
 * [mathall/rim](https://github.com/mathall/rim) - Vim-like text editor.
 * [ox](https://github.com/curlpipe/ox) - An independent Rust text editor that runs in your terminal!

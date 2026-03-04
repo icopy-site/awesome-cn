@@ -1203,6 +1203,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [cerious-grid](https://github.com/ryoucerious/cerious-widgets) - A seriously powerful Angular grid for developers who demand control, flexibility, and performance.
 * [ngxsmk-datatable](https://github.com/toozuuu/ngxsmk-datatable) - Modern Angular 17+ datatable focused on performance, customization, and developer experience.
 * [ngx-column-filter](https://github.com/kakarotx10/ngx-column-filter) - A powerful, reusable Angular column filter component with support for multiple field types, advanced filtering rules, and customizable match modes.
+* [@witqq/spreadsheet](https://github.com/witqq/spreadsheet) - Canvas-based spreadsheet and datagrid engine with zero dependencies, 100K+ rows at 60fps, editing, formulas, sorting, filtering, and real-time collaboration. More details on this [website](https://spreadsheet.witqq.dev/).
 * [Jspreadsheet CE](https://github.com/jspreadsheet/ce) - Open source JavaScript spreadsheet and data grid component, can be used in Angular apps when wrapped or consumed via Angular elements.
 * [TabularJS](https://github.com/jspreadsheet/tabularjs) - Lightweight JavaScript table and data grid library for advanced table features in Angular.
 * [uni-table](https://github.com/Unify-India/uni-table) - Angular data grid built on signals for zero‑lag performance, combining advanced server‑side features with a streamlined configuration API.
@@ -1838,6 +1839,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [secure-client-store](https://github.com/msaadart/secure-client-store) - Universal TypeScript library for AES-256-GCM client-side encryption (works in browsers & Node.js).
 * [ngx-persist](https://github.com/khvedela/ngx-persist) - A type‑safe, signal‑based persistent state utility for Angular, syncing with localStorage, sessionStorage, IndexedDB, or custom backends.
 * [strata-storage](https://github.com/aoneahsan/strata-storage) - Zero-dependency universal storage plugin providing a unified API for all storage operations across web, Android, and iOS platforms.
+* [ngx-webstore](https://github.com/saurabh-vaish/ngx-webstore) - A comprehensive Angular library for browser storage management with TypeScript support, reactive APIs, encryption, TTL, and more.
 
 ### Tooltips
 

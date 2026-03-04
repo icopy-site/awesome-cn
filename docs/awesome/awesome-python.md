@@ -1,15 +1,4 @@
 <div class="github-widget" data-repo="vinta/awesome-python"></div>
-<div align="center">
-    <sup>Special thanks to:</sup>
-    <br>
-    <a href="https://go.warp.dev/awesome-python" target="_blank">
-    <img alt="Warp sponsorship" src="https://raw.githubusercontent.com/warpdotdev/brand-assets/refs/heads/main/Github/Sponsor/Warp-Github-LG-01.png">
-    </a>
-    <br>
-    <a href="https://go.warp.dev/awesome-python" target="_blank">Warp, built for coding with multiple AI agents.</a>
-</div>
-<br>
-
 ## Awesome Python
 
 An opinionated list of awesome Python frameworks, libraries, software and resources.
@@ -469,7 +458,7 @@ _Libraries for file manipulation._
 - [markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [mimetypes](https://docs.python.org/3/library/mimetypes.html) - (Python standard library) Map filenames to MIME types.
 - [path.py](https://github.com/jaraco/path.py) - A module wrapper for [os.path](https://docs.python.org/3/library/os.path.html).
-- [pathlib](https://docs.python.org/3/library/pathlib.html) - (Python standard library) An cross-platform, object-oriented path library.
+- [pathlib](https://docs.python.org/3/library/pathlib.html) - (Python standard library) A cross-platform, object-oriented path library.
 - [python-magic](https://github.com/ahupp/python-magic) - A Python interface to the libmagic file type identification library.
 - [watchdog](https://github.com/gorakhargosh/watchdog) - API and shell utilities to monitor file system events.
 - [watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload in python.
@@ -651,6 +640,7 @@ _Libraries for Machine Learning. Also see [awesome-machine-learning](https://git
 - [gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [Feature-engine](https://github.com/feature-engine/feature_engine) - sklearn compatible API with the widest toolset for feature engineering and selection.
 - [H2O](https://github.com/h2oai/h2o-3) - Open Source Fast Scalable Machine Learning Platform.
+- [Instructor](https://github.com/567-labs/instructor) - A library for extracting structured data from LLMs, powered by Pydantic.
 - [LangChain](https://github.com/langchain-ai/langchain) - Building applications with LLMs through composability.
 - [LlamaIndex](https://github.com/run-llama/llama_index) - A data framework for your LLM application.
 - [Metrics](https://github.com/benhamner/Metrics) - Machine learning evaluation metrics.

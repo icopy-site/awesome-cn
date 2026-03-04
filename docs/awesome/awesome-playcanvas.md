@@ -17,7 +17,6 @@
 - [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
 - [PlayCanvas React](https://github.com/playcanvas/react) - Open source React wrapper for the PlayCanvas Engine.
 - [PlayCanvas Web Components](https://github.com/playcanvas/web-components) - Open source Web Components wrapper for the PlayCanvas Engine.
-- [SuperSplat](https://superspl.at/) - Open source platform for editing and publishing 3D Gaussian Splats.
 - [Model Viewer](https://playcanvas.com/viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
 - [Texture Tool](https://github.com/playcanvas/texture-tool) - Open source tool for reprojecting textures.
 - [PCUI](https://github.com/playcanvas/pcui) - Open source front-end framework used by the PlayCanvas toolset.
@@ -240,7 +239,10 @@
 - [Reflct](https://www.reflct.app/) - Curate, manage and deploy 3DGS scenes online.
 - [ScanMeNow](https://www.scanmenow.es/en/galeria.html) - Digital twin platform.
 - [Skyfall-GS](https://skyfall-gs.jayinnn.dev/) - Converts satellite images to explorable 3D urban scenes using the SuperSplat Viewer.
+- [Solaya](https://solaya.ai/) - Generate high-fidelity 3D digital twins as the foundation for unlimited visual assets.
 - [Splattr](https://splattr.app) - Create gaussian splats on the cloud.
+- [StorySplat](https://storysplat.com) - Transform your 3D captures into interactive stories.
+- [SuperSplat](https://superspl.at/) - Open source platform for editing and publishing 3D Gaussian Splats.
 - [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
 - [Tum Collegiate Church](https://ovrcast.eu/projects/TumCollegiate/) - Explore a key historical Polish landmark.
 - [vid2scene](https://vid2scene.com/) - Transform 2D video into immersive 3D scenes.

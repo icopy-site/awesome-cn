@@ -66,9 +66,9 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 
 - [Hurry Curry!](https://hurrycurry.org) - Free & open-source cooperative multiplayer cooking game.
 - [LibreAim](https://codeberg.org/Nokorpo/LibreAim) - Libre FPS aim trainer made with Godot.
-- [open-fpsz](https://gitlab.com/open-fpsz/open-fpsz) - An open-source, fast-paced multiplayer shooter game inspired by Tribes, with jetpacks, skis and vehicles.
 - [OpenLiberty](https://github.com/FOSS-Supremacy/OpenLiberty) - An open-source reimplementation of Grand Theft Auto III on the Godot Engine.
 - [Reia](https://github.com/Quaint-Studios/Reia) - A free game that's an action adventure RPG for Desktop and Mobile with multiplayer, MMO, and offline support.
+- [Sunder](https://codeberg.org/sunder/sunder) - An open-source, fast-paced multiplayer shooter game inspired by Tribes, with jetpacks, skis and vehicles.
 - [Super Tux Party](https://gitlab.com/SuperTuxParty/SuperTuxParty) - A free/libre and open-source party game that is meant to replicate the feel of games such as Mario Party.
 - [Tanks of Freedom II](https://github.com/P1X-in/Tanks-of-Freedom-3-D) - Free turn-based isometric strategy game in voxel art.
 - [Thrive](https://github.com/Revolutionary-Games/Thrive/) - A free, open-source game about the evolution of life (Mono).
@@ -402,6 +402,7 @@ See [Vivraan/godot-lang-support](https://github.com/Vivraan/godot-lang-support).
 - [JetBrains Rider (C#)](https://github.com/JetBrains/godot-support) - Syntax highlighting, autocompletion and run configurations.
 - [Kakoune](https://github.com/Skytrias/gdscript-kak) - Syntax highlighting.
 - [GNU Nano](https://github.com/GodotID/nano-gdscript) - Syntax highlighting.
+- [Neovim](https://github.com/Mathijs-Bakker/godotdev.nvim) - A batteries-included Neovim plugin for Godot 4.x game development. Use Neovim as a fully featured external editor for Godot, with minimal setup.
 - [Sublime Text](https://github.com/beefsack/GDScript-sublime) - Syntax highlighting.
 - [Vim](https://github.com/habamax/vim-godot) - Syntax highlighting, autocompletion and linting using the LSP server provided by the Godot editor. Also supports the Godot shader language.
 - Visual Studio Code
