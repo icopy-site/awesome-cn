@@ -31,7 +31,6 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 #### JSON
 
 - [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/cristianbuse/VBA-FastJSON?style&logo=github&label) [VBA-FastJSON](https://github.com/cristianbuse/VBA-FastJSON) - Fast, cross-platform, native json parser and serializer. Memory efficient (non-recursive), RFC 8259 compliant, UTF8 support
-- [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/VBA-tools/VBA-JSON?style&logo=github&label) [VBA-JSON](https://github.com/VBA-tools/VBA-JSON) - JSON conversion and parsing.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [mdJSON](https://www.vbforums.com/showthread.php?871695-VB6-VBA-JSON-parsing-to-built-in-VBA-Collections-with-JSON-Path-support) - JSON library with dot-notation for extracting paths.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [JSONBag](https://www.vbforums.com/showthread.php?738845-VB6-JsonBag-Another-JSON-Parser-Generator) - Uses shebang notation to extract keys from JSON strings. Can also build JSON with this library.
 - From Library Collections:

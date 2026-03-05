@@ -512,6 +512,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Angular code editor rules](https://promptgenius.net/cursorrules/frameworks/frontend/angular) - Guide for effective AI interaction patterns when working with Angular code.
 * [angular-material-ai-rules](https://github.com/Angular-Material-Dev/angular-material-ai-rules) - A collection of configuration rules and usage guidelines for using Angular Material in AI-driven code editors.
 * [angular-mcp-server](https://github.com/SAIPRANAY-GANGULA/angular-mcp-server) - An MCP server offering Angular documentation access, enabling AI assistants to search and retrieve relevant Angular info.
+* [angular-skills](https://github.com/analogjs/angular-skills) - A collection of skills that provide coding agents with up-to-date Angular v20+ patterns, best practices, and code examples.
 * [augment code](https://www.augmentcode.com/) - The first AI coding assistant built for professional software engineers and large codebases.
 * [CodeSage AI](https://github.com/kd-akshay/code-quality-analyzer) - Analyzes code quality of React, Vue, and Angular projects using linters and an LLM.
 * [CodingFleet](https://codingfleet.com/code-generator/angular/) - An innovative AI-powered tool that transforms your instructions into efficient Angular code.
@@ -569,6 +570,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### Debugging
 
 * [Bugfender](https://bugfender.com/platforms/angular-logging/) - A cloud service to collect logs and Angular errors in Real-Time.
+* [ngx-debug-console](https://github.com/andrerds/ngx-debug-console) - A floating debug console overlay for Angular 14+ applications.
 * [ngrx-devtool](https://github.com/AmadeusITGroup/ngrx-devtool) - A development tool for visualizing and debugging NgRx state management in Angular applications.
 * [ngx-dev-toolbar](https://github.com/alfredoperez/ngx-dev-toolbar) - A powerful development toolbar for Angular applications to improve your developer productivity directly in the browser.
 * [ngx-error-handling](https://github.com/gonzalad/ngx-error-handling) - This library seamlessly manages unhandled RxJS, signal, and classic errors, making them accessible through an Rx subject (ErrorBus).
@@ -1071,6 +1073,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-gsap](https://github.com/marcos-velasquez/ngx-gsap) - A lightweight, customizable Angular animation library powered by GSAP that's declarative and easy to use.
 * [ngx-animations](https://github.com/bananalasmari/ngx-animations) - Angular animation library inspired by GSAP, offering high-performance directives, components, and a timeline service with full RTL support.
 * [ngx-spring](https://github.com/angular-threejs/ngx-spring) - Create fluid, natural-feeling animations using spring physics instead of durations and easing curves.
+* [ngx-unicode-spinners](https://github.com/neogenz/ngx-unicode-spinners) - 18 braille-based Unicode spinner animations for Angular. Zero runtime dependencies.
 
 ### Calendars
 
@@ -1382,6 +1385,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-form-rules](https://github.com/bulbul5391/ngx-form-rules) - A lightweight Angular library that makes it easy to enable, disable, and control reactive form fields using simple, declarative rules.
 * [ngx-reactive-forms-utils](https://github.com/pjlamb12/ngx-reactive-forms-utils) - Utilities to assist in the use of reactive Angular forms.
 * [ngx-entity-forms](https://github.com/irvrodflo/ngx-entity-form) - Generates fully typed Angular FormGroups from your entity interface, complete with autocompletion, validation, and error messages.
+* [ngx-form-draft](https://github.com/neokyuubi/ngx-form-draft) - Zero-dependency Angular form draft auto-save and restore.
 
 ### Form Controls
 
