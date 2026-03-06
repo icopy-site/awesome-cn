@@ -46,7 +46,6 @@ Reference managers to generate citations, BibTeX, and BibLaTeX files.
   share research.
   - [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/) - Enhanced
     BibTeX / BibLaTeX integration for Zotero.
-  - [ZotFile for Zotero](http://zotfile.com/) - Enhanced PDF file management for Zotero.
 - [ZoteroBib](https://zbib.org/) - Online bibliography reference manager.
 
 ## Illustrations
@@ -81,9 +80,6 @@ Supplementary files and tools.
 - [pandoc](https://pandoc.org/MANUAL) - Haskell library for converting from
   one markup format to another, and a command-line tool that uses this
   library :bookmark: :link:.
-  - [Academic Markdown](https://github.com/smathot/academicmarkdown#readme) - Python wrapper over Pandoc with specialized extensions to parse certain
-    elements, making it a superset of Pandoc Markdown flavour :bookmark:
-    :link:.
   - [Pandoc filters](https://github.com/jgm/pandoc/wiki/Pandoc-Filters) - List of
     addons to pandoc which implement extra features such as citations and
     cross-references.
@@ -117,25 +113,7 @@ Reusable minimalist examples.
 
 ### Articles
 
-- [Pandoc Markdown-LaTeX
-   Boilerplate](https://github.com/davecap/markdown-latex-boilerplate/#readme) - Demonstrate
-   how to integrate Pandoc with an existing LaTeX template which
-   requires some boilerplate code (i.e. LaTeX preamble), thus avoiding the
-   `latexmk` dependency.
 - [Paper Templates for GitHub Pages](https://github.com/dev-onejun/paper-templates-for-github-pages) - Markdown-based templates for papers and RESUME/CVs, publishing with GitHub Pages.
-- [scientific-markdown](https://github.com/JensErat/scientific-markdown/#readme) - Example
-   for use of Markdown for scientific publications using Pandoc and
-   `latexmk`.
-- [Steve's R Markdown Templates](https://github.com/svmiller/svm-r-markdown-templates/) - Academic manuscript, memos, Beamer presentation, syllabus and CV.
-
-
-### Presentations
-
-- [pandoc-starter](https://github.com/jez/pandoc-starter/#readme) - Templates for
-   articles, Beamer presentations etc. using Markdown files and Makefiles for
-   getting started with Pandoc.
-- [slides](https://github.com/cgroll/slides/#readme) - Demo for generating `reveal.js`
-   presentations using Pandoc.
 
 ### Books
 
@@ -159,15 +137,6 @@ How to generate articles and presentations for scientific purposes.
    output.
 - [Dennis Tenen and Grant Wythoff](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) - Sustainable Authorship in Plain Text using Pandoc and Markdown.
 - [Heads up! Quarto is here to stay. Immediately combine R & Python in your next document](https://blog.devgenius.io/heads-up-quarto-is-here-to-stay-aa861ef87491) - Summary of the capabilities of Quarto, why to use it, and how it compares to R Markdown. Also contains tips for M1 Mac users on how to fix a common problem with reticulate.
-- [Katrin Leinweber's Ph.D.
-   thesis](https://github.com/katrinleinweber/PhD-thesis/#readme) - Automated
-   work flow involving several tools, but primarily Pandoc, `latexmk` and
-   Academic Markdown.
-- [Scott Selisker](https://u.arizona.edu/~selisker/post/workflow/) - Plain Text Workflow for Academic Writing with Atom.
-- [Teaching and learning with
-   Jupyter](https://github.com/jupyter4edu/jupyter-edu-book/#readme) - Book
-   written in R Markdown, bookdown and also rendered as HTML, PDF and
-   EPUB.
 - [Write your dissertation in RMarkdown](https://ourcodingclub.github.io/tutorials/rmarkdown-dissertation/) - Step-by-step guide on creating a complex pdf document, including text, figures, references, images, formatting, and more.
 - [Writing scientific papers for ACPD using Emacs
    Org-mode](https://www.draketo.de/english/emacs/writing-papers-in-org-mode-acpd) - Detailed

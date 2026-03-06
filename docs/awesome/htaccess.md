@@ -1,337 +1,361 @@
 <div class="github-widget" data-repo="phanan/htaccess"></div>
 ## .htaccess Snippets [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-一组有用的 .htaccess 片段，全部集中在一个地方.
+A collection of useful .htaccess snippets, all in one place.
 
- **注意**：`.htaccess` 文件供无权编辑主服务器配置文件的人员使用. 它们本质上比使用主配置更慢、更复杂. 请参阅 [howto in the httpd documentation](https://httpd.apache.org/docs/current/howto/htaccess.html) 了解更多详情.
+> [!NOTE]
+> `.htaccess` files are for people that do not have rights to edit the main server configuration file. They are intrinsically slower and more complicated than using the main config. Please see the [howto in the httpd documentation](https://httpd.apache.org/docs/current/howto/htaccess.html) for further details.
 
- **免责声明**：虽然在大多数情况下将代码片段放入 .htaccess 文件就足够了，但在某些情况下可能需要进行某些修改. 使用风险自负.
+> [!WARNING]
+> While dropping the snippet into an `.htaccess` file is most of the time sufficient, there are cases when certain modifications might be required. Use at your own risk.
 
- **重要提示**：Apache 2.4 引入了一些重大更改，最显着的是访问控制配置. 有关详细信息，请查看 [upgrading document](https://httpd.apache.org/docs/2.4/upgrading.html) 也 [this issue](https://github.com/phanan/htaccess/issues/2).
+> [!IMPORTANT]
+> These snippets are for Apache 2.4. If you are still using Apache 2.2, check the [`2.2` branch](https://github.com/phanan/htaccess/tree/2.2). For details on the breaking changes between 2.2 and 2.4, see the [upgrading document](https://httpd.apache.org/docs/2.4/upgrading.html) as well as [this issue](https://github.com/phanan/htaccess/issues/2).
 
 ## Credits
-我们在这里所做的主要是从整个互联网上收集有用的片段（例如，一个很好的块来自 [Apache Server Configs](https://github.com/h5bp/server-configs-apache) ) 到一个地方. 虽然我们一直在尝试在到期时归功，但可能会遗漏一些东西. 如果你认为这里有任何东西是你的工作并且应该给予学分，请告诉我们，或者只是发送 PR.
+What we are doing here is mostly collecting useful snippets from all over the interwebs (for example, a good chunk is from [Apache Server Configs](https://github.com/h5bp/server-configs-apache)) into one place. While we’ve been trying to credit where due, things might be missing. If you believe anything here is your work and credits should be given, let us know, or just send a PR.
 
 
 ## Rewrite and Redirection
-注意：假设您已经安装并启用了 `mod_rewrite`.
+Note: It is assumed that you have `mod_rewrite` installed and enabled.
 
 ### Force www
-```apacheconf
-重写引擎开启
+``` apacheconf
+RewriteEngine on
 RewriteCond %{HTTP_HOST} ^example\.com [NC]
-重写规则 ^(.*)$ http://www.example.com/$1 [L,R=301,NC]
+RewriteRule ^(.*)$ https://www.example.com/$1 [L,R=301,NC]
 ```
 
 ### Force www in a Generic Way
-```apacheconf
+``` apacheconf
 RewriteCond %{HTTP_HOST} !^$
- RewriteCond %{HTTP_HOST} !^www\.  [数控]
+RewriteCond %{HTTP_HOST} !^www\. [NC]
 RewriteCond %{HTTPS}s ^on(s)|
-重写规则 ^ http%1://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+RewriteRule ^ http%1://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 ```
-这适用于_any_ 域. [Source](https://stackoverflow.com/questions/4916222/htaccess-how-to-force-www-in-a-generic-way)
+This works for _any_ domain. [Source](https://stackoverflow.com/questions/4916222/htaccess-how-to-force-www-in-a-generic-way)
 
 ### Force non-www
-It’s [still](http://www.sitepoint.com/domain-www-or-no-www/) [open](https://devcenter.heroku.com/articles/apex-domains) [for](http://yes-www.org/) [debate](http://no-www.org/) 无论 www 还是非 www 都是要走的路，所以如果您碰巧是裸域的粉丝，请看这里：
-```apacheconf
-重写引擎开启
+It’s [still](https://www.sitepoint.com/domain-www-or-no-www/) [open](https://devcenter.heroku.com/articles/apex-domains) [for](https://yes-www.org/) [debate](https://no-www.org/) whether www or non-www is the way to go, so if you happen to be a fan of bare domains, here you go:
+``` apacheconf
+RewriteEngine on
 RewriteCond %{HTTP_HOST} ^www\.example\.com [NC]
-重写规则 ^(.*)$ http://example.com/$1 [L,R=301]
+RewriteRule ^(.*)$ https://example.com/$1 [L,R=301]
 ```
 
 ### Force non-www in a Generic Way
-```apacheconf
-重写引擎开启
+``` apacheconf
+RewriteEngine on
 RewriteCond %{HTTP_HOST} ^www\.
 RewriteCond %{HTTPS}s ^on(s)|off
 RewriteCond http%1://%{HTTP_HOST} ^(https?://)(www\.)?(.+)$
-重写规则 ^ %1%3%{REQUEST_URI} [R=301,L]
+RewriteRule ^ %1%3%{REQUEST_URI} [R=301,L]
 ```
 
 ### Force HTTPS
-```apacheconf
-重写引擎开启
+``` apacheconf
+RewriteEngine on
 RewriteCond %{HTTPS} !on
-重写规则 (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
 
 ## Note: It’s also recommended to enable HTTP Strict Transport Security (HSTS)
 ## on your HTTPS website to help prevent man-in-the-middle attacks.
 ## See https://developer.mozilla.org/en-US/docs/Web/Security/HTTP_strict_transport_security
 <IfModule mod_headers.c>
-    #如果您不想在所有子域上强制执行 HSTS，请删除“includeSubDomains”
-    标头始终设置 Strict-Transport-Security &quot;max-age=31536000;includeSubDomains&quot;
+    # Remove "includeSubDomains" if you don't want to enforce HSTS on all subdomains
+    Header always set Strict-Transport-Security "max-age=31536000;includeSubDomains"
 </IfModule>
 ```
 
 ### Force HTTPS Behind a Proxy
-如果您的服务器前面有代理执行 TLS 终止，则很有用.
-```apacheconf
+Useful if you have a proxy in front of your server performing TLS termination.
+``` apacheconf
 RewriteCond %{HTTP:X-Forwarded-Proto} !https
-重写规则 (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
 ```
 
 ### Force Trailing Slash
-```apacheconf
+``` apacheconf
 RewriteCond %{REQUEST_URI} /+[^\.]+$
-重写规则 ^(.+[^/])$ %{REQUEST_URI}/ [R=301,L]
+RewriteRule ^(.+[^/])$ %{REQUEST_URI}/ [R=301,L]
 ```
 
 ### Remove Trailing Slash
-此代码段会将以斜杠结尾的路径重定向到非斜杠结尾的对应路径（实际目录除外），例如，将“http://www.example.com/blog/”重定向到“http://www.example.com/”博客`. 这对 SEO 很重要，因为它 [recommended](http://overit.com/blog/canonical-urls) 每个页面都有一个规范的 URL.
-```apacheconf
+This snippet will redirect paths ending in slashes to their non-slash-terminated counterparts (except for actual directories), e.g. `https://www.example.com/blog/` to `https://www.example.com/blog`. This is important for SEO, since it’s [recommended](https://overit.com/blog/canonical-urls) to have a canonical URL for every page.
+``` apacheconf
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_URI} (.+)/$
-重写规则 ^ %1 [R=301,L]
+RewriteRule ^ %1 [R=301,L]
 ```
 [Source](https://stackoverflow.com/questions/21417263/htaccess-add-remove-trailing-slash-from-url#27264788)
 
 ### Redirect a Single Page
-```apacheconf
-重定向 301 /oldpage.html http://www.example.com/newpage.html
-重定向 301 /oldpage2.html http://www.example.com/folder/
+``` apacheconf
+Redirect 301 /oldpage.html https://www.example.com/newpage.html
+Redirect 301 /oldpage2.html https://www.example.com/folder/
 ```
-[Source](http://css-tricks.com/snippets/htaccess/301-redirects/)
+[Source](https://css-tricks.com/snippets/htaccess/301-redirects/)
 
 ### Redirect Using RedirectMatch
-```apacheconf
-RedirectMatch 301 /子目录(.*) http://www.newsite.com/newfolder/$1
+``` apacheconf
+RedirectMatch 301 /subdirectory(.*) https://www.newsite.com/newfolder/$1
 RedirectMatch 301 ^/(.*).htm$ /$1.html
 RedirectMatch 301 ^/200([0-9])/([^01])(.*)$ /$2$3
-RedirectMatch 301 ^/类别/(.*)$ /$1
+RedirectMatch 301 ^/category/(.*)$ /$1
 RedirectMatch 301 ^/(.*)/htaccesselite-ultimate-htaccess-article.html(.*) /htaccess/htaccess.html
 RedirectMatch 301 ^/(.*).html/1/(.*) /$1.html$2
-RedirectMatch 301 ^/手册/(.*)$ http://www.php.net/manual/$1
-RedirectMatch 301 ^/dreamweaver/(.*)$ /tools/$1
-RedirectMatch 301 ^/z/(.*)$ http://static.askapache.com/$1
+RedirectMatch 301 ^/manual/(.*)$ https://www.php.net/manual/$1
+RedirectMatch 301 ^/old-directory/(.*)$ /new-directory/$1
+RedirectMatch 301 ^/z/(.*)$ https://static.askapache.com/$1
 ```
-[Source](http://www.askapache.com/htaccess/301-redirect-with-mod_rewrite-or-redirectmatch.html#301_Redirects_RedirectMatch)
+[Source](https://www.askapache.com/htaccess/301-redirect-with-mod_rewrite-or-redirectmatch.html#301_Redirects_RedirectMatch)
 
 ### Alias a Single Directory
-```apacheconf
-重写引擎开启
-RewriteRule ^源目录/(.*) /目标目录/$1 [R=301,L]
+``` apacheconf
+RewriteEngine On
+RewriteRule ^source-directory/(.*) /target-directory/$1 [R=301,L]
 ```
 
 ### Alias Paths to Script
-```apacheconf
+``` apacheconf
 FallbackResource /index.fcgi
 ```
-此示例在某个目录中有一个 index.fcgi 文件，该目录中无法解析文件名/目录的任何请求都将发送到 index.fcgi 脚本. 如果您希望在维护 `baz.foo/css/ style.css` 之类的. 从 PATH_INFO 环境变量获取对暴露给脚本环境的原始路径的访问权.
+This example has an `index.fcgi` file in some directory, and any requests within that directory that fail to resolve a filename/directory will be sent to the `index.fcgi` script. It’s good if you want `baz.foo/some/cool/path` to be handled by `baz.foo/index.fcgi` (which also supports requests to `baz.foo`) while maintaining `baz.foo/css/style.css` and the like. Get access to the original path from the PATH_INFO environment variable, as exposed to your scripting environment.
 
-```apacheconf
-重写引擎开启
-重写规则 ^$ index.fcgi/ [QSA,L]
+``` apacheconf
+RewriteEngine On
+RewriteRule ^$ index.fcgi/ [QSA,L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-重写规则 ^(.*)$ index.fcgi/$1 [QSA,L]
+RewriteRule ^(.*)$ index.fcgi/$1 [QSA,L]
 ```
-这是 FallbackResource 指令的一个低效版本（因为使用 `mod_rewrite` 比仅仅处理 `FallbackResource` 指令更复杂），但它也更灵活.
+This is a less efficient version of the FallbackResource directive (because using `mod_rewrite` is more complex than just handling the `FallbackResource` directive), but it’s also more flexible.
 
 ### Redirect an Entire Site
-```apacheconf
-重定向 301 / http://newsite.com/
+``` apacheconf
+Redirect 301 / https://newsite.com/
 ```
-这种方式在链接完好无损的情况下完成. 即 `www.oldsite.com/some/crazy/link.html` 将变为 `www.newsite.com/some/crazy/link.html`. 当您只是将站点“移动”到新域时，这非常有用. [Source](http://css-tricks.com/snippets/htaccess/301-redirects/)
+This way does it with links intact. That is `www.oldsite.com/some/crazy/link.html` will become `www.newsite.com/some/crazy/link.html`. This is extremely helpful when you are just “moving” a site to a new domain. [Source](https://css-tricks.com/snippets/htaccess/301-redirects/)
 
 ### Alias “Clean” URLs
-此代码段允许您使用“干净”的 URL——那些没有 PHP 扩展名的 URL，例如“example.com/users”而不是“example.com/users.php”.
-```apacheconf
-重写引擎开启
+This snippet lets you use “clean” URLs -- those without a PHP extension, e.g. `example.com/users` instead of `example.com/users.php`.
+``` apacheconf
+RewriteEngine On
 RewriteCond %{SCRIPT_FILENAME} !-d
-重写规则 ^([^.]+)$ $1.php [NC,L]
+RewriteRule ^([^.]+)$ $1.php [NC,L]
 ```
-[Source](http://www.abeautifulsite.net/access-pages-without-the-php-extension-using-htaccess/)
+[Source](https://www.abeautifulsite.net/access-pages-without-the-php-extension-using-htaccess/)
 
 ### Exclude URL from Redirection
-此代码段允许您从重定向中排除 URL. 例如，如果您设置了重定向规则但想要排除 robots.txt，以便搜索引擎可以按预期访问该 URL.
-```apacheconf
-重写引擎开启
-重写规则 ^robots.txt - [L]
+This snippet allows you to exclude a URL from redirection.  For example, if you have redirection rules setup but want to exclude robots.txt so search engines can access that URL as expected.
+``` apacheconf
+RewriteEngine On
+RewriteRule ^robots.txt - [L]
 ```
 
 ## Security
 ### Deny All Access
-```apacheconf
-## Apache 2.2
-全部拒绝
-
-## Apache 2.4
-## Require all denied
+``` apacheconf
+Require all denied
 ```
 
-但是等等，这也会将您锁定在您的内容之外！ 从而引入...
+But wait, this will lock you out from your content as well! Thus introducing...
 
 ### Deny All Access Except Yours
-```apacheconf
-## Apache 2.2
-命令拒绝，允许
-全部拒绝
-允许来自 xxx.xxx.xxx.xxx
-
-## Apache 2.4
-## Require all denied
-## Require ip xxx.xxx.xxx.xxx
+``` apacheconf
+Require all denied
+Require ip xxx.xxx.xxx.xxx
 ```
- `xxx.xxx.xxx.xxx` 是您的 IP. 例如，如果您将最后三位数字替换为“0/12”，这将指定同一网络内的 IP 范围，从而避免您单独列出所有允许的 IP 的麻烦. [Source](http://speckyboy.com/2013/01/08/useful-htaccess-snippets-and-hacks/)
+`xxx.xxx.xxx.xxx` is your IP. If you replace the last three digits with `0/12` for example, this will specify a range of IPs within the same network, thus saving you the trouble to list all allowed IPs separately. [Source](https://speckyboy.com/2013/01/08/useful-htaccess-snippets-and-hacks/)
 
-现在当然有一个颠倒的版本：
+Now of course there's a reversed version:
 
 ### Allow All Access Except Spammers'
-```apacheconf
-## Apache 2.2
-命令拒绝，允许
-来自 xxx.xxx.xxx.xxx 的拒绝
-来自 xxx.xxx.xxx.xxy 的拒绝
-
-## Apache 2.4
-## Require all granted
-## Require not ip xxx.xxx.xxx.xxx
-## Require not ip xxx.xxx.xxx.xxy
+``` apacheconf
+Require all granted
+Require not ip xxx.xxx.xxx.xxx
+Require not ip xxx.xxx.xxx.xxy
 ```
 
 ### Deny Access to Hidden Files and Directories
-隐藏文件和目录（名称以点“.”开头的文件和目录）即使不是全部，也应该在大多数情况下得到保护. 例如：`.htaccess`、`.htpasswd`、`.git`、`.hg`...
-```apacheconf
-RewriteCond %{SCRIPT_FILENAME} -d [或]
+Hidden files and directories (those whose names start with a dot `.`) should most, if not all, of the time be secured. For example: `.htaccess`, `.htpasswd`, `.git`, `.hg`...
+``` apacheconf
+RewriteCond %{SCRIPT_FILENAME} -d [OR]
 RewriteCond %{SCRIPT_FILENAME} -f
-重写规则“(^|/)\.”  - [F]
+RewriteRule "(^|/)\." - [F]
 ```
 
-或者，您可以只引发“未找到”错误，让攻击者无所适从：
-```apacheconf
-重定向匹配 404 /\..*$
+Alternatively, you can just raise a “Not Found” error, giving the attacker no clue:
+``` apacheconf
+RedirectMatch 404 /\..*$
 ```
 
 ### Deny Access to Backup and Source Files
-这些文件可能是由某些文本/HTML 编辑器（如 Vi/Vim）留下的，如果暴露给公众会造成很大的安全隐患.
-```apacheconf
+These files may be left by some text/HTML editors (like Vi/Vim) and pose a great security danger if exposed to public.
+``` apacheconf
 <FilesMatch "(\.(bak|config|dist|fla|inc|ini|log|psd|sh|sql|swp)|~)$">
-    ##阿帕奇 2.2
-    订单允许、拒绝
-    全部拒绝
-    满足所有
-
-    ##阿帕奇 2.4
-    #要求全部拒绝
+    Require all denied
 </FilesMatch>
 ```
 [Source](https://github.com/h5bp/server-configs-apache)
 
 ### Disable Directory Browsing
-```apacheconf
-期权全指数
+``` apacheconf
+Options All -Indexes
 ```
 
 ### Disable Image Hotlinking
-```apacheconf
-重写引擎开启
+``` apacheconf
+RewriteEngine on
 ## Remove the following line if you want to block blank referrer too
 RewriteCond %{HTTP_REFERER} !^$
 
 RewriteCond %{HTTP_REFERER} !^https?://(.+\.)?example.com [NC]
-重写规则 \.(jpe?g|png|gif|bmp)$ - [NC,F,L]
+RewriteRule \.(jpe?g|png|gif|bmp|webp|avif|svg|ico)$ - [NC,F,L]
 
 ## If you want to display a “blocked” banner in place of the hotlinked image,
 ## replace the above rule with:
-## RewriteRule \.(jpe?g|png|gif|bmp) http://example.com/blocked.png [R,L]
+## RewriteRule \.(jpe?g|png|gif|bmp|webp|avif|svg|ico) https://example.com/blocked.png [R,L]
 ```
 
 ### Disable Image Hotlinking for Specific Domains
-有时您只想禁用来自某些坏人的图像盗链.
-```apacheconf
-重写引擎开启
+Sometimes you want to disable image hotlinking from some bad guys only.
+``` apacheconf
+RewriteEngine on
 RewriteCond %{HTTP_REFERER} ^https?://(.+\.)?badsite\.com [NC,OR]
 RewriteCond %{HTTP_REFERER} ^https?://(.+\.)?badsite2\.com [NC,OR]
-重写规则 \.(jpe?g|png|gif|bmp)$ - [NC,F,L]
+RewriteRule \.(jpe?g|png|gif|bmp|webp|avif|svg|ico)$ - [NC,F,L]
 
 ## If you want to display a “blocked” banner in place of the hotlinked image,
 ## replace the above rule with:
-## RewriteRule \.(jpe?g|png|gif|bmp) http://example.com/blocked.png [R,L]
+## RewriteRule \.(jpe?g|png|gif|bmp|webp|avif|svg|ico) https://example.com/blocked.png [R,L]
 ```
 
 ### Password Protect a Directory
-首先，您需要在系统某处创建一个 .htpasswd 文件：
-``` 狂欢
+First you need to create a `.htpasswd` file somewhere in the system:
+``` bash
 htpasswd -c /home/fellowship/.htpasswd boromir
 ```
 
-然后您可以使用它进行身份验证：
-```apacheconf
-授权类型基本
-AuthName &quot;一不简单&quot;
+Then you can use it for authentication:
+``` apacheconf
+AuthType Basic
+AuthName "One does not simply"
 AuthUserFile /home/fellowship/.htpasswd
-需要有效用户
+Require valid-user
 ```
 
 ### Password Protect a File or Several Files
-```apacheconf
-AuthName &quot;一尚不简&quot;
-授权类型基本
+``` apacheconf
+AuthName "One still does not simply"
+AuthType Basic
 AuthUserFile /home/fellowship/.htpasswd
 
 <Files "one-ring.o">
-需要有效用户
+Require valid-user
 </Files>
 
 <FilesMatch ^((one|two|three)-rings?\.o)$>
-需要有效用户
+Require valid-user
 </FilesMatch>
 ```
 
 ### Block Visitors by Referrer
-这会拒绝来自（由）特定域的所有用户的访问.
-[Source](http://www.htaccess-guide.com/deny-visitors-by-referrer/)
-```apacheconf
-重写引擎开启
+This denies access for all users who are coming from (referred by) a specific domain.
+[Source](https://www.htaccess-guide.com/deny-visitors-by-referrer/)
+``` apacheconf
+RewriteEngine on
 ## Options +FollowSymlinks
 RewriteCond %{HTTP_REFERER} somedomain\.com [NC,OR]
 RewriteCond %{HTTP_REFERER} anotherdomain\.com
-重写规则 .* - [F]
+RewriteRule .* - [F]
+```
+
+### Block Specific User Agents
+This will block specific user agents from accessing your site, useful for blocking scrapers and bad bots.
+``` apacheconf
+RewriteEngine on
+RewriteCond %{HTTP_USER_AGENT} BadBot [NC,OR]
+RewriteCond %{HTTP_USER_AGENT} EvilScraper [NC]
+RewriteRule .* - [F,L]
 ```
 
 ### Prevent Framing the Site
-这可以防止网站被加框（即放入 `iframe` 标签），同时仍然允许为特定 URI 加框.
-```apacheconf
-SetEnvIf Request_URI &quot;/starry-night&quot; allow_framing=true
-标头设置 X-Frame-Options SAMEORIGIN env=!allow_framing
+This prevents the website to be framed (i.e. put into an `iframe` tag), when still allows framing for a specific URI.
+``` apacheconf
+SetEnvIf Request_URI "/starry-night" allow_framing=true
+Header set X-Frame-Options SAMEORIGIN env=!allow_framing
+```
+
+A Content Security Policy header helps mitigate cross-site scripting (XSS) and other code injection attacks by declaring which dynamic resources are allowed to load.
+``` apacheconf
+<IfModule mod_headers.c>
+    Header set Content-Security-Policy "default-src 'self'; script-src 'self'; style-src 'self'"
+</IfModule>
+```
+Adjust the directives to fit your needs. See the [CSP reference](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Security-Policy) for all available directives.
+
+### Prevent MIME Type Sniffing
+This prevents browsers from trying to guess ("sniff") the MIME type of a resource, which can have security implications. The browser will trust what the server says and block the resource if it doesn't match the expected type.
+``` apacheconf
+<IfModule mod_headers.c>
+    Header set X-Content-Type-Options "nosniff"
+</IfModule>
+```
+
+### Set Referrer Policy
+Control how much referrer information is included with requests. This helps protect user privacy by preventing the full URL from leaking to external sites.
+``` apacheconf
+<IfModule mod_headers.c>
+    Header set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+```
+
+### Set Permissions Policy
+Restrict which browser features your site can use, such as camera, microphone, geolocation, etc.
+``` apacheconf
+<IfModule mod_headers.c>
+    Header set Permissions-Policy "camera=(), microphone=(), geolocation=(), interest-cohort=()"
+</IfModule>
+```
+
+### Remove Server Signature
+Prevent Apache from exposing its version number and OS information in HTTP headers and error pages.
+``` apacheconf
+ServerSignature Off
 ```
 
 ## Performance
 ### Compress Text Files
-```apacheconf
+``` apacheconf
 <IfModule mod_deflate.c>
 
-    #强制压缩损坏的标头.
-    #https://developer.yahoo.com/blogs/ydn/pushing-beyond-gzipping-25601.html
+    # Force compression for mangled headers.
+    # https://developer.yahoo.com/blogs/ydn/pushing-beyond-gzipping-25601.html
     <IfModule mod_setenvif.c>
         <IfModule mod_headers.c>
-            SetEnvIfNoCase ^(Accept-EncodXng|X-cept-Encoding|X{15}|~{15}|-{15})$ ^((gzip|deflate)\s*,?\s*)+|[X~ -]{4,13}$ HAVE_Accept-编码
-            RequestHeader 追加 Accept-Encoding &quot;gzip,deflate&quot; env=HAVE_Accept-Encoding
+            SetEnvIfNoCase ^(Accept-EncodXng|X-cept-Encoding|X{15}|~{15}|-{15})$ ^((gzip|deflate)\s*,?\s*)+|[X~-]{4,13}$ HAVE_Accept-Encoding
+            RequestHeader append Accept-Encoding "gzip,deflate" env=HAVE_Accept-Encoding
         </IfModule>
     </IfModule>
 
-    #压缩所有标有以下 MIME 类型之一的输出
-    #(Apache 2.3.7以下版本不需要开启`mod_filter`
-    #并且可以删除`<IfModule mod_filter.c>  ` 和 `</IfModule>  `线
-    #  as `AddOutputFilterByType` is still in the core directives).
+    # Compress all output labeled with one of the following MIME-types
+    # (mod_filter is required for Apache 2.4)
     <IfModule mod_filter.c>
         AddOutputFilterByType DEFLATE application/atom+xml \
-                                      应用程序/JavaScript \
-                                      应用程序/json \
-                                      应用程序/rss+xml \
-                                      应用程序/vnd.ms-字体对象\
-                                      应用程序/x-字体-ttf \
-                                      应用程序/x-web-app-manifest+json \
-                                      应用程序/xhtml+xml \
-                                      应用程序/XML \
-                                      字体/opentype \
-                                      图片/svg+xml \
-                                      图片/x-icon \
-                                      文字/CSS \
-                                      文本/HTML \
-                                      文本/纯 \
-                                      文本/x-组件\
-                                      文本/xml
+                                      application/javascript \
+                                      application/json \
+                                      application/rss+xml \
+                                      application/x-font-ttf \
+                                      application/x-web-app-manifest+json \
+                                      application/xhtml+xml \
+                                      application/xml \
+                                      font/opentype \
+                                      image/svg+xml \
+                                      image/x-icon \
+                                      text/css \
+                                      text/html \
+                                      text/plain \
+                                      text/xml
     </IfModule>
 
 </IfModule>
@@ -340,75 +364,96 @@ SetEnvIf Request_URI &quot;/starry-night&quot; allow_framing=true
 
 
 ### Set Expires Headers
- _Expires headers_ 告诉浏览器他们是应该从服务器请求特定文件还是从缓存中获取它. 建议将静态内容的过期标头设置为将来的某个时间.
+_Expires headers_ tell the browser whether they should request a specific file from the server or just grab it from the cache. It is advisable to set static content's expires headers to something far in the future.
 
-如果您不使用基于文件名的缓存清除来控制版本控制，请考虑将 CSS 和 JS 等资源的缓存时间降低到 1 周左右. [Source](https://github.com/h5bp/server-configs-apache)
-```apacheconf
+If you don’t control versioning with filename-based cache busting, consider lowering the cache time for resources like CSS and JS to something like 1 week. [Source](https://github.com/h5bp/server-configs-apache)
+``` apacheconf
 <IfModule mod_expires.c>
-    ExpiresActive 于
-    ExpiresDefault &quot;访问加 1 个月&quot;
+    ExpiresActive on
+    ExpiresDefault                                      "access plus 1 month"
 
-  #CSS
-    ExpiresByType text/css “访问加 1 年”
+  # CSS
+    ExpiresByType text/css                              "access plus 1 year"
 
-  #数据交换
-    ExpiresByType application/json &quot;访问加 0 秒&quot;
-    ExpiresByType application/xml “访问加 0 秒”
-    ExpiresByType text/xml “访问加 0 秒”
+  # Data interchange
+    ExpiresByType application/json                      "access plus 0 seconds"
+    ExpiresByType application/xml                       "access plus 0 seconds"
+    ExpiresByType text/xml                              "access plus 0 seconds"
 
-  #Favicon（无法重命名！）
-    ExpiresByType 图像/x-图标“访问加 1 周”
+  # Favicon (cannot be renamed!)
+    ExpiresByType image/x-icon                          "access plus 1 week"
 
-  #HTML 组件 (HTC)
-    ExpiresByType 文本/x-组件“访问加 1 个月”
+  # HTML
+    ExpiresByType text/html                             "access plus 0 seconds"
 
-  #HTML
-    ExpiresByType text/html &quot;访问加 0 秒&quot;
+  # JavaScript
+    ExpiresByType application/javascript                "access plus 1 year"
 
-  #JavaScript
-    ExpiresByType 应用程序/javascript“访问加 1 年”
-
-  #清单文件
+  # Manifest files
     ExpiresByType application/x-web-app-manifest+json   "access plus 0 seconds"
-    ExpiresByType 文本/缓存清单“访问加 0 秒”
 
-  #媒体
-    ExpiresByType 音频/ogg“访问加 1 个月”
-    ExpiresByType image/gif “访问加 1 个月”
-    ExpiresByType image/jpeg “访问加 1 个月”
-    ExpiresByType image/png “访问加 1 个月”
-    ExpiresByType 视频/mp4“访问加 1 个月”
-    ExpiresByType 视频/ogg“访问加 1 个月”
-    ExpiresByType 视频/webm“访问加 1 个月”
+  # Media
+    ExpiresByType audio/ogg                             "access plus 1 month"
+    ExpiresByType image/gif                             "access plus 1 month"
+    ExpiresByType image/jpeg                            "access plus 1 month"
+    ExpiresByType image/png                             "access plus 1 month"
+    ExpiresByType video/mp4                             "access plus 1 month"
+    ExpiresByType video/ogg                             "access plus 1 month"
+    ExpiresByType video/webm                            "access plus 1 month"
 
-  #网络订阅
-    ExpiresByType application/atom+xml “访问加 1 小时”
-    ExpiresByType application/rss+xml “访问加 1 小时”
+  # Web feeds
+    ExpiresByType application/atom+xml                  "access plus 1 hour"
+    ExpiresByType application/rss+xml                   "access plus 1 hour"
 
-  #网络字体
-    ExpiresByType application/font-woff2 “访问加 1 个月”
-    ExpiresByType application/font-woff “访问加 1 个月”
-    ExpiresByType application/vnd.ms-fontobject“访问加 1 个月”
-    ExpiresByType application/x-font-ttf “访问加 1 个月”
-    ExpiresByType 字体/opentype“访问加 1 个月”
-    ExpiresByType image/svg+xml “访问加 1 个月”
+  # Web fonts
+    ExpiresByType application/font-woff2                "access plus 1 month"
+    ExpiresByType application/font-woff                 "access plus 1 month"
+    ExpiresByType application/x-font-ttf                "access plus 1 month"
+    ExpiresByType font/opentype                         "access plus 1 month"
+    ExpiresByType image/svg+xml                         "access plus 1 month"
+</IfModule>
+```
+
+### Set Cache-Control Headers
+`Cache-Control` headers provide more fine-grained control over browser caching than Expires headers. You can use both together for maximum compatibility.
+``` apacheconf
+<IfModule mod_headers.c>
+    # Cache CSS and JS for 1 year
+    <FilesMatch "\.(css|js)$">
+        Header set Cache-Control "max-age=31536000, public"
+    </FilesMatch>
+
+    # Cache images for 1 month
+    <FilesMatch "\.(jpe?g|png|gif|webp|avif|svg|ico)$">
+        Header set Cache-Control "max-age=2592000, public"
+    </FilesMatch>
+
+    # Cache fonts for 1 month
+    <FilesMatch "\.(woff2?|ttf|otf)$">
+        Header set Cache-Control "max-age=2592000, public"
+    </FilesMatch>
+
+    # Do not cache HTML
+    <FilesMatch "\.(html|htm)$">
+        Header set Cache-Control "no-cache, no-store, must-revalidate"
+    </FilesMatch>
 </IfModule>
 ```
 
 ### Turn eTags Off
-通过删除 `ETag` 标头，您可以禁用缓存和浏览器验证文件的能力，因此它们被迫依赖于您的 `Cache-Control` 和 `Expires` 标头. [Source](http://www.askapache.com/htaccess/apache-speed-etags.html)
-```apacheconf
+By removing the `ETag` header, you disable caches and browsers from being able to validate files, so they are forced to rely on your `Cache-Control` and `Expires` header. [Source](https://www.askapache.com/htaccess/apache-speed-etags.html)
+``` apacheconf
 <IfModule mod_headers.c>
-    标题看不见的 ETag
+    Header unset ETag
 </IfModule>
-FileETag 无
+FileETag None
 ```
 
 ## Miscellaneous
 
 ### Set PHP Variables
-```apacheconf
-php_value<key><val>
+``` apacheconf
+php_value <key> <val>
 
 ## For example:
 php_value upload_max_filesize 50M
@@ -416,80 +461,107 @@ php_value max_execution_time 240
 ```
 
 ### Custom Error Pages
-```apacheconf
-ErrorDocument 500 “休斯顿，我们有问题.”
-错误文档 401 http://error.example.com/mordor.html
-错误文档 404 /errors/halflife3.html
+``` apacheconf
+ErrorDocument 500 "Houston, we have a problem."
+ErrorDocument 401 https://error.example.com/mordor.html
+ErrorDocument 404 /errors/halflife3.html
 ```
 
+### Custom Maintenance Page
+Redirect all traffic to a maintenance page while still allowing access from a specific IP address.
+``` apacheconf
+RewriteEngine on
+RewriteCond %{REMOTE_ADDR} !^xxx\.xxx\.xxx\.xxx
+RewriteCond %{REQUEST_URI} !/maintenance.html$ [NC]
+RewriteCond %{REQUEST_URI} !\.(css|js|png|jpe?g|gif|svg|ico)$ [NC]
+RewriteRule .* /maintenance.html [R=503,L]
+```
+Replace `xxx.xxx.xxx.xxx` with your IP address to retain access while the site is under maintenance.
+
 ### Force Downloading
-有时你想强制浏览器下载一些内容而不是显示它.
-```apacheconf
+Sometimes you want to force the browser to download some content instead of displaying it.
+``` apacheconf
 <Files *.md>
-    ForceType 应用程序/八位字节流
-    标头集 Content-Disposition 附件
+    ForceType application/octet-stream
+    Header set Content-Disposition attachment
 </Files>
 ```
 
-现在这个阴有一个阳：
+Now there is a yang to this yin:
 
 ### Prevent Downloading
-有时您想强制浏览器显示某些内容而不是下载它.
-```apacheconf
+Sometimes you want to force the browser to display some content instead of downloading it.
+``` apacheconf
 <FilesMatch "\.(tex|log|aux)$">
-    标头集 Content-Type text/plain
+    Header set Content-Type text/plain
 </FilesMatch>
 ```
 
 ### Allow Cross-Domain Fonts
-由于以下原因，CDN 提供的网络字体可能无法在 Firefox 或 IE 中运行 [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing) . 这个片段解决了这个问题.
-```apacheconf
+CDN-served webfonts might not work in Firefox due to [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing). This snippet solves the problem.
+``` apacheconf
 <IfModule mod_headers.c>
-    <FilesMatch "\.(eot|otf|ttc|ttf|woff|woff2)$">
-        标头设置 Access-Control-Allow-Origin &quot;*&quot;
+    <FilesMatch "\.(otf|ttc|ttf|woff|woff2)$">
+        Header set Access-Control-Allow-Origin "*"
     </FilesMatch>
 </IfModule>
 ```
 [Source](https://github.com/h5bp/server-configs-apache/issues/32)
 
+### Enable CORS
+Enable Cross-Origin Resource Sharing (CORS) for your site, allowing other domains to make requests to your server.
+``` apacheconf
+<IfModule mod_headers.c>
+    Header set Access-Control-Allow-Origin "*"
+    Header set Access-Control-Allow-Methods "GET, POST, PUT, DELETE, OPTIONS"
+    Header set Access-Control-Allow-Headers "Content-Type, Authorization"
+</IfModule>
+```
+To restrict access to specific domains, replace `*` with the domain, e.g. `https://example.com`.
+
 ### Auto UTF-8 Encode
-您的文本内容应该始终采用 UTF-8 编码，不是吗？
-```apacheconf
+Your text content should always be UTF-8 encoded, no?
+``` apacheconf
 ## Use UTF-8 encoding for anything served text/plain or text/html
-添加默认字符集 utf-8
+AddDefaultCharset utf-8
 
 ## Force UTF-8 for a number of file formats
-添加字符集 utf-8 .atom .css .js .json .rss .vtt .xml
+AddCharset utf-8 .atom .css .js .json .rss .vtt .xml
 ```
 [Source](https://github.com/h5bp/server-configs-apache)
 
-### Switch to Another PHP Version
-如果您在共享主机上，可能安装了多个版本的 PHP，有时您需要为您的网站安装一个特定版本. 以下代码段应为您切换 PHP 版本.
+### Set Custom MIME Types
+Define custom MIME types for file formats that Apache may not recognize by default.
+``` apacheconf
+AddType application/manifest+json .webmanifest
+AddType application/wasm .wasm
+AddType application/x-ndjson .ndjson
+AddType text/vtt .vtt
+```
 
-```apacheconf
-添加处理程序应用程序/x-httpd-php56 .php
+### Switch to Another PHP Version
+If you’re on a shared host, chances are there are more than one version of PHP installed, and sometimes you want a specific version for your website. The following snippet should switch the PHP version for you.
+
+``` apacheconf
+AddHandler application/x-httpd-php84 .php
 
 ## Alternatively, you can use AddType
-添加类型应用程序/x-httpd-php56 .php
+AddType application/x-httpd-php84 .php
 ```
 
-### Disable Internet Explorer Compatibility View
- IE 中的兼容性视图可能会影响某些网站的显示方式. 以下代码段应强制 IE 使用边缘渲染引擎并禁用兼容性视图.
+### Serve WebP/AVIF Images
+If a modern format image (AVIF or WebP) with the same name exists alongside the original jpg/png, it will be served instead. AVIF is preferred over WebP when the browser supports both.
 
-```apacheconf
-<IfModule mod_headers.c>
-    BrowserMatch MSIE 是 msie
-    标头集 X-UA-Compatible IE=edge env=is-msie
-</IfModule>
-```
+``` apacheconf
+RewriteEngine On
 
-### Serve WebP Images
-If [WebP images](https://developers.google.com/speed/webp/?csw=1) 受支持，并且在与将要提供的 jpg/png 图像相同的位置找到具有 .webp 扩展名和相同名称的图像，然后将提供 WebP 图像.
+## Serve AVIF if supported and available
+RewriteCond %{HTTP_ACCEPT} image/avif
+RewriteCond %{DOCUMENT_ROOT}/$1.avif -f
+RewriteRule (.+)\.(jpe?g|png)$ $1.avif [T=image/avif,E=accept:1]
 
-```apacheconf
-重写引擎开启
-RewriteCond %{HTTP_ACCEPT} 图片/webp
+## Otherwise, serve WebP if supported and available
+RewriteCond %{HTTP_ACCEPT} image/webp
 RewriteCond %{DOCUMENT_ROOT}/$1.webp -f
 RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 ```
-[Source](https://github.com/vincentorback/WebP-images-with-htaccess)

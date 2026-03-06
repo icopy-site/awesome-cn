@@ -183,6 +183,7 @@ Blog posts and other interesting examples of Wardley maps. Ordered by date, newe
 - [Join the Wardley AI Development Group on X/Twitter](https://twitter.com/i/communities/1670015410542985218)
 - [An Exploration into Wardley Mapping Language Code](https://medium.com/@mcraddock/an-exploration-into-wardley-mapping-language-mode-aa87763a8b17) - Create your own Wardley Mapping code editor in two easy steps.
 - [Convert WM format to Many](https://wm2many.streamlit.app/) - A simple streamlit app to convert the OnlineWardleyMaps OWM format to JSON, TOML, JSON Graph and Cypher text.
+- [cli-owm](https://github.com/monkeypants/cli-owm) - Command-line tool that renders OnlineWardleyMaps DSL text to SVG. Pipes stdin to stdout, ships as npm package and standalone binaries. Uses the OnlineWardleyMaps parser.
 - [Exploring Prompt Engineering using Wardley Maps](https://medium.com/prompt-engineering) - A series of blog posts about AI, Python and Wardley Mapping.
 - [wiki-plugin-wmap](https://www.npmjs.com/package/wiki-plugin-wmap) - A plugin for [fedwiki](http://fed.wiki.org/view/welcome-visitors) that enables you to write maps in `wmap` syntax and create links to other wiki pages from components.
 - [tree-sitter-wmap](https://git.sr.ht/~rbdr/tree-sitter-wmap) - A `wmap` syntax parser using tree sitter with a bundled neovim plugin that provides syntax highlighting.
