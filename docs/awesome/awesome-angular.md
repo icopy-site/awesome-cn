@@ -589,6 +589,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### IDE Extensions
 
+* [angular-code-quality-toolkit](https://github.com/Arul1998/angular-code-quality-toolkit) - [VS Code extension](https://marketplace.visualstudio.com/items?itemName=arul1998.angular-code-quality-toolkit) to run Angular code-quality tools (depcheck, ts-prune, ESLint) and help clean unused code and dependencies.
 * [Angular Dev Tools](https://angular.dev/tools/devtools) - Browser extension for debugging and profiling Angular applications.
 * [Angular Extension Pack](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack) - This extension pack packages some of the most popular VS Code Angular extensions.
 * [Angular File Generator](https://marketplace.visualstudio.com/items?itemName=imgildev.vscode-angular-generator) - Supercharge your Angular development with intuitive and rapid file generation.
@@ -1349,6 +1350,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-uploader-file](https://github.com/IsaiasCardenasM/ngx-uploader-file) - A versatile Angular file upload library with preview, validation, image cropping, drag-and-drop, and multi-language support.
 * [ngx-filesize-pipe](https://www.npmjs.com/package/ngx-filesize-pipe) - An Angular pipe that converts bytes to a human-readable size, ideal for uploaders and media apps.
 * [ngx-file-helpers](https://www.npmjs.com/package/ngx-file-helpers) - Angular file helpers including a file picker and dropzone.
+* [ngx-file-uploader](https://github.com/uniprank/ngx-file-uploader) - Angular upload components and directives with built‑in file preview.
 
 ### Forms
 
@@ -1698,6 +1700,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-schema-tools](https://github.com/Expeed-Software/ngx-schema-tools) - A monorepo containing Angular libraries for JSON schema editing, visual data mapping, and dynamic form rendering.
 * [angular-3d](https://github.com/Hive-Academy/angular-3d) - Modern Angular libraries for building stunning 3D graphics and scroll animations.
 * [npm-ntk-cms-angular](https://github.com/akaravi/npm-ntk-cms-angular) - This monorepo contains a collection of 9 reusable Angular libraries designed for building modern CMS applications.
+* [ngx-vertex](https://github.com/pjlamb12/ngx-vertex) - Designed to assist in creating and managing a directed acyclic graph model in an Angular application.
 
 ### Modals
 
@@ -1731,6 +1734,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-snotifire](https://github.com/ccpatrut/ngx-snotifire) - A flexible toast library offering multiple notification types, simultaneous positions, rich configuration, full custom styling, built‑in themes, callbacks, and custom HTML support.
 * [ngx-sonner](https://github.com/tutkli/ngx-sonner) - An opinionated toast component for Angular. A port of @emilkowalski's sonner.
 * [ngx-sweetalert2](https://github.com/sweetalert2/ngx-sweetalert2) - Declarative, reactive, and template-driven SweetAlert2 integration for Angular.
+* [ngx-toast](https://github.com/aminekun90/ngx-toast) - A lightweight, high-performance, and Zoneless-ready toast notification library for Angular 21+ and React 18+.
 * [ngx-toastr](https://github.com/scttcper/ngx-toastr) - Notifications/Toastr.
 * [@IQXLimited/ngx-toastr](https://github.com/IQXLimited/ngx-toastr) - A fork of `ngx-toastr` that adds extra features, improvements, and customizations.
 * [ngx-toastr-notifier](https://github.com/Mazen-Embaby/ngx-toastr-notifier) - Lightweight, customizable Angular 20+ toast notifications with Material design and flexible APIs, replacing `toastr`.
@@ -1827,6 +1831,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [cerious-scroll](https://github.com/ceriousdevtech/cerious-scroll) - High-performance virtual scrolling for web applications.
 * [ngx-zoneless-scrollbar](https://github.com/Legalfina/ngx-zoneless-scrollbar) - A lightweight Angular scrollbar built for zoneless mode, using native scrolling with CSS styling.
 * [ngx-scrollbar-ultimate](https://github.com/andrew-dev283/ngx-scrollbar-ultimate) - A lightweight library for vertical scrolling.
+* [ngx-scrollspy](https://github.com/uniprank/ngx-scrollspy) - Angular Scroll Spy Service with events.
 
 ### Storage
 
