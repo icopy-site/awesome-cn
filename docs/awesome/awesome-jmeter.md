@@ -166,7 +166,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [RedLine13](https://redline13.com/) - AWS-based load testing service with JMeter, Gatling and Selenium scenarios support.
 - [OpenText Core Performance Engineering](https://www.opentext.com/products/saas/core-performance-engineering) - OpenText cloud-based solution for web and mobile performance testing with JMeter and Gatling support (formerly Micro Focus LoadRunner Cloud, formerly HP StormRunner Load).
 - [Loadium](https://loadium.com/) - AWS-based load testing service with JMeter and Selenium support.
-- [Azure Microsoft](https://azure.microsoft.com/en-us/products/load-testing/) - Azure Load Testing Service use Apache JMeter.
+- [Azure Microsoft](https://azure.microsoft.com/en-us/products/app-testing/) - Azure Load Testing Service use Apache JMeter.
 
 ## Results Processing
 
@@ -242,7 +242,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 
 ### Streaming Protocols
 
-- [Easy and realistic Load Testing of HTTP Live Streaming (HLS) with Apache JMeter](https://www.ubik-ingenierie.com/blog/easy-and-realistic-load-testing-of-http-live-streaming-hls-with-apache-jmeter/)
+- [Easy and realistic Load Testing of HTTP Live Streaming (HLS) with Apache JMeter](https://ubik-ingenierie.com/blog/easy-and-realistic-load-testing-of-http-live-streaming-hls-with-apache-jmeter/)
 - [Using JMeter to Load Test Live HLS Concurrency of Wowza Streaming Engine](https://web.archive.org/web/20210918113142/https://www.realeyes.com/blog/wowza-streaming/)
 - [How to Test Video Streaming with JMeter](https://www.blazemeter.com/blog/video-streaming-testing)
 - [HLS JMeter Plugin](https://github.com/Blazemeter/HLSPlugin)
@@ -279,7 +279,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 <!--lint ignore double-link-->
 - [Correlation Recorder Plugin](https://github.com/Blazemeter/CorrelationRecorder) - JMeter plugin that simplifies the process of recording for applications with Dynamic Variables by providing automatic correlations of variables at recording time.
 - [Siebel CRM Plugin](https://github.com/Blazemeter/SiebelPlugin) - JMeter plugin to simplify the scripting of Siebel CRM applications by providing automatic correlations of variables at recording time ❄️.
-- [ULP Auto-correlator Plugin](https://www.ubik-ingenierie.com/blog/ubikloadpack-autocorrelator-plugin-help/) - Commercial plugin for Oracle and Vaadin-based applications from [Ubik Load Pack](#plugins).
+- [ULP Auto-correlator Plugin](https://ubik-ingenierie.com/blog/ubikloadpack-autocorrelator-plugin-help/) - Commercial plugin for Oracle and Vaadin-based applications from [Ubik Load Pack](#plugins).
 
 ### Extending JMeter
 
@@ -325,7 +325,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ## JMeter Performance
 
 - [JMeter Performance](https://cwiki.apache.org/confluence/display/jmeter/JMeterPerformance) - Evolution of JMeter performance across versions.
-- [JMeter Performance and Tuning Tips](https://www.ubik-ingenierie.com/blog/jmeter_performance_tuning_tips/) - By Ubik Ingenierie.
+- [JMeter Performance and Tuning Tips](https://ubik-ingenierie.com/blog/jmeter_performance_tuning_tips/) - By Ubik Ingenierie.
 - How to speed up JMeter: [part 1](https://pflb.us/blog/how-to-speed-up-jmeter-part-1/), [part 2](https://pflb.us/blog/how-to-speed-up-jmeter-part-2/)
 
 ## Tips & Tricks
@@ -353,7 +353,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [BlazeMeter University](https://www.blazemeter.com/university) - By BlazeMeter.
 - [JMeter Courses collection](https://www.udemy.com/topic/jmeter/) - By Udemy.
 - [Web Applications (and Mobile Apps) Performance Testing with JMeter](http://pragmatictestlabs.com/web-applications-mobile-apps-performance-testing-jmeter/) - By Pragmatic Test Labs.
-- [Training courses on Load Testing with Apache JMeter](https://www.ubik-ingenierie.com/blog/jmeter-trainings-by-contributors-and-committers/) - By Ubik Ingenierie.
+- [Training courses on Load Testing with Apache JMeter](https://ubik-ingenierie.com/blog/jmeter-trainings-by-contributors-and-committers/) - By Ubik Ingenierie.
 - [Apache JMeter Training](https://qainsights.com/apache-jmeter-training/) - By QAInsights.
 - [JMeter Getting Started Course (Apr 2019)](https://www.pluralsight.com/courses/jmeter-getting-started) - By Pluralsight.
 
@@ -368,7 +368,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 ### Blogs
 
 - [BlazeMeter Blog](https://www.blazemeter.com/blog) - BlazeMeter's blog about JMeter and performance testing.
-- [Ubik Load Pack Blog](https://www.ubik-ingenierie.com/blog/category/jmeter/) - Ubik Ingenierie blog.
+- [Ubik Load Pack Blog](https://ubik-ingenierie.com/blog/category/jmeter/) - Ubik Ingenierie blog.
 - [TestAutomationGuru Blog](https://www.testautomationguru.com/category/jmeter/) - Technical blog on test automation.
 - [RedLine13 Blog](https://www.redline13.com/blog/tag/jmeter/) - JMeter articles in RedLine13 blog.
 - [JMeter Blog](https://shantonusarker.blogspot.com/p/jmeter.html) - Another blog for performance & automation testing using JMeter.

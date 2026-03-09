@@ -76,6 +76,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [WebdriverCSS](https://github.com/webdriverio/webdrivercss) - Regression testing tool for [WebdriverIO](http://webdriver.io) (currently deprecated, please use [wdio-screenshot](https://www.npmjs.com/package/wdio-screenshot) for the time being).
 
+- [Website-Diff](https://github.com/GeiserX/Website-Diff) - Intelligent web page comparison tool with Wayback Machine support and visual regression testing via Selenium.
+
 ### Containers
 
 #### Docker

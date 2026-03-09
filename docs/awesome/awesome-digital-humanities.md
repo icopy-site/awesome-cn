@@ -175,3 +175,9 @@ This is a curated list of tools, resources, and services supporting the Digital 
 - [StorymapJS](https://storymap.knightlab.com/) - Maps that tell stories.
 - [TimelineJS](https://timeline.knightlab.com/) - Easy-to-make, beautiful timelines.
 - [Vistorian.online](https://vistorian.github.io/) - Interactive Visualizations for Dynamic and Multivariate Networks.
+
+## Zotero Groups
+
+- [Cultural AI](https://www.zotero.org/groups/2782799/cultural_ai) - A collaborative bibliography on the intersection of cultural heritage and artificial intelligence.
+- [DH Unibe](https://www.zotero.org/groups/2386895/dh_unibe) - A collaborative bibliography on Digital Humanities from the University of Bern.
+- [Doing Digital Humanities - A DARIAH Bibliography](https://www.zotero.org/groups/113737/doing_digital_humanities_-_a_dariah_bibliography) - A comprehensive bibliography on Digital Humanities methods and practices.

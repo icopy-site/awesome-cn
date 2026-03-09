@@ -373,8 +373,5 @@ Various resources, such as books, websites and articles, for improving your Cake
 
 - [CakePHP-DE](https://www.meetup.com/CakePHP-DE) - MeetUps in Germany.
 
-## Contributing
-Please see [CONTRIBUTING](https://github.com/friendsofcake/awesome-cakephp/blob/master/CONTRIBUTING.md) for details.
-
 ## Credits
 awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark) and is currently maintained by him and the FriendsOfCake group. Thank you to all [contributors](https://github.com/FriendsOfCake/awesome-cakephp/graphs/contributors), too.

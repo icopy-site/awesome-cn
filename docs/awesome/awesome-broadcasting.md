@@ -13,6 +13,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [Macadam](https://github.com/Streampunk/macadam) - Blackmagic Node.js bindings that support HTML/CSS (via [Electron](https://www.electronjs.org/)) and SVG (via [Sevruga](https://github.com/Streampunk/sevruga)) graphics.
 * [Nebula](https://github.com/nebulabroadcast) - Media asset management and broadcast automation system.
 * [NodeCG](https://www.nodecg.dev/) - Broadcast graphics rendered in a browser using Node.js.
+* [OGraf](https://github.com/ebu/ograf) - Open specification for HTML based Graphics, used in live television and post production workflows.
 * [Open Playout Automation](https://github.com/jaskie/PlayoutAutomation) - A CasparCG-based MCR play-out system.
 * [ossia](https://ossia.io/) - A free and open-source intermedia sequencer.
 * [Sofie - TV Automation](https://github.com/Sofie-Automation/Sofie-TV-automation) - MOS-driven automation system for news casts, with many libraries for e.g. device control.
@@ -235,9 +236,10 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 * [OnTime](https://github.com/cpvalente/ontime) - Web based time keeping system for live events with a broadcast clock view.
 * [SuperConductor](https://github.com/SuperFlyTV/SuperConductor) - Rundown/playout controller for CasparCG Server, BMD ATEM, OBS Studio, vMix, OSC-compatible devices, HTTP (REST)-compatible devices among others.
 
-## SCTE-35
+## SCTE-35 & SCTE-104
 
 * [threefive](https://github.com/superkabuki/threefive_is_scte35) - SCTE-35 Parser and Encoder for MPEGTS.
+* [wireshark-scte](https://github.com/m1tk4/wireshark-scte) - SCTE-104 protocol dissector for Wireshark.
 * [x9k3](https://github.com/superkabuki/x9k3) - Adaptive Bit Rate HLS Segmenter and SCTE-35 Injector.
 
 ## Software-defined radio
@@ -265,6 +267,7 @@ The [Networked Media Open Specifications](https://specs.amwa.tv/nmos/) are thems
 * [Subtitle Edit](https://www.nikse.dk/SubtitleEdit) - An editor for subtitles.
 * [Subtitling Conversion Framework (SCF)](https://github.com/Irt-Open-Source/scf) - Modules for converting subtitle formats, incl. EBU STL and EBU-TT files.
 * [Timed Text Toolkit (ttt)](https://github.com/skynav/ttt) - Tools that support/use the W3C Timed Text Markup Language (TTML).
+* [ttconv](https://github.com/sandflow/ttconv) - Subtitle conversion library and CLI tool. Converts between STL, SRT, TTML, SCC, TTML and WebVTT files.
 
 ## Video Production
 

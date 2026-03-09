@@ -33,18 +33,18 @@
 
 ## Documentation
 
-- [API Reference](https://api.playcanvas.com/) - API Reference Site.
+- [API Reference](https://api.playcanvas.com/) - Complete engine API documentation.
 - [Developer Site](https://developer.playcanvas.com/) - PlayCanvas Developer Site.
 
 ## Tutorials
 
-- [Vehicle and Interior Tutorials](https://3dground.net/en/articles/playcanvas-webgl/1) - Detailed write ups of 2 PlayCanvas visualization applications.
+- [Vehicle and Interior Tutorials](https://3dground.net/en/articles/playcanvas-webgl/1) - Detailed write-ups of 2 PlayCanvas visualization applications.
 - [Create a Bowling Game](https://www.gamefromscratch.com/post/2017/05/25/PlayCanvas-Engine-Revisited.aspx) - Create a physics-based bowling game.
 - [Create a Space Shooter](https://gamedevelopment.tutsplus.com/tutorials/create-a-space-shooter-with-playcanvas-part-1--cms-28066) - Recreate Asteroids in this Tutsplus tutorial.
-- [MDN tutorial](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas) - Build up a basic demo with PlayCanvas.
+- [MDN Tutorial](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas) - Build up a basic demo with PlayCanvas.
 - [Official Tutorials](https://developer.playcanvas.com/en/tutorials/) - Large collection of official PlayCanvas tutorials.
 - [PlayCanvas and Substance](https://magazine.substance3d.com/high-end-renders-online-bike-configurator-substance/) - Creating high-end artwork for vehicle configurators with PlayCanvas and Substance.
-- [Rescue the Lunar Lander](https://medium.com/@omar4ur/rescue-the-lunar-lander-a-coderdojo-tutorial-5217d463e26a) - Tutorial to make a simple physics based game.
+- [Rescue the Lunar Lander](https://medium.com/@omar4ur/rescue-the-lunar-lander-a-coderdojo-tutorial-5217d463e26a) - Tutorial to make a simple physics-based game.
 - [Solar Games Mentorship](https://solargames.io/mentorship/) - Premium PlayCanvas training and mentorship services.
 - [Video Tutorials](https://www.youtube.com/playlist?list=PLy57qL2R3Z6NlBQBEMnjVPT0iz320i4Ko) - YouTube playlist for short PlayCanvas tutorials.
 
@@ -52,17 +52,17 @@
 
 - [8th Wall](https://www.8thwall.com/docs/api/playcanvas/getting-started/) - Markerless AR runtime.
 - [Kinematic Character Controller](https://github.com/tatelax/playcanvas-kinematic-character-controller) - An open-source kinematic character controller.
-- [playcanvas-ar](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
+- [playcanvas-ar](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARToolkit.
 - [playcanvas-node](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
 - [playcanvas-p2.js](https://github.com/playcanvas/playcanvas-p2.js) - An integration with the p2.js 2D physics engine.
 - [playcanvas-rest-api-tools](https://github.com/playcanvas/playcanvas-rest-api-tools) - CLI tools built on the PlayCanvas REST API.
 - [playcanvas-spine](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
 - [playcanvas-tween](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
 - [playcanvas-vue](https://github.com/isobolewski/playcanvas-vue) - A PlayCanvas integration with Vue.js.
-- [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast](https://github.com/recastnavigation/recastnavigation) for PlayCanvas
+- [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast](https://github.com/recastnavigation/recastnavigation) for PlayCanvas.
 - [tween.js](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
 - [Sublime Completions](https://github.com/playcanvas/sublime-completions) - Sublime Text Autocompletion for the PlayCanvas API.
-- [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=playcanvas.playcanvas) - VS Code Extension that can be used instead of the built-in Code Editor.
+- [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=playcanvas.playcanvas) - An alternative to the built-in Code Editor.
 
 ## Technical Demos
 
@@ -72,7 +72,7 @@
 - [Seemore](https://playcanv.as/p/MflWvdTW/) - Collaboration with ARM to promote mobile WebGL.
 - [Sponza](https://playcanv.as/p/txPePQvy/) - Run-time lightmapped Sponza environment.
 - [Star-Lord](https://playcanv.as/p/SA7hVBLt/) - First ever PBR demo from PlayCanvas.
-- [Steampunk Slots](https://playcanv.as/p/nL1dYbMv) - Physically rendered slots machine.
+- [Steampunk Slots](https://playcanv.as/p/nL1dYbMv) - Physically rendered slot machine.
 
 ## Interactive Experiences
 
@@ -100,14 +100,14 @@
 ### Browser Games
 
 - [Beyond Bionic: Extreme Encounters](https://www.bbc.co.uk/cbbc/games/beyond-bionic-extreme-encounters) - Outdoor adventures in this game from the BBC.
-- [Bubble Tower 3D](https://play.famobi.com/bubble-tower-3d) - Old school bubbleshooter game.
+- [Bubble Tower 3D](https://play.famobi.com/bubble-tower-3d) - Old-school bubble shooter game.
 - [Build Land](https://poki.com/en/g/build-land) - Grow your island by collecting resources.
 - [Bus Parking 3D](https://play.famobi.com/bus-parking-3d) - Park the bus in the designated space before the timer runs out.
 - [Cannon Balls 3D](https://play.famobi.com/cannon-balls-3d) - Use the cannon to destroy the various structures in this physics-based game.
 - [Car Detailing Master](https://poki.com/en/g/car-detailing-master) - Clean, paint, and polish cars in this satisfying makeover game from Gamebole.
 - [Color Burst 3D](https://gamesnacks.com/games/colorburst3d) - Hit the colored wall matching the ball color.
 - [Color Up](https://elanrastudios.com/games/colorup) - Climb up carefully and stay on the right colored boxes.
-- [Continental Marble Adventure](https://portfolio.redox-interactive.com/en/projects/continental-marble-adventure) - Marble game for Continental's 150 year anniversary.
+- [Continental Marble Adventure](https://portfolio.redox-interactive.com/en/projects/continental-marble-adventure) - Marble game for Continental's 150th anniversary.
 - [Conundrum](https://conundrum.fun) - A word game where you solve anagrams. Fast!
 - [Curve Ball 3D](https://play.famobi.com/curve-ball-3d) - 3D pong game.
 - [DeadRise.io](https://poki.com/en/g/deadrise-io) - Fast-paced zombie shooting chaos in your browser.
@@ -117,8 +117,8 @@
 - [Flappy Bird](https://playcanv.as/p/2OlkUaxF/) - Guide the bird through as many pipes as possible.
 - [Free Kick Football](https://gamesnacks.com/games/freekickfootball) - Curve the ball to score goals.
 - [Full Speed Racing](https://gamesnacks.com/games/fullspeedracing) - Drive as far as you can before the time runs out.
-- [Galaxies: Combat](https://playcanv.as/p/Ikq6Uk6A/) - Carefully select power ups to defeat waves of hostile ships.
-- [Garden Bloom](https://play.famobi.com/garden-bloom) - Garden themed 2D match 3 game.
+- [Galaxies: Combat](https://playcanv.as/p/Ikq6Uk6A/) - Carefully select power-ups to defeat waves of hostile ships.
+- [Garden Bloom](https://play.famobi.com/garden-bloom) - Garden-themed 2D match-3 game.
 - [Garden Match 3D](https://play.famobi.com/garden-match-3d) - 3D match 3 game.
 - [Geometry Run](https://www.gamee.com/game/geometryrun) - Stylized endless runner built from geometric shapes.
 - [Golf and Friends](https://gamesnacks.com/games/3v0ua21gf5hso) - Swing into a vibrant online minigolf adventure.
@@ -129,7 +129,7 @@
 - [Mancala Classic](https://www.crazygames.com/game/mancala-classic) - Strategic board game.
 - [Master Archer](https://playcanv.as/p/JERg21J8/) - Shoot the fruit from the top of Bob's head.
 - [Megopoly](https://playmegopoly.com/) - Free to play casual strategy board game where you invest in virtual property.
-- [Monopoly](https://benbean.tech/monopoly-io/) - The classic boardgame recreated in a 3D video game.
+- [Monopoly](https://benbean.tech/monopoly-io/) - The classic board game recreated in a 3D video game.
 - [Nitro Knights](https://gamedistribution.com/games/nitro-knights) - Futuristic jousting game.
 - [Om Nom Run](https://play.famobi.com/om-nom-run) - Endless runner.
 - [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Destroy wave after wave of enemies on a tiny world.
@@ -137,10 +137,10 @@
 - [Slice Rush](https://play.famobi.com/slice-rush) - Take the knife and chop your way through the kitchen.
 - [Squid Dash](https://poki.com/en/g/squid-dash) - Help Squiddy get to the ocean.
 - [Stack Smash](https://play.famobi.com/stack-smash) - Destroy all platforms to get to the ground and win.
-- [Stickman Climb](https://poki.com/en/g/stickman-climb) - Physics based puzzle game.
-- [The Walking Dead: Those Beyond](https://twd.thosebeyond.io/) - A community survivor camp experience game.
-- [TNT Bomb](https://play.famobi.com/tnt-bomb) - Destroy buildings and structures with explosive power ups.
+- [Stickman Climb](https://poki.com/en/g/stickman-climb) - Physics-based puzzle game.
 - [SWOOOP](https://playcanv.as/p/JtL2iqIH/) - Pick up gems in a bi-plane above a magical island.
+- [The Walking Dead: Those Beyond](https://twd.thosebeyond.io/) - A community survivor camp experience game.
+- [TNT Bomb](https://play.famobi.com/tnt-bomb) - Destroy buildings and structures with explosive power-ups.
 - [Town Star](https://gala.games) - Online farming game built by the Creative Director of Farmville 2.
 - [Virtual Voodoo](https://playcanv.as/p/tRUfwVg1/) - Voodoo doll simulator.
 
@@ -148,22 +148,22 @@
 
 - [99 Nights Online](https://www.crazygames.com/game/99-nights-online) - Multiplayer survival horror coop game.
 - [Animal Obby](https://poki.com/en/g/animal-obby) - Switch between animals with unique abilities to reach the goal.
-- [Bullet Bonanza](https://www.bulletbonanza.io/) - Fast paced, high fidelity, 3D Multiplayer FPS game from Kiloo.
+- [Bullet Bonanza](https://www.bulletbonanza.io/) - Fast-paced, high-fidelity, 3D multiplayer FPS game from Kiloo.
 - [Fields of Fury](https://www.fieldsoffury.io/) - Capture the flag set during WW2.
 - [GUMMYZ](https://gummyz.fitfuns.com) - Sword-swinging multiplayer combat game.
 - [Ink Wars](https://playcanv.as/p/YvyiZeqL/) - Paint faster than your opponents to win the round.
-- [Mini Royale: Nations](https://miniroyale.io/) - Battle Royale first person shooter.
+- [Mini Royale: Nations](https://miniroyale.io/) - Battle Royale first-person shooter.
 - [Robostorm](https://robostorm.io/) - Frenetic online multiplayer mech battle game.
 - [Rollem](https://rollem.io/) - Guide your hamster to the end of the obstacle course in the fastest time.
 - [Simply Prop Hunt](https://simplyprophunt.io) - Fast-paced multiplayer hide-and-seek game with a clever twist.
-- [Simply City](https://simplycity.live) - An open world multiplayer GTA like driving game.
+- [Simply City](https://simplycity.live) - An open-world multiplayer GTA-like driving game.
 - [Simply Up](https://simplyup.io) - Climb to the top of the tower in the shortest time.
 - [Tank Royale](https://tankroyale.io/) - Cartoony fast-paced top-down multiplayer shooter.
 - [TANX](https://tanx.io) - Online multiplayer tank battle game.
 - [Tribals](https://tribals.io/) - First-person multiplayer survival game.
-- [Venge](https://venge.io/) - 3D Multiplayer FPS shooter.
+- [Venge](https://venge.io/) - 3D multiplayer first-person shooter.
 - [Vortelli's Pizza](https://poki.com/en/g/vortellis-pizza-delivery) - Multiplayer restaurant game.
-- [Warbands](https://www.warbands.io/) - 3D Multiplayer FPS shooter.
+- [Warbands](https://www.warbands.io/) - 3D multiplayer first-person shooter.
 - [Wheat Farming](https://poki.com/en/g/wheat-farming) - Multiplayer farming game.
 
 ### Messenger Games
@@ -195,7 +195,7 @@
 - [Kia Niro Hybrid](https://www.kia.com/kr/buy/build-your-car/build/trim?rcCode=KRSG078) - Kia configurator (Korean).
 - [Kia Virtual Experience](https://www.kiavirtualexperience.com/) - Explore Kia's latest line of cars.
 - [Mercedes AMG GT C](https://playcanv.as/p/4e391c28/) - Car visualizer.
-- [Nissan Ariya](https://saas.nissan.co.jp/clubariya/login/) - Explore Nissan's Arriya in 3D (Japanese - requires sign in).
+- [Nissan Ariya](https://saas.nissan.co.jp/clubariya/login/) - Explore Nissan's Ariya in 3D (Japanese - requires sign in).
 - [Polaris RZR](https://rzr.polaris.com/en-us/build-model/) - Off-road vehicle configurator.
 
 ## Product Configurators
@@ -225,12 +225,12 @@
 - [Crysta](https://crysta.ai/) - Turn your favorite moments into exquisite, full-color 3D keepsakes.
 - [DiffStudio](https://diffstudio.co) - Create digital twins of e-commerce products.
 - [Doly](https://www.animl.ai/) - Capture high-quality 3D photos of your products and embed them on Shopify in minutes.
-- [GSplat Share](https://gsplat.org/) – Share your splats with optional time-limited and password-protected links.
+- [GSplat Share](https://gsplat.org/) - Share your splats with optional time-limited and password-protected links.
 - [homes.com](https://www.homes.com/property/5471-country-club-pkwy-san-jose-ca/jtpxcck89t92v/?dk=htcrxezf5771f&tab=-1) - Exterior views for residential property listings.
 - [LichtFeld Studio Landing Page](https://lichtfeld.io/) - Explore a splat trained by LichtFeld Studio.
 - [Mind Studio](https://studio.adnfamily.com/maquette-immersive) - Showcase page showing many examples of 3DGS being used for real estate projects.
 - [Montreal Museum of Fine Arts](https://labs.dpt.co/article-3dgs.html) - Explore 6 rooms at the museum.
-- [NeuralStorm](https://www.neuralstorm.io/) - Neural rendering for high-fidelity product visualisation.
+- [NeuralStorm](https://www.neuralstorm.io/) - Neural rendering for high-fidelity product visualization.
 - [Nikon Creates](https://www.creates.nikon.com/access/#3dgs) - Scans of Nikon's studio space in Tokyo.
 - [Nood](https://nood.co.nz/pages/interactive-lounge) - Furniture retailer.
 - [Old Main](https://www.ryanfellers.com/oldmain/) - The Public Library of Cincinnati's Grand Hall as it appeared in 1900.
@@ -240,7 +240,7 @@
 - [ScanMeNow](https://www.scanmenow.es/en/galeria.html) - Digital twin platform.
 - [Skyfall-GS](https://skyfall-gs.jayinnn.dev/) - Converts satellite images to explorable 3D urban scenes using the SuperSplat Viewer.
 - [Solaya](https://solaya.ai/) - Generate high-fidelity 3D digital twins as the foundation for unlimited visual assets.
-- [Splattr](https://splattr.app) - Create gaussian splats on the cloud.
+- [Splattr](https://splattr.app) - Create Gaussian splats on the cloud.
 - [StorySplat](https://storysplat.com) - Transform your 3D captures into interactive stories.
 - [SuperSplat](https://superspl.at/) - Open source platform for editing and publishing 3D Gaussian Splats.
 - [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
