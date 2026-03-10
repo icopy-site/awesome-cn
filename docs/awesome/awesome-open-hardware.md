@@ -31,6 +31,8 @@
 * [FarmBot](https://farm.bot/pages/open-source) - automated gardening machine to grow vegetables.
 * [PiKVM](https://pikvm.org/) - Open and inexpensive DIY IP-KVM based on Raspberry Pi.
 * [Mekanika](https://www.mekanika.io/) - Tools & Machines for Makers
+* [PiSpot Watch](https://github.com/GeiserX/PiSpot-Watch) - Wrist-wearable Raspberry Pi Zero smartwatch with e-ink display that generates Wi-Fi voucher codes on demand.
+* [PiSpot Show](https://github.com/GeiserX/PiSpot-Show) - Raspberry Pi appliance that drives HDMI displays as self-updating Wi-Fi voucher kiosks with live weather.
 
 ## Talks
 

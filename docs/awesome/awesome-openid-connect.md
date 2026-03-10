@@ -222,11 +222,13 @@ Where to discover learning resources about OpenID Connect.
 - [Okta Blog](https://developer.okta.com/blog/tags/oidc/) - Okta vendor blog posts about OAuth 2.0 and OpenID Connect.
 - [Medium OAuth 2.0](https://medium.com/oauth-2) - Medium blog with learnings, patterns and ideas around use of OAuth 2.0.
 - [Mike Jones: Self-Issued](https://self-issued.info/) - Mike Jones blog posts about OAuth 2.0 and OpenID Connect.
+- [IAMDevBox](https://www.iamdevbox.com/) - Developer blog covering OAuth 2.0/2.1, OIDC, SAML, Keycloak, ForgeRock, and PingIdentity with hands-on tutorials and troubleshooting guides.
 
 ### Thematic Articles
 
 - [OAuth for Model Context Protocol](https://aaronparecki.com/2025/04/03/15/oauth-for-model-context-protocol) - Aaron Parecki article about how OAuth works and how it should be used in the context of model context protocol (MCP) server.
 - [OAuth common vulnerabilities](https://portswigger.net/web-security/oauth) - PortSwigger article about OAuth 2.0 common vulnerabilities and how to mitigate them.
+- [MCP OAuth 2.1 Authentication: How AI Agents Securely Connect to Tools](https://www.iamdevbox.com/posts/mcp-oauth-21-authentication-how-ai-agents-securely-connect-to-tools/) - How the Model Context Protocol uses OAuth 2.1 with mandatory PKCE, RFC 8707 audience binding, and zero-configuration discovery for AI agent authentication.
 
 ### Playgrounds
 
