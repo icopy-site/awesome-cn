@@ -11,6 +11,9 @@ Nowadays, many algorithms (recommendation, scoring, classification) are operated
 
 ## Papers
 
+### 2026
+- [Exposing the Illusion of Fairness: Auditing Vulnerabilities to Distributional Manipulation Attacks](https://arxiv.org/pdf/2507.20708) - (arXiv)
+
 ### 2025
 - [Auditing Pay-Per-Token in Large Language Models](https://arxiv.org/pdf/2510.05181) - (arXiv) *Develops an auditing framework based on martingale theory that enables a trusted third-party auditor who sequentially queries a provider to
 detect token misreporting.*
