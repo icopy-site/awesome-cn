@@ -33,6 +33,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [IGDB](https://www.igdb.com/api) - General information of games from any platform.
 - [Marvel Developer](https://developer.marvel.com/) - Information about Marvel's vast library of comics.
 - [metacritc](https://www.metacritic.com/game) - Game reviews and evaluation.
+- [NEXARDA](https://www.nexarda.com/api) - Games and price data.
 - [OpenCritic](https://www.opencritic.com) - Game reviews aggregator.
 - [OpenDota](https://www.opendota.com/) - Platform providing Dota 2 data.
 - [PandaScore](https://pandascore.co/) - Realtime eSports data.
@@ -202,6 +203,9 @@ ______________________________________________________________________
 - [JVC Game Reviews](https://www.kaggle.com/floval/jvc-game-reviews) - Video game data from [JeuxVideo.com](http://www.jeuxvideo.com/).
 - [Kickstarter Datasets](https://webrobots.io/kickstarter-datasets/) - Projects details.
 - [Metacritic games](https://www.kaggle.com/destring/metacritic-reviewed-games-since-2000) - Games data from [metacritc](https://www.metacritic.com).
+- [NEXARDA Franchises](https://www.nexarda.com/pages/complete-list-of-video-game-franchises) - Franchises data from [nexarda.com](https://www.nexarda.com).
+- [NEXARDA Games](https://www.nexarda.com/pages/complete-list-of-video-games) - Games data from [nexarda.com](https://www.nexarda.com).
+- [NEXARDA Studios](https://www.nexarda.com/pages/complete-list-of-video-game-studios) - Developers and publishers data from [nexarda.com](https://www.nexarda.com).
 - [Nintendo Games](https://www.kaggle.com/datasets/joebeachcapital/nintendo-games) - Nintendo games for all platforms scraped from [metacritc](https://www.metacritic.com).
 - [Over 13,000 Steam Games](https://www.kaggle.com/kingburrito666/over-13000-steam-games) - Prices of video games from Steam.
 - [PC Games Sales](https://www.kaggle.com/datasets/khaiid/most-selling-pc-games) - Dataset of the best selling PC games.

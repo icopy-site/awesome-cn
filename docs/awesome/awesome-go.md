@@ -2039,12 +2039,12 @@ _Unofficial libraries for package and dependency management._
 
 _Libraries for scientific computing and data analyzing._
 
-- [assocentity](https://github.com/ndabAP/assocentity) - Package assocentity returns the average distance from words to a given entity.
 - [bradleyterry](https://github.com/seanhagen/bradleyterry) - Provides a Bradley-Terry Model for pairwise comparisons.
 - [calendarheatmap](https://github.com/nikolaydubina/calendarheatmap) - Calendar heatmap in plain Go inspired by Github contribution activity.
 - [chart](https://github.com/vdobler/chart) - Simple Chart Plotting library for Go. Supports many graphs types.
 - [dataframe-go](https://github.com/rocketlaunchr/dataframe-go) - Dataframes for machine-learning and statistics (similar to pandas).
 - [decimal](https://github.com/db47h/decimal) - Package decimal implements arbitrary-precision decimal floating-point arithmetic.
+- [entitydebs](https://github.com/ndabAP/entitydebs) - A social science tool to programmatically analyze entities in non-fictional texts with a built-in dependency parser.
 - [evaler](https://github.com/soniah/evaler) - Simple floating point arithmetic expression evaluator.
 - [ewma](https://github.com/VividCortex/ewma) - Exponentially-weighted moving averages.
 - [geom](https://github.com/skelterjohn/geom) - 2D geometry for golang.
@@ -2110,6 +2110,7 @@ _Libraries that are used to help make your application more secure._
 - [goArgonPass](https://github.com/dwin/goArgonPass) - Argon2 password hash and verification designed to be compatible with existing Python and PHP implementations.
 - [goSecretBoxPassword](https://github.com/dwin/goSecretBoxPassword) - A probably paranoid package for securely hashing and encrypting passwords.
 - [Interpol](https://github.com/avahidi/interpol) - Rule-based data generator for fuzzing and penetration testing.
+- [leakhound](https://github.com/nilpoona/leakhound) - Static analysis tool to detect accidental logging of sensitive struct fields, preventing data leaks in logs.
 - [lego](https://github.com/go-acme/lego) - Pure Go ACME client library and CLI tool (for use with Let's Encrypt).
 - [luks.go](https://github.com/anatol/luks.go) - Pure Golang library to manage LUKS partitions.
 - [memguard](https://github.com/awnumar/memguard) - A pure Go library for handling sensitive values in memory.
@@ -2302,6 +2303,7 @@ _Libraries for testing codebases and generating test data._
 - [testfixtures](https://github.com/go-testfixtures/testfixtures) - A helper for Rails' like test fixtures to test database applications.
 - [Testify](https://github.com/stretchr/testify) - Sacred extension to the standard go testing package.
 - [testsql](https://github.com/zhulongcheng/testsql) - Generate test data from SQL files before testing and clear it after finished.
+- [tparse](https://github.com/mfridman/tparse) - CLI tool for summarizing go test output. Pipe friendly. Compatible with go test flags.
 - [testza](https://github.com/MarvinJWendt/testza) - Full-featured test framework with nice colorized output.
 - [trial](https://github.com/jgroeneveld/trial) - Quick and easy extendable assertions without introducing much boilerplate.
 - [Tt](https://github.com/vcaesar/tt) - Simple and colorful test tools.
