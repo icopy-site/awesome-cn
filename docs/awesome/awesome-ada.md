@@ -240,6 +240,8 @@ A curated list of awesome resources related to the Ada and SPARK programming lan
 - [bingada](https://github.com/jfuica/bingada) - Bingo application in [gtkada].
 - [civ-klon](https://github.com/HonkiTonk/Civ-Klon) - Civilization-style turn-based strategy game. Requires [asfml].
 - [eepers](https://github.com/tsoding/eepers) - A simple Turn-based Game in Ada (made with [raylib](https://github.com/raysan5/raylib)).
+- [gade](https://github.com/ellamosi/gade) - A Game Boy emulation library in Ada.
+- [gade-sdl](https://github.com/ellamosi/gade-sdl) - An SDL2 Game Boy emulation front end for [Gade](https://github.com/ellamosi/gade) using [SDLAda](https://github.com/Lucretia/sdlada).
 
 ## Frameworks
 
@@ -315,6 +317,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [bbt](https://github.com/LionelDraghi/bbt) - Simple tool to black box check the behavior of an executable through the command line.
 - [gnatbdd](https://github.com/briot/gnatbdd) - Behavior Driven Development in Ada.
 - [scripted-testing](https://github.com/simonjwright/scripted_testing) - Supports functional testing using Tcl scripts.
+- [testy](https://github.com/tomekw/testy) - Ada testing framework, part of [Tada](https://github.com/tomekw/tada).
 
 ### Logging
 - [alog](https://www.codelabs.ch/alog/) - Stackable logging framework for Ada.
@@ -644,6 +647,7 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 ### Multimedia
 - [ada-3ds](https://github.com/AdaDoom3/Ada3DS) - A simple 3DS Max model renderer.
 - [canta](https://sourceforge.net/projects/canta/) - A tool to help to sing in tune.
+- [blackvideo-mini-player](https://github.com/BlackBlazent/blackvideo-mini-player) - A stand-alone lightweight auxiliary video player support for [``BlackVideo``](https://github.com/BlackBlazent/BlackVideo). 
 
 ### Automation
 - [acnc](https://github.com/Fabien-Chouteau/ACNC) - A G-code parser and CNC controller (in Ada).
