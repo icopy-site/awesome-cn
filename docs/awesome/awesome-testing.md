@@ -74,6 +74,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
   
   
 ### Test Management
+- [Gwirian](https://www.gwirian.com) - Open source BDD test management for QA teams. Given/When/Then scenarios, search, dashboards; self-host or hosted.
 - [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) - Open-source test case management.
 - [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open-source test case management system.
 - [Testomatio](https://testomat.io/) - Modern TCMS allowing sync of manual and automated tests.
@@ -112,6 +113,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Test Automation Frameworks
 - [Robot Framework](https://robotframework.org/) - Generic open-source automation framework for testing and RPA.
+- [ai-natural-language-tests](https://github.com/aiqualitylab/ai-natural-language-tests) - Generates Cypress and Playwright E2E tests from natural language requirements using LangGraph, ChromaDB, and multi-provider LLM support.
+- [OpenTester](https://github.com/kznr02/OpenTester) - MCP-First Testing Framwork: AI Agents Can Now Test Like Humans
 
 ### Screen Recording & Session Replays
 - [Captura](https://github.com/MathewSachin/Captura) - Open-source video recording tool.

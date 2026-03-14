@@ -57,7 +57,8 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 ### Utility
 
 - [Artist](https://github.com/SquidDev-CC/artist) -  One of the first item management systems for ComputerCraft.
-- [ComputerCraft Advanced Shell (cash)](https://cash.madefor.cc) -  A Bourne-compatible shell for ComputerCraft. 
+- [ComputerCraft Advanced Shell (cash)](https://cash.madefor.cc) -  A Bourne-compatible shell for ComputerCraft.
+- [CCVim](https://github.com/Minater247/CCVim/tree/rewrite-2026) - A faithful port of Vim for ComputerCraft.
 - [Consult](https://consult.madefor.cc) -  A text editor emphasizing ease of use and compatibility with many systems. 
     - [Consult: Recrafted](https://github.com/manaphoenix/CONSULT_RECRAFTED) -  A fork of Consult for Recrafted systems.
 - [`hopper.lua`](https://github.com/umnikos/hopper.lua) - A command-line program for moving items between containers.

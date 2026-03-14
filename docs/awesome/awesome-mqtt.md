@@ -40,8 +40,10 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/hob
 - [Ably](https://www.ably.io/documentation/mqtt) - MQTT broker service and protocol adapter.
 - [ActiveMQ](https://activemq.apache.org/) - A fast Java multiprotocol messaging and Integration Patterns server.
 - [Aedes](https://github.com/moscajs/aedes) - Barebone MQTT broker that can run on any stream server, the node way.
+- [Bevywise MQTTRoute](https://www.bevywise.com/mqtt-broker/) - MQTTRoute is an extendable & Scalable MQTT Broker with customizable UI, flexible storage & security options for all IoT / IIoT Implementation.
 - [BifroMQ](https://bifromq.apache.org) - Java-based high-performance MQTT broker with native multi-tenancy for large-scale IoT.
 - [comqtt](https://github.com/wind-c/comqtt) - A lightweight, high-performance go mqtt server(v3.0|v3.1.1|v5.0) supporting distributed cluster.
+- [Eclipse Amlen](https://github.com/eclipse/amlen) - A scalable, secure, easy to use message broker that can be used for IoT, web and mobile use-cases. Open-sourced from IBM MessageSight.
 - [Emitter](https://github.com/emitter-io/emitter) - A distributed, scalable and fault-tolerant publish-subscribe messaging platform based on MQTT protocol and featuring message storage.
 - [EMQ X](https://github.com/emqx/emqx) - Scalable and Reliable Real-time MQTT Messaging Engine for IoT in 5G Era.
 - [esp_uMQTT_broker](https://github.com/martin-ger/esp_mqtt) - A basic MQTT Broker on the ESP8266.
@@ -76,6 +78,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/hob
 - [Azure IoT Hub](https://azure.microsoft.com/en-us/services/iot-hub/) - Enable highly secure and reliable communication between your IoT application and the devices it manages. Azure IoT Hub provides a cloud-hosted solution backend to connect virtually any device. Extend your solution from the cloud to the edge with per-device authentication, built-in device management, and scaled provisioning.
 - [CloudMQTT](https://www.cloudmqtt.com/) - Hosted message broker for the Internet of Things. Perfectly configured and optimized message queues for IoT, ready in seconds.
 - [CloudAMQP](https://www.cloudamqp.com/docs/mqtt.html) - Hosted AMQP brokers with MQTT support.
+- [CrystalMQ](https://www.bevywise.com/hosted-mqtt-server/) - Fully Managed Cloud MQTT Broker for large scale deployments.
 - [flespi](https://flespi.com/mqtt-broker) - Free and secure cloud MQTT broker with private namespaces, MQTT 3.1.1 and MQTT 5.0 support and gorgeous limits.
 - [Google Cloud IoT](https://cloud.google.com/solutions/iot/) - Cloud managed MQTT service.
 - [HiveMQ Cloud](https://www.hivemq.com/cloud/) - Cloud managed MQȚT service.
@@ -124,6 +127,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/hob
 - [MIMIC MQTT Simulator](https://www.gambitcomm.com/site/mqttsimulator.php) - Simulate up to 100,000 MQTT clients per server for development/testing/deployment of IoT applications.
 - [mqtt-stats](https://github.com/gambitcomminc/mqtt-stats) - Subscriber client to monitor MQTT Topic Statistics.
 - [mqtt_monitor](https://github.com/filipsPL/mqtt-monitor) - Simple and lightweight console moniotor for mqtt topics, with eye-candies, in python 3.
+- [mqttcommander](https://github.com/vroomfondel/mqttcommander) - A console-based MQTT client and commander, especially useful for IoT, Tasmota, and Node-RED setups.
 
 ## Clients
 
@@ -449,6 +453,7 @@ Here are complete firmwares to turn them into MQTT-controlled smart home nodes:
 - [mqtt-transformer](https://github.com/tg44/mqtt-transformer) - A simple service which consumes, transforms and periodically republish json messages on MQTT.
 - [node-mqtt-for-anki-overdrive](https://github.com/IBM-Cloud/node-mqtt-for-anki-overdrive) - Node.js Controller and MQTT API for Anki Overdrive.
 - [parrot-sample](https://github.com/IBM-Cloud/parrot-sample) - Sample code which uses MQTT to control a Parrot AR Drone.
+- [QuIXI](https://github.com/ixian-platform/QuIXI) - Bridge between the Ixian decentralized P2P network and MQTT/REST. Enables encrypted peer-to-peer messaging for IoT devices with post-quantum security (ML-KEM + AES-256 + ChaCha20).
 - [serial2mqtt](https://github.com/vortex314/serial2mqtt) - A Linux gateway to connect low-cost microcontrollers only with a serial port to MQTT.
 - [snowboy2mqtt](https://github.com/hobbyquaker/snowboy2mqtt) - Publish MQTT Messages on Snowboy Hotword Detection.
 - [speedtest2mqtt](https://github.com/hobbyquaker/speedtest2mqtt) - Run speedtest-cli and publish results via MQTT.

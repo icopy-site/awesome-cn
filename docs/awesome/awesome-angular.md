@@ -558,6 +558,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [angular-compiler-output](https://github.com/JeanMeche/angular-compiler-output) - See the JS output of the Angular compiler for a given Angular template.
 * [angular-doctor](https://github.com/antonygiomarxdev/angular-doctor) - Scans your project for Angular-specific lint issues and dead code, then produces a 0–100 health score plus actionable diagnostics.
+* [angular-mermaider](https://github.com/earthdmitriy/angular-mermaider) - Static code analyzer that produces Mermaid dataflow diagrams for Angular components.
 * [compuse](https://github.com/jakub-hajduk/compuse) - Analyze Angular component usage across your codebase with a unified API for extracting usage insights.
 * [ng-di-graph](https://github.com/m-yoshiro/ng-di-graph) - A command-line tool that analyzes Angular TypeScript codebases to extract dependency injection relationships.
 * [ng-lens](https://github.com/MerrittMelker/ng-lens) - A Node.js tool that uses `ts-morph` to analyze Angular components and detect service usage patterns from any API library.
@@ -1765,6 +1766,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngxsmk-help-tour](https://github.com/toozuuu/ngxsmk-help-tour) - Angular standalone library for spotlight focus and guided product tours with keyboard navigation, auto-advance, theming, and a11y.
 * [ngx-intro](https://github.com/andresciceri/ngx-intro) - An Angular library that provides a simple integration of [Intro.js](https://introjs.com/) to create interactive guides and step-by-step tutorials.
 * [ngx-custom-tour](https://github.com/miraxes/ngx-custom-tour) - Easy to customize step-by-step tour / onboarding for Angular 15+.
+* [ng-beacon](https://github.com/HomelessCoder/ng-beacon) - Lightweight guided-tour library for Angular 19+ with signals and zoneless-compatible rendering.
 
 ### Pipes
 
