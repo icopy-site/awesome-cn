@@ -3,6 +3,14 @@
 	<img width="763" src="https://cdn.rawgit.com/aharris88/awesome-cli-apps/master/media/banner.png" alt="awesome cli apps">
 </p>
 
+<p align="center">
+  Proudly maintained by:
+  <a href="https://jneidel.com">
+    <img width="24px" src="https://jneidel.com/img/logo.png" alt="jneidel.com logo">
+    <span>jneidel.com</span>
+  </a>
+</p>
+
 ---
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -95,6 +103,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check if a domain is up.
 - [reachable](https://github.com/italolelis/reachable) - Check if a domain is up.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Create pretty HTML from diffs.
+- [mk](https://github.com/pycontribs/mk) - Exposes most common actions you can run in unfamiliar repos.
 
 ### Text Editors
 
@@ -134,6 +143,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [sqlline](https://github.com/julianhyde/sqlline) - Shell for issuing SQL via JDBC.
 - [iredis](https://github.com/laixintao/iredis) - Redis client with autocompletion and syntax highlighting.
 - [usql](https://github.com/xo/usql) - Universal SQL client with autocompletion and syntax highlighting.
+- [rdsai-cli](https://github.com/aliyun/rdsai-cli) - AI-powered MySQL client.
 
 ### Devops
 
@@ -154,6 +164,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [updo](https://github.com/Owloops/updo) - Website monitoring tool.
 - [cronboard](https://github.com/antoniorodr/Cronboard) - Dashboard for managing cron jobs.
 - [s3m](https://github.com/s3m/s3m) - Stream of data into S3 buckets.
+- [bencher](https://github.com/bencherdev/bencher) - A continuous benchmarking tool.
 
 ### Docker
 
@@ -162,6 +173,8 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - Simple docker/docker-compose interface.
 - [docker-pushrm](https://github.com/christian-korneck/docker-pushrm) - Push a readme to container registries.
 - [ctop](https://github.com/bcicen/ctop) - Top like interface for container metrics.
+- [decompose](https://github.com/s0rg/decompose) - Create connections graph for running docker containers.
+- [kool](https://github.com/kool-dev/kool) - Web development with containers made easy. 
 
 ### Release
 
@@ -180,6 +193,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows.
 - [updates](https://github.com/silverwind/updates) - Flexible npm dependency update tool.
 - [wipe-modules](https://github.com/bntzio/wipe-modules) - Remove `node_modules` of inactive projects.
+- [npm-deprecated-check](https://github.com/KID-joker/npm-deprecated-check) - Check for deprecated dependencies.
 
 ### Boilerplate
 
@@ -210,6 +224,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests.
 - [Step CI](https://github.com/stepci/stepci) - API testing and QA framework.
 - [bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System.
+- [cmdperf](https://github.com/miklosn/cmdperf) - Quickly benchmark and compare command performance.
 
 ## Productivity
 
@@ -225,6 +240,7 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [OverTime](https://github.com/diit/overtime-cli) - Time-overlap tables for remote teams.
 - [CookCLI](https://github.com/cooklang/CookCLI) - Full-featured recipe manager.
 - [hns](https://github.com/primaprashant/hns) - Speech-to-text tool to transcribe voice from microphone.
+- [mynav](https://github.com/GianlucaP106/mynav) - Workspace and session management TUI.
 
 ### Time Tracking
 
@@ -235,6 +251,8 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [utt](https://github.com/larose/utt) - Simple time tracking tool.
 - [Bartib](https://github.com/nikolassv/bartib) - Easy to use time tracking tool.
 - [arttime](https://github.com/reportaman/arttime) - Featureful timer with native desktop notifications and curated ASCII art.
+- [Tock](https://github.com/kriuchkov/tock) - Powerful time tracking tool.
+- [Helm](https://github.com/0xjuanma/helm) - Minimalistic timer.
 
 ### Note Taking and Lists
 
@@ -248,8 +266,10 @@ Expose a service running on localhost to the public web for testing and sharing.
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [dnote](https://github.com/dnote/dnote) - A interactive, multi-device notebook.
 - [nb](https://github.com/xwmx/nb) - A note‑taking, bookmarking, archiving, and knowledge base application.
-- [obsidian-cli](https://github.com/Yakitrak/obsidian-cli) - Interact with your Obsidian vault.
+- [notesmd-cli](https://github.com/Yakitrak/notesmd-cli) - Interact with your Obsidian vault.
 - [journalot](https://github.com/jtaylortech/journalot) - Journaling tool with git sync.
+- [rucola](https://github.com/Linus-Mussmaecher/rucola) - Manage your markdown notes.
+- [kanban.bash](https://github.com/coderofsalvation/kanban.bash) - Kanban todo manager with a CSV backend.
 
 ### Finance
 
@@ -261,6 +281,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert Currency Rates.
 - [cointop](https://github.com/miguelmota/cointop) - Track cryptocurrencies.
 - [ticker](https://github.com/achannarasappa/ticker) - Stock ticker.
+- [lakshmi](https://github.com/sarvjeets/lakshmi) - Bogleheads inspired tool for managing your investing portfolio.
 
 ### Presentations
 
@@ -289,6 +310,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs.
 - [alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing.
 - [clevercli](https://github.com/clevercli/clevercli) - Collection of ChatGPT powered utilities.
+- [OctoType](https://github.com/mahlquistj/octotype) - A customizable typing trainer.
 
 ### macOS
 
@@ -331,6 +353,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [QuickWall](https://github.com/deepjyoti30/QuickWall) - Directly set wallpapers from Unsplash.
 - [oh-my-posh](https://ohmyposh.dev) - Prompt theme engine.
 - [starship](https://github.com/starship/starship) - Minimal, blazing-fast, and infinitely customizable prompt for any shell.
+- [gowall](https://github.com/Achno/gowall) - Extract image color pallet, recolor images/icon and more.
 
 ### Shell Utilities
 
@@ -341,6 +364,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [undollar](https://github.com/ImFeelingDucky/undollar) - Strip the '$' preceding copy-pasted terminal commands.
 - [pipe_exec](https://github.com/koraa/pipe_exec) - Run executables from stdin, pipes and ttys without creating a temporary file.
 - [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets.
+- [envio](https://github.com/envio-cli/envio) - Manage environment variables securely.
+- [await](https://github.com/slavaGanzin/await) - Runs commands in parallel and waits for their termination.
 
 ### System Interaction Utilities
 
@@ -362,6 +387,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - Styled terminal markdown viewer.
 - [glow](https://github.com/charmbracelet/glow) - Styled markdown rendering.
 - [gtree](https://github.com/ddddddO/gtree) - Use markdown to generate directory trees and the directories itself.
+- [Jimmy](https://github.com/marph91/jimmy) - Convert various note formats to markdown.
 
 ### Security
 
@@ -387,6 +413,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [wttr.in](https://github.com/chubin/wttr.in)
 - [wego](https://github.com/schachmat/wego)
 - [weather-cli](https://github.com/riyadhalnur/weather-cli)
+- [weathr](https://github.com/veirt/weathr) - ASCII animations.
 
 ### Browser Replacement
 
@@ -408,6 +435,12 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ### Science
 
 - [periodic-table-cli](https://github.com/spirometaxas/periodic-table-cli) - View and explore the Periodic Table of Elements.
+- [astroterm](https://github.com/da-luce/astroterm) - An ASCII planetarium.
+
+### Professional: Resume
+
+- [resumx](https://github.com/resumx/resumx) - Markdown resume renderer with auto page-fitting.
+- [YAMLResume](https://github.com/yamlresume/yamlresume) - Resumes as code.
 
 ## Command Line Learning
 
@@ -426,6 +459,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 ## Data Manipulation
 
 - [visidata](https://github.com/saulpw/visidata) - Spreadsheet multitool for data discovery and arrangement.
+- [sc-im](https://github.com/andmarti1424/sc-im) - Vim-like spreadsheet calculator.
 
 ### Processors
 
@@ -484,6 +518,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) - Copies files.
 - [rename-cli](https://github.com/jhotmann/node-rename-cli) - Rename files quickly.
 - [renameutils](https://www.nongnu.org/renameutils/) - Mass renaming in your editor.
+- [nomino](https://github.com/yaa110/nomino) - Batch rename utility for developers.
 
 ### Disk Usage
 
@@ -508,6 +543,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [RecoverPy](https://github.com/PabloLec/RecoverPy) - Recover overwritten or deleted files.
 - [f2](https://github.com/ayoisaiah/f2) - A cross-platform tool for fast, safe, and flexible batch renaming.
 - [scc](https://github.com/boyter/scc) - Count lines of code, blank lines, comment lines, and physical lines of source code.
+- [chkbit](https://laktak.github.io/chkbit/) - Check your files for data corruption.
 
 ### File Sync/Sharing
 
@@ -521,6 +557,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [sharing](https://github.com/parvardegr/sharing) - Send and receive files on your mobile device.
 - [ncp](https://github.com/kha7iq/ncp) - Transfer files and folders, to and from NFS servers.
 - [share](https://github.com/beavailable/share) - Share and receive files effortlessly over HTTP.
+- [shuk](https://shuk.rs) - Quicky share files using Amazon S3 buckets.
+- [croc](https://github.com/schollz/croc) - Easily send things from one computer to another.
 
 ### Directory Listing
 
@@ -530,6 +568,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [ll](https://github.com/antonmedv/ll) - `ls` with git status.
 - [lsd](https://github.com/Peltoche/lsd) - `ls` with many extra features.
 - [lla](https://github.com/triyanox/lla) - Improved `ls` with plugins.
+- [pls](https://github.com/pls-rs/pls)  - `ls` for the pros.
 
 ### Directory Navigation
 
@@ -556,6 +595,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [skim](https://github.com/lotabout/skim) - A general fuzzy finder written in Rust, similar to fzf.
 - [ast-grep](https://github.com/ast-grep/ast-grep) - A tool for code structural search, linting and rewriting.
 - [television](https://github.com/alexpasmantier/television) - A very fast general purpose fuzzy finder.
+- [srgn](https://github.com/alexpovel/srgn/) - A grep-like tool which understands code syntax and also allows for manipulation.
+- [rawhide](https://github.com/raforg/rawhide) - Find files using pretty C expressions.
 
 ## Version Control
 
@@ -579,11 +620,12 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [git-all-branches](https://github.com/zacanger/git-all-branches) - Improved `git branch -a`.
 - [czg](https://github.com/Zhengqbbb/cz-git/tree/main/packages/cli) - Interactively generate standardized commit messages.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - Git integrated backup tool.
-- [Lazygit](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
+- [lazygit](https://github.com/jesseduffield/lazygit) - Simple TUI for git commands.
 - [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy bash prompt for Git users.
 - [gitui](https://github.com/extrawurst/gitui) - Blazing fast terminal-ui for git written in Rust.
 - [ggc](https://github.com/bmf-san/ggc) - A modern Git tool with both CLI and interactive incremental-search UI.
 - [AI Git Narrator](https://github.com/pmusolino/AI-Git-Narrator) - [macOS]: Generate commit messages with AI.
+- [gibr](https://github.com/ytreister/gibr) - Easily create consistent git branch names.
 
 ### GitHub
 
@@ -602,6 +644,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Generate beautiful images of your code.
 - [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
+- [optimizt](https://github.com/343dev/optimizt) - Helps prepare images for the web.
+- [freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output.
 
 ### Gif Creation
 
@@ -619,6 +663,8 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [imgp](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator.
 - [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing.
 - [pdfjuicer](https://github.com/dmikhr/pdfjuicer) - Extract PDF pages as images.
+- [gowall](https://github.com/Achno/gowall) - Recolor images, OCR, image upscaling and more.
+- [img2ascii](https://github.com/JosefVesely/Image-to-ASCII) - Convert images to ASCII art.
 
 ## Screensavers
 
@@ -626,6 +672,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - Random pipes that grow across the screen.
 - [YuleLog](https://github.com/Duroktar/YuleLog) - Christmas Yule Log fireplace.
 - [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Digital fireplace.
+- [gitlogue](https://github.com/unhappychoice/gitlogue) - Cinematic git commit replay.
 
 ## Graphics
 
@@ -652,9 +699,23 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [emoji-finder](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line.
 - [oji](https://github.com/xxczaki/oji) - Interactive text emoji maker.
 
+## AI
+Inclusion criteria are less strict for this fast-moving field.
+
+### Agents
+- [greywall](https://github.com/GreyhavenHQ/greywall) - Deny-by-default sandbox with filesystem and network isolation.
+- [agent-of-empires](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
+- [agent-deck](https://github.com/asheshgoplani/agent-deck) - Dashboard for managing multiple AI coding agent sessions.
+- [Sugar](https://github.com/roboticforce/sugar) - Autonomous agent that queues and executes tasks in the background.
+
+### LLM Interaction
+- [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
+- [cmd-ai](https://github.com/BrodaNoel/cmd-ai) - Turns natural language into executable shell commands.
+
 ## Other Resources
 
-- [awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - Extensive list of cli apps.
+- [awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - Extensive list of CLI apps.
+- [Terminal Trove](https://terminaltrove.com/) - List of CLI apps.
 - [awesome-shell](https://github.com/alebcay/awesome-shell#readme) – Command-line utilities and frameworks.
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy#readme) – Terminal frameworks, plugins & resources.
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH frameworks, plugins, tutorials & themes.

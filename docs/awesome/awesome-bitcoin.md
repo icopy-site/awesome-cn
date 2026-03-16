@@ -82,6 +82,7 @@ A curated list of bitcoin services and tools for software developers
 
 ## C Libraries
 * [libsecp256k1](https://github.com/bitcoin-core/secp256k1)
+* [UltrafastSecp256k1](https://github.com/shrec/UltrafastSecp256k1) - High-performance `secp256k1` engine with a stable C ABI, CPU, CUDA, OpenCL, embedded, and WebAssembly targets.
 
 ## C++ Libraries
 * [Libbitcoin](https://libbitcoin.info/)

@@ -867,7 +867,7 @@ _Packages that help with building Distributed Systems._
 - [rain](https://github.com/cenkalti/rain) - BitTorrent client and library.
 - [redis-lock](https://github.com/bsm/redislock) - Simplified distributed locking implementation using Redis.
 - [resgate](https://resgate.io/) - Realtime API Gateway for building REST, real time, and RPC APIs, where all clients are synchronized seamlessly.
-- [ringpop-go](https://github.com/uber/ringpop-go) - Scalable, fault-tolerant application-layer sharding for Go applications.
+- [rpcplatform](https://github.com/nexcode/rpcplatform) - Framework for microservices with service discovery, load balancing, and related features.
 - [rpcx](https://github.com/smallnest/rpcx) - Distributed pluggable RPC service framework like alibaba Dubbo.
 - [Semaphore](https://github.com/jexia/semaphore) - A straightforward (micro) service orchestrator.
 - [sleuth](https://github.com/ursiform/sleuth) - Library for master-less p2p auto-discovery and RPC between HTTP services (using [ZeroMQ](https://github.com/zeromq/libzmq)).
@@ -1226,6 +1226,7 @@ _Toolkits_
 - [go-gtk](https://mattn.github.io/go-gtk/) - Go bindings for GTK.
 - [go-sciter](https://github.com/sciter-sdk/go-sciter) - Go bindings for Sciter: the Embeddable HTML/CSS/script engine for modern desktop UI development. Cross platform.
 - [Goey](https://bitbucket.org/rj/goey/src/master/) - Cross platform UI toolkit aggregator for Windows / Linux / Mac. GTK, Cocoa, Windows API
+- [gogpu/ui](https://github.com/gogpu/ui) - GPU-accelerated GUI toolkit with 22 widgets, 3 design systems (Material, Fluent, Cupertino), reactive signals, and zero CGO (part of [GoGPU](https://github.com/gogpu) ecosystem).
 - [goradd/html5tag](https://github.com/goradd/html5tag) - Library for outputting HTML5 tags.
 - [gotk3](https://github.com/gotk3/gotk3) - Go bindings for GTK3.
 - [gowd](https://github.com/dtylman/gowd) - Rapid and simple desktop UI development with GO, HTML, CSS and NW.js. Cross platform.
@@ -1275,6 +1276,7 @@ _Libraries for manipulating images._
 - [darkroom](https://github.com/gojek/darkroom) - An image proxy with changeable storage backends and image processing engines with focus on speed and resiliency.
 - [geopattern](https://github.com/pravj/geopattern) - Create beautiful generative image patterns from a string.
 - [gg](https://github.com/fogleman/gg) - 2D rendering in pure Go.
+- [gogpu/gg](https://github.com/gogpu/gg) - GPU-accelerated 2D rendering with Canvas-like API, zero CGO (part of [GoGPU](https://github.com/gogpu) pure Go graphics ecosystem).
 - [gift](https://github.com/disintegration/gift) - Package of image processing filters.
 - [gltf](https://github.com/qmuntal/gltf) - Efficient and robust glTF 2.0 reader, writer and validator.
 - [go-cairo](https://github.com/ungerik/go-cairo) - Go binding for the cairo graphics library.

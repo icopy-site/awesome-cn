@@ -8,6 +8,7 @@ Reducing the potential negative effects of technology on society.
 ## Toolkits
 
 - [Consequence Scanning](https://www.tech-transformed.com/product-development/) - A new agile event that fits into an iterative development cadence. A way to think about the potential impact of a product or service on people and society early on in the development cycle.
+- [Children & AI Design Code](https://5rightsfoundation.com/resource/children-ai-design-code/) - a process to identify, evaluate, and mitigate the known risks of AI to children and prepare for the known unknowns. The 5rights Foundation have also published [Tick to Agree – Age appropriate presentation of published terms](https://5rightsfoundation.com/resource/tick-to-agree-age-appropriate-presentation-of-published-terms/).
 - [IDEO's AI ethics cards](https://page.ideo.com/download-ai-ethics-cards) - Activities to "help guide an ethically responsible, culturally considerate, and humanistic approach to designing with data."
 - [Permacomputing design principles](https://permacomputing.net/Principles/) - Permacomputing is both a concept and a community of practice oriented around issues of resilience and regenerativity in computer and network technology inspired by permaculture.
 <!--lint disable no-repeat-punctuation-->
