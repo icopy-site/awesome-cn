@@ -25,6 +25,12 @@
 - [hasgluten](https://github.com/hasgluten/hasgluten) - Quick and Accurate Gluten-Free Foods List.
 - [diy-proofing-box](https://github.com/hendricius/diy-proofing-box) - Build your own DIY proofing box for sourdough, yoghurt and pizza. Featuring a raspberry pi and night vision.
 - [Mealie](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner.
+- [Tandoor Recipes](https://github.com/TandoorRecipes/recipes) - Self-hosted recipe manager with meal planning, shopping lists, and cookbook organization.
+- [grocy](https://github.com/grocy/grocy) - Web-based self-hosted groceries and household management solution with recipe and meal planning features.
+- [Nextcloud Cookbook](https://github.com/nextcloud/cookbook) - Recipe management app for the Nextcloud platform.
+- [Recipya](https://github.com/reaper47/recipya) - A clean, simple and powerful self-hosted recipe manager.
+- [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-server) - A collaborative, free and open database of food products from around the world.
+- [Veganify](https://github.com/frontendnetwork/veganify) - A web app to scan EAN barcodes and check if a product is vegan-friendly, with a database of over 3 million products.
 - [RasPiBrew](https://github.com/steve71/RasPiBrew) - Raspberry Pi Temperature Controller for homebrewing and sous vide cooking .
 
 ## Cookbooks
@@ -45,6 +51,15 @@
 - [Chowdown](https://github.com/clarklab/chowdown) - A simple, plaintext markdown recipe database for hackers.
 - [Cooking-Recipes](https://github.com/Donearm/Cooking-Recipes) - Mostly italian recipes.
 - [bagels](https://github.com/andrewkern/bagels) - open source bagel recipe; let's raise the quality of bagels worldwide !
+- [HowToCook](https://github.com/Anduin2017/HowToCook) - A programmer's guide to cooking at home with step-by-step recipes (Simplified Chinese).
+- [the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework) - Open source book dedicated to helping you make the best possible sourdough bread at home.
+
+## Plant-Based
+
+- [vegan_recipes](https://github.com/rochacbruno/vegan_recipes) - A collection of 100% vegan recipes.
+- [recipes](https://github.com/hrs/recipes) - Actual food recipes in Markdown. All vegetarian, mostly vegan.
+- [recipes](https://github.com/mathias/recipes) - A collection of mostly vegan recipes. Creative Commons licensed.
+- [awesome-veganism](https://github.com/sdassow/awesome-veganism) - A curated list of resources, pointers, and tips related to veganism.
 
 ## Addresses
 
@@ -92,6 +107,8 @@
 - [/r/AskCulinary](https://www.reddit.com/r/AskCulinary/) - /r/AskCulinary provides expert guidance for your specific cooking problems to help people of all skill levels become better cooks, to increase understanding of cooking, and to share valuable culinary knowledge.
 - [/r/recipes](https://www.reddit.com/r/recipes/) - Improve and share your cooking repertoire with recipes from reddit's community.
 - [/r/IndianFood](https://www.reddit.com/r/IndianFood/) - Indian Food is your step by step guide to simple and delicious home cooking. From regional Indian cuisine to popular dishes from around the globe, our community's focus is to make cooking easy.
+- [/r/veganrecipes](https://www.reddit.com/r/veganrecipes/) - A community for sharing and discovering plant-based recipes.
+- [/r/EatCheapAndHealthy](https://www.reddit.com/r/EatCheapAndHealthy/) - Tips and recipes for eating well on a budget.
 
 ## Courses and MOOCs
 
@@ -109,6 +126,12 @@
 
 - [Peaceful Cuisine](https://www.youtube.com/user/ryoya1983) - Asian cooking, relaxing and beautiful
 - [Asian at Home](https://www.youtube.com/user/SeonkyoungLongest) - She talks too much but the food looks great
+
+### Plant-based cuisine
+
+- [Avant-Garde Vegan](https://www.youtube.com/c/avantgardevegan) - Creative and visually stunning plant-based recipes by Gaz Oakley
+- [Pick Up Limes](https://www.youtube.com/c/PickUpLimes) - Nutritious plant-based recipes with a focus on balanced eating and meal prep
+- [Rainbow Plant Life](https://www.youtube.com/c/RainbowPlantLife) - Flavorful vegan recipes inspired by global cuisines
 
 
 ## Contribute
