@@ -31,6 +31,7 @@ This is a list of awesome resources about VLC and LibVLC.
 - [playlist-youtube-vlc](https://github.com/Abstraxt-AA/playlist-youtube-vlc) - Lua plugin to parse Youtube playlists.
 - [vlc-super-skipper](https://github.com/Trevelopment/vlc-super-skipper) - Automatically Skip Opening and Ending Sequences.
 - [vlc-mcp-server](https://github.com/piebro/vlc-mcp-server) -  An MCP (Model Context Protocol) Server to play and control movies using the VLC HTTP API and natural language using an LLM.
+- [vlc-auto-dir-enqueue-prev-next](https://github.com/eltoro0815/vlc-auto-dir-enqueue-prev-next) - Automatically adds the previous and next track from the same directory to the VLC playlist as soon as a file starts playing.
 
 ## Apps
 

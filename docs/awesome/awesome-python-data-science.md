@@ -127,6 +127,7 @@
 * [Karate Club](https://github.com/benedekrozemberczki/karateclub) - An unsupervised machine learning library for graph-structured data.
 * [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
 * [Jraph](https://github.com/google-deepmind/jraph) - A Graph Neural Network Library in Jax.
+* [TRL](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
   
 
 ## Graph Manipulation

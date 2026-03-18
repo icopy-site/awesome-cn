@@ -366,6 +366,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [intelli-shell](https://github.com/lasantosr/intelli-shell) - Manage command templates/snippets.
 - [envio](https://github.com/envio-cli/envio) - Manage environment variables securely.
 - [await](https://github.com/slavaGanzin/await) - Runs commands in parallel and waits for their termination.
+- [aha](https://github.com/theZiz/aha) - Convert ANSI output to HTML.
 
 ### System Interaction Utilities
 
@@ -597,6 +598,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [television](https://github.com/alexpasmantier/television) - A very fast general purpose fuzzy finder.
 - [srgn](https://github.com/alexpovel/srgn/) - A grep-like tool which understands code syntax and also allows for manipulation.
 - [rawhide](https://github.com/raforg/rawhide) - Find files using pretty C expressions.
+- [semantic-grep](https://github.com/arunsupe/semantic-grep) - A tool for semantic search using word embeddings (e.g. search for "death" and find "dead", "killing", "murder".)
 
 ## Version Control
 
