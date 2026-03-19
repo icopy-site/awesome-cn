@@ -25,7 +25,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [Hackerspace3](https://github.com/govhackaustralia/hackerspace3) - Competition Management System for the GovHack Hackathon. `ruby`
 - [Halo](https://github.com/tcnj-acm/halo) - Hackathon Management System built on Django.
 - [Hibiscus](https://github.com/HackSC/hibiscus) - An all-in-one, plug-and-play hackathon platform, created for HackSC.
-- [JunctionApp](https://github.com/hackjunction/JunctionApp) -  All-in-one hackathon platform for organisers, maintained by Junction.
+- [JunctionApp](https://github.com/hackjunction/JunctionApp) - All-in-one hackathon platform for organisers, maintained by Junction.
 - [OpenHackathon](https://github.com/kaiyuanshe/OpenHackathon-Web) - Platform with Git-based Cloud Development Environment based on Next.js.
 - [Opportunity Hack](https://github.com/opportunity-hack) - Skills-Based Volunteering for Social Good, matching people to projects.
 
@@ -36,7 +36,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [Agorize](https://github.com/agorize) ([www](https://www.agorize.com/)) - A French company that provides open innovation software.
 - [Devfolio](https://github.com/devfolioco) ([www](https://devfolio.co/)) - Supporting India's 'largest and fastest growing community of builders'.
 - [Devpost](https://github.com/challengepost) ([www](https://devpost.com)) - Recognizable U.S. company, whose customers market developer tools and jobs to the community.
-- [HackHQ](https://hackhq.io/) - All-in-one hackathon management platform for internal corporate hackathons with registration, submissions, judging, voting, and live results in 30 minutes.
+- [HackHQ](https://hackhq.io/) - All-in-one hackathon and competition platform with built-in registration, submissions, judging, and live results. No account required for participants or judges. Launch your event in 30 minutes.
 - [HackHub](https://github.com/hackhub-team) ([www](https://www.hackhub.com/event), [docs](https://help.hackhub.com/)) - Canadian company with a featureful event and talent scouting app.
 - [Hackworks](https://github.com/hackworks) ([docs](https://help.hackworks.com/knowledge)) - Open innovation challenge platform from experienced event organizers in Canada.
 - [Nosu](https://www.nosu.io/) (formerly Sprint.dev) - AI tools to manage hackathons, aiming to upend tech recruiting by quantifying hackathon performance.
@@ -53,7 +53,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [HackAssistant](https://github.com/HackAssistant/hackassistant) - Hackathon registration server.
 - [HackathonManager](https://github.com/codeRIT/hackathon-manager) - Hackathon registration & logistics, compatible with MyMLH.
 - [Hackatuning](https://github.com/leognmotta/hackatuning) - Early stage hackathon management platform. `js`
-- [HackDash](https://github.com/impronunciable/hackdash) - Organize hackaton ideas into a dashboard.
+- [HackDash](https://github.com/impronunciable/hackdash) - Organize hackathon ideas into a dashboard.
 - [Hackfoldr](https://github.com/hackfoldr/hackfoldr) - Organize gdoc and hackpad documents for hackathons.
 - [HackPortal](https://github.com/acmutd/hackportal) - A platform from HackUTD for user-friendly event management.
 - [Hacksuite](https://github.com/DevtranetHQ/Hacksuite) - A fullstack suite of apps from [Devtranet](https://devtranet.tech/) for hosting virtual hackathons.
@@ -111,7 +111,7 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 ### Teambuilding
 
 - [Dridbot](https://github.com/dribdat/dridbot) - Multiplatform chatbot, for pepping up the experience for participants and organizers of hackathons.
-- [Steps to Building an Effective Team](https://hr.berkeley.edu/hr-network/central-guide-managing-hr/managing-hr/interaction/team-building/steps) - A bullet-point list from UC Berkley.
+- [Steps to Building an Effective Team](https://hr.berkeley.edu/hr-network/central-guide-managing-hr/managing-hr/interaction/team-building/steps) - A bullet-point list from UC Berkeley.
 - [Team Builder for MS Teams](https://techcommunity.microsoft.com/t5/healthcare-and-life-sciences/hackathon-team-builder-a-teams-tab-application/ba-p/3334437) - Sample app that allows hackathon participants to form a team based on challenges they want to tackle.
 - [Team building activities](https://www.sessionlab.com/blog/team-building-activities/) - 64 fun ideas from SessionLab.
 - [volunTree](https://github.com/Anant1902/volunTree) - Volunteer Management System for DSC Hack4Good Hackathon.
@@ -146,8 +146,8 @@ By _awesome 🕶️ hackathon platforms_, we mean web or mobile applications tha
 - [Hackathon Guidelines - Opendata.ch](https://opendata.ch/guidelines) - Principles for hackathons from the Swiss open data community.
 - [Hackathon Hackers Guide](https://github.com/HackathonHackers/Hackathon-Resources/blob/master/RESOURCES.md) - Collection of high quality hackathon resources. See also [Etiquette](https://medium.com/hackathon-hackers/hackathon-hackers-etiquette-cbcb9d1cda54#.dmgz1wp4y) and [Subgroups](https://github.com/HackathonHackers/groups).
 - [Hackathon Leitfaden](https://github.com/okfde/hackathon-leitfaden) - (In German) Printed guide for municipalities.
-- [Hackathon Toolbox](https://hackathontoolbox.com/) - Suggests technical tools by stage of hackathon development.
 - [Hackathon.guide](https://github.com/JoshData/hackathon.guide) - A step-by-step guide by seasoned organizer Joshua Tauberer.
+- [HackHQ Planning Guide](https://hackhq.io/planning-guide) - A 30-day step-by-step guide covering budget, team formation, judging criteria, communication, and event day logistics.
 - [Hackday Manifesto](https://github.com/hackdaymanifesto/site) - How to make your event a success, and avoid common pitfalls.
 - [Hack4TheFuture Guidebook](https://hack4thefuture.eu/Guidebook_Hack4theFuture_02.pdf) - from an EU project, a book on running international events.
 - [hack.athon.uk](https://hack.athon.uk/) - A wiki for helping hackers get into hackathons and organise them!
