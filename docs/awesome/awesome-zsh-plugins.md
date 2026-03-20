@@ -283,6 +283,18 @@ Tools Provided by x-cmd:
   - [CLI for Useful Websites (e.g., github.com, cht.sh)](https://x-cmd.com/mod/cht): We have wrapped their APIs using shell and awk for daily use and to obtain corresponding services in scripts.
   - [AI Tools](https://x-cmd.com/mod/openai): We provide CLIs for ChatGPT, Gemini, Jina.ai, etc., and have wrapped corresponding shortcut commands for different application scenarios, such as `@gemini` for chatting with Gemini AI and `@zh` for using AI to translate specified content or command results.
 
+### [xc-manager](https://github.com/Rakosn1cek/XC-Manager)
+![GitHub last commit](https://img.shields.io/github/last-commit/Rakosn1cek/XC-Manager)
+ ![GitHub Repo stars](https://img.shields.io/github/stars/Rakosn1cek/XC-Manager)
+
+**XC-Manager** is a Zsh-native command vault designed to bridge the gap between temporary shell history and permanent aliases. It allows you to store complex one-liners with descriptions and recall them via an interactive TUI.
+
+Features Provided by XC-Manager:
+  - **Command Vaulting**: Save any command directly from your history into thematic vaults (e.g., work, sysadmin, media).
+  - **FZF TUI**: Search and execute vaulted commands instantly using a robust, TTY-safe `fzf` interface.
+  - **Alias Promotion**: Promote frequently used vaulted commands to permanent system aliases without manually editing configuration files.
+  - **Global Search**: Query across all vault files simultaneously to find that one specific flag or complex pipe string.
+
 ### [yazt](https://github.com/bashelled/yazt)
 ![GitHub last commit](https://img.shields.io/github/last-commit/bashelled/yazt)
  ![GitHub Repo stars](https://img.shields.io/github/stars/bashelled/yazt)
@@ -904,6 +916,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 - [dirrc](https://github.com/gmatheu/shell-plugins) - Executes `.dirc` when present in a directory you `cd` into.
 - [dirstack](https://github.com/gepoch/oh-my-zsh-dirstack) - Plugin for displaying the dirstack info on a single line.
 - [diskfree](https://github.com/alex-crouch/zsh-diskfree/) - Displays the free space on your disk in your prompt.
+- [diskguard](https://github.com/TomfromBerlin/diskguard) - Intelligent disk space monitoring for write operations in ZSH.
 - [doas (anatolykopyl)](https://github.com/anatolykopyl/doas-zsh-plugin) - Easily prefix your current or previous commands with `doas` by pressing `ESC` twice.
 - [doas (senderman)](https://github.com/Senderman/doas-zsh-plugin) - Easily prefix your current or previous commands with `doas` by pressing `ESC` twice.
 - [docker-aliases](https://github.com/webyneter/docker-aliases) - `Docker` aliases for everyday use.
@@ -1747,6 +1760,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 - [zsh-hookie-projects](https://github.com/aemonge/zsh-hookie-projects) - Language-agnostic project detection with smart hooks, PowerLevel10k integration, and intelligent path shortening. Automatically detects 100+ project types, provides customizable on_project/off_project hooks, features a smart `cd` command that goes to project root, and includes a beautiful `hookie_dir` segment that shortens paths like `~/projects/my-app` → `~/p/my-app`. Perfect for polyglot developers who want seamless project-aware shell behavior.
 - [zsh-in-docker](https://github.com/deluan/zsh-in-docker) - Automates ZSH + [oh-my-zsh](https://ohmyz.sh/) installation into development containers. Works with Alpine, Ubuntu, Debian, CentOS or Amazon Linux.
 - [zsh-llm-assist](https://github.com/championswimmer/zsh-llm-assist) - Plain english to shell command suggestions as well as shell command to plain english explanation using Gemini CLI, Codex, Claude Code or OpenCode
+* [zsh-make-completion](https://github.com/pksublime/zsh-make-completion) - Correct `make` tab completion for zsh. Uses `make -qp` to fully expand the makefile database, so targets generated via `$(eval $(call ...))` are included. Results are cached per-directory and invalidated automatically when Makefiles change.
 - [zsh-not-vim](https://github.com/redxtech/zsh-not-vim) - Provides a function that automatically shames the user for forgetting they weren't in `vim`.
 - [zsh-select](https://github.com/z-shell/zsh-select) - Displays a selection list. It is similar to `selecta`, but uses the curses library to do display, and when compared to [fzf](https://github.com/junegunn/fzf), the main difference is approximate matching instead of fuzzy matching.
 - [zsh-vi-man](https://github.com/TunaCuma/zsh-vi-man) - Smart man page lookup for zsh vi mode. Press `Shift-K` on any command or option to instantly open its man page with smart detection for subcommands, option jumping, combined options, and pipe support.
@@ -2278,6 +2292,7 @@ These plugins add tab completions without adding extra functions or aliases.
 - [eucalyptus](https://github.com/relastle/eucalyptus) - Simple one-line theme for minimalist vi-mode users inspired by [agnoster](https://github.com/agnoster/agnoster-zsh-theme) and [powerlevel9k](https://github.com/bhilburn/powerlevel9k). Includes `git` status indicator, `vi`-mode indicator, current directory and current path.
 - [even-more-emojis](https://github.com/odunlop/even-more-emojis) - Customized version of [emoji](https://github.com/meiokubo-zz/emoji.zsh-theme) which adds more emojis and more information. Includes decorators for `git` status, current directory and the exit status of last command.
 - [excess](https://github.com/davydovanton/excess.zsh-theme) - Simple ZSH color theme.
+- [eyerelax](https://github.com/code-brewer/EyeRelax-zsh-theme) - Minimalist theme with decorators for `git` status, venv/anaconda environment, execution time of last command and current directory.
 - [ez-pz](https://github.com/mangosmoothie/ez-pz) - Minimalist theme with `git` status decorations, inspired by [bureau](https://github.com/isqua/bureau).
 - [fall](https://github.com/jottenlips/seasonal-zshthemes) - Minimalist theme with fall icons. Includes `git` status decorations.
 - [fattyarrow](https://github.com/sohnryang/fattyarrow) - Minimal ZSH prompt that works better on dark backgrounds.

@@ -221,7 +221,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 * [Calibre](http://calibre-ebook.com/) - Free, open-source e-book manager and reader. [![OSS][OSS Icon]](https://github.com/kovidgoyal/calibre) ![Freeware][Freeware Icon]
 * [BookShelves](https://getbookshelves.app/) - Ebook reader and library manager with 100,000+ free public domain books and iCloud sync across Mac, iPhone, and iPad. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/bookshelves-ebook-reader/id6756848973?platform=mac)
-* [Clearview](http://www.clearview-reader.com/clearview/) - Tabbed style e-book reader for PDF, EPUB (DRM free), CHM, and MOBI. [![App Store][app-store Icon]](https://apps.apple.com/us/app/clearview/id557090104?platform=mac)
+* [Clearview](https://clearview-reader.github.io/clearview-x/index.html) - Tabbed style e-book reader for PDF, EPUB (DRM free), CHM, and MOBI. [![App Store][app-store Icon]](https://apps.apple.com/us/app/clearview/id557090104?platform=mac)
 * [iChm](https://github.com/NSGod/ichm) - Ebook reader for CHM (Microsoft Compiled HTML help) files. [![Open-Source Software][OSS Icon]](https://github.com/NSGod/ichm) ![Freeware][Freeware Icon]
 * [Kindle App](https://www.amazon.com/l/16571048011) - Amazon official reading app of kindle.
 * [Klib](http://klib.me/) - New way to manage highlights for Kindle and iBooks. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1196268448?platform=mac)
@@ -416,6 +416,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 ### Frameworks For Hybrid Applications
 
 * [AppJS](http://appjs.com/) - Lightweight JavaScript UI library for creating mobile webapps that behave like native apps. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/appjs/appjs)
+* [DMG Maker](https://github.com/saihgupr/DMGMaker) - DMG creation tool with polished visuals and CLI support. [![Open-Source Software][OSS Icon]](https://github.com/saihgupr/DMGMaker) ![Freeware][Freeware Icon]
 * [create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/create-dmg) ![Freeware][Freeware Icon]
 * [Electrino](https://github.com/pojala/electrino) - Desktop runtime for web apps using the system's browser engine. [![OSS][OSS Icon]](https://github.com/pojala/electrino) ![Freeware][Freeware Icon]
 * [Electron](http://electron.atom.io) - Build cross platform desktop application with JavaScript, HTML and CSS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/electron/electron)
@@ -487,7 +488,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [FastoNoSQL](https://fastonosql.com/) - Cross-platform GUI client for various key-value databases. [![OSS][OSS Icon]](https://github.com/fastogt/fastonosql) ![Freeware][Freeware Icon]
 * [FastoRedis](https://fastoredis.com/) - Cross-platform professional GUI management tool for Redis. [![Open-Source Software][OSS Icon]](https://github.com/fastogt/fastoredis) ![Freeware][Freeware Icon]
 * [JackDB](https://www.jackdb.com/) - Secure, collaborative environment for your queries and data-driven insights. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/yoichiro/chrome_mysql_admin)
-* [Keylord](https://protonail.com) - Desktop GUI client for Redis, Bolt, LevelDB and Memcached key-value databases.
 * [MDB Explorer](http://www.macexplorer.co/en/mdb-explorer.php) - MDB tool to open, read, export your MDB files to other formats and databases.
 * [Medis](http://getmedis.com) - GUI Manager for Redis. [![Open-Source Software][OSS Icon]](https://github.com/luin/medis)
 * [Mingo](https://mingo.io/) - Easy to use MongoDB GUI with mind-blowing features.
@@ -509,7 +509,6 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 * [SQLPro Studio](http://www.sqlprostudio.com/) - Simple, powerful database manager for macOS.
 * [Studio 3T](https://studio3t.com/) - the Ultimate GUI for MongoDB. ![Freeware][Freeware Icon]
 * [SurrealDB](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web. [![Open-Source Software][oss icon]](https://github.com/surrealdb/surrealdb)
-* [Tableau Public](https://public.tableau.com/s/) - Free data-visualization software. ![Freeware][Freeware Icon]
 * [TablePlus](https://tableplus.io) - Supports: PostgreSQL, MySQL, RedShift, MariaDB... High-end security ensured.
 * [TablePro](https://github.com/datlechin/TablePro) - Fast database client with AI-assisted SQL editing and support for major SQL/NoSQL engines. [![Open-Source Software][OSS Icon]](https://github.com/datlechin/TablePro) ![Freeware][Freeware Icon]
 * [TrailBase](https://trailbase.io) - Open, sub-millisecond, single-executable FireBase alternative with type-safe APIs, notifications, builtin JS/TS runtime, auth & admin UI built on SQLite, Rust & V8. [![Open-Source Software][OSS Icon]](https://github.com/trailbaseio/trailbase)

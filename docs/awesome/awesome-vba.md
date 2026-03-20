@@ -134,6 +134,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### Web tools
 
+- [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) ![GHStars](https://img.shields.io/github/stars/tarboh/WebView2-For-Excel-VBA?style&logo=github&label) [WebView2 for Excel VBA](https://github.com/tarboh/WebView2-For-Excel-VBA) – A lightweight wrapper that exposes Microsoft Edge WebView2 on a UserForm, enabling HTML/JS UI, rendering, and two‑way communication with VBA. Effectively replaces the WebBrowser control.
 - [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/VBA-tools/VBA-Web?style&logo=github&label) [VBA-Web](https://github.com/VBA-tools/VBA-Web) - Connect VBA, Excel, Access, and Office for Windows and Mac to web services and the web.
 - [![p_win]](#-) [![p_mac]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/EagleAglow/vba-websocket-async?style&logo=github&label) [VBA-WebSocket](https://github.com/EagleAglow/vba-websocket) - Microsoft example code for a WebSocket client which can be used in conjunction with an echo server. There is also [a class](https://github.com/EagleAglow/vba-websocket-class) and an [async version](https://github.com/EagleAglow/vba-websocket-async) built by the discoverer of the microsoft code.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [![o_32]](#-) ![GHStars](https://img.shields.io/github/stars/wqweto/VbAsyncSocket?style&logo=github&label) [vbAsyncSocket](https://github.com/wqweto/VbAsyncSocket) - Simple and thin WinSock API wrappers for VB6 loosely based on the original CAsyncSocket wrapper in MFC.
@@ -151,6 +152,7 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 - [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) ![GHStars](https://img.shields.io/github/stars/spences10/VBA-IDE-Code-Export?style&logo=github&label) [VBA-IDE-Code-Export](https://github.com/spences10/VBA-IDE-Code-Export) - Addin contains a code importer and exporter for use with git (or any VCS).
 - [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) [![a_wd]](#-) [![o_pass]](#-) - [RibbonX](https://www.andypope.info/vba/ribboneditor_2010.htm) - AndyPope's Visual Ribbon Editor.
 - [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) [Custom UI XML Editor](https://yoursumbuddy.com/ribbon-customui-xml-editor/) - Addin for directly adding, editing and validating ribbon XML (Excel 2010+).
+- [![p_win]](#-) [![p_nom]](#-) [![a_xl]](#-) [![a_ac]](#-) [![a_wd]](#-) [![a_pp]](#-) [![o_paid]](#-) [Ribbon Creator](https://ribboncreator2021.de/en/) - An excellent and intuitive WYSIWYG interface for the development of ribbons. The free shareware version allows for the export of up to two tabs per ribbon.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [![o_paid]](#- 'Costs upwards of $79') [MZ-Tools](https://www.mztools.com/) - VBE addin providing development tools.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) ![GHStars](https://img.shields.io/github/stars/wqweto/VbPeg?style&logo=github&label) [VbPeg](https://github.com/wqweto/VbPeg) - A parser generator for VBA. Converts PEG grammar like [this](https://github.com/wqweto/VbPeg/blob/master/test/Runner/peg/Kscope/grammar.peg) into [VBA code like this](https://github.com/wqweto/VbPeg/blob/master/test/Runner/peg/Kscope/cKscope.cls). Very useful if you're implementing a new programming language in VBA.
 - [![p_win]](#-) [![p_nom]](#-) [![a_all]](#-) [VBA Resource File Editor](http://leandroascierto.com/blog/vba-resource-file-editor/) - Store other files inside your excel/word/powerpoint files for later use with this handy tool.
@@ -172,7 +174,8 @@ Because of the nature of VBA, many libraries do not work on all Operating System
 
 ### UI Ribbon
 
-- [Ron de Bruin - Ribbons/QAT](https://web.archive.org/web/20230806024653/https://www.rondebruin.nl/win/section2.htm) - A leading resource for information/samples on developing custom ribbons and context menus.
+- [Access Ribbon](https://www.accessribbon.de/en/) - An excellent resource for information for developing custom ribbon XML. Although principally targeted at Access, it is equally applicable to Excel, Word and PowerPoint. 
+- [Ron de Bruin - Ribbons/QAT](https://jkp-ads.com/rdb/) - A leading resource for information/samples on developing custom ribbons and context menus. (Hosted on Jan Karel Pieterse's site)
 - [Office MSO Icons](http://www.spreadsheet1.com/office-excel-ribbon-imagemso-icons-gallery-page-01.html) - Ribbon icons can often use one of the 1500 (3 pages on this site) MSO icons wich pre-exist in Office applications.
 
 ### UI Userforms
