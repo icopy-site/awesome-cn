@@ -602,6 +602,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [GraphLens](https://github.com/GraphLens/graphlens) - Interactive architecture visualizer for Angular projects.
 * [i18n-studio](https://marketplace.visualstudio.com/items/?itemName=AdrienAudouard.i18n-studio) - A VS Code extension for Angular i18n that shows translations inline, autocompletes keys, and streamlines multilingual workflows.
 * [Ionic VS Code Extension](https://ionicframework.com/docs/intro/vscode-extension) - Perform various functions that are common to developing an Ionic app, all without leaving your VS Code window.
+* [mini-typescript-hero](https://github.com/angular-schule/mini-typescript-hero) - A lightweight, modern VSCode extension that automatically manages your import statements.
 * [ngx-html-syntax](https://github.com/princemaple/ngx-html-syntax) - Angular HTML Syntax for [Sublime Text](https://www.sublimetext.com/).
 * [Nx Console](https://marketplace.visualstudio.com/items?itemName=nrwl.angular-console) - Spend less time looking up command line arguments and more time shipping incredible products.
 * [Redux DevTools](https://github.com/reduxjs/redux-devtools/) - Can be used in combination with `@ngrx/store-devtools` to inspect the state of your NgRx app.
@@ -2057,6 +2058,7 @@ for the creation of web applications developed with Angular.
 
 * [angular-game-of-life](https://github.com/Astgenne4922/angular-game-of-life) - Background component playing Conway's Game of Life for Angular 19+.
 * [angular-tag-cloud-module](https://github.com/d-koppenhagen/angular-tag-cloud-module) - With this module, you can generate word clouds / tag clouds.
+* [levita](https://github.com/Jeromearsene/levita) - Lightweight 3D tilt & parallax with accelerometer support.
 * [ng-snowfall](https://github.com/Leksip/ng-snowfall) - An interactive Angular snowfall component where snowflakes respond to mouse movement to create a realistic wind effect.
 * [ng-whiteboard](https://github.com/mostafazke/ng-whiteboard) - Lightweight Angular whiteboard component.
 * [@craftedcode-dev/ngx-analog-clock](https://github.com/craftedcode-dev/ngx-analog-clock) - Analog clock component for Angular applications with timezone support, custom themes, and extensive styling options.

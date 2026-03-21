@@ -320,7 +320,6 @@ Looking to have a more enjoyable experience when consuming a popular .NET librar
 - [Awesome .NET!](https://github.com/quozd/awesome-dotnet) - Collection of awesome .NET libraries, tools, frameworks and software.
 - [Companies using F#](https://github.com/fsprojects/fsharp-companies) - Community curated list of companies that use F# (maybe useful if you're looking for a job?)
 - [F# Community Projects](http://fsharp.org/community/projects/) - Everything produced by the F# community. 
-- [FSharpest](https://www.fsharpest.xyz) - A directory to discover F# tools, libraries and resources.
 - [Fable Resources](https://fable.io/resources.html) - A curated list of useful Fable-related tutorials, libraries and software.
 
 ### Websites
