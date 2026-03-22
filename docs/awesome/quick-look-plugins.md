@@ -119,6 +119,14 @@ Purchase on the [App Store](https://apps.apple.com/app/folder-preview/id66988766
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/FolderPreview.png)](https://anybox.ltd/folder-preview)
 
+### [Folder Quick Look](https://apps.apple.com/app/id6753110395) 💰
+
+> Preview folder and archive contents (ZIP, RAR, and more).
+
+Purchase on the [App Store](https://apps.apple.com/app/id6753110395).
+
+[![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/FolderQuickLook.png)](https://apps.apple.com/app/id6753110395)
+
 ### [FluxMarkdown](https://github.com/xykong/flux-markdown)
 
 > Preview Markdown files with Mermaid diagrams, KaTeX math, GFM support, and interactive table of contents.

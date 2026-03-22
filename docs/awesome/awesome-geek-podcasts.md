@@ -45,6 +45,7 @@ A curated list of podcasts we like to listen to.
 * [BSDTalk](http://bsdtalk.blogspot.com/) - Talking about the BSD family of free operating systems.
 * [Choose Linux](https://chooselinux.show/) - The show that captures the excitement of discovering Linux. (Ceased production 2020)
 * [Citizen Web3](https://www.citizenweb3.com) - Web3-focused podcast, discovering the people that contribute to building the decentralized world.
+* [Chain of Thought](https://chainofthought.show/) - Weekly conversations with AI leaders, engineers, and founders exploring the ideas shaping AI development, from inference infrastructure and developer tools to leadership and industry strategy. Hosted by Conor Bronsdon.
 * [Cloudcast](http://www.thecloudcast.net/) - Award-winning podcast on all things, Cloud Computing, AWS Ecosystem, OpenSource, DevOps, AppDev, SaaS and SDN.
 * [CMOS](https://code-maven.com/cmos) - The Code-Maven Open Source podcast helps you become familiar with a wide range of projects by interviewing users or developers of these projects.
 * [CodeNewbie Podcast](https://www.codenewbie.org/podcast) - Stories from people on their coding journey.
@@ -390,6 +391,7 @@ A curated list of podcasts we like to listen to.
 * [gPodder](https://gpodder.github.io) / [gPodder Director](https://gpodder.net/) - (Multi-plataform Open Source and Podcast Directory)
 * [RadioPublic](https://radiopublic.com/)
 * [Podcast Addict](https://podcastaddict.com/app) - Android Podcast player
+* [The Podcast App](https://thepodcastapp.dev) - Free, ad-free podcast player for iOS and Android with AI cross-episode search
 
 ### More
 
