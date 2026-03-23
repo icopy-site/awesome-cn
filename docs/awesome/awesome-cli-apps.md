@@ -32,6 +32,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [newsboat](https://github.com/newsboat/newsboat) - An extendable RSS feed reader for text terminals.
 - [mal-cli](https://github.com/L4z3x/mal-cli) - MyAnimeList client.
+- [golazo](https://github.com/0xjuanma/golazo) - Soccer matches.
 
 ### Music
 
@@ -245,7 +246,6 @@ Expose a service running on localhost to the public web for testing and sharing.
 ### Time Tracking
 
 - [Timetrap](https://github.com/samg/timetrap) - Simple timetracker.
-- [moro](https://github.com/omidfi/moro) - Simple tool for tracking work hours.
 - [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Utility with simple stopwatch, calendar-based backfill and flexible reporting.
 - [Watson](https://github.com/TailorDev/Watson) - Generate reports for clients and manage your time.
 - [utt](https://github.com/larose/utt) - Simple time tracking tool.
@@ -709,6 +709,7 @@ Inclusion criteria are less strict for this fast-moving field.
 - [agent-of-empires](https://github.com/njbrake/agent-of-empires) - Coding agent session manager via tmux and git worktrees.
 - [agent-deck](https://github.com/asheshgoplani/agent-deck) - Dashboard for managing multiple AI coding agent sessions.
 - [Sugar](https://github.com/roboticforce/sugar) - Autonomous agent that queues and executes tasks in the background.
+- [Shep](https://github.com/shep-ai/cli) - Multi-session SDLC control center for AI coding agents.
 
 ### LLM Interaction
 - [aye-chat](https://github.com/acrotron/aye-chat) - Workspace for editing, running commands, and chatting with your codebase.
