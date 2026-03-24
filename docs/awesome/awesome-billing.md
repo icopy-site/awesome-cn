@@ -319,6 +319,7 @@ Global companies needs to know how to juggle between local currencies.
 Once you've got your accounts in order, you can start extracting insights and metrics from your financial data.
 
 <!--lint ignore balanced-punctuation-->
+
 - [Accounts Demystified: The Astonishingly Simple Guide To Accounting](https://www.amazon.com/dp/0273744704?&linkCode=ll1&tag=kevideld-20&linkId=f491ee18c48fdaf3226904a39612cc22&language=en_US&ref_=as_li_ss_tl) - Helps you learn how to analyse and monitor your company's financial performance.
 
 - [The Games People Play With Cash Flow](https://commoncog.com/blog/cash-flow-games/) - “Malone created a new accounting metric, something he called ‘earnings before interest, depreciation, and taxes’, or EBITDA.” This is how a cable company CEO made sense of cash flow, like real-estate business did. The article starts with this example and describes other cash flow games for SaaS models.
@@ -352,6 +353,7 @@ All the invoicing terms & conditions are materialzed by the contract signed betw
 - [Hacking Scooters: How I Created \$100k Worth Of Free Rides](https://fant.io/p/hacking-voi/) - A cautionary tale on how promo codes can be exploited to get unlimited free rides.
 
 <!--lint ignore balanced-punctuation-->
+
 - [China’s Pinduoduo reports theft of online discount vouchers to police](https://web.archive.org/web/20230404113232/https://www.reuters.com/article/us-pinduoduo-china/chinas-pinduoduo-reports-theft-of-online-discount-vouchers-to-police-idUSKCN1PE05J) - The next level of fraud: “an online collective exploited a loophole on its platform to ‘steal’ tens of millions of yuan worth of discount vouchers”.
 
 - [Council Directive 2016/1065 as regards the treatment of vouchers](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016L1065) - European directive on the application of VAT when vouchers are involved.
@@ -503,6 +505,7 @@ The usual money transfer services.
 - [20 years of payment processing problems](https://kaimi.io/en/2022/07/20-years-of-payment-processing-problems-en/) - A huge collection of everything that went wrong, and still is, with payment APIs from the past 2 decades. Any issue exposed in this article that gets unaddressed will end up as stolen money.
 
 <!--lint ignore balanced-punctuation-->
+
 - [The untold story of Stripe](https://www.wired.co.uk/article/stripe-payments-apple-amazon-facebook) - In which we learn that “once turnover hit a certain level, Paypal automatically put the business on a 21 to 60 day rolling reserve, meaning that up to 30 per cent of a company's revenue could be locked up for up to two months.”
 
 - [Idempotency in the context of payments](https://developers.google.com/standard-payments/reference/idempotency) - “Idempotency prevents race conditions. Idempotency dictates that multiple identical requests from the same client do not result in a different final state.”
@@ -630,6 +633,7 @@ How much value do you produce per customer? The Customer Lifetime Value (CLV, or
 - [RFM (customer value)](https://en.wikipedia.org/wiki/RFM_%28customer_value%29) - A refined model of CLV, used to segment users based on Recency, Frequency and Monetary value.
 
 <!--lint ignore balanced-punctuation-->
+
 - [Churn Prediction](https://towardsdatascience.com/customer-churn-prediction-with-text-and-interpretability-bd3d57af34b1/) - “How to use Python in a simplistic way to fuel your company's growth by applying the predictive approach to all your actions.” Relies on XGBoost binary classification.
 
 - [PyMC-Marketing](https://github.com/pymc-labs/pymc-marketing) - A full-featured Python package to analyze your users based on their "alive" and "dead" states.
