@@ -423,6 +423,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Cross-platform network monitoring TUI with process identification via eBPF/PKTAP and deep packet inspection [![build badge](https://img.shields.io/github/actions/workflow/status/domcyrus/rustnet/rust.yml?logo=github)](https://github.com/domcyrus/rustnet/actions/workflows/rust.yml) [![crate](https://img.shields.io/crates/v/rustnet-monitor?logo=rust)](https://crates.io/crates/rustnet-monitor)
 * [EFForg/rayhunter](https://github.com/EFForg/rayhunter) - IMSI catcher detection tool designed to run on mobile hotspot hardware, helping users identify potential cellular surveillance (Stingray/cell-site simulators) [![Tests](https://github.com/EFForg/rayhunter/actions/workflows/main.yml/badge.svg)](https://github.com/EFForg/rayhunter/actions/workflows/main.yml)
 * [entropic-security/xgadget](https://github.com/entropic-security/xgadget) [[xgadget](https://crates.io/crates/xgadget)] - Fast, parallel, cross-variant ROP/JOP gadget search [![GitHub Actions](https://github.com/entropic-security/xgadget/workflows/test/badge.svg)](https://github.com/entropic-security/xgadget/actions)
+* [InnerWarden/innerwarden](https://github.com/InnerWarden/innerwarden) - Self-defending security agent for Linux and macOS with 22 eBPF kernel hooks, 39 detectors, and AI-driven incident response [![CI](https://github.com/InnerWarden/innerwarden/actions/workflows/ci.yml/badge.svg)](https://github.com/InnerWarden/innerwarden/actions/workflows/ci.yml)
 * [Inspektor](https://github.com/inspektor-dev/inspektor) - A database protocol-aware proxy that is used to enforce access policies 👮
 * [kpcyrd/authoscope](https://github.com/kpcyrd/authoscope) - A scriptable network authentication cracker
 * [kpcyrd/rshijack](https://github.com/kpcyrd/rshijack) - A TCP connection hijacker; rewrite of shijack
@@ -467,6 +468,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [deshaw/procfd](https://github.com/deshaw/procfd) [[procfd](https://crates.io/crates/procfd)] - Linux lsof replacement to list open file descriptors for processes
 * [diskonaut](https://github.com/imsnif/diskonaut) - Terminal visual disk space navigator
 * [dust](https://github.com/bootandy/dust) - A more intuitive version of du
+* [erickochen/purple](https://github.com/erickochen/purple) [[purple-ssh](https://crates.io/crates/purple-ssh)] - Ratatui-powered SSH client with cloud sync, container management, file transfer, tunnels, snippets and password management [![CI](https://github.com/erickochen/purple/actions/workflows/ci.yml/badge.svg)](https://github.com/erickochen/purple/actions/workflows/ci.yml)
 * [eza-community/eza](https://github.com/eza-community/eza) - A replacement for 'ls'
 * [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell
 * [fork](https://github.com/immortal/fork) - Library for creating a new process detached from the controlling terminal (daemon)
@@ -760,6 +762,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
   * [kpcyrd/mini-docker-rust](https://github.com/kpcyrd/mini-docker-rust) - An example project for very small rust docker images
   * [liuchong/docker-rustup](https://github.com/liuchong/docker-rustup) - A multiple version (with musl tools) Rust Docker image
   * [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef) - A tool and pre-built images for caching compiling remote dependencies between Docker builds.
+  * [moghtech/komodo](https://github.com/moghtech/komodo) - A tool to build and deploy software across many servers, with a web UI, API, and no server limits
   * [rust-cross/rust-musl-cross](https://github.com/rust-cross/rust-musl-cross) - Docker images for compiling static Rust binaries using musl-cross [![Build](https://github.com/rust-cross/rust-musl-cross/workflows/Build/badge.svg)](https://github.com/rust-cross/rust-musl-cross/actions?query=workflow%3ABuild)
   * [rust-lang-nursery/docker-rust](https://github.com/rust-lang/docker-rust) - the official Rust Docker image
   * [Stavrospanakakis/is_ready](https://github.com/Stavrospanakakis/is_ready) - Wait for multiple services to become available ![Build](https://github.com/Stavrospanakakis/is_ready/actions/workflows/release.yml/badge.svg)

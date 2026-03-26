@@ -76,6 +76,7 @@ _Libraries for building AI applications, LLM integrations, and autonomous agents
 - Pre-trained Models and Inference
   - [diffusers](https://github.com/huggingface/diffusers) - A library that provides pre-trained diffusion models for generating and editing images, audio, and video.
   - [transformers](https://github.com/huggingface/transformers) - A framework that lets you easily use pre-trained transformer models for NLP, vision, and audio tasks.
+  - [unsloth](https://github.com/unslothai/unsloth) - A library for faster LLM fine-tuning and training with reduced memory usage.
   - [vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
 
 ## Deep Learning
@@ -114,7 +115,6 @@ _Libraries for working with human languages._
   - [stanza](https://github.com/stanfordnlp/stanza) - The Stanford NLP Group's official Python library, supporting 60+ languages.
 - Chinese
   - [funnlp](https://github.com/fighting41love/funNLP) - A collection of tools and datasets for Chinese NLP.
-  - [jieba](https://github.com/fxsjy/jieba) - The most popular Chinese text segmentation library.
 
 ## Computer Vision
 
@@ -661,6 +661,7 @@ _Libraries for scheduling jobs._
 
 _Libraries for generating and working with logs._
 
+- [logfmter](https://github.com/josheppinette/python-logfmter) - A standard library compatible logfmt formatter.
 - [logging](https://docs.python.org/3/library/logging.html) - (Python standard library) Logging facility for Python.
 - [loguru](https://github.com/Delgan/loguru) - Library which aims to bring enjoyable logging in Python.
 - [structlog](https://github.com/hynek/structlog) - Structured logging made easy.

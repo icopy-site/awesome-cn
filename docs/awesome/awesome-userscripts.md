@@ -804,15 +804,15 @@ Userscripts can be used w/ the following browsers:
 </details>
 
 <details> <!-- GoogleGPT -->
-    <summary><a href="https://www.googlegpt.io">GoogleGPT</a> - Adds AI chat & search summaries to Google Search, powered by the latest LLMs.</summary><br>
+    <summary><a href="https://github.com/KudoAI/googlegpt/#readme">GoogleGPT</a> - Adds AI chat & search summaries to Google Search, powered by the latest LLMs.</summary><br>
     <blockquote>
-        <a href="https://www.googlegpt.io">
-            <img width=511 src="https://assets.googlegpt.io/images/screenshots/desktop/javascript-arrays-query/darkmode.png?v=a363ecf"></a>
+        <a href="https://github.com/KudoAI/googlegpt/#readme">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/KudoAI/googlegpt@a363ecf/assets/images/screenshots/desktop/javascript-arrays-query/darkmode.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://gm.googlegpt.io">
+        💾 <a href="https://raw.githubusercontent.com/KudoAI/googlegpt/refs/heads/main/greasemonkey/googlegpt.user.js">
             Install</a> /
-        📖 <a href="https://docs.googlegpt.io/#readme">
+        📖 <a href="https://github.com/KudoAI/googlegpt/#readme">
             Readme</a> /
         📢 <a href="https://github.com/KudoAI/googlegpt/discussions">
             Discuss</a> /
@@ -1099,16 +1099,17 @@ Userscripts can be used w/ the following browsers:
             Report bug</a>
     </blockquote>
 </details>
+
 <details> <!-- GoogleGPT -->
-    <summary><a href="https://www.googlegpt.io">GoogleGPT</a> - Adds AI chat & search summaries to Google Search, powered by the latest LLMs.</summary><br>
+    <summary><a href="https://github.com/KudoAI/googlegpt/#readme">GoogleGPT</a> - Adds AI chat & search summaries to Google Search, powered by the latest LLMs.</summary><br>
     <blockquote>
-        <a href="https://www.googlegpt.io">
-            <img width=511 src="https://assets.googlegpt.io/images/screenshots/desktop/javascript-arrays-query/darkmode.png?v=a363ecf"></a>
+        <a href="https://github.com/KudoAI/googlegpt/#readme">
+            <img width=511 src="https://cdn.jsdelivr.net/gh/KudoAI/googlegpt@a363ecf/assets/images/screenshots/desktop/javascript-arrays-query/darkmode.png"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://gm.googlegpt.io">
+        💾 <a href="https://raw.githubusercontent.com/KudoAI/googlegpt/refs/heads/main/greasemonkey/googlegpt.user.js">
             Install</a> /
-        📖 <a href="https://docs.googlegpt.io/#readme">
+        📖 <a href="https://github.com/KudoAI/googlegpt/#readme">
             Readme</a> /
         📢 <a href="https://github.com/KudoAI/googlegpt/discussions">
             Discuss</a> /

@@ -67,6 +67,7 @@ _Libraries for building actor-based programs._
 
 _Libraries for building programs that leverage AI._
 
+- [ai](https://github.com/joakimcarlsson/ai) - A Go toolkit for building AI agents and applications across multiple providers with unified LLM, embeddings, tool calling, and MCP integration.
 - [chromem-go](https://github.com/philippgille/chromem-go) - Embeddable vector database for Go with Chroma-like interface and zero third-party dependencies. In-memory with optional persistence.
 - [fun](https://gitlab.com/tozd/go/fun) - The simplest but powerful way to use large language models (LLMs) in Go.
 - [goai](https://github.com/zendev-sh/goai) - Go SDK for building AI applications. One SDK, 20+ providers. Inspired by Vercel AI SDK.
@@ -1026,6 +1027,7 @@ _Packages for accounting and finance._
 - [go-finance](https://github.com/alpeb/go-finance) - Library of financial functions for time value of money (annuities), cash flow, interest rate conversions, bonds and depreciation calculations.
 - [go-finance](https://github.com/pieterclaerhout/go-finance) - Module to fetch exchange rates, check VAT numbers via VIES and check IBAN bank account numbers.
 - [go-money](https://github.com/rhymond/go-money) - Implementation of Fowler's Money pattern.
+- [coinpaprika-api-go-client](https://github.com/coinpaprika/coinpaprika-api-go-client) - Go client for the CoinPaprika cryptocurrency market data API.
 - [go-nowpayments](https://github.com/matm/go-nowpayments) - Library for the crypto NOWPayments API.
 - [gobl](https://github.com/invopop/gobl) - Invoice and billing document framework. JSON Schema based. Automates tax calculations and validation, with tooling to convert into global formats.
 - [ledger](https://github.com/formancehq/ledger) - A programmable financial ledger that provides a foundation for money-moving applications.
@@ -1489,6 +1491,7 @@ _Libraries for Machine Learning._
 - [born](https://github.com/born-ml/born) - Deep learning framework inspired by Burn (Rust), with autograd, type-safe tensors, and zero-CGO GPU acceleration.
 - [catboost-cgo](https://github.com/mirecl/catboost-cgo) - Fast, scalable, high performance Gradient Boosting on Decision Trees library. Golang using Cgo for blazing fast inference CatBoost Model.
 - [CloudForest](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
+- [datatrax](https://github.com/rbmuller/datatrax) - Data engineering and classic ML toolkit with batch processing, type coercion, and 7 algorithms in pure Go with zero dependencies.
 - [ddt](https://github.com/sgrodriguez/ddt) - Dynamic decision tree, create trees defining customizable rules.
 - [eaopt](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
 - [evoli](https://github.com/khezen/evoli) - Genetic Algorithm and Particle Swarm Optimization library.
@@ -3132,6 +3135,7 @@ _Software written in Go._
 - [colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup.
 - [Ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
 - [decompose](https://github.com/s0rg/decompose) - tool to generate and process Docker containers connections graphs.
+- [Den](https://github.com/us/den) - Self-hosted sandbox runtime for AI agents. Open-source E2B alternative.
 - [DepCharge](https://github.com/centerorbit/depcharge) - Helps orchestrating the execution of commands across the many dependencies in larger projects.
 - [dish](https://github.com/thevxn/dish) - A lightweight, remotely configurable monitoring service.
 - [Docker](https://www.docker.com/) - Open platform for distributed applications for developers and sysadmins.

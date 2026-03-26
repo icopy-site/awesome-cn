@@ -67,7 +67,6 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hac
 ## Finance
 
 - [Glu Mobile 10-K archive](https://www.sec.gov/edgar/search/#/dateRange=all&category=custom&entityName=0001366246&forms=10-K) - Archive of 10-K of Glu Mobile from it's IPO(2007) till acquisition(2021). Includes revenue breakdown by means of distribution and region, management commentary, portfolio of games etc.
-
 - [UPI 123PAY](https://www.npci.org.in/what-we-do/upi-123pay/product-overview) - Official Unified Payment Interface(UPI)payments solution for feature phones by NPCI. Internet not required. Supported only in India.
 
 ## Hardware
@@ -105,7 +104,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hac
 - [Cell Phone Game Preservation Wiki](https://cellphonegamespreservation.miraheze.org/wiki/Main_Page) - Wiki dedicated to phone preservation, including emulation and game dumps.
 - [J2ME Fandom](https://j2me.fandom.com/wiki) - Wiki of everything related to J2ME.
 - [J2ME Preservation](https://github.com/j2me-preservation/j2me-preservation) - Archive of various J2ME software.
-
+- [Legacy Portable Computing Wiki](https://lpcwiki.miraheze.org) - Frequently updated Wiki dedicated to preserving the knowledge and content of outdated mobile devices.
 
 
 ## Reverse Engineering
@@ -128,7 +127,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hac
 - [Revive Nokia N95](https://github.com/domib97/revive.nokia.n95) - A quick guide to revive the legacy Nokia N95 and develop for it.
 - [J2ME Docs](https://nikita36078.github.io/J2ME_Docs) - Documentation for J2ME and some vendor-specific APIs.
 - [Java ME 3.4 Developer's Guide for NetBeans on Windows](https://docs.oracle.com/javame/dev-tools/jme-sdk-3.4/nb/html/toc.htm) - Official tutorial on SDK 3.4, NetBeans on Windows variant.
-
+- [Nokia/Microsoft Mobile Developer Slideshare](https://www.slideshare.net/nokia-developer) - Presentations about developing apps for Nokia platforms, including Asha and Series 40 platforms.
 
 ### Academic Articles
 
