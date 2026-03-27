@@ -73,6 +73,13 @@ A collection of awesome things regarding the React ecosystem.
 - [emotion](https://github.com/emotion-js/emotion) - CSS-in-JS library designed for high performance style composition
 - [vanilla-extract](https://github.com/seek-oss/vanilla-extract) - Zero-runtime Stylesheets-in-TypeScript
 
+#### React Icon Libraries
+
+- [react-icons](https://github.com/react-icons/react-icons) - SVG React icons of popular icon packs
+- [lucide-react](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit
+- [heroicons](https://github.com/tailwindlabs/heroicons) - Beautiful hand-crafted SVG icons by the makers of Tailwind CSS
+- [thesvg](https://github.com/GLINCKER/thesvg) - A collection of free SVG icons for popular brands and technologies
+
 #### React Routing
 
 - [react-router](https://github.com/remix-run/react-router) - Declarative routing for React
@@ -84,10 +91,12 @@ A collection of awesome things regarding the React ecosystem.
 - [parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web
 - [reactotron](https://github.com/skellock/reactotron) - A desktop app for inspecting your React and React Native projects
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
+- [react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
 - [why-did-you-render](https://github.com/welldone-software/why-did-you-render) - Monkey patches React to notify you about avoidable re-renders
 
 #### React Libraries
 
+- [ai-sdk](https://github.com/vercel/ai) - The AI Toolkit for TypeScript and React from the creators of Next.js
 - [preact](https://github.com/preactjs/preact) - Fast React alternative with the same modern API
 - [floating-ui](https://github.com/floating-ui/floating-ui) - Toolkit to create floating elements
 - [loadable-components](https://github.com/gregberge/loadable-components) - The recommended Code Splitting library for React
