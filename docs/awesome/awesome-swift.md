@@ -11,7 +11,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | Awesome | Linux | Projects | Updated |
 |:-------:|:-----:|:--------:|:-------:|
-| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1090 | March 14, 2026 |
+| [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) | :penguin: | 1098 | March 28, 2026 |
 
 In parternship with:
 
@@ -54,10 +54,10 @@ In parternship with:
 * [Developing iOS Apps with Swift](https://podcasts.apple.com/us/podcast/developing-ios-11-apps-with-swift/id1315130780) - Stanford course by Paul Hegarty.
 * [Hacking With Swift](https://www.hackingwithswift.com) - Complete training course that teaches app development through 30 hands-on projects, for free.
 * [Ray Wenderlich Tutorials, Videos, Podcasts and books](https://www.kodeco.com) - High quality programming tutorials.
-* [Swift & SwiftUI Tutorials](https://janeshswift.com) - SwiftUI learning with Ease.
+* [Swift & SwiftUI Tutorials](http://ww1.janeshswift.com) - SwiftUI learning with Ease.
 * [Swift Education](https://github.com/swifteducation) - A community of educators sharing materials for teaching Swift and app development.
 * [swift-tips](https://github.com/vincent-pradeilles/swift-tips) - A series of useful tips by Vincent Pradeilles.
-* [SwiftDoc](https://swiftdoc.org/) - Auto-generated documentation.
+* [SwiftDoc](https://sosumi.ai/) - Auto-generated documentation.
 * [SwiftGuide CN](https://github.com/ipader/SwiftGuide) - A Chinese written guide.
 * [SwiftTips](https://github.com/JohnSundell/SwiftTips) - A collection of useful tips by John Sundell.
 
@@ -120,7 +120,7 @@ In parternship with:
 ## Patterns
 
 * [App Architecture](https://github.com/objcio/app-architecture) - A sample Code of the App Architecture Book.
-* [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) - Example of Clean Architecture of iOS app using RxSwift.
+* [CleanArchitectureRxSwift](https://github.com/sergdort/ModernCleanArchitectureSwiftUI) - Example of Clean Architecture of iOS app using RxSwift.
 * [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - Design Patterns.
 * [GoodReactor](https://github.com/GoodRequest/GoodReactor) - ⚛️ GoodReactor is a Redux-inspired Reactor framework for communication between the View Model, View Controller, and Coordinator.
 * [Reactant](https://github.com/Brightify/Reactant) - Reactant is a reactive architecture for iOS.
@@ -167,6 +167,8 @@ In parternship with:
 
 * [CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
 * [DL4S](https://github.com/palle-k/DL4S) - Automatic differentiation, fast tensor operations and dynamic neural networks from CNNs and RNNs to transformers.
+* [Espresso](https://github.com/christopherkarani/Espresso) - Compile transformers directly for Apple's Neural Engine.
+* [Fazm](https://github.com/m13v/fazm) - A voice-controlled AI agent for macOS using accessibility APIs and ScreenCaptureKit.
 * [OpenAI](https://github.com/MacPaw/OpenAI) - Swift package for OpenAI public API.
 
 ### Algorithm
@@ -222,6 +224,7 @@ In parternship with:
 * [PXGoogleDirections](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
 * [RandomUserSwift](https://github.com/dingwilson/RandomUserSwift) - Framework to Generate Random Users - An Unofficial SDK for randomuser.me.
 * [reddift](https://github.com/sonsongithub/reddift) - reddit API wrapper.
+* [SwiftDisc](https://github.com/M1tsumi/SwiftDisc) - Discord API library for bots and integrations.
 * [Swifter Twitter](https://github.com/mattdonnelly/Swifter) - Twitter framework.
 * [Swiftkube](https://github.com/swiftkube/client) :penguin: - Swift client for Kubernetes.
 * [SwiftlySalesforce](https://github.com/mike4aday/SwiftlySalesforce) - Framework for rapid development of native iOS apps that integrate with Salesforce.
@@ -302,6 +305,7 @@ In parternship with:
 * [Carlos](https://github.com/spring-media/Carlos) - A simple but flexible cache.
 * [EVURLCache](https://github.com/evermeer/EVURLCache) - If you want to make your app still works when it's offline.
 * [MemoryCache](https://github.com/yysskk/MemoryCache) - Type-safe memory cache.
+* [Monstra](https://github.com/yangchenlarkin/Monstra) - Memory cache framework with TTL, priority-based eviction, and avalanche protection.
 
 ### Chart
 [back to top](#readme) 
@@ -323,7 +327,7 @@ In parternship with:
 * [InputBarAccessoryView](https://github.com/nathantannar4/InputBarAccessoryView) - A simple and easily customizable InputAccessoryView for making powerful input bars with autocomplete and attachments.
 * [MessageKit](https://github.com/MessageKit/MessageKit) - A community-driven replacement for JSQMessagesViewController.
 * [MessengerKit](https://github.com/steve228uk/MessengerKit) - A UI framework for building messenger interfaces.
-* [Real-time Chat with Firebase](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
+* [Real-time Chat with Firebase](https://github.com/dopebase/messenger-iOS-chat-swift-firestore) - Functional real-time chat app with Firebase Firestore using MessageKit.
 
 ### Colors
 *Interesting snippets related to color management and utility.* [back to top](#readme) 
@@ -347,6 +351,7 @@ In parternship with:
 * [Commander](https://github.com/kylef/Commander) :penguin: - Compose beautiful command line interfaces.
 * [Guaka](https://github.com/nsomar/Guaka) :penguin: - The smart and beautiful (POSIX compliant) command line framework.
 * [LineNoise](https://github.com/andybest/linenoise-swift) :penguin: - A zero-dependency replacement for readline.
+* [Mocker](https://github.com/us/mocker) - Docker-compatible container CLI for macOS, built on Apple's Containerization framework.
 * [nef](https://github.com/bow-swift/nef) - A set of command line tools that lets you have compile time verification of your documentation written as Xcode Playground.
 * [Progress.swift](https://github.com/jkandzi/Progress.swift) :penguin: - Add beautiful progress bars to your command line.
 * [Swift Argument Parser](https://github.com/apple/swift-argument-parser) - Straightforward, type-safe argument parsing for Swift.
@@ -757,7 +762,7 @@ In parternship with:
 * [SwiftDraw](https://github.com/swhitty/SwiftDraw) - Library that converts SVG images to UIImage, NSImage and generates CoreGraphics source code.
 * [SwiftGen-Assets](https://github.com/SwiftGen/SwiftGen#assets-catalogs) - A tool to auto-generate `enums` for all your `UIImages` from your Assets Catalogs.
 * [SwiftSVG](https://github.com/mchoe/SwiftSVG) - A single pass SVG parser with multiple interface options (String, NS/UIBezierPath, CAShapeLayer, and NS/UIView).
-* [SwiftWebImage](https://github.com/geekaurora/SwiftWebImage) - 🚀SwiftUI Image downloader with performant LRU mem/disk cache.
+* [SwiftWebImage](https://github.com/HotWordland/SwiftWebImage) - 🚀SwiftUI Image downloader with performant LRU mem/disk cache.
 * [SwiftyGif](https://github.com/alexiscreuzot/SwiftyGif) - High performance GIF engine.
 * [TinyCrayon](https://github.com/TinyCrayon/TinyCrayon-iOS-SDK) - A smart and easy-to-use image masking and cutout SDK for mobile apps.
 * [Toucan](https://github.com/gavinbunney/Toucan) - Image processing api.
@@ -1012,6 +1017,7 @@ In parternship with:
 [back to top](#readme) 
 
 * [SecurePropertyStorage](https://github.com/alexruperez/SecurePropertyStorage) - Helps you define secure storages for your properties using Swift property wrappers.
+* [TouchBridge](https://github.com/HMAKT99/UnTouchID) - Use your phone's fingerprint to authenticate on any Mac.
 
 #### Cryptography
 *Deal with cryptography method easily* [back to top](#readme) 
@@ -1041,7 +1047,7 @@ In parternship with:
 ### Streaming
 [back to top](#readme) 
 
-* [HaishinKit](https://github.com/shogo4405/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
+* [HaishinKit](https://github.com/HaishinKit/HaishinKit.swift) - Camera and Microphone streaming library via RTMP, HLS for iOS, macOS, tvOS.
 * [Live](https://github.com/ltebean/Live) - Demonstrate how to build a live broadcast app.
 
 ### Styling
@@ -1102,6 +1108,7 @@ In parternship with:
 * [Croc](https://github.com/JKalash/Croc) - A lightweight Emoji parsing and querying library.
 * [edhita](https://github.com/tnantoka/edhita) - Fully open source text editor for iOS.
 * [GMarkdown](https://github.com/GIKICoder/GMarkdown) - Markdown rendering library for iOS with support for tables, LaTeX, Mermaid, and code highlighting.
+* [MarkdownDisplayView](https://github.com/zjc19891106/MarkdownDisplayView) - A Markdown rendering component built on TextKit 2, providing smooth performance, rich customization options, and support for streaming AI-driven conversational interactions.
 * [MarkdownKit](https://github.com/bmoliveira/MarkdownKit) - A simple and customizable Markdown Parser.
 * [MarkdownView](https://github.com/keitaoouchi/MarkdownView) - iOS Markdown view.
 * [MarkyMark](https://github.com/M2Mobi/Marky-Mark) - Converts Markdown into native views or attributed strings.
@@ -1121,7 +1128,7 @@ In parternship with:
 * [Tagging](https://github.com/k-lpmg/Tagging) - A TextView that provides easy to use tagging feature for Mention or Hashtag.
 * [Texstyle](https://github.com/rosberry/texstyle) - Texstyle allows you to format attributed strings easily.
 * [TextAttributes](https://github.com/delba/TextAttributes) - An easier way to compose attributed strings.
-* [TextBuilder](https://github.com/davdroman/TextBuilder) - Like a SwiftUI ViewBuilder, but for Text.
+* [TextBuilder](https://github.com/davdroman/swiftui-text-builder) - Like a SwiftUI ViewBuilder, but for Text.
 * [TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) - A standalone, flexible API that provides a full featured rich text editor for iOS applications.
 * [VEditorKit](https://github.com/GeekTree0101/VEditorKit) - Lightweight and Powerful Editor Kit.
 
@@ -1197,6 +1204,7 @@ In parternship with:
 * [MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView) - Apple TV Parallax effect.
 * [MultiSelectSegmentedControl](https://github.com/yonat/MultiSelectSegmentedControl) - UISegmentedControl remake that supports selecting multiple segments, vertical stacking, combining text and images.
 * [MultiSlider](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, range highlight, optional snap intervals, optional value labels, either vertical or horizontal.
+* [MuscleMap](https://github.com/melihcolpan/MuscleMap) - Render interactive human body muscle maps with SwiftUI and UIKit.
 * [MXParallaxHeader](https://github.com/maxep/MXParallaxHeader) - Simple parallax header for UIScrollView.
 * [MZFormSheetPresentationController](https://github.com/m1entus/MZFormSheetPresentationController) - Provides an alternative to the native iOS UIModalPresentationFormSheet, adding support for iPhone and additional opportunities to setup controller size and feel form sheet.
 * [NeumorphismKit](https://github.com/y-okudera/NeumorphismKit) - Neumorphism framework for UIKit.

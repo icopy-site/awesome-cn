@@ -39,6 +39,9 @@ This is a shortcut path to start studying **Data Science**. Just follow the step
 
 
 
+ - [TabGAN](https://github.com/Diyago/Tabular-data-generation) - Synthetic tabular data generation using GANs, Diffusion Models, and LLMs with adversarial filtering and privacy metrics.
+- [AI Weekly](https://aiweekly.co) - Curated AI intelligence briefing from industry leaders covering models, funding, policy, and applications. 3x/week since 2017, 40K+ subscribers.
+
 ## What is Data Science?
 **[`^        back to top        ^`](#awesome-data-science)**
 
