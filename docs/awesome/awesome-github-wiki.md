@@ -14,7 +14,7 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 - [guard/guard](https://github.com/guard/guard/wiki/Guard-2.10.3-exits-when-Guardfile-is-changed)
 - [apple/foundationdb](https://github.com/apple/foundationdb/wiki)
 - [google/guava](https://github.com/google/guava/wiki)
-- [hyperledger/cacti](https://github.com/hyperledger/cacti/wiki)
+- [hyperledger-cacti/cacti](https://github.com/hyperledger-cacti/cacti/wiki)
 - [facebook/react-native](https://github.com/facebook/react-native/wiki)
 - [uber/NullAway](https://github.com/uber/NullAway/wiki)
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary/wiki)
