@@ -111,6 +111,7 @@
 - [Pretch](https://github.com/EGAMAGZ/pretch) - A lightweight and flexible fetch enhancement library that works with vanilla JavaScript, React, and Preact
 - [Formisch](https://formisch.dev/preact/guides/introduction/) - A form library for Preact with focus on performance, type safety and bundle size.
 - [zikofy](https://github.com/zakarialaoui10/zikofy) - Turns Preact components into Zikojs `UIElement`.
+- [Preact In Motion](https://github.com/alloc/preact-in-motion) - Light, elegant animation plugin for Preact (powered by Motion.dev and WAAPI).
 
 ### Testing Utils
 - [Preact JSX Chai](https://github.com/developit/preact-jsx-chai) - JSX assertion testing _(no DOM, right in Node)_.

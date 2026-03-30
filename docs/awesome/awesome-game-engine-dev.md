@@ -420,7 +420,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Crazy Eddie's GUI](https://github.com/cegui/cegui) - Versatile, multi-platform gui library.
     - 🎉 [Dear ImGui](https://github.com/ocornut/imgui) 🔥 - Bloat-free immediate mode gui library. Ported to many other languages.
     - 🔒 [FLTK](https://github.com/fltk/fltk) - Fast Light Toolkit, cross-platform gui. [[Website](https://www.fltk.org/)]
-    - 🔒 [GTK](https://gitlab.gnome.org/GNOME/gtk/) - GIMP Toolkit, a multi-platform toolkit for creating guis.
+    - 🔒 [GTK](https://github.com/gnome/gtk) - GIMP Toolkit, a multi-platform toolkit for creating guis.
     - 🎉 [GuiLite](https://github.com/idea4good/GuiLite) - Header-only, cross-platform gui library.
     - 📚 [List of C++ UI Libraries](https://philippegroarke.com/posts/2018/c++_ui_solutions/) - List of C++ gui libraries, with pictures and descriptions.
     - 🎉 [Litehtml](https://github.com/litehtml/litehtml) - Lightweight HTML / CSS rendering engine.
@@ -439,7 +439,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Yoga](https://github.com/facebook/yoga) - Cross-platform [flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) layout engine by _Facebook_. [[Website](https://yogalayout.com/)]
 - C++: Libraries
     - 🎉 [Boost Libraries](https://github.com/boostorg) - Wide range of C++ libraries, many end up as part of the STL. [[Website](https://www.boost.org)]
-    - 🎉 [cyCodeBase](https://github.com/cemyuksel/cyCodeBase) - Compact foundation library with math, geometry, image, graphics utilities.
+    - 🎉 [cyCodeBase](https://github.com/cemyuksel/cyCodeBase) - Compact foundation library with math, geometry, image & graphics utilities.
     - 📚 [Gamedev Libraries](https://github.com/raizam/gamedev_libraries) - Collection of open source C/C++ libraries for game development.
     - 📚 [Inqlude](https://inqlude.org) - List of libraries for developers of _Qt_-based apps.
     - 📚 [List of Open Source C++ Libraries](https://en.cppreference.com/w/cpp/links/libs) - Comprehensive list of open source C++ libraries.
@@ -744,7 +744,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [GDevelop](https://github.com/4ian/GDevelop) - Full-featured 2D game development. [[Website](https://gdevelop.io/)]
     - 🎉 [Impact](https://github.com/phoboslab/impact) - Game engine for desktop and mobile browsers. [[2D Level Editor](https://impactjs.com/documentation/weltmeister)]
     - 🎉 [Isogenic](https://github.com/irrelon/ige) - Engine with advanced multiplayer, based on _Valve_'s multiplayer system.
-    - 🎉 [melonJS](https://github.com/melonjs/melonJS) - Modern 2D game engine, level editing with [Tiled](https://doc.mapeditor.org/en/stable/). [[Examples](https://melonjs.github.io/examples/) | [Website](https://melonjs.org)]
+    - 🎉 [melonJS](https://github.com/melonjs/melonJS) - Modern 2D game engine, level editing with [Tiled](https://doc.mapeditor.org/en/stable/). [[Website](https://melonjs.org)]
     - 🎉 [microStudio](https://github.com/pmgl/microstudio/) - Online game engine. Learn and practice programming.
     - 🎉 [Pixelbox.js](https://github.com/cstoquer/pixelbox) - Sandbox to fast-prototype 2D tile-based games. [[Download](https://pixwlk.itch.io/pixelbox)]
     - 🎉 [QICI Engine](https://github.com/qiciengine/qiciengine) - Toolset for making games.
@@ -1010,6 +1010,7 @@ _Successful open source video games to pick apart and gain knowledge._
 - 🔒 [Doom 3](https://github.com/id-Software/DOOM-3) - Doom 3 GPL source release.
 - 🔒 [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) - Classic roguelike adventure. [[Play](https://crawl.develz.org/)]
 - 🎉 [Etheral Legends](https://github.com/Soverance/EtherealLegends) - Indie Action RPG built with _Unreal Engine 4_. [[Steam](https://store.steampowered.com/app/428980/Ethereal_Legends/)]
+- 🔒 [GemRB](https://github.com/gemrb/gemrb) - Open-source implementation of _Bioware_'s Infinity Engine.
 - 🎉 [OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open source engine. [[Play](http://xproger.info/projects/OpenLara/)]
 - 🎉 [TeeWorlds](https://github.com/teeworlds/teeworlds) - Retro multiplayer shooter. [[Website](https://teeworlds.com/)]
 - 🔒 [zDoom](https://github.com/ZDoom/gzdoom) - Modern, feature centric port for all Doom engine games.
@@ -1201,6 +1202,7 @@ _Software to help with game engine / video game development._
 
 ### AI Assistants
 - 💸 [Coplay](https://www.coplay.dev?ref=github&utm_source=stevinz_awesome_game_engine_dev) - Multi-agent AI Assistant for all aspects of Unity game developement.
+- 💸 [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
 - 💸 [Unity Muse](https://unity.com/products/muse) - Unity's suite of AI products.
 
 ### Animation Software
@@ -1217,6 +1219,7 @@ _Software to help with game engine / video game development._
     - 🆓 [Cakewalk](https://www.bandlab.com/products/cakewalk) - Complete music production package.
     - 🆓 [FamiStudio](https://famistudio.org) - Music editor targeted at chiptune artists and NES homebrewers. [[Source](https://github.com/BleuBleu/FamiStudio)]
     - 💸 [fmod](https://www.fmod.com) - Popular (_Hades_, _Celeste_, _Untitled Goose Game_) audio software for games.
+    - 💸 [KiraStudio](https://kirastudio.org/) - Lightweight, cross-platform music studio built for clarity, automation, and sound creation.
     - 🆓 [LMMS](https://lmms.io) 🔥 - Cross-platform music production software. [[Source](https://github.com/lmms/lmms)]
     - 🆓 [Sound Box](https://gitlab.com/mbitsnbites/soundbox) - Compose synthetic music in your browser, good for small demos.
     - 🆓 [ZzFXM](https://keithclark.github.io/ZzFXM/tracker/) - Music generator for use in tiny JavaScript apps. [[Source](https://github.com/keithclark/ZzFXM)]

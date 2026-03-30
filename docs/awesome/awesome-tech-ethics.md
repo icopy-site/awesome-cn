@@ -23,6 +23,7 @@ Reducing the potential negative effects of technology on society.
 ## Media
 
 - [Tech Won't Save Us podcast](https://www.techwontsave.us) - Tech Won't Save Us challenges the notion that tech alone can drive our world forward by showing that tech is inherently political and ignoring that has serious consequences. It encourages listeners to think about how we can move beyond oppressive tech and towards tech for genuine public good.
+- [Revolution.Social podcast](https://revolution.social) - A podcast about the future of social media built on permissionless open protocols, hosted by Twitter's first employee, Rabble a.k.a. Evan Henshaw-Plath. Hear what's possible when social platforms and content are no longer owned by corporations.
 - [Ethics and Data Science report](https://www.oreilly.com/library/view/ethics-and-data/9781492043898/), Mike Loukides, Hilary Mason, and DJ Patil - Practical ways for making ethical data standards part of your work every day. Available to [read online for free](https://resources.oreilly.com/examples/0636920203964/).
 - [Machine Ethics Podcast](https://www.machine-ethics.net) - Conversations on AI Ethics: Interrogating technology, artificial intelligence and society.
 

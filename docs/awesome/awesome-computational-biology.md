@@ -69,6 +69,9 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [CATH database](https://www.cathdb.info/) — Hierarchical classification of protein domain structures.
 - [SAbDab](https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab) — Structural Antibody Database containing all antibody structures in the PDB.
 - [OADB (Observed Antibody Space Database)](http://opig.stats.ox.ac.uk/webapps/oas/) — Database of antibody sequences from immune repertoire sequencing.
+- [InterPro](https://www.ebi.ac.uk/interpro/) — Protein families, domains, and functional sites database integrating 14 member databases including Pfam and PROSITE.
+- [Pfam](https://www.ebi.ac.uk/interpro/entry/pfam/) — Database of protein families described by multiple sequence alignments and hidden Markov models.
+- [NeXtProt](https://www.nextprot.org/) — Expert knowledge base on human proteins with deep functional annotation, complementary to UniProt.
 
 ### Genome
 
@@ -86,6 +89,8 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [JASPAR](http://jaspar.genereg.net/) — Database of transcription factor binding profiles.
 - [gnomAD](https://gnomad.broadinstitute.org/) — Genome Aggregation Database; genetic variation from large-scale sequencing projects.
 - [Rfam](https://rfam.org/) — Database of RNA families with sequence alignments and consensus structures.
+- [ROADMAP Epigenomics](http://www.roadmapepigenomics.org/) — Reference epigenome maps for 111 primary human cell types and tissues, including histone modifications, chromatin accessibility, and DNA methylation.
+- [FANTOM5](https://fantom.gsc.riken.jp/5/) — Functional annotation of mammalian genome; comprehensive atlas of active enhancers, promoters, and transcription start sites across human and mouse cell types.
 
 ### Disease
 
@@ -93,6 +98,9 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [DrugBank](https://go.drugbank.com/) — Database of drugs and targets (University of Alberta).
 - [DisGeNET](https://www.disgenet.org/) — Database of gene-disease associations integrating expert-curated and GWAS data.
 - [OMIM (Online Mendelian Inheritance in Man)](https://www.omim.org/) — Comprehensive database of human genes and genetic disorders.
+- [Open Targets Platform](https://platform.opentargets.org/) — Systematic target identification and prioritization platform integrating genetics, genomics, and drug data for drug discovery.
+- [Human Phenotype Ontology (HPO)](https://hpo.jax.org/) — Standardized vocabulary of phenotypic abnormalities in human disease, linking genes, variants, and clinical features.
+- [DISEASES](https://diseases.jensenlab.org/) — Gene–disease association database integrating evidence from text mining, curated databases, and experimental data.
 
 ### Interaction
 
@@ -128,6 +136,12 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [DRKG](https://github.com/gnn4dr/DRKG) — Large-scale biological knowledge graph for drug discovery.
 - [Hetionet](https://github.com/hetio/hetionet) — Heterogeneous network integrating genes, diseases, drugs, pathways, and more.
 - [PrimeKG](https://github.com/mims-harvard/PrimeKG) — Multi-modal precision medicine knowledge graph integrating clinical, genetic, and drug data.
+
+#### Gene Regulatory Network
+
+- [TRRUST](https://www.grnpedia.org/trrust/) — Manually curated database of human and mouse transcriptional regulatory interactions between transcription factors and their target genes.
+- [RegNetwork](http://www.regnetworkweb.org/) — Database of gene regulatory networks covering transcription factor–target gene and miRNA–gene interaction data across multiple species.
+- [miRBase](https://www.mirbase.org/) — Reference repository for microRNA gene annotations, sequences, and experimentally validated targets.
 
 ### Clinical Trial
 
@@ -203,6 +217,13 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [MDAnalysis](https://www.mdanalysis.org/) — Python library for analyzing and altering molecular dynamics simulation trajectories.
 - [OpenMM](https://openmm.org/) — High-performance toolkit for molecular simulation and GPU-accelerated MD.
 - [scVelo](https://github.com/theislab/scvelo) — RNA velocity estimation for single-cell transcriptomics, inferring the direction and speed of cell differentiation.
+- [STAR](https://github.com/alexdobin/STAR) — Ultrafast universal RNA-seq aligner with support for spliced alignment and single-cell quantification via STARsolo.
+- [kallisto](https://pachterlab.github.io/kallisto/) — Near-optimal RNA-seq quantification using pseudoalignment for fast transcript abundance estimation.
+- [Harmony](https://github.com/immunogenomics/harmony) — Fast and scalable integration of single-cell data across datasets, conditions, technologies, and species.
+- [Monocle3](https://cole-trapnell-lab.github.io/monocle3/) — Single-cell trajectory analysis tool for learning developmental trajectories and ordering cells in pseudotime.
+- [CellChat](https://github.com/sqjin/CellChat) — Inference and analysis of cell-cell communication ligand-receptor networks from single-cell transcriptomics data.
+- [SCENIC](https://github.com/aertslab/SCENIC) — Single-cell regulatory network inference and clustering linking transcription factors to co-expressed gene modules.
+- [DoubletFinder](https://github.com/chris-mcginnis-ucsf/DoubletFinder) — Machine learning approach for detecting multiplet (doublet) artifacts in single-cell RNA-seq data.
 
 ---
 
@@ -218,6 +239,8 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [DGDRP](https://github.com/minwoopak/heteronet) — Multi-view embedding neural network.
 - [DeepAEG](https://github.com/zhejiangzhuque/DeepAEG) — GNN embedding + attention mechanism.
 - [RECOVER](https://github.com/RECOVERcoalition/Recover) — Machine learning framework for predicting synergistic drug combination responses across cell lines.
+- [TGSA](https://github.com/violet-sto/TGSA) — Tumor gene set and attention-based model leveraging biological pathway knowledge for drug response prediction.
+- [HiDRA](https://github.com/bsml320/HiDRA) — Hierarchical network model incorporating gene and pathway-level information for cancer drug response prediction.
 
 #### Drug Repurposing
 
@@ -244,6 +267,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [Molecular Transformer](https://github.com/pschwllr/MolecularTransformer) — Sequence-to-sequence model for retrosynthesis prediction.
 - [TargetDiff](https://github.com/guanjq/targetdiff) — 3D equivariant diffusion model for structure-based drug design.
 - [DiffDock](https://github.com/gcorso/DiffDock) — Diffusion generative model for molecular docking, predicting the binding pose of small molecules to protein targets.
+- [JTVAE](https://github.com/wengong-jin/icml18-jtnn) — Junction tree variational autoencoder for molecular graph generation that guarantees chemical validity via a hierarchical tree decomposition.
 
 ### LLM for Biology
 
@@ -254,6 +278,8 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [scPRINT](https://github.com/cantinilab/scPRINT) — Pretrained on 50M cells for scRNA-seq denoising & zero imputation.
 - [ClawBio](https://github.com/ClawBio/ClawBio) — Bioinformatics-native AI agent skill library with local-first pharmacogenomics, ancestry PCA, semantic similarity, nutrigenomics, and metagenomics skills.
 - [BioMedLM](https://huggingface.co/stanford-crfm/BioMedLM) — 2.7B parameter GPT-2-style language model trained exclusively on biomedical literature from PubMed for biomedical question answering and text generation.
+- [MolT5](https://github.com/blender-nlp/MolT5) — Language model for molecular tasks bridging text and SMILES, enabling molecule captioning and text-driven molecule generation.
+- [ChatDrug](https://github.com/chao1224/ChatDrug) — LLM-based conversational pipeline for drug discovery, using natural language prompts for iterative drug editing and optimization.
 
 ### Foundation Models
 
@@ -303,6 +329,9 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 
 - [Evolutionary Scale Modeling (ESM)](https://github.com/facebookresearch/esm) — Protein embeddings.
 - [ChemBERTa-2](https://github.com/seyonechithrananda/bert-loves-chemistry) — Chemical embeddings & prediction.
+- [ProtTrans](https://github.com/agemagician/ProtTrans) — Suite of protein language models (ProtBERT, ProtT5, ProtXLNet) trained on billions of protein sequences from UniRef and BFD.
+- [ProGen2](https://github.com/salesforce/progen) — Protein language model trained on diverse protein families for sequence generation and fitness prediction.
+- [Ankh](https://github.com/agemagician/Ankh) — Efficient protein language model optimized for downstream prediction tasks including secondary structure, localization, and function annotation.
 
 ##### Protein Structure Prediction and Design
 
@@ -335,5 +364,8 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [Evo](https://github.com/evo-design/evo) — Long-context genomic foundation model (up to 1M tokens).
 - [HyenaDNA](https://github.com/HazyResearch/hyena-dna) — Long-range genomic foundation model handling sequences up to 1M tokens with sub-quadratic attention.
 - [Borzoi](https://github.com/calico/borzoi) — Extended successor to Enformer for predicting RNA-seq coverage from long genomic sequence windows (524 kb) with improved resolution.
+- [DeepSEA](http://deepsea.princeton.edu/) — Deep learning framework for predicting chromatin effects of sequence alterations with single-nucleotide sensitivity across thousands of chromatin features.
+- [Sei](https://github.com/FunctionLab/sei-framework) — Sequence-to-function framework learning a genome-wide regulatory activity code from DNA sequences for variant effect prediction.
+- [GPN (Genomic Pre-trained Network)](https://github.com/songlab-cal/gpn) — Masked language model for DNA sequences enabling zero-shot variant effect prediction without requiring functional annotations.
 
 ---

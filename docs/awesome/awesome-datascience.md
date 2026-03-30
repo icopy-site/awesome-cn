@@ -833,6 +833,7 @@ This section includes some additional reading material, channels to watch, and t
 - [AI Today](https://www.cognilytica.com/aitoday/)
 - [Adversarial Learning](https://adversariallearning.com/)
 - [Chai time Data Science](https://www.youtube.com/playlist?list=PLLvvXm0q8zUbiNdoIazGzlENMXvZ9bd3x)
+- [Chain of Thought](https://www.chainofthought.show/)
 - [Data Engineering Podcast](https://www.dataengineeringpodcast.com/)
 - [Data Science at Home](https://datascienceathome.com/)
 - [Data Science Mixer](https://community.alteryx.com/t5/Data-Science-Mixer/bg-p/mixer)
