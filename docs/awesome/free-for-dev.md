@@ -256,6 +256,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [PDFBolt](https://pdfbolt.com) - Developer-focused PDF generation API designed with privacy in mind. It offers Stripe-inspired documentation and includes 500 free PDF conversions per month.
   * [pdfEndpoint.com](https://pdfendpoint.com) - Effortlessly convert HTML or URLs to PDF with a simple API. One hundred conversions per month for free.
   * [Pixela](https://pixe.la/) - Free daystream database service. All operations are performed by API. Visualization with heat maps and line graphs is also possible.
+  * [Posthook](https://posthook.io) - Schedule webhooks to fire at a future time with automatic retries, delivery tracking, and failure alerting. Free plan includes 1,000 webhooks per month.
   * [Postman](https://postman.com) - Simplify workflows and create better APIs - faster - with Postman, a collaboration platform for API development. Use the Postman App for free forever. Postman cloud features are also free forever with certain limits.
   * [PrefectCloud](https://www.prefect.io/cloud/) - A complete platform for dataflow automation. Free plan includes 5 deployed workflows and 500 minutes of serverless compute credits per month.
   * [Preset Cloud](https://preset.io/) - A hosted Apache Superset service. Forever free for teams of up to 5 users, featuring unlimited dashboards and charts, a no-code chart builder, and a collaborative SQL editor.
@@ -643,6 +644,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Free PO editor](https://pofile.net/free-po-editor) - Free for everybody
   * [Lingo.dev](https://lingo.dev) - Open-source AI-powered CLI for web & mobile localization. Bring your own LLM, or use 10,000 free words every month via Lingo.dev-managed localization engine.
   * [lingohub.com](https://lingohub.com/) - Free up to 3 users, always free for Open Source
+  * [Localhero.ai](https://localhero.ai) - Automatic on-brand translations on every pull request, with glossary and translation memory. Free for 1 project, 250 translation credits/month (~4,000 words).
   * [localazy.com](https://localazy.com) - Free for 1000 source language strings, unlimited languages, unlimited contributors, startup and open source deals
   * [Localit](https://localit.io) - Fast, developer-friendly localization platform with seamless and free GitHub/GitLab integration, AI-assisted and manual translations, and a generous free plan (includes 2 users, 500 keys, and unlimited projects).
   * [localizely.com](https://localizely.com/) - Free for Open Source

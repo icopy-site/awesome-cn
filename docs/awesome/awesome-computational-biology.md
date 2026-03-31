@@ -33,6 +33,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [ChEBI](https://www.ebi.ac.uk/chebi/) — Database focused on small chemical compounds.
 - [ChEMBL](https://www.ebi.ac.uk/chembl/) — Bioactive molecules with drug-like properties.
 - [ChemSpider](http://www.chemspider.com/) — Chemical structure database.
+- [DrugTargetCommons](https://drugtargetcommons.fimm.fi/) — Community platform for curating and integrating experimental bioactivity data across drugs and targets.
 - [HMDB (Human Metabolome Database)](https://hmdb.ca/) — Comprehensive database of small molecule metabolites found in the human body.
 - [KEGG COMPOUND](https://www.genome.jp/kegg/compound/) — Collection of small molecules and biopolymers.
 - [LIPID MAPS](https://www.lipidmaps.org/databases/lmsd/overview) — Database of lipids.
@@ -66,6 +67,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [RCSB Protein Data Bank](https://www.rcsb.org/) — Repository for structural data of biological molecules.
 - [Critical Assessment of Structure Prediction (CASP)](https://predictioncenter.org/) — Assessing methods for protein structure prediction.
 - [Uniclust](https://uniclust.mmseqs.com/) — Clustered protein sequence databases.
+- [UniRef](https://www.uniprot.org/uniref/) — Non-redundant sequence database clustering UniProtKB entries at multiple sequence identity thresholds.
 - [CATH database](https://www.cathdb.info/) — Hierarchical classification of protein domain structures.
 - [SAbDab](https://opig.stats.ox.ac.uk/webapps/sabdab-sabpred/sabdab) — Structural Antibody Database containing all antibody structures in the PDB.
 - [OADB (Observed Antibody Space Database)](http://opig.stats.ox.ac.uk/webapps/oas/) — Database of antibody sequences from immune repertoire sequencing.
@@ -121,6 +123,8 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 
 - [STITCH](http://stitch.embl.de/) — Chemical-protein interactions.
 - [BindingDB](https://www.bindingdb.org/rwd/bind/index.jsp) — Compounds and target database.
+- [Davis kinase inhibitors DB](http://staff.cs.utu.fi/~aijrinas/dti/) — Experimental kinase inhibitor binding affinity dataset for protein–ligand interaction research.
+- [Kinase Inhibitor Bioactivity Data (KIBA)](https://janeliascicomp.github.io/KIBA/) — Integrated bioactivity scores for kinase inhibitors combining Ki, Kd, and IC50 measurements.
 - [PDBBind](https://www.pdbbind-plus.org.cn/) — Binding affinity data for biomolecular complexes.
 
 #### Protein-Protein Interaction
@@ -172,6 +176,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [OGB (Open Graph Benchmark)](https://ogb.stanford.edu/) — Large-scale graph ML benchmark suite including biological datasets such as ogbl-ppa (protein-protein associations) and ogbg-molhiv.
 - [OpenBioLink](https://github.com/OpenBioLink/OpenBioLink) — Benchmark datasets for biological knowledge graph completion.
 - [PharmGKB](https://www.pharmgkb.org/) — Curated pharmacogenomics dataset linking genetic variants to drug response phenotypes across thousands of drugs.
+- [PK-DB](https://pk-db.com/) — Open database of experimental pharmacokinetics (PK) and ADME data from clinical and preclinical studies.
 - [PRISM](https://depmap.org/portal/prism/) — Cancer drug sensitivity profiling of >4,500 drugs across >900 cancer cell lines using pooled-cell-line barcoding.
 - [ProteinGym](https://github.com/OATML-Markslab/ProteinGym) — Large-scale benchmark of deep mutational scanning assays for evaluating protein fitness landscape models.
 - [QM9](https://figshare.com/collections/Quantum_chemistry_structures_and_properties_of_134_kilo_molecules/978904) — Quantum chemistry properties for 134K stable small organic molecules computed at DFT level.

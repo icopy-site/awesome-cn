@@ -436,6 +436,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [vijaymarupudi/nvim-fzf](https://github.com/vijaymarupudi/nvim-fzf) - A Lua API for using FZF. Allows for full asynchronicity for UI speed and usability.
 - [camspiers/snap](https://github.com/camspiers/snap) - An extensible fuzzy finder. Similar to Telescope, and optimized for performance, especially when grepping in large codebases.
 - [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) - The Lua version of `fzf.vim`, high-performance and fully async, supports `nvim-web-devicons`, Git indicators, LSP, quickfix/location lists and more. Also supports [`skim`](https://github.com/lotabout/skim) as its fzf binary.
+- [willyelm/pulse.nvim](https://github.com/willyelm/pulse.nvim) - A single entrypoint for commands. Use prefixes to quickly access diagnostics, Git and more via pickers.
 - [jvgrootveld/telescope-zoxide](https://github.com/jvgrootveld/telescope-zoxide) - Telescope integration for [zoxide](https://github.com/ajeetdsouza/zoxide), a smart directory picker that tracks your usage.
 - [nvim-mini/mini.nvim#mini.fuzzy](https://github.com/nvim-mini/mini.nvim/blob/main/readmes/mini-fuzzy.md) - Module of `mini.nvim` with functions to perform fuzzy matching of one string to others along with fast Telescope sorter.
 - [axkirillov/easypick.nvim](https://github.com/axkirillov/easypick.nvim) - Easypick lets you easily create Telescope pickers from arbitrary console commands.
@@ -699,6 +700,7 @@ then it is not supported:
 - [dybdeskarphet/gruvbox-minimal.nvim](https://github.com/dybdeskarphet/gruvbox-minimal.nvim) - **_`[TS][L/D][Lua]`_** A Gruvbox Material theme conceptually inspired by Alabaster.
 - [taigrr/cyberpunk.nvim](https://github.com/taigrr/cyberpunk.nvim) - **_`[TS][LSP][Lua]`_** Dark neon colorscheme with green, cyan, yellow, and red highlights on a black background.
 - [ankushbhagats/pastel.nvim](https://github.com/ankushbhagats/pastel.nvim) - **_`[TS][LSP][L/D][Lua]`_** Elegant pastel colorschemes with advanced customization, styles, and integrations.
+- [0x-ximon/acario.nvim](https://github.com/0x-ximon/acario.nvim) - **_`[TS][LSP][L/D][Lua]`_** A port of the clean, high-contrast Doom Emacs Acario theme.
 <!--lint disable double-link -->
 <!--lint enable double-link -->
 

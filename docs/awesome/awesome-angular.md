@@ -572,6 +572,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-html-bridge](https://github.com/nagashimam/ngx-html-bridge) - Converts Angular templates into static HTML variants, enabling reliable validation and linting with any standard HTML tool.
 * [ngx-locator](https://github.com/Ea-st-ring/ngx-locator) - Angular development utility to open components and templates from the browser like [LocatorJS](https://www.locatorjs.com/).
 * [oxc-angular-compiler](https://github.com/voidzero-dev/oxc-angular-compiler) - A high-performance Angular template compiler written in Rust, leveraging the [Oxc](https://github.com/oxc-project/oxc) infrastructure for blazing-fast compilation.
+* [ts-analyzer](https://github.com/amir-valizadeh/ts-analyzer) - A comprehensive TypeScript codebase analyzer that provides detailed metrics on type safety, code complexity, and quality.
 
 ### Debugging
 
@@ -776,6 +777,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [appwrite](https://github.com/appwrite/appwrite) - Integrate your [Angular app](https://appwrite.io/docs/quick-starts/angular) with [Appwrite](https://appwrite.io/) for auth, database, storage, functions, and more.
 * [auth0-angular](https://github.com/auth0/auth0-angular) - Auth0 SDK for Angular Single Page Applications.
 * [authon-sdk](https://github.com/mikusnuz/authon-sdk/tree/main/packages/angular) - Angular SDK for [Authon](https://authon.dev/) — service, guard, and interceptor.
+* [authress-angular](https://github.com/mikepattyn/authress-angular) - This package only contains a module for easy setup and registration of the [Authress](https://authress.io/) LoginClient.
 * [@badisi/ngx-auth](https://github.com/Badisi/auth-js/tree/main/libs/ngx-auth) - Authentication and authorization support for Angular based desktop and mobile applications.
 * [capacitor-biometric-authentication](https://github.com/aoneahsan/capacitor-biometric-authentication) - Framework‑agnostic biometric auth library with zero dependencies, provider‑less APIs, multi‑platform support, and optional Capacitor integration.
 * [corbado](https://www.corbado.com/#signup-init) - [Integrate](https://docs.corbado.com/corbado-complete/frontend-integration/angular) Corbado with Angular to use passkeys for authentication.
@@ -1461,6 +1463,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-pattern-lock](https://github.com/nicotole/ngx-pattern-lock) - A lightweight, fully responsive, and customizable Android-style pattern lock component for Angular.
 * [smt-select](https://github.com/sametacar/smt-select) - A high-performance, lightweight, and customizable Angular select component with built-in virtual scroll and search capabilities.
 * [ngx-mat-searchable-select](https://github.com/khalilElmouedene/ngx-mat-searchable-select) - A reusable Angular Material select component with infinite scroll, debounced search, "no items found" feedback, and static/mock data support.
+* [mat-password-meter](https://github.com/ngx-zen/mat-password-meter) - Three Angular Material password strength components with a signals-based API.
 
 ### JSON Forms
 
