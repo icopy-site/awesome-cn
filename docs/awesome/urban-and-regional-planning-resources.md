@@ -288,6 +288,7 @@ Python Libraries & Related Resources.
 - [Arcpy](https://pro.arcgis.com/en/pro-app/latest/arcpy/get-started/what-is-arcpy-.htm) - A Python site package that provides a useful and productive way to perform geographic data analysis, data conversion, data management, and map automation with Python.
 - [ArcGIS Python API](https://developers.arcgis.com/python/api-reference/) - The ArcGIS API for Python is a powerful, modern and easy to use Pythonic library to perform GIS visualization and analysis, spatial data management and GIS system administration tasks that can run both interactively, and using scripts. This library enables easy use of Pandas within the ArcGIS platform.
 - [Geopandas](https://geopandas.org/) - An open source project to make working with geospatial data in Python easier. GeoPandas extends the datatypes used by Pandas to allow spatial operations on geometric types.
+- [Folium](https://github.com/python-visualization/folium) - A light weight library that uses leaflet to visualize geospatial data quickly in an interactive map. 
 - [Partridge](https://partridge.readthedocs.io/en/stable/readme.html) - A Python 3.6+ library for working with GTFS feeds using Pandas DataFrames.
 - [Peartree](https://github.com/kuanb/peartree) - Helps explore GTFS data and their network characteristics.
 - [Pandana](https://udst.github.io/pandana/) - Urban network analysis library intended to help planners compute quick accessibility metrics or shortest paths. Additional Information: License: AGPL-3.0 License: Provider: UrbanSim Inc. (UDST).
@@ -312,6 +313,7 @@ Python Libraries & Related Resources.
 - [TerraVide](https://pypi.org/project/TerraVide/) - An open source Python package to process large urban environments mapped with LiDAR (Light Detection and Ranging) data. As of v0.1.6, focuses on tree extraction.
 - [Dash](https://dash.plotly.com/) - An open source Python library for building interactive data visualizations on the web. It enables you to build custom data dashboards using pure Python.
 - [Neatnet](https://github.com/uscuni/neatnet) - An open source library for simplifying the structure of street networks.
+- [Linref](https://github.com/tariqshihadah/linref) - A library that builds on tabular and geospatial libraries to implement powerful features for linearly referenced data through event collection objects. 
 
 
 

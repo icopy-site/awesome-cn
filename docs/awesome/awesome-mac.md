@@ -18,50 +18,12 @@
   <a href="https://ip.im/">IP.IM Free IP address information query website</a>
   <br><br>
 
-  <a href="https://www.warp.dev/awesome-mac">
-    <img alt="Warp sponsorship" width="400" src="https://jaywcjlove.github.io/sponsor/warp-banner.png">
-  </a>
-  <br>
-  <a href="https://warp.dev/awesome-mac"><b>Warp, the intelligent terminal for developers!</b></a><br>
-  <a href="https://warp.dev/awesome-mac">Available for MacOS, Linux, & Windows</a><br><br>
   
 </div>
 <hr>
 
-Awesome Mac
-===
-<!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;-->
-
-[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://jaywcjlove.github.io/#/sponsor)
-[![Follow On X](https://img.shields.io/badge/Follow%20on%20X-333333?logo=x&logoColor=white)](https://x.com/jaywcjlove)
-[![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
-[![NPM version](https://img.shields.io/npm/v/awesome-mac.svg?style=flat)](https://npmjs.org/package/awesome-mac)
-[![WeiBo](https://jaywcjlove.github.io/sb/ico/weibo.svg)](http://weibo.com/pc175)
-[![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/awesome-mac?logo=docker)](https://hub.docker.com/r/wcjiang/awesome-mac)
-[![Chinese List](https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
-[![Japanese List](https://jaywcjlove.github.io/sb/lang/japanese.svg)](https://github.com/jaywcjlove/awesome-mac/blob/master/./README-ja.md)
-[![Korean List](https://jaywcjlove.github.io/sb/lang/korean.svg)](https://github.com/jaywcjlove/awesome-mac/blob/master/./README-ko.md)
-<!--rehype:style=text-align: center;-->
-
-This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. As it continues to grow, the project has far exceeded our initial expectations and has become more comprehensive and refined.
-
-Feel free to **star** ⭐ and **fork** 🍴 to support the project!
-
-If you have any suggestions, ideas, or discover excellent software, feel free to submit a PR to help improve this list. Please read the [contributing guidelines](https://github.com/jaywcjlove/awesome-mac/blob/master/CONTRIBUTING.md) before contributing. We also welcome you to continue following this [awesome](https://github.com/sindresorhus/awesome) list to build a better macOS tool collection together.
-
-**Explanation**
-
-[中文](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md) | [한국어](https://github.com/jaywcjlove/awesome-mac/blob/master/README-ko.md) | [日本語](https://github.com/jaywcjlove/awesome-mac/blob/master/README-ja.md) | [RSS](https://github.com/jaywcjlove/awesome-mac/blob/master/./feed/feed.md) | [Awesome Command Line Apps](https://github.com/jaywcjlove/awesome-mac/blob/master/./command-line-apps.md) | [Awesome Swift macOS Apps](https://github.com/jaywcjlove/awesome-swift-macos-apps)
-
-![Open-Source Software][OSS Icon] means **open source**. click the icon to see the item's repository;\
-![Freeware][Freeware Icon] means **free** to use, or **free** personal license;\
-![App Store][app-store Icon] means **App store** hyperlink;\
-![Native App][Native Icon] means **native app**;\
-![Awesome List][awesome-list Icon] means hyperlink to a corresponding **Awesome list** for the item;
-
-✦ My macOS application:
-
 <p style="display: inline_block">
+<sup>Using <a href="https://wangchujiang.com/#/app" target="_blank">my app</a> is also a way to <a href="https://wangchujiang.com/#/sponsor" target="_blank">support</a> me:</sup><br/>
 <a target="_blank" href="https://apps.apple.com/app/6758053530" title="Scap: Screenshot & Markup Edit for macOS"><img alt="Scap: Screenshot & Markup Edit" height="52" width="52" src="https://wangchujiang.com/appicon/scap.png"></a>
 <a target="_blank" href="https://apps.apple.com/app/6757317079" title="Screen Test for macOS"><img alt="Screen Test" height="52" width="52" src="https://wangchujiang.com/appicon/screen-test.png"></a>
 <a target="_blank" href="https://apps.apple.com/app/Deskmark/6755948110" title="Deskmark for macOS"><img alt="Deskmark" height="52" width="52" src="https://wangchujiang.com/appicon/deskmark.png"></a>
@@ -95,6 +57,38 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 <a target="_blank" href="https://apps.apple.com/app/6472593276" title="Palette Genius for macOS"><img alt="Palette Genius" height="52" width="52" src="https://wangchujiang.com/appicon/palette-genius.png"></a>
 <a target="_blank" href="https://apps.apple.com/app/6470879005" title="Symbol Scribe for macOS"><img alt="Symbol Scribe" height="52" width="52" src="https://wangchujiang.com/appicon/symbol-scribe.png"></a>
 </p>
+<hr>
+
+Awesome Mac
+===
+<!--rehype:style=font-size: 38px; border-bottom: 0; display: flex; min-height: 260px; align-items: center; justify-content: center;-->
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black)](https://jaywcjlove.github.io/#/sponsor)
+[![Follow On X](https://img.shields.io/badge/Follow%20on%20X-333333?logo=x&logoColor=white)](https://x.com/jaywcjlove)
+[![Awesome](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome)
+[![NPM version](https://img.shields.io/npm/v/awesome-mac.svg?style=flat)](https://npmjs.org/package/awesome-mac)
+[![WeiBo](https://jaywcjlove.github.io/sb/ico/weibo.svg)](http://weibo.com/pc175)
+[![Docker Image Version (latest by date)](https://img.shields.io/docker/v/wcjiang/awesome-mac?logo=docker)](https://hub.docker.com/r/wcjiang/awesome-mac)
+[![Chinese List](https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
+[![Japanese List](https://jaywcjlove.github.io/sb/lang/japanese.svg)](https://github.com/jaywcjlove/awesome-mac/blob/master/./README-ja.md)
+[![Korean List](https://jaywcjlove.github.io/sb/lang/korean.svg)](https://github.com/jaywcjlove/awesome-mac/blob/master/./README-ko.md)
+<!--rehype:style=text-align: center;-->
+
+This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. As it continues to grow, the project has far exceeded our initial expectations and has become more comprehensive and refined.
+
+Feel free to **star** ⭐ and **fork** 🍴 to support the project!
+
+If you have any suggestions, ideas, or discover excellent software, feel free to submit a PR to help improve this list. Please read the [contributing guidelines](https://github.com/jaywcjlove/awesome-mac/blob/master/CONTRIBUTING.md) before contributing. We also welcome you to continue following this [awesome](https://github.com/sindresorhus/awesome) list to build a better macOS tool collection together.
+
+**Explanation**
+
+[中文](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md) | [한국어](https://github.com/jaywcjlove/awesome-mac/blob/master/README-ko.md) | [日本語](https://github.com/jaywcjlove/awesome-mac/blob/master/README-ja.md) | [RSS](https://github.com/jaywcjlove/awesome-mac/blob/master/./feed/feed.md) | [Awesome Command Line Apps](https://github.com/jaywcjlove/awesome-mac/blob/master/./command-line-apps.md) | [Awesome Swift macOS Apps](https://github.com/jaywcjlove/awesome-swift-macos-apps)
+
+![Open-Source Software][OSS Icon] means **open source**. click the icon to see the item's repository;\
+![Freeware][Freeware Icon] means **free** to use, or **free** personal license;\
+![App Store][app-store Icon] means **App store** hyperlink;\
+![Native App][Native Icon] means **native app**;\
+![Awesome List][awesome-list Icon] means hyperlink to a corresponding **Awesome list** for the item;
 
 <!--idoc:ignore:start-->
 
@@ -637,6 +631,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Licecap](http://www.cockos.com/licecap/) - Record your screen and export to GIF. You can change the recording area anytime during recording. [![Open-Source Software][OSS Icon]](https://github.com/justinfrankel/licecap) ![Freeware][Freeware Icon]
 * [Monosnap](https://monosnap.com/) - Make screenshots. Draw on it. Shoot video and share your files. It's fast, easy and free. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/monosnap/id540348655?platform=mac)
 * [OBS Studio](https://github.com/obsproject/obs-studio) - A free and open source software for live streaming and screen recording. [![Open-Source Software][OSS Icon]](https://github.com/obsproject/obs-studio)
+* [OpenScreen](https://github.com/siddharthvaddem/openscreen) - Open-source tool for creating polished screen demos and walkthrough videos. [![Open-Source Software][OSS Icon]](https://github.com/siddharthvaddem/openscreen) ![Freeware][Freeware Icon]
 * [Quick Recorder](https://lihaoyun6.github.io/quickrecorder/) - A lightweight and high-performance screen recorder for macOS [![Open-Source Software][OSS Icon]](https://github.com/lihaoyun6/QuickRecorder) ![Freeware][Freeware Icon]
 * [Reframed](https://reframed.dev) - A powerful screen recorder with built-in video editor. Capture screen, areas, windows or iOS devices with webcam and microphone - then trim, zoom, style and export. [![Open-Source Software][OSS Icon]](https://github.com/jkuri/Reframed) ![Freeware][Freeware Icon]
 * [Screen Studio](https://www.screen.studio/) - Record beautiful screens in minutes, with built-in exquisite frame animations, no need for editing.
@@ -913,24 +908,25 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Aiko](https://sindresorhus.com/aiko) - High-quality on-device transcription. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/app/id1666327168?platform=mac)
 * [Azex Speech](https://github.com/azex-ai/speech) - Voice input tuned for mixed Chinese-English dictation in AI and crypto work. [![Open-Source Software][OSS Icon]](https://github.com/azex-ai/speech) ![Freeware][Freeware Icon]
 * [buzz](https://github.com/chidiwilliams/buzz) - Transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper. [![Open-Source Software][OSS Icon]](https://github.com/chidiwilliams/buzz)
+* [EnviousWispr](https://enviouswispr.com) - On-device AI dictation that turns speech into polished text. ![Freeware][Freeware Icon]
 * [FnKey](https://github.com/evoleinik/fnkey) - Hold Fn, speak, release — text is pasted instantly. Streams audio to Deepgram Nova-3 in real time, no batch delay. [![Open-Source Software][OSS Icon]](https://github.com/evoleinik/fnkey) ![Freeware][Freeware Icon]
 * [OpenDictation](https://github.com/kdcokenny/OpenDictation) - Open-source dictation utility with local and cloud speech-to-text. [![Open-Source Software][OSS Icon]](https://github.com/kdcokenny/OpenDictation) ![Freeware][Freeware Icon]
-* [OpenTypeless](https://github.com/tover0314-w/opentypeless) - Open-source AI voice input for desktop. Press a hotkey, speak, and get AI-polished text typed into any app. Supports 6+ STT providers (Whisper, Groq, Deepgram) and multiple LLMs (GPT, Claude, Gemini, Ollama). [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
-* [Ottex](https://ottex.ai) - Dictate emails, Slack messages, notes and more. Detects your app or website and formats accordingly — gmail.com → email, Obsidian → markdown, etc.
+* [OpenTypeless](https://github.com/tover0314-w/opentypeless) - Open-source AI voice input that types polished text into any app. [![Open-Source Software][OSS Icon]](https://github.com/tover0314-w/opentypeless) ![Freeware][Freeware Icon]
+* [Ottex](https://ottex.ai) - AI dictation tool that formats text for the app or site you are using.
 * [Spokenly](https://spokenly.app/) - Voice-to-text with 100+ languages, offline mode, and AI-powered formatting.
 * [Tambourine](https://tambourinevoice.com/) - Open-source, customizable AI voice dictation that works in any app. [![Open-Source Software][OSS Icon]](https://github.com/kstonekuan/tambourine-voice/) ![Freeware][Freeware Icon]
-* [TypeWhisper](https://www.typewhisper.com) - Local speech-to-text transcription using Whisper AI. System-wide dictation with global hotkey. [![Open-Source Software][OSS Icon]](https://github.com/TypeWhisper/typewhisper-mac) ![Freeware][Freeware Icon]
+* [TypeWhisper](https://www.typewhisper.com) - Local Whisper-based speech-to-text with a global hotkey. [![Open-Source Software][OSS Icon]](https://github.com/TypeWhisper/typewhisper-mac) ![Freeware][Freeware Icon]
 * [VoiceInk](https://tryvoiceink.com/) - Real-time speech-to-text app. [![Open-Source Software][OSS Icon]](https://github.com/Beingpax/VoiceInk) ![Freeware][Freeware Icon]
 * [Whispering](https://epicenter.md/whispering/) - Multi-provider speech-to-text with AI transformations and keyboard shortcuts. [![Open-Source Software][OSS Icon]](https://github.com/EpicenterHQ/epicenter/tree/main/apps/whispering) ![Freeware][Freeware Icon]
 * [Willow Voice](https://willowvoice.com/) - AI dictation with automatic editing, style-matching, and noise optimization.
 
 ## Browsers
 
-* [Arc](https://arc.net/) - Arc is your space to breathe on the internet. A browser equipped for the way we use the internet in 2024, and foundational for how we hope to use it in the future. ![Freeware][Freeware Icon]
+* [Arc](https://arc.net/) - Browser with a distinctive workspace-style interface. ![Freeware][Freeware Icon]
 * [Brave](https://brave.com/) - Web browser with an emphasis on privacy and speed. [![Open-Source Software][OSS Icon]](https://github.com/brave/brave-browser/) ![Freeware][Freeware Icon]
-* [ChatGPT Atlas](https://chatgpt.com/atlas/) - ChatGPT Atlas, the browser with ChatGPT built in. Get instant answers, summaries, and smart web help—right from any page. ![Freeware][Freeware Icon]
+* [ChatGPT Atlas](https://chatgpt.com/atlas/) - Browser with ChatGPT built in. ![Freeware][Freeware Icon]
 * [Chrome](https://www.google.com/chrome/) - Chrome, developed by Google ![Freeware][Freeware Icon]
-* [Chromium](https://www.chromium.org/Home) - Open-source, free web browser project by Google, to provide the source code for Google Chrome. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://chromium.googlesource.com/chromium/src/)
+* [Chromium](https://www.chromium.org/Home) - Open-source browser project behind Google Chrome. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://chromium.googlesource.com/chromium/src/)
   * [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium) - A lightweight approach to removing Google web service dependency. [![Open-Source Software][OSS Icon]](https://github.com/ungoogled-software/ungoogled-chromium) ![Freeware][Freeware Icon]
 * [Firefox](https://www.firefox.com/) - A free and open-source web browser developed by Mozilla. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://hg.mozilla.org/)
   * [LibreWolf](https://librewolf.net) - A fork of Firefox, focused on privacy, security and freedom. [![Open-Source Software][OSS Icon]](https://gitlab.com/librewolf-community) ![Freeware][Freeware Icon]
@@ -938,14 +934,14 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Microsoft Edge](https://www.microsoft.com/edge) - Microsoft Edge, based on Chromium, but built by MS ![Freeware][Freeware Icon]
 * [Min](https://minbrowser.org/) -  Fast, minimal browser that protects your privacy. [![Open-Source Software][OSS Icon]](https://github.com/minbrowser/min) ![Freeware][Freeware Icon]
 * [Opera](https://www.opera.com) - Experience faster, distraction-free browsing with Ad blocking, and browse privately. ![Freeware][Freeware Icon]
-* [Ora](https://www.orabrowser.com/) - Open-source macOS browser built with Swift and WebKit. Fast, secure, and native Arc alternative with smooth tab management, spaces, and vertical sidebar. [![Open-Source Software][OSS Icon]](https://github.com/the-ora/browser) ![Freeware][Freeware Icon]
+* [Ora](https://www.orabrowser.com/) - Open-source browser with spaces, tab management, and a vertical sidebar. [![Open-Source Software][OSS Icon]](https://github.com/the-ora/browser) ![Freeware][Freeware Icon]
 * [Orion](https://browser.kagi.com/) - Lightweight WebKit-based browser with support for Chrome and Firefox extensions. ![Freeware][Freeware Icon]
 * [qutebrowser](https://www.qutebrowser.org/) - A keyboard-driven, vim-like browser based on Python and Qt. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/qutebrowser/qutebrowser)
 * [Safari](https://www.apple.com/safari/) - Native browser for Macs. ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/safari-extensions#readme)
 * [Station](https://getstation.com/) - An open-source browser providing a single place for all of your web applications. [![Open-Source Software][OSS Icon]](https://github.com/getstation/desktop-app/) ![Freeware][Freeware Icon]
 * [Tabbit](https://tabbitbrowser.com/) - An AI-native browser that understands your context, chats with webpages, and automates tasks. ![Freeware][Freeware Icon]
-* [Tor Browser](https://www.torproject.org/projects/torbrowser.html) - Anonymity Online. Protect your privacy. Defend against network surveillance and traffic analysis. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitlab.torproject.org/tpo/applications/tor-browser/)
-  * [Mullvad Browser](https://mullvad.net/en/download/browser/) - Tor Browser without the network integrations, aimed at providing anti-fingerprinting browser technologies to VPN users, though it does not require Mullvad VPN. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitlab.torproject.org/tpo/applications/mullvad-browser/)
+* [Tor Browser](https://www.torproject.org/projects/torbrowser.html) - Privacy browser designed for anonymous web browsing. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitlab.torproject.org/tpo/applications/tor-browser/)
+* [Mullvad Browser](https://mullvad.net/en/download/browser/) - Privacy browser focused on anti-fingerprinting protection. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://gitlab.torproject.org/tpo/applications/mullvad-browser/)
 * [Web](https://github.com/nuance-dev/Web) - Minimal AI browser for macOS, built with SwiftUI. [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]](https://github.com/nuance-dev/Web)
 * [Vivaldi](https://vivaldi.com) - The browser that puts you in control. ![Freeware][Freeware Icon]
 * [Yandex](https://browser.yandex.com/) - The quick and secure browser from Yandex for computers. ![Freeware][Freeware Icon]
@@ -1039,6 +1035,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Clipboard Tools
 
+* [Buffer](https://samirpatil2000.github.io/products/buffer/) - Lightweight native clipboard manager with bookmarks and OCR for images. [![Open-Source Software][OSS Icon]](https://github.com/samirpatil2000/Buffer) ![Freeware][Freeware Icon] ![Native App][Native Icon]
 * [CleanClip](https://cleanclip.cc) - The cleanest Clipboard Manager on macOS, ever! ![Freeware][Freeware Icon]
 * [Clipboard](https://getclipboard.app/) - Easy-to-use terminal clipboard manager for all platforms. [![Open-Source Software][OSS Icon]](https://github.com/Slackadays/Clipboard) ![Freeware][Freeware Icon]
 * [ClipMenu](http://www.clipmenu.com) - Clipboard manager for Mac OS X. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]

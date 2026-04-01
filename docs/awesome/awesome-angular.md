@@ -448,6 +448,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [fetchquack](https://github.com/adrian-bueno/fetchquack) - Angular‑ready HTTP client with an RxJS Observable wrapper and injection‑context support, offering lightweight Fetch‑based streaming, SSE, and upload/download progress handling.
 * [ziflux](https://github.com/neogenz/ziflux) - A zero‑dependency, signal‑native caching layer for Angular 21+ with stale‑while‑revalidate for resource()—instant navigations, background refreshes, no spinners.
 * [ng-signal-query](https://github.com/Ali7040/ng-signal-query) - A type‑safe Angular querying library built on signals that streamlines server state, infinite queries, mutations, and caching with high performance.
+* [api-caller](https://forge.deejayy.hu/angular-packages/api-caller) - Simple API caller library for Angular.
 
 ### Micro-Frontends
 
@@ -681,6 +682,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-translate-toolkit](https://github.com/robmanganelly/ngx-translate-toolkit) - An Angular library designed to extend `@ngx-translate/core` and streamline the process of managing translations in large projects.
 * [ngx-translate-version](https://github.com/Celtian/ngx-translate-version) - Angular module that provides version to your language files.
 * [ruci](https://github.com/njirolu/ruci) - A CLI tool that simplifies i18n validation in Angular projects with `ngx-translate`, ensuring accurate, high-quality translations.
+* [runtime-localizer](https://forge.deejayy.hu/angular-packages/runtime-localizer) - Runtime localizer for Angular.
 * [rust-ngx-translate-lint](https://github.com/hafnerpw/rust-ngx-translate-lint) - A Rust port of `ngx-translate-lint` for improved performance.
 * [signal-translate](https://github.com/NGneers/signal-translate) - Translation service that is using signals at its core.
 * [tldraw-web-component](https://github.com/neosh11/tldraw-web-component) - Make [tldraw](https://github.com/tldraw/tldraw) work with frameworks other than React; Made primarily to work with Angular.
@@ -1773,6 +1775,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [OneSignal](https://documentation.onesignal.com/docs/angular-setup) - Integrate OneSignal into Angular apps with [onesignal-ngx](https://github.com/OneSignal/onesignal-ngx) for push and in‑app messaging.
 * [toastify](https://github.com/andreasnicolaou/toastify) - Lightweight and customizable toast notifications for web applications.
 * [web-notifier](https://github.com/andreasnicolaou/web-notifier) - Lightweight, flexible web notification library with simple RxJS‑based API for browser notifications.
+* [ngx-dynamic-toast](https://github.com/ederjavs/ngx-dynamic-toast) - An elegant, liquid-smooth toast notification library for Angular, heavily inspired by the beautiful [Sileo](https://github.com/hiaaryan/sileo) project.
 
 ### Onboarding and Product Tours
 

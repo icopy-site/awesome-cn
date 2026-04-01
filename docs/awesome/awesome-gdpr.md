@@ -50,7 +50,7 @@ The General Data Protection Regulation (GDPR) is a regulation on data protection
 * [Public DPIA Teams OneDrive SharePoint and Azure AD](https://www.rijksoverheid.nl/documenten/publicaties/2022/02/21/public-dpia-teams-onedrive-sharepoint-and-azure-ad) -  DPIA of Microsoft Teams in combination with OneDrive, SharePoint Online and the Azure Active Directory.
 
 ## Tools
-* [Website Evidence Collector (WEC)](https://github.com/EU-EDPS/website-evidence-collector) - EDPS Inspection Software.
+* [Website Evidence Collector (WEC)](https://www.edps.europa.eu/edps-inspection-software_en) - EDPS Inspection Software.
 * [Data protection around the world](https://www.cnil.fr/en/data-protection-around-the-world) - (CNIL) Map of the level of data protection in each country. 
 * [Data Protection Laws of the world](https://www.dlapiperdataprotection.com/) - (DLA Piper) Compare data protection laws around the world.
  
