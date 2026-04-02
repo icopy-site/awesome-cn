@@ -46,6 +46,7 @@ The following starters supports the `@supabase/supabase-js` v2 library.
 - [Heroku to Supabase Importer](https://migrate.supabase.com/) - Given Heroku is ending free-tier support soon, if you have any PostgreSQL DB that you want to continue supporting on your projects, migrating to Supabase will be a good choice. With this tool, it will be a breeze to migrate over. Here's [a guide](https://supabase.com/docs/guides/migrations/heroku) with a video for this migration process.
 - [Supabase DB to Google Sheets](https://github.com/jadynekena/supabase-googlesheet) - Tool to pull Supabase data into Google Sheets.
 - [Retool REST API data generator](https://retool.com/api-generator) - Tool to generate structured data to be inserted into your PostgresDB.
+- [Lovable Cloud to Supabase Exporter](https://github.com/dreamlit-ai/lovable-cloud-to-supabase-exporter) - Migrate tables, users, and storage from Lovable Cloud to your own Supabase backend without password resets or manual CSV work.
 
 ## Supabase DX Tools
 

@@ -95,6 +95,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Zerops](https://zerops.io/) - It makes deploying and running Analog apps, both [server side rendered](https://github.com/zeropsio/recipe-analog-nodejs) and [static](https://github.com/zeropsio/recipe-analog-static), a breeze.
 * [SST](https://sst.dev/) - A framework that makes it easy to build and automate modern full-stack applications.
 * [ngx-config-orchestrator](https://github.com/xhani-manolis-trungu/ngx-config-orchestrator) - Angular library for runtime configuration via external JSON, enabling “Build Once, Deploy Anywhere.”
+* [deploy-with-git](https://github.com/RunOnFlux/deploy-with-git/tree/master/deploy-angular) - Lets you deploy an Angular app directly to the [Flux Network](https://runonflux.com/) from a Git repository.
 
 ### Desktop Applications
 
@@ -727,6 +728,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-performance-diagnostics](https://github.com/maciekv/ngx-performance-diagnostics) - Spot performance bottlenecks, excessive change‑detection cycles, and memory leaks in Angular apps with zero setup.
 * [ngx-script-optimizer](https://github.com/Mohid123/ngx-script-optimizer) - A lightweight Angular library designed to supercharge your third-party script handling.
 * [ngx-unused](https://github.com/wgrabowski/ngx-unused) - Find declared but unused Angular classes in your codebase.
+* [ngx-worker-bridge](https://github.com/yashwantyashu/worker-bridge) - A lightweight, zero-boilerplate reactive bridge for Angular and React that makes Web Workers (Dedicated and Shared) as simple as calling a regular method.
 * [sonda](https://github.com/filipsobol/sonda) - Universal visualizer and analyzer for JavaScript and CSS.
 
 ### Runtime
@@ -1304,6 +1306,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-paginator](https://github.com/sibiraj-s/angular-paginator) - Pagination Component for Angular applications.
 * [ngx-signal-combinators](https://github.com/alessiopelliccione/ngx-signal-combinators) - Composable boolean helpers for Angular signals, enabling cleaner reactive template logic.
 * [viewport-truth](https://github.com/AntonVoronezh/viewport-truth) - A tiny VisualViewport‑first store for accurate CSS‑pixel viewport size that detects virtual keyboards, reduces resize/scroll jitter, and works with SSR across frameworks.
+* [angular-inport](https://github.com/ajaysinghj8/angular-inport) - Angular In-Viewport Detector.
 
 ### Drag and Drop
 

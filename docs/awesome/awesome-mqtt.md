@@ -56,6 +56,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/hob
 - [Moquette](https://github.com/moquette-io/moquette) - Java MQTT lightweight broker.
 - [Mosca](https://www.mosca.io/) - Node.js MQTT broker, which can be used Standalone or Embedded in another Node.js application.
 - [Mosquitto](https://mosquitto.org/) - *"*The"** Open Source MQTT Broker.
+- [mqtt5](https://github.com/LabOverWire/mqtt-lib) - Async MQTT v5.0 broker in Rust with TCP, TLS, WebSocket, and QUIC transport, plus authentication, ACL, bridging, and session persistence.
 - [MyQttHub](https://myqtthub.com) - Cloud MQTT broker.
 - [Mystique](https://github.com/TheThingsIndustries/mystique) - An extendable MQTT broker written in Go, with HTTP capabilities for observability. Implements MQTT v3.1.1.
 - [RabbitMQ](https://www.rabbitmq.com/mqtt.html) - High performance messaging broker with MQTT Adapter.
@@ -221,6 +222,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/hob
 
 - [mqtt-rs](https://github.com/zonyitoo/mqtt-rs) - MQTT protocol library for Rust.
 - [rumqtt](https://github.com/AtherEnergy/rumqtt) - A fast, lock free pure Rust MQTT client.
+- [mqtt5](https://github.com/LabOverWire/mqtt-lib) - Complete async MQTT v5.0 client and broker library for Rust with TCP, TLS, WebSocket, and QUIC support.
 
 ### Swift
 

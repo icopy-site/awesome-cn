@@ -67,6 +67,7 @@ All contributions are welcome, please carefully review the [contributing guideli
 - [Elastalert | Yelp](https://github.com/Yelp/elastalert) - ElastAlert is a simple framework for alerting on anomalies, spikes, or other patterns of interest from data in Elasticsearch.
 - [Matano](https://github.com/matanolabs/matano) - Open source cloud-native security lake platform (SIEM alternative) for threat hunting, Python detections-as-code, and incident response on AWS 🦀.
 - [Microsoft XDR Advanced Hunting Schema](https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-schema-tables) To help with multi-table queries, you can use the advanced hunting schema, which includes tables and columns with event information and details about devices, alerts, identities, and other entity types.
+- [InnerWarden](https://github.com/InnerWarden/innerwarden) - Autonomous security agent for Linux with real-time threat detection and response via 38 eBPF hooks, 48 detectors, and 23 correlation rules.
 
 ## General Resources
  

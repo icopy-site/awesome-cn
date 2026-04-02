@@ -23,6 +23,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [steam-user](https://github.com/DoctorMcKay/node-steam-user) - Feature-rich easy-to-use Steam client.
 - [vapor](https://github.com/scholtzm/vapor) - Lightweight Steam client framework.
 - [steam-parentbot](https://github.com/dragonbanshee/node-steam-parentbot) - Simple base class for a Steam bot.
+- [steamworks-ffi-node](https://github.com/ArtyProf/steamworks-ffi-node) - A Node.js wrapper for Steamworks SDK.
 
 #### WebAPI
 
@@ -139,6 +140,10 @@ The purpose of this document is to provide a quick overview over existing packag
 ### Ruby
 
 - [steam-trade](https://github.com/OmG3r/steam-trade) - Ruby gem for sending trade offers.
+
+### Rust
+
+- [steamguard-cli](https://github.com/dyc3/steamguard-cli) - Command-line utility for generating Steam 2FA codes and managing Steam confirmations.
 
 ## Resources
 

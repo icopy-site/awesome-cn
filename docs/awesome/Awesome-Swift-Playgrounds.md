@@ -31,16 +31,8 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 ## WWDC Students Submissions
 *Playgrounds submitted by students for the WWDC scholarship*
 
-- [2022](https://github.com/wwdc/2023)
-- [2022](https://github.com/wwdc/2022)
-- [2021](https://github.com/wwdc/2021)
-- [2020](https://github.com/wwdc/2020)
-- [2019](https://github.com/wwdc/2019)
-- [2018](https://github.com/wwdc/2018)
-- [2017](https://github.com/wwdc/2017)
-- [2016](https://github.com/wwdc/2016)
-- [2015](https://github.com/wwdc/2015)
-- [2014](https://github.com/wwdc/2014)
+- Latest: [2026](https://github.com/wwdc/2026)
+- Past Editions: [2025](https://github.com/wwdc/2025), [2024](https://github.com/wwdc/2024), [2023](https://github.com/wwdc/2023), [2022](https://github.com/wwdc/2022), [2021](https://github.com/wwdc/2021), [2020](https://github.com/wwdc/2020), [2019](https://github.com/wwdc/2019), [2018](https://github.com/wwdc/2018), [2017](https://github.com/wwdc/2017), [2016](https://github.com/wwdc/2016), [2015](https://github.com/wwdc/2015), [2014](https://github.com/wwdc/2014)
 
 ## PlaygroundBooks
 *Playgrounds that can be run on your iPad*
