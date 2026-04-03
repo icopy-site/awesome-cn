@@ -400,6 +400,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-feature-flags](https://github.com/pavan-98/ngx-feature-flags) - An Angular‑first, enterprise‑ready feature‑flag layer that standardizes how flags are resolved, guarded, and rendered across Angular apps.
 * [ngx-feature-flags-toggly](https://www.npmjs.com/package/@ops-ai/ngx-feature-flags-toggly) - Angular SDK for [Toggly](https://toggly.io/) feature flags.
 * [ngx-circuit](https://github.com/pjlamb12/ngx-circuit) - Streamlines feature‑toggle management, offering flexible strategies such as simple boolean flags, scheduled activations, percentage rollouts, user‑group targeting, environment‑based rules, and more.
+* [ngx-feature-toggle](https://github.com/willmendesneto/ngx-feature-toggle) - Simplify managing feature toggles with this Angular directive.
 
 ### GraphQL
 
@@ -450,6 +451,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ziflux](https://github.com/neogenz/ziflux) - A zero‑dependency, signal‑native caching layer for Angular 21+ with stale‑while‑revalidate for resource()—instant navigations, background refreshes, no spinners.
 * [ng-signal-query](https://github.com/Ali7040/ng-signal-query) - A type‑safe Angular querying library built on signals that streamlines server state, infinite queries, mutations, and caching with high performance.
 * [api-caller](https://forge.deejayy.hu/angular-packages/api-caller) - Simple API caller library for Angular.
+* [ngx-lite-cache](https://github.com/Suleeyman/ngx-lite-cache) - An Angular library that caches HTTP responses via HttpClient interceptors to cut redundant requests and boost performance.
 
 ### Micro-Frontends
 
@@ -800,6 +802,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-awesome-node-auth](https://github.com/nik2208/ng-awesome-node-auth) - Angular Interceptor and Guards for [awesome-node-auth](https://github.com/nik2208/awesome-node-auth).
 * [ng-supabase](https://github.com/rustygreen/ng-supabase) - An Angular component library for your [Supabase](https://supabase.com/) project!
 * [ngx-better-auth](https://github.com/thomasorgeval/ngx-better-auth) - An Angular 20+ wrapper for [Better Auth](https://github.com/better-auth/better-auth). Provides reactive session handling with signals, clean DI provider setup with observables, and modern guards.
+* [ngx-cognito-auth](https://github.com/SamsonGross/ngx-cognito-auth) - Angular 21+ library for AWS Cognito authentication using the OAuth 2.0 Authorization Code flow with PKCE.
 * [ngxfire](https://github.com/teve-no/ngxfire) - Zoneless AngularFire replacement.
 * [ngx-webauthn](https://github.com/JonnyHeavey/ngx-webauthn) - An Angular library offering a type-safe, streamlined abstraction of the native WebAuthn API, with built-in support for standard types and optional presets for common use cases.
 * [omni-auth](https://github.com/ngx-addons/omni-auth) - Angular authentication library providing core functionality for authentication flows, guards, and error handling.
@@ -920,6 +923,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [stateloom](https://github.com/sujeet-pro/stateloom) - A universal state‑management SDK featuring a signal‑driven reactive core, along with paradigm adapters (Store, Atom, Proxy) and framework adapters for React, Angular, and more.
 * [ngx-state-crafter](https://github.com/irvrodflo/ngx-state-crafter) - A lightweight, signal‑driven state library for Angular with a clean, boilerplate‑free API.
 * [coaction](https://github.com/unadlib/coaction) - An efficient and flexible state management library for building high-performance, multithreading web applications.
+* [flurryx](https://github.com/fmflurry/flurryx) - A signal-first reactive state toolkit for Angular that bridges RxJS streams into structured, cache-aware stores.
 
 ## Testing
 
@@ -1234,6 +1238,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [TabularJS](https://github.com/jspreadsheet/tabularjs) - Lightweight JavaScript table and data grid library for advanced table features in Angular.
 * [uni-table](https://github.com/Unify-India/uni-table) - Angular data grid built on signals for zero‑lag performance, combining advanced server‑side features with a streamlined configuration API.
 * [ogrid](https://github.com/alaarab/ogrid) - The lightweight, multi-framework data grid with enterprise features and zero enterprise cost.
+* [angular-datatables.net](https://github.com/Vinccool96/angular-datatables.net) - Angular plus [DataTables](https://datatables.net/).
 
 ### Dates
 
@@ -1469,6 +1474,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [smt-select](https://github.com/sametacar/smt-select) - A high-performance, lightweight, and customizable Angular select component with built-in virtual scroll and search capabilities.
 * [ngx-mat-searchable-select](https://github.com/khalilElmouedene/ngx-mat-searchable-select) - A reusable Angular Material select component with infinite scroll, debounced search, "no items found" feedback, and static/mock data support.
 * [mat-password-meter](https://github.com/ngx-zen/mat-password-meter) - Three Angular Material password strength components with a signals-based API.
+* [nicematic-emoji-picker](https://github.com/myposty/nicematic-emoji-picker) - High‑performance, zero‑dependency emoji picker for Angular 17+ with 929 emojis, auto‑theming, i18n, and responsive design.
 
 ### JSON Forms
 
@@ -1561,6 +1567,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [focusly](https://github.com/mad-vx/focusly) - A lightweight Angular library that brings intuitive, keyboard-driven navigation to web applications.
 * [ngx-arrow-state](https://github.com/jaychase/ngx-arrow-state) - An Angular library that provides terminal/shell-like input history navigation using arrow keys, plus Ctrl+Enter form submission for textareas.
 * [angular-onscreen-material-keyboard](https://github.com/eFaps/angular-onscreen-material-keyboard) - Onscreen virtual keyboard for Angular using Angular Material.
+* [@TanStack/hotkeys](https://github.com/TanStack/hotkeys) - Type-Safe keyboard shortcuts library with awesome devtools.
 
 ### Layout
 
@@ -1670,6 +1677,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-rumbletalk](https://github.com/RumbleTalk/ngx-rumbletalk) - An Angular library for [Rumbletalk](https://rumbletalk.com/) group chats.
 * [ng-three-model-cropper](https://github.com/AlexRynas/ng-three-model-cropper) - An Angular `Three.js` library for configurable 3D model cropping with GLB/FBX support and triangle-pruning export.
 * [@ngx-core/media-optimizer](https://github.com/barbozaa/media-optimizer-workspace) - Professional framework-agnostic library for image optimization, conversion, and compression.
+* [ngx-streaming-player](https://github.com/jhonsferg/ngx-streaming-player) - A unified, plug-and-play video player component that handles HLS, DASH, MP4, and YouTube through a single API.
 
 ### Mixed Utilities
 
@@ -1888,6 +1896,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-persist](https://github.com/khvedela/ngx-persist) - A type‑safe, signal‑based persistent state utility for Angular, syncing with localStorage, sessionStorage, IndexedDB, or custom backends.
 * [strata-storage](https://github.com/aoneahsan/strata-storage) - Zero-dependency universal storage plugin providing a unified API for all storage operations across web, Android, and iOS platforms.
 * [ngx-webstore](https://github.com/saurabh-vaish/ngx-webstore) - A comprehensive Angular library for browser storage management with TypeScript support, reactive APIs, encryption, TTL, and more.
+* [@moltendb-web/angular](https://github.com/maximilian27/moltendb-web) - Rust/WASM local‑first DB for Angular with Signals, OPFS, GraphQL‑style queries, and Web Workers.
 
 ### Tooltips
 
@@ -2228,6 +2237,7 @@ for the creation of web applications developed with Angular.
 * [ngx-three](https://github.com/demike/ngx-three) - Use [Three.js](https://threejs.org) with your Angular project in a declarative way.
 * [ngx-three-globe](https://github.com/omnedia/ngx-three-globe) - An Angular library that provides an interactive, 3D globe visualization built using `Three.js`.
 * [ngx-virtual-select](https://github.com/zinetnorf/ngx-virtual-select) - Component to integrate [Virtual Select](https://github.com/sa-si-dev/virtual-select) in Angular.
+* [ngx-vis](https://github.com/visjs/ngx-vis) - Angular wrapper for [vis.js](https://visjs.org/).
 * [ngx-viz](https://github.com/vedph/ngx-viz) - Simple Angular [viz.js](https://viz-js.com/) wrapper to render [DOT graphs](https://graphviz.org/doc/info/lang.html).
 * [ngx-webdatarocks](https://github.com/WebDataRocks/ngx-webdatarocks) - Angular wrapper for [WebDataRocks](https://www.webdatarocks.com/). Follow this [example](https://github.com/WebDataRocks/pivot-angular) to integrate the WebDataRocks web reporting tool.
 * [ngx-xyflow](https://github.com/knackstedt/ngx-xyflow) - Angular wrapper of [xyflow](https://github.com/xyflow/xyflow).

@@ -185,6 +185,7 @@ _Libraries for building and working with bots._
 - [telegram-bot-api](https://github.com/go-telegram-bot-api/telegram-bot-api) - Simple and clean Telegram bot client.
 - [TG](https://github.com/enetx/tg) - Telegram Bot Framework for Go.
 - [wayback](https://github.com/wabarc/wayback) - A bot for Telegram, Mastodon, Slack, and other messaging platforms archives webpages.
+   - [Wisp](https://github.com/wisp-trading/wisp) - Event-driven trading framework for Go. Spot, perpetual futures, prediction markets. Multi-exchange (Bybit, Hyperliquid, Polymarket).
 
 
 ## Build Automation
@@ -1037,6 +1038,7 @@ _Packages for accounting and finance._
 - [coinpaprika-api-go-client](https://github.com/coinpaprika/coinpaprika-api-go-client) - Go client for the CoinPaprika cryptocurrency market data API.
 - [go-nowpayments](https://github.com/matm/go-nowpayments) - Library for the crypto NOWPayments API.
 - [gobl](https://github.com/invopop/gobl) - Invoice and billing document framework. JSON Schema based. Automates tax calculations and validation, with tooling to convert into global formats.
+- [indicator](https://github.com/cinar/indicator) - Technical analysis library providing financial indicators, strategies, and backtesting framework.
 - [ledger](https://github.com/formancehq/ledger) - A programmable financial ledger that provides a foundation for money-moving applications.
 - [money](https://github.com/govalues/money) - Immutable monetary amounts and exchange rates with panic-free arithmetic.
 - [ofxgo](https://github.com/aclindsa/ofxgo) - Query OFX servers and/or parse the responses (with example command-line client).
@@ -1124,6 +1126,7 @@ _Tools that generate Go code._
 - [generis](https://github.com/senselogic/GENERIS) - Code generation tool providing generics, free-form macros, conditional compilation and HTML templating.
 - [go-enum](https://github.com/abice/go-enum) - Code generation for enums from code comments.
 - [go-enum-encoding](https://github.com/nikolaydubina/go-enum-encoding) - Code generation for enum encoding from code comments.
+- [go-apispec](https://github.com/antst/go-apispec) - Generate OpenAPI 3.1 specs from Go source code via static analysis with automatic framework detection.
 - [go-linq](https://github.com/ahmetalpbalkan/go-linq) - .NET LINQ-like query methods for Go.
 - [goderive](https://github.com/awalterschulze/goderive) - Derives functions from input types
 - [goverter](https://github.com/jmattheis/goverter) - Generate converters by defining an interface.
@@ -1225,6 +1228,7 @@ _Tools for managing and working with Goroutines._
 - [tunny](https://github.com/Jeffail/tunny) - Goroutine pool for golang.
 - [worker-pool](https://github.com/vardius/worker-pool) - goworker is a Go simple async worker pool.
 - [workerpool](https://github.com/gammazero/workerpool) - Goroutine pool that limits the concurrency of task execution, not the number of tasks queued.
+- [autopool](https://github.com/AshvinBambhaniya/autopool) - Zero-config, auto-scaling worker pool for Go with priority-aware scheduling.
 
 
 ## GUI

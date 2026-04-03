@@ -35,8 +35,6 @@
 
 ### Imbalanced Datasets
 
-### Random Forests
-
 ### Kernel Methods
 * [liquidSVM](https://github.com/liquidSVM/liquidSVM) - An implementation of SVMs.
 
@@ -50,6 +48,8 @@
 * [JAX](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more.
 * [FLAX](https://github.com/google/flax) - A neural network library for JAX that is designed for flexibility.
 * [Optax](https://github.com/google-deepmind/optax) - A gradient processing and optimization library for JAX.
+
+### Keras
 
 ### Others
 * [Tangent](https://github.com/google/tangent) - Source-to-Source Debuggable Derivatives in Pure Python.
@@ -128,7 +128,7 @@
 * [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) - A library for sampling graph structured data.
 * [Jraph](https://github.com/google-deepmind/jraph) - A Graph Neural Network Library in Jax.
 * [TRL](https://github.com/huggingface/trl) - Train transformer language models with reinforcement learning.
-  
+* [Cleora](https://github.com/BaseModelAI/cleora) - The Graph Embedding Engine.
 
 ## Graph Manipulation
 * [Networkx](https://github.com/networkx/networkx) - Network Analysis in Python.
@@ -153,7 +153,6 @@
 * [pyhsmm](https://github.com/mattjj/pyhsmm) - Bayesian inference in HSMMs and HMMs.
 
 ## Model Explanation
-
 * [Shapley](https://github.com/benedekrozemberczki/shapley) - A data-driven framework to quantify the value of classifiers in a machine learning ensemble.
 * [Alibi](https://github.com/SeldonIO/alibi) - Algorithms for monitoring and explaining machine learning models.
 * [anchor](https://github.com/marcotcr/anchor) - Code for "High-Precision Model-Agnostic Explanations" paper.

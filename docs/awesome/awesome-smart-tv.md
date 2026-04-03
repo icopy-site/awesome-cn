@@ -96,6 +96,8 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 * [Wi-Fi Direct](https://en.wikipedia.org/wiki/Wi-Fi_Direct) - Standard enabling devices to easily connect with each other without requiring a wireless access point.
 * [Miracast](https://en.wikipedia.org/wiki/Miracast) - Standard for wireless connections from devices (such as laptops, tablets, or smartphones) to displays (such as TVs, monitors or projectors). Works over Wi-Fi Direct.
 
+## Cross-platform tools
+
 ## Navigation libraries
 * [lrud](https://github.com/stuart-williams/lrud) - Left, Right, Up, Down. A spatial navigation library for devices with input via directional controls.
 * [js-spatial-navigation](https://github.com/luke-chang/js-spatial-navigation) - A javascript-based implementation of Spatial Navigation.

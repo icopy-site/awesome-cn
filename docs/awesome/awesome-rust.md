@@ -391,6 +391,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [Furtherance](https://github.com/unobserved-io/Furtherance) - Time tracking app built with GTK4
 * [graves/awful_aj](https://github.com/graves/awful_aj) [[awful_aj](https://crates.io/crates/awful_aj)] - A CLI for working with OpenAI-compatible APIs, YAML templates for prompt engineering and a built in Vector Database for persistent memories.
 * [illacloud/illa](https://github.com/illacloud/illa) - Low-code internal tool builder.
+* [iwe-org/iwe](https://github.com/iwe-org/iwe) [[iwe](https://crates.io/crates/iwe)] - A markdown-based knowledge management tool with LSP server and CLI [![Build Status](https://github.com/iwe-org/iwe/actions/workflows/rust.yml/badge.svg)](https://github.com/iwe-org/iwe/actions/workflows/rust.yml)
 * [kruseio/hygg](https://github.com/kruseio/hygg) [[hygg](https://crates.io/crates/hygg)] - 📚 Simplifying the way you read. Minimalistic Vim-like TUI document reader.
 * [LLDAP](https://github.com/lldap/lldap) - Simplified LDAP interface for authentication.
 * [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) [[worktrunk](https://crates.io/crates/worktrunk)] - CLI for git worktree management designed for running AI agents in parallel, with hooks, LLM commit messages, and merge workflows [![CI](https://img.shields.io/github/actions/workflow/status/max-sixty/worktrunk/ci.yaml?branch=main&logo=github)](https://github.com/max-sixty/worktrunk/actions?query=branch%3Amain+workflow%3Aci)
@@ -1005,6 +1006,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 * [blackportal-ai/nebula](https://github.com/blackportal-ai/nebula) - A Package Manager for Machine Learning Datasets and Models. ![build](https://img.shields.io/github/actions/workflow/status/blackportal-ai/nebula/core.yml?branch=master)
 * [burn](https://github.com/tracel-ai/burn) - A Flexible and Comprehensive Deep Learning Framework.
 * [chelsea0x3b/dfdx](https://github.com/chelsea0x3b/dfdx) - CUDA accelerated machine learning framework that leverages many of Rust's unique features. ![Crates.io](https://img.shields.io/crates/v/dfdx)
+* [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) [[mistralrs](https://crates.io/crates/mistralrs)] - Fast, flexible LLM inference engine supporting multimodal models, quantization (GGUF/GPTQ/ISQ), and OpenAI-compatible API
 * [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) [[rust_bert](https://crates.io/crates/rust_bert)] - Ready-to-use NLP pipelines and language models
 * [huggingface/candle](https://github.com/huggingface/candle) [[candle-core](https://crates.io/crates/candle-core)] - a minimalist ML framework with a focus on easiness of use and on performance (including GPU support)
 * [huggingface/tokenizers](https://github.com/huggingface/tokenizers) - Hugging Face's tokenizers for modern NLP pipelines (original implementation) with bindings for Python. [![Build Status](https://github.com/huggingface/tokenizers/workflows/Rust/badge.svg?branch=master)](https://github.com/huggingface/tokenizers/actions)
