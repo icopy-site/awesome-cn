@@ -823,6 +823,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [izipay](https://github.com/antonyayansi/izipay) - Integrate Izipay into your project with minimal configuration and an integrated proxy.
 * [ngxsmk-stripe](https://github.com/toozuuu/ngxsmk-stripe) - Angular plugin for integrating Stripe payments (one-time & subscriptions) with theme customization, event emitters, and standalone components.
 * [ngx-hyperpay](https://github.com/MagdyAbouelnasr/ngx-hyperpay) - An Angular library for easy integration of the [HyperPay](https://www.hyperpay.com/) payment gateway.
+* [ngx-mp-payments](https://github.com/JosemaCeballos/ngx-mp-payments) - Angular library for integration with [Mercado Pago](https://www.mercadopago.com.ar/).
 * [ngx-stripe](https://github.com/richnologies/ngx-stripe) - Angular bindings for [StripeJS](https://stripe.com/docs/js) and [Stripe Elements](https://stripe.com/docs/stripe-js).
 * [ngx-supabase-stripe](https://github.com/dotted-labs/ngx-supabase-stripe) - Ready‑made Angular components for Supabase + Stripe payments/subscriptions.
 * [solidgate](https://github.com/solidgate-tech/angular-sdk) - With its Angular SDK, you can add Solidgate Payment Form.
@@ -1364,6 +1365,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Monaco Pattern Editor](https://github.com/KhlifiIsmail/Editor) - A premium Angular library that wraps Monaco Editor with beautiful themes and coding interview preparation features.
 * [angular-editor](https://github.com/kolkov/angular-editor) - A simple native WYSIWYG editor component for Angular.
 * [ngx-json-editor](https://github.com/RonnyValdivieso/ngx-json-editor) - A minimal, themeable JSON editor for Angular.
+* [ngx-ace-signal](https://github.com/WebArtWork/ngx-ace-signal) - A modern Angular signals-based wrapper for the Ace editor.
 
 ### File Upload
 
@@ -1801,6 +1803,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-intro](https://github.com/andresciceri/ngx-intro) - An Angular library that provides a simple integration of [Intro.js](https://introjs.com/) to create interactive guides and step-by-step tutorials.
 * [ngx-custom-tour](https://github.com/miraxes/ngx-custom-tour) - Easy to customize step-by-step tour / onboarding for Angular 15+.
 * [ng-beacon](https://github.com/HomelessCoder/ng-beacon) - Lightweight guided-tour library for Angular 19+ with signals and zoneless-compatible rendering.
+* [ngx-guided-tour-lite](https://github.com/pantarey-io/ngx-guided-tour-lite) - A lightweight, dependency-free guided tour library for Angular.
 
 ### Pipes
 

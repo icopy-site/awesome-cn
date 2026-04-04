@@ -127,6 +127,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Understand Data Science Course in Java](https://www.alter-solutions.com/articles/java-data-science)
 - [Data Analytics Interview Questions (Beginner to Advanced)](https://www.appliedaicourse.com/blog/data-analytics-interview-questions/)
 - [Top 100+ Data Science Interview Questions and Answers](https://www.appliedaicourse.com/blog/data-science-interview-questions/)
+- [DataDriven - SQL, Python, and Data Modeling Interview Questions](https://www.datadriven.io/)
 
 ### Free Courses
 **[`^        back to top        ^`](#awesome-data-science)**

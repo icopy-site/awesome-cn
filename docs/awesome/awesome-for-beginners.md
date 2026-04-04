@@ -120,6 +120,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Moby](https://github.com/moby/moby) _(label: exp/beginner)_ <br> Open-source application container engine
 - [PureLB](https://gitlab.com/purelb/purelb) _(label: n/a)_ <br> Load-balancer orchestrator for Kubernetes that uses standard Linux networking and routing protocols.
 - [script](https://github.com/bitfield/script) _(label: good first issue)_ <br> A Go library for doing the kind of tasks that shell scripts are good at: reading files, executing subprocesses, counting lines, matching strings, and so on. Beginners are very welcome and will get detailed code review and help through the PR process.
+- [SigNoz](https://github.com/SigNoz/signoz) _(label: good first issue)_ <br> An Open Source observability platform that monitors your applications and services. It comes with out-of-box charts for key application metrics like p99 latency, error rate, Apdex, and operations per second. You can also monitor the database and external calls made from your application.
 - [Terraform](https://github.com/hashicorp/terraform) _(label: good first issue)_ <br> A tool for building, changing, and versioning infrastructure safely and efficiently.
 - [TiDB](https://github.com/pingcap/tidb) _(label: good first issue)_ <br> A distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database
 - [utils](https://github.com/kashifkhan0771/utils) _(label: good first issue)_ <br> Common Utilities library for Go
@@ -193,8 +194,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Rawsec Cybersecurity Inventory](https://gitlab.com/rawsec/rawsec-cybersecurity-list) _(label: difficulty::easy)_ <br> An inventory of tools and resources that aims to help people to find everything related to CyberSecurity.
 - [React](https://github.com/facebook/react) _(label: good first issue)_ <br> A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [React Native](https://github.com/facebook/react-native) _(label: Good-first-issue)_ <br> A framework for building native apps with React.
-- [React server](https://github.com/redfin/react-server) _(label: good-first-contribution)_ <br> React framework with server render for blazing fast page load and seamless transitions between pages in the browser.
-- [React-content-loader](https://github.com/danilowoz/create-content-loader) _(label: good first issue)_ <br> Tool to create your own react-content-loader easily.
 - [ReactiveSearch](https://github.com/appbaseio/reactivesearch) _(label: good first issue-:wave:)_ <br> A UI components library for Elasticsearch: Available for React, Vue and React Native.
 - [reactjs.org](https://github.com/reactjs/react.dev) _(label: good first issue)_ <br> The documentation website for reactjs
 - [serverless](https://github.com/serverless/serverless) _(label: good first issue)_ <br> The Serverless Framework
@@ -259,7 +258,6 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Matomo](https://github.com/matomo-org/matomo) _(label: help-wanted)_ <br> Matomo is the leading Free/Libre open analytics platform.
 - [MediaWiki](https://phabricator.wikimedia.org/maniphest/query/4Q5_qR51u_oz/#R) _(label: n/a)_ <br> The free and open-source wiki software package that powers Wikipedia.
 - [NextCloud Server](https://github.com/nextcloud/server) _(label: good first issue)_ <br> Nextcloud server, a safe home for all your data.
-- [OrgManager](https://github.com/orgmanager/orgmanager) _(label: beginners-only)_ <br> Supercharge your GitHub organizations!
 - [PHP Censor](https://github.com/php-censor/php-censor) _(label: good-for-beginner)_ <br> Open source self-hosted continuous integration server for PHP projects.
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) _(label: newbie)_ <br> Admin interface for MySQL written in PHP.
 - [PrestaShop](https://github.com/PrestaShop/PrestaShop) _(label: good first issue)_ <br> The open source ecommerce solution to start your online business and start selling online.
@@ -379,6 +377,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [Oppia](https://github.com/oppia/oppia) _(label: good first issue)_ <br> Oppia is an open-source project whose aim is to empower learners across the globe by providing access to high-quality, engaging education. We envision a society in which access to high-quality education is a human right rather than a privilege.
 - [Readest](https://github.com/readest/readest) _(label: good first issue)_ <br> A modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface.
 - [reatom](https://github.com/artalar/reatom) _(label: good first issue)_ <br> Reatom is declarative and reactive state manager, designed for both simple and complex applications.
+- [SigNoz](https://github.com/SigNoz/signoz) _(label: good first issue)_ <br> An Open Source observability platform that monitors your applications and services. It comes with out-of-box charts for key application metrics like p99 latency, error rate, Apdex, and operations per second. You can also monitor the database and external calls made from your application.
 - [Storybook JS](https://github.com/storybookjs/storybook) _(label: good first issue)_ <br> Storybook is a frontend workshop for building UI components and pages in isolation.
 - [supabase](https://github.com/supabase/supabase) _(label: good first issue)_ <br> The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [tinyhttp](https://github.com/talentlessguy/tinyhttp) _(label: good first issue)_ <br> A 0-legacy, tiny & fast web framework as a replacement of Express.

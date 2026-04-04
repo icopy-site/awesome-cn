@@ -9,6 +9,7 @@ A curated list of fonts and typography resources.
 * [27 fonts (give or take) that explain your world](https://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)
 * [FontAlternatives](https://fontalternatives.com/) - Free alternatives to premium fonts with visual comparisons
 * [Fontjoy](http://fontjoy.com/) - Generate font combinations with deep learning
+* [Gulim](https://gulim.andrew-ai.app/) - AI-powered font recommendation engine with mood-based search for Korean and global fonts, cross-script pairing, and CSS code generation
 * [Font Of Web](https://fontofweb.com) - Fonts from the most inspiring websites on the web
 * [Fonts In Use](https://fontsinuse.com/) - A public archive of typography
 * [Typewolf](https://www.typewolf.com/)
