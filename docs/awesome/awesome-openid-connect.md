@@ -180,6 +180,7 @@ Where to discover learning resources about OpenID Connect.
 - [OAuth 2.0 Demonstrating Proof of Possession (DPoP)](https://datatracker.ietf.org/doc/html/rfc9449) - Demonstrates proof of possession of the client's private key for OAuth 2.0.
 - [OpenID Connect Dynamic Client Registration](https://openid.net/specs/openid-connect-registration-1_0.html) - Mechanism for sender-constraining OAuth 2.0 tokens via a proof-of-possession mechanism on the application level which allows for the detection of replay attacks with tokens.
 - [OAuth 2.0 Token Introspection](https://datatracker.ietf.org/doc/html/rfc7662) - Method for a protected resource to query an OAuth 2.0 authorization server to determine the active state of an OAuth 2.0 token and to determine meta-information about this token.
+- [OAuth 2.0 Rich Authorization Requests (RAR)](https://datatracker.ietf.org/doc/html/rfc9396) - Extends OAuth 2.0 authorization requests with additional authorization_details parameter that allows clients to specify their fine-grained authorization requirements using the expressiveness of JSON data structures.
 - [Financial-grade API Security Profile 1.0 - Part 1: Baseline](https://openid.net/specs/openid-financial-api-part-1-1_0.html) - Baseline security profile of OAuth that is suitable for protecting APIs with a moderate inherent risk in the context of Financial-grade APIs.
 - [Financial-grade API Security Profile 1.0 - Part 2: Advanced](https://openid.net/specs/openid-financial-api-part-2-1_0.html) - Advanced security profile of OAuth that is suitable to be used for protecting APIs with high inherent risk in the context of Financial-grade APIs.
 - [JWT Secured Authorization Response Mode for OAuth 2.0 (JARM)](https://openid.net/specs/oauth-v2-jarm.html) - JWT-based mode to encode OAuth authorization response parameters with additional claims used to further protect the transmission.
@@ -209,6 +210,7 @@ Where to discover learning resources about OpenID Connect.
 - [OAuth 2.1](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-v2-1-13) - Consolidation of OAuth 2.0 specifications into a single document, removing deprecated features and clarifying best practices.
 - [OAuth 2.0 App2App Browserless Flow](https://github.com/yaron-zehavi/oauth-app2app-browserless) - Describing a protocol enabling native navigation across apps performing authentication using the App2App pattern, without requiring a web browser.
 - [OAuth 2.0 Attestation-Based Client Authentication](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-attestation-based-client-auth-07) - Extension to OAuth 2.0 enabling public clients to authenticate using key-bound attestations.
+- [OpenID Shared Signals Framework Specification 1.0](https://openid.net/specs/openid-sharedsignals-framework-1_0-ID3.html) - Shared Signals Framework (SSF) enables sharing of signals and events between cooperating peers that enables multiple applications such as Risk Incident Sharing and Coordination (RISC) and the Continuous Access Evaluation Profile (CAEP).
 
 ### Websites
 

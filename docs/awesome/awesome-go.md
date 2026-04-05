@@ -1283,6 +1283,7 @@ _Libraries, tools, and tutorials for interacting with hardware._
 - [go-rpio](https://github.com/stianeikeland/go-rpio) - GPIO for Go, doesn't require cgo.
 - [goroslib](https://github.com/aler9/goroslib) - Robot Operating System (ROS) library for Go.
 - [joystick](https://github.com/0xcafed00d/joystick) - a polled API to read the state of an attached joystick.
+- [moody](https://github.com/dinakars777/moody) - Hardware event personality daemon for macOS. Monitors USB, charger, lid, and other hardware events and responds with customizable personalities.
 - [sysinfo](https://github.com/zcalusic/sysinfo) - A pure Go library providing Linux OS / kernel / hardware system information.
 
 
@@ -2839,6 +2840,7 @@ _Libraries for version control._
 - [ggc](https://github.com/bmf-san/ggc) - A Git CLI tool with both traditional command-line and interactive incremental-search UI, workflow support, and configurable keybindings.
 - [git2go](https://github.com/libgit2/git2go) - Go bindings for libgit2.
 - [githooks](https://github.com/gabyx/githooks) - Per-repo and shared Git hooks with version control and auto update.
+- [gitty](https://github.com/Omibranch/gitty) - Single-binary Git/GitHub CLI that replaces add→commit→push with one command; human-readable syntax, no external dependencies.
 - [go-git](https://github.com/go-git/go-git) - highly extensible Git implementation in pure Go.
 - [go-vcs](https://github.com/sourcegraph/go-vcs) - manipulate and inspect VCS repositories in Go.
 - [hercules](https://github.com/src-d/hercules) - gaining advanced insights from Git repository history.

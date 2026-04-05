@@ -1,5 +1,5 @@
 <div class="github-widget" data-repo="zenitysec/awesome-low-code"></div>
-<div align="center">
+<div align=center>
 	<img width="250" height="175" src="https://raw.githubusercontent.com/zenitysec/awesome-low-code/master/media/repo_logo.png" alt="Awesome Low Code">
 	<br>
 	<br>
@@ -11,9 +11,8 @@
 		<a href="https://www.zenity.io">
 			<img src="https://raw.githubusercontent.com/zenitysec/awesome-low-code/master/media/zenity_logo.svg?sanitize=true"/>
 		</a>
-        <p>
-        Secure and govern your Low Code No Code applications without disrupting the business
-        </p>
+        <br>
+        <sub>Secure AI Agents Everywhere</sub>
 	</p>
 	<hr>
 </div>
@@ -41,12 +40,12 @@ A development platform for business users (citizen developer is a term for busin
 - [Trello Power-Ups (Atlassian)](https://trello.com/power-ups/category/automation) - Helps teams meet their unique business needs through adaptable features and integrations.
 - [Flow (Zoho)](https://www.zoho.com/flow/) - An integration platform that helps you connect your apps without any code.
 - [FormNX](https://formnx.com) - A no-code platform that helps to create forms without coding for free. It also provides integration options with webhook, Mailchimp, and you can embed forms in your websites or web applications easily without any coding.
-- [Postman Flows](https://learning.postman.com/docs/postman-flows/overview/#get-started-with-flows) -  Postman Flows low-code editor to prototype, build, and deploy API-first apps in a collaborative environment. Create flow modules that automate tasks, integrate systems, and showcase your APIs to others on your team or the entire world with the Postman API Network.
+- [Postman Flows](https://learning.postman.com/docs/postman-flows/overview/#get-started-with-flows) - A low-code editor to prototype, build, and deploy API-first apps in a collaborative environment. Create flow modules that automate tasks, integrate systems, and showcase your APIs to others on your team or the entire world with the Postman API Network.
 
 ### Low Code Application Platform
 
 An advanced development platform that enable organizations to create powerful enterprise grade applications with no to minimum extra coding requirements with easy to use drag & drop interfaces. Since such platforms simplify the application development process, more types of personas can contribute and accelerate the development process. Those platforms are PaaS development platforms, and can also reduce development cost and maintenance.
-- [Tabidoo (https://tabidoo.cloud/) - Powerful Low Code platform, with mature workflows, rights management and integrations (REST API). Many predefined templates. No charge per user.
+- [Tabidoo](https://tabidoo.cloud/) - Powerful Low Code platform, with mature workflows, rights management and integrations (REST API). Many predefined templates. No charge per user.
 - [Power Apps (Microsoft)](https://powerapps.com/) - Build apps in hours—not months—that easily connect to data, use Excel-like expressions to add logic, and run on the web, iOS, and Android devices.
 - [Power BI](https://powerbi.microsoft.com/) - Unify data from many sources to create interactive, immersive dashboards and reports that provide actionable insights and drive business results.
 - [Appian](https://appian.com/) - Provides a Low Code software development platform that enables organizations to rapidly develop powerful applications.
@@ -57,6 +56,7 @@ An advanced development platform that enable organizations to create powerful en
 - [BettyBlocks](https://www.bettyblocks.com/) - The #1 No Code platform for innovation, agility and empowerment. Used to create mobile, business and web applications at lightning speed.
 - [APEX (Oracle)](https://apex.oracle.com/en/platform/low-code/) - A Low Code development platform that enables you to build scalable, secure enterprise apps, with world-class features, that can be deployed anywhere.
 - [Salesforce Platform, prev. Force.com (Salesforce)](https://www.salesforce.com/products/platform) - Click, create, and ship from anywhere with Low Code.
+- [KAI-Flow](https://www.kaiflow.io/) - KAI Flow is a Open Source low-code platform developed for designing and scaling complex AI workflows.
 - [n8n](https://n8n.io/) - Workflow automation tool with many integrations and with fair-code license.
 - [Linx](https:/linx.software) - General-purpose low-code platform for building and hosting backends like APIs, automations and integrations.
 - [DronaHQ](https://www.dronahq.com/?ref=github-gs) - Drag and drop low code platform to build internal apps for web as well as mobile.
@@ -64,8 +64,11 @@ An advanced development platform that enable organizations to create powerful en
 - [Loopple](https://www.loopple.com) - A low code drag and drop dashboard builder.
 - [Appsheet (Google)](https://about.appsheet.com/home/) - Google AppSheet is a no-code development platform that enables users to create custom mobile and web applications without requiring extensive programming knowledge. It provides a drag-and-drop interface for building apps, and it can integrate with various data sources and APIs to automate workflows and improve productivity.
 - [YepCode](https://yepcode.io) - All-in-one platform to connect APIs and services in a serverless environment working directly with JavaScript or Python. It allows the development, execution and monitoring of integration and automation processes.
-- [DronaHQ](https://www.dronahq.com/) - DronaHQ - a low code platform helps engineering teams and product managers to build internal tools, custom user journeys, digital experiences, automations, custom admin panels, operational apps 10X faster.
-- [REI3](https://rei3.de/en/home) - REI3 is an open low code application platform. It runs on almost any system, on-premise or in the cloud and is free to use for individuals and organizations.
+- [DronaHQ](https://www.dronahq.com/) - A low code platform that helps engineering teams and product managers to build internal tools, custom user journeys, digital experiences, automations, custom admin panels, operational apps 10X faster.
+- [REI3](https://rei3.de/en/home) - An open low code application platform. It runs on almost any system, on-premise or in the cloud and is free to use for individuals and organizations.
+- [Iotellect](https://iotellect.com) - A low-code IoT platform for building device integration, data collection, and real-time visualization solutions. Supports 50+ industrial protocols (MQTT, OPC UA, Modbus) with drag-and-drop UI builder.
+- [TemplateFox](https://pdftemplateapi.com/) - A low code PDF generation platform with a drag-and-drop template editor and a REST API to automate document creation at scale.
+- [Rierino](https://rierino.com/) - Developer-first low-code platform for building and orchestrating enterprise backend applications, microservices, and APIs with visual flow design, composable architecture, and embedded AI capabilities. Free self-hosted Community Edition available.
 
 ### Business Process Management
 
@@ -100,6 +103,7 @@ A software application which is built and configured by its users to perform man
 
 - [Power Virtual Agents (Microsoft)](https://powervirtualagents.microsoft.com/) - Lets you create powerful chatbots that can answer questions posed by your customers, other employees, or visitors to your website or service.
 - [Workato Workbot](https://docs.workato.com/workbot/overview.html) - A bot platform that allows you to build customizable workflows.
+- [AnveVoice](https://anvevoice.app) - No-code AI voice agent for websites with one-line JS embed, supporting 50+ languages and requiring no coding skills.
 
 ### Integration Platform as a Service
 
@@ -159,8 +163,8 @@ A Low Code platform which supports full lifecycle API management, including crea
 - [Power Apps Branding Template](https://github.com/iAmManCat/PowerApps-Branding-Template) - A template to empower developers and reduce time wasted on control changes.
 - [SharePoint Power Platform Solutions](https://github.com/pnp/sp-power-platform-solutions) - Sample PowerApps solutions designed to be used in SharePoint context.
 - [Power Automate Samples](https://github.com/pnp/powerautomate-samples) - Contains curated community samples for Microsoft Power Automate.
-- [Automatic travel time](https://github.com/wortell/PowerAutomate-AutomatischeReistijd) - Automatic travel time in your Office 365 calendar.
-- [Message Center in Teams](https://github.com/ericsche/MCinTeams) - Message Center in Teams is a simple PowerAutomate Solution to gather Message Center Announcement and post them in a Teams Channel.
+- [Automatic travel time](https://github.com/wortell/PowerAutomate-AutomatischeReistijd) - Adds automatic travel time to your Office 365 calendar.
+- [Message Center in Teams](https://github.com/ericsche/MCinTeams) - A simple PowerAutomate solution to gather Message Center announcements and post them in a Teams channel.
 - [Consume Power BI](https://github.com/ferrybouwman/Power-BI-Read-Only-REST-API) - Solution based on either Powershell or Power Automate (Flow) to consume the recently released Power BI Asynchronous Unified Scanning API.
 - [Post List Item To Twitter](https://github.com/vaibhav21791/PostListItemToTwitter) - A Microsoft Power Automate Flow to Post a SharePoint List Item to Twitter along with media content.
 
