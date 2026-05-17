@@ -1,20 +1,4 @@
 <div class="github-widget" data-repo="academic/awesome-datascience"></div>
-<div align="center" markdown="1">
-   <sup>Special thanks to Sponsors:</sup>
-   <br />
-   <br />
-   <a href="https://requestly.com/awesomedatascience">
-      <img alt="Requestly sponsorship" width="400" src="https://raw.githubusercontent.com/user-attachments/assets/24670320-997d-4d62-9bca-955c59fe883d">
-   </a>
-   <br>
-   
-   ### [Requestly - Free & Open-Source alternative to Postman](https://requestly.com/awesomedatascience)
-   [All-in-one platform to Test, Mock and Intercept APIs](https://requestly.com/awesomedatascience)
-   <br>
-</div>
-
-<hr>
-
 <div align="center"><img src="https://raw.githubusercontent.com/academic/awesome-datascience/master/./assets/head.jpg"></div>
 
 ## AWESOME DATA SCIENCE
@@ -159,6 +143,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [LLMOps: Building Real-World Applications With Large Language Models](https://www.comet.com/site/llm-course/) - Learn to build modern software with LLMs using the newest tools and techniques in the field.
 - [Prompt Engineering for Vision Models](https://www.deeplearning.ai/short-courses/prompt-engineering-for-vision-models/) - Learn to prompt cutting-edge computer vision models with natural language, coordinate points, bounding boxes, segmentation masks, and even other images in this free course from DeepLearning.AI.
 - [Data Science Course By IBM](https://skillsbuild.org/students/course-catalog/data-science) - Free resources and learn what data science is and how it’s used in different industries.
+- [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) - A free video series by Andrej Karpathy covering neural networks from scratch — backpropagation, makemore, GPT, and more.
 
 
   
@@ -1103,6 +1088,7 @@ Some data mining competition platforms
 - [GeoLite Legacy Downloadable Databases](https://dev.maxmind.com/geoip)
 - [Hugging Face Datasets](https://huggingface.co/datasets)
 - [Japan Neighborhoods](https://japanneighborhoods.com) - English dataset of Tokyo crime statistics across 5,078 neighborhoods × 7 years (36,222 records, 2018-2024), sourced from Tokyo Metropolitan Police open data. Includes interactive crime map, safety grading, and cost-of-living index. CC BY licensed.
+- [The Quiet-Broke Index](https://jeevesagency.github.io/quiet-broke-index/) - A 30-metro composite ranking of how much of a $400K household income gets consumed by housing, taxes, childcare, healthcare, and transport. Open methodology, free, no email gate.
 - [Crime Brasil](https://crimebrasil.com.br) - Open-data platform for Brazilian crime statistics. Neighborhood-level in Rio Grande do Sul (2.99M incidents across 79,024 neighborhoods, 2022–2025), municipality-level for MG and RJ, plus national PRF highway and DATASUS interpersonal-violence data. Free REST API, CSV/Parquet, daily updates, CC BY 4.0.
 - [Quora's Big Datasets Answer](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 - [Public Big Data Sets](https://hadoopilluminated.com/hadoop_illuminated/Public_Bigdata_Sets.html)
