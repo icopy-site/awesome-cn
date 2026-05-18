@@ -1177,6 +1177,7 @@ Some data mining competition platforms
 - [Glossary of common statistics and ML terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/)
 - [100 NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
 - [Awesome Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme)
+- [ML/AI Interview Prep](https://github.com/aasimansari1/ml-interview-prep) - 500+ ML/AI interview Q&A with runnable code — covers ML fundamentals, deep learning, NLP, PyTorch, scikit-learn pipelines, and system design
 - [Data Science Interviews Questions](https://github.com/alexeygrigorev/data-science-interviews)
 - [Awesome Explainable Graph Reasoning](https://github.com/AstraZeneca/awesome-explainable-graph-reasoning)
 - [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)

@@ -144,6 +144,7 @@ A curated list of awesome HBase projects and resources.
 * [HBase High Performance Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/hbase-high-performance-cookbook) - Exciting projects that teach you how to use HBase.
 * [Apache HBase Primer](http://www.apress.com/us/book/9781484224236) - A compact guide to HBase essentials.
 * [Pro Apache Phoenix](http://www.apress.com/us/book/9781484223697) - Basic and best practices for using Phoenix.
+* [Mathematics of Big Data](https://mitpress.mit.edu/9780262038393/mathematics-of-big-data/) - The mathematical theory behind wide-column stores such as HBase.
 
 ### Papers
 

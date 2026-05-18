@@ -23,7 +23,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **223** projects · **50** actively maintained · **7** 🔥 hot · **42** 🪦 on the graveyard shelf.
+> Tracking **223** projects · **53** actively maintained · **8** 🔥 hot · **42** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](https://github.com/DavidLambauer/awesome-magento2/blob/master/contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -228,8 +228,8 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Marketing
 
+- [Google Tag Manager](https://github.com/magepal/magento2-google-tag-manager) 🫡 - Google Tag Manager (GTM) with Data Layer for Magento 2.
 - [MagePlaza Seo](https://github.com/mageplaza/magento-2-seo-extension) 🫡 - Well-documented multi-purpose SEO Extension.
-- [Google Tag Manager](https://github.com/magepal/magento2-google-tag-manager) - Google Tag Manager (GTM) with Data Layer for Magento 2.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
@@ -244,6 +244,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Custom SMTP](https://github.com/magepal/magento2-gmail-smtp-app) 🫡 - Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon SES, Microsoft Office 365 and other SMTP servers.
 - [Sentry.io](https://github.com/justbetter/magento2-sentry) 🫡 - Application monitoring and error tracking software for Magento 2.
 - [magento2-hyva-admin](https://github.com/hyva-themes/magento2-hyva-admin) 🫡 - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.
+- [Preview Checkout Success Page](https://github.com/magepal/magento2-preview-checkout-success-page) 🫡 - Quickly and easily preview and test your order confirmation page, without the need to place a new order each time.
 - [Guest to Customer](https://github.com/magepal/magento2-guest-to-customer) 🫡 - Quickly and easily convert existing guest checkout customers to registered customers.
 - [theme-adminhtml-m137](https://github.com/mage-os/theme-adminhtml-m137) 🫡 - M137 Admin Theme for Magento/Mage-OS
 - [Disable Stock Reservation](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) - Disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.
@@ -252,7 +253,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [FireGento Fast Simple Import](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
 - [Magento 2 Import Framework](https://github.com/techdivision/import) - A library supporting generic Magento 2 import functionality.
 - [Checkout Tester](https://github.com/yireo/Yireo_CheckoutTester2) - Extension to quickly test Checkout changes.
-- [Preview Checkout Success Page](https://github.com/magepal/magento2-preview-checkout-success-page) - Quickly and easily preview and test your order confirmation page, without the need to place a new order each time.
 - [PageNotFound](https://github.com/experius/Magento-2-Module-PageNotFound) - Saves upcoming 404s in your database with the possibility to create a redirect.
 - [Reset UI Bookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) - Allows admin users to reset their own UI bookmarks such as filter state, column positions and applied sorting (e.g. Sales > Orders).
 - [Product Links Navigator](https://github.com/elninotech/ElNino_ProductLinksNavigator) - Enhances admin product-to-product navigation. Adds direct frontend/backend links to products in grids and modals, and a "Parent Products" tab.
@@ -300,11 +300,11 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Progressive Web Application
 
-- [ScandiPWA Theme](https://github.com/scandipwa/base-theme) - Magento 2.3+ PWA theme based on React and Redux.
+- [ScandiPWA Theme](https://github.com/scandipwa/base-theme) 🔥 - Magento 2.3+ PWA theme based on React and Redux.
+- [graphcommerce](https://github.com/graphcommerce-org/graphcommerce) 🫡 - GraphCommerce® is a headless storefront replacement for Magento 2 (PWA), that delivers a faster, better user experience. Fully customizable (React, Next.js) and open-source.
 - [magento2-default-theme](https://github.com/hyva-themes/magento2-default-theme) - A Magento theme built with Tailwind
 - [magento2-theme-module](https://github.com/hyva-themes/magento2-theme-module) - Magento Tailwind Theme companion module
 - [magento2-default-theme-csp](https://github.com/hyva-themes/magento2-default-theme-csp) - A strict CSP compatible Magento theme built with Tailwind and Alpine.js
-- [graphcommerce](https://github.com/graphcommerce-org/graphcommerce) - GraphCommerce® is a headless storefront replacement for Magento 2 (PWA), that delivers a faster, better user experience. Fully customizable (React, Next.js) and open-source.
 
 ---
 

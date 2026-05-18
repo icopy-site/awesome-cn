@@ -234,6 +234,7 @@ Do you need a [data model](https://en.wikipedia.org/wiki/Data_model)? If you are
 * [Biolink](https://biolink.github.io/biolink-model/) - [code](https://github.com/biolink/biolink-model) - A data model of biological entities. Provided as a [YAML](https://yaml.org/) file.
 * [BioUML](http://wiki.biouml.org/index.php/BioUML) - [paper](https://academic.oup.com/nar/article/47/W1/W225/5498754) - An architecture for biomedical data analysis, integration, and visualization. Conceptually based on the visual modeling language [UML](https://www.uml.org/what-is-uml.htm).
 * [OMOP Common Data Model](https://github.com/OHDSI/CommonDataModel) - a standard for observational healthcare data.
+* [unmiri-ngs-fhir-schema](https://github.com/unmirihealth/unmiri-ngs-fhir-schema) - Apache-2.0 JSON Schema (Draft 2020-12) API contract for cross-vendor somatic NGS interpretation output (Foundation Medicine, Tempus, Caris, Guardant), aligned with the HL7 FHIR Genomics IG. A standards-aligned target representation for biomedical information-extraction pipelines that parse oncology lab reports.
 
 
 ## Credits

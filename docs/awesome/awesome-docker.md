@@ -3,7 +3,7 @@
 
 > A curated list of projects for Docker.
 
-If you would like to contribute, please read [CONTRIBUTING.md][contributing] first.
+If you would like to contribute, please read [CONTRIBUTING.md](https://github.com/veggiemonk/awesome-docker/blob/master/.github/CONTRIBUTING.md) first.
 If this list is not complete, you can contribute to make it so.
 If you see a link here that is not (any longer) a good fit, you can fix it by submitting a [pull request][editreadme] to improve this file. Thank you!
 
@@ -173,7 +173,6 @@ Signing, attestation, and provenance for container images.
 - [plash](https://github.com/ihucos/plash) - A container run and build engine - runs inside docker.
 - [podman-compose](https://github.com/containers/podman-compose) - A script to run docker-compose.yml using podman.
 - [Smalte](https://github.com/roquie/smalte) – Dynamically configure applications that require static configuration in docker container.
-- [Stitchocker](https://github.com/alexaandrov/stitchocker) - A lightweight and fast command line utility for conveniently grouping your docker-compose multiple container services.
 
 ### Orchestration
 
@@ -226,7 +225,6 @@ Self-hosted and managed cloud platforms (PaaS/CaaS, deployment automation). Comm
 Container networking, overlay networks, DNS/service-discovery bridges.
 
 - [Calico][calico] - Calico is a pure layer 3 virtual network that allows containers over multiple docker-hosts to talk to each other.
-- [docker-consul](https://github.com/gliderlabs/docker-consul) - Consul packaged for Docker — registers and discovers running containers.
 - [docker-dns](https://github.com/bytesharky/docker-dns) - Lightweight DNS forwarder for Docker containers, resolves container names with custom suffixes (e.g. `.docker`) on the host to simplify service discovery.
 - [Flannel](https://github.com/coreos/flannel/) - Flannel is a virtual network that gives a subnet to each host for use with container runtimes.
 - [netshoot](https://github.com/nicolaka/netshoot) - The netshoot container has a powerful set of networking tools to help troubleshoot Docker networking issues.
@@ -234,6 +232,8 @@ Container networking, overlay networks, DNS/service-discovery bridges.
 - [registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker.
 
 ### Reverse Proxy
+
+Container-aware reverse proxies, ingress, and TLS-terminating front-ends with auto-discovery.
 
 - [BunkerWeb](https://github.com/bunkerity/bunkerweb) - Open-source and next-gen Web Application Firewall (WAF).
 - [caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy-based reverse proxy, configured with service or container labels.
@@ -250,7 +250,6 @@ Container networking, overlay networks, DNS/service-discovery bridges.
 
 ## Storage & Data
 
-- [Blockbridge](https://github.com/blockbridge/blockbridge-docker-volume) - :yen: The Blockbridge plugin is a volume plugin that provides access to an extensible set of container-based persistent storage options. It supports single and multi-host Docker environments with features that include tenant isolation, automated provisioning, encryption, secure deletion, snapshots and QoS.
 - [Label Backup](https://github.com/resulgg/label-backup) - A lightweight, Docker-aware backup agent that automatically discovers and backs up containerized databases (PostgreSQL, MySQL, MongoDB, Redis) based on Docker labels. Supports local storage and S3-compatible destinations with flexible scheduling via cron expressions.
 - [Docker Volume Backup](https://github.com/offen/docker-volume-backup) Backup Docker volumes locally or to any S3 compatible storage.
 - [Netshare](https://github.com/ContainX/docker-volume-netshare) Docker NFS, AWS EFS, Ceph & Samba/CIFS Volume Plugin.
@@ -269,6 +268,7 @@ Monitor Docker hosts, containers, and the services running inside them. Self-hos
 - [cAdvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [Datadog](https://www.datadoghq.com/) - :yen: Full-stack monitoring service with first-class Docker, Kubernetes, and Mesos support.
 - [DLIA](https://github.com/zorak1103/dlia) - DLIA is an AI-powered Docker log monitoring agent that uses Large Language Models (LLMs) to intelligently analyze container logs, detect anomalies, and provide contextual insights over time.
+- [docker-exporter](https://github.com/dlepaux/docker-exporter) - Lightweight Prometheus exporter for Docker container metrics written in Rust. Correct cgroup v2 memory working set on ARM64 (Raspberry Pi 5), runs non-root with a read-only socket, ~7 MiB idle RAM.
 - [Docker-Sentinel](https://github.com/Will-Luck/Docker-Sentinel) - Automated container updates with per-container policies, rollback safety, and a real-time web dashboard.
 - [DockProbe](https://github.com/deep-on/dockprobe) - Lightweight Docker monitoring dashboard in a single container. Real-time metrics, 6 anomaly detection rules, Telegram alerts, and 16 automated security scans. Zero config, ~50MB RAM.
 - [DockProc](https://gitlab.com/n0r1sk/dockproc) - I/O monitoring for containers on processlevel.
@@ -279,6 +279,7 @@ Monitor Docker hosts, containers, and the services running inside them. Self-hos
 - [Dynatrace](https://docs.dynatrace.com/docs/observe/infrastructure-observability/container-platform-monitoring) - :yen: Monitor containerized applications without installing agents or modifying your Run commands.
 - [Grafana Docker Dashboard Template](https://grafana.com/grafana/dashboards/179-docker-prometheus-monitoring/) - A template for your Docker, Grafana and Prometheus stack.
 - [Maintenant](https://github.com/kolapsis/maintenant) - Self-discovering infrastructure monitoring for Docker and Kubernetes. Auto-detects containers via labels, with endpoint monitoring, heartbeats, TLS certificates, resource metrics, update intelligence, and a built-in status page. Single binary with embedded SPA.
+- [Middleware](https://middleware.io/) - :yen: Monitor Docker hosts, containers, logs, and application performance from a unified observability platform.
 - [Site24x7](https://www.site24x7.com/docker-monitoring.html) - :yen: Docker Monitoring for DevOps and IT, SaaS Pay-per-Host model.
 - [Sysdig Monitor](https://www.sysdig.com/products/monitor) - :yen: Software or SaaS service that monitors, alerts, and troubleshoots containers using system calls; container-specific features for Docker and Kubernetes.
 - [Wiremap](https://github.com/codeofmario/wiremap) - A self-hosted visual Docker network topology explorer with real-time log streaming, live stats, embedded terminal, and container inspection.
@@ -291,10 +292,10 @@ Container hardening, runtime security, policy, compliance, and forensics. Self-h
 - [buildcage](https://github.com/dash14/buildcage) - Restricts outbound network access during Docker builds to prevent supply chain attacks, working as a drop-in BuildKit remote driver for Docker Buildx, with ready-to-use GitHub Actions.
 - [CetusGuard](https://github.com/hectorm/cetusguard) - CetusGuard is a tool that protects the Docker daemon socket by filtering calls to its API endpoints.
 - [Checkov](https://github.com/bridgecrewio/checkov) - Static analysis for infrastructure as code manifests (Terraform, Kubernetes, Cloudformation, Helm, Dockerfile, Kustomize) find security misconfiguration and fix them.
+- [container-explorer](https://github.com/google/container-explorer) - Forensic utility to explore Docker and containerd container details from mounted disk images.
 - [Deepfence Threat Mapper](https://github.com/deepfence/ThreatMapper) - Powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless.
 - [Den](https://github.com/us/den) - Self-hosted sandbox runtime for AI agents with Docker containers, security hardening, REST API and WebSocket support.
 - [docker-bench-security](https://github.com/docker/docker-bench-security) - Script that checks for dozens of common best-practices around deploying Docker containers in production.
-- [docker-explorer](https://github.com/google/docker-explorer) - A tool to help forensicate offline docker acquisitions.
 - [docker-socket-proxy](https://github.com/Tecnativa/docker-socket-proxy) - HAProxy-based fine-grained filter for the Docker API socket; widely used to expose a restricted socket to reverse proxies and homelab stacks.
 - [KICS](https://github.com/checkmarx/kics) - An infrastructure-as-code scanning tool, find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle. Can be extended for additional policies.
 - [Prisma Cloud](https://www.paloaltonetworks.com/prisma/cloud) - :yen: (Previously Twistlock Security Suite) detects vulnerabilities, hardens container images, and enforces security policies across the lifecycle of applications.
@@ -323,7 +324,6 @@ TUIs, CLI tools, and shell integrations for Docker.
 - [dctl](https://github.com/FabienD/docker-stack) - Dctl is a Cli tool that helps developers by allowing them to execute all docker compose commands anywhere in the terminal, and more.
 - [decompose](https://github.com/s0rg/decompose) - Reverse-engineering tool for docker environments.
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image.
-- [dockdash](https://github.com/byrnedo/dockdash) - Detailed Docker container stats.
 - [docker pushrm](https://github.com/christian-korneck/docker-pushrm) - A Docker CLI plugin that lets you push the README.md file from the current directory to Docker Hub. Also supports Quay and Harbor.
 - [docker-captain](https://github.com/lucabello/docker-captain) - A friendly CLI to manage multiple Docker Compose deployments with style — powered by Typer, Rich, questionary, and sh.
 - [dockerfile-mode](https://github.com/spotify/dockerfile-mode) - An Emacs mode for handling Dockerfiles.
@@ -602,7 +602,6 @@ Tools and applications that are either installed inside containers or designed t
 
 [![Stargazers over time](https://starchart.cc/veggiemonk/awesome-docker.svg?variant=adaptive)](https://starchart.cc/veggiemonk/awesome-docker)
 
-[contributing]: https://github.com/veggiemonk/awesome-docker/blob/master/.github/CONTRIBUTING.md
 [calico]: https://github.com/projectcalico/calico
 [coreos]: https://github.com/coreos
 [distribution]: https://github.com/docker/distribution
