@@ -477,6 +477,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [astral-accessibility](https://github.com/verto-health/astral-accessibility) - An open-source accessibility widget written in Angular.
 * [a11y-libraries](https://github.com/LDV2k3/a11y-libraries) - A range of accessibility solutions for Angular.
 * [a11yguard](https://github.com/shamaz332/a11yguard) - Delivers a zero‑dependency accessibility toolkit with cross‑framework primitives, idiomatic adapters, and a runtime audit mapped to EAA / EN 301 549.
+* [ulam](https://github.com/mikeyil/ulam) - Accessibility utilities for the modern web. Vanilla-first, with optional React, Remix, Vue, and Angular adapters.
 
 ### AI
 
@@ -1741,6 +1742,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-smart-pipes](https://github.com/Kavshree/-bjkavyashree-ngx-smart-pipes) - A lightweight, tree-shakeable collection of standalone Angular pipes designed for real-world use cases.
 * [ngx-dynamic-search](https://github.com/mustafaer/ngx-dynamic-search) - Angular pipe designed for dynamic, deep search filtering across complex nested objects and arrays.
 * [ngx-name-capitalize](https://github.com/gabo2151/ngx-name-capitalize) - Angular pipe for name capitalization that formats compound surnames, linguistic particles, hyphenated names, apostrophes, and Unicode characters.
+* [ngx-transforms](https://github.com/mofirojean/ngx-transforms) - 90+ standalone, tree-shakable pipes for strings, numbers, dates, arrays, objects, and more.
 
 ### Printing
 
@@ -1897,6 +1899,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [eagami-design-system](https://github.com/mwiraszka/eagami-design-system) - Lightweight, accessible Angular UI component library built on CSS custom properties.
 * [angular-liquid-glass](https://github.com/thiagopac/angular-liquid-glass) - A standalone Angular component library for liquid glass and glassmorphism interfaces.
 * [ngx-pk-ui](https://github.com/superpck/ngx-pk-ui) - An Angular 21 component library providing UI components and CSS utilities.
+* [magary](https://github.com/JhoanGon/magary) - A modern, standalone-first Angular UI library monorepo.
 
 ### UI Libraries built on Bootstrap
 
@@ -2111,6 +2114,7 @@ for the creation of web applications developed with Angular.
 * [angular-calendly](https://github.com/tolutronics/angular-calendly) - A modern Angular library that provides standalone components for embedding [Calendly](https://calendly.com/) scheduling widgets.
 * [angular-email-editor](https://github.com/unlayer/angular-email-editor) - Drag-n-drop email editor by [Unlayer](https://unlayer.com/embed) as an Angular wrapper component.
 * [angular-three](https://github.com/angular-threejs/angular-three) - Angular Renderer for [THREE.js](https://github.com/mrdoob/three.js).
+* [atlas-editor](https://github.com/sumanthnagireddi/atlas-editor) - Angular wrappers that dynamically load the React‑based Atlaskit editor and side‑navigation web components.
 * [chat-widget-adapters](https://github.com/livechat/chat-widget-adapters) - Angular wrapper for the [LiveChat](https://developers.livechat.com/) Chat Widget (JavaScript API).
 * [ckeditor5-angular](https://github.com/ckeditor/ckeditor5-angular) - An official CKEditor 5 rich text editor component for Angular 2+.
 * [cytoscape-angular](https://github.com/michaelbushe/cytoscape-angular) - A production-ready Angular library providing sophisticated graph visualization capabilities using [Cytoscape.js](https://js.cytoscape.org/).

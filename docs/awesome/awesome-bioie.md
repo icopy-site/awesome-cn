@@ -37,6 +37,7 @@ _Please read the [contribution guidelines](https://github.com/caufieldjh/awesome
   * For some historical context on LBD, see papers by University of Chicago's Don Swanson and Neil Smalheiser, including [_Undiscovered Public Knowledge_](https://www.jstor.org/stable/4307965) (paywalled) and [_Rediscovering Don Swanson: the Past, Present and Future of Literature-Based Discovery_](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5771422/).
 * [Mining Electronic Health Records (EHRs): A Survey](https://arxiv.org/abs/1702.03222) - A review of the methods and philosophy behind mining electronic health records, including using them for adverse event detection. See Table 2 for a list of relevant papers as of mid-2017.
 * [Capturing the Patient's Perspective: a Review of Advances in Natural Language Processing of Health-Related Text](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6250990/) - A 2017 review of natural language processing methods applied to information extraction in health records and social media text. An important note from this review: "One of the main challenges in the field is the availability of data that can be shared and which can be used by the community to push the development of methods based on comparable and reproducible studies".
+* [Awesome AI-based Protein Design](https://github.com/opendilab/awesome-AI-based-protein-design) - This is a collection of research papers for AI-based protein design.
 
 
 ## Groups Active in the Field
