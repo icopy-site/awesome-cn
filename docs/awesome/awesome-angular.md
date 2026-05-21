@@ -491,6 +491,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [AGENT.md](https://ampcode.com/AGENT.md#tool-integration) - The universal agent configuration file.
 * [agentbridge](https://github.com/ayoubachak/agentbridge) - A framework that standardizes how AI agents discover, interact with, and control application components.
 * [agent-rules-kit](https://github.com/tecnomanu/agent-rules-kit) - A CLI tool for AI that installs and configures rules to guide agents in technology stack best practices.
+* [agentskit](https://github.com/AgentsKit-io/agentskit) - Composable toolkit and headless chat components for building AI agents in Angular, with streaming, tools, memory and RAG.
 * [aitools.fyi](https://aitools.fyi/technology/angular) - AI Tools Built With Angular.
 * [Angular code editor rules](https://promptgenius.net/cursorrules/frameworks/frontend/angular) - Guide for effective AI interaction patterns when working with Angular code.
 * [@Kobolden/angular-skills](https://github.com/Kobolden/angular-skills) - Enhance your Angular development with skills for AI-assisted coding, featuring up-to-date patterns, best practices, and examples for version 20+.
@@ -534,6 +535,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [oculr-ngx](https://github.com/Progressive-Insurance/oculr-ngx) - An analytics library that makes collecting data in an Angular app simple.
 * [plausible](https://github.com/plausible/analytics) - Lightweight, open‑source, privacy‑friendly analytics with SPA support—see [SPA support](https://plausible.io/docs/spa-support).
 * [rybbit](https://github.com/rybbit-io/rybbit) - A privacy-friendly alternative to Google Analytics; see this [guide](https://www.rybbit.io/docs/guides/angular) for Angular integration.
+* [gizmo](https://gizmoanalytics.io/) - An AI native alternative to Google Analytics, with a more generous free tier than competitors. 
 * [ngx-segment-community](https://github.com/behdi/ngx-segment-community) - The community-maintained successor to [ngx-segment-analytics](https://github.com/opendecide/ngx-segment-analytics).
 * [swetrix](https://github.com/Swetrix/swetrix) - [Integrate Swetrix with your Angular application](https://swetrix.com/docs/angular-integration) to track page views, monitor errors, and capture custom events — all while staying privacy-friendly and GDPR-compliant.
 * [@grandgular/logrocket-angular](https://github.com/Grandgular/logrocket) - Wrapper for the LogRocket Web SDK with DI‑friendly init, lazy loading, typed options, privacy helpers, and DOM directives for data‑private/data‑public.
@@ -739,6 +741,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Super JSS](https://github.com/rsantoyo-dev/super-jss-workspace) - Super JavaScript Stylesheets is a tiny Angular runtime library that generates atomic CSS with breakpoints and theming.
 * [Theme-Kit](https://github.com/M1tsumi/Theme-Kit) - A unified design‑token SDK that centralizes your colors, typography, and spacing for seamless use across React, Vue, Angular, or any JavaScript project.
 * [tokiforge](https://github.com/TokiForge/tokiforge) - Framework-agnostic design token engine for React, Vue, Angular, Svelte & vanilla JS.
+* [ukit-css](https://github.com/vcalderondev/ukit-css) - JIT utility-first CSS engine — Tailwind-style on-demand class generation for any frontend stack (React, Vue, Angular, Svelte, Next.js, Astro, plain HTML).
 
 ## Security and Authentication
 
@@ -1148,6 +1151,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-cookie-ssr](https://github.com/Ask-786/ngx-cookie-ssr) - A straightforward cookie service for Angular 19 applications, inspired by ngx-cookie-service.
 * [ngx-gdpr-cookie-consent](https://github.com/KoblerS/ngx-gdpr-cookie-consent) - A beautiful Cookie consent library, easy to use.
 * [smallest-cookie-banner](https://github.com/DreadfulCode/smallest-cookie-banner) - Minimal framework-agnostic cookie consent banner.
+* [ngrithms-cookie-consent](https://github.com/aboudbadra/ngrithms-cookie-consent) - Modern Angular cookie consent — standalone components, signal-based state, `provideCookieConsent()` functional setup, SSR-safe, and zero runtime dependencies.
 
 ### CSV
 
@@ -1310,6 +1314,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-json-editor](https://github.com/RonnyValdivieso/ngx-json-editor) - A minimal, themeable JSON editor for Angular.
 * [ngx-ace-signal](https://github.com/WebArtWork/ngx-ace-signal) - A modern Angular signals-based wrapper for the Ace editor.
 * [ngx-rwriter](https://github.com/ReiAg/ngx-rwriter) - A modern Rich Text Editor component for Angular 21+ with native support for images, alignment, lists, color pickers, and translations.
+* [ngx-pro-editor](https://github.com/ChauhanShubham8758/ngx-pro-editor) - A feature-rich WYSIWYG editor for Angular with auto-save, special characters, and advanced formatting.
 
 ### File Upload
 
@@ -1708,6 +1713,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [web-notifier](https://github.com/andreasnicolaou/web-notifier) - Lightweight, flexible web notification library with simple RxJS‑based API for browser notifications.
 * [ngx-dynamic-toast](https://github.com/ederjavs/ngx-dynamic-toast) - An elegant, liquid-smooth toast notification library for Angular, heavily inspired by the beautiful [Sileo](https://github.com/hiaaryan/sileo) project.
 * [flexi-toast](https://github.com/FlexiUI-labs/flexi-toast) - Angular toast notification component with title, message, icon types, auto-dismiss, manual close, animations, theme, and positioning support.
+* [ngx-notitia](https://github.com/klajdm/ngx-notitia) - Updated fork of `ngx-toastr` with additional features, fixes, and modernizations for Angular 21+.
 
 ### Onboarding and Product Tours
 

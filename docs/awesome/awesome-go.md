@@ -2207,6 +2207,7 @@ _Libraries that are used to help make your application more secure._
 - [teler-waf](https://github.com/kitabisa/teler-waf) - teler-waf is a Go HTTP middleware that provide teler IDS functionality to protect against web-based attacks and improve the security of Go-based web applications. It is highly configurable and easy to integrate into existing Go applications.
 - [themis](https://github.com/cossacklabs/themis) - high-level cryptographic library for solving typical data security tasks (secure data storage, secure messaging, zero-knowledge proof authentication), available for 14 languages, best fit for multi-platform apps.
 - [urusai](https://github.com/calpa/urusai) - Urusai ("noisy" in Japanese) is a Go implementation of a random HTTP/DNS traffic noise generator that helps protect privacy by creating digital smokescreens while browsing.
+- [veil](https://github.com/getveil/veil) - Local HTTPS proxy that hides API credentials from AI coding agents. OS keychain integration, format-aware placeholders, SQLite audit log.
 
 
 ## Serialization
@@ -3298,6 +3299,7 @@ _Software written in Go._
 - [tlm](https://github.com/yusufcanb/tlm) - Local cli copilot, powered by CodeLLaMa
 - [traefik](https://github.com/containous/traefik) - Reverse proxy and load balancer with support for multiple backends.
 - [trubka](https://github.com/xitonix/trubka) - A CLI tool to manage and troubleshoot Apache Kafka clusters with the ability of generically publishing/consuming protocol buffer and plain text events to/from Kafka.
+- [Updatecli](https://github.com/updatecli/updatecli) - A universal declarative update policy engine.
 - [uTask](https://github.com/ovh/utask) - Automation engine that models and executes business processes declared in yaml.
 - [Vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [wait-for](https://github.com/dnnrly/wait-for) - Wait for something to happen (from the command line) before continuing. Easy orchestration of Docker services and other things.
@@ -3353,6 +3355,7 @@ _Software written in Go._
 - [limetext](https://limetext.github.io) - Lime Text is a powerful and elegant text editor primarily developed in Go that aims to be a Free and open-source software successor to Sublime Text.
 - [LiteIDE](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
 - [mac-cleanup-go](https://github.com/2ykwang/mac-cleanup-go) - Preview-first TUI for cleaning macOS caches, logs, and temporary files.
+- [mdv](https://github.com/Allra-Fintech/mdv) - CLI tool that renders Markdown files in the browser with live reload, GFM, syntax highlighting, Mermaid diagrams, and PDF export.
 - [mockingjay](https://github.com/quii/mockingjay-server) - Fake HTTP servers and consumer driven contracts from one configuration file. You can also make the server randomly misbehave to help do more realistic performance tests.
 - [myLG](https://github.com/mehrdadrad/mylg) - Command Line Network Diagnostic tool written in Go.
 - [naclpipe](https://github.com/unix4fun/naclpipe) - Simple NaCL EC25519 based crypto pipe tool written in Go.

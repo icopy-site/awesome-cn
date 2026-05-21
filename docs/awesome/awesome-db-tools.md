@@ -173,6 +173,7 @@ Building API for your Data
 - [DreamFactory](https://github.com/dreamfactorysoftware/dreamfactory) - A open source REST API backend for mobile, web, and IoT applications.
 - [Graphweaver](https://github.com/exogee-technology/graphweaver) - Turn multiple data sources into a single GraphQL API.
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on PostgreSQL with fine grained access control, also trigger webhooks on database events.
+- [JdbcREST](https://github.com/synthesized-io/jdbcrest/) - REST API for any JDBC-backed database, a PostgREST clone written in Java.
 - [Oracle REST Data Services](http://www.oracle.com/technetwork/developer-tools/rest-data-services) - A mid-tier Java application, ORDS maps HTTP(S) verbs (GET, POST, PUT, DELETE, etc.) to database transactions and returns any results formatted using JSON.
 - [Prisma](https://github.com/prismagraphql/prisma) - Turns your database into a realtime GraphQL API.
 - [PostGraphile](https://github.com/graphile/postgraphile) - Instantly spin-up a GraphQL API server by pointing PostGraphile at your existing PostgreSQL database.

@@ -1435,6 +1435,7 @@ If you're looking for a new font to use, check out [www.codingfont.com](https://
 - [poetry (murku)](https://github.com/murku/omz_poetry_plugin) - Adds aliases for frequently used [Poetry](https://poetry.eustace.io/) commands
 - [poetry (sudosabin)](https://github.com/sudosubin/zsh-poetry) - Enables poetry `$PATH` and autocompletions.
 - [popman](https://github.com/jdsee/popman) - Ever found yourself in the middle of composing a long command and needing to check a man page? Popman lets you instantly pop open a man page for any command you're typing and jump right back to where you left off, making your command-line experience smoother and more efficient.
+- [popular.zsh](https://github.com/sajjadRabiee/popular-zsh) - Lets you bookmark, template, and re-run your most-used ZSH commands with `padd`, `p`, and `pls`. Supports AES-256-CBC encrypted secret placeholders, history capture via `paddh`, tab completion, and export/import including direct import from a GitHub repository.
 - [portal](https://github.com/anasouardini/portal/) - A very basic script for jumping to/from paths without having to do write the whole path, open multiple terminal sessions or do a file system search using [fzf](https://github.com/junegunn/fzf). Heavily inspired by [Z](https://github.com/rupa/z).
 - [posh-git-bash](https://github.com/lyze/posh-git-sh) - Adds `git` status in your prompt.
 - [ppsmon](https://github.com/mzpqnxow/ppsmon) - Reads `/sys/class/net/$interface/` to keep track of packet transmission rates. It stores the current rate to a file in the RAM backed filesystem where it can be easily accessed for display in a shell-prompt. Linux-only due to use of `/sys`.
@@ -2640,7 +2641,6 @@ These plugins add tab completions without adding extra functions or aliases.
 - [mike-was-here](https://github.com/leguim-repo/mike-was-here-theme/) - Minimalist, includes `git` status decorations.
 - [milight](https://github.com/frodoslaw/milight-zsh) - Minimal ZSH prompt with `git` status display, works best with dark terminal backgrounds.
 - [mindful-space](https://github.com/syndbg/mindful-space-zsh-theme) - ZSH theme with space in mind.
-- [mini-simple](https://github.com/ysl2/mini-simple-zsh-prompt) - Minimalist. Includes `vcs` status decorations.
 - [minima](https://github.com/Brolly0204/zsh-minima) - Includes `git`, `node`, `golang`, `yarn`, `php`, `docker` and `python` status decorations.
 - [minimal (glsorre)](https://github.com/glsorre/minimal/) - A minimal asynchronous ZSH theme optimized for use with the [Fira Code](https://github.com/tonsky/FiraCode) font and the [Solarized Light](https://ethanschoonover.com/solarized) terminal theme.
 - [minimal (subnixr)](https://github.com/subnixr/minimal) - Minimal yet feature-rich theme.
