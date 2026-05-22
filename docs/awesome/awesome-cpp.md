@@ -423,6 +423,7 @@ A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny
 * [Trilogy](https://github.com/trilogy-libraries/trilogy) - a client library for MySQL-compatible database servers, designed for performance, flexibility, and ease of embedding. [MIT]
 * [UStore](https://github.com/unum-cloud/ustore) - Multi-Modal database for BLOBs, JSON, and graphs. [Apache2]
 * [Velox](https://github.com/facebookincubator/velox) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems. [Apache-2.0] [website](https://velox-lib.io/)
+* [Zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database. [Apache2] [website](https://zvec.org/)
 * [constexpr-sql](https://github.com/mkitzan/constexpr-sql) - A compile-time SQL query parser and executor in C++17. [MIT]
 * [NuDB](https://github.com/cppalliance/NuDB) - A fast, append-only key/value store for SSD drives. [Boost]
 
@@ -1249,6 +1250,7 @@ regular expression pattern matching. [BSD] [website](https://pcre2project.github
 * [FastFormat](http://www.fastformat.org) - Fast, Safe C++ Formatting inspired by log4j and Pantheios. [Simplified BSD]
 * [fast_io](https://github.com/cppfastio/fast_io) - Significantly faster input/output for C++20. [MIT]
 * [fccf](https://github.com/p-ranav/fccf) - A command-line tool that recursively searches a directory to find C/C++ source code matching a search string. [MIT]
+* [ffc.h](https://github.com/kolemannix/ffc.h) - Single-header c99 accelerated float/double parsing. Port of the fast_float library. [Apache-2.0/BSL-1.0/MIT]
 * [{fmt}](https://github.com/fmtlib/fmt) :zap: - Small, safe and fast formatting library for C++. [Simplified BSD] [website](https://fmt.dev)
 * [gcc-poison](https://github.com/leafsr/gcc-poison) - A simple header file for developers to ban unsafe C/C++ functions from applications.
 * [Gear-Lib](https://github.com/gozfree/gear-lib) - A collection of basic libraries in POSIX C for embedded and network service development. [MIT]
