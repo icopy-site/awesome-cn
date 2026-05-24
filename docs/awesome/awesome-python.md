@@ -7,8 +7,6 @@ An opinionated guide to the best Python frameworks, libraries, tools, and resour
 
 ## **Sponsors**
 
-- **[pyr](https://pyrun.dev)**: Zero-config Python project manager. Bootstraps its own runtime, app-convention, and working imports - out the box.
-
 > The **#10 most-starred repo on GitHub**. Put your product in front of Python developers. [Become a sponsor](https://github.com/vinta/awesome-python/blob/master/SPONSORSHIP.md).
 
 ## Categories
