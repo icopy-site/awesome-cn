@@ -60,5 +60,13 @@ Wiki should be detail, up to date and well structured. It should be easy to find
 - [How can I make a pull request for a Wiki page on GitHub?](https://stackoverflow.com/questions/10642928/how-can-i-make-a-pull-request-for-a-wiki-page-on-github)
 - [How to remove GitHub's Wiki default sidebar?](https://stackoverflow.com/questions/23635414/how-to-remove-githubs-wiki-default-sidebar)
 
+## Popular AI Tools
+- [CodeWiki (Google)](https://codewiki.google/)
+- [DeepWiki](https://docs.devin.ai/work-with-devin/deepwiki)
+- [RepoWiki](https://github.com/he-yufeng/RepoWiki)
+- [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
+- [Github Wiki Generator](https://github.com/Satttoshi/github-wiki-generator)
+- [OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki)
+
 ## Contributing
 Contributions are very welcome! Please read the [contribution guideline](https://github.com/MyHoneyBadger/awesome-github-wiki/blob/master/contributing.md) first.
