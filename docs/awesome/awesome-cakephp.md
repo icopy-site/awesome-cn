@@ -61,7 +61,7 @@ Additional lists you might find useful:
 - [CakeVerification plugin](https://github.com/salines/cakephp-verification) - Two-factor verification supporting email OTP, email magic link, SMS OTP, and TOTP (Google Authenticator).
 
 - [TinyAuth plugin](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role-based (single/multi) authorization as very light-weight approach.
-- [Tools:Passwordable](https://github.com/dereuromark/cakephp-tools) - Containing [Passwordable behavior](https://github.com/dereuromark/cakephp-tools/blob/master/docs/Behavior/Passwordable.md) for a DRY approach on password hashing.
+- [Tools:Passwordable](https://github.com/dereuromark/cakephp-tools) - Containing [Passwordable behavior](https://dereuromark.github.io/cakephp-tools/behavior/passwordable) for a DRY approach on password hashing.
 - [TwoFactorAuth plugin](https://github.com/andrej-griniuk/cakephp-two-factor-auth) - Allows two factor authentication using Google Authenticator or similar app to generate one-time codes. Based on [RobThree/TwoFactorAuth](https://github.com/RobThree/TwoFactorAuth) library.
 
 ### Caching
@@ -179,6 +179,7 @@ Additional lists you might find useful:
 *Building navigation structures.*
 
 - [Icings/Menu plugin](https://github.com/icings/menu) - A [KnpMenu](https://github.com/KnpLabs/KnpMenu) seasoned menu plugin for CakePHP.
+- [Menu plugin](https://github.com/dereuromark/cakephp-menu) - Composable menu builder and renderer for nested navigation, active-state matching, and breadcrumbs - and zero dependencies.
 
 ### Notifications and Real-time Communication
 *Working with notification software.*
@@ -303,9 +304,8 @@ Additional lists you might find useful:
 - [Docker](https://github.com/stefanvangastel/docker-cakephp) - CakePHP in a Docker container environment.
 - [Galley](https://gitlab.com/amayer5125/galley) - A small Docker dev environment for CakePHP development which includes a simple command line utility.
 - [NetBeans](https://github.com/junichi11/cakephp3-netbeans) - This package provides support for CakePHP in NetBeans 8.1+.
-- [Oven](https://github.com/CakeDC/oven) - Setup your favorite framework with 1 file and 1 click.
 - [Puppet](https://puppetlabs.com/) - A server automation framework and application.
-- [Vagrant](https://www.vagrantup.com/) - A portable development environment utility.
+- [Vagrant](https://developer.hashicorp.com/vagrant) - A portable development environment utility.
 
 IDE specific compatibility information and tips can be found [here](https://github.com/dereuromark/cakephp-ide-helper/wiki#ide-support-and-tips).
 

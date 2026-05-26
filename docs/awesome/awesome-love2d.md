@@ -62,6 +62,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Development assisting Libraries, that enrich your development experience*
 
 * [debugGraph](https://github.com/Mechazawa/Love-Debug-Graph) - Small OO FPS graphing utillity based on FPSGraph.
+* [feather](https://github.com/Kyonru/feather) - Extensible Development Toolkit for LÖVE. Step by step debugger, hot reloading, remote log inspection, easy android and ios development builds, assisted release and upload, shader graph, particle system playground, and more!
 * [FPSGraph](https://github.com/icrawler/FPSGraph) - Small FPS graphing utility.
 * [LÖVE API](https://github.com/love2d-community/love-api) - The complete API documentation of LÖVE in a Lua table.
 * [LÖVE Build](https://github.com/nhartland/love-build) - GitHub Action for automated cross-platform builds.
@@ -231,10 +232,11 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [LÖVE Potion](https://github.com/lovebrew/lovepotion) - Unofficial implementation of the LÖVE for Nintendo (3DS, Switch and Wii U) Homebrew.
 * [LOVE-WrapLua](https://github.com/LukeZGD/LOVE-WrapLua) - A small and simple wrapper for OneLua, lpp-vita, and Lua Player PS3.
-* [Love.js](https://github.com/Davidobot/love.js) - LÖVE ported to the web using Emscripten.
+* [lovejs-player](https://codeberg.org/alexjgriffith/lovejs-player) - LÖVE ported to the web using Emscripten.
 * [LoveDos](https://github.com/rxi/lovedos) - A Lua framework for 2D DOS games, implementing a subset of the LÖVE API.
 * [LoveFTW](https://bitbucket.org/T-BoneISS/l-veftw) - Work-in-progress port to Windows phone 8.1.
 * [LÖVR](https://github.com/bjornbytes/lovr) - LÖVE for virtual reality devices.
+* [Lutro](https://lutro.libretro.com/) - Portable game engine implementing a subset of the LÖVE API for retro games, runnable through RetroArch on many platforms.
 
 ## Serialization
 *Save Game & Storage Libraries*
@@ -299,6 +301,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Lovely Toasts](https://codeberg.org/togfox/Lovely-Toasts) - Floating speech bubbles with text of your choice.
 * [lovepatch](https://github.com/notcl4y14/lovepatch) - A simple 9-patch library for LÖVE.
 * [lovr-ui2d](https://github.com/immortalx74/lovr-ui2d) - An immediate mode GUI library for LÖVR and LÖVE.
+* [LuaJIT-ImGui](https://github.com/sonoro1234/LuaJIT-ImGui) - LuaJIT bindings for Dear ImGui with a LÖVE module; supports all cimgui widgets using cpp names for easy example copying.
 * [Luis](https://github.com/SiENcE/luis) - Love UI System - A retained mode UI framework for LÖVE with input processing (mouse, keyboard, touch, gamepad), layer-, grid-, state-, theming-system, UI editor, 16+ widgets (for desktop & mobile).
 * [Lynx](https://gitlab.com/TSnake41/lynx) - Very-lightweight list-based UI library.
 * [MeowUI](https://github.com/MoonGameLab/MeowUI) - Extensible library written in MoonScript that enables you to create your own GUI controls based on provided core modules for Löve2D.
@@ -403,7 +406,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Tools and templates for distributing LÖVE games*
 * [AppImageKit](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, Debian and derivatives; one game = one file.
 * [boon](https://github.com/camchenry/boon) - Multi-platform, easy to use tool supporting Windows, macOS, Linux.
-* [LÖVE Actions](https://github.com/love-actions) - Build & deploy cross-platform game packages on ***ALL*** popular platforms. Supports Android, iOS, Linux, maxOS, Windows.
+* [LÖVE Actions](https://github.com/love-actions) - Build & deploy cross-platform game packages on ***ALL*** popular platforms. Supports Android, iOS, Linux, macOS, Windows.
 * [LÖVE Game Development & Automated Build System](https://github.com/Oval-Tutu/bootstrap-love2d-project) - Preconfigured VSCode/Codium. Build for Android, iOS, HTML5, Linux, macOS and Windows and automatically publish to Itch.io.
 * [love-build](https://github.com/ellraiser/love-build) - Downloadable application (made in LÖVE!) that can build games for Windows, macOS, and Linux regardless of your own OS.
 * [love-deploy](https://github.com/tducasse/love-deploy) - Build and deploy games on itch.io (supports windows and web exports).

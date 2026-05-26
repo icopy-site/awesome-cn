@@ -548,6 +548,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-mermaider](https://github.com/earthdmitriy/angular-mermaider) - Static code analyzer that produces Mermaid dataflow diagrams.
 * [compuse](https://github.com/jakub-hajduk/compuse) - Unified API for analyzing Angular component usage across your codebase.
 * [modulens](https://github.com/sinanyilmaz0/modulens) - A suite of architecture, structure, and quality analysis tools for frontend workspaces.
+* [ngcompass](https://github.com/RoadmapDevelop/ngcompass) - Angular-aware static analysis for architecture, performance, SSR, security, and code quality.
 * [ng-di-graph](https://github.com/m-yoshiro/ng-di-graph) - A command-line tool that analyzes Angular TypeScript codebases to extract dependency injection relationships.
 * [ng-lens](https://github.com/MerrittMelker/ng-lens) - A Node.js tool that uses `ts-morph` to analyze Angular components and detect service usage patterns from any API library.
 * [ng-parsel](https://github.com/angular-experts-io/ng-parsel) - Parse your Angular codebase to JSON abstraction - Great for displaying APIs and analysis.
@@ -1498,6 +1499,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [unpic](https://unpic.pics/img/angular/) - Angular directive for responsive, high-performance images with automatic srcset, sizing, and CDN/CMS URL detection.
 * [ngx-image-fallback](https://github.com/joyblanks/ngx-image-fallback) - Image Fallback Directive for Angular.
 * [ng-image-optimizer](https://github.com/Hasan-Kakeh/ng-image-optimizer) - A high‑performance Angular SSR image optimizer that uses [Sharp](https://sharp.pixelplumbing.com/) to deliver a Next.js‑style experience.
+* [ngx-ratio-image](https://github.com/gerd-siebert/ngx-ratio-image) - Angular library for displaying an image with a variable aspect ratio inside a container with a fixed aspect ratio.
 
 ### Keyboard Mouse
 
@@ -1612,6 +1614,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-three-model-cropper](https://github.com/AlexRynas/ng-three-model-cropper) - An Angular `Three.js` library for configurable 3D model cropping with GLB/FBX support and triangle-pruning export.
 * [@ngx-core/media-optimizer](https://github.com/barbozaa/media-optimizer-workspace) - Professional framework-agnostic library for image optimization, conversion, and compression.
 * [ngx-streaming-player](https://github.com/jhonsferg/ngx-streaming-player) - A unified, plug-and-play video player component that handles HLS, DASH, MP4, and YouTube through a single API.
+* [ngx-pro-media-player](https://github.com/kamal-dev1/ngx-pro-media-player) - Angular media player with audio, video, queue, crossfade, lyrics, and RTL support.
 
 ### Mixed Utilities
 
