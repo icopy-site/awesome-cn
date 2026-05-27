@@ -638,6 +638,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [i18n-keygen](https://github.com/gagle/i18n-keygen) - Type-safe i18n keys for every build tool. One package, zero lock-in.
 * [intl-tel-input-ng](https://github.com/mpalourdio/intl-tel-input-ng) - An Angular component to easily integrate [intl-tel-input](https://github.com/jackocnr/intl-tel-input).
 * [ng-extract-i18n-merge](https://github.com/daniel-sc/ng-extract-i18n-merge) - Extract and merge i18n xliff translation files for Angular projects.
+* [ng-linguo](https://github.com/jmwierzbicki/linguo) - Modern Angular 18+ i18n toolkit built on SignalStore — a reactive, from‑scratch alternative to `@ngx‑translate/core` and Transloco with zero RxJS in components.
 * [ngx-atomic-i18n](https://github.com/viacharles/ngx-atomic-i18n) - Angular translation library with lazy loading.
 * [ngx-bidi](https://github.com/ystolyarchuk/ngx-bidi) - Angular library for automatic or manual LTR/RTL text direction with directives, `NgxBidiService`, SCSS mixins, and module/standalone support.
 * [ngx-directo](https://github.com/ahmaed0hakam/ngx-directo) - Angular 18+ Signals-based library for RTL/LTR directionality, Arabic localization, and Google Font orchestration.
@@ -1320,6 +1321,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-ace-signal](https://github.com/WebArtWork/ngx-ace-signal) - A modern Angular signals-based wrapper for the Ace editor.
 * [ngx-rwriter](https://github.com/ReiAg/ngx-rwriter) - A modern Rich Text Editor component for Angular 21+ with native support for images, alignment, lists, color pickers, and translations.
 * [ngx-pro-editor](https://github.com/ChauhanShubham8758/ngx-pro-editor) - A feature-rich WYSIWYG editor for Angular with auto-save, special characters, and advanced formatting.
+* [dragble-angular-editor](https://github.com/Dragble/dragble-angular-editor) - Dual‑mode Angular component blending a designer‑friendly visual editor with an AI‑driven conversational interface.
 
 ### File Upload
 
