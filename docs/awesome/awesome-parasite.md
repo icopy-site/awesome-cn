@@ -65,7 +65,7 @@ Awesome parasite was created by [Anna Willoughby](https://arw36.github.io/) and 
 
 ## Scientific Journals 
 * [American Journal of Tropical Medicine and Hygiene](http://www.ajtmh.org/) - AJTMH publishes a broad range of papers covering topics in tropical medicine. Their archive is open-access after a 12-month embargo.
-* [Annals of Parasitology](https://annals-parasitology.eu/go.live.php/PL-H54/archive.html) - Open-access scientific journal of the Polish Parasitological Society, formerly _Wiadomości Parazytologiczne_, that publishes issues quarterly. Open archives start from 2002. 
+* [Annals of Parasitology](https://annals-parasitology.eu/go.live.php/PL-H54/archive.html) - Open-access scientific journal of the Polskie Towarzystwo Parazytologiczne/Polish Parasitological Society, formerly _Wiadomości Parazytologiczne_, that publishes issues quarterly. Open archives start from 2002, for earlier articles from 1955-2011 see the repository managed by the University of Warsaw [here](https://agro.icm.edu.pl/agro/element/bwmeta1.element.agro-journal-6a84b758-a0ac-49e6-a735-fe0c56b0fee9). 
 * [EFSA Journal](https://efsa.onlinelibrary.wiley.com/journal/18314732) - Open-access journal of the European Food Safety Authority with yearly reports of food-borne outbreaks and cases of zoonotic agents and antibiotic resistance emergence in humans and animals. 
 * [Emerging Infectious Diseases](https://wwwnc.cdc.gov/eid/) - The CDC open-access journal.
 * [Journal of the Egyptian Society of Parasitology](https://jesp.journals.ekb.eg/) - Open-access (2013 - present) scientific journal of The Eyptian Society of Parasitology. Published since the 1970s, their archive is indexed in Pub-Med since 1972 (Index Medicus ISSN: 0253-5890).
