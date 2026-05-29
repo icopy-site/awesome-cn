@@ -364,7 +364,7 @@ Software and platforms for planners and those interested in the built environmen
 
 ---
 ### AI in Planning Tools and Platforms
-Software, tools, and platforms that employ models that draw inferences from data or generate data that have specific utility for urban planning applications. The American Planning Association's Technology Division authored an [open letter](https://apa-technology-division.github.io/2023-ai-ethics-letter) identifying the need for ethical use of these tools.
+Software, tools, and platforms that employ models that draw inferences from data, generate data, or leverage large language models (LLMs) that have specific utility for urban planning applications. The American Planning Association's Technology Division authored an [open letter](https://apa-technology-division.github.io/2023-ai-ethics-letter) identifying the need for ethical use of these tools.
 
 - [ChatGPT](https://chat.openai.com/) - An advanced language model designed to generate human-like text responses and engage in conversational interactions. Additional Information: [Act Like a Planner](https://apa-technology-division.github.io/like-a-planner).
 - [Anthropic](https://www.anthropic.com/) - Provides access to a class of advanced large language models called Claude designed to provide human-like text responses and engage in conversational interactions.
@@ -372,6 +372,7 @@ Software, tools, and platforms that employ models that draw inferences from data
 - [University of Oregon, AI Software List](https://blogs.uoregon.edu/artificialintelligence/ai-software/) - A blog cataloguing existing AI resources compiled by university researchers and local policy experts.
 - [OECD AI Policy Observatory](https://oecd.ai/en/) - Provides a platform for resources on applications, poicy implications, and literature regarding Artificial Intelligence.
 - [LM Studio](https://lmstudio.ai/) - This [free for personal use](https://lmstudio.ai/terms) software enables users to download large language models and run them locally within a desktop chat interface.
+- [Ollama](https://ollama.com/) - A free and an open-source framework that allows you to easily set up, manage, and run LLMs directly on your own computer.
 - [Tune Studio](https://studio.tune.app/) - Playground for software developers to finetune and deploy large language models.
 - [Roboflow](https://roboflow.com/) - A cloud based platform engineered to accelerate computer vision model development and deployment that can help build public sector applications.
 - [vLLM](https://docs.vllm.ai/en/latest/) - A high-throughput and memory-efficient inference and serving engine for LLMs.

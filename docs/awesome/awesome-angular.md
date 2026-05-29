@@ -97,6 +97,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-config-orchestrator](https://github.com/xhani-manolis-trungu/ngx-config-orchestrator) - Angular library for runtime configuration via external JSON, enabling “Build Once, Deploy Anywhere.”
 * [deploy-with-git](https://github.com/RunOnFlux/deploy-with-git/tree/master/deploy-angular) - Lets you deploy an Angular app directly to the [Flux Network](https://runonflux.com/) from a Git repository.
 * [@railwayapp-templates/angular-starter](https://github.com/railwayapp-templates/angular-starter) - One-click default Angular TS starter, utilizing Caddy to serve!
+* [angular-deploy-bunny](https://github.com/lostium/angular-deploy-bunny) - Angular Architect builder (`ng deploy`) that syncs your build to a Bunny.net CDN Storage Zone using SHA256 incremental diffing, then purges the corresponding Pull Zone.
 
 ### Desktop Applications
 
@@ -1204,6 +1205,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [simple-table](https://github.com/petera2c/simple-table) - Framework-agnostic data grid and table component for building modern, scalable applications.
 * [toolbox](https://github.com/OysteinAmundsen/toolbox) - High-performance, framework-agnostic web components for data-intensive applications.
 * [gp-grid](https://github.com/GioPat/gp-grid) - Data grid library built with a modular architecture that cleanly separates core logic from framework integrations to efficiently handle massive datasets with millions of rows.
+* [ngx-powerful-tree](https://github.com/raknjarasoa/ngx-powerful-tree) - A virtualized tree with HTML5 drag‑and‑drop, fast search, locked subtrees, and file‑picker modes, built on `@angular/cdk/scrolling` for smooth performance at 100k+ rows.
 
 ### Dates
 
@@ -1514,6 +1516,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-arrow-state](https://github.com/jaychase/ngx-arrow-state) - An Angular library that provides terminal/shell-like input history navigation using arrow keys, plus Ctrl+Enter form submission for textareas.
 * [angular-onscreen-material-keyboard](https://github.com/eFaps/angular-onscreen-material-keyboard) - Onscreen virtual keyboard for Angular using Angular Material.
 * [@TanStack/hotkeys](https://github.com/TanStack/hotkeys) - Type-Safe keyboard shortcuts library with awesome devtools.
+* [ngx-keyboard-shortcuts](https://github.com/phalgunv/ngx-keyboard-shortcuts) - An actively maintained fork of the archived [ngx-keyboard-shortcuts](https://github.com/milestechnologies/ngx-keyboard-shortcuts) package, adding Angular 16+ support and modern tooling.
 
 ### Layout
 
