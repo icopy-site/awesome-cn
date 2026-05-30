@@ -51,6 +51,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Getting Started with Svelte 5: A Guide for React Developers](https://www.edistys.dev/blog/getting-started-with-svelte-5-a-guide-for-react-developers) - Edistys
 - [Svelte 5 Basics - Complete Svelte 5 Course for Beginners](https://www.youtube.com/watch?v=8DQailPy3q8) - Syntax (YouTube)
+- [TutorialSearch](https://tutorialsearch.io/?q=svelte) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ### Studies
 
@@ -114,6 +115,7 @@ _UI frameworks for mobile._
 - [Quaff](https://quaff.dev) - An extensive UI framework featuring modern and elegant components following Material Design 3 principles.
 - [retroui-svelte](https://retroui-svelte.netlify.app) - A retro-styled component library for Svelte built on top of shadcn-svelte, offering 40+ customizable UI components for funky and playful interfaces.
 - [svelte-audio-ui](https://svelte-audio-ui.vercel.app) - A set of accessible and composable Audio UI components. Built on top of shadcn-svelte, inspired by audio-ui, it's designed for you to copy, paste, and own.
+- [AgentsKit](https://github.com/AgentsKit-io/agentskit) - Headless chat and agent components plus a store for building AI apps in Svelte, with a framework-agnostic core supporting streaming, tools, memory and RAG.
 
 ## UI Components
 
@@ -318,6 +320,8 @@ _For Single Page Applications (SPAs) and more._
 
 ## Dev Tools
 
+- [Frontman](https://github.com/frontman-ai/frontman) - Open-source AI coding agent that lives in your browser with click-to-edit and hot reload for Svelte apps.
+
 ### Adapters
 
 - [JesterKit EXE](https://github.com/Hugo-Dz/exe) - An adapter to distribute your SvelteKit web app as a single executable binary with zero runtime dependencies. Unlike static builds, it preserves all Kit features like SSR, API endpoints, server hooks, etc.
@@ -363,3 +367,4 @@ _Text editor plugins._
 ### Desktop
 
 - [Oxide-Lab](https://github.com/FerrisMind/oxide-lab) - Privacy-focused local LLM chat application built with Svelte 5 frontend and Rust backend using the `candle` ML framework.
+- [Zephyr](https://github.com/Prismo-Studio/Zephyr) - Open-source mod manager for PC games with built-in Archipelago multiworld randomizer support, built with Svelte 5 and Tauri 2.

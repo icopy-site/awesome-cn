@@ -105,6 +105,10 @@ A selection of major game studios, publishers, etc. using GitHub:
 - [Zedinvaders](https://github.com/salvatorecapolupo/zedinvaders) - Game is based on our original comic ZED, seen inside "zero-episode" called "Game Over".
 - [111 one-button games](https://github.com/abagames/111-one-button-games-in-2021) - One button games are famous for realizing various actions with one button.
 
+### Rhythm
+
+- [Bemuse](https://github.com/bemusic/bemuse) - Online rhythm game playing songs in [BMS](https://github.com/wcko87/beatoraja-english-guide/wiki/BMS-Overview) format.
+
 ### FPS
 
 - [Backdooms](https://github.com/Kuberwastaken/backdooms) - Game inspired by DOOM 1993 and The Backrooms, small enough to be self contained inside a QR code.
@@ -239,6 +243,9 @@ A selection of major game studios, publishers, etc. using GitHub:
 ### Rhythm
 
 - [osu!](https://github.com/ppy/osu) - Rhythm is just a *click* away!
+- [Stepmania](https://github.com/stepmania/stepmania) - Cross-platform dance rhythm game.
+- [lr2oraja](https://github.com/wcko87/lr2oraja) - [BMS player](https://github.com/wcko87/beatoraja-english-guide/wiki/BMS-Overview), fork of [beatoraja](https://mocha-repository.info/download.php) (popular BMS player) using Lunatic Rave 2 (LR2) gauges and judge (Requires a JVM. Recommended: [Liberica OpenJDK](https://bell-sw.com/pages/downloads/) Full version).
+- [lr2oraja \~Endless Dream\~](https://github.com/seraxis/lr2oraja-endlessdream) - BMS player, fork of lr2oraja with additional features (Requires a JVM. Recommended: [Liberica OpenJDK](https://bell-sw.com/pages/downloads/) Full version).
 
 ### FPS
 

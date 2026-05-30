@@ -11,7 +11,6 @@ Contributions are welcome - see [`https://github.com/academic/awesome-datascienc
 
 This is a shortcut path to start studying **Data Science**. Just follow the steps to answer the questions, "What is Data Science, and what should I study to learn Data Science?"
 
-
 <br>
 
 ## $ [academic](https://academic.io/cli)
@@ -23,9 +22,7 @@ $ brew install academic
 
 ## Sponsors
 
-| Sponsor | Pitch |
-| --- | --- |
-| --- | Be the first to sponsor! `github@academic.io` |
+Be the first to sponsor! `github@academic.io`
 
 
 
@@ -128,6 +125,7 @@ How do you learn data science? By doing data science, of course! Okay, okay - th
 - [Top 100+ Data Science Interview Questions and Answers](https://www.appliedaicourse.com/blog/data-science-interview-questions/)
 - [DataDriven - SQL, Python, and Data Modeling Interview Questions](https://www.datadriven.io/)
 - [StepByStepML](https://www.stepbystepml.com) - Interactive calculator that visualizes the step-by-step manual math behind machine learning algorithms for exam prep.
+- [How to Build Optimal AI Agents That Actually Work](https://www.freecodecamp.org/news/how-to-build-optimal-ai-agents-that-actually-work-a-handbook-for-devs/) - A developer handbook on designing and building effective AI agents.
 
 ### Free Courses
 **[`^        back to top        ^`](#awesome-data-science)**
