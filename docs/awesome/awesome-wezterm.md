@@ -57,6 +57,7 @@ To enhance your WezTerm configuration experience:
 - [vieitesss/workspacesionizer.wezterm](https://github.com/vieitesss/workspacesionizer.wezterm) - Blazingly fast workspace chooser inspired by `tmux-sessionizer`.
 - [abidibo/wezterm-sessions](https://github.com/abidibo/wezterm-sessions) - Save and restore sessions.
 - [srackham/tabsets.wezterm](https://github.com/srackham/tabsets.wezterm) - Load, save, rename and delete named sets of tabs.
+- [ryanmsnyder/workspace-manager.wezterm](https://github.com/ryanmsnyder/workspace-manager.wezterm) - Navigate projects effortlessly with smart workspace switching and keyboard-driven navigation.
 
 ## Tab bar
 
@@ -65,6 +66,7 @@ To enhance your WezTerm configuration experience:
 - [rootiest/battery.wez](https://github.com/rootiest/battery.wez) - A colorful and fancy battery component for the retro tab bar.
 - [yriveiro/wezterm-status](https://github.com/yriveiro/wezterm-status) - Configurable status for the retro tab bar.
 - [yriveiro/wezterm-tabs](https://github.com/yriveiro/wezterm-tabs) - Configurable tabs for the retro tab bar.
+- [pro-vi/wezterm-attention](https://github.com/pro-vi/wezterm-attention) - Turns your tab bar into a notification system with colored tab indicators.
 
 ## Themes
 

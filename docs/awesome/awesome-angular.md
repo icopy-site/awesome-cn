@@ -567,6 +567,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-dev-toolbar](https://github.com/alfredoperez/ngx-dev-toolbar) - A powerful development toolbar for Angular applications to improve your developer productivity directly in the browser.
 * [omelet-angular-debug-panel](https://github.com/maycuatroi1/omelet-angular-debug-panel) - Angular debug dashboard providing visibility into SQL activity, server timing, and authentication debugging.
 * [angular-scan](https://github.com/husseinAbdElaziz/angular-scan) - Automatically detects and highlights Angular components that are re-rendering.
+* [angular-render-scan](https://github.com/edisonaugusthy/angular-render-scan) - A visual debugging overlay for Angular change detection.
 
 ### Documentation Tools
 
@@ -1433,6 +1434,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-colors2](https://github.com/DominicWrege/ngx-colors) - A material‑style Angular color‑picker updated for Angular 20+, using signals and no animation dependencies.
 * [ngx-signal-datetimepicker](https://github.com/dominikmodrzejewski99/ngx-signal-datetimepicker) - Angular datetime picker built on Signal Forms — date + time in one control, zero deps, WCAG 2.2 AAA out of the box.
 * [ngx-multi-field-dropdown](https://github.com/luismtapiab/ngx-multi-field-dropdown) - A customizable Angular searchable dropdown component with multi-field search support.
+* [angular-multiselect-dropdown](https://github.com/alexandroit/angular-multiselect-dropdown) - A maintained Angular multiselect dropdown built for template-driven and reactive forms.
 
 ### JSON Forms
 

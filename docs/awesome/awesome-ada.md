@@ -375,9 +375,9 @@ language.  It is loosely modelled after JUnit and some ideas from AUnit.
 - [hungarian](https://github.com/mosteo/hungarian) - Ada binding to the fast Stachniss' Hungarian solver.
 
 ### Science
-- [si](http://archive.adaic.com/tools/CKWG/Dimension/SI.html) - Checked and unchecked SI units.
+- [si](https://github.com/CKWG/SI_Units-Checked-and-Unchecked) - Checked and unchecked SI units.
 - [units-of-measurement](http://www.dmitry-kazakov.de/ada/units.htm) - Library to manage units of measurement with dimension checking.
-- [si_units](https://github.com/HeisenbugLtd/si_units) - Utility library to pretty print physical values in proper metric units.
+- [si-units](https://github.com/HeisenbugLtd/si_units) - Utility library to pretty print physical values in proper metric units.
  
 ### Algorithms, Containers and Protocols
 - [ada-language-server](https://github.com/AdaCore/ada_language_server) - Adacore server implemention of the the Microsoft Language Protocol for Ada and SPARK.
