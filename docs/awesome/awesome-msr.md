@@ -81,6 +81,7 @@ For examples of such work see the MSR conference's [Hall of Fame](http://2016.ms
 - [qmcalc](https://github.com/dspinellis/cqmetrics) - Calculate quality metrics from C source code.
 - [reaper](https://github.com/RepoReapers/reaper) - Python tool to compute a score for a repository from GHTorrent. The score quantifies the extent to which the project contained within the repository is _engineered_.
 - [RefactoringMiner](https://github.com/tsantalis/RefactoringMiner) - Library/API for detection of refactorings in changes of Java code.
+- [TestMiner](https://andrehora.github.io/testminer) - Software testing analysis for GitHub repositories.
 - [VulData7](https://github.com/electricalwind/data7) - Java framework enabling the automated collection of commits fixing vulnerabilities that are reported in NVD (links NVD with Git).
 
 ## Research Outlets

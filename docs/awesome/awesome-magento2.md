@@ -23,7 +23,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **225** projects · **55** actively maintained · **9** 🔥 hot · **43** 🪦 on the graveyard shelf.
+> Tracking **225** projects · **56** actively maintained · **9** 🔥 hot · **43** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](https://github.com/DavidLambauer/awesome-magento2/blob/master/contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -83,6 +83,7 @@ Also see:
 
 - [Meet Magento Brazil](https://meetmagentobrasil.org/) 🫡 - Meet Magento event series — Brazil.
 - [Meet Magento Florida](https://meetmagentofl.com/) 🫡 - Meet Magento event series — Florida.
+- [Meet Magento India](https://www.meetmagento.in/) 🫡 - Meet Magento event series — India.
 - [Meet Magento Netherlands](https://nl.meet-magento.com/) 🫡 - Meet Magento event series — Netherlands.
 - [Meet Magento New York City](https://meetmagentonyc.com/) 🫡 - Meet Magento event series — NYC.
 - [Meet Magento Poland](https://meetmagento.pl/) 🫡 - Meet Magento event series — Poland.
@@ -94,7 +95,6 @@ Also see:
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
 
-- [Meet Magento India](https://www.meetmagento.in/) - Meet Magento event series — India.
 - [Meet Magento Singapore](https://meetmagento.sg/) - Meet Magento event series — Singapore.
 
 </details>
@@ -120,12 +120,12 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Warden](https://github.com/wardenenv/warden) 🫡 - CLI utility for working with docker-compose environments by David Alger.
 - [PhpStorm Magento2 Extension](https://github.com/magento/magento2-phpstorm-plugin) 🫡 - Official PhpStorm Magento 2 extension.
 - [Magento 2 Url Data Integrity Checker](https://github.com/baldwin-agency/magento2-module-url-data-integrity-checker) 🫡 - Magento 2 module that finds potential URL-related problems in your catalog data.
-- [Tango](https://github.com/roma-glushko/tango) 🫡 - CLI for analyzing access logs.
 - [Mage](https://github.com/GrimLink/mage) 🫡 - Simplifies bin/magento commands with shortcuts and productivity helpers.
 - [MageForge](https://github.com/OpenForgeProject/mageforge) 🫡 - Magento 2 CLI automatic theme builder (Hyvä ready).
 - [Mage Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar) - Chrome extension for Magento 2 development by MageSpecialist.
 - [AmpersandHQ/ampersand-magento2-upgrade-patch-helper](https://github.com/AmpersandHQ/ampersand-magento2-upgrade-patch-helper) - Helper script to aid upgrading Magento 2 websites by detecting overrides.
 - [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) - Developer toolbar for Magento 2.
+- [Tango](https://github.com/roma-glushko/tango) - CLI for analyzing access logs.
 - [Migrate DB Magento 2 Commerce to Magento 2 Open-Source](https://github.com/opengento/magento2-downgrade-ee-ce) - Migrate a Magento 2 Commerce database to Magento 2 Open Source.
 - [Magento 2 Database Synchronizer](https://github.com/jellesiderius/mage-db-sync) - Database synchronizer for Magento 2 (and WordPress), based on Magerun2. Keeps development, staging and production in sync.
 - [RabbitMQ Retry Mechanism](https://github.com/run-as-root/magento2-message-queue-retry) - Magento 2 extension that brings possibility to retry RabbitMQ failed messages.
@@ -152,6 +152,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 - [Magento Cache Clean](https://github.com/mage2tv/magento-cache-clean) 🔥 - A faster drop-in replacement for bin/magento cache:clean with file watcher by Vinai Kopp.
 - [Magewire PHP](https://github.com/magewirephp/magewire) 🫡 - A Laravel Livewire port for building complex AJAX-based components with ease. Used by the Hyvä Checkout.
+- [Config ImportExport](https://github.com/semaio/Magento2-ConfigImportExport) 🫡 - CLI-based config management.
 - [graycoreio/magento2-cors](https://github.com/graycoreio/magento2-cors) 🫡 - Enables configurable CORS headers on the Magento GraphQL API.
 - [Magento 2 Prometheus Exporter](https://github.com/run-as-root/magento2-prometheus-exporter) 🫡 - Prometheus Exporter for common Magento data.
 - [Rest Client](https://github.com/zepgram/module-rest) 🫡 - Technical Magento 2 module providing simple development pattern, configurations and optimizations to make REST API requests toward external services based on Guzzle Client.
@@ -162,7 +163,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Magento 2 Configurator](https://github.com/ctidigital/magento2-configurator) - A Magento module initially created by CTI Digital to create and maintain database variables using files.
 - [Cypress Testing Suite](https://github.com/elgentos/magento2-cypress-testing-suite/) - A community-driven Cypress testing suite for Magento 2.
 - [Scope Hints](https://github.com/avstudnitz/AvS_ScopeHint2) - Displays additional information in the Store Configuration by Andreas von Studnitz.
-- [Config ImportExport](https://github.com/semaio/Magento2-ConfigImportExport) - CLI-based config management.
 - [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) - Magento-specific extension for PHPStan.
 - [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops) - PHP Exceptions for Cool Kids in Magento 2.
 - [Auto Cache Flush](https://github.com/yireo/Yireo_AutoFlushCache) - Magento 2 module to automatically flush the cache.
@@ -298,7 +298,13 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Fastly Extension](https://github.com/fastly/fastly-magento2) - Magento 2 Fastly integration.
 - [Interceptor Optimization](https://github.com/creatuity/magento2-interceptors) - New interceptors approach for Magento 2.
 - [Clean Media](https://github.com/sivaschenko/magento2-clean-media) - A module that provides information about media files and potential removal options.
+
+<details>
+<summary>🪦 Graveyard — projects no longer recommended</summary>
+
 - [Magento 2 Ngrok](https://github.com/shkoliar/magento-ngrok) - Magento 2 Ngrok Integration.
+
+</details>
 
 ### Proprietary Extensions
 

@@ -416,7 +416,7 @@ Discover more awesome lists at [sindresorhus/awesome](https://github.com/sindres
 
 - Honeypot Distribution with mixed content
 
-  - [HoneyDrive](https://bruteforcelab.com/honeydrive)
+  - [HoneyDrive](https://www.honeynet.org/tags/honeydrive/)
 
 - Honeypot sensor
 
