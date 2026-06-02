@@ -495,6 +495,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [agent-rules-kit](https://github.com/tecnomanu/agent-rules-kit) - A CLI tool for AI that installs and configures rules to guide agents in technology stack best practices.
 * [agentskit](https://github.com/AgentsKit-io/agentskit) - Composable toolkit and headless chat components for building AI agents in Angular, with streaming, tools, memory and RAG.
 * [aitools.fyi](https://aitools.fyi/technology/angular) - AI Tools Built With Angular.
+* [angular-agent-framework](https://github.com/cacheplane/angular-agent-framework) - Angular SDK for Building Agentic Apps + Generative UI.
 * [Angular code editor rules](https://promptgenius.net/cursorrules/frameworks/frontend/angular) - Guide for effective AI interaction patterns when working with Angular code.
 * [@Kobolden/angular-skills](https://github.com/Kobolden/angular-skills) - Enhance your Angular development with skills for AI-assisted coding, featuring up-to-date patterns, best practices, and examples for version 20+.
 * [augment code](https://www.augmentcode.com/) - The first AI coding assistant built for professional software engineers and large codebases.
@@ -1235,6 +1236,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-laydate](https://github.com/lanxuexing/ng-laydate) - A simple yet robust date & time picker for Angular 18+.
 * [lifecycle-timeline](https://github.com/ericreboisson/lifecycle-timeline) - An interactive Vanilla JS component for visualizing product lifecycle stages, accompanied by an Angular integration guide.
 * [weekly-availability-picker](https://github.com/squareetlabs/weekly-availability-picker) - A standalone Angular weekly availability picker with drag & resize support.
+* [ng-date-hour-range-selector](https://github.com/deciosfernandes/ng-date-hour-range-selector) - A flexible Angular date / date-time range selector built on Angular CDK Overlay.
 
 ### Directives
 
@@ -1627,6 +1629,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@ngx-core/media-optimizer](https://github.com/barbozaa/media-optimizer-workspace) - Professional framework-agnostic library for image optimization, conversion, and compression.
 * [ngx-streaming-player](https://github.com/jhonsferg/ngx-streaming-player) - A unified, plug-and-play video player component that handles HLS, DASH, MP4, and YouTube through a single API.
 * [ngx-pro-media-player](https://github.com/kamal-dev1/ngx-pro-media-player) - Angular media player with audio, video, queue, crossfade, lyrics, and RTL support.
+* [MediaSFU-Angular](https://github.com/MediaSFU/MediaSFU-Angular) - Angular SDK for WebRTC video conferencing, webinars, livestreams, chat, screen sharing, recording, breakout rooms, whiteboards, polls, live subtitles, and translation.
 
 ### Mixed Utilities
 

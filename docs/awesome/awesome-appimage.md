@@ -1,9 +1,9 @@
-<div class="github-widget" data-repo="AppImage/awesome-appimage"></div>
+<div class="github-widget" data-repo="AppImageCommunity/awesome-appimage"></div>
 <!--lint disable double-link-->
 
 <div align="center">
 	<div>
-		<img width="500" src="https://raw.githubusercontent.com/AppImage/awesome-appimage/master/media/logo.svg?sanitize=true" alt="Awesome AppImage">
+		<img width="500" src="https://raw.githubusercontent.com/AppImageCommunity/awesome-appimage/master/media/logo.svg?sanitize=true" alt="Awesome AppImage">
 	</div>
 	<a href="https://awesome.re">
 		<!img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
