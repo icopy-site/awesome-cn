@@ -43,12 +43,11 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 - [Telegram auth](https://github.com/iamelevich/pocketbase-plugin-telegram-auth) - Add Telegram auth (Widget button and WebApp). ![GitHub Repo stars](https://img.shields.io/github/stars/iamelevich/pocketbase-plugin-telegram-auth)
 - [Ngrok](https://github.com/iamelevich/pocketbase-plugin-ngrok) - Expose local PocketBase to the internet with ngrok. ![GitHub Repo stars](https://img.shields.io/github/stars/iamelevich/pocketbase-plugin-ngrok)
-- [Proxy](https://github.com/iamelevich/pocketbase-plugin-proxy) - Proxy requests to another other host. Can be useful when you want to use separate server as frontend (like Next.js), but serve everything with same port. ![GitHub Repo stars](https://img.shields.io/github/stars/iamelevich/pocketbase-plugin-proxy)
+- [Proxy](https://github.com/iamelevich/pocketbase-plugin-proxy) - Forward requests to another host. Can be useful when you want to use separate server as frontend (like Next.js), but serve everything with same port. ![GitHub Repo stars](https://img.shields.io/github/stars/iamelevich/pocketbase-plugin-proxy)
 - [Webhooks](https://gist.github.com/cugu/9e74f75dcad3df74370c71ff3c02085a) - Add webhook support in the admin UI to send `create`, `update` and `delete` events on selected collections via POST request to other systems.
-- [Typescript Generator](https://github.com/Vogeslu/pocketbase-ts-generator) - Typescript generator standalone / library with auto generation hook or command ![GitHub Repo stars](https://img.shields.io/github/stars/Vogeslu/pocketbase-ts-generator)
+- [TypeScript Generator](https://github.com/Vogeslu/pocketbase-ts-generator) - Standalone tool or library that generates TypeScript types, with auto-generation hook or command. ![GitHub Repo stars](https://img.shields.io/github/stars/Vogeslu/pocketbase-ts-generator)
 - [pocketbase-gogen](https://github.com/Snonky/pocketbase-gogen) - Generate data model structs from a PocketBase schema. ![GitHub Repo stars](https://img.shields.io/github/stars/Snonky/pocketbase-gogen)
 - [pb-ext](https://github.com/magooney-loon/pb-ext) - Enhanced PocketBase server with monitoring, logging & API docs. ![GitHub Repo stars](https://img.shields.io/github/stars/magooney-loon/pb-ext)
-
 
 ## React
 
@@ -83,7 +82,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 ## C#
 
 - [ORM and code generator](https://github.com/iluvadev/PocketBaseClient-csharp) - An ORM to manage your PocketBase Application. ![GitHub Repo stars](https://img.shields.io/github/stars/iluvadev/PocketBaseClient-csharp)
-- [C# SDK](https://github.com/PSCourtney/PocketBaseSharp) - C# SDK for PocketBase and demo Blazor WASM webapp. ![GitHub Repo stars](https://img.shields.io/github/stars/PSCourtney/PocketBaseSharp)
+- [PocketBaseSharp](https://github.com/PSCourtney/PocketBaseSharp) - C# SDK for PocketBase and demo Blazor WebAssembly webapp. ![GitHub Repo stars](https://img.shields.io/github/stars/PSCourtney/PocketBaseSharp)
 
 ## D
 
@@ -149,7 +148,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## Showcases
 
-- [Vimsnake](https://github.com/patmood/vim_snake) - A realtime WASM game where Vim commands are used as controller inputs. ![GitHub Repo stars](https://img.shields.io/github/stars/patmood/vim_snake)
+- [Vimsnake](https://github.com/patmood/vim_snake) - A realtime WebAssembly game where Vim commands are used as controller inputs. ![GitHub Repo stars](https://img.shields.io/github/stars/patmood/vim_snake)
 - [ToDo](https://github.com/rajesh6161/pocketbaseTodo) - React-based To-Do demo app. ![GitHub Repo stars](https://img.shields.io/github/stars/rajesh6161/pocketbaseTodo)
 - [Realtime Blog](https://github.com/rajesh6161/pbRealtimeBlog) - A React-based realtime blog demo. ![GitHub Repo stars](https://img.shields.io/github/stars/rajesh6161/pbRealtimeBlog)
 - [oAuth](https://github.com/rajesh6161/pocketbase-oauth-demo) - A React-based oAuth demo. ![GitHub Repo stars](https://img.shields.io/github/stars/rajesh6161/pocketbase-oauth-demo)
@@ -159,6 +158,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [Adnexos](https://github.com/tametsi/adnexos) - Self-hostable expense-splitter on the web. ![GitHub Repo stars](https://img.shields.io/github/stars/tametsi/adnexos)
 - [pocketbase-libsql](https://github.com/cobeo2004/pocketbase-libsql) - Scaling Pocketbase with LibSQL and sqld - a Proof Of Concept ![GitHub Repo stars](https://img.shields.io/github/stars/cobeo2004/pocketbase-libsql)
 - [PocketChat](https://github.com/PocketTogether/pocket-chat) - A real-time chat platform built with PocketBase and Vue3, supporting OAuth, notifications, PWA, file/image sharing, permissions, and more. ![GitHub Repo stars](https://img.shields.io/github/stars/PocketTogether/pocket-chat)
+- [TinyCld](https://github.com/tinycld) - A full featured workspace with mail/calendar/drive/text/calc package, uses Pocketbase with React Native for realtime db and file storage.  Extends Pocketbase server with golang services for imap/smtp/caldav/webdav.
 
 ## PocketPorts Packages
 
@@ -168,4 +168,4 @@ Ports of NPM/Node.js packages to the PocketBase JSVM.
 | ---------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | [Node.js](https://nodejs.org/docs/latest/api/) | [pocketbase-node](https://github.com/benallfree/pocketbase-node) | Node.js core packages (`fs`, `process`, etc)                   | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-node) |
 | [ejs](https://github.com/mde/ejs)              | [pocketbase-ejs](https://github.com/benallfree/pocketbase-ejs)   | Embedded JavaScript templates - [http://ejs.co](http://ejs.co) | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-ejs)  |
-| [marked](https://github.com/markedjs/marked)   | ✅ works without changes                                         | A markdown parser and compiler. Built for speed.               | ![GitHub Repo stars](https://img.shields.io/github/stars/markedjs/marked)            |
+| [marked](https://github.com/markedjs/marked)   | works without changes                                            | A markdown parser and compiler. Built for speed.               | ![GitHub Repo stars](https://img.shields.io/github/stars/markedjs/marked)            |
