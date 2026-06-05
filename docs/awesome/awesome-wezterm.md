@@ -31,6 +31,7 @@ To enhance your WezTerm configuration experience:
 - [sei40kr/wez-tmux](https://github.com/sei40kr/wez-tmux) - Ported tmux keybindings.
 - [selectnull/pinned-tabs.wezterm](https://github.com/selectnull/pinned-tabs.wezterm) - Lets you assign a key binding to a specific tab.
 - [abidibo/wezterm-cmdpicker](https://github.com/abidibo/wezterm-cmdpicker) - Add a command-palette-style fuzzy picker for keybindings. Press a trigger key to search and execute any keybinding — user-defined, config, or WezTerm defaults.
+- [annie444/sync-panes.wez](https://github.com/annie444/sync-panes.wez) - Mirrors your keystrokes to every pane in the active tab — the equivalent of tmux's `synchronize-panes`.
 
 ## Media
 

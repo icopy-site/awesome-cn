@@ -240,7 +240,7 @@
 - [Primer on Gaussian Splatting](https://packet39.com/blog/a-primer-on-gaussian-splats/) - Blog article embedding the PlayCanvas SuperSplat Viewer.
 - [Real Horizons](https://realhorizons.ai/) - Transform video into 3D immersive tours.
 - [Reflct](https://www.reflct.app/) - Curate, manage and deploy 3DGS scenes online.
-- [ScanMeNow](https://www.scanmenow.es/en/galeria.html) - Digital twin platform.
+- [ScanMeNow](https://www.scanmenow.es/en/galeria.html) - Portable human 3DGS capture platform.
 - [Skyfall-GS](https://skyfall-gs.jayinnn.dev/) - Converts satellite images to explorable 3D urban scenes using the SuperSplat Viewer.
 - [Solaya](https://solaya.ai/) - Generate high-fidelity 3D digital twins as the foundation for unlimited visual assets.
 - [Splat3D](https://splat-3d.com/) - Browser-based platform for training and publishing splats.
@@ -250,6 +250,7 @@
 - [SuperSplat](https://superspl.at/) - Open source platform for editing and publishing 3D Gaussian Splats.
 - [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
 - [Tum Collegiate Church](https://ovrcast.eu/projects/TumCollegiate/) - Explore a key historical Polish landmark.
+- [UnrealTwin](https://www.unrealtwin.com/) - Turn Unreal scenes into a web link.
 - [vid2scene](https://vid2scene.com/) - Transform 2D video into immersive 3D scenes.
 - [Voxelo](https://www.voxelo.ai/) - AI-powered studio turning product videos into realistic 3D digital twins.
 - [Wildflow](https://wildflow.ai/) - Scanning the world's coral reefs as Gaussian splats.

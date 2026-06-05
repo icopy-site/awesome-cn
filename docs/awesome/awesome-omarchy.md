@@ -163,6 +163,7 @@
 - [OMARCHY-VM-UTM](https://github.com/hjanuschka/OMARCHY-VM-UTM) - OMARCHY VM for UTM - Pre-configured Arch Linux virtual machine.
 - [omarchy-workspace-mover](https://github.com/jonashan/omarchy-workspace-mover) - A Omarchy plugin for moving workspaces between monitors.
 - [omarchy-wireguard-vpn-toggle](https://github.com/JacobusXIII/omarchy-wireguard-vpn-toggle) - WireGuard VPN toggle for Omarchy's Waybar.
+- [omarchy-vpn](https://github.com/limehawk/omarchy-vpn) - WireGuard VPN manager TUI with live connection stats, inline config import/rename, and optional Waybar module.
 - [omazed](https://github.com/APS6/omazed) - Live theme switching for Zed editor in Omarchy.
 - [flutter_omarchy](https://github.com/aloisdeniel/flutter_omarchy) - Develop Flutter apps for Omarchy.
 - [omarchy-pkgs](https://github.com/omacom-io/omarchy-pkgs) - Official Omarchy packages and utilities.
