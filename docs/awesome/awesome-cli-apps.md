@@ -62,6 +62,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mpv](https://mpv.io) - Superior video player.
 - [editly](https://github.com/mifi/editly) - Declarative video editing.
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - A `youtube-dl` fork with additional features and fixes.
+- [cinema](https://github.com/marm00/cinema) - Multiviewer for videos and streams.
 
 ### Movies
 
@@ -88,6 +89,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [WeeChat](https://weechat.org/) - Fast, light and extensible chat client.
 - [irssi](https://github.com/irssi/irssi) - IRC chat client.
 - [kirc](https://github.com/mcpcpc/kirc) - Tiny IRC client.
+- [concord](https://github.com/chojs23/concord) - Discord client.
 
 ## Development
 
@@ -697,6 +699,7 @@ See [plaintextaccounting.org](https://plaintextaccounting.org) for a great overv
 - [YuleLog](https://github.com/Duroktar/YuleLog) - Christmas Yule Log fireplace.
 - [cli-fireplace](https://github.com/dolsup/cli-fireplace) - Digital fireplace.
 - [gitlogue](https://github.com/unhappychoice/gitlogue) - Cinematic git commit replay.
+- [drift](https://github.com/phlx0/drift) - Multiple animated scenes.
 
 ## Graphics
 

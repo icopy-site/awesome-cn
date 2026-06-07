@@ -542,6 +542,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-segment-community](https://github.com/behdi/ngx-segment-community) - The community-maintained successor to [ngx-segment-analytics](https://github.com/opendecide/ngx-segment-analytics).
 * [swetrix](https://github.com/Swetrix/swetrix) - [Integrate Swetrix with your Angular application](https://swetrix.com/docs/angular-integration) to track page views, monitor errors, and capture custom events — all while staying privacy-friendly and GDPR-compliant.
 * [@grandgular/logrocket-angular](https://github.com/Grandgular/logrocket) - Wrapper for the LogRocket Web SDK with DI‑friendly init, lazy loading, typed options, privacy helpers, and DOM directives for data‑private/data‑public.
+* [ngx-umami](https://github.com/mitsuru17/ngx-umami) - Angular integration for [Umami Analytics](https://umami.is/) — a lightweight, privacy‑first tracking solution tailored for Angular applications.
 
 ### Code Analysis
 
@@ -969,6 +970,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ArchUnitTS](https://github.com/LukasNiessen/ArchUnitTS) - Enforce architecture rules, detect circular dependencies, and validate code standards in JS/TS projects with easy setup and seamless test framework integration.
 * [qc-auto-package](https://github.com/KareemMostafa77/qc-auto-package) - Effortless, reliable test IDs for Angular — managed by testers, independent of code.
 * [ng-magic-test-bed](https://github.com/peejay-solutions/ng-magic-test-bed) - Angular test bed wrapper that allows you to remove a lot of bloat code from your spec files.
+* [schmock](https://github.com/khalic-lab/schmock) - Create callable mock APIs from OpenAPI specs or hand-crafted routes using a plugin pipeline and framework adapters.
 
 ## Site Templates
 

@@ -747,6 +747,7 @@ This section includes some additional reading material, channels to watch, and t
 - [DataTalks.Club](https://datatalks.club). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
 - [The Analytics Engineering Roundup](https://roundup.getdbt.com/about). A newsletter about data science. [Archive](https://roundup.getdbt.com/archive).
 - [Techpresso](https://dupple.com/techpresso). A free daily newsletter covering the most impactful developments in AI, ML, and tech. [Archive](https://dupple.com/techpresso).
+- [DiamantAI](https://diamantai.substack.com). Practical AI engineering and generative AI explained simply: RAG, agents, and LLM application patterns for builders.
 
 ### Mailing lists
 **[`^        back to top        ^`](#awesome-data-science)**

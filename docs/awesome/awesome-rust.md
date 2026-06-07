@@ -398,6 +398,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [AlexsJones/llmserve](https://github.com/AlexsJones/llmserve) [[llmserve](https://crates.io/crates/llmserve)] - Interactive TUI to serve local LLM models with auto-detected backends (llama-server, KoboldCpp, LocalAI, MLX, Ollama, vLLM, LM Studio). Features source tree navigation, per-backend presets, live logs, and vision model support. [![CI](https://github.com/AlexsJones/llmserve/actions/workflows/ci.yml/badge.svg)](https://github.com/AlexsJones/llmserve/actions/workflows/ci.yml)
 * [ast-grep](https://github.com/ast-grep/ast-grep) - A CLI tool for code structural search, lint and rewriting.
 * [Bartib](https://github.com/nikolassv/bartib) [[Bartib](https://crates.io/crates/bartib)] - A simple timetracker for the command line [![Tests](https://github.com/nikolassv/bartib/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/nikolassv/bartib/actions/workflows/test.yml)
+* [bitrouter/bitrouter](https://github.com/bitrouter/bitrouter) [[bitrouter](https://crates.io/crates/bitrouter)] - Agent-native LLM router that optimizes your agent with every run with zero harness changes, making every model call reliable, traceable, secure, and cost-effective. Routes across OpenAI, Anthropic, Google, OpenRouter, Bedrock, GitHub Copilot, and more through a single local endpoint, with an MCP gateway, ACP integration, guardrails, observability, and multi-account failover.
 * [CookCLI](https://github.com/cooklang/CookCLI) - Command-line recipe manager with web server, shopping lists, and meal planning capabilities.
 * [espanso](https://github.com/espanso/espanso) - A cross-platform Text Expander. [![CI](https://github.com/espanso/espanso/actions/workflows/ci.yml/badge.svg?branch=dev&event=push)](https://github.com/espanso/espanso/actions/workflows/ci.yml)
 * [eureka](https://crates.io/crates/eureka) - A CLI tool to input and store your ideas without leaving the terminal
@@ -474,6 +475,8 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 
 ### Social networks
 
+* Discord
+  * [concord](https://github.com/chojs23/concord) - A feature-rich TUI client for Discord.
 * Mastodon
   * [Rustodon](https://github.com/rustodon/rustodon) - A Mastodon-compatible, ActivityPub-speaking server.
 * Telegram
@@ -1543,6 +1546,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 * [mailtutan/mailtutan](https://github.com/mailtutan/mailtutan) - An SMTP server for test and development environment.
 * [meli/meli](https://github.com/meli/meli) - 🐝 terminal mail client
 * [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) [[check-if-email-exists](https://crates.io/crates/check-if-email-exists)] - Check if an email address exists without sending any email, with SMTP validation, disposable address detection, and catch-all checks [![Actions Status](https://github.com/reacherhq/check-if-email-exists/workflows/pr/badge.svg)](https://github.com/reacherhq/check-if-email-exists/actions)
+* [rustmailer/bichon](https://github.com/rustmailer/bichon) - A lightweight, high-performance email archiver with full-text search and WebUI.
 * [staktrace/mailparse](https://github.com/staktrace/mailparse) [[mailparse](https://crates.io/crates/mailparse)] - A library for parsing real-world email files
 * [stalwartlabs/mail-auth](https://github.com/stalwartlabs/mail-auth) [[mail-auth](https://crates.io/crates/mail-auth)] - DKIM, ARC, SPF and DMARC message authentication library [![build badge](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-auth/actions/workflows/rust.yml)
 * [stalwartlabs/mail-parser](https://github.com/stalwartlabs/mail-parser) [[mail-parser](https://crates.io/crates/mail-parser)] - A fast and robust e-mail parsing library with full MIME support [![build badge](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml/badge.svg)](https://github.com/stalwartlabs/mail-parser/actions/workflows/rust.yml)

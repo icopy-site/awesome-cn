@@ -343,7 +343,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [graphql-kotlin](https://github.com/ExpediaGroup/graphql-kotlin) - GraphQL Kotlin implementation.
 - [manifold-graphql](https://github.com/manifold-systems/manifold/tree/master/manifold-deps-parent/manifold-graphql) - Comprehensive GraphQL client use. Schema-first. Type-safe GraphQL types, queries, and results, no code generators, no POJOs, no annotations. Excellent [IDE support](http://manifold.systems/images/graphql.mp4) with IntelliJ IDEA and Android Studio. See the [Kotlin example](#example-kotlin) below.
 - [KGraphQL](https://github.com/aPureBase/KGraphQL): Pure Kotlin implementation to setup a GraphQL server.
-- [Kobby](https://github.com/ermadmi78/kobby) - Codegen plugin of [Kotlin DSL Client](https://blog.kotlin-academy.com/how-to-generate-kotlin-dsl-client-by-graphql-schema-707fd0c55284) by GraphQL schema. The generated DSL supports execution of complex GraphQL queries, mutation and subscriptions in Kotlin with syntax similar to native GraphQL syntax.
+- [Kobby](https://github.com/ermadmi78/kobby) - Codegen plugin of Kotlin DSL Client by GraphQL schema. The generated DSL supports execution of complex GraphQL queries, mutation and subscriptions in Kotlin with syntax similar to native GraphQL syntax.
 - [Graphkt](https://github.com/cufyorg/graphkt) - A DSL based graphql server library for kotlin, backed by graphql-java.
 
 <a name="kotlin-example" />
@@ -616,6 +616,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [CraftQL](https://github.com/yamafaktory/craftql) - A CLI tool to visualize GraphQL schemas and to output a graph data structure as a graphviz .dot format.
 - [gqt](https://github.com/eerimoq/gqt) - Build and execute GraphQL queries in the terminal.
 - [Hackolade](https://studio.hackolade.com/) - Visual GraphQL schema editor to generate Schema Definition Language files without any knowledge of the GraphQL syntax. Also visualize and document existing endpoints with introspection.  Additional info and instructions [here](https://hackolade.com/help/GraphQL.html)
+- [Smart Formatter - GraphQL Query Formatter](https://smartformatter.com/tools/graphql-query-formatter) - A client-side, browser-only tool to format, beautify, and validate GraphQL queries and schemas instantly.
 
 
 <a name="tool-testing" />
@@ -691,7 +692,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Apollo APQ Debugger](https://github.com/rookieInTraining/apq-debugger) - Reveal full GraphQL queries behind Apollo APQ hashes. Inspect fallback flow and debug Automatic Persisted Queries in DevTools.
   <a name="databases" />
 
-- [Gitstar](https://gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=chentsulin_awesome-graphql) - Social feed for GitHub. Follow backend engineers, discover trending API frameworks and tools.
+
 ## Databases
 
 - [Cube](https://cube.dev) - [Headless BI](https://cube.dev/blog/headless-bi) for building data applications with SQL, REST, and [GraphQL API](https://cube.dev/docs/backend/graphql). Connect any database or data warehouse and instantly get a GraphQL API with sub-second latency on top of it. - [Source Code](https://github.com/cube-js/cube.js)
@@ -705,7 +706,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Services
 
 - [AWS AppSync](https://aws.amazon.com/appsync/) - Scalable managed GraphQL service with subscriptions for building real-time and offline-first apps
-- [FakeQL](https://fakeql.com/) - GraphQL API mocking as a service ... because GraphQL API mocking should be easy!
+
 - [Moesif API Analytics](https://www.moesif.com/features/graphql-analytics) - A GraphQL analaytics and monitoring service to find functional and performance issues.
 - [Booster framework](https://booster.cloud/) - An open-source framework that makes you _completely_ forget about infrastructure and allows you to focus exclusively on your business logic. It autogenerates a GraphQL API for your models, supporting mutations, queries, and subscriptions.
 - [Nhost](https://nhost.io/) - Open source Firebase alternative with GraphQL
@@ -822,7 +823,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [GraphQL: A data query language](https://graphql.org/blog/graphql-a-query-language/)
 - [Subscriptions in GraphQL and Relay](https://graphql.org/blog/subscriptions-in-graphql-and-relay/)
 - [Relay 101: Building A Hacker News Client](https://medium.com/@clayallsopp/relay-101-building-a-hacker-news-client-bb8b2bdc76e6)
-- [GraphQL Shorthand Notation Cheatsheet](https://wehavefaces.net/graphql-shorthand-notation-cheatsheet-17cd715861b6)
+- [GraphQL Schema Reference](https://graphql.org/learn/schema/) - Official documentation explaining GraphQL schema definition language and shorthand notation.
 - [The GitHub GraphQL API](https://githubengineering.com/the-github-graphql-api/)
 - [Github GraphQL API React Example](https://medium.com/@katopz/github-graphql-api-react-example-eace824d7b61)
 - [Testing a GraphQL Server using Jest](https://medium.com/entria/testing-a-graphql-server-using-jest-4e00d0e4980e)
@@ -850,7 +851,7 @@ If you want to contribute to this list (please do), send me a pull request.
 - [Apollo Odyssey](https://odyssey.apollographql.com/) - Apollo's free interactive learning platform.
 - [learning-graphql](https://github.com/mugli/learning-graphql) - An attempt to learn GraphQL.
 - [GraphQL Roadmap](https://roadmap.sh/graphql) - Step by step guide to learn GraphQL.
-- [GraphQL Security Academy](https://escape.tech/academy/) - a free and interactive platform to learn GraphQL security: how to find, exploit and fix GraphQL vulnerabilities.
+- [OWASP GraphQL Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Security_Cheat_Sheet.html) - Comprehensive guide for securing GraphQL endpoints and preventing vulnerabilities.
 
 ## License
 
