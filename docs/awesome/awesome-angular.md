@@ -398,7 +398,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### HTTP
 
 * [ng-http-caching](https://github.com/nigrosimone/ng-http-caching) - Cache for HTTP requests in Angular application.
-* [cashew](https://github.com/ngneat/cashew) - A flexible and straightforward library that caches HTTP requests in Angular.
 * [@ngify/http](https://github.com/ngify/ngify/tree/main/packages/http) - Reactive Angular HTTP client with typed responses, streamlined errors, and request/response interception.
 * [ng-http-loader](https://github.com/mpalourdio/ng-http-loader) - Smart Angular HTTP interceptor - Intercepts automagically HTTP requests and shows a spinkit spinner / loader / progress bar.
 * [angular-odata](https://github.com/diegomvh/angular-odata) - A fluent API for querying, creating, updating and deleting OData resources in Angular.
@@ -643,6 +642,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [I18N](https://github.com/soluling/I18N) - Soluling has implemented a collection of internationalization (I18N) APIs for `.NET`, Angular and Delphi.
 * [i18n-keygen](https://github.com/gagle/i18n-keygen) - Type-safe i18n keys for every build tool. One package, zero lock-in.
 * [intl-tel-input-ng](https://github.com/mpalourdio/intl-tel-input-ng) - An Angular component to easily integrate [intl-tel-input](https://github.com/jackocnr/intl-tel-input).
+* [langsync](https://github.com/mariokreitz/langsync) - CLI tooling for localization workflows in TypeScript projects.
 * [ng-extract-i18n-merge](https://github.com/daniel-sc/ng-extract-i18n-merge) - Extract and merge i18n xliff translation files for Angular projects.
 * [ng-linguo](https://github.com/jmwierzbicki/linguo) - Modern Angular 18+ i18n toolkit built on SignalStore — a reactive, from‑scratch alternative to `@ngx‑translate/core` and Transloco with zero RxJS in components.
 * [ngx-atomic-i18n](https://github.com/viacharles/ngx-atomic-i18n) - Angular translation library with lazy loading.
@@ -722,7 +722,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 * [angular-compile](https://github.com/patrikx3/angular-compile) - Angular Dynamic Compile. Convert strings to Angular components.
 * [deepequalspure](https://github.com/puckowski/deepequalspure) - JavaScript object deep equals service for Angular projects.
-* [falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs.
 * [lbx-change-sets](https://github.com/Service-Soft/lbx-change-sets) - Automatically tracks entity changes using an extendable base repository.
 * [ng-noop](https://github.com/joeskeen/ng-noop) - A minimal, DOM‑less Angular platform for custom runtimes, CLIs, servers, and experimental renderers.
 * [ngx-api-mimic](https://github.com/mateuszbilicz/ngx-api-mimic) - This library allows you to mock data and simulate a fake API using Angular’s HTTP Interceptor.
@@ -873,7 +872,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Other State Libraries
 
-* [elf](https://github.com/ngneat/elf) - A reactive immutable state management solution built on top of RxJS. It uses custom RxJS operators to query the state and pure functions to update it.
 * [ng-simple-state](https://github.com/nigrosimone/ng-simple-state) - Simple state management in Angular with only services and RxJS.
 * [exome](https://github.com/Marcisbee/exome) - Simple proxy based state manager for deeply nested states, works with Angular Signals and RxJS.
 * [TanStack Query](https://github.com/TanStack/query) - Powerful asynchronous state management, server-state utilities and data fetching for the web.
@@ -957,7 +955,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-page-object-model](https://github.com/FrancescoBorzi/ngx-page-object-model) - This library simplifies Angular UI component testing using the Page Object Model (POM), separating test logic from DOM manipulation for better abstraction.
 * [ngtx](https://github.com/Centigrade/ngtx) - A**ng**ular **T**esting E**x**tensions is a small set of functions that make your life easier when testing Angular components.
 * [ngx-testing-tools](https://github.com/remscodes/ngx-testing-tools) - Provides high-level utilities and reduces boilerplate for testing Angular applications.
-* [spectator](https://github.com/ngneat/spectator) - A Powerful Tool to Simplify Your Angular Tests.
 * [stryker-js](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends.
 * [msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 * [msw-lens](https://github.com/hypertheory-labs/msw-lens) - A tool that generates AI‑readable project state snapshots so any model can understand your mocked APIs, active scenarios, and context without manual explanation.
@@ -1484,7 +1481,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-fontawesome](https://github.com/FortAwesome/angular-fontawesome) - Official Angular component for Font Awesome 5+.
 * [ng-icons](https://github.com/ng-icons/ng-icons) - The ultimate icon library for Angular.
 * [angular-svg-icon](https://github.com/czeckd/angular-svg-icon) - Angular component and service for inlining SVGs allowing them to be easily styled with CSS.
-* [@ngneat/svg-icon](https://github.com/ngneat/svg-icon) - A lightweight library that makes it easier to use SVG icons in your Angular Application.
 * [ng-hero-icons](https://github.com/dimaslz/ng-heroicons) - Use [Heroicons](https://heroicons.com) in your Angular application.
 * [ngx-fluent-ui](https://github.com/bennymeg/ngx-fluent-ui) - Angular & online library for Microsoft Fluent UI icons.
 * [angular-line-awesome](https://github.com/marco-martins/angular-line-awesome) - Angular Line Awesome is an Angular component to manage [Line Awesome](https://icons8.com/line-awesome) icons.
@@ -1522,7 +1518,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### Keyboard Mouse
 
 * [angular-touch-keyboard](https://github.com/mohsen77sk/angular-touch-keyboard) - Virtual Keyboard for Angular applications.
-* [hotkeys](https://github.com/ngneat/hotkeys) - A declarative library for handling hotkeys in Angular applications.
 * [ngx-contextmenu](https://github.com/PerfectMemory/ngx-contextmenu) - A context menu component for Angular.
 * [ngx-keys](https://github.com/mrivasperez/ngx-keys) - A reactive Angular library for managing keyboard shortcuts with signals based UI integration.
 * [focusly](https://github.com/mad-vx/focusly) - A lightweight Angular library that brings intuitive, keyboard-driven navigation to web applications.
@@ -1534,7 +1529,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 ### Layout
 
 * [angular-split](https://github.com/bertrandg/angular-split) - Angular split component.
-* [overview](https://github.com/ngneat/overview) - A collection of tools to make your Angular views more modular, scalable, and maintainable.
 * [ngx-layout](https://github.com/ngbracket/ngx-layout) - Clone of Angular FlexLayout.
 * [ng-sortgrid](https://github.com/kreuzerk/ng-sortgrid) - A grid that allows you to sort all items via drag & drop.
 * [angular-gridster2](https://github.com/tiberiuzuld/angular-gridster2) - Angular gridster 2.
@@ -1565,6 +1559,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [boneyard](https://github.com/0xGF/boneyard) - Auto-generated skeleton-loading framework that works with React, Preact, Vue, Svelte, Angular, and React Native.
 * [groupix-spinner-library](https://github.com/ArshdeepGrover/groupix-spinner-library) - A lightweight Angular spinner library for seamless loading animations!
 * [loaderx-arun](https://github.com/Arun44764/loaderx-arun) - 500+ Next-Generation Animated UI Loaders.
+* [loadingTrace](https://github.com/lucapiciollo/loadingTrace) - Angular loading overlay with zero boilerplate, 76 animations, auto‑tracking, named overlays, determinate progress, runtime config, and Signals.
 * [ng-overlay-skeleton-loader](https://github.com/ebrahim-salehipanah/ng-overlay-skeleton-loader) - A lightweight Angular directive to add customizable skeleton loading states to your components.
 * [ngx-fastboot](https://github.com/KernelPanic92/ngx-fastboot) - Dynamic Angular configuration loader that boosts startup performance by compiling configs in a separate chunk.
 * [ngx-loader](https://github.com/nisicadmir/ngx-loader) - Basic loader paired with a service for state management.
@@ -1699,10 +1694,10 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [signality](https://github.com/signalityjs/signality) - A collection of atomic utilities for building reactive compositions in Angular.
 * [@alvaromarinho/libs](https://github.com/alvaromarinho/libs) - A collection of Angular libraries for common UI needs, compatible with Angular 14+.
 * [angular-helpers](https://github.com/Gaspar1992/angular-helpers) - A suite of Angular libraries that help you build secure, browser-integrated applications with a clean developer experience.
+* [ngneat-archive](https://github.com/ngneat-archive) - A read-only preservation archive of the [ngneat](https://github.com/ngneat) repositories.
 
 ### Modals
 
-* [dialog](https://github.com/ngneat/dialog) - A simple to use, highly customizable, and powerful modal.
 * [ngx-dialog](https://github.com/soc221b/ngx-dialog) - Type-safe Angular Dialogs Directive for Angular 16+.
 * [ng-modal-service](https://github.com/nhusby/ng-modal-service) - A simple Angular modal Service.
 * [strictly-typed-mat-dialog](https://github.com/JustSolve-self-serve/strictly-typed-mat-dialog) - Angular material library to improve type safety around mat dialogs.
@@ -1863,7 +1858,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 
 ### Tooltips
 
-* [helipopper](https://github.com/ngneat/helipopper) - A powerful tooltip and popover for Angular applications.
 * [popover](https://github.com/ncstate-sat/popover) - Angular popover component.
 * [ngx-tooltip-directives](https://github.com/mkeller1992/ngx-tooltip-directives) - Library with three tooltip directives (string, HTML, template), inspired by [ng2-tooltip-directive](https://github.com/drozhzhin-n-e/ng2-tooltip-directive).
 * [angular-tooltip](https://github.com/babybeet/angular-tooltip) - Easily show tooltips programmatically and/or declaratively in Angular.

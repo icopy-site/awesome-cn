@@ -35,7 +35,7 @@ Libraries for creating web maps:
 - [d3-geo-voronoi](https://github.com/Fil/d3-geo-voronoi) - Voronoi diagrams and Delaunay triangulation for the sphere. ![GitHub stars](https://img.shields.io/github/stars/Fil/d3-geo-voronoi?style=social)
 - [datamaps](https://github.com/markmarkoh/datamaps) - Customizable map visualizations in one file. ![GitHub stars](https://img.shields.io/github/stars/markmarkoh/datamaps?style=social)
 - [Deck.GL](https://github.com/visgl/deck.gl) - WebGL2 powered geospatial visualization layers. ![GitHub stars](https://img.shields.io/github/stars/visgl/deck.gl?style=social)
-- [Eurostat-map](https://github.com/eurostat/eurostat-map.js) - Create and customise web maps showing Eurostat data using D3.js. ![GitHub stars](https://img.shields.io/github/stars/eurostat/eurostat-map.js?style=social)
+- [Eurostat-map](https://github.com/eurostat/eurostat-map.js) - Data-driven maps. ![GitHub stars](https://img.shields.io/github/stars/eurostat/eurostat-map.js?style=social)
 - [globe.gl](https://github.com/vasturiano/globe.gl) - This library is a convenience wrapper around the three-globe plugin, using ThreeJS/WebGL for 3D rendering. ![GitHub stars](https://img.shields.io/github/stars/vasturiano/globe.gl?style=social)
 - [Google Maps](https://developers.google.com/maps/documentation/javascript) - JavaScript API for Google Maps.
 - [gridviz](https://github.com/eurostat/gridviz) - A package for visualizing gridded data. ![GitHub stars](https://img.shields.io/github/stars/eurostat/gridviz?style=social)

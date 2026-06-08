@@ -23,7 +23,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **225** projects · **56** actively maintained · **9** 🔥 hot · **43** 🪦 on the graveyard shelf.
+> Tracking **225** projects · **53** actively maintained · **9** 🔥 hot · **45** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](https://github.com/DavidLambauer/awesome-magento2/blob/master/contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -86,7 +86,6 @@ Also see:
 - [Meet Magento India](https://www.meetmagento.in/) 🫡 - Meet Magento event series — India.
 - [Meet Magento Netherlands](https://nl.meet-magento.com/) 🫡 - Meet Magento event series — Netherlands.
 - [Meet Magento New York City](https://meetmagentonyc.com/) 🫡 - Meet Magento event series — NYC.
-- [Meet Magento Poland](https://meetmagento.pl/) 🫡 - Meet Magento event series — Poland.
 - [Meet Magento UK](https://meet-magento.co.uk/) 🫡 - Meet Magento event series — UK.
 - [Meet Magento Baltics](https://meetmagentobaltics.com/) - Meet Magento event series — Baltics.
 - [Meet Magento Malaysia](https://www.meetmagento.asia/) - Meet Magento event series — Malaysia.
@@ -95,6 +94,7 @@ Also see:
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
 
+- [Meet Magento Poland](https://meetmagento.pl/) - Meet Magento event series — Poland.
 - [Meet Magento Singapore](https://meetmagento.sg/) - Meet Magento event series — Singapore.
 
 </details>
@@ -153,9 +153,9 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Magento Cache Clean](https://github.com/mage2tv/magento-cache-clean) 🔥 - A faster drop-in replacement for bin/magento cache:clean with file watcher by Vinai Kopp.
 - [Magewire PHP](https://github.com/magewirephp/magewire) 🫡 - A Laravel Livewire port for building complex AJAX-based components with ease. Used by the Hyvä Checkout.
 - [Config ImportExport](https://github.com/semaio/Magento2-ConfigImportExport) 🫡 - CLI-based config management.
+- [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops) 🫡 - PHP Exceptions for Cool Kids in Magento 2.
 - [graycoreio/magento2-cors](https://github.com/graycoreio/magento2-cors) 🫡 - Enables configurable CORS headers on the Magento GraphQL API.
 - [Magento 2 Prometheus Exporter](https://github.com/run-as-root/magento2-prometheus-exporter) 🫡 - Prometheus Exporter for common Magento data.
-- [Rest Client](https://github.com/zepgram/module-rest) 🫡 - Technical Magento 2 module providing simple development pattern, configurations and optimizations to make REST API requests toward external services based on Guzzle Client.
 - [Yireo LokiComponents](https://github.com/yireo/Yireo_LokiComponents) 🫡 - A library for building AJAX-driven form components with ease. Used by the Yireo Loki Checkout.
 - [Developer Toolbar](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Magento 2 Developer Toolbar.
 - [Advanced Template Hints](https://github.com/ho-nl/magento2-Ho_Templatehints) - Magento 2 Template Hints Helper.
@@ -164,9 +164,9 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Cypress Testing Suite](https://github.com/elgentos/magento2-cypress-testing-suite/) - A community-driven Cypress testing suite for Magento 2.
 - [Scope Hints](https://github.com/avstudnitz/AvS_ScopeHint2) - Displays additional information in the Store Configuration by Andreas von Studnitz.
 - [bitExpert/phpstan-magento](https://github.com/bitExpert/phpstan-magento) - Magento-specific extension for PHPStan.
-- [Whoops Exceptions](https://github.com/yireo/Yireo_Whoops) - PHP Exceptions for Cool Kids in Magento 2.
 - [Auto Cache Flush](https://github.com/yireo/Yireo_AutoFlushCache) - Magento 2 module to automatically flush the cache.
 - [Dot Env](https://github.com/zepgram/magento-dotenv) - Magento 2 Environment Variable Component implementing Symfony Dotenv.
+- [Rest Client](https://github.com/zepgram/module-rest) - Technical Magento 2 module providing simple development pattern, configurations and optimizations to make REST API requests toward external services based on Guzzle Client.
 - [Magento 2 Model Generator / CRUD Generator](https://www.model-generator.com/) - A more up-to-date version of a Magento 2 Model & CRUD Generator by Michiel Gerritsen.
 - [Simon's Troubleshooting Guide](https://gist.github.com/ProcessEight/000245eac361cbcfeb9daf6de3c1c2e4) - A list with the most common errors you encounter during development.
 
@@ -325,13 +325,14 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Personal Blogs
 
-- [Jigar Karangiya](https://jigarkarangiya.com/) 🫡 - Personal blog on Magento 2 and Adobe Commerce development.
+
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
 
 - [Alan Storm](http://alanstorm.com/category/magento-2/) - Deep Magento 2 technical writeups.
 - [Fabian Schmengler](https://www.schmengler-se.de/) - Personal blog covering Magento 2 architecture and process.
+- [Jigar Karangiya](https://jigarkarangiya.com/) - Personal blog on Magento 2 and Adobe Commerce development.
 
 </details>
 
@@ -393,7 +394,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 ## Official Resources
 
 - [Magento GitHub Repository](https://github.com/magento/magento2) 🫡 - Magento 2 GitHub repository.
-- [Magento Coding Standards](https://github.com/magento/magento-coding-standard) 🫡 - Official Magento 2 advanced ruleset for PHP_CodeSniffer.
+- [Magento Coding Standards](https://github.com/magento/magento-coding-standard) - Official Magento 2 advanced ruleset for PHP_CodeSniffer.
 - [Magento 2 data migration tool](https://github.com/magento/data-migration-tool) - Official Magento 1 → Magento 2 migration tool.
 - [Magento 2 Architecture](https://github.com/magento/architecture) - Architectural discussions about Magento 2.
 - [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog) - Developer blog run by Magento.
