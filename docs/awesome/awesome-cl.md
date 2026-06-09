@@ -790,6 +790,13 @@ See also:
 
 * [breeze](https://github.com/fstamour/breeze/) - experiments on workflows for Common Lisp. WIP.
 
+## Tree-sitter grammars
+
+* [tree-sitter-commonlisp](https://github.com/tree-sitter-grammars/tree-sitter-commonlisp) -  Common Lisp grammar for tree-sitter. MIT.
+  * still Work In Progress.
+* [tree-sitter-cl-syntax](https://codeberg.org/zshaftel/tree-sitter-cl-syntax) - another WIP grammar, ocused specifically on the syntax of the language.
+  * with a grammar for `format` directives.
+
 Language extensions
 ===================
 

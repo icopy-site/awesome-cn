@@ -1201,6 +1201,7 @@ _Exploring specialty game engine / game development topics and features._
 _Software to help with game engine / video game development._
 
 ### 2D Game Dev
+- 🆓 [Sprite Fusion](https://www.spritefusion.com/) - Free, web-based 2D tilemap editor with export to Unity, Godot, and more.
 - 💰 [Sprite Illuminator](https://www.codeandweb.com/spriteilluminator) - Create stunning light effects with 2D sprites in your game engine.
 - 💰 [Texture Packer](https://www.codeandweb.com/texturepacker) - Create sprite sheets and optimize your game graphics.
 - 🆓 [Tiled](https://www.mapeditor.org) - General-purpose tile map editor for all tile-based games. [[Source](https://github.com/mapeditor/tiled)]
