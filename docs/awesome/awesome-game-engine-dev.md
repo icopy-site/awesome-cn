@@ -22,6 +22,7 @@ This includes things typically not found in low-level game engines, app / game f
 _Production ready game engines to tinker with, explore, learn and inspire._
 
 ### Awesome Collections
+- 📚 [Awesome Game Engines](https://github.com/ChessMax/awesome-game-engines) - List of game engines.
 - 📚 [CoolEngines](https://github.com/JohnClarking/CoolEngines) - List of open source graphic & game engines.
 - 📚 [Wikipedia: List of Game Engines](https://en.wikipedia.org/wiki/List_of_game_engines) - Game engines along with their platforms and licenses.
 
@@ -89,7 +90,7 @@ _Info on topics necessary for designing and developing game engines._
     - 📚 [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors) - Programming techniques, tips, and tricks for real-time graphics.
     - 📚 [GPU Gems 2](https://developer.nvidia.com/gpugems/gpugems2/copyright) - Programming techniques for high-performance graphics.
     - 📚 [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/contributors) - Collection of state-of-the-art GPU programming examples hosted by _NVIDIA_.
-    - 📚 [Interactive Computer Graphics](https://www.cs.unm.edu/~angel/) - Top down approach to computer graphics.
+    - 📚 [Interactive Computer Graphics](https://www.cs.unm.edu/~angel/) - Top-down approach to computer graphics.
     - 📚 [Physically-Based Rendering](https://www.pbrt.org) - From the Academy Award winning authority on PBR.
 - Education Portals
     - 📚 [Game Art Tricks](http://simonschreibt.de/game-art-tricks/) - Articles exploring different graphics techniques.
@@ -524,6 +525,7 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Duality](https://github.com/AdamsLair/duality) - Modular 2D engine, editor built with _OpenTK_.
     - 🎉 [Flat Red Ball](https://github.com/vchelaru/FlatRedBall) - 2D game engine & design tools, built with _MonoGame_. [[Website](https://flatredball.com/)]
     - 🎉 [Murder](https://github.com/isadorasophia/murder) - Pixel-art, ECS game engine built on _MonoGame_. [[Docs](https://isadorasophia.com/murder/)]
+    - 🎉 [Prowl](https://github.com/ProwlEngine/Prowl) - 3D game engine inspired by _Unity_.
     - 🎉 [Stride](https://github.com/stride3d/stride) - Game engine for realistic rendering and VR. Formerly _Xenko_. [[Website](https://www.stride3d.net/)]
     - 💸 [Unity](https://store.unity.com/) - Biggest name in game engines, industry standard.
 - C#: Game Framework
@@ -534,6 +536,8 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Protogame](https://github.com/RedpointGames/Protogame) - Cross-platform 2D/3D game engine built on _MonoGame_.
 - C#: Geometry
     - 🎉 [DotRecast](https://github.com/ikpil/DotRecast) - A port of _Recast & Detour_, navigation mesh toolset for games, Unity3D, servers, C#.
+- C#: Graphics - 2D
+    - 🎉 [ImageSharp](https://github.com/SixLabors/ImageSharp) - Modern, cross-platform, 2D graphics library for .NET.
 - C#: Graphics - 3D
     - 🎉 [OpenTK](https://github.com/opentk/opentk) - Open Toolkit, C# bindings for OpenGL. [[LearnOpenTK](https://github.com/opentk/LearnOpenTK)]
     - 🎉 [Veldrid](https://github.com/mellinoe/veldrid) - Cross-platform, graphics API-agnostic rendering and compute library for .NET.
@@ -546,11 +550,13 @@ _Language specific game engine development libraries / frameworks / code._
     - 🎉 [Myra](https://github.com/rds1983/Myra) - Gui library for _MonoGame_, _FNA_, and _Stride_.
     - 🎉 [Squid](https://github.com/Roderik11/Squid) - C# Realtime GUI System.
     - 🎉 [Uno](https://github.com/unoplatform/uno) - Mobile, desktop and WebAssembly gui library. [[Website](https://platform.uno/)]
+    - 🎉 [VellumUI](https://github.com/notgiven688/vellum) - Lightweight immediate-mode GUI library with font rendering.
 - C#: Layout
     - 🎉 [Gum](https://github.com/vchelaru/Gum) - Flexible layout tool for creating UI on any platform.
 - C#: Physics
     - 🎉 [Aether Physics](https://github.com/tainicom/Aether.Physics2D) - 2D physics library with continuous collision detection.
     - 🎉 [Box2D.NET](https://github.com/ikpil/Box2D.NET) - A port of Box2D. 2D physics engine for games, .NET C#, Unity3D, servers.
+    - 🎉 [Jitter Physics 2](https://github.com/notgiven688/jitterphysics2) - Fast, simple, and dependency-free physics engine.
     - 🎉 [Velcro Physics](https://github.com/Genbox/VelcroPhysics) - C# port of Box2D. Formerly _Farseer Physics_.
 - C#: Utility
     - 🎉 [Facepunch.Steamworks](https://github.com/Facepunch/Facepunch.Steamworks) - Steamworks implementation.
