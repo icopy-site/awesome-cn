@@ -31,7 +31,7 @@
 *Projects centered around artistic creations.*
 
 - [Brushwork VR](https://brushworkvr.com/) - A VR app that simulates the process of painting with a virtual canvas, palette, color mixing, and more.
-- [Silk Brush](https://www.silkbrush.app/) - A port of Tilt Brush to WebXR with plans for future extensions.
+- [Silk Brush](https://msub2.github.io/silk-brush/) - A port of Tilt Brush to WebXR with plans for future extensions.
 - [VARTISTE](https://vartiste.xyz/) - A VR app for 2D drawing and image editing, and 3D model texturing.
 
 ## Audio
@@ -54,11 +54,11 @@
 
 ### Discord
 
+- [Borellion Discord](https://discord.gg/4JzX9ZTRQk) - Official server for Borellion.
 - [Metaverse Makers Discord](https://discord.gg/UgZDFZW) - Official server for M3, the Metaverse Makers Mastermind group.
 - [WebXR Discord](https://discord.gg/Jt5tfaM) - Official Discord server for all things WebXR, with over 1000 members.
 - [WebXR Francophone Discord](https://discord.gg/JGsaYQJeuM) - French-speaking Discord server for WebXR.
 - [Wonderland Engine Discord](https://discord.gg/FE8QnDP) - Wonderland Engine Discord server.
-- [Zesty Market Discord](https://discord.gg/7d7agTbmKf) - Official server for Zesty Market.
 
 ### Facebook
 
@@ -170,7 +170,7 @@
 ## Monetization
 
 
-- [Zesty Market](https://www.zesty.market) - A marketplace for rentable banner spaces in XR. Offers integrations with most major WebXR creation tools.
+- [Borellion](https://www.borellion.com/) - A marketplace for rentable banner spaces in XR. Offers integrations with most major WebXR creation tools.
 
 ## Social Spaces
 
