@@ -216,12 +216,13 @@ Contribution guidelines can be found on [CONTRIBUTING.md](https://github.com/gof
 Fiber is an open-source project that runs on donations to pay the bills, e.g., our domain name, hosting, and serverless infrastructure. If you want to support Fiber, please become a [GitHub Sponsor](https://github.com/sponsors/gofiber).
 
 <!-- sponsors -->
+
 ### 📅 Monthly Sponsors
 
 <table>
 <tr><td valign="top"><strong>🔥 Fiber Guardian</strong></td><td><a href="https://www.coderabbit.ai/?utm_source=cr_org&amp;utm_medium=github" title="@coderabbitai"><img src="https://raw.githubusercontent.com/coderabbitai.png" width="50" alt="@coderabbitai" /></a></td></tr>
 <tr><td valign="top"><strong>☕ Fiber Supporter</strong></td><td><a href="https://ndole.studio" title="@NdoleStudio"><img src="https://raw.githubusercontent.com/NdoleStudio.png" width="34" alt="@NdoleStudio" /></a>&nbsp;<a href="https://cyberapper.ai" title="@petercool"><img src="https://raw.githubusercontent.com/petercool.png" width="34" alt="@petercool" /></a></td></tr>
-<tr><td valign="top"><strong>🪴 Fiber Friend</strong></td><td><a href="https://raw.githubusercontent.com/bsdrop" title="@bsdrop"><img src="https://raw.githubusercontent.com/bsdrop.png" width="32" alt="@bsdrop" /></a></td></tr>
+<tr><td valign="top"><strong>🪴 Fiber Friend</strong></td><td><a href="https://raw.githubusercontent.com/simonheisstpeter" title="@simonheisstpeter"><img src="https://raw.githubusercontent.com/simonheisstpeter.png" width="32" alt="@simonheisstpeter" /></a>&nbsp;<a href="https://raw.githubusercontent.com/bsdrop" title="@bsdrop"><img src="https://raw.githubusercontent.com/bsdrop.png" width="32" alt="@bsdrop" /></a></td></tr>
 </table>
 
 ### 🎁 One-time Sponsors

@@ -97,6 +97,7 @@ Below are the most popular platforms for Smart TV. The full list is [here](https
 * [Miracast](https://en.wikipedia.org/wiki/Miracast) - Standard for wireless connections from devices (such as laptops, tablets, or smartphones) to displays (such as TVs, monitors or projectors). Works over Wi-Fi Direct.
 
 ## Cross-platform tools
+* [Fluxcast](https://github.com/IlyaP358/fluxcast) - A user-friendly Python utility for mirroring Linux desktops to Smart TVs via Miracast and DLNA, supporting GNOME, KDE, and wlroots/Wayland.
 
 ## Navigation libraries
 * [lrud](https://github.com/stuart-williams/lrud) - Left, Right, Up, Down. A spatial navigation library for devices with input via directional controls.

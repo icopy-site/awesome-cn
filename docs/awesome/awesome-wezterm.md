@@ -93,3 +93,4 @@ To enhance your WezTerm configuration experience:
 - [sravioli/sigil.wz](https://github.com/sravioli/sigil.wz) - Icon and identity-color registry for processes, tools, and UI labels.
 - [sravioli/warp.wz](https://github.com/sravioli/warp.wz) - General-purpose utility library with string, table, list, path, and filesystem helpers.
 - [btrachey/wezterm-replay](https://github.com/btrachey/wezterm-replay) - Parse command output and get URLs, shell commands, etc. pasted into your next prompt.
+- [usrivastava92/widgets.wez](https://github.com/usrivastava92/widgets.wez) - Cross-platform status bar widgets for CPU, RAM, battery, network, and disk on macOS, Linux, and Windows.

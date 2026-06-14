@@ -59,6 +59,10 @@
 - [Flask](https://github.com/j0ack/flask-inertia)
 - [Symfony](https://github.com/nytodev/inertia-bundle)
 
+## Hooks
+
+- [useApi](https://github.com/offload-project/inertiajs-use-api) - React hook for calling JSON API endpoints from Inertia.js apps, with optional piping into page props.
+
 ## Resources
 
 - `💜` [Starter kit](https://laravel.com/docs/13.x/starter-kits#available-starter-kits) - Laravel's official starter kits for Vue, React and Svelte.
