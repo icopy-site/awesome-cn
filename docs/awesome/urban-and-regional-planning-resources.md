@@ -480,6 +480,7 @@ Software, tools, and platforms intended to assist with transportation planning t
 - [OpenPath](https://www.nrel.gov/transportation/openpath.html) - Continuous travel survey platform from NREL that collects trips and data via a smart phone app backed by a server and leveraging automated data processing.
 - [3D Street](https://www.3dstreet.org/) - An open-source 3D street design and virtual reality application that allows users to directly import their street designs from Streetmix into an interactive 3D web scene. Apart from the community version, it also provides a Pro version with integration with Google Earth and further customization.
 - [Tile2Net](https://github.com/VIDA-NYU/tile2net?tab=readme-ov-file) - An end-to-end tool for automated mapping of pedestrian infrastructure from aerial imagery. It provides a deep learning models that semantically segments pedestrian infrastructure from imagery for digitization. It is also available on the Esri Atlas of [models](https://www.arcgis.com/home/item.html?id=c0d520baa30d4b47ab36232231c17875). 
+- [SafeStreets](https://safestreets.streetsandcommons.com) - A free, OpenStreetMap-based web platform providing address-level walkability and pedestrian-safety scores on a 15-minute-city framework (daily-needs reach, transit access, and walking comfort).
 
 ## Educational and Informational Resources
 Collections of planning related literature, information aggregators, or similar resources.

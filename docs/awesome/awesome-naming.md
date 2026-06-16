@@ -137,6 +137,7 @@ This is a curated list for when naming things is done right.
 - [Floating point number](https://floating-point-gui.de/formats/fp/) - This representation can encode numbers at very different magnitudes with a limited amount of digits by letting the radix point _float_ instead of being fixed in place.
 - [Framework](https://en.wikipedia.org/wiki/Software_framework) - In software architecture (like in actual architecture), frameworks provide a basic structure to build upon, guiding and constraining further development.
 - [Glue Code](https://en.wikipedia.org/wiki/Glue_code) - Jenga and LEGO bricks don't share the same interface, but you can always glue them together.
+- [Great Firewall of China](https://en.wikipedia.org/wiki/Great_Firewall) - Chinas controversial internet censorship system and a reference to the Great Wall of China.
 - [Heartbeat](https://en.wikipedia.org/wiki/Heartbeat_(computing)) - A periodic signal a system sends to confirm it is still alive and functioning, just like a pulse.
 - [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug) - A bug that seems to disappear or change when one tries to study it. It's a pun on Werner Heisenberg, who discovered that the act of observing quantum systems inevitably alters their state.
 - [Hydra](https://computer-dictionary-online.org/definitions-h/hydra-code) - A bug that, when an attempt to fix it is made, introduces multiple new bugs. It's a bug that cannot be fixed.
