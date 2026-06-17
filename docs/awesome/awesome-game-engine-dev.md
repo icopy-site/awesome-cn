@@ -45,6 +45,7 @@ _Production ready game engines to tinker with, explore, learn and inspire._
 ### Commercial
 - 💰 [AppGameKit](https://www.appgamekit.com/studio) - Easy and quick game making by _TheGameCreators_.
 - 💸 [Buildbox](https://www.buildbox.com) - Create 3D & 2D video games without coding.
+- 💰 [Cave Engine](https://uniday.studio/cave/) - Fast and easy Python game engine for 3D.
 - 💸 [Construct](https://www.construct.net/) - Drag and drop game builder. [[Awesome](https://github.com/ConstructCommunity/awesome-construct)]
 - 💰 [Corgi Engine](https://corgi-engine.moremountains.com/) - 2D/2.5D platformer engine built on top of _Unity_.
 - 🎉 [Defold](https://github.com/defold/defold) - Open sourced game engine by _King_. [[Website](https://defold.com)]
@@ -944,13 +945,21 @@ _Language specific game engine development libraries / frameworks / code._
 - Python: Cross-Platform
     - 💸 [Anvil](https://anvil.works) - Full stack web apps with nothing but Python.
     - 🎉 [Brython](https://github.com/brython-dev/brython) - Python 3 running in the browser.
+- Python: Game Engine w/Editor
+    - 💰 [Cave Engine](https://uniday.studio/) - Fast and easy Python game engine for 3D.
+    - 🎉 [ursina](https://github.com/pokepetter/ursina) - Game engine powered by Python and _Panda3D_.
 - Python: Game Framework
     - 🎉 [Arcade](https://github.com/pythonarcade/arcade) - Easy to use library for creating 2D arcade games.
-    - 🎉 [Panda3D](https://github.com/panda3d/panda3d) - Powerful, mature game engine, developed by Disney and CMU. [[Website](https://www.panda3d.org)]
+    - 🎉 [Panda3D](https://github.com/panda3d/panda3d) - Powerful, mature game engine developed by _Disney_ and _Carnegie Mellon_. [[Website](https://www.panda3d.org)]
     - 🔒 [Pygame](https://github.com/pygame/pygame) - Game & multimedia app framework, built on _SDL_.
     - 🎉 [Pygcurse](https://github.com/asweigart/pygcurse) - [Curses-like](https://en.wikipedia.org/wiki/Curses_%28programming_library%29) library for text adventures / roguelikes. [[Website](http://inventwithpython.com/pygcurse/)]
 - Python: Gui
+    - 🎉 [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) - Modern, customizable UI-library based on _Tkinter_.
     - 🎉 [Kivy](https://github.com/kivy/kivy) - Cross-platform gui framework. [[Website](https://kivy.org/)]
+    - 🎉 [NiceGUI](https://github.com/zauberzeug/nicegui/) - Create web-based user interfaces with Python.
+    - 🔒 [PySide](https://doc.qt.io/qtforpython-6/) - Official Python bindings for _Qt_.
+    - 💸 [PyQt](https://riverbankcomputing.com/software/pyqt/intro) - Python bindings for _Qt_.
+    - 📚 [tkinter](https://docs.python.org/3/library/tkinter.html) - Standard Python interface to the Tcl/Tk GUI toolkit.
 
 ### Ruby
 - 📚 [Awesome Ruby](https://github.com/markets/awesome-ruby) - Collection of awesome Ruby libraries, tools, frameworks and software.
