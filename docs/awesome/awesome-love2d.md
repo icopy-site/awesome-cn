@@ -331,6 +331,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [i18n](https://github.com/excessive/i18n) - Internationalization library designed to help localize your game.
 * [Ini Parser](https://github.com/nobytesgiven/ini_parser) - General purpose ini configuration parser.
 * [KeyedArray](https://github.com/KINGTUT10101/KeyedArray) - A special data structure where items can be found by their position or key. Similar to an ordered dictionary.
+* [L5](https://l5lua.org/) - A lightweight creative coding library that ports Processing / p5.js into Lua.
 * [Lily](https://github.com/MikuAuahDark/lily) - Async Asset Loader.
 * [log.lua](https://github.com/rxi/log.lua) - Library for configurable log output.
 * [love-loader](https://github.com/kikito/love-loader) - Threaded resource loading.
