@@ -515,6 +515,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-bob](https://github.com/scottstraughan/ngx-bob) - Angular chat widget with messaging, local history, error handling, commands, and search.
 * [ngx-prompt-kit](https://github.com/PianoNic/ngx-prompt-kit) - Angular components for AI chat interfaces, built on Spartan UI.
 * [PureCode AI](https://purecode.ai/components/angular/application-ui) - Build Angular application UIs 50% faster with PureCode AI.
+* [reangular](https://github.com/AleksanderBodurri/reangular) - A coding-agent skill that converts a React library into a modern Angular library with full feature parity, automated browser validation, and a side-by-side parity review.
 * [repomix](https://github.com/yamadashy/repomix) - A tool that packs your entire repository into a single, AI-friendly file.
 * [rxjs-mcp-server](https://github.com/shuji-bonji/rxjs-mcp-server) - Execute, debug, and visualize RxJS streams directly from AI assistants like Claude.
 * [superconnect](https://github.com/bitovi/superconnect) - An AI-powered tool that scans your Figma file, explores your React or Angular repo, generates `.figma.tsx` or `.figma.ts` mappings, and publishes them back via Figma’s CLI.
@@ -1389,6 +1390,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-form-draft](https://github.com/neokyuubi/ngx-form-draft) - Zero-dependency Angular form draft auto-save and restore.
 * [ngx-signal-forms](https://github.com/lorenzomusche/ngx-signal-forms) - A signal‑driven, type‑safe Angular form library built on the experimental Signal Forms API with modern M3 styling.
 * [formsync](https://github.com/sudhucodes/formsync) - A developer‑friendly Angular‑ready form backend that lets you collect and manage submissions without server‑side code.
+* [@neutro-web/form](https://github.com/neutro-web/form) - High-performance, zero-dependency, framework-agnostic reactive form engine.
 
 ### Form Controls
 
@@ -1533,6 +1535,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [angular-onscreen-material-keyboard](https://github.com/eFaps/angular-onscreen-material-keyboard) - Onscreen virtual keyboard for Angular using Angular Material.
 * [@TanStack/hotkeys](https://github.com/TanStack/hotkeys) - Type-Safe keyboard shortcuts library with awesome devtools.
 * [ngx-keyboard-shortcuts](https://github.com/phalgunv/ngx-keyboard-shortcuts) - An actively maintained fork of the archived [ngx-keyboard-shortcuts](https://github.com/milestechnologies/ngx-keyboard-shortcuts) package, adding Angular 16+ support and modern tooling.
+* [ngx-command-palette](https://github.com/theryansmee/ngx-command-palette) - Zero-setup, keyboard-driven Angular command palette with auto-registered routes, custom commands, async search, and contextual visibility.
 
 ### Layout
 

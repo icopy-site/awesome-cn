@@ -62,6 +62,7 @@
 - [omarchy-flexoki-dark-theme](https://github.com/euandeas/omarchy-flexoki-dark-theme) - Flexoki color palette adaptation.
 - [omarchy-flexoki-light-theme](https://github.com/euandeas/omarchy-flexoki-light-theme) - Light version of Flexoki color palette.
 - [omarchy-forest-green-theme](https://github.com/abhijeet-swami/omarchy-forest-green-theme) - Nature-inspired forest green color scheme.
+- [omarchy-frutiger-aero](https://github.com/VECTORG99/omarchy-frutiger-aero) - Frutiger Aero theme with 6 EWW desktop widgets, liquid glass aesthetics, celestial gradients, and light/dark support.
 - [omarchy-futurism-theme](https://github.com/bjarneo/omarchy-futurism-theme) - Futuristic theme with modern aesthetics.
 - [omarchy-gold-rush-theme](https://github.com/tahayvr/omarchy-gold-rush-theme) - Luxurious gold-themed color scheme.
 - [omarchy-gtk-theme](https://github.com/bjarneo/omarchy-gtk-theme) - Universal GTK styling to match Omarchy across applications.

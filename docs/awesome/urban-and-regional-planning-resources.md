@@ -548,6 +548,7 @@ These are other aggregators that bring together different planning related tools
 - [The Nexus](https://www.urbanismnext.org/the-nexus) - Examines the potential impacts that new mobility, autonomous vehicles, e-commerce, and other innovations will have on cities and communities and catalogues various resources and tools related to them.
 - [Data Standards Directory](http://datastandards.directory/) - This open directory of data standards aggregates known data standard examples and features a taxonomy on how to understand their application.
 - [Digital.Gov](https://digital.gov/) - Guidance and resources on building better digital services in government.
+- [Data Center Policy Database](https://www.datacenterpolicy.com/database) - A searchable database of data center policies, useful for planners navigating the land rezoning, water and energy demands, and transparency issues that accompany data center siting in their jurisdictions.
 
 ---
 
