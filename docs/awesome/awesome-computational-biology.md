@@ -175,6 +175,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [1000 Genomes Project](https://www.internationalgenome.org/) — Reference panel of human genetic variation from 2,504 individuals across 26 populations.
 - [BACE](https://www.kaggle.com/datasets/gokturkkoch/bace) — Binary classification and regression dataset for β-secretase 1 (BACE-1) inhibitor binding affinity.
 - [BEAT AML](https://biodev.github.io/BeatAML2/) — Functional ex vivo drug sensitivity measurements paired with genomics for acute myeloid leukemia.
+- [Bento](https://github.com/LigandPro/Bento) — Protein-ligand docking benchmark covering rigid, flexible, de novo, blind, induced-fit, and covalent docking tasks.
 - [BindingDB Curated Sets](https://www.bindingdb.org/rwd/bind/chemsearch/marvin/SDFdownload.jsp?all_download=yes) — Curated binding affinity datasets for protein–ligand interaction benchmarking.
 - [Cancer Therapeutics Response Portal (CTRP)](https://portals.broadinstitute.org/ctrp/) — Drug sensitivity profiles across ~900 cancer cell lines for >400 compounds.
 - [ClinTox](https://tdcommons.ai/single_pred_tasks/tox/#clintox) — Clinical toxicity dataset contrasting FDA-approved drugs with those that failed clinical trials due to toxicity.
@@ -257,6 +258,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [LINGER](https://github.com/Durenlab/LINGER) — Neural network for gene regulatory network inference from single-cell multiome (RNA+ATAC-seq) data with bulk data pretraining.
 - [sciPENN](https://github.com/jlakkis/sciPENN) — RNN-based method for simultaneous protein expression prediction, uncertainty estimation, and cell-type label transfer from CITE-seq and scRNA-seq data.
 - [MOGONET](https://github.com/txWang/MOGONET) — Multi-omics graph convolutional network framework for patient classification and biomarker identification.
+- [AutoZyme](https://github.com/ElliotXie/autozyme) — Autonomous agentic framework that speeds up bioinformatics software (e.g. Scanpy, Seurat) on CPUs while preserving the original results.
 
 ---
 
@@ -303,6 +305,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [REINVENT](https://github.com/MolecularAI/Reinvent) — Reinforcement learning for de novo drug design.
 - [MolGPT](https://github.com/devalab/molgpt) — Transformer-based model for molecular generation.
 - [Molecular Transformer](https://github.com/pschwllr/MolecularTransformer) — Sequence-to-sequence model for retrosynthesis prediction.
+- [Matcha](https://github.com/LigandPro/Matcha) — Multi-stage Riemannian flow matching model for physically valid molecular docking with scoring, pose filtering, and benchmarks.
 - [TargetDiff](https://github.com/guanjq/targetdiff) — 3D equivariant diffusion model for structure-based drug design.
 - [DiffDock](https://github.com/gcorso/DiffDock) — Diffusion generative model for molecular docking, predicting the binding pose of small molecules to protein targets.
 - [JTVAE](https://github.com/wengong-jin/icml18-jtnn) — Junction tree variational autoencoder for molecular graph generation that guarantees chemical validity via a hierarchical tree decomposition.
@@ -321,6 +324,7 @@ Browse and search the resources via the [GitHub Pages UI](https://inoue0426.gith
 - [BioMedLM](https://huggingface.co/stanford-crfm/BioMedLM) — 2.7B parameter GPT-2-style language model trained exclusively on biomedical literature from PubMed for biomedical question answering and text generation.
 - [MolT5](https://github.com/blender-nlp/MolT5) — Language model for molecular tasks bridging text and SMILES, enabling molecule captioning and text-driven molecule generation.
 - [ChatDrug](https://github.com/chao1224/ChatDrug) — LLM-based conversational pipeline for drug discovery, using natural language prompts for iterative drug editing and optimization.
+- [CASSIA](https://github.com/ElliotXie/CASSIA) — Multi-agent LLM for reference-free, interpretable cell-type annotation of single-cell RNA-seq data, with dedicated annotation, validation, scoring, and reporting agents.
 
 ### Foundation Models
 

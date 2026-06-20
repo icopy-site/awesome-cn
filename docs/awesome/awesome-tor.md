@@ -163,6 +163,7 @@ Before you read, if you want to host a Snowflake bridge in your browser to help 
 - [Understanding The Onion Router in 2024](https://www.privacyjournal.net/privacy/tor-network/) - Explains what Tor is; update for 2024.
 - [What is Tor?](https://www.amnesty.org/en/latest/campaigns/2024/02/what-is-tor-and-how-does-it-advance-human-rights/) - Gives a very good explanation for Tor, Onion Services, and how it promotes human rights.
 ## State of the Onion
+- [2025](https://blog.torproject.org/state-of-the-onion-2025/) - State of the Onion report for the year 2025.
 - [2024](https://blog.torproject.org/state-of-the-onion-2024/) - State of the Onion report for the year 2024.
 - [2023](https://blog.torproject.org/state-of-the-onion-2023/) - State of the Onion report for the year 2023.
 - [2022](https://blog.torproject.org/state-of-the-onion-2022/) - State of the Onion report for the year 2022.
@@ -171,5 +172,5 @@ Before you read, if you want to host a Snowflake bridge in your browser to help 
 - [2019](https://www.youtube.com/watch?v=W0NR6M_08oM) - State of the Onion report for the year 2019.
 ## Whistleblowing
 - [GlobaLeaks](https://www.globaleaks.org/) - GlobaLeaks is free, open-source software enabling anyone to easily set up and maintain a secure whistleblowing platform.
-- [SecureDrop](https://github.com/freedomofpress/securedrop) - SecureDrop is an open-source whistleblower submission system that media organizations and NGOs can install to securely accept documents from anonymous sources.
+- [SecureDrop](https://securedrop.org/) - SecureDrop is an open-source whistleblower submission system that media organizations and NGOs can install to securely accept documents from anonymous sources.
 - [WikiLeaks](https://wikileaks.org/) - WikiLeaks specializes in the analysis and publication of large datasets of censored or otherwise restricted official materials involving war, spying, and corruption.
