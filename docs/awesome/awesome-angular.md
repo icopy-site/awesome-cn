@@ -305,6 +305,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Marmicode Cookbook](https://cookbook.marmicode.io/) - Ingredients & Recipes for Cooking Delicious Apps.
 * [angular-interview-questions](https://github.com/Devinterview-io/angular-interview-questions) - Angular interview questions and answers to help you prepare for your next technical interview.
 * [dotnet_angular_cli_cheatsheet](https://github.com/shashinvision/dotnet_angular_cli_cheatsheet) - A comprehensive guide for full-stack developers working with .NET and Angular.
+* [Signals in Angular](https://slicker.me/angular/signals.html) - From basics to advanced patterns with Signals.
 
 ### Exercises
 
@@ -546,6 +547,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [swetrix](https://github.com/Swetrix/swetrix) - [Integrate Swetrix with your Angular application](https://swetrix.com/docs/angular-integration) to track page views, monitor errors, and capture custom events — all while staying privacy-friendly and GDPR-compliant.
 * [@grandgular/logrocket-angular](https://github.com/Grandgular/logrocket) - Wrapper for the LogRocket Web SDK with DI‑friendly init, lazy loading, typed options, privacy helpers, and DOM directives for data‑private/data‑public.
 * [ngx-umami](https://github.com/mitsuru17/ngx-umami) - Angular integration for [Umami Analytics](https://umami.is/) — a lightweight, privacy‑first tracking solution tailored for Angular applications.
+* [takt-angular](https://github.com/vskstudio/takt-angular) - Idiomatic Angular wrapper for [Takt](https://github.com/vskstudio/takt-core) privacy-friendly analytics.
 
 ### Code Analysis
 
@@ -904,7 +906,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [rs-x](https://github.com/robert-sanders-software-ontwikkeling/rs-x) - A reactive engine that unifies sync and async data into one transparent model, giving Angular fine‑grained automatic change detection without manual async handling.
 * [stateloom](https://github.com/sujeet-pro/stateloom) - A universal state‑management SDK featuring a signal‑driven reactive core, along with paradigm adapters (Store, Atom, Proxy) and framework adapters for React, Angular, and more.
 * [ngx-state-crafter](https://github.com/irvrodflo/ngx-state-crafter) - A lightweight, signal‑driven state library for Angular with a clean, boilerplate‑free API.
-* [coaction](https://github.com/unadlib/coaction) - An efficient and flexible state management library for building high-performance, multithreading web applications.
+* [coaction](https://github.com/coactionjs/coaction) - An efficient and flexible state management library for building high-performance, multithreading web applications.
 * [flurryx](https://github.com/fmflurry/flurryx) - A signal-first reactive state toolkit for Angular that bridges RxJS streams into structured, cache-aware stores.
 * [ngStato](https://github.com/becher/ngStato) - State management for Angular that uses async/await instead of RxJS.
 * [ng-eagleeye.js](https://github.com/webKrafters/ng-eagleeye.js) - A framework-agnostic, native JavaScript immutable state manager with change-streams, deployable anywhere.
@@ -1339,6 +1341,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-rwriter](https://github.com/ReiAg/ngx-rwriter) - A modern Rich Text Editor component for Angular 21+ with native support for images, alignment, lists, color pickers, and translations.
 * [ngx-pro-editor](https://github.com/ChauhanShubham8758/ngx-pro-editor) - A feature-rich WYSIWYG editor for Angular with auto-save, special characters, and advanced formatting.
 * [dragble-angular-editor](https://github.com/Dragble/dragble-angular-editor) - Dual‑mode Angular component blending a designer‑friendly visual editor with an AI‑driven conversational interface.
+* [ngx-email-studio](https://github.com/edward124689/ngx-email-studio) - An Angular 21 frontend email builder for composing, importing, editing, previewing, and exporting responsive email templates.
 
 ### File Upload
 
@@ -1391,6 +1394,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-signal-forms](https://github.com/lorenzomusche/ngx-signal-forms) - A signal‑driven, type‑safe Angular form library built on the experimental Signal Forms API with modern M3 styling.
 * [formsync](https://github.com/sudhucodes/formsync) - A developer‑friendly Angular‑ready form backend that lets you collect and manage submissions without server‑side code.
 * [@neutro-web/form](https://github.com/neutro-web/form) - High-performance, zero-dependency, framework-agnostic reactive form engine.
+* [forge-form](https://github.com/mspas/forge-form) - Generates reactive, signal-based forms, validation, and conditional fields from a single TypeScript object.
 
 ### Form Controls
 
@@ -1947,6 +1951,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [magary](https://github.com/JhoanGon/magary) - A modern, standalone-first Angular UI library monorepo.
 * [ngx-core-components](https://github.com/prajaktadube/ngx-core-components) - Angular 19+ component library — production-ready UI components built with signals, OnPush change detection, and zero runtime dependencies.
 * [ngx-cupertino](https://github.com/gacc94/ngx-cupertino) - Angular components implementing Apple's iOS 26 / macOS Tahoe 26 design system.
+* [kanso-protocol](https://github.com/GregNBlack/kanso-protocol) - Open‑source, cross‑framework design system with W3C DTCG tokens, Web Components, and an AI‑ready MCP server — built around kanso (簡素), the discipline of removing the unnecessary.
 
 ### UI Libraries built on Bootstrap
 
@@ -2214,7 +2219,7 @@ for the creation of web applications developed with Angular.
 * [angular-style-injector](https://github.com/emmat-york/angular-style-injector) - A lightweight dependency injection container inspired by Angular's Injector.
 * [di](https://github.com/kaokei/di) - This library is a lightweight dependency injection library, similar to [InversifyJS](https://github.com/inversify/InversifyJS) and [typedi](https://github.com/typestack/typedi).
 * [flexdi](https://github.com/AndreyShashlovDev/flexdi) - Flexible, lightweight DI library for React, React Native, and Vue3, inspired by NestJS and Angular.
-* [gapi](https://github.com/Stradivario/gapi) - Inspired by Angular and intended to provide complex Node.js GraphQL Backend applications with minimum effort.
+* [gapi](https://github.com/Stradivario/gapi) - Inspired by Angular and intended to provide complex Node.js GraphQL Backend applications with minimal effort.
 * [GTPL](https://github.com/garag-lib/GTPL) - TypeScript library for reactive templates using Direct DOM and Proxy, inspired by Vue, Angular AOT, and JSX, in a compact 9KB package.
 * [illuma](https://github.com/git-illuma/core) - Angular-style dependency injection for TypeScript.
 * [indulgent](https://github.com/frodi-karlsson/indulgent) - A lightweight set of TypeScript utilities designed for web development, free of external dependencies and optimized for solid runtime performance.

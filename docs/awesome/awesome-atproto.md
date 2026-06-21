@@ -49,6 +49,7 @@
 * [Skylights](https://skylights.my/) - Book reviews.
 * [Smoke Signal](https://smokesignal.events/) - Event creation and managing.
 * [Sparta Social](https://github.com/dblock/sparta-social) - Exercise activity tracker (wip).
+* [TouchGrass](https://touchgrass.network) - An opinionated social network, ATProto- and ActivityPub-compatible, with a focus on real life, real friends, portability & interoperability.
 * [Whitewind](https://whtwnd.com/) - Markdown blog service using ATProto with no registration required.
 
 ### Bluesky

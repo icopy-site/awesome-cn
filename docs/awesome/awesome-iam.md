@@ -137,6 +137,14 @@ Zero trust network security operates under the principle “never trust, always 
 
 - [heimdall](https://github.com/dadrus/heimdall) - 🆓 A cloud-native, identity-aware proxy and policy enforcement point that orchestrates authentication and authorization systems via versatile rules, supporting protocol-agnostic identity propagation.
 
+## Machine Identity
+
+Workloads, services and devices are principals too. They need identities to authenticate to one another and be granted access: the non-human counterpart to human user accounts.
+
+- [SPIFFE/SPIRE](https://github.com/spiffe/spire) - 🆓 A CNCF framework issuing short-lived, cryptographically-verifiable identities (SVIDs) to workloads across heterogeneous environments.
+
+- [NanoMDM](https://github.com/micromdm/nanomdm) - 🆓 Minimalist Apple MDM server and library to enroll and manage the identity of Apple devices, inspired by MicroMDM.
+
 ## Authentication
 
 Protocols and technologies to verify that you are who you pretend to be.
@@ -405,6 +413,8 @@ The old *OpenID* is dead; the new *OpenID Connect* is very much not-dead.
 
 - [ZITADEL](https://github.com/zitadel/zitadel) - 💸 An Open-Source solution built with Go and Angular to manage all your systems, users and service accounts together with their roles and external identities. ZITADEL provides you with OIDC, OAuth 2.0, login & register flows, passwordless and MFA authentication. All this is built on top of eventsourcing in combination with CQRS to provide a great audit trail.
 
+- [obligator](https://github.com/lastlogin-net/obligator) - 🆓 Simple and opinionated OpenID Connect server designed for self-hosters. Single static binary with flat-file or SQLite storage.
+
 ## SAML
 
 Security Assertion Markup Language (SAML) 2.0 is a means to exchange authorization and authentication between services, like OAuth/OpenID protocols above.
@@ -523,6 +533,10 @@ How to detect, unmask and classify offensive online activities. Most of the time
 
 - [SpiderFoot](https://github.com/poppopjmp/spiderfoot) - 🆓 An open source intelligence (OSINT) automation tool. It integrates with just about every data source available and uses a range of methods for data analysis, making that data easy to navigate.
 
+- [OSINT Stuff Tool Collection](https://github.com/cipher387/osint_stuff_tool_collection) - “A collection of several hundred online tools for OSINT”: domain, IP, email, username and social-network lookups useful for unmasking fraud and abuse.
+
+- [Maigret](https://github.com/soxoj/maigret) - 🆓 “Collect a dossier on a person by username from 3000+ sites”, useful for account enumeration and unmasking fraud or abuse.
+
 - [Standards related to Threat Intelligence](https://www.threat-intelligence.eu/standards/) - Open standards, tools and methodologies to support threat intelligence analysis.
 
 - [MISP taxonomies and classification](https://www.misp-project.org/taxonomies.html) - Tags to organize information on “threat intelligence including cyber security indicators, financial fraud or counter-terrorism information.”
@@ -586,6 +600,8 @@ Useful to identified clients, catch and block swarms of bots, and limit effects 
 - [Burner email providers](https://github.com/wesbos/burner-email-providers) - 🆓 A list of temporary email providers. And its [derivative Python module](https://github.com/martenson/disposable-email-domains).
 
 - [MailChecker](https://github.com/FGRibreau/mailchecker) - 💸 Cross-language temporary (disposable/throwaway) email detection library.
+
+- [`check-if-email-exists`](https://github.com/reacherhq/check-if-email-exists) - 💸 Verify an email address's reachability over SMTP without sending anything, catching typos, disposable domains and role accounts at signup.
 
 - [Temporary Email Address Domains](https://gist.github.com/adamloving/4401361) - A list of domains for disposable and temporary email addresses. Useful for filtering your email list to increase open rates (sending email to these domains likely will not be opened).
 
