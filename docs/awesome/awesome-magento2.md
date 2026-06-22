@@ -23,7 +23,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **225** projects · **53** actively maintained · **9** 🔥 hot · **46** 🪦 on the graveyard shelf.
+> Tracking **225** projects · **54** actively maintained · **9** 🔥 hot · **46** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](https://github.com/DavidLambauer/awesome-magento2/blob/master/contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -68,14 +68,8 @@ Also see:
 ## Events: Meet the community
 
 - [MageUnconference Netherlands](https://mageunconference.nl/) 🫡 - Magento unconference held in the Netherlands.
+- [Meet Commerce](https://www.meetcommerce.com/) 🫡 - Global series of conferences focused on commerce and innovation.
 - [MageUnconference Germany](https://www.mageunconference.org/) - Magento unconference held in Germany.
-
-<details>
-<summary>🪦 Graveyard — projects no longer recommended</summary>
-
-- [Meet Commerce](https://www.meetcommerce.com/) - Global series of conferences focused on commerce and innovation.
-
-</details>
 
 ### Meet Magento
 
@@ -192,7 +186,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Localization
 
-- [de_DE](https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE) 🔥 🫡 - German Language Package.
+- [de_DE](https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE) 🔥 - German Language Package.
 - [pl_PL](https://github.com/SnowdogApps/magento2-pl_pl) - Polish Language Package.
 - [it_IT](https://github.com/mageplaza/magento-2-italian-language-pack) - Italian Language Package.
 - [nl_NL](https://github.com/magento-l10n/language-nl_NL) - Dutch Language Package.
@@ -221,7 +215,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 - [Elastic Suite Integration](https://github.com/Smile-SA/elasticsuite/) 🫡 - Elastic Suite Integration.
 - [Algolia Search Integration](https://github.com/algolia/algoliasearch-magento-2) 🫡 - Algolia Search (SaaS) Integration.
-- [FastSimpleImport2](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
+- [FastSimpleImport2](https://github.com/firegento/FireGento_FastSimpleImport2) 🫡 - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
 - [Disable Search Engine](https://github.com/zepgram/module-disable-search-engine) - Disable Elasticsearch and fulltext indexing for category search.
 
 ### CMS
@@ -250,14 +244,14 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Menu Editor](https://github.com/SnowdogApps/magento2-menu) 🔥 🫡 - Provides a powerful menu editor to replace category-based menus in Magento 2.
 - [Custom SMTP](https://github.com/magepal/magento2-gmail-smtp-app) 🫡 - Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon SES, Microsoft Office 365 and other SMTP servers.
 - [Sentry.io](https://github.com/justbetter/magento2-sentry) 🫡 - Application monitoring and error tracking software for Magento 2.
-- [magento2-hyva-admin](https://github.com/hyva-themes/magento2-hyva-admin) 🫡 - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.
+- [FireGento Fast Simple Import](https://github.com/firegento/FireGento_FastSimpleImport2) 🫡 - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
 - [Preview Checkout Success Page](https://github.com/magepal/magento2-preview-checkout-success-page) 🫡 - Quickly and easily preview and test your order confirmation page, without the need to place a new order each time.
 - [Guest to Customer](https://github.com/magepal/magento2-guest-to-customer) 🫡 - Quickly and easily convert existing guest checkout customers to registered customers.
 - [theme-adminhtml-m137](https://github.com/mage-os/theme-adminhtml-m137) 🫡 - M137 Admin Theme for Magento/Mage-OS
 - [Disable Stock Reservation](https://github.com/AmpersandHQ/magento2-disable-stock-reservation) - Disables the inventory reservation logic introduced as part of MSI in Magento 2.3.3.
+- [magento2-hyva-admin](https://github.com/hyva-themes/magento2-hyva-admin) - This module aims to make creating grids and forms in the Magento 2 adminhtml area joyful and fast.
 - [Customer Force Login](https://github.com/bitExpert/magento2-force-login) - Forces customers to log in before accessing certain pages.
 - [Clean Admin Menu](https://github.com/redchamps/clean-admin-menu) - Merges 3rd-party extensions into a single menu.
-- [FireGento Fast Simple Import](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
 - [Magento 2 Import Framework](https://github.com/techdivision/import) - A library supporting generic Magento 2 import functionality.
 - [Checkout Tester](https://github.com/yireo/Yireo_CheckoutTester2) - Extension to quickly test Checkout changes.
 - [PageNotFound](https://github.com/experius/Magento-2-Module-PageNotFound) - Saves upcoming 404s in your database with the possibility to create a redirect.
@@ -343,7 +337,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [FireBear Studio](https://firebearstudio.com/blog) 🫡 - FireBear Studio's Magento development blog.
 - [inchoo](http://inchoo.net/category/magento-2/) 🫡 - Inchoo's Magento development blog.
 - [dev98](https://dev98.de/) - German Magento agency blog.
-- [M.academy](https://m.academy/blog/) - Blog from the M.academy team.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
@@ -351,6 +344,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [bitExpert AG](https://blog.bitexpert.de/blog/tags/magento) - bitExpert's Magento-tagged blog posts.
 - [Fooman](http://store.fooman.co.nz/blog) - Fooman's Magento extension and development blog.
 - [integer_net blog](https://www.integer-net.com/blog/) - integer_net's technical Magento blog.
+- [M.academy](https://m.academy/blog/) - Blog from the M.academy team.
 - [MageComp](https://magecomp.com/blog/category/magento-2/) - MageComp's Magento 2 tutorials and tips.
 - [OneStepCheckout](https://blog.onestepcheckout.com/) - OneStepCheckout's Magento blog.
 

@@ -44,8 +44,8 @@
 ### Backpack
 
 - [Neobar](https://github.com/ImAvafe/NeoHotbar) - A modern, customizable hotbar for Roblox.
-- [Purse](https://github.com/RyanLua/Purse) - CoreGui decoupled version of the Roblox default backpack.
-- [Satchel](https://github.com/RyanLua/Satchel) - Modern alternative to Roblox's default backpack.
+- [Purse](https://github.com/ryanlua/purse) - CoreGui decoupled version of the Roblox default backpack.
+- [Satchel](https://github.com/ryanlua/satchel) - Modern alternative to Roblox's default backpack.
 
 ### Topbar
 

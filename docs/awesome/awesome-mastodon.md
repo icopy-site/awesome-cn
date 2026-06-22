@@ -41,6 +41,7 @@ This list is a collection of the best Mastodon resources.
 - [Academics On Mastodon](https://github.com/nathanlesage/academics-on-mastodon/) - Markdown list of academics on Mastodon, by discipline/group/area.
 - [Spreadsheet of Popular accounts](https://docs.google.com/spreadsheets/d/1cpUKkoT1MUn8_xM4usiERn-IdEuh0hXfBrwbbThwGiI/edit#gid=1111869705/) - Google spreadsheet of the most popular Mastodon accounts of the Fediverse.
 - [Spreadsheet of Journalist accounts](https://docs.google.com/spreadsheets/d/13No4yxY-oFrN8PigC2jBWXreFCHWwVRTftwP6HcREtA/edit#gid=1320898902/) - Google spreadsheet of various journalists of the Fediverse.
+- [Politici op Mastodon](https://www.politici-op-mastodon.nl) - Website with all dutch politicians and political parties on Mastodon.
 
 ## Tools
 
