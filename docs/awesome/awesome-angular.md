@@ -71,6 +71,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [mcp-angular-cli](https://github.com/talzach/mcp-angular-cli) - A server offering Angular CLI and workspace automation, enabling LLMs and agents to generate components, add packages, create workspaces, and run custom architect targets.
 * [nest-schematics](https://github.com/lcasass3/nest-schematics) - An Angular CLI schematic for generating CQRS (Command Query Responsibility Segregation) modules with hexagonal architecture in NestJS.
 * [ng-chrome-extension](https://github.com/larscom/ng-chrome-extension) - Easily create Angular Chrome Extensions (manifest v3).
+* [ng-create-with-config](https://github.com/tranvo-dev/ng-create-with-config) - A minimal tool to initialize a new Angular project with pre-configured Prettier, ESLint, Husky and Lint-staged.
 * [ns-gc](https://github.com/th3n00bc0d3r/ns-gc) - A lightweight command-line tool to generate standalone NativeScript Angular components and Angular services with clean structure and zero config.
 * [ngx-i18n-scan](https://github.com/pratiksonone/ngx-i18n-scan) - A CLI tool that scans Angular code to extract and update i18n translation keys, keeping your translation files clean.
 * [ngx-stats](https://github.com/tomer953/ngx-stats) - CLI tool that analyzes Angular projects, quantifying modules, components, directives, pipes, and services to give a clear structural overview for better architectural insight.
@@ -1852,11 +1853,11 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [usal](https://github.com/italoalmeida0/usal) - Framework agnostic ultimate scroll animation library.
 * [ar-virtual-scroll](https://github.com/artomenwork/ar-virtual-scroll) - Lightweight Angular virtual scroll with automatic dynamic height, ideal for chats, feeds, and variable lists.
 * [angular-infinity-scroller](https://github.com/Jayant061/angular-infinity-scroller) - A lightweight, high‑performance infinite‑scrolling directive built to work seamlessly with modern Angular and SSR setups.
-* [cerious-scroll](https://github.com/ceriousdevtech/cerious-scroll) - High-performance virtual scrolling for web applications.
 * [ngx-zoneless-scrollbar](https://github.com/Legalfina/ngx-zoneless-scrollbar) - A lightweight Angular scrollbar built for zoneless mode, using native scrolling with CSS styling.
 * [ngx-scrollbar-ultimate](https://github.com/andrew-dev283/ngx-scrollbar-ultimate) - A lightweight library for vertical scrolling.
 * [ngx-scrollspy](https://github.com/uniprank/ngx-scrollspy) - Angular Scroll Spy Service with events.
 * [ngx-virtual-grid](https://github.com/theryansmee/ngx-virtual-grid) - A responsive, virtual‑scrolling Angular grid that supports infinite loading, uses CSS Grid, automatically measures item sizes, and renders only the visible elements.
+* [ngx-cerious-scroll](https://github.com/ceriousdevtech/ngx-cerious-scroll) - Angular bindings for [Cerious Scroll](https://github.com/ceriousdevtech/cerious-scroll), a high-performance virtual scrolling implementation.
 
 ### Storage
 
