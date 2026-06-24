@@ -39,6 +39,8 @@ Software, libraries and frameworks for development purposes.
 - [AllenSDK](https://github.com/AllenInstitute/AllenSDK) - Toolkit for accessing and processing data from the Allen Institute for Brain Science, including the Allen Brain Atlas and Allen Brain Observatory.
 - [Suite2p](https://github.com/MouseLand/suite2p) - Pipeline for cell detection and signal extraction from large-scale two-photon calcium imaging recordings.
 - [Neo](https://github.com/NeuralEnsemble/python-neo) - Package for representing electrophysiology data in Python, with readers for a wide range of neurophysiology file formats.
+- [Monty](https://github.com/thousandbrainsproject/tbp.monty) - Sensorimotor learning framework based on the thousand brains theory of the neocortex.
+- [PyNoetic](https://github.com/NeuroDiag/PyNoetic-official) - A Modular Python Framework for No-Code Development of EEG Brain-Computer Interfaces supporting end-to-end BCI design. 
  
 ### Matlab
 

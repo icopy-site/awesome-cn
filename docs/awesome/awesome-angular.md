@@ -253,7 +253,6 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [halodoc](https://blogs.halodoc.io/tag/angular-2-2/)
 * [ninja-squad](https://blog.ninja-squad.com/)
 * [marmicode](https://marmicode.io/learn/everything)
-* [Netanel Basal](https://medium.com/@netbasal)
 * [Tim Deschryver](https://timdeschryver.dev/)
 * [Chau Tran](https://nartc.me/)
 * [Minko Gechev](https://blog.mgechev.com/)
@@ -651,6 +650,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [i18n-keygen](https://github.com/gagle/i18n-keygen) - Type-safe i18n keys for every build tool. One package, zero lock-in.
 * [intl-tel-input-ng](https://github.com/mpalourdio/intl-tel-input-ng) - An Angular component to easily integrate [intl-tel-input](https://github.com/jackocnr/intl-tel-input).
 * [langsync](https://github.com/mariokreitz/langsync) - CLI tooling for localization workflows in TypeScript projects.
+* [localive](https://github.com/Arigatouz/localive) - Update text directly inside running React, Vue, Angular, or Svelte apps, saving changes instantly to your locale files without searching JSON keys.
 * [ng-extract-i18n-merge](https://github.com/daniel-sc/ng-extract-i18n-merge) - Extract and merge i18n xliff translation files for Angular projects.
 * [ng-linguo](https://github.com/jmwierzbicki/linguo) - Modern Angular 18+ i18n toolkit built on SignalStore — a reactive, from‑scratch alternative to `@ngx‑translate/core` and Transloco with zero RxJS in components.
 * [ngx-atomic-i18n](https://github.com/viacharles/ngx-atomic-i18n) - Angular translation library with lazy loading.
@@ -1100,6 +1100,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [timegrid-angular](https://www.npmjs.com/package/@hexaflexa/timegrid-angular) - Angular wrapper for the [HexaFlexa](https://hexaflexa.com/) Timegrid web component.
 * [CalendarJS](https://github.com/componade/calendarjs) - Open source JavaScript calendar and scheduling component that can be integrated into Angular projects.
 * [hss-calendar](https://github.com/HawkerSoftwares/hss-calendar) - A premium, lightweight, and fully customizable calendar library for Angular 19+.
+* [datelane](https://github.com/devendramilmile121/datelane) - A customizable, zero-dependency Angular calendar featuring 12 views and multiple date layers.
 
 ### Captcha
 
@@ -1344,6 +1345,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-pro-editor](https://github.com/ChauhanShubham8758/ngx-pro-editor) - A feature-rich WYSIWYG editor for Angular with auto-save, special characters, and advanced formatting.
 * [dragble-angular-editor](https://github.com/Dragble/dragble-angular-editor) - Dual‑mode Angular component blending a designer‑friendly visual editor with an AI‑driven conversational interface.
 * [ngx-email-studio](https://github.com/edward124689/ngx-email-studio) - An Angular 21 frontend email builder for composing, importing, editing, previewing, and exporting responsive email templates.
+* [qalma](https://github.com/cdskill/qalma) - Angular-first, headless rich text editor toolkit built on ProseMirror.
 
 ### File Upload
 
@@ -1397,6 +1399,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [formsync](https://github.com/sudhucodes/formsync) - A developer‑friendly Angular‑ready form backend that lets you collect and manage submissions without server‑side code.
 * [@neutro-web/form](https://github.com/neutro-web/form) - High-performance, zero-dependency, framework-agnostic reactive form engine.
 * [forge-form](https://github.com/mspas/forge-form) - Generates reactive, signal-based forms, validation, and conditional fields from a single TypeScript object.
+* [NgSimplicityForms](https://github.com/BryanGWalsh/NgSimplicityForms) - Composable Angular dynamic forms framework with shared core APIs and renderer packages for Bootstrap and Angular Material.
 
 ### Form Controls
 
