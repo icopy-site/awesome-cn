@@ -81,7 +81,7 @@
 - [Evebox](https://github.com/jasonish/evebox) - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search.
 
 
-## Rule Sets
+## Rule Sets and Lists
 
 - [nids-rule-library](https://github.com/klingerko/nids-rule-library#readme) - Collection of various open-source and commercial rulesets.
 - [Stamus Lateral Movement Detection Rules](https://www.stamus-networks.com/blog/new-open-ruleset-for-detecting-lateral-movement-with-suricata) - Suricata ruleset to detect lateral movement.
@@ -98,6 +98,8 @@
 - [PAW Patrules](https://pawpatrules.fr) - Another free (CC BY-NC-SA) collection of rules for the Suricata engine.
 - [opnsense-suricata-nmaps](https://github.com/aleksibovellan/opnsense-suricata-nmaps) - OPNSense's Suricata IDS/IPS Detection Rules Against NMAP Scans.
 - [Antiphishing](https://github.com/julioliraup/Antiphishing) - Suricata rules and datasets to detect phishing attacks.
+- [Suricata Ruleset Index](https://github.com/OISF/suricata-intel-index) - OISF's curated, machine-readable list of sources used by Suricata-Update.
+- [EveBox Rules](https://rules.evebox.org) - Suricata Rule Browser, indexes many free rulesets, including rules from the Suricata Ruleset Index.
 
 
 

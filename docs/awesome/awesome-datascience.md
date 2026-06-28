@@ -624,6 +624,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 | [Disco](https://github.com/leap-laboratories/discovery-engine) | Superhuman exploratory data analysis. Finds the feature interactions and subgroup effects in tabular data that LLMs and manual exploration miss — with p-values, effect sizes, and literature citations. Free for public data. |
 | [AI for Database](https://aifordatabase.com) | Chat with your database in natural language — no SQL needed. Get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes. |
 | [Crypto Pump Scanner](https://github.com/stefanoviana/deepalpha) | AI-powered cryptocurrency trading bot with LSTM neural network (84.6% accuracy). Real-time pump detection, walk-forward validated models, multi-exchange support (Bybit, Binance, OKX, Gate.io). Open source. |
+| [Future AGI](https://github.com/future-agi/future-agi) | Open-source platform to simulate, evaluate, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0. |
 
 
 
@@ -1147,6 +1148,8 @@ Some data mining competition platforms
 - [CLARIN-Repository](https://lindat.mff.cuni.cz/repository/home) - CLARIN is a European repository for scientific datasets.
 - [GBIF](https://www.gbif.org/) - Global Biodiversity Information Facility: 2.4B+ species occurrence records. Free, open API for ecological modeling and ML research.
 - [FAOSTAT](https://www.fao.org/faostat/en/) - UN FAO statistics on food production, trade, land use, and emissions for 245+ countries. Free API and bulk download.
+- [Movebank](https://www.movebank.org/) - Free platform archiving 6B+ animal movement records from GPS and satellite telemetry. Open REST API, useful for spatiotemporal modeling and trajectory ML.
+- [Encyclopedia of Life](https://eol.org/) - Open structured data on 1.9M+ species, including traits, classification, and media. Free API and bulk downloads for biodiversity and species-classification tasks.
 - [FirstData](https://github.com/MLT-OSS/FirstData) - The world's most comprehensive authoritative data source knowledge base. 210+ curated sources from governments, international organizations, and research institutions. MCP integration for AI agents. MIT licensed.
 - [latamdata-py](https://github.com/juanmoisesd/latamdata-py) - Python package for one-line access to 38 open research datasets from Latin America (health, neuroscience, mental health, economics). pip install latamdata-py.
 - [ZipCheckup](https://github.com/artakulov/us-water-quality-data) - Free ZIP-level environmental safety data for 42,000+ US ZIP codes: water quality, air quality, PFAS contamination, radon, lead, flood risk, and 11 more verticals. Public REST API, npm/PyPI packages, CC BY 4.0.
