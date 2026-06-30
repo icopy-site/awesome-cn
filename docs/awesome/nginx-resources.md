@@ -7,7 +7,6 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 
 ## Understanding Nginx
 
-- [History of Nginx](https://www.nginx.com/wp-content/uploads/2014/11/Infographic_History-of-Nginx_FulI_20141101.png)
 - [Understanding Nginx versioning](https://www.f5.com/company/blog/nginx/nginx-1-18-1-19-released)
 - [Interview with the creator of Nginx](https://web.archive.org/web/20180614224054/http://mindend.com/interview-with-the-creator-of-nginx/)
 - [Interview with Igor Sysoev, author of Apache's competitor NGINX](https://freesoftwaremagazine.com/articles/interview_igor_sysoev_author_apaches_competitor_nginx/)
@@ -58,7 +57,6 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [CORS on Nginx](https://enable-cors.org/server_nginx.html)
 - [Serving precompressed content with Nginx and Zopfli](https://www.cambus.net/serving-precompressed-content-with-nginx-and-zopfli/)
 - [Nginx on FreeBSD](https://www.cambus.net/nginx-on-freebsd/)
-- [Using New Debugging Features to Probe NGINX Internals](https://www.nginx.com/blog/new-debugging-features-probe-nginx-internals/)
 - [Performing A/B Testing with NGINX and NGINX Plus](https://www.f5.com/company/blog/nginx/performing-a-b-testing-nginx-plus)
 - [Improving NGINX Performance with Kernel TLS and SSL_sendfile()](https://www.f5.com/company/blog/nginx/improving-nginx-performance-with-kernel-tls)
 

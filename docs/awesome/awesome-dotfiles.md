@@ -197,7 +197,7 @@ work.
 [14]: https://jogendra.dev
 [15]: https://mattstauffer.com/blog/setting-up-a-new-os-x-development-machine-part-3-dotfiles-rc-files-and-ssh-config/
 [16]: https://code.tutsplus.com/setting-up-a-mac-dev-machine-from-zero-to-hero-with-dotfiles--net-35449t
-[17]: http://blog.smalleycreative.com/tutorials/using-git-and-github-to-manage-your-dotfiles/
+[17]: https://blog.smalleycreative.com/using-git-and-github-to-manage-your-dotfiles/
 [18]: https://chr4.org/blog/2014/09/10/conf-dot-d-like-directories-for-zsh-slash-bash-dotfiles/
 [19]: https://www.anishathalye.com/2014/08/03/managing-your-dotfiles/
 [20]: https://www.atlassian.com/git/tutorials/dotfiles
@@ -277,7 +277,7 @@ work.
 [94]: https://github.com/clayrisser/dotstow
 [95]: https://github.com/eduardolundgren/dotfiles
 [96]: https://github.com/ellipsis/ellipsis
-[97]: https://github.com/tversteeg/emplace
+[97]: https://web.archive.org/web/20260430004416/https://github.com/tversteeg/emplace
 [98]: https://github.com/holman/dotfiles
 [99]: https://github.com/technicalpickles/homesick
 [100]: https://github.com/kdeldycke/dotfiles
