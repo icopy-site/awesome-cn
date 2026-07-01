@@ -436,6 +436,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-qubee](https://github.com/AndreaAlhena/ng-qubee) - Angular query builder with reactive URIs (RxJS + Signals), typed pagination, 495+ tests, and multi‑driver support.
 * [ngx-trpc-client](https://github.com/BeGj/ngx-trpc-client) - Reworked fork of Analog's [TRPC package](https://github.com/analogjs/analog/tree/beta/packages/trpc).
 * [zx-angular-lazy-resource](https://github.com/zxnc/zx-angular-lazy-resource) - Lazy helpers for Angular's signal-based `resource()` — defer loading until first access, and await the first settled value as a promise.
+* [@stitchapi/angular](https://github.com/rejifald/StitchAPI/tree/main/packages/angular) - Streaming-first StitchAPI bindings: `injectStitch` / `injectStitchStream` expose a typed, validated call as both Angular signals and an RxJS observable, re-rendering as response deltas arrive.
 
 ### Micro-Frontends
 
@@ -502,6 +503,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [agentskit](https://github.com/AgentsKit-io/agentskit) - Composable toolkit and headless chat components for building AI agents in Angular, with streaming, tools, memory and RAG.
 * [aitools.fyi](https://aitools.fyi/technology/angular) - AI Tools Built With Angular.
 * [Angular code editor rules](https://promptgenius.net/cursorrules/frameworks/frontend/angular) - Guide for effective AI interaction patterns when working with Angular code.
+* [Angularize](https://beta.angularize.dev/) - Vibe code your Angular app with a human coder in your corner.
 * [@Kobolden/angular-skills](https://github.com/Kobolden/angular-skills) - Enhance your Angular development with skills for AI-assisted coding, featuring up-to-date patterns, best practices, and examples for version 20+.
 * [augment code](https://www.augmentcode.com/) - The first AI coding assistant built for professional software engineers and large codebases.
 * [CodingFleet](https://codingfleet.com/code-generator/angular/) - An innovative AI-powered tool that transforms your instructions into efficient Angular code.
@@ -1651,6 +1653,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [mark-down](https://github.com/mzebley/mark-down) - A framework‑agnostic snippet engine with an Angular adapter that indexes Markdown at build time and renders HTML at runtime with optional sanitization.
 * [m-render](https://github.com/Foblex/m-render) - A library for rendering Markdown with extended support for Angular components and code snippets.
 * [markstream](https://github.com/Simon-He95/markstream-vue) - Render Markdown while it is still streaming.
+* [streamdown-angular](https://github.com/XurshidJurayev1/streamdown-angular) - Stream‑safe Markdown rendering for Angular, built for AI chat UIs. Angular port of [Vercel Streamdown](https://github.com/vercel/streamdown).
 
 ### Media
 
@@ -1744,6 +1747,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [rnd-dialog](https://github.com/acrodata/rnd-dialog) - Resizable and draggable dialog based on CDK dialog.
 * [prettier-modals](https://github.com/antuuanyf/prettier-modals) - Angular directives and an injectable service for Prettier Modals — beautiful open/close animations for native `<dialog>` elements, powered by GSAP Flip.
 * [ngx-call](https://github.com/hebus/ngx-call) - Imperative, type-safe, and promise-based dialogs for Angular, inspired by [React Call](https://github.com/desko27/react-call)'s `createCallable`.
+* [ngx-dialog-forge](https://github.com/HoplaGeiss/ngx-dialog-forge) - Declarative, signals-native Angular dialog library built on the native dialog element.
 
 ### Notifications
 

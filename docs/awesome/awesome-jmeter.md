@@ -229,6 +229,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
   - [jmeter-datadog-backend-listener](https://github.com/DataDog/jmeter-datadog-backend-listener) - Send JMeter test results to Datadog.
   - [jmeter-dynatrace-plugin](https://github.com/dynatrace-oss/jmeter-dynatrace-plugin) - A JMeter Backend listener implementation to send the recorded load test metrics via the Dynatrace MINT metric ingest to the configured Dynatrace monitoring environment.
   - [jmeter-backend-newrelic](https://github.com/darrensmithwtc/jmeter-backend-newrelic) - A JMeter plugin to send test results to New Relic Metrics API.
+  - [perfana-jmeter-timescaledb](https://github.com/perfana/perfana-jmeter-timescaledb) - JMeter backend listener plugin that writes test results directly to TimescaleDB for real-time performance analysis.
 - AWS CloudWatch
   - [jmeter-cw-logs](https://github.com/concurrencylabs/jmeter-cw-logs) - CloudFormation template for publishing JMeter test results to AWS CloudWatch Logs.
 - Custom & Deprecated
@@ -378,7 +379,7 @@ This list grew up from [an occasional answer](https://sqa.stackexchange.com/a/25
 - [JMeter Blog](https://shantonusarker.blogspot.com/p/jmeter.html) - Another blog for performance & automation testing using JMeter.
 - [OctoPerf Blog](https://blog.octoperf.com/categories/jmeter/) - OctoPerf's blog about JMeter and load testing.
 - [Abstracta JMeter Archives](https://abstracta.us/blog/tag/jmeter/) - Abstracta blog about JMeter.
-- [JMeter Basics](https://thatsabug.com/tags/#jmeter-series) - By João Farias.
+- [JMeter Basics](https://thatsabug.com/tags/jmeter-series/) - By João Farias.
 
 ### Forums
 

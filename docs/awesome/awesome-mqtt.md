@@ -225,6 +225,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/hob
 ### Rust
 
 - [mqtt-rs](https://github.com/zonyitoo/mqtt-rs) - MQTT protocol library for Rust.
+- [mqtt-typed-client](https://github.com/holovskyi/mqtt-typed-client) - Type-safe async MQTT client built on rumqttc, with derive macros for typed topics, automatic (de)serialization, and tree-based message routing.
 - [rumqtt](https://github.com/AtherEnergy/rumqtt) - A fast, lock free pure Rust MQTT client.
 - [mqtt5](https://github.com/LabOverWire/mqtt-lib) - Complete async MQTT v5.0 client and broker library for Rust with TCP, TLS, WebSocket, and QUIC support.
 

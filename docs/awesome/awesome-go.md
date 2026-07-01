@@ -2423,6 +2423,7 @@ _Libraries for testing codebases and generating test data._
 ### Mock
 
 - [counterfeiter](https://github.com/maxbrunsfeld/counterfeiter) - Tool for generating self-contained mock objects.
+- [fabricator](https://github.com/Goldziher/fabricator) - Type-safe factories for generating mock and fake data in Go, inspired by factory_boy and interface-forge.
 - [genmock](https://gitlab.com/so_literate/genmock) - Go mocking system with code generator for building calls of the interface methods.
 - [go-localstack](https://github.com/elgohr/go-localstack) - Tool for using localstack in AWS testing.
 - [go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Mock SQL driver for testing database interactions.
@@ -2756,6 +2757,7 @@ _General utilities and tools to make your life easier._
 - [go-trigger](https://github.com/sadlil/go-trigger) - Go-lang global event triggerer, Register Events with an id and trigger the event from anywhere from your project.
 - [go-tripper](https://github.com/rajnandan1/go-tripper) - Tripper is a circuit breaker package for Go that allows you to circuit and control the status of circuits.
 - [go-type](https://github.com/mikekonan/go-types) - Library providing Go types for store/validation and transfer of ISO-4217, ISO-3166, and other types.
+- [go-utils](https://github.com/Goldziher/go-utils) - Simple, performant generic utilities for Go inspired by JavaScript and Python (map, filter, reduce, and more).
 - [goback](https://github.com/carlescere/goback) - Go simple exponential backoff package.
 - [goctx](https://github.com/zerosnake0/goctx) - Get your context value with high performance.
 - [godaemon](https://github.com/VividCortex/godaemon) - Utility to write daemons.
