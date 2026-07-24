@@ -52,6 +52,7 @@ Here are some example projects using pest:
 - [Liquid Grammar](https://github.com/rust-utilities/liquid-grammar-pest/) - Generate `Pairs` and/or `Rules` for [Shopify](https://shopify.github.io/liquid/) Liquid (hash-tags _not-sponsored_ or _affiliated_) for use in consuming crates
 - [ws2markdown](https://code.rosaelefanten.org/ws2markdown) - Converts WordStar documents into Markdown files.
 - [TypeQL Rust](https://github.com/typedb/typeql/tree/master/rust) - TypeDB's query language, written in Pest
+- [Woxi](https://github.com/ad-si/Woxi) - Interpreter and computer algebra system for a subset of the Wolfram Language.
 
 ## Tooling
 
