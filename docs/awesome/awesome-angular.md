@@ -508,6 +508,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [aitools.fyi](https://aitools.fyi/technology/angular) - AI Tools Built With Angular.
 * [Angular code editor rules](https://promptgenius.net/cursorrules/frameworks/frontend/angular) - Guide for effective AI interaction patterns when working with Angular code.
 * [Angularize](https://beta.angularize.dev/) - Vibe code your Angular app with a human coder in your corner.
+* [@full-stack-skills/angular-skills](https://github.com/full-stack-skills/angular-skills) - Angular framework development skills for AI coding agents.
 * [@Kobolden/angular-skills](https://github.com/Kobolden/angular-skills) - Enhance your Angular development with skills for AI-assisted coding, featuring up-to-date patterns, best practices, and examples for version 20+.
 * [angular-vibe-kit](https://github.com/vuanhtung10/angular-vibe-kit) - Bootstrap a vibe coding workflow into any Angular project—complete with a `CLAUDE.md`, project docs, and Claude Code slash-commands tailored to your Angular version.
 * [augment code](https://www.augmentcode.com/) - The first AI coding assistant built for professional software engineers and large codebases.
@@ -660,6 +661,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [prism](https://github.com/arclight-digital/prism) - Auto-generate framework wrappers (React, Vue, Svelte, Angular, Solid, Preact) and HTML/CSS examples from Lit web components.
 * [momentum-cms](https://github.com/DonaldMurillo/momentum-cms) - An Angular-based headless CMS. Define collections in TypeScript, auto-generate an Admin UI, REST API, and database schema.
 * [ng-openapi-signals](https://github.com/ynnckrkn/ng-openapi-signals) - Signal-first OpenAPI client generator for Angular using `resource()` and `fetch()`.
+* [NGX View Builder](https://ngxviewbuilder.io/) - Drag-and-drop low-code builder to visually design entire pages, dashboards, and forms rendered natively via JSON.
 
 ### Internationalization
 
@@ -938,6 +940,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ng-eagleeye.js](https://github.com/webKrafters/ng-eagleeye.js) - A framework-agnostic, native JavaScript immutable state manager with change-streams, deployable anywhere.
 * [ngx-deep-signals](https://github.com/simplesoftsoul/ngx-deep-signals) - Deeply reactive, zero‑ceremony nested state for Angular—turn any object into a signal graph without calls, setters, or boilerplate.
 * [sdux-vault](https://github.com/sdux-vault/vault) - A framework-agnostic, deterministic state management system.
+* [ngx-tosijs](https://github.com/tonioloewald/ngx-tosijs) - Insanely simple state management for Angular — and an off-ramp from Angular. Take your pick.
 
 ## Testing
 
@@ -1144,6 +1147,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-easy-captcha](https://github.com/angx-libs/ngx-easy-captcha) - Easy captcha implementation for both Google Recaptcha and Cloudflare Turnstile.
 * [ngx-numeric-captcha](https://github.com/ShreyashThorat-17/ngx-numeric-captcha) - A modern, lightweight Angular CAPTCHA library featuring multiple verification challenges.
 * [ngx-turnstile](https://github.com/verto-health/ngx-turnstile) - Cloudflare Turnstile for Angular.
+* [recaptcha-angular](https://github.com/Souhailmakni/recaptcha-angular) - Angular component for Google reCAPTCHA v2 (checkbox) and v3 (score-based) with full TypeScript support, standalone APIs, and `ControlValueAccessor` integration.
 * [trustcaptcha-angular](https://www.npmjs.com/package/@trustcomponent/trustcaptcha-angular) - This library helps you [integrate](https://docs.trustcaptcha.com/en/frontend/integration?frontend=angular) [Trustcaptcha](https://www.trustcaptcha.com/en) into your Angular frontend applications.
 * [yandex-smart-captcha](https://github.com/ngx-rock/yandex-smart-captcha) - An Angular library for integrating [Yandex SmartCaptcha](https://yandex.cloud/en/services/smartcaptcha) with support for standard/invisible captchas, reactive forms, and modern signals/effects.
 
@@ -2058,6 +2062,7 @@ for the creation of web applications developed with Angular.
 * [NgxMatFacetToolkit](https://github.com/drsutphin/NgxMatFacetToolkit) - Angular standalone facet filtering toolkit with Material UI.
 * [ngx-dynamic-stepper](https://github.com/yingyu-projects/ngx-dynamic-stepper) - A powerful, flexible Angular library for creating dynamic wizard-style steppers built on top of Angular Material Stepper.
 * [BuilderKit](https://builderkit.dev/) - A complete UI toolkit and modern design system built on Angular Material, with blocks, templates, and a solid foundation for building Angular applications.
+* [angular-material-extended](https://github.com/reisi007/angular-material-extended) - Community extensions for Angular Material (Standalone, Signals, Zoneless, SSR, M3 Theming).
 
 ### UI Libraries built on Tailwind CSS
 

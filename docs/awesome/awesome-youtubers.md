@@ -818,6 +818,13 @@ Featured playlists: `Machine Learning Systems`, `Graph Neural Networks`, `more v
 Content about: Python for AI and Finance \
 Featured playlists: `Python Programming for Finance`, `Machine Learning with Python`, `Neural Networks from Scratch in Python`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/DvaUGxvtI8_VHscLePaF-JO0kMrzluLkGQWDIOtbHvAkmlRaX_gh3YATlFu8046lrNjBQ0cmIw=s900-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@aiadvantage)
+
+[**The AI Advantage**](https://www.youtube.com/@aiadvantage) \
+Content about: AI / LLM news, tips, and tricks. \
+Featured playlists: `ChatGPT Beginner Course`. \
+<br />
+
 
 ## DevOps
 
@@ -1149,6 +1156,13 @@ Featured playlists: `Dynamic Malware Analysis`, `Reverse Engineering Malware`, `
 Content about: Ethical hacking, Penetration testing \
 Featured playlists: `Game Hacking 100 - Game Hacking Course`, `C++ Pattern Scanning Tutorial`, `Linux Hacking Tutorials`.
 
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/V-d25_Syk6J3e64swQ3bYck22RKA5I8vkedh21iHwhPTFDiV9YsB1K6TNTp4xKp7km5z8SYnZQ=s900-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@EricParker)
+
+[**Eric Parker**](https://www.youtube.com/@EricParker) \
+Content about: Cybersecurity, malware exploration, and virtualization. \
+Featured playlists: `Malware Videos`, `Virtualization Tech Videos`, `YouTube Channel Hijacking Malware`.
+<br/>
+
 
 ## Internet/networking
 
@@ -1255,6 +1269,19 @@ Featured playlists: `Privacy & Security`, `The church of Emacs`, `The command li
 Content about: Linux Tutorials, Distribution reviews, Linux Guides \
 Featured playlists: `Hardware reviews`, `Linux essentials`, `Linux commands for beginners`. \
 <br />
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/ZfxzyYBtuZRA4ju9t5veuPJJEs-UPkExpnkngHIMdw8KILfIKSmaoYJ6MTpQ5MXUkt5mFPpbBA=s900-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@ChrisTitusTech)
+
+[**Chris Titus Tech**](https://www.youtube.com/@ChrisTitusTech) \
+Content about: Linux, Windows, and his utility tools. \
+Featured playlists: `CTT Utility Videos`, `Windows Playlists`, `Linux Playlists`. \
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Channel's avatar" src="https://yt3.googleusercontent.com/gEKEuY4AA5nCx_eXLXtRlEZPLR4Fb9iPehmtpiBynSnzT-r79Y26D-SjLRO1G2odHfN8SbBEz8g=s900-c-k-c0x00ffffff-no-rj"/>](https://www.youtube.com/@BreadOnPenguins)
+
+[**Bread on Penguins**](https://www.youtube.com/@BreadOnPenguins) \
+Content about: Linux \
+Featured playlists: `window manager, dotfiles, and configuration`, `linux programs you should know about!`, `shell scripts, tricks, power usage.`.
 
 
 ## Hardware
