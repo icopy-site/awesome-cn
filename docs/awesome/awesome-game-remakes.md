@@ -9,6 +9,10 @@ If you are also interested in clones and similar games (0 A.D. etc.), take a loo
 
 If you are looking for game archive file formats see: [Awesome Game File Format Reversing](https://github.com/VelocityRa/awesome-game-file-format-reversing/)
 
+If you are looking for not only remakes have a look at:
+- [Awesome Open Source Games](https://github.com/michelpereira/awesome-open-source-games)
+- [OSGL - Open Source Games List](https://github.com/Trilarion/opensourcegames)
+
 ---
 
 

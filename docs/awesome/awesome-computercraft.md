@@ -40,6 +40,7 @@ A note on abbreviations: `CC` is ComputerCraft, `CC:T` is ComputerCraft: Tweaked
 ### Add-on mods
 
 - [Advanced Peripherals](https://www.curseforge.com/minecraft/mc-mods/advanced-peripherals) -  A mod which adds various peripherals and APIs for interacting with other mods. 
+- [Classic Peripherals](https://modrinth.com/mod/classicperipherals) - A mod which adds various peripherals, including a Radio Tower (for long-range communication; Ender Modems are nerfed) and a Cryptographic Accelerator (providing methods for cryptographic operations).
 - [Computronics](https://wiki.vexatos.com/wiki:computronics) -  A mod which adds various peripherals, notably for detecting events in the world and for manipulation of sound. 
 - [Plethora](https://plethora.madefor.cc) -  A mod which adds peripherals and allows many blocks to be accessed as such. In addition, it also allows for manipulation of the player as a peripheral.
     - [Plethora Fabric](https://github.com/SwitchCraftCC/Plethora-Fabric) - A 1.19+ port of Plethora to Fabric.

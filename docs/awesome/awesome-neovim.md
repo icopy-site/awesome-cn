@@ -105,6 +105,7 @@ It has some [builtin plugins](https://neovim.io/doc/user/plugins.html#plugins) a
 - [akioweh/lsp-document-highlight.nvim](https://github.com/akioweh/lsp-document-highlight.nvim) - Instantaneous LSP symbol reference highlighting under the cursor.
 - [nemanjamalesija/ts-expand-hover.nvim](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Progressively expand and collapse TypeScript type aliases inside the hover float.
 - [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Easily install and manage LSP servers, DAP servers, linters, and formatters.
+- [Senal-D-A-Gunaratna/swapson.nvim](https://github.com/Senal-D-A-Gunaratna/swapson.nvim) - Monkeypatches `mason.nvim` to route `npm` and `pip` installs through `bun` and `uv`, speeding up LSP and tool installation.
 - [Crysthamus/nvim-file-operations](https://github.com/Crysthamus/nvim-file-operations) - Add support for workspace file operations using built-in LSPs.
 
 ### Diagnostics
@@ -710,7 +711,6 @@ then it is not supported:
 - [bartekjaszczak/luma-nvim](https://gitlab.com/bartekjaszczak/luma-nvim) - **_`[TS][LSP][L/D][Lua]`_** A colorful theme with dark/light modes and adjustable contrast. Supports Tree-sitter and semantic highlighting.
 - [bartekjaszczak/finale-nvim](https://gitlab.com/bartekjaszczak/finale-nvim) - **_`[TS][LSP][Lua]`_** A balanced dark theme, blending vivid and pastel colors for a comfortable, high-contrast experience. Supports Tree-sitter and semantic highlighting.
 - [m15a/nvim-srcerite](https://codeberg.org/m15a/nvim-srcerite) - **_`[TS][Lua]`_** A colorscheme inspired by [Srcery](https://srcery.sh/), based on `nvim-highlite`.
-- [neko-night/nvim](https://github.com/neko-night/nvim) - **_`[TS][LSP][L/D][Lua]`_** A buffet of colorschemes for every taste and mood.
 - [ptdewey/monalisa-nvim](https://github.com/ptdewey/monalisa-nvim) - **_`[TS][LSP][Lua]`_** A dark and colorful Mona Lisa inspired colorscheme.
 - [ntk148v/slack.nvim](https://github.com/ntk148v/slack.nvim) - **_`[TS][L/D][Lua]`_** A ported Slack colorscheme.
 - [y3owk1n/base16-pro-max.nvim](https://github.com/y3owk1n/base16-pro-max.nvim) - **_`[TS][LSP][Lua]`_** Base16 with 16 colors + syntax, transparency, dimmed inactive panes, semantic aliases, live blends, overrides, and first-class plugin integrations.
@@ -1424,6 +1424,7 @@ then it is not supported:
 - [nemanjamalesija/smart-paste.nvim](https://github.com/nemanjamalesija/smart-paste.nvim) - Automatic indentation of pasted code using a three-tier indent strategy (indentexpr / Tree-sitter / heuristic).
 - [neur1n/hyphen.nvim](https://github.com/neur1n/hyphen.nvim) - Show TeX-style hyphenation breakpoints in text.
 - [ntk148v/yankdown.nvim](https://github.com/ntk148v/yankdown.nvim) - Paste rich clipboard content as clean Markdown.
+- [yaocccc/visual-multi.nvim](https://github.com/yaocccc/visual-multi.nvim) - A fast, core-focused multi-cursor plugin written in Lua with Normal, Insert, and Extend modes.
 
 ### Comment
 

@@ -678,6 +678,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
 
   * [Pingzo](https://www.pingzoapp.com) - Free tier offers 1 uptime/API monitor with 15-minute check intervals and instant email alerts.
   * [Accesserty Pulse](https://accesserty.com/en/pulse) - Accesserty Pulse monitors interaction signals and detectable accessibility risks on live websites. Free plans for everyone and 14-day Pro trial.
+  * [AlertKick](https://www.alertkick.com) - server security (eBPF agent for Linux), uptime monitoring, on-call alerting/status pages in one product. Free tier includes 10 uptime monitors and heartbeats, 5-minute check intervals, 7-day retention.
   * [assertible.com](https://assertible.com) - Automated API testing and monitoring. Free plans for teams and individuals.
   * [Better Stack](https://betterstack.com/better-uptime) - Uptime monitoring, incident management, on-call scheduling/alerting, and status pages in a single product. The free plan includes ten monitors with 3-minute check frequency and status pages.
   * [bleemeo.com](https://bleemeo.com) - Free for 3 servers, 5 uptime monitors, unlimited users, unlimited dashboards, unlimited alerting rules.
@@ -795,6 +796,7 @@ This list results from Pull Requests, reviews, ideas, and work done by 1600+ peo
   * [Bump](https://bump.email/) - Free 10 Bump email addresses, one custom domain
   * [Burnermail](https://burnermail.io/) - Free 5 Burner Email Addresses, 1 Mailbox, 7-day Mailbox History
   * [Buttondown](https://buttondown.email/) - Newsletter service. Up to 100 subscribers free
+  * [Canny Pigeons](https://cannypigeons.com/) - DMARC monitoring platform with DNS drift alerts, IP threat intel and unlimited users. First domain is free - no credit card required.
   * [Conduit](https://conduit.email/) - Turn incoming emails into webhooks to trigger your API from emails. The service is completely free.
   * [Contact.do](https://contact.do/) - Contact form in a link (bitly for contact forms)
   * [debugmail.io](https://debugmail.io/) - Easy to use testing mail server for developers
