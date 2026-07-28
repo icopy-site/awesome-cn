@@ -23,7 +23,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **232** projects · **65** actively maintained · **11** 🔥 hot · **45** 🪦 on the graveyard shelf.
+> Tracking **232** projects · **63** actively maintained · **11** 🔥 hot · **49** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](https://github.com/DavidLambauer/awesome-magento2/blob/master/contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -103,8 +103,14 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [Alokai](https://github.com/vuestorefront/vue-storefront) - Formerly Vue Storefront — headless frontend framework.
 - [ScandiPWA](https://github.com/scandipwa/scandipwa) - React/Redux PWA theme for Magento 2.3+.
 - [Breeze Evolution](https://breezefront.com/themes) - Lightweight Luma-compatible theme targeting 100 PageSpeed.
-- [Front-Commerce](https://www.front-commerce.com/) - French PWA front-end solution for Magento.
 - [Hyvä](https://hyva.io/) - Luma replacement using TailwindCSS and AlpineJS. Commercial license. Active compatibility-module ecosystem.
+
+<details>
+<summary>🪦 Graveyard — projects no longer recommended</summary>
+
+- [Front-Commerce](https://www.front-commerce.com/) - French PWA front-end solution for Magento.
+
+</details>
 
 ## Tools
 
@@ -224,10 +230,10 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 - [Magento 2 Blog Extension by Magefan](https://github.com/magefan/module-blog) 🔥 - Free Blog module for Magento 2 with unlimited blog posts and categories, SEO friendly, lazy load and AMP support.
 - [Mageplaza Blog Extension](https://github.com/mageplaza/magento-2-blog-extension) 🫡 - Simple but well-working Blog Extension.
-- [magento-2-seeder](https://github.com/run-as-root/magento-2-seeder) 🫡 - Laravel-style database seeder for Magento 2 / Mage-OS. Generate realistic products (all types), categories, customers, orders (all states), CMS pages, and reviews via bin/magento db:seed.
 - [module-page-builder-widget](https://github.com/mage-os/module-page-builder-widget) 🫡 - Native Magento Page Builder support for CMS Widgets
 - [Opengento GDPR](https://github.com/opengento/magento2-gdpr) - Magento 2 GDPR module to help be GDPR compliant.
 - [hyva-ai-tools](https://github.com/hyva-themes/hyva-ai-tools) - AI-powered skills for Magento 2 development with Hyva Theme. These skills extend AI coding assistants with specialized knowledge for creating Hyva themes, modules, and CMS components.
+- [magento-2-seeder](https://github.com/run-as-root/magento-2-seeder) - Laravel-style database seeder for Magento 2 / Mage-OS. Generate realistic products (all types), categories, customers, orders (all states), CMS pages, and reviews via bin/magento db:seed.
 
 ### Marketing
 
@@ -300,8 +306,14 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 ### Proprietary Extensions
 
-- [Commercebug Debugging Extension](http://store.pulsestorm.net/products/commerce-bug-3) - A Magento 2 Debug Extension.
 - [Magicento](http://magicento.com/) - PHPStorm plugin to add Magento 2 related functionality.
+
+<details>
+<summary>🪦 Graveyard — projects no longer recommended</summary>
+
+- [Commercebug Debugging Extension](http://store.pulsestorm.net/products/commerce-bug-3) - A Magento 2 Debug Extension.
+
+</details>
 
 ### Progressive Web Application
 
@@ -361,12 +373,12 @@ The storefront of Magento 2 can be styled in numerous ways:
 ## Podcasts
 
 - [Talk Commerce](https://talk-commerce.com/podcasts/) 🫡 - Brent Peterson's interviews with digital commerce practitioners, merchants, and platform experts.
-- [The JetRails Podcast](https://jetrails.com/podcast/) 🫡 - Ecommerce-focused podcast from JetRails covering hosting, performance, and platform strategy.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
 
 - [MageTalk](https://magetalk.com/) - Weekly Magento podcast hosted by Phillip Jackson and Kalen Jordan covering Magento news, interviews, and community topics.
+- [The JetRails Podcast](https://jetrails.com/podcast/) - Ecommerce-focused podcast from JetRails covering hosting, performance, and platform strategy.
 
 </details>
 
@@ -392,7 +404,6 @@ The storefront of Magento 2 can be styled in numerous ways:
 
 - [Max Pronko DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q) 🫡 - Max Pronko's YouTube channel for Magento 2 development.
 - [M.academy](https://m.academy/) - Video lessons and courses for Magento 2 and Adobe Commerce.
-- [Mage2.tv](https://www.mage2.tv) - Magento 2 developer screencasts by Vinai Kopp.
 - [Max Bucknell — Magento 2 JavaScript](https://www.youtube.com/watch?v=tHxebA-jOSo) - Max Bucknell's talk on Magento 2's JavaScript stack.
 - [Yireo Training](https://www.yireo.com/training) - Magento 2 backend and frontend development courses.
 
@@ -403,6 +414,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [fisheye-academy/m2cpfed-training](https://github.com/fisheye-academy/m2cpfed-training) - Resources for the Magento 2 Certified Professional Front End Developer exam.
 - [magento-notes/magento2-cloud-developer-notes](https://github.com/magento-notes/magento2-cloud-developer-notes) - Preparation notes for the Magento 2 Certified Professional Cloud Developer exam.
 - [roma-glushko/magento2-dev-plus-exam](https://github.com/roma-glushko/magento2-dev-plus-exam) - Preparation notes for the Magento 2 Certified Professional Developer Plus exam.
+- [Mage2.tv](https://www.mage2.tv) - Magento 2 developer screencasts by Vinai Kopp.
 - [MageTitans Italia 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVP3Fm_c4HfNPK5JdRD6DIDl) - MageTitans Italia 2016 conference recordings.
 - [MageTitans MCR 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVMOnBRS49ICbNWOU5jhNNWC) - MageTitans Manchester 2016 conference recordings.
 - [MageTitans USA/Texas 2016](https://www.youtube.com/playlist?list=PLwB4Uz_0hoVOLU7LPRNL4lAmJeAv7HQ-b) - MageTitans USA/Texas 2016 conference recordings.

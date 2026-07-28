@@ -692,6 +692,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [wthrr](https://github.com/ttytm/wthrr-the-weathercrab) - Weather companion for the terminal. [![crates.io](https://img.shields.io/crates/v/wthrr?logo=rust)](https://crates.io/crates/wthrr)
 * [YAKC](https://github.com/iammodev/YAKC) - Cross-platform keystroke & mouse-click visualizer for screencasts, streaming, and presentations. Works on Windows, macOS, and Linux (X11 & Wayland). [![CI](https://github.com/iammodev/YAKC/actions/workflows/ci.yml/badge.svg)](https://github.com/iammodev/YAKC/actions/workflows/ci.yml)
 * [YueMiyuki/Risuko](https://github.com/YueMiyuki/Risuko) - A full-featured download manager. [![Release-Badge](https://github.com/YueMiyuki/Risuko/actions/workflows/release.yml/badge.svg)](https://github.com/YueMiyuki/Risuko/actions/workflows/release.yml)
+* [zerx-lab/FluxDown](https://github.com/zerx-lab/FluxDown) - A multi-protocol download manager with a Rust/Tokio engine, supporting HTTP/FTP, BitTorrent, eD2K, HLS and DASH, with IDM-style dynamic segmentation, browser extensions and an aria2-compatible JSON-RPC endpoint.
 
 ### Video
 
@@ -798,6 +799,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [Rust Search Extension](https://github.com/huhu/rust-search-extension) - A handy browser extension to search crates and docs in address bar (omnibox). [![Build Status](https://github.com/huhu/rust-search-extension/workflows/build/badge.svg?branch=master)](https://github.com/huhu/rust-search-extension/actions)
 * [Rustup](https://github.com/rust-lang/rustup) - the Rust toolchain installer [![build badge](https://github.com/rust-lang/rustup/actions/workflows/ci.yaml/badge.svg)](https://github.com/rust-lang/rustup/actions)
 * [scriptisto](https://github.com/igor-petruk/scriptisto) - A language-agnostic "shebang interpreter" that enables you to write one file scripts in compiled languages. [![Build Status](https://cloud.drone.io/api/badges/igor-petruk/scriptisto/status.svg)](https://cloud.drone.io/igor-petruk/scriptisto)
+* [sstraus/tuicommander](https://github.com/sstraus/tuicommander) - Desktop workspace that runs many AI coding agents in parallel, each in its own git worktree, with agent state detection, diffs, PR management and an MCP proxy hub [![CI](https://github.com/sstraus/tuicommander/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sstraus/tuicommander/actions/workflows/ci.yml)
 * [typos](https://github.com/crate-ci/typos) [[typos-cli](https://crates.io/crates/typos-cli)] - Source code spell checker
 * [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - A unified web development toolchain combining Vite, Vitest, Oxlint, Rolldown, and more into a single Rust-powered CLI (`vp`)
 * [VT Code](https://crates.io/crates/vtcode) - Terminal coding agent that pairs a modern TUI with deep, semantic code understanding powered by tree-sitter and ast-grep.
@@ -1998,6 +2000,7 @@ See also [Are we game yet?](https://arewegameyet.rs)
   * [m4rw3r/chomp](https://github.com/m4rw3r/chomp) - A fast monadic-style parser combinator
   * [Marwes/combine](https://github.com/Marwes/combine) - parser combinator library
   * [nrc/zero](https://github.com/nrc/zero) [[zero](https://crates.io/crates/zero/)] - zero-allocation parsing of binary data
+  * [ophi-dev/antlr-rust-runtime](https://github.com/ophi-dev/antlr-rust-runtime) [[antlr-rust-runtime](https://crates.io/crates/antlr-rust-runtime)] - ANTLR v4 runtime with a pure-Rust parser generator: generates parsers directly from `.g4` grammars (no Java required), validated against the official ANTLR conformance testsuite. [![build badge](https://github.com/ophi-dev/antlr-rust-runtime/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ophi-dev/antlr-rust-runtime/actions/workflows/ci.yml)
   * [oxc-project/oxc](https://github.com/oxc-project/oxc) [[oxc](https://crates.io/crates/oxc)] - High-performance JavaScript/TypeScript parser, transformer, minifier, and resolver written in Rust. Powers Rolldown, Nuxt, Nova, and more. [![Build Status](https://github.com/oxc-project/oxc/actions/workflows/ci.yml/badge.svg?event=push&branch=main)](https://github.com/oxc-project/oxc/actions/workflows/ci.yml)
   * [pest-parser/pest](https://github.com/pest-parser/pest) - The Elegant Parser
   * [ptal/oak](https://github.com/ptal/oak) - A typed PEG parser generator (compiler plugin)

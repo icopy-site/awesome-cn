@@ -441,6 +441,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [zx-angular-lazy-resource](https://github.com/zxnc/zx-angular-lazy-resource) - Lazy helpers for Angular's signal-based `resource()` — defer loading until first access, and await the first settled value as a promise.
 * [@stitchapi/angular](https://github.com/rejifald/StitchAPI/tree/main/packages/angular) - Streaming-first StitchAPI bindings: `injectStitch` / `injectStitchStream` expose a typed, validated call as both Angular signals and an RxJS observable, re-rendering as response deltas arrive.
 * [angular-fetcher](https://github.com/aliomnt/angular-fetcher) - A modern, signal-based Angular library for seamless, type-safe remote API data management, handling fetching, mutations, and error tracking reactively.
+* [@some-angular-utils/paginator](https://github.com/some-angular-utils/paginator) - Simple, reliable pagination with two inputs: sliding window, jump buttons, disabled edges, and CSS-variable theming.
 
 ### Micro-Frontends
 
@@ -979,6 +980,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Early AI](https://www.startearly.ai/) - Save time, enhance code coverage, and ensure quality with Early's automatically generated, verified, and validated unit tests. Works with Jest and Vitest.
 * [swc-angular](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular) - This is a set of Angular presets that enable you to use SWC (Speedy Web Compiler) with Jest or Vitest.
 * [swc-angular-plugin](https://github.com/jscutlery/devkit/tree/main/packages/swc-angular-plugin) - SWC (Speedy Web Compiler) is a lightning-fast JavaScript/TypeScript compiler, but it doesn't support Angular so you need this plugin.
+* [vitest-browser-angular](https://github.com/vitest-community/vitest-browser-angular) - This community package renders Angular components in [Vitest Browser Mode](https://vitest.dev/guide/browser).
 * [wdio-harness](https://github.com/badisi/wdio-harness) - WebdriverIO support for Angular component test harnesses.
 * [testronaut](https://github.com/testronaut/testronaut) - By removing mocks and guesswork, [Testronaut](https://testronaut.github.io/testronaut/) enables developers to visually inspect output and write precise tests with Playwright’s robust API.
 
@@ -1180,6 +1182,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ag-charts](https://github.com/ag-grid/ag-charts/tree/latest/packages/ag-charts-angular) - Fully-featured and highly customizable JavaScript charting library.
 * [amcharts5](https://github.com/amcharts/amcharts5) - Charting library for JavaScript and TypeScript apps. Check out the [Angular integration guide](https://www.amcharts.com/docs/v5/getting-started/integrations/angular/).
 * [angular-chrts](https://github.com/dennisadriaans/angular-chrts) - A high-performance, developer-friendly data visualization library for modern Angular applications.
+* [angular-gantt](https://github.com/ErlonRr/angular-gantt) - Zoneless, signal-based Angular 20+ Gantt chart.
 * [angular-google-charts](https://github.com/FERNman/angular-google-charts) - A wrapper for the Google Charts library written in Angular.
 * [carbon-charts](https://github.com/carbon-design-system/carbon-charts/tree/master/packages/angular) - Carbon Charts Angular is a thin Angular wrapper around the vanilla JavaScript @carbon/charts component library.
 * [Foblex Flow](https://github.com/Foblex/f-flow) - Angular-native library for node editors, workflow builders and interactive diagrams: drag-and-drop nodes and connections, minimap, auto-layout, virtualization, and a keyboard accessibility layer.
@@ -1264,6 +1267,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-datatables-net](https://github.com/ascentspark/ngx-datatables-net) - Angular wrapper for `DataTables.net` supporting Angular 20+.
 * [angular-advanced-table](https://github.com/VaggelisKa/angular-advanced-table) -  Angular monorepo featuring `ng-advanced-table`—a signals-first, accessible data table library—and its documentation site.
 * [angular-tree](https://github.com/h-k-dev/angular-tree) - A high-performance, headless tree component that is zoneless, signal-powered, and fully virtualized, with `@angular/cdk` as its sole runtime dependency.
+* [@some-angular-utils/table](https://github.com/some-angular-utils/table) - Remote or local data, pagination, filters, responsive layouts and full template control — wired into one declarative `<sau-table>` element.
 
 ### Dates
 
@@ -1315,6 +1319,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-mat-menu-hover](https://github.com/Gamekohl/ngx-mat-menu-hover) - This Angular directive provides functionality to handle hover menu behavior, allowing menus to open when hovered over and close when the mouse leaves.
 * [ngx-highlight](https://github.com/SynTronic/ngx-highlight) - Angular directives for highlighting search matches in text, built on the [CSS Custom Highlight API](https://developer.mozilla.org/en-US/docs/Web/API/CSS_Custom_Highlight_API).
 * [ngx-liquid-glass](https://github.com/anushsharma27/ngx-liquid-glass) - Angular directive for Apple-inspired liquid glass effects with DOM-backed refraction and configurable edges.
+* [ngx-digits-only](https://github.com/Sepehr-Aghdasi/ngx-digits-only/tree/master/projects/digits-only) - Angular directive for smart numeric inputs — digit filtering, formatting, and validation without pulling in a full masking library like `ngx-mask`.
 
 ### DOM
 
@@ -1509,6 +1514,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [@koenz/angular-datepicker](https://github.com/koenz/angular-datepicker) - An animating datepicker for Angular 21+.
 * [ngx-dual-rangepicker](https://github.com/olivierpetitjean/ngx-dual-rangepicker) - Dual-calendar date range picker for Angular 20+ and Angular Material M3.
 * [ngx-libs-workspace](https://github.com/dineeek/ngx-libs-workspace) - A small family of reactive form controls—built on Signal Forms, customizable via CSS custom properties, and free of Angular Material, Angular CDK, and `ControlValueAccessor`.
+* [@some-angular-utils/date-range-picker](https://github.com/some-angular-utils/date-range-picker) - A date range picker that drops straight into your reactive forms.
 
 ### JSON Forms
 
@@ -2028,6 +2034,8 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [frame-ui](https://github.com/Gamekohl/frame-ui) - A customizable Angular component library built around modern primitives.
 * [coss-ui-angular](https://github.com/lordsarcastic/coss-ui-angular) - Accessible Angular components inspired by the public [COSS UI catalogue](https://www.coss.com/ui/docs).
 * [OpenMFP Web Components Library](https://github.com/openmfp/webcomponents) - A modern Angular 21 web components library featuring declarative UI components built with the latest signal-based APIs.
+* [ngxsmk-ui-kit](https://github.com/NGXSMK/ngxsmk-ui-kit) - 200+ free Angular components. Signals-native. Zoneless. Token-themed. Dark mode built in.
+* [NgBracket](https://ngbracket.com) - Accessibility-first Angular component packs (forms, data table, scheduler, charts, and more), signals-native on v22+ with Signal Forms; WCAG AA, keyboard + screen-reader tested by hand.
 
 ### UI Libraries built on Bootstrap
 

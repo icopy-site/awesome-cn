@@ -187,6 +187,7 @@
 
 ### Tools collection
 * [SmallDev.tools](https://smalldev.tools/)
+* * [TryDocsy](https://trydocsy.com/) - Free, 100% browser-based PDF editing, image processing, and document conversion suite.
 * [WebToolkit Pro](https://wtkpro.site/)
 * [FreeToolBox](https://www.freetoolbox.site/)
 * [Hreflang checker](https://localizely.com/hreflang-checker/)

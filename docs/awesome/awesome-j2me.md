@@ -85,6 +85,7 @@ Proud to be featured in [Awesome](https://github.com/sindresorhus/awesome), [Hac
 - [MeBoy](http://arktos.se/meboy) - Supports emulating GBC with sound, color, and save states.
 - [Telegram Micro](https://github.com/faissaloo/telegram-micro) - Telegram client.
 - [VK4ME](https://github.com/VK4ME/client)  - Unofficial client for Russian social network VK for devices supporting CLDC 1.1 and MIDP 2.0.
+- [W4ME Station](https://github.com/mulfyx/w4me-station) - WASM-4 runtime for CLDC 1.1 / MIDP 2.0 phones, with bundled cartridges and support for loading external `.wasm` files.
 - [Opera FTP Archive](https://ftp.opera.com/pub/opera) - Official FTP archive of various versions of Opera browser for all supported platforms.
 - [Pocket Gopher](https://github.com/felixp7/pocket-gopher) - Open source Gopher and Gopher+ client for J2ME.
 
