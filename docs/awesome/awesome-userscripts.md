@@ -609,7 +609,7 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://assets.bravegpt.com/images/screenshots/desktop/bitcoin-query/darkmode.png?v=a0dd1de"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://gm.bravegpt.com">
+        💾 <a href="https://scriptcat.org/scripts/code/7229/bravegpt.user.js">
             Install</a> /
         📖 <a href="https://docs.bravegpt.com/#readme">
             Readme</a> /
@@ -666,7 +666,7 @@ Userscripts can be used w/ the following browsers:
             <img width=511 src="https://assets.bravegpt.com/images/screenshots/desktop/bitcoin-query/darkmode.png?v=a0dd1de"></a>
     </blockquote>
     <blockquote>
-        💾 <a href="https://gm.bravegpt.com">
+        💾 <a href="https://scriptcat.org/scripts/code/7229/bravegpt.user.js">
             Install</a> /
         📖 <a href="https://docs.bravegpt.com/#readme">
             Readme</a> /

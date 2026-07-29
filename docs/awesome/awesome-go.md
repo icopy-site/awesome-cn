@@ -90,6 +90,7 @@ _Libraries for building programs that leverage AI._
 - [routex](https://github.com/Ad3bay0c/routex) - YAML-driven multi-agent AI runtime for Go with Erlang-style supervision, MCP tool server support, and a CLI.
 - [semantic-search](https://github.com/DavidBelicza/semantic-search) - Meaning-based search over PDF, Markdown, DOCX, source code, and other file types, using generative AI embedding models to vectorize files into a vector database.
 - [skillreaper](https://github.com/thousandflowers/skillreaper) - CLI that scans AI agent session transcripts to identify and safely quarantine unused skills, MCP servers, and agents across Claude Code, Codex CLI, Hermes, OpenCode, Cursor, and OpenClaw.
+- [Smeldr](https://github.com/Smeldr/core) - AI-native content backend with typed lifecycle management, native MCP tools for every content type, and zero runtime dependencies.
 - [trpc-agent-go](https://github.com/trpc-group/trpc-agent-go) - Framework for building LLM-based multi-agent systems.
 - [web-researcher-mcp](https://github.com/zoharbabin/web-researcher-mcp) - MCP server providing AI assistants with web search, content extraction, and multi-source research capabilities. Single binary, 5 search providers with circuit-breaker failover, 4-tier scraping pipeline.
 - [zenflow](https://github.com/zendev-sh/zenflow) - Multi-agent orchestration & workflow engine. Declarative YAML workflows, LLM coordinator with hub-and-spoke mailboxes, race-safe delivery. One YAML file, one Go binary. Runs on any goai-supported provider.
@@ -1987,6 +1988,7 @@ _Libraries for working with various layers of the network._
 - [psql-wire](https://github.com/jeroenrinzema/psql-wire) - PostgreSQL server wire protocol. Build your own server and start serving connections..
 - [publicip](https://github.com/polera/publicip) - Package publicip returns your public facing IPv4 address (internet egress).
 - [quic-go](https://github.com/lucas-clemente/quic-go) - An implementation of the QUIC protocol in pure Go.
+- [roamr](https://github.com/sourabh-khot65/roamr) - CLI that scores nearby saved WiFi networks and tells you which to use, and why.
 - [sdns](https://github.com/semihalev/sdns) - A high-performance, recursive DNS resolver server with DNSSEC support, focused on preserving privacy.
 - [sftp](https://github.com/pkg/sftp) - Package sftp implements the SSH File Transfer Protocol as described in <https://filezilla-project.org/specs/draft-ietf-secsh-filexfer-02.txt>.
 - [ssh](https://github.com/gliderlabs/ssh) - Higher-level API for building SSH servers (wraps crypto/ssh).
@@ -2234,6 +2236,7 @@ _Libraries that are used to help make your application more secure._
 - [leakhound](https://github.com/nilpoona/leakhound) - Static analysis tool to detect accidental logging of sensitive struct fields, preventing data leaks in logs.
 - [lego](https://github.com/go-acme/lego) - Pure Go ACME client library and CLI tool (for use with Let's Encrypt).
 - [luks.go](https://github.com/anatol/luks.go) - Pure Golang library to manage LUKS partitions.
+- [mcprobe](https://github.com/tamish560/mcprobe) - Security scanner for MCP servers with prompt injection detection, tool shadowing, and SARIF output.
 - [memguard](https://github.com/awnumar/memguard) - A pure Go library for handling sensitive values in memory.
 - [multikey](https://github.com/adrianosela/multikey) - An n-out-of-N keys encryption/decryption framework based on Shamir's Secret Sharing algorithm.
 - [nacl](https://github.com/kevinburke/nacl) - Go implementation of the NaCL set of API's.
@@ -3165,6 +3168,7 @@ _Libraries and tools to implement Zero Trust architectures._
 _Source code analysis tools, also known as Static Application Security Testing (SAST) Tools._
 
 - [apicompat](https://github.com/bradleyfalzon/apicompat) - Checks recent changes to a Go project for backwards incompatible changes.
+- [ast-metrics](https://github.com/ast-metrics/ast-metrics) - Static code analyzer for Go and other languages: complexity, coupling, cohesion and maintainability metrics, with HTML, JSON, Markdown and SARIF reports.
 - [asty](https://github.com/asty-org/asty) - Converts golang AST to JSON and JSON to AST.
 - [blanket](https://gitlab.com/verygoodsoftwarenotvirus/blanket) - blanket is a tool that helps you catch functions which don't have direct unit tests in your Go packages.
 - [ChainJacking](https://github.com/Checkmarx/chainjacking) - Find which of your Go lang direct GitHub dependencies is susceptible to ChainJacking attack.

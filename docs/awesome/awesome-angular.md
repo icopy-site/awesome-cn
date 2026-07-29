@@ -152,6 +152,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [Map of GitHub](https://anvaka.github.io/map-of-github/#9.14/-21.9624/9.8143) - Explore the NgSphere to discover repositories with overlapping stargazers.
 * [Good First Issues](https://www.dolmen.tools/en/angular/good-first-issues/explorer) - Find beginner-friendly issues and start contributing to Angular open-source projects.
 * [Angular Popularity Analysis](https://github.com/ProjectBay/angular-popularity-analysis) - An AI-era normalized statistical analysis of Angular’s popularity.
+* [Jobs in JS](https://jobsinjs.com/angular-developer-jobs/) - Angular developer jobs in the US, Canada and UK. Updated daily.
 
 ### Newsletters
 
@@ -820,6 +821,7 @@ Current Angular version: [![npm version](https://badge.fury.io/js/%40angular%2Fc
 * [ngx-better-auth](https://github.com/thomasorgeval/ngx-better-auth) - An Angular 20+ wrapper for [Better Auth](https://github.com/better-auth/better-auth). Provides reactive session handling with signals, clean DI provider setup with observables, and modern guards.
 * [ngx-cognito-auth](https://github.com/SamsonGross/ngx-cognito-auth) - Angular 21+ library for AWS Cognito authentication using the OAuth 2.0 Authorization Code flow with PKCE.
 * [ngxfire](https://github.com/teve-no/ngxfire) - Zoneless AngularFire replacement.
+* [ngx-oauth](https://github.com/Fl0r14n/ngx-oauth) - Zoneless, signal-based OAuth 2.1 library for Angular 22.
 * [ngx-webauthn](https://github.com/JonnyHeavey/ngx-webauthn) - An Angular library offering a type-safe, streamlined abstraction of the native WebAuthn API, with built-in support for standard types and optional presets for common use cases.
 * [omni-auth](https://github.com/ngx-addons/omni-auth) - Angular authentication library providing core functionality for authentication flows, guards, and error handling.
 * [otp-angular](https://github.com/subha-patra/otp-angular) - A lightweight, highly customizable, and dependency-free OTP (One-Time Password) input component built for Angular 20+ applications.
@@ -2071,6 +2073,7 @@ for the creation of web applications developed with Angular.
 * [ngx-dynamic-stepper](https://github.com/yingyu-projects/ngx-dynamic-stepper) - A powerful, flexible Angular library for creating dynamic wizard-style steppers built on top of Angular Material Stepper.
 * [BuilderKit](https://builderkit.dev/) - A complete UI toolkit and modern design system built on Angular Material, with blocks, templates, and a solid foundation for building Angular applications.
 * [angular-material-extended](https://github.com/reisi007/angular-material-extended) - Community extensions for Angular Material (Standalone, Signals, Zoneless, SSR, M3 Theming).
+* [mat-exp](https://github.com/Angular-Material-Dev/mat-exp) - A library of components and styles for Angular Material, built on the latest Material Design 3 Expressive Design System.
 
 ### UI Libraries built on Tailwind CSS
 

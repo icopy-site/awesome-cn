@@ -377,6 +377,7 @@ See also [Games Made With Piston](https://github.com/PistonDevelopers/piston/wik
 * [openobserve](https://github.com/openobserve/openobserve) - 10x easier, 140x lower storage cost, high performance, petabyte scale - Elasticsearch/Splunk/Datadog alternative.
 * [OpenTelemetry](https://crates.io/crates/opentelemetry) - OpenTelemetry provides a single set of APIs, libraries, agents, and collector services to capture distributed traces and metrics from your application. You can analyze them using Prometheus, Jaeger, and other observability tools. [![GitHub Actions CI](https://github.com/open-telemetry/opentelemetry-rust/actions/workflows/ci.yml/badge.svg)](https://github.com/open-telemetry/opentelemetry-rust/actions/workflows/ci.yml)
 * [Quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native and highly cost-efficient search engine for log management. [![CI](https://github.com/quickwit-oss/quickwit/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/quickwit-oss/quickwit/actions?query=workflow%3ACI)
+* [rustrak/rustrak](https://github.com/rustrak/rustrak) - Ultra-lightweight error tracking server compatible with Sentry SDKs.
 * [Scaphandre](https://github.com/hubblo-org/scaphandre) - A power consumption monitoring agent, to track host and each service power consumption and enable designing systems and applications for more sustainability. Designed to fit any monitoring toolchain (already supports prometheus, warp10, riemann...).
 * [vectordotdev/vector](https://github.com/vectordotdev/vector) - A High-Performance, Logs, Metrics, & Events Router.
 
@@ -390,6 +391,7 @@ See also [A comparison of operating systems written in Rust](https://github.com/
 * [DragonOS-Community/DragonOS](https://github.com/DragonOS-Community/DragonOS) - An operating system with a self-developed kernel from scratch and Linux compatibility.
 * [hexagonal-sun/moss-kernel](https://github.com/hexagonal-sun/moss-kernel) - A Unix-like, Linux-compatible kernel written in Rust and Aarch64 assembly.
 * [koibtw/highlightos](https://github.com/koibtw/highlightos) - x86_64 OS kernel written in Rust & Assembly.
+* [NON-OS/nonos-micro-kernel](https://github.com/NON-OS/nonos-micro-kernel) - A capability-based, RAM-resident microkernel where every program is a signed capsule that must prove itself before the kernel will run it, and drivers run in userspace.
 * [redox-os/redox](https://gitlab.redox-os.org/redox-os/redox) - A Unix-like general-purpose microkernel-based operating system with a focus on security, stability, performance, correctness, simplicity and pragmatism that aims to be a complete alternative for Linux and BSD.
 * [thepowersgang/rust_os](https://github.com/thepowersgang/rust_os) - An OS kernel written in rust. Non POSIX
 * [theseus-os/Theseus](https://github.com/theseus-os/Theseus) - A safe-language, single address space and single privilege level OS written from scratch - [![build badge](https://img.shields.io/github/workflow/status/theseus-os/Theseus/Documentation?label=docs%20build)](https://www.theseus-os.com/Theseus/book/index.html)

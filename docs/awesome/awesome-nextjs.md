@@ -260,6 +260,10 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Next.js News](https://nextjsnews.com) - Monthly Next.js newsletter showcasing new and upcoming features, best articles, tools, and plugins.
 - [Next.js Notes](https://nextjsnotes.com) - Monthly Next.js and JavaScript platform news.
 
+## Jobs
+
+- [Jobs in JS](https://jobsinjs.com/nextjs-developer-jobs/) - Next.js developer jobs in the US, Canada and UK. Updated daily.
+
 ## Contributing
 
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](https://github.com/unicodeveloper/awesome-nextjs/blob/master//CONTRIBUTING.md). Thank you!

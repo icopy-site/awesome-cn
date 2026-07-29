@@ -23,7 +23,7 @@
 
 > A curated list of awesome Magento 2 Extensions & Resources.
 
-> Tracking **232** projects · **63** actively maintained · **11** 🔥 hot · **49** 🪦 on the graveyard shelf.
+> Tracking **233** projects · **63** actively maintained · **11** 🔥 hot · **49** 🪦 on the graveyard shelf.
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 - [Contribution guide](https://github.com/DavidLambauer/awesome-magento2/blob/master/contributing.md) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DavidLambauer/awesome-magento2/issues)
@@ -225,6 +225,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [FastSimpleImport2](https://github.com/firegento/FireGento_FastSimpleImport2) 🫡 - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
 - [Disable Search Engine](https://github.com/zepgram/module-disable-search-engine) - Disable Elasticsearch and fulltext indexing for category search.
 - [magento2-module-meilisearch](https://github.com/walkwizus/magento2-module-meilisearch) - The Meilisearch extension for Magento 2 enables replacing Magento's default search engine (OpenSearch) with Meilisearch.
+- [Typesense-Magento-2](https://github.com/run-as-root/Typesense-Magento-2) - Open-source Typesense search integration for Magento 2 and Mage-OS. Instant search, autocomplete, faceted filtering, visual category merchandising, query merchandising, and zero-downtime reindexing — all Hyva-native and CSP-compatible.
 
 ### CMS
 
@@ -241,6 +242,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 - [MagePlaza Seo](https://github.com/mageplaza/magento-2-seo-extension) 🫡 - Well-documented multi-purpose SEO Extension.
 - [magento2-withdrawl](https://github.com/Zwernemann/magento2-withdrawl) 🫡 - Magento 2 module providing a compliant EU withdrawal button required from June 19, 2026 (§356a BGB / Directive (EU) 2023/2673). Enables customers and guests to revoke orders via a simple form (name, order number, email), sends automatic confirmation emails, and allows admin management in the backend.
 - [module-blog](https://github.com/mage-os-lab/module-blog) 🫡 - Blog module for Mage-OS / Magento 2 with posts, categories, tags, authors, scheduled publishing, SEO, RSS, sitemap, 6 widgets, and a full GraphQL API. Luma + Hyvä.
+- [BerryPath Guided Selling](https://github.com/BerryPath/magento2-berrypath-flow) - Open source integration for BerryPath. Add interactive product finders and buying guides to Magento 2 storefronts with product synchronization, assisted conversion tracking + Hyvä compatibility.
 
 <details>
 <summary>🪦 Graveyard — projects no longer recommended</summary>
@@ -447,6 +449,7 @@ The storefront of Magento 2 can be styled in numerous ways:
 ## List of trustworthy Extension Developers
 
 - [CustomGento](https://www.customgento.com/extensions/) - Quality-focused Magento 2 extension vendor; member of ExtDN.
+- [GEISSWEB](https://geissweb.com/) - Extension vendor since 2011 (Magento 1 and 2) from Germany.
 - [Hyva Themes](https://www.hyva.io/) - Creators of the Hyva frontend framework for Magento 2; open-sourced in November 2025.
 - [integer_net](https://www.integer-net.com/) - German Magento agency and extension vendor; ExtDN member; known for Solr search and code quality tooling.
 - [Modulwerft](https://www.modulwerft.com/) - German Magento 2 extension vendor.
