@@ -47,6 +47,7 @@ The repository contains useful information for everyone who is looking for a tec
 - [Resume Worded](https://resumeworded.com) - An online resume grader that instantly scores your resume and gives you detailed feedback on how to get more opportunities.
 - [VMock](https://www.vmock.com) - It delivers personalized career guidance to job seekers across the world.
 - [Grammarly](https://grammarly.com/) - Find grammatical errors in your CV.
+- [Resumegrade](https://resumegrade.ai) -  An AI-based resume grading system that provides actionable feedback to improve your resume.
 
 ## Feedback on your CV
 
