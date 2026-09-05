@@ -751,7 +751,7 @@ This section includes some additional reading material, channels to watch, and t
 ### Newsletters
 **[`^        back to top        ^`](#awesome-data-science)**
 
-- [AI Weekly](https://aiweekly.co) - Curated AI intelligence briefing from industry leaders covering models, funding, policy, and applications. 3x/week since 2017, 40K+ subscribers.
+- [AI Weekly](https://aiweekly.co/) - Discover what AI experts are reading and sharing right now. Models, agents, funding, policy, and research ranked and explained for 53,000+ professionals, three times a week since 2015.
 - [DataTalks.Club](https://datatalks.club). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
 - [The Analytics Engineering Roundup](https://roundup.getdbt.com/about). A newsletter about data science. [Archive](https://roundup.getdbt.com/archive).
 - [Techpresso](https://dupple.com/techpresso). A free daily newsletter covering the most impactful developments in AI, ML, and tech. [Archive](https://dupple.com/techpresso).
